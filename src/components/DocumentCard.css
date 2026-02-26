@@ -1,0 +1,58 @@
+.doc-card {
+  background: #eef5ff;
+  border: 1px solid #c0d4f3;
+  border-radius: 10px;
+  padding: 1rem 0.85rem;
+  display: grid;
+  gap: 0.5rem;
+  box-shadow: 0 8px 22px rgba(22, 82, 163, 0.14);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.doc-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 16px 32px rgba(22, 82, 163, 0.24);
+}
+
+.doc-card h3 {
+  margin: 0;
+  color: #1a0dab;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
+
+.doc-card .meta-line {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  font-size: 0.88rem;
+  color: #5f6368;
+}
+
+.doc-card p {
+  margin: 0;
+  color: #202124;
+  font-size: 0.95rem;
+}
+
+.doc-card .score {
+  color: #137333;
+  font-weight: 600;
+}
+
+.doc-card .link-button {
+  width: fit-content;
+  padding: 0;
+  background: transparent;
+  color: #1a73e8;
+  border: none;
+  font-size: 0.92rem;
+  cursor: pointer;
+}
+
+.doc-card .card-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
