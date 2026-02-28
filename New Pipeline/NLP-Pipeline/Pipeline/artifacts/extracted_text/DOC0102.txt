@@ -1,0 +1,1273 @@
+ 
+INVESTIGATING THE USE OF WATER LETTUCE FOR THE TREATMENT OF 
+WASTEWATER AT KAKOBA TREATMENT PLANT  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRECIOUS MIREMBE 
+S19B32/295 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT OF 
+THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE IN 
+CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+ 
+April, 2024 
+ 
+
+i 
+ 
+ABSTRACT 
+This research focuses on supplementing the wastewater treatment processes at Kakoba 
+Waste Stabilization ponds using phytoremediation (using aquatic plants). There has 
+been a positive response in harnessing the technology of plants to clean wastewater. 
+Improperly treated domestic wastewater is quite harmful to the environment. Scientists 
+are intricately studying this approach and the realization is its cost effectiveness, 
+ecofriendly attributes and ability for it to run with no need for energy. The major aim 
+of this specific study is to investigate how effectively Water Lettuce remove nutrients, 
+and BOD from secondary treated wastewater. It put a test the polishing abilities of 
+domestic wastewater. Treatment was executed in two troughs, one tub without the 
+water lettuce was taken as the control unit and the second labeled the treatment unit 
+that had the water lettuce. The troughs were of dimensions 0.7𝑚× 0.5𝑚× 0.3𝑚. The 
+sewage samples were assessed for three pollutants, T.N, T.P and BOD. After 10 days, 
+the results were impressive from the treatment, they showed that water lettuce 
+removed 80.93% and 77.90% removal efficiency of T.P and T.N respectively. After 15 
+days. Because the effluent from the treatment unit met the discharge standards for 
+T.N, T.P and 𝐵𝑂𝐷5 it was safe to be released into the environment. 
+This study focused on optimizing the existing infrastructure in a to meet the present 
+demands in a cost effective and environmentally sustainable manner.
+
+ii 
+ 
+DECLARATION 
+I, PRECIOUS MIREMBE, hereby declare that this is my original work, is not plagiarized and 
+has not been submitted to any other institution for any award. 
+PRECIOUS MIREMBE 
+S1932B/295 
+Signature: …………………………………….. Date: ………………………………………………
+
+iii 
+ 
+APPROVAL 
+This research project has been submitted for examination with my approval as the 
+University supervisor. 
+Signature: …………………………………….. Date: ………………………………………………. 
+Eng. Robert TUSIIME 
+ACADEMIC SUPERVISOR.
+
+iv 
+ 
+DEDICATION 
+This project is dedicated to my family and friends, whose love and encouragement 
+provided a strong foundation throughout this endeavor. Their unwavering belief in me and 
+their willingness to stand by my side were a constant source of strength, reminding me of 
+the importance of diligence and commitment in achieving one's goals.
+
+v 
+ 
+ACKNOWLEDGEMENT 
+First and foremost, I extend my heartfelt gratitude to the Almighty Lord for granting me 
+the strength, guidance, and perseverance throughout this research journey. There were 
+moments when the path seemed unclear, but prayer provided me with the clarity and focus 
+to persevere. 
+I would like to express my deepest appreciation to my family members, especially my 
+parents, Mr. and Mrs. Fred and Specioza Muwanguzi, for their unwavering love, 
+encouragement, and understanding. Their constant support, whether it was offering to 
+help with childcare or simply listening to my frustrations, has been my source of 
+motivation. 
+I extend my sincere thanks to the members of the Department of Engineering and 
+Environment at Uganda Christian University, particularly Mr. Rogers Tayebwa and Dr. Miria 
+Agunyo, for their guidance and assistance provided during this research journey. Their 
+expertise in water resources and waste management was invaluable in navigating the 
+complexities of this study.   
+Finally, I extend my heartfelt thanks to my supervisor Mr. Robert Tusiime who has willingly 
+guided, corrected, rendered knowledge and guidance towards me concerning the project. 
+His insightful feedback on my research methods significantly improved the quality of my 
+work. I am also grateful for his patience and encouragement, which helped me navigate 
+the challenges that inevitably arose during the course of the research project.
+
+vi 
+ 
+TABLE OF CONTENTS 
+ABSTRACT ............................................................................................... I 
+DECLARATION .......................................................................................... II 
+APPROVAL ............................................................................................. III 
+DEDICATION ........................................................................................... IV 
+ACKNOWLEDGEMENT .................................................................................. V 
+LIST OF TABLES ........................................................................................ X 
+LIST OF FIGURES ...................................................................................... XI 
+GLOSSARY OF TERMS AND ACRONYMS ............................................................. XII 
+ CHAPTER ONE: INTRODUCTION ..................................................................... 1 
+1.1 
+BACKGROUND ............................................................................. 1 
+1.2 
+PROBLEM STATEMENT ................................................................... 3 
+1.3 
+OBJECTIVES FOR STUDY ................................................................. 4 
+1.3.1 
+MAIN OBJECTIVE ....................................................................... 4 
+1.3.2 
+SPECIFIC OBJECTIVES ................................................................. 4 
+1.4 
+RESEARCH QUESTIONS ................................................................... 4 
+1.5 
+JUSTIFICATION ........................................................................... 5 
+ CHAPTER TWO: LITERATURE REVIEW .............................................................. 6 
+2.1 
+INTRODUCTION ........................................................................... 6 
+
+vii 
+ 
+2.2 
+WASTEWATER ............................................................................. 6 
+2.2.1 
+BLACK WATER .......................................................................... 7 
+2.3 
+WASTEWATER PARAMETERS ............................................................ 7 
+2.3.1 
+Colour ................................................................................... 8 
+2.3.2 
+Biochemical Oxygen Demand (BOD) ................................................ 8 
+2.3.3 
+Nitrates ................................................................................. 9 
+2.3.4 
+Total Phosphorous (Total-P) ......................................................... 9 
+2.3.5 
+pH ...................................................................................... 10 
+2.3.6 
+Temperature .......................................................................... 10 
+2.3.7 
+Biochemical Oxygen Demand (BOD) ............................................... 10 
+2.4 
+WASTEWATER TREATMENT ........................................................... 11 
+2.4.1 
+WASTE STABILIATION PONDS ....................................................... 13 
+2.4.2 
+IMPORTANT TERMS ................................................................... 18 
+2.4.3 
+Factors affecting the Efficiency of Waste Stabilization Ponds ................ 19 
+2.5 
+FLOATING MICROPHYTES ............................................................. 23 
+2.5.1 
+Buoyancy Adaptations for Light Capture ......................................... 24 
+2.5.2 
+Nutrient Acquisition Strategies .................................................... 24 
+2.5.3 
+Ecological Importance and Services Provided .................................... 24 
+2.5.4 
+Potential Challenges and Management Considerations ......................... 26 
+2.6 
+SUSTAINABLE MANAGEMENT AND RESEARCH ...................................... 26 
+2.7 
+PHYTOREMEDIATION ................................................................... 27 
+2.7.1 
+Characteristics of aquatic plants; ................................................. 27 
+
+viii 
+ 
+2.7.2 
+Macrophytes .......................................................................... 27 
+2.7.3 
+General uses of water Lettuce ..................................................... 28 
+2.7.4 
+Growing water lettuce happens best under three conditions ................. 29 
+ CHAPTER THREE: METHODOLOGY ................................................................. 33 
+3.1 
+INTRODUCTION ......................................................................... 33 
+3.2 
+DETERMINING BASELINE CONDITIONS OF REMOVAL RATES OF BOD, TN AND TP 
+IN THE EXISTING MATURATION POND. ...................................................... 33 
+3.2.1 
+Assessment of Secondary data. .................................................... 33 
+3.2.2 
+Design adopted for the Kakoba Waste Stabilization Ponds .................... 33 
+3.3 
+PRIMARY DATA .......................................................................... 35 
+3.3.1 
+Sample Collection .................................................................... 35 
+3.3.2 
+Sample Preservation ................................................................. 36 
+3.4 
+DETERMINING THE EFFECTIVENESS OF WATER LETTUCE IN REMOVING BOD, TN 
+AND TOTAL PHOSPHOROUS ................................................................... 40 
+3.5 
+EVALUATING HOW MUCH WATER LETTUCE IS MOST EFFECTIVE IN OPTIMIZING 
+REMOVAL OF BOD, TN AND TP ............................................................... 44 
+3.6 
+DETERMINING HOW MUCH PHOSPHOROUS IS TAKEN UP BY WATER LETTUCE 45 
+ CHAPTER FOUR: RESULTS AND DISSCUSSIONS ................................................... 46 
+4.1 
+INTRODUCTION ......................................................................... 46 
+4.2 
+OBSERVATIONS FROM ANALYSIS OF SECONDARY DATA ON KAKOBA WASTE 
+STABILIZATION POND .......................................................................... 46 
+
+ix 
+ 
+4.3 
+BOD ....................................................................................... 49 
+4.4 
+TOTAL PHOSPHOROUS. ................................................................ 52 
+4.5 
+TOTAL NITROGEN ...................................................................... 57 
+ CHAPTER FIVE: CONCLUSION AND RECOMMENDATIONS ........................................ 64 
+5.1 
+CONCLUSION ............................................................................ 64 
+5.2 
+RECOMMENDATIONS ................................................................... 64 
+ REFERENCES .......................................................................................... 65 
+ APPENDIX ............................................................................................. 71 
+APPENDIX A .................................................................................... 71 
+APPENDIX B .................................................................................... 76 
+ 
+ 
+ 
+
+x 
+ 
+LIST OF TABLES 
+Table 2.1: Characteristics of the Main Pond System. ........................................... 23 
+Table 3.1: Characteristics of Kakoba Waste Stabilization Ponds. ............................. 34 
+Table 3.2: Parameters and the Methods of Analysis. ........................................... 37 
+Table 4.1: Results showing the Physiochemical parameters of wastewater in Kakoba 
+Wastewater Stabilization ponds. ................................................................... 47 
+Table 4.2: Influent, control unit and treatment unit values of BOD.......................... 49 
+Table 4.3: Percentage removal Efficiency of BOD from the Control Unit, Treatment Unit 
+and Acceptable reduction. .......................................................................... 50 
+Table 4.4: A table influent loading of T.P, Treatment values in the Control nit and the 
+Treatment Unit ....................................................................................... 53 
+Table 4.5: T.P Removal in the Control Unit, Treatment Unit Against the Allowable reduction 
+over 10 Days........................................................................................... 54 
+Table 4.6: A table influent loading of T.N, Treatment values in the Control Unit and the 
+Treatment Unit ....................................................................................... 57 
+Table 4.7: % Reduction in the Control Unit, Treatment Unit Against the Allowable reduction 
+over 10 Days........................................................................................... 58 
+
+xi 
+ 
+LIST OF FIGURES 
+Figure 3.1: Sampling from the inlet of the anaerobic pond .................................... 36 
+Figure 3.2: Pilot study of the treatment unit with water Lettuce VS the Control Unit (blue)
+ .......................................................................................................... 41 
+Figure 4.1: A graph of BOD Reduction (%) against Number of Days ........................... 52 
+Figure 4.2: A graph of T.P Reduction (%) against number of days ............................ 55 
+Figure 4.3: A graph of T.N Reduction (%) against number of days ............................ 59 
+Figure A-1:Satellite Image of Kakoba Waste Stabilization Ponds ............................. 71 
+Figure A-2: Satellite Image of Kakoba Waste Stabilization Ponds ............................. 71 
+Figure A-3: Cesspool truck pouring waste water into the facultative pond. ................ 72 
+Figure A-4: Samples from the different treat treatment stages in the laboratory. ........ 72 
+Figure A-5: Water Lettuce day1 vs Water Lettuce at day 10. ................................. 72 
+Figure A-6: Sample from treatment Unit with Lettuce Vs Sample from Control unit. ..... 73 
+Figure A-7: Roor system of Water Lettuce plant. ............................................... 73 
+ 
+ 
+
+xii 
+ 
+GLOSSARY OF TERMS AND ACRONYMS 
+AP 
+Anaerobic Pond 
+BOD 
+Biological Oxygen Demand 
+COD 
+Chemical Oxygen Demand 
+FP 
+Facultative Pond 
+HRT 
+Hydraulic Retention Time 
+MP 
+Maturation Pond 
+NWSC 
+National Water and Sewerage Corporation 
+TDS 
+Total Dissolved Solids 
+TSS 
+Total Suspended Solids 
+WL 
+Water Lettuce 
+WSP 
+Waste Stabilization Ponds 
+WWTP 
+Wastewater Treatment Plant 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+1.1 BACKGROUND 
+The ideal wastewater treatment is one that delivers top-notch quality effluent while 
+keeping costs low and operational demands minimal (Mahassen M., 2018). Wastewater 
+treatment is important for the reduction of contaminants and pollutants of natural 
+water sources. The quality of water in these bodies is significantly affected by the 
+discharge of poorly treated wastewater effluent into these bodies from the different 
+institutional wastewater treatment plants. 
+The high energy demands of WWTP have emerged as a significant financial burden, 
+impacting their overall economic viability (Li, 2017). This highlights the need for 
+exploring more energy efficient treatment processes to minimize operational costs. 
+Large scale, conventional sewage treatment plants can have significant carbon 
+footprint. An average carbon footprint of 0.78kg CO₂ equivalent per cubic meter was 
+discovered by a study conducted in India (Singh et al., 2016). As a response to this 
+predicament, many countries are embracing low cost environmentally friendly 
+technologies. An example is using aquatic plants in the phytoremediation process for 
+treatment of wastewater.  
+Wastewater Stabilization Ponds Technology is another one of the most convenient and 
+vastly growing treatment methods for developing countries (where using the 
+conventional method is costly) (Belay D, 2022). Because of the nature of processes this 
+mode of treatment entails, it’s even more favorable for countries in the tropical region 
+(regions characterized by consistently mild to warm weather throughout the year). This 
+
+2 
+ 
+mode of treatment is natural, self-sufficient, possesses a straight-forward design, 
+minimal operator responsibility to operate the system hence labour expenses are 
+minimized.  
+Phytoremediation is the technology that harnesses plants in remediating soils, water, 
+sediments and sludge. These plants are outfitted with mechanisms for adsorption and 
+translocation of nutrients from the environment. The plants are harvested and can be 
+deposited in various ways for example, vermicomposting done with the help of worms 
+producing a nutrient rich compost suitable for gardening (Lumbricus rubellus and red 
+wigglers) (The Worm Composting Company, 2023) 
+Meeting treatment and effluent discharge standards has proven to be a significant 
+challenge, particularly in developing countries where there is deficiency of technology 
+and qualified personnel (Letshwenyo W., 2018). In developing world, waste stabilization 
+pond (WSP) has been widely used especially where land is abundant, and climate is 
+favorable especially temperature and sunlight. Uganda is one of the countries in the 
+tropical Region that uses Wastewater Stabilization as a treatment method for domestic 
+waste water. However, many of these systems have been performing below the 
+required standards (Letshwenyo W., 2018). The causes are inadequate operation and 
+maintenance practices, and the buildup of sludge in the ponds among many other 
+factors (Letshwenyo W., 2018). Effluent water samples were analysed for; Phosphate 
+mean concentration levels (NEMA-5mg/l) Phosphate mean concentration levels; NO3 
+was 10 mg/l; NH4 concentration was 385.33 mg/l (NEMA -10MG/l); Colour 1627.67 TCUs 
+(NEMA – 50 TCU); Turbidity – 186.63NTUs (NEMA). 
+
+3 
+ 
+1.2 PROBLEM STATEMENT 
+Mbarara Municipality's Kakoba waste stabilization ponds have been performing below 
+the required standards due to chronic buildup of sludge in the ponds (Letshwenyo W., 
+2018). Limited maintenance budgets restrict proper desludging, allowing sludge to 
+accumulate over time.  This coincides with a growing population in Mbarara, placing a 
+continuously increasing burden on the wastewater treatment system's capacity.  
+Despite desludging efforts in June 2023, the sludge problem persists, indicating a 
+potential need for alternative or more frequent management strategies. 
+The consequences of this situation are severe. They include environmental 
+consequences; water pollution from the high organic content in the wastewater 
+effluent, algal blooms due to increased nutrient levels in water bodies (River Rwizi 
+where the effluent is deposited), the foul smell radiating from the waste stabilization 
+ponds, public health concerns include disease outbreaks for example, typhoid 
+dysentery; health risks from pollutants for example, digestive issues. Ineffectively 
+treated wastewater poses a significant threat of environmental contamination. 
+Untreated or inadequately treated wastewater can harbor harmful pathogens, 
+jeopardizing public health in the surrounding communities. This situation necessitates 
+a prompt and effective solution to safeguard public health, environmental quality, and 
+the long-term sustainability of the wastewater treatment system. 
+
+4 
+ 
+1.3 OBJECTIVES FOR STUDY 
+1.3.1 MAIN OBJECTIVE 
+❖ To investigate the use of water lettuce in removal of nutrients from wastewater 
+at Kakoba Treatment Plant. 
+1.3.2 SPECIFIC OBJECTIVES 
+1. To determine baseline conditions of removal rates of BOD, TN and TP in the 
+existing maturation pond. 
+2. To determine the effectiveness of water Lettuce in removing BOD, TN And Total 
+Phosphorous. 
+3. To evaluate how much water lettuce is most effective in optimizing removal of 
+BOD, TN and TP. 
+1.4 RESEARCH QUESTIONS 
+1. What are the baseline conditions of removal rates of BOD, TN and Total 
+Phosphorous? 
+2. What is the effectiveness of water Lettuce in removing BOD, TN And Total 
+Phosphorous? 
+3. How much water lettuce is most effective in optimizing removal of BOD, TN 
+and TP? 
+ 
+
+5 
+ 
+1.5 JUSTIFICATION 
+Nutrient removal from the wastewater generated is important to protect the receiving 
+water bodies from eutrophication. Despite desludging of the ponds, the effluent from 
+the ponds does not meet the discharge standards which is detrimental to the 
+environment. 
+Since Water Lettuce is famous for its phytoremediation ability, it has the ability to 
+break down pollutants like BOD and reduction of nutrients in wastewater through its 
+different parts (roots and leaves). The cumulative effort of the invasive plant 
+contributes enhancing the treatment process in the maturation pond. It provides an 
+additional attribute of breaking down BOD. 
+Water lettuce also has the likelihood for accumulating the nutrients it takes up (Khater 
+and Ali, 2022). This stored biomass is then harvested and prospectively employed as a 
+fertilizer hence fulfilling the objective of sustainability through resource recovery. 
+Aquatic plants are simple in operation, low maintenance and low cost in operation and 
+are self-sustaining. They are suited for the atmosphere given they thrive most in 
+tropical climates which describes the climate of Kakoba.  
+They provide a technology favorable for the limited budgets given that solely depend 
+on natural processes for nutrient uptake and BOD reduction (removal of pollutants). 
+This is in sync with the goal of probing low-energy and conceivably low-cost alternatives 
+for supplementing unconventional wastewater treatment processes. The systems of 
+aquatic plants can also operate at higher loading rates. 
+ 
+ 
+
+6 
+ 
+CHAPTER TWO: LITERATURE REVIEW 
+2.1 INTRODUCTION 
+2.2 WASTEWATER 
+This refers to used water that contains a mixture of both organic and inorganic material 
+that is harmful to the environment (Shah, 2017). It simply means water that is not clean 
+because it has been used in households, factories, runoff from farms, and others. 
+Wastewater is polluted water, and its pollutants are from both point sources and 
+dispersed sources(R L and Mehta, 2020). It is dangerous to the environment when 
+released without treatment. 
+Point sources: this simply means a single identifiable source of pollution for example 
+drain or a pipe (usually industrial wastewater effluent being discharged by a pipe into 
+a river) 
+Dispersed/ non-point sources: Also known as diffuse pollution simply mean inputs that 
+happen over a large/ wide area and can be zeroed down to one source. They are usually 
+attributed to a specific land use for example urban land use, Agricultural land use and 
+factory land use and others. Diffuse pollution is executed by agents like storm water 
+that greatly impact the water quality of the different waterways they flow into (EPA, 
+2021). 
+Wastewater from the different sources affects the quality of surface and ground water 
+this is as a result detrimental to human health and the health of the environment at 
+large(Madhav et al., 2019). Therefore, wastewater management and treatment are a 
+concern for the globe, and is also a key factor of the water cycle. 
+
+7 
+ 
+2.2.1 BLACK WATER 
+Black water refers to wastewater from toilets that contains human waste, urine, and 
+toilet paper(Geary, 1998). It's considered highly contaminated with pathogens and 
+bacteria that can cause illness. Black water can also contain harmful gases like methane 
+and hydrogen sulfide, which can be dangerous in high quantities. 
+The various technologies for the consumption and or reuse of waste water effluent 
+include macrophyte pond, aquaculture, irrigation, discharge for recharge to a water 
+body or ground water (Elizabeth T., 2014). The technologies involved in generating 
+black water include, pour flush toilets, Dry Cleansing materials, cistern flush toilets.  
+The blackwater generated by the users connects to the semi-centralized treatment 
+amenity by a (gravity) simpler sewer network. 
+National Water and Sewerage Corporation the body incharge of treatment of 
+wastewater in Uganda employs two major ways of treatment of wastewater. These 
+include, 
+• Conventional treatment methods: involve a combination of both physical, 
+chemical and biological processes to degrade and remove solid particles and 
+other harmful substances from sewage. 
+• Non-conventional methods employ biological processes to remove harmful 
+substances from the sewage. These mainly take place in stabilization ponds. 
+2.3 WASTEWATER PARAMETERS 
+These refer to the measurable characteristics of wastewater that help determine the 
+quality of wastewater before it is discharged to the environment. They are classified 
+
+8 
+ 
+into physical, chemical, and biological quality parameters. They sometimes depend on 
+the source of generation. 
+The Physical parameters include color, odor and temperature, suspended solids with 
+regards to the current makeup of the environment we focus on the main parameters of 
+wastewater. These are BOD, Total Nitrogen, Total Phosphorous, Heavy metals, Total 
+Suspended Solids, Chemical Oxygen Demand (Alumichem, 2023). These parameters 
+must be reduced and controlled before the wastewater eluent is released into the 
+environment.  They are explained as below. 
+2.3.1 Colour 
+Colour in wastewater is mainly from municipal contamination and industrial impurities 
+of iron and manganese and other corrosive products. Organic matter present in water 
+is usually associated with humus, minerals and other materials which are natural 
+impurities and corrosive products.  
+The variability of color within the sample for the sewage effluents in Kakoba was still 
+very low (CV; 14.67%). The mean color of the sewage effluents was (1627.67˚C). 
+However, the color (TCUs) of the sewage effluents were higher than the EPA (20 - 150), 
+NWSC, 500 [16] and NEMA (300) standards. (Atwebembeire, 2019). Colour does not vary 
+during the wet or dry season because the runoffs from the rain does not affect the 
+effluent because the water is piped directly to the treatment plant. 
+2.3.2 Biochemical Oxygen Demand (BOD) 
+BOD refers to the amount of dissolved oxygen needed by aerobic biological organisms 
+to break down the organic material present in the water over a period of 5 days at a 
+
+9 
+ 
+temperature of 20°C (Alumichem, 2023). This specific parameter indicates the short-
+term impact on the oxygen levels of the receiving water body. It measures the amount 
+of organic contamination in the water (the organics that can be biologically oxidized). 
+High BOD levels lead to decrease of oxygen in receiving water bodies hence death of 
+aquatic life. physical, chemical, and biological methods are employed to cater for 
+removal of this parameter. 
+2.3.3 Nitrates  
+Nitrates is a form of nitrogen and vital nutrient for growth, reproduction, and survival 
+for organisms. Nitrate is a very important parameter because it estimates the organic 
+pollution in a particular area, and it represents the highest oxidized form of nitrogen. 
+Nitrate is one of the very common contaminants in the ground and surface waters.  
+Nitrates occur naturally in source water because of decaying plants. Agricultural 
+sources of nitrates include livestock waste matter and chemical fertilizers. Nitrate 
+concentrations exhibited extremely very high variability within samples of Kakoba 
+(122.47%) sewage effluents and mean values of (10 mg/l) effluents. The mean NO3 levels 
+were higher than the NWSC maximum permissible limit (5 mg/l) but below the EPA 
+standard (50 mg/l) (Atwebembeire, 2019). 
+2.3.4 Total Phosphorous (Total-P) 
+Total phosphorous refers to the measure of all the phosphorous in the wastewater both 
+in particulate form and soluble form. Phosphorous translates into increased growth of 
+algae in the stream. Causing competition with aquatic life hence chocking oxygen in 
+the water source leading to Eutrophication changing the whole ecosystem. 
+
+10 
+ 
+2.3.5 pH 
+pH is the concentration of hydrogen ions and is calculated by the negative logarithm of 
+the hydrogen ion (H+). pH represents an important characteristic of water and small 
+changes in its level can disorganize the quality of water making it unsuitable for use as 
+it influences the availability of micronutrients as well as trace metals.  
+High pH values also increase the toxic nature of other pollutants in the river, basing on 
+an example of ammonia which is much more toxic in alkaline water than acid due to 
+free ammonia NH3. pH is also an important parameter in evaluating the acid-base 
+balance of water.  
+Thus, pH of valve of 7 is neutral, a pH less than 7 is acidic, and a pH greater than 7 
+represents base saturation or alkaline. Kakoba sewage effluents exhibited very low 
+values within sample variability of pH (CV; 3.3% - 5.3%) (Atwebembeire, 2019). 
+2.3.6 Temperature 
+Temperature measured in ˚C is a key factor in biological activity and microorganisms 
+can be psychrophilic, mesophilic, and thermophilic. Aquatic organisms thrive only 
+within specific temperature ranges. Temperature exhibited very low variability within 
+samples of sewage effluents (CV; 18.36%) with statistically insignificant variation of 
+mean temperature in sewage (25.05˚C) (Atwebembeire, 2019). 
+2.3.7 Biochemical Oxygen Demand (BOD) 
+• Concept: BOD is a broader term that refers to the amount of dissolved oxygen 
+required by microorganisms to decompose organic matter in water over a specific 
+period of time. 
+
+11 
+ 
+• Timeframe: The timeframe for BOD can be variable, but it's not typically 
+specified unless mentioned alongside the test method. 
+• Measurement: BOD is a theoretical value and cannot be directly measured. 
+Instead, it's estimated by measuring the remaining dissolved oxygen after a 
+period of incubation with a sample of the water being tested. 
+BOD5 (5-day BOD) 
+Concept: BOD5 is the most common way to measure BOD. It specifically refers to the 
+amount of dissolved oxygen consumed by microorganisms during a 5-day incubation 
+period at a standardized temperature (usually 20°C). It gives a snapshot of the overall 
+consumption rate within a specific timeframe. 
+• Standardized Test: BOD5 is a standardized test with a defined methodology, 
+ensuring consistency and allowing for comparison of results across different 
+studies and locations. 
+• Practicality: BOD5 is a practical and widely used method because it provides a 
+good estimate of the biodegradable organic matter present in water, which can 
+impact oxygen levels and aquatic life. It offers a balance between accuracy and 
+testing time. 
+2.4 WASTEWATER TREATMENT 
+These refer to infrastructure which safeguards health of the public by removing 
+impurities from wastewater before it is re-introduced into various parts of the 
+environment such as, aquifers, rivers, lakes and swamps (Jerry A, 2023). 
+
+12 
+ 
+The modern world relies heavily on a hidden network: wastewater systems. These 
+critical infrastructures safeguard public health and the environment by collecting, 
+treating, and disposing of wastewater. Untreated wastewater, also known as sewage, 
+can contaminate water sources, spread diseases, and harm aquatic ecosystems 
+(CHEMTECH INTERNATIONAL, 2021). 
+Components present in Domestic waste water and their risks. 
+• Microorganisms (viruses, pathogenic bacteria and worm eggs) which cause 
+diseases like cholera typhoid and others. 
+• Biodegradable organic materials which cause oxygen depletion in water bodes 
+leading to death of aquatic life. 
+• Other organic mateials forexample, detergents, pesticides , fat, oil and grease, 
+colouring, solvents cyanide and phenol which cause toxic effects, aesthetic 
+depletion and bioaccumulation in the food chain. 
+• Nutrients forexample, Nitrogen and Phosphorous, ammonium. These cause 
+eutrophication leading to toxic effects from oxygen depletion. 
+• Metals including Hg, Pb, Cd, Ni, and Cu leading to toxic effects to human beings. 
+Such effects include cancers and tumors, damage to the nervous sytem and 
+others. 
+• Odour (and taste) from Hydrogen sulphide which leads to aesthetic 
+inconviniences, stomach upset and toxic effects from air pollution. 
+
+13 
+ 
+2.4.1 WASTE STABILIATION PONDS 
+Waste stabilization ponds are colossal, shallow outdoor basins in which sunlight bacteria 
+and algae synergize to purify raw sewage through natural processes (Kayombo S., 2018), 
+This method of wastewater treatment is a biologically driven treatment approach that 
+represents a natural and cost-effective technique of treatment (Green M., 2008).  
+It comprises of man-made ponds or basins that leverage naturally occurring biological 
+processes mediated by microbial communities to breakdown and remove organic matter 
+and pathogens from wastewater (Ghinea, 2020). In some instances, they could be 
+designed to work as single units or configured in a series for enhanced treatment 
+efficiency of the wastewater (Souza, 2019).  
+WSP offers a remarkable approach for treating wastewater in an environmentally 
+friendly way. The treated wastewater, called effluent, can be reused for various 
+purposes like irrigation, fish farming (aquaculture), and overall water conservation. 
+This benefits the environment and public health. However, reusing the effluent isn't 
+always possible. It can only be reused if it meets specific quality standards.  
+In cases where effluent is to be used for irrigation fish pond fertilization, only the 
+Anaerobic and Facultative ponds are needed (Coldebella et al., 2017). These are also 
+only employed if weak sewage is to be purified before discharge to recharge the surface 
+water sources  (Kayombo S., 2018). Many countries have strict regulations due to the 
+potential presence of harmful organisms (pathogens) in the treated water.  
+This is especially true for unrestricted irrigation of raw vegetables like cabbage and 
+spinach. Therefore, whoever operates the system must closely monitor the biological 
+
+14 
+ 
+and chemical components within the treatment process. This ensures the treated water 
+meets the required standards and regulations. 
+Three distinct pond types are connected. They are categorized as, anaerobic, 
+facultative, and maturation/ polishing pond. They are employed in the WSP system 
+each with unique design characteristics that optimize the biological Treatment process 
+occurring within. 
+2.4.1.1 Anaerobic Pond 
+These ponds are suited to receive and treat waste water that is highly organically 
+loaded that is, the Volumetric loading >100G BOD/m³. day that is equivalent to 
+>3000kg/ha. day for a 3m depth)  (Kayombo S., 2018).  
+Volumetric loading is a very fundamental aspect of designing these ponds and is given 
+by Equation 2.1, 
+𝜆𝑣= 𝐿𝑖𝑄
+𝑉𝑎
+⁄
+ 
+Equation 2.1 
+Where; 
+𝐿𝑖- Influent BOD (mg/l) 
+𝑉𝑎- Pond of the anaerobic pond 
+Q- Flow rate (m³/day) 
+For optimal treatment it is advised that the loading should range between; 100 – 400 
+g/ m³. day. This helps sustain the anaerobic environment (Meiring et al., 1998) 
+(Kayombo S., 2018). 
+These ponds luck dissolved oxygen and algae, this creates an environment suitable for 
+anaerobic bacteria  (Kayombo S., 2018). These bacteria break down organic matter into 
+
+15 
+ 
+simpler compounds while releasing methane and Carbon dioxide (Kadlec, 2009). This 
+done by sedimentation of solids and as a result anaerobic digestion (most pronounced 
+at 15°C). This then is the birth of sludge in the anaerobic pond  (Kayombo S., 2018).  
+It is important to neutralize acidic wastewater since the anaerobic bacteria is affected 
+by a pH <6.2. An efficiently designed anaerobic pond can remove 40% of Organic Matter 
+at 10°C but this efficiently jumps to 60% at 20°C (McCarty, 2011; Lettinga, 1995). 
+This pond typically functions as a deep (2-5 meters) entirely anaerobic environment 
+that reduces solids and BOD. The residence time of the waste water within this pond is 
+quite short, ranging from 1 to 7 days. HRT is calculated on the formular given in 
+Equation 2.2 below; 
+𝑡𝑎= 𝑉𝑎
+𝑄 
+Equation 2.2 
+The specific design parameters which include depth and detention time are determined 
+based on the characteristics of the influent wastewater, specifically the organic 
+loading. 
+Anaerobic bacteria thrive in this pond and this process effectively removes up to 60% 
+of the BOD from wastewater. Due to their ability to handle high organic loads, anaerobic 
+ponds are well suited for treating strong wastewaters (Elizabeth T., 2014). A summary 
+of the percentage reductions at different temperatures compared to the initial Influent 
+loadings is given in Table 2-1. 
+ 
+
+16 
+ 
+Table 2.1: Influent Loading BOD and Percentage Removal at Respective Temperatures 
+TEMPERATURE (°C) 
+𝛌𝒗 (g/m³. day) 
+BOD removal (%) 
+<10 
+100 
+40 
+10 – 20 
+20T – 100 
+2T+20 
+20 – 30 
+10T+100 
+2T+20 
+>25 
+350 
+70 
+2.4.1.2 Facultative Pond 
+These ponds are shallower than anaerobic ponds, 1m- 2m deep with the aim of 
+optimizing these processes (enabling sufficient oxygen mixing to the upper layer). There 
+are two types of Facultative ponds. These include; 
+• Primary facultative 
+These are ponds which take in raw wastewater. These types of units are very commonly 
+used and studied. First models are the basis for their designs (F. J. A. da Silva, 2010). 
+𝐿= 𝐿0 1 + 𝑘. 𝐻𝑅𝑇
+⁄
+ 
+Equation 2.3 
+𝐿= 𝐿0𝑒−𝑘.𝐻𝑅𝑇 
+Equation 2.4 
+Where 𝐿0 𝑎𝑛𝑑 𝐿 are the influent and effluent BOD (mg/l) 
+𝐻𝑅𝑇- Mean hydraulic retention time (days) 
+𝑘- is the first order removal rate (𝑑𝑎𝑦−). This depends on temperature (F. J. A. da Silva, 
+2010). 
+• Secondary facultative 
+These are ponds whose sources include, anaerobic ponds, septic tanks, primary 
+facultative ponds. 
+
+17 
+ 
+They exhibit both aerobic and anaerobic zones mainly because of the presence of 
+surface layer that has DO. The bacteria in this pond find this zone ideal because they 
+can take advantage of both aerobic and fermentation pathways to further decompose 
+the organic material (Vymazal, 2015). 
+The Synergistic relationship between aerobic and anaerobic communities within the 
+facultative pond facilitates significant reductions in BOD- up to 75%.  Detention times 
+within the FP are strategically controlled falling between 5 – 30 days ensuring time for 
+wastewater treatment by both aerobic and anaerobic conditions. 
+2.4.1.3 Maturation Pond 
+They are commonly known as Finishing or Polishing Ponds (Elizabeth T., 2014). It is the 
+final step in the treatment process of WSP systems.  these ponds are designed to be 
+ultimately aerobic. They promote the growth of aerobic bacteria that further degrade 
+organic matter and eliminate pathogens through different mechanisms (Arias, 2014). 
+These ponds are the shallowest component within the WSP constructed with depths 
+ranging from 0.5 – 1.5 meters (Vymazal, 2009). This strategic design ensures that 
+sunlight penetrates the full depth of the pond, maximizing the photic zone for algal 
+photosynthesis (Arias, 2014). As algae undergo photosynthesis during daylight hours, 
+they produce DO a crucial resource for aerobic bacteria residing within the pond. 
+However, DO levels naturally fluctuate throughout the day, reaching peak 
+concentrations during sunlight-driven photosynthesis and declining at night due to the 
+absence of this process (Vymazal, 2015).  
+
+18 
+ 
+On top of this, they also remove nitrogen and phosphorous and this can be amplified by 
+strategic practices (Elizabeth T., 2014). When combined with algae and fish harvesting 
+techniques, these ponds demonstrate remarkable capacity to remove significant 
+portion of remaining nitrogen and phosphorous hence minimized discharge of these 
+pollutants into the environment (Vymazal, 2015).MP are majorly designed for Removal 
+of Pathogens. 
+These ponds have a liner which bar leaching. The line could be compacted earth 
+asphalt, clay, or any other material. A protective bar is constructed around the pond’s 
+perimeter to using the excavated material during pond construction (Vymazal, 2009). 
+This term physically bars, effectively intercepts and diverts runoff away from the pond, 
+hence minimizing potential for erosion along the shoreline (Arias, 2014). The use of the 
+excavated material for berm construction offers cost-effective and sustainable 
+approach to pond protection (Kadlec, 2009). 
+2.4.2 IMPORTANT TERMS 
+2.4.2.1 Drogue 
+A drogue is a device or instrument used in wastewater treatment systems to measure 
+the velocity, flow direction, and turbulence of water within ponds or tanks. It typically 
+consists of a weighted object or float attached to a line, which is submerged into the 
+water and allowed to move freely. By tracking the movement of the drogue over a 
+period, operators can assess the flow patterns and hydraulic characteristics of the 
+wastewater within the treatment system. 
+
+19 
+ 
+2.4.2.2 Pond Geometry 
+Pond geometry refers to the physical shape and dimensions of a wastewater treatment 
+pond. This includes parameters such as length, width, depth, and surface area. The 
+geometry of a pond plays a crucial role in determining its hydraulic efficiency, retention 
+time, and treatment performance. Different geometrical configurations, such as 
+rectangular, circular, or irregular shapes, can impact factors such as flow patterns, 
+sedimentation efficiency, and mixing characteristics within the pond. 
+2.4.2.3 Sludge Accumulation Assessment  
+Sludge accumulation assessment involves the measurement and evaluation of the 
+buildup of organic and inorganic solids (sludge) within wastewater treatment ponds 
+over time (Mahassen M., 2018). This process typically includes regular monitoring of 
+sludge depth, volume, and characteristics to assess the efficiency of sedimentation, 
+solids removal, and overall treatment performance.  
+Techniques for sludge accumulation assessment may include manual sampling and 
+analysis, sedimentation tests, sludge blanket measurement, and use of sedimentation 
+cones or settling velocity meters. Evaluating sludge accumulation is essential for 
+determining the need for desludging or maintenance activities to prevent operational 
+issues and maintain treatment efficiency in the pond. 
+2.4.3 Factors affecting the Efficiency of Waste Stabilization Ponds 
+Several factors significantly influence the efficiency of wastewater treatment in 
+stabilization ponds (WSPs). Below is a breakdown of some key factors: 
+
+20 
+ 
+2.4.3.1 Wastewater Characteristics 
+• Strength: The concentration of organic matter (measured by Biological Oxygen 
+Demand (BOD) or Chemical Oxygen Demand (COD)) in the influent wastewater 
+can significantly affect treatment efficiency(Singh, Singh and Singh, 2021). 
+Higher organic loads require larger ponds or longer retention times for proper 
+treatment by the microorganisms within the ponds (Mara M., 2004). 
+• Nutrients: The presence of nitrogen and phosphorus can impact treatment. 
+While some bacteria in the ponds utilize these for growth, excessive 
+concentrations cause algal blooms, potentially hindering treatment by reducing 
+sunlight penetration and oxygen levels needed for aerobic digestion of organic 
+matter to take place (Chen J., 2013).  
+• Toxic substances: Industrial wastewater may contain toxic chemicals that can 
+inhibit the growth and multiplication of beneficial microorganisms in the ponds, 
+reducing treatment efficiency (Eddy, 2014). These chemicals include, dyes, acids 
+and others. Some of these could drastically affect the physiochemical properties 
+of the water making it dangerous for the microbes. 
+2.4.3.2 Operational Factors 
+• Hydraulic Retention Time (HRT): The amount of time wastewater spends in the 
+pond system is crucial (Anggarini et al., 2015). A longer HRT allows for more 
+complete treatment by providing more time for natural processes to occur. 
+Factors like pond depth and flow rate influence HRT. 
+
+21 
+ 
+• Organic Loading Rate: This simply means the amount of organic matter entering 
+the pond system per unit of surface area (Orhorhoro and Sadjere, 2018). 
+Overloading the ponds with organic matter can overwhelm the natural treatment 
+processes, leading to inefficient removal of pollutants (Mahapatra, Samal and 
+Dash, 2022). 
+• Pond Design: Factors like depth of the ponds, configuration (series of ponds can 
+be more efficient), and the presence of baffles (flow directors) can all influence 
+treatment efficiency. For instance, proper depth allows for stratification, where 
+settlement and biological processes occur at different zones within the pond. 
+For the deeper layers, Anaerobic digestion of organic matter and aerobic 
+digestion for the shallower zones that have oxygen from diffusion in the water 
+column (US Environmental Protection Agency, 1983). 
+𝐻𝑅𝑇= 𝑉
+𝑄 
+Equation 2.5 
+  
+Where;  
+HRT – Hydraulic Retention Time (Days) 
+V – Volume of the wastewater treatment pond (cubic meters) 
+Q – Influent inflow entering the pond (cubic meters per day) 
+2.4.3.3 Environmental Factors 
+• Temperature:  
+
+22 
+ 
+Warmer temperatures generally promote faster biological activity by microorganisms, 
+leading to improved treatment efficiency (Sharaf A., 2014). 
+• Sunlight: Sunlight is essential for algal growth, which plays a role in oxygen 
+production through photosynthesis and nutrient uptake within the ponds (Chen 
+J., 2013). 
+• Wind: Wind can help mix the pond contents and promote oxygen transfer, but 
+excessive wind can also disrupt the settled sludge layer, potentially impacting 
+treatment (Orr S. J., 2019). 
+• pH: The optimal pH range for the microorganisms in WSPs is slightly alkaline (pH 
+7-8). Deviations from this range can affect treatment efficiency by impacting 
+microbial growth and multiplication (Hanif M. A., 2016). Hence digestion of 
+organic matter present in the wastewater is affected. 
+2.4.3.4 Monitoring and Maintenance 
+• Regular monitoring of factors like influent and effluent quality, pond depth, and 
+sludge accumulation is essential to maintain optimal performance. Early 
+detection of issues allows for timely adjustments to operational parameters 
+(Hanif M. A., 2016). 
+• Periodic desludging to remove excess settled solids is crucial to prevent pond 
+capacity reduction and potential short-circuiting of flow within the system, 
+where wastewater bypasses treatment stages (Orr S. J., 2019). 
+
+23 
+ 
+By understanding and managing these factors, operator's optimization of the efficiency 
+of wastewater treatment in stabilization ponds, ensuring proper effluent quality and 
+environmental protection is possible.  
+Table 2.2: Characteristics of the Main Pond System. 
+CHARACTERISTICS OF MAIN POND SYTEM 
+General Criteria 
+Specific Parameter 
+AP - FP 
+FP - MP AP - MP - FP 
+% Removal Efficiency 
+BOD 
+75-85 
+75-85 
+80-85 
+COD 
+65-80 
+65-85 
+70-83 
+T. N 
+ ˂60 
+ ˂60 
+50-65 
+T. P 
+ ˂35 
+ ˂35 
+ >50 
+Requirements 
+Area (sqm/in hab) 
+1.2 
+- 
+3.0 
+2.0 
+- 
+4.0 
+3.0 - 5.0 
+Power (W/in hab) 
+0 
+0 
+0 
+2.5 FLOATING MICROPHYTES 
+Floating macrophytes, also known as free-floating macrophytes or aquatic 
+macrophytes, are a fascinating group of macroscopic plants which are invasive to the 
+water surface of freshwater ecosystems like ponds, lakes, and slow-moving rivers 
+(Khurshid, Ali and Hameed, 2020). Unlike their submerged relatives, these plants are 
+not rooted in the sediment but possess unique adaptations that allow them to thrive on 
+the water's surface (Bornette and Puijalon, 2009). 
+
+24 
+ 
+2.5.1 Buoyancy Adaptations for Light Capture 
+To maintain their floating position at the water-air interface, these unique plants have 
+evolved various ingenious mechanisms. Some species, like water hyacinth (Eichhornia 
+crassipes), boast air-filled bladders on their petioles (leaf stalks) that provide 
+exceptional buoyancy (Sánchez, 2001).  
+Water Lettuce has tiny hairs underneath its leaves that hold bubbles of air forming a 
+basket-like structure that keeps the plants floating on the water surface. Others, such 
+as certain duckweed species (Lemna spp.), have developed lightweight and spongy 
+tissues that keep them afloat (Xu, 2016).  
+These adaptations are crucial for maximizing sunlight access, a critical factor for 
+photosynthesis since light intensity diminishes rapidly as it penetrates the water column 
+(Duarte, 2016). 
+2.5.2 Nutrient Acquisition Strategies 
+Since they lack a connection to bottom sediments, floating macrophytes have 
+developed alternative strategies for nutrient uptake. Many species possess specialized 
+structures on their leaves or stems, like trichomes, that efficiently absorb dissolved 
+nutrients directly from the water column (Lesiv, Polishchuk and Antonyak, 2020). This 
+allows them capitalize on the nutrient-rich surface water layer, ensuring their growth 
+and survival (Duarte, 2016). 
+2.5.3 Ecological Importance and Services Provided 
+Floating macrophytes are vital components of healthy freshwater ecosystems, playing 
+a multifaceted role in maintaining their ecological balance. They provide a crucial food 
+
+25 
+ 
+source and refuge for a diverse range of aquatic organisms, including fish, 
+invertebrates, and amphibians (Duarte, 2016).   
+Additionally, these plants act as natural biofilters, filtering out pollutants and excess 
+nutrients like nitrogen and phosphorus through their tissues and associated microbial 
+communities (Xu, 2016). Their presence at the water surface also helps regulate water 
+temperature by providing shade, which can be particularly important for maintaining 
+suitable habitat conditions for temperature-sensitive species (Boyce, 2010). Such 
+species include; 
+• Salmonoids; these are fish that belong to the salmonoid family for example trout, 
+salmon and char. Even minor temperature increase beyond their optimum range 
+could disrupt their growth rates and spawning cycles. 
+• Macroinvertebrates; Specifically, mayflies (Ephemeroptera). These are aquatic 
+insects which are sensitive water indicators of water quality and some of them 
+have very specific water temperature requirements for their different stages of 
+life (Lenat, 1986). 
+• Amphibians; They depend on external sources for body heat regulation and are 
+vulnerable in extreme temperatures (Blaustein A., 2010). They include frogs and 
+toads. 
+Furthermore, the complex structures formed by floating macrophytes create habitat 
+heterogeneity, promoting a wider range of species and enhancing overall biodiversity 
+within the ecosystem (Gopal, 2005). 
+
+26 
+ 
+2.5.4 Potential Challenges and Management Considerations 
+While undoubtedly beneficial, the uncontrolled growth of some floating macrophytes 
+can pose challenges. Dense mats of these plants can significantly block sunlight 
+penetration, potentially leading to oxygen depletion in the water body (Les D., 2012). 
+This significantly disrupt the delicate balance of the ecosystem and harms other aquatic 
+organisms.  
+Additionally, excessive growth can obstruct navigation and recreational activities on 
+the waterbody (Gopal, 2005). Effective management strategies are crucial to maintain 
+a healthy balance of floating macrophytes in aquatic ecosystems (Les D., 2012). 
+Techniques include; 
+• mechanical harvesting. 
+•  Controlled introduction of herbivorous fish 
+• Manipulation of water levels  
+2.6 Sustainable Management and Research 
+As the focus on ecosystem preservation and sustainable freshwater management 
+intensifies, the ecological roles and functions of floating macrophytes are garnering 
+increasing attention (Duarte, 2016). Recent research delves deeper into the potential 
+of these plants to mitigate climate change impacts, particularly their capacity of carbon 
+sequestration and nutrient recycling within fresh water ecosystems (Hanson P., 2023).  
+With an increased understanding of these macrophytes, management strategies that 
+only ensure their continued ecological merits but also address the challenges associated 
+with their unlimited growth are addressed (Xu X., 2021). 
+
+27 
+ 
+2.7 PHYTOREMEDIATION 
+Phytoremediation is a process that harnesses the natural ability of plants to directly 
+absorb nutrients and accumulate pollutants within their biomass during growth (Feng, 
+2014). It is a general terminology for the various technologies that plants employ to 
+treat soils, water and sludge contaminated with organic and inorganic contaminants 
+(Nivetha C., 2016). Unconventional wastewater treatment systems in this integrate 
+floating microphytes have emerged as a promising approach to wastewater treatment 
+and resource recovery, promoting sustainability and cost-effectiveness (Arias, 2014).  
+These systems mimic natural processes, achieving waste stabilization and nutrient 
+removal through mechanisms similar to conventional methods like activated sludge and 
+trickling filters (Vymazal, 2009). While physical sedimentation and bacterial activity 
+are crucial aspects, aquatic plants offer an additional treatment pathway through 
+phytoremediation (Vymazal, 2015). Following harvest, this biomass can be further 
+utilized or disposed of responsibly. 
+2.7.1 Characteristics of aquatic plants; 
+• Higher tolerance to a large range of temperatures 
+• High rate of growth in wetlands. 
+2.7.2 Macrophytes  
+Are species which grow in water. These plants are extensively distributed with some 
+exhibiting cosmopolitan distribution (found globally) while others demonstrate regional 
+patterns of closely related species. They have diverse habitat preferences within 
+macrophytes. Some species thrive in deep water, while others prefer shallow zones. 
+
+28 
+ 
+Notably, some exhibit emergent growth forms, remaining partially above the water 
+surface. Floating and amphibious growth strategies are also mentioned, showcasing the 
+adaptability of these plants to varying water levels and durations. 
+Morphological and Physiological Diversity: Macrophytes exhibit a high degree of 
+morphological plasticity, meaning their physical form can vary depending on 
+environmental conditions. Additionally, their physiological and metabolic processes 
+demonstrate adaptability in response to environmental changes.  
+2.7.2.1 Water Lettuce 
+Water lettuce (Pistia stratiotes), a native of tropical and subtropical regions, graces the 
+water's surface with its floating, lettuce-like fronds. Its lush mat- like leaves grow and 
+create a shady haven for aquatic life, enhancing the overall beauty of the water body. 
+Additionally, water lettuce is valued for its contribution to improved water quality. Its 
+is attributed for Nutrient removal and reduction of organic matter from wastewater. 
+2.7.3 General uses of water Lettuce 
+Nutrient Bioremediation:  This plant possesses a remarkable capacity for nutrient 
+sequestration. Its root structure facilitates the uptake of excess nitrogen (as nitrates) 
+and phosphorus (as phosphates), both of which can contribute to eutrophication and 
+undesirable algal blooms. The specific mechanisms underlying this nutrient uptake 
+likely involve a combination of active transport processes mediated by membrane 
+proteins and passive diffusion driven by concentration gradients. The precise genes and 
+enzymes responsible for nutrient transport in water lettuce remain uncharacterized, 
+
+29 
+ 
+but plant families like Araceae (to which water lettuce belongs) might possess specific 
+transporter proteins facilitating nitrogen and phosphate uptake. 
+Aesthetic Enhancement:  Water lettuce, with its distinctive lettuce-like foliage, adds a 
+visually appealing element to ponds, lakes, and other water features. 
+Habitat Formation and Biodiversity Enhancement:  The dense root matrix creates a 
+complex bio-architecture that serves as a refuge and breeding ground for diverse 
+aquatic fauna. Fish species utilize these underwater havens for spawning and hiding 
+from predators. Invertebrates like insects and amphibians also benefit from the 
+structural complexity offered by the roots. 
+Light Attenuation and Thermal Regulation:  By forming a dense surface cover, water 
+lettuce acts as a natural shade provider. This shading effect reduces light penetration 
+into the water column, mitigating excessive solar radiation for sensitive aquatic 
+organisms. Additionally, the shade helps regulate water temperature, potentially 
+creating cooler microclimates within the water body. 
+Sediment Stabilization and Erosion Control:  The extensive root network of water 
+lettuce functions as a biological anchor (up-to 24 inches deep), binding and stabilizing 
+bottom sediments. This root matrix also dampens wave action near shorelines, reducing 
+erosion and protecting the integrity of the aquatic environment. 
+2.7.4 Growing water lettuce happens best under three conditions 
+❖ Suitable Environment: 
+The water body, pond or container should be positioned in a way that it is constantly 
+exposed to sufficient sunlight exposure and a warm temperature exceeding 15°C 
+
+30 
+ 
+(60°F). the water should be maintained at nutrient-rich water composition to promote 
+optimal photosynthesis processes leading to heathy plant growth. Water Lettuce 
+requires at least six hours of direct sunlight daily. 
+❖ Gentle Introduction: 
+The plants thrive most on water surfaces that have little agitation. This is because they 
+are floating plants whose roots grow up to 24 inches deep. Therefore, intense surface 
+agitation is a stumbling block for their proper growth and optimal multiplication. It is 
+important to Carefully place the water lettuce on the water surface. The plants 
+naturally float, with their roots dangling freely in the water. 
+2.7.4.1 Water lettuce in pond 
+To ensure water lettuce thrives and flourishes, several key factors require attention: 
+they are as follows  
+• Abundant sunshine is essential for water lettuce. When positioning the pond, 
+aim for 6-8 hours of direct sunlight per day. 
+• This tropical plant thrives in warmth. Ideal water temperatures range from 
+20-30°C (68-86°F). During colder months or climates, the plants might need 
+to be moved indoors or a pond heater might be necessary. 
+• Water lettuce prefers nutrient-rich water. In ponds without fish, 
+supplementing with a water-soluble fertilizer could be beneficial. 
+
+31 
+ 
+• The water lettuce should be regularly inspected for signs of pests or diseases. 
+Yellowing or browning leaves can indicate problems. Early detection allows 
+for prompt intervention and maintenance of healthy plants.   
+• Water lettuce reproduces rapidly and can quickly cover the water surface. 
+Regular pruning is crucial to ensure sufficient light reaches other plants and 
+pond life. 
+2.7.4.2 Potential uses of water Lettuce 
+While traditionally considered a management concern, harvested water lettuce (Pistia 
+stratiotes) presents an opportunity for resource recovery within wastewater treatment 
+facilities. Here's an exploration of its potential applications: 
+Composting:  A straightforward approach, water lettuce can be composted alone or co-
+composted 
+with 
+other 
+organic 
+substrates 
+to 
+generate 
+nutrient-rich 
+soil 
+amendments(HASSAN et al., 2023). 
+Anaerobic Digestion: In large-scale operations, water lettuce can be utilized as a 
+feedstock for biogas production through anaerobic digestion. This process yields 
+methane, a renewable energy source, along with digestate, a nutrient-rich byproduct 
+with fertilizer potential. 
+Livestock Feedstock (with Caution):  Water lettuce offers some nutritional value and 
+can be incorporated as a supplementary feed for swine, rabbits, or aquaculture(Shi et 
+al., 2022). However, its low protein content and presence of oxalic acid necessitate 
+careful dietary management and consultation with animal nutritionists to avoid 
+potential health risks. 
+
+32 
+ 
+Vermicomposting:  Water lettuce can be employed as a substrate for vermicomposting 
+systems(Cong et al., 2022). Earthworms readily consume it, ultimately producing high-
+quality vermicompost rich in both macro and micronutrients, as well as beneficial 
+microbial populations. 
+ 
+ 
+
+33 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.1 Introduction 
+This chapter highlights the systematic steps taken during the study. The study 
+investigated the potential of water lettuce (Pistia stratiotes L.) to enhance treatment 
+efficiency in the maturation pond at Kakoba Waste stabilization Ponds. Baseline 
+conditions were established by both assessing secondary and collection and analysis of 
+primary data. Water lettuce was introduced and monitored. By comparing post-
+implementation effluent quality to baseline data, treatment performance was 
+assessed. Finally, Cost effectiveness of this approach was assessed. 
+3.2 Determining baseline conditions of removal rates of BOD, TN and TP in the 
+existing maturation pond. 
+3.2.1 Assessment of Secondary data.  
+This study benefited from data provided by National Water and Sewage Corporation 
+(NWSC) about the design considerations, treatment methods currently used, historical 
+problems and anomalies or occurrences and operational challenges, Pond dimensions 
+(depth, area and size) of Kakoba WSP, Appendix B-3 and Appendix B-4. This 
+information gave a valuable foundation for understanding the existing treatment system 
+and its limitations. 
+3.2.2 Design adopted for the Kakoba Waste Stabilization Ponds 
+1. Primary Facultative Pond: Length: 128 m, Width: 68 meters, Depth: 7 feet and 
+Retention Time: 7 days 
+
+34 
+ 
+2. Maturation Pond: Length: 74 m, Width:  31meters, Depth: 8 feet, and Retention 
+Time: 3 days 
+3. Maturation Pond (MP): 
+   Length: 68 meters, Width: 31meters, Depth: 9 feet, Retention Time: 3 days. 
+The characteristics of Kakoba Waste Stabilization Ponds are shown in Table 3.1 
+Table 3.1: Characteristics of Kakoba Waste Stabilization Ponds. 
+  
+Particular Details 
+Kakoba WSP 
+1. 
+Year of Commission 
+1991 
+2. 
+Wastewater influent to the ponds 
+200 m3/day 
+4. 
+Number of sewer connections (total) 
+967 
+5. 
+Number of cesspool truck disposal trips per day Approx. 
+4/day; 
+4000L 
+each 
+4 
+Portions of wastewater 
+• Domestic 404 
+• Commercial 526 
+• Institutional 27 
+• Ministry 10 
+5. 
+Wastewater lost through leaks  
+Approx. 1% 
+ 
+Three full scale ponds which include Primary Facultative Pond, the First Maturation 
+Pond and the Last Maturation Pond connected in series were investigated during a 
+period 28 weeks from September 2023 to March 2024 by the staff of NWSC. This was 
+done by analysis of secondary data obtained from The Quality Control Offices NWSC 
+
+35 
+ 
+Mbarara Ruhuro Works Located opposite Nile Breweries Plant. The Data clearly stated 
+the Quality of raw sewage and the final effluent over a period of 25 moths, Appendix 
+B-6 and Appendix B-7.  
+This data covered the tests that had been carried out period before during and after 
+de-sludging was done. Before that the ponds had not been de-slugged in over 9 years.  
+From this data it was observed that station Infleunt and effluent caliber were assessed 
+and the study was inclined more to organic traits of the wastewater. These were mainly 
+portrayed by BOD. Among others, parameters like T.P and T.N were assessed.  
+3.3 Primary Data 
+To ascertain the existing removal efficiency of Kakoba Waste Stabilization Ponds, a 
+study was conducted to determine the current removal rates of BOD, TN and Total 
+Phosphorous. 
+3.3.1 Sample Collection 
+Clean plastic samples were labelled and rinsed with distilled water and then used for 
+the sampling process. They were labelled Raw Sewage, Anaerobic Pond, Facultative 
+Pond and maturation pond. Grab samples of waste water were collected from 4 key 
+sampling points to say, inlet to the primary the inlet and out let of the primary 
+facultative pond, the outlet of the first maturation pond and the outlet of the second 
+maturation/polishing pond, Figure A-4. This ascertained obtaining of the 
+characteristics of the influent and effluent waste water existing in each pond of the 
+treatment system and that of the effluent exiting the ponds. 
+
+36 
+ 
+ The samples were collected in January and in March. In January, the samples were 
+collected twice a day, in the morning and at noon. Thrice a day on 30th March, 2024. 
+ 
+ 
+Figure 3.1: Sampling from the inlet of the anaerobic pond 
+3.3.2 Sample Preservation 
+Some of the samples were assessed on site for Temperature and pH using Palin test pH 
+pocket meter. The samples were carefully stored in a cooler box at a temperature of 
+26°C To minimize any alterations of the concentrations of the samples in each 
+container. They were then transported to the NWSC laboratory, Ruhuro for analysis of 
+BOD, TN and TP. The methods used are summarized in Table 3.2. 
+
+37 
+ 
+Table 3.2: Parameters and the Methods of Analysis. 
+PARAMETER 
+METHOD 
+BOD 
+APHA-5210-B 
+TP 
+APHA-4500-P-E 
+TN 
+In house method (Diazotization Method) 
+BOD analysis 
+• Sample collection: 4 samples from the inlet of the Primary facultative pond, its 
+outlet and from the inlets and outlets of the two maturation ponds; were 
+collected using clean BOD bottles (300ml). The bottles were filled completely to 
+minimize air bubbles. Sample collection was done in the morning, at noon day 
+and in the evening. 
+• The samples collected in the morning and in the afternoon were stored at a 
+temperature of 40C while waiting to collect the evening samples. 
+• Sample preparation: To ensure the final DO level remained above a minimum 
+threshold after incubation, dilution water free of oxygen and with similar pH to 
+the sample was used. The dilution water was seeded with the microbiological 
+population responsible for degrading organic matter. 
+• Initial DO Measurement: using a properly calibrated DO meter the concentration 
+of DO was quantified for both the diluted samples and the blank sample (dilution 
+water only).  
+• Incubation: BOD bottles were filled with diluted samples and one with blank 
+ensuring no air bubbles remained. The bottles were then sealed tightly to 
+
+38 
+ 
+prevent exchange of oxygen with the atmosphere. The bottles were incubated 
+for 5 days in an oven at 200C. 
+• Final DO measurement: After incubation, the DO concentrations of the 
+incubated samples and blanks was measured using the method. 
+• Calculations: BOD was calculated using the difference between the initial DO 
+value and the Final DO together multiply by the dilution factor. 
+TP analysis 
+• Sample preparation: to determine the total phosphorous content of the sample 
+(both dissolved and particulate fractions) the samples were acidified with HCl to 
+a pH of 2. This was done to preserve the integrity of the sample and ensure 
+accurate measurement. 
+• Chemical reactions: Ammonium molybdate and potassium antimonyl tartrate 
+reacted with orthophosphate in an acidic medium forming hetropoly acid known 
+as phosphomolybdic acid. 
+(𝑁𝐻4)6𝑀𝑜7𝑂24(𝑎𝑞) + 𝑆𝑏(𝐶4𝐻4𝑂6𝐾)2(𝑎𝑞) + 𝐻3𝑃𝑂4(𝑎𝑞) + 𝐻(𝑎𝑞)
++
+→ 𝐻3(𝑃𝑀𝑜12𝑂4𝑂)
++ 𝑜𝑡ℎ𝑒𝑟 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑠.  
+𝑯𝟑(𝑷𝑴𝒐𝟏𝟐𝑶𝟒𝑶) – Phosphomolybdic acid (simplified formula for the heteropoly 
+acid product) 
+• Ascorbic acid was used to reduce phosphomolybdic acid  to an intensely coloured 
+blue complex. 

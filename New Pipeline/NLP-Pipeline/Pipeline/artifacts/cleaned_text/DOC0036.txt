@@ -1,0 +1,1275 @@
+ASSESSING THE USE OF CEMENT KILN DUST TO STABILIZE SANDY SOILS
+FOR SUBGRADE CONSTRUCTION
+
+RACHEL BAMANISA KABAGAMBE
+S21B32/032
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+Sandy soils are characterized by their low bearing capacity and high permeability and
+are very prone to erosion. In geotechnical and construction applications, these soils
+present considerable challenges. Many stabilization techniques use energy-intensive
+substances like lime and cement, which present problems for the environment and
+the economy. This research investigate the feasibility of using cement kiln dust (CKD),
+an industrial by-product produced during the cement manufacturing process, as a
+sustainable alternative for stabilizing sandy soils. Because CKD is high in calcium oxide
+and silica, it has potential pozzolanic properties that may improve soil cohesiveness
+and mechanical performance while resolving disposal-related waste management
+issues. This study assesses the geotechnical characteristics of CKD-stabilized sandy
+soils through laboratory tests, including the Proctor test, Unconfined Compressive
+Strength (UCS), California Bearing Ratio test, and permeability test. To find the ideal
+percentage for maximizing strength and durability, various percentages of cement kiln
+dust, ranging from 5% to 20%, were combined with sandy soil samples. After a 7-day
+curing period, the results showed a 45% improvement in UCS and a 58.5%
+improvement in CBR values, indicating that the optimum percentage of cement kiln
+dust to be added was 15%. Furthermore, the permeability significantly dropped by
+93%, indicating improved soil. According to the MoWT general specifications for Road
+and Bridge Works 2005, the soil's PI, CBR swell and linear shrinkage were all
+determined to be within allowable limits.
+
+
+ii
+
+DECLARATION
+I declare that this research proposal is the result of my own efforts, free of
+plagiarism, and has never been presented to any other institution for any academic
+research except at this University.
+Student name: BAMANISA KABAGAMBE Rachel
+Registration number: S21B32/032
+Signature:....................................
+Date:..................................
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+This research report by BAMANISA KABAGAMBE Rachel has been under my supervision
+and submitted to the Department of Engineering, Design and Technology as partial
+fulfillment for award of Bachelor of Science in Civil and Environmental Engineering.
+Academic Supervisor: Mr. ZZIGWA MARVIN
+SIGNATURE............................................. DATE..........................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+ACKNOWLEDGMENT
+First and foremost, we would like to thank the almighty God for keeping my (partner
+and I) healthy from the beginning of this research, it is by His love and power we are
+able to come up with this work.
+I thank my father and brothers who stood in for us by assisting with financial support
+and encouragement thus enabling us to have a successful research experience. This
+has been a big motivation for the project’s success.
+I thank my mother who was encouraging me every day about my studies but the LORD
+did not allow her to be present till the end. May her soul continue resting in peace!
+I thank the Department of Civil and Environmental, the project coordinators and Panel
+and classmates that always sat to listen to our project defense. We appreciate all the
+guidance and corrections they gave us each time we met or approached them.
+For all the success we attained in this project, we appreciate our academic
+supervisor, MR. ZZIGWA MARVIN for his relentless support, untiring zeal and motivation
+to achieve excellent success in whatever we were working on. We appreciate his
+availability to collaborate and advice, making the research journey so light and
+without burden. Such great efforts can only be rewarded by the Lord God Almighty.
+Appreciation goes out to Mr. BAGONZA Henry, my project partner for being
+collaborative, understandable and active throughout this research process.
+Special thanks and appreciation go to the staff of Stirling Mbalala, Ministry of Works
+and Transport materials lab for their complete support through guidance in carrying
+out the tests to achieve the objectives and allowing us use their facilities.
+
+v
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+ACKNOWLEDGMENT ............................................................................... iv
+Table of contents .................................................................................. v
+LISTE OF FIGURES ................................................................................. ix
+LISTES OF TABLES .................................................................................. x
+ABREVIATIONS ..................................................................................... xi
+CHAPTER ONE: INTRODUCTION .................................................................. 1
+1.1
+BACKGROUND ............................................................................. 1
+1.2
+PROBLEM STATEMENT .................................................................... 3
+1.3
+MAIN OBJECTIVE.......................................................................... 4
+1.3.1
+SPECIFIC OBJECTIVES ............................................................... 4
+1.3.2
+RESEARCH QUESTIONS .............................................................. 4
+1.4
+JUSTIFICATION ............................................................................ 4
+1.5
+GEOGRAPHICAL SCOPE .................................................................. 5
+CHAPTER TWO: LITERATURE REVIEW ............................................................ 6
+2.1 THEORETICAL LITERATURE REVIEW ....................................................... 6
+2.1.1 Soil ....................................................................................... 6
+
+vi
+
+2.1.2 Sandy soil ............................................................................... 6
+Table 1: ASSSHTO Classification of Sandy soil ......... Error! Bookmark not defined.
+2.2 CEMENT KILN DUST (CKD) .................................................................. 7
+2.2.1. How is CKD generated? ............................................................... 8
+2.2.3. Environmental problem related to the use of CKD .............................. 8
+2.2.4. Justification for the reuse of Cement Kiln Dust (CKD) for soil stabilization . 9
+2.3. PROCESS OF STABILIZATION ............................................................ 10
+2.3.1. Mechanical Stabilization ........................................................... 11
+2.3.2. Chemical Stabilization ............................................................. 12
+2.3.3. Lime as chemical stabilizer ....................................................... 12
+2.3.4. Cement as a stabilizer ............................................................. 13
+2.3.5. Bituminous stabilization ........................................................... 14
+CHAPTER THREE: METHODOLOGY ............................................................. 15
+3.1 INTRODUCTION ............................................................................ 15
+3.2 TEST PLAN ................................................................................. 17
+3.3 MATERIALS AND METHODS ............................................................... 17
+3.3.1 Materials .............................................................................. 17
+3.2.2 Methods ............................................................................... 18
+3. To evaluate the engineering properties of sandy soil stabilized with varying
+proportions of cement kiln dust. ............................................................ 24
+
+vii
+
+CHAPTER FOUR: RESULTS AND DISCUSSION .................................................. 26
+4.1. INTRODUCTION ........................................................................... 26
+4.2. NEAT SANDY SOILS ....................................................................... 26
+4.3. ENGINEERING PROPERTIES OF THE NEAT SANDY SOIL ............................... 27
+4.3.1 Particle Size Distribution ........................................................... 27
+4.3.2 Atterberg limits ...................................................................... 28
+4.3.3 Proctor test ........................................................................... 29
+4.3.4 California Bearing Ratio CBR ....................................................... 29
+4.3.5 Permeability test .................................................................... 30
+4.4 CHEMICAL COMPOSITION OF CEMENT KILN DUST ..................................... 31
+4.5 STABILIZED SANDY SOIL .................................................................. 32
+4.5.1 Engineering properties of sandy soils stabilized with varying percentages of
+cement kiln dust graph .................................................................... 32
+4.5.2 Effect of cement kiln dust on proctor values on the compaction
+characteristics graph ....................................................................... 33
+4.5.3 Effect of cement kiln dust on the optimum moisture content graph ........ 34
+4.5.4 Effect of cement kiln dust on CBR graph ......................................... 34
+4.5.5 Effect of cement kiln dust on UCS graph ......................................... 36
+4.5.6 Effect of cement kiln dust on permeability graph .............................. 37
+4.6 Research Design ........................................................................... 39
+
+viii
+
+4.7 FIELD-SCALE TRIAL ........................................................................ 40
+CHAPTER FIVE: CHAPTER FIVE: CONCLUSION AND RECOMMENDATION ................... 41
+5.1 CONCLUSION ............................................................................... 41
+5.2 RECOMMENDATIONS ....................................................................... 42
+REFERENCES ...................................................................................... 43
+APPENDIX .......................................................................................... 47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF FIGURES
+Figure 1: showing the Piacho Road map ........................................................ 5
+Figure 2: Particle Size Distribution ........................................................... 19
+Figure 3: Cone Penetrometer .................................................................. 20
+Figure 4: Proctor Test ........................................................................... 21
+Figure 5: CBR Test ............................................................................... 22
+Figure 6: XRF Test ................................................................................ 23
+Figure 7: Uncofined Compressive Strength .................................................. 24
+Figure 8: Plastic Index Result Variation Graph .............................................. 33
+Figure 9: MDD Variation Result Graph ......................................................... 34
+Figure 10: OMC Result Variation ............................................................... 35
+Figure 11: CBR Result Variation graph ........................................................ 36
+Figure 12: UCS Result Variation Graph ........................................................ 37
+Figure 13: Permeability Variation Result Graph ............................................ 38
+
+
+
+
+
+
+
+x
+
+LIST OF TABLES
+Table 1: ASSHTO Classification of Sandy Soil ................................................... 7
+Table 2: Test plan of various tests with the proportions used to mix them. ............ 17
+Table 3: Neat sandy Soil Summary ............................................................ 27
+Table 4: Neat Sandy Soil Permeability Result ................................................ 31
+Table 5: Neat Soil Chemical Composition .................................................... 31
+Table 6: Research Design Summary............................................................ 39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+ABBREVIATIONS
+MDD: Maximum dry density
+OMC: optimum moisture content
+L L: Liquid limit
+PL: plastic limit
+PI: plasticity index
+CBR: California bearing ratio
+MoWT: Ministry of Work and Transport
+AASTHO: American Society of State Highway and Transport Official
+ASTM: American society for testing and materials
+BS: British Standard
+CKD: Cement Kiln Dust
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 BACKGROUND
+
+As a developing nation, Uganda's infrastructure is emerging very fast, especially in
+road development. The roads play an essential role in the growth of trade locally as
+well as with surrounding areas, and to facilitate the expansion of the public as well as
+business sectors (Foster & Ranganathan, 2021). But the state of roads, especially in
+East Africa, that can be attributed to a deficiency of proper geotechnical investigation
+and the use of subquality materials during construction usually renders such
+infrastructure ineffective.
+The condition of subgrade essentially influences the performance of pavements on
+roads. To keep the pavement system maintained and guaranteed to have a long life, a
+properly designed subgrade is required (Khodary et al., 2020). Therefore, one must
+evaluate the engineering properties of the soil, including its bearing capacity, before
+construction to see if it is appropriate for use to support structural loads.
+In construction, cohesiveless soils, such as sandy soils, pose significant challenges.
+These soils are of low bearing capacity and shear strength due to their poor grading
+and non-plasticity. They are prone to fines migration, which could lead to stability
+problems. Differential settlement under loading will be more probable in sandy soils
+due to their inherent heterogeneity in strength and compressibility. Though the
+replacement of such soils with imported materials is one way of improving
+geotechnical conditions, it is usually expensive and time-consuming (Mohamed et al.,
+2023).
+
+
+Sandy soil comes from breakdown of rocks due to weathering process. We talk about
+weathering when there is break down of rocks into smaller particles that can be taken
+by water or wind. When these particles accumulate with time, they lead to the
+formation of sandy soils(Vakili et al., 2023).
+Sandy soil is classified by its sand particles quantity, generally made of more than 75%
+sand, while the remaining composition is made of a blending of silt and clay.
+This specific soil type causes challenges for construction industries because of its low
+high drainage, low water absorption, low bearing capacity, high settlement potential,
+and increased vulnerability to erosion. Consequently, this results in a naturally
+unstable ecosystem. This make this soil type not suitable for construction work(S.
+Wang et al., 2023).
+Stabilizing sandy soils might be the better way to increase its bearing capacity.
+Different stabilizers and methods have been used to modify the physical
+characteristics of these types of soils and make them more practical for construction
+purposes(S. Wang et al., 2023).
+The main objective of stabilizing sandy soil is to improve its performance in the
+construction industry by increasing its bearing capacity and decrease its permeability,
+increase its cohesion properties and decrease its excessive settlement when subjected
+to a load. There are many techniques of stabilizing sandy soil mechanically and
+chemically and one of them the use of cement kiln dust as stabilizer (Abdila et al.,
+2022).
+
+
+Cement kiln dust (CKD) is a Portland cement by-product generated during the cement
+production process. It is estimated that CKD constitutes approximately 15–20% of the
+total cement output, resulting in the generation of hundreds of millions of metric tons
+in alignment with the annual global cement production figures. However, not all
+components of CKD are suitable for recycling within the cement manufacturing
+process due to their elevated levels of alkalis, sulphate, and chloride, which can lead
+to excessive concentrations in the final product (Kunal et al., 2012). Research findings
+indicate that CKD possesses both physical and chemical characteristics that render it
+useful in various applications, including soil stabilization, concrete mixtures, chemical
+treatment, and the production of ceramics and bricks, as well as mine backfill(Al-
+Bakri et al., 2022).
+1.2 PROBLEM STATEMENT
+Sandy soils, distinguished by their coarse particle sizes, minimal cohesion, and high
+permeability, frequently present considerable difficulties in construction and
+engineering endeavors. The soils are susceptible to instability, resulting in issues like
+excessive settlement, erosion, and diminished load-bearing capacity. Because of their
+low natural stability, roads built on sandy soils are prone to surface erosion and
+ultimate failure, particularly in areas with significant rainfall(S. Wang et al., 2023).
+Paicho Road, a 23.7km road located in Gulu District, faces many difficulties,
+especially during the rainy season, because of the presence of ferruginous and sandy
+soils, which have a low bearing capacity and a high susceptibility to erosion. A lot of
+water seeps in and settles on the road after heavy rains. The underlying clayey sand
+(SC) is composed of loosely packed particles that are easily dislodged, causing
+
+
+deformation under heavy loads and rendering the roads impassable, according to a
+2022 Onen study. This study aims to assess the potential use of cement kiln dust (CKD)
+to stabilise and improve the performance of these sandy soils.
+1.3 MAIN OBJECTIVE
+To assess the use of cement kiln dust in sandy soil stabilization
+1.3.1 SPECIFIC OBJECTIVES
+1. To determine engineering properties of neat sandy soil.
+2. To determine chemical properties of cement kiln dust.
+3. To determine the engineering properties of sandy soil stabilized with varying
+percentages of cement kiln dust and polypropylene fiber.
+1.3.2 RESEARCH QUESTIONS
+1. What are the engineering properties of the neat sandy soil to be stabilized?
+2. What are the chemical properties of cement kiln dust?
+3. What are the engineering properties of sandy soils when stabilized with
+different percentages of cement kiln dust?
+1.4 JUSTIFICATION
+Cement Kiln Dust (CKD) is a byproduct produced during the cement production
+process, characterised for its high levels of free lime (CaO), silica (SiO2), and alumina
+(Al2O3). When CKD is mixed with water, it generates calcium oxide (CaO) and
+different alkalis, which then interact with moisture to form calcium hydroxide
+(Ca(OH)2). The subsequent rise in calcium ions in the pore water promotes pozzolanic
+
+
+reactions, where the silica and alumina present in CKD engage with calcium hydroxide
+and the sandy soil. This interaction results in the formation of Calcium Silicate
+Hydrates (C-S-H), which are essential for binding soil particles, thus improving the
+shear strength and load-bearing capacity of the sandy soil.(Rimal et al., 2019). It is
+also a cost-effective way to achieve high-strength soils and other construction
+materials by reducing the construction cost; it is environmentally friendly product and
+provides excellent chemical resistance too many common solvents. This alteration
+successfully decreases permeability, thus minimizing the risks linked to erosion and
+excessive(Benziane et al., 2019).The use of CKD for stabilizing sandy soil also
+promotes environmental sustainability by reusing an industrial byproduct often
+discarded in landfills. This method provides a more economical substitute for
+conventional stabilizers like cement or lime.
+1.5 GEOGRAPHICAL SCOPE
+This study is centered on sandy soils from Paicho road in Gulu District in Northern
+Uganda as shown in Figure 1 map, with latitude 2.9000° N, and longitude 32.4500° E.
+
+Figure 1: showing the Paicho Road map
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 THEORETICAL LITERATURE REVIEW
+2.1.1 Soil
+Soil is described as a collection of mineral grains that are either loosely bonded or
+only lightly bound, formed through the weathering of rocks. The gaps among these
+particles hold both water and air. Soils can exist in different conditions: dry, partially
+moist, or completely saturated. In dry condition, the spaces are filled with air; in
+fully saturated state, they are filled with water; and in partially saturated state, the
+spaces hold a combination of air and water. The condition of soil differs considerably
+in various geographical regions. Soils that lack plasticity because they have no clay
+minerals are categorized as cohesive less soil(Anthony et al., 2023).
+2.1.2 Sandy soil
+Sandy soil is described as frictional or cohesionless soil because its particles lack
+adhesion. These soils exhibit reduced shear strength and bearing capacity, have poor
+water retention, display no plasticity, and show minimal or no shear strain among
+particles. Traditional stabilization methods for sandy soil, such as utilizing fly ash,
+bitumen, and lime cement, generally require prolonged curing durations. As a result,
+the use of polymers for stabilizing sandy soils has grown in popularity in modern
+practices, since they do not need extended curing periods and are chemically stable.
+The application of polymers for soil improvement is not limited to sandy soils; it has
+also been successfully utilized in clay soils to enhance several physical characteristics,
+including boosting shear strength and bearing capacity, decreasing settlement,
+minimizing swelling, and tackling problems related to weak soils(J.-P. Wang et al.,
+2020).
+
+
+Settlement in sandy soils is known to happen quickly because of their effective
+drainage capabilities. The degree of this settlement is significantly affected by the
+structural properties of the soil. In the scenario of dense sandy soils, the resulting
+deformation is slight; however, as the sand's density reduces, the deformation
+typically rises. If the density of saturated sand drops below a critical level under
+certain stresses, the load will shift to the pore water and cause liquefaction, which
+could lead to the collapse of the soil structure(Luat et al., 2020).
+In saturated cohesionless soils or when water is added to the soil, vibrations can also
+result in liquefaction. After the excess pore water pressure decreases, the soil
+densifies( Soleimani et al., 2018). The PI of Sandy soil lays within A-1 to A-3 as shown
+in table 1.
+Table 1: ASSHTO Classification of Sandy Soil
+Properties
+Values
+Percentages passing
+No.200
+Liquid limit LL
+Plasticity index PI
+Classification
+Max 15%
+Max 6%
+A-1a, A-1b, A-3
+Source: ASSHTO system of soil classification
+
+
+
+
+2.2 CEMENT KILN DUST (CKD)
+Cement kiln dust (CKD), a byproduct of Portland cement production, is usually
+disposed of in landfills. This substance has a fine, powdery texture similar to Portland
+cement. CKD poses several challenges, such as possible health hazards, storage issues,
+and environmental contamination. The increasing demand for cement around the
+world has resulted in a noticeable buildup of kiln dust at cement manufacturing
+facilities. This fine dust is a major environmental hazard and is challenging to
+eliminate. Research is being done all over the world to find economical ways to use
+cement kiln dust in a range of applications, including agriculture, pavement
+construction, soil stabilization, waste material stabilization, cement manufacturing,
+and the production of cement-based products(Ahmed et al., 2023).
+2.2.1. How is CKD generated?
+The method entails burning raw materials in a rotary kiln to produce clinker. Around
+2.6 to 2.8 tons of raw materials are needed to produce one ton of cement. Between
+5% and 10% of these finely milled substances will become airborne and remain
+suspended as dust within the gases. Usually, for each ton of clinker created, a typical
+kiln
+releases
+approximately
+0.06
+to
+0.07
+tons
+of
+cement
+kiln
+dust(CKD)(Sreekrishnavilasam & Santagata, 2006).
+2.2.3. Environmental problem related to the use of CKD
+CKD has been observed to significantly impact both flora and fauna within the
+ecosystem. The recorded impacts include stunted development in plants and animals,
+diminished chlorophyll levels in vegetation, obstructed stomata on leaves, changed
+cellular metabolism in both plants and animals, respiratory illnesses in animals, blood
+
+
+issues, various cancers, and vision problems, among additional concerns (Al-Bakri et
+al., 2022).
+Moreover, dust emissions primarily take place during different stages of the cement
+production process, including raw mills, the kiln system, the clinker cooler, and
+cement mills. Typically, these processes involve the passage of heated exhaust gases
+or air through crushed materials, resulting in a mixture of gas and particles (Mater,
+2019). The characteristics of the produced particulates are closely tied to the source
+substances, such as raw materials, clinker, or cement. These emissions present
+significant health hazards to humans and deteriorate the quality of the air. Acid
+precipitation, climate change, ozone depletion, loss of biodiversity, and reduced
+agricultural output are a few examples of the local and global environmental effects
+of these emissions(Uliasz-Bocheńczyk & Deja, 2024).
+2.2.4. Justificatin for the reuse of cement kiln dust (CKD) for soil stabilization
+
+Rimal et al. investigated the use of CKD to treat 2 types of natural soils across
+multiple curing times. Numerous laboratory tests were completed to look at changed
+in unconfined compressive strength in specimens where the soil tested was treated
+with CKD to varying concentrations. Research was done on soils in both dry and
+submerged stage states (wet), and specimens were tested both with and without CKD.
+The research found that the addition of CKD added considerable unconfined
+compressive strength to the natural soil (El-aziz & Abo-hashema, 2018).
+
+
+Additionally, researchers, in their research of the mechanistic action of CKD in clay,
+found that CKD had properties similar to concrete, which was demonstrated by the
+formation of hydration products and the subsequent decrease in void space. As a
+result, the plasticity index decreased and the strength increased over time. Using the
+ASTM D4546 procedure, the swelling potential of the clay reduced significantly from
+above 7% to 0.4% with 25% CKD. Likewise, the swell potential had decreased from
+about 9.0% to 2.5% during a CBR test (Alaneme et al., 2022).
+Optical examination of voids in the CKD-stabilized clay samples indicated that void
+space decreased as CKD concentration increased. When untreated, the clay soil had
+voids of approximately 7% but the samples treated with 25% CKD had voids that
+ranged from only 1% to 2.3% (Rimal et al., 2019). This reduction in empty spaces may
+explain the strength increase that was observed. Interestingly, this reduction seems to
+be more impacted by the level of CKD, or depth of treatment, than by the treatment
+duration or timing in relation to when it was placed. This reduction in voids may come
+from many valid interactions occurring simultaneously, such as the new products being
+formed from hydration and associated products filling the void spaces, and the CKD
+particles reshaping the clay and stabilized mass. Further characterization of the
+various conditions of the clay samples treated with CKD is warranted (Ranjkesh
+Adarmanabadi et al., 2022).
+2.3. PROCESS OF STABILIZATION
+
+Soil stabilization involves changing or retaining one or more properties of soil to
+improve the engineering properties and functionality of soil. For instance, improving
+the shear strength of soil and modifying its shrink-swell characteristics can those
+
+
+properties overall increase the ability of subgrades to support loads for pavements
+and foundations (Reiterman et al., 2022). There are numerous methods available to
+accomplish soil stabilization. The methods to stabilizing soil can be generally broken
+down into two groups: mechanical stabilization and chemical stabilization. Mechanical
+stabilization methods include compaction and fibrous or other non-biodegradable
+reinforcements typically made of geomaterials to improve strength. Chemical
+stabilization improves the behaviors of clay soils using chemicals and emulsions as
+binders and water repellents.
+2.3.1. Mechanical Stabilization
+To create a material that exhibits the requisite soil properties, various soil gradations
+are blended further and mechanically stabilized in an effort. This process improves
+the soil's stability and load-bearing ability by mechanically separating and blending
+the natural soil with a stabilizing agent to form a homogenous mixture (Chatterjee et
+al., 2006). Furthermore, mechanical stabilization will increase the specified
+engineering properties by compacting the soil aggregate particles and producing a
+dense soil mass. To assist in the compaction process, finer aggregates or materials can
+be introduced to create a uniform, well-graded, and dense soil-aggregate mixture.
+Careful consideration should be exercised when selecting construction techniques
+based on the gradation of soil or soil-aggregate/materials. If it improves the
+engineering properties of the soil, geotextiles may be incorporated (Maalekian et al.,
+2007).
+
+
+2.3.2. Chemical Stabilization
+
+The procedure of improving soil properties encompasses the use of various chemicals,
+such as cement, lime, and fly ash, which aid in improving properties, such as
+plasticity and swelling index, etc. This stabilization process improves workability in
+the compaction process, reduces the impact of swelling and shrinkage, reduces dust
+emissions, and increases the strength and stiffness of the soil. The plasticity index of
+the soil serves as a critical factor in determining the appropriate stabilizer. For
+example, when dealing with soil that has a plasticity index exceeding 10% and more
+than 25% passing through a sieve of 200, lime is typically the preferred stabilizer
+(Haak & Indraratne, 2023). Conversely, for cohesive soils, cement may be utilized.
+Additionally, the strength requirements post-stabilization will be influenced by the
+specifications of the pavement.
+2.3.3. Lime as chemical stabilizer
+Lime serves as a chemical stabilizer in soil treatment, with various types employed,
+including hydrated high calcium lime, monohydrated dolomite lime, calcite quick
+lime, and dolomite lime. Typically, the amount of lime utilized for soil stabilization
+ranges from 5% to 10%. The process of lime modification enhances soil strength
+through cation exchange capacity(Pushpakumara & Mendis, 2022).
+Lime stabilization can also involve a pozzolanic reaction, where pozzolanic materials
+interact with lime in the presence of water, resulting in the formation of cementitious
+compounds. This reaction can occur with either quick lime or hydrated lime
+(Ca(OH)2).
+
+
+Sherwood's research highlights the reduction in plasticity achieved initially through
+cation exchange, wherein sodium and hydrogen cations are substituted by calcium
+ions, which have a lower affinity for water in clay minerals. However, the use of lime
+as a soil stabilizer has its constraints. As noted by Morse et al. (2007), there is a
+significant likelihood that the interaction between calcium ions and black humic acid
+produced from lime leads to the formation of insoluble calcium hemic acid. The
+breakdown of organic materials can impede the polymerization of silicates, thereby
+obstructing the formation of cementitious compounds.
+Lime can effectively serve to permanently stabilize fine-grained soils for use as a
+subgrade layer in pavement systems. The reaction between silica and alumina
+released from the soil and calcium from lime results in the creation of calcium silicate
+hydrates (CSH) and calcium aluminate hydrates (CAH), both of which are cementation
+products akin to those generated in Portland cement. This method strengthens layers
+of lime-stabilized soil to convert the sandy, granular soil into a rigid, relatively
+impermeable layer that can support considerable weight (Malkanthi et al., 2020).
+2.3.4. Cement as a stabilizer
+
+When cement is mixed with water, hydration occurs, which produces excess calcium
+hydroxide (Ca (OH)2) and other cementing agents such as calcium silicate hydrates
+(CSH) and calcium aluminate hydrates (CAH). During the soil cement stabilization
+process, the bonding of soil particles provides substantial compressive strength. This
+process is initiated by the hydration of cement particles, which form interlocking
+crystals. As the cement hydrates, soil-cement ultimately sets into a durable material.
+The stabilization process reduces the soil void ratio as the cement fills the voids
+
+
+between the soil particles when unexpected compaction is taking place. Introducing
+water enables the cement to solidify making the soil heavier. Hardening cement also
+increases the shear strength, and bearing capacity of the soil. Cement reduces the
+liquid limit making clay-rich soils easier to work with (Santos et al., 2020).
+Nonetheless, there are drawbacks of using cement as a stabilizer. Heave and
+disintegration may occur when an addition is a calcium-based additive, such as
+cement, when used with soils that contain sulfates, compromising the soil strength.
+Sulfates may come from the natural composition of the soil or from groundwater
+(Radwan et al., 2021).
+2.3.5. Bituminous stabilization
+The application of bituminous stabilization is defined as the precise incorporation of a
+specified amount of bituminous material with existing soil or aggregate to develop a
+stable base or surface layer. In addition to increasing the cohesion stability of soil and
+load support capability of soil, bitumen increases its resistance to water intrusion.
+Bituminous stabilization can be conducted with asphalt emulsions, asphalt cement, or
+asphalt cutback (Venkatesh, 2017).
+Scientists indicate that the best type of bitumen for stabilizing soil is impacted by the
+type of soil being treated, the technique that is employed to build the soil, and the
+existing weather conditions. Bituminous materials act as a waterproofing agent by
+stabilizing the soil by binding its particles together or protecting it from the adverse
+effects of water. The types of soils that usually yield the best results have a plasticity
+index of less than 18% and a liquid limit of less than 40% (Gautam & Jaysawal, 2008).
+
+
+CHAPTER THREE: METHODOLOGY
+
+3.1 INTRODUCTION
+This part outlines, in detail, laboratory testing and procedures, material acquisition,
+sampling, and data analysis, which were employed in this work. The protocol and
+details of its administration are included in the methodology (Hibbett, 2024).
+Standard laboratory tests and standard laboratory processes were employed for data
+collection on materials. The following procedure was used to generate the study:
+
+
+
+
+
+
+SAMPLING
+BS 1924:
+1. TO DETERMINE ENGINEERING
+PROPERTIES OF SANDY SOIL.
+The tests carried out include:
+-Particle SizeDistribution test,
+-Atterberg limits test,
+-Proctor test,
+-CBR test and
+-permeability test all with reference to BS 1377-
+1990.
+2. TO DETERMINE CHEMICAL
+PROPERTIES OF CEMENT KILN DUST
+-X-Ray Spectrometer test was carried out
+with reference to ASTM E1621 – 16.
+3. DETERMINING THE ENGINEERING
+PROPERTIES OF SANDY SOILS
+STABILIZED WITH VARYING
+PERCENTAGES OF CEMENT KILN
+DUST.
+Different percentages of cement kiln dust
+from 5%, 10%, 15% and 20% were added.
+-UCS and CBR tests were done.
+RESULTS ANALYSIS
+AND DISCUSSION
+APPLICATION DESIGN
+CONCLUSION and
+RECOMDATION
+
+
+3.2 TEST PLAN
+The table below, table 2, shows the plan of various tests with the proportions used to
+mix them.
+
+Table 2: Test plan of various tests with the proportions used to mix them.
+Mix ID
+CKD (%)
+Weight of
+Sample (kg)
+Weight of CKD
+(Kg)
+Tests to Perform
+test
+test
+test
+test
+test
+
+3.3 MATERIALS AND METHODS
+3.3.1 Materials
+1. Sandy Soil
+The soil was collected from a borrow pit along the Paicho Road at two different
+locations at a depth of 1m in a disturbed state using a shovel and hoe. This borrow pit
+was the source of the material used in the road. The total weight of the collected soil
+samples was about 350 kg. It was transported for testing in 5 sealed bags.
+
+
+On arrival at the laboratory the material was placed on large trays and to air dry to
+bring the soil at constant moisture content so that soil tests could be carried out on
+the dried sample.
+2. Cement Kiln Dust
+Cement kiln dust was obtained from Simba Cement Plant, Tororo. The use of precalciner kiln dust is recommended as it contains more SiO2, Al2O3, free lime and is
+concentrated in volatile alkaline substances, giving better stabilizing properties.
+3.2.2 Methods
+1. To determine engineering properties of the neat soil.
+1.1. Particle size distribution
+This test was carried out in accordance with BS1377: Part 2: 1990.
+The purpose of this test was to determine how much of each particle size was present
+in the sample.
+After preparation of the sample, it was passed through the different sieve sizes and
+the weight retained on each sieve noted as shown in Figure 2. From this, the
+cumulative percentage passing was calculated.
+Sample retained = weight of the sieve with the sample - weight of the sieve without
+the sample.
+Percentage retained = (mass retained)/ (initial sample mass) ×100
+Cumulative % passing = 100-% percentage retained
+
+
+The grading modulus of the sample was also obtained from
+Grading Modulus= 3-(summation of % retained on 2+0.425+0.075/100)/100
+
+Figure 2: Particle Size Distribution
+1.2 Atterberg limit tests
+They were done with reference to BS1377: Part 2: 1990.
+The Atterberg limit tests were composed of 3 different soil tests that is: liquid limit,
+shrinkage limit and plastic limit. These tests were done to obtain the plasticity index
+of the neat soil.
+-
+Cone penetrometer
+-
+0.045mm Sieve
+-
+Drying oven
+-
+Liquid limit (LL)
+A sample of 200g of the air-dried sample that had passed the 0.0425mm sieve was
+obtained and was prepared in accordance with the standard. The cone penetrometer
+test process is shown in figure 3.
+A graph of penetration against moisture content was plotted and LL determined as the
+moisture content at a penetration of 20mm.
+
+
+
+Figure 3: Cone Penetrometer
+1.3 Plastic limit (PL)
+This was carried out with reference to BS1377: Part 2: 1990. This was the water
+content at which soil begun to behave plastically. As water was added, the same
+material from the liquid limit test was molded with the hands. It started to crack
+when it was rolled to a thickness of around 3 mm. The rolled samples were weighed
+before being placed on a mold and dried in an oven for 24 hours. After oven drying,
+the final weight was measured, and the amount of water added computed and
+documented as the plastic limit.
+1.4 Proctor compaction test
+This was carried out with reference to BS1377: Part 4: 1990. This test was used to
+obtain the optimum moisture content and the MDD that can be achieved upon
+compaction of the soil as shown in Figure 4.
+-
+Proctor mold
+-
+Oven
+
+
+-
+Filter paper
+-
+Weighing scale
+Five layers of the sample were inserted into the mold, and each layer blown 27 times
+with a 4.5kg rammer. The sample was taken out and dried in the oven for 24 hours.
+The dried sample’s weight was noted, and the dry density computed for the given
+moisture content. The dry unit weight and water content were plotted on a graph
+after this is repeated multiple times. The optimum moisture content was identified as
+the moisture content when the dry density was at maximum.
+
+Figure 4: Proctor Test
+1.5 California bearing ratio
+The test was done because it helps inform the soils ability to resist penetration and
+therefore it indicates the strength of the soil. It was carried out with reference to
+BS1377: Part 4: 1990
+-
+CBR mold
+-
+Rammer
+
+
+-
+Soaking pit
+-
+CBR machine
+Using the OMC from the proctor test a sample was prepared in a mold and compacted.
+The sample was then soaked in water for duration of four days after which its surface
+was dried and prepared for penetration. The CBR machine was used to measure
+resistance of the soil to penetration as shown in Figure 5.
+
+Figure 5: CBR Test
+1.6 Permeability test
+A sandy soil sample containing some ratios of Cement Kin Dust and polypropylene
+fiber is placed in a permeameter. Water will flow across the sample in controlled
+conditions and the flow rate will be measured. Then, Darcy's law will be applied to
+determine the permeability (k). This test examines how the CKD alters the water
+seepage properties of the stabilized soil. To verify the suitability of stabilized soils in
+drainage and erosion applications, the permeability will be analyzed (Giriprasad &
+Niranjan, 2021).
+Permeameter cell
+
+
+Two discs of wire gauge diameters equal to the inner diameter of the cell body
+A vertical adjustable tank
+A discharge with an overflow valve to maintain the level
+A set of transparent manometer tubes
+Digital weighing scale
+2. To determine chemical composition of the cement kiln dust
+2.1. XRF TEST
+It was done to determine the chemical composition of the Cement Kiln dust. The
+results of this test provided information on the percentage of different oxides in the
+material.
+The sample was be subjected to x-rays using an x-ray spectrometer as shown in Figure
+6. The sample then emitted florescent x- rays where each element reacted by
+releasing a specific fluorescent print. An X-ray analyzer then captured these signals
+and they were analyzed to determine the chemical composition of the sample.
+
+Figure 6: XRF Test
+
+
+3. To evaluate the engineering properties of sandy soil stabilized with varying
+proportions of cement kiln dust.
+3.1. Unconfined Compressive Strength TMH1: method A14:1986
+
+The Unconfined Compression Test is a strength test carried out in the lab. It shows the
+maximum axial force that a soil sample can withstand under zero confinement.
+Figure 7 is showing the preparation for the sample to be soaked for 4 days. When
+carrying out the UCS test, plates on which the sample is to be tested are cleaned and
+then subjected to a continuous load at 0.5 MPa/s until 1.0 MPa/s until the sample was
+seen to fail.
+The values of the normal force and resultant shear stress were noted and recorded.
+
+Figure 7: Uncofined Compressive Strength
+
+
+
+
+
+
+
+3.2. Permeability Test in accordance with BS 1377-5:1990.
+
+A sandy soil sample, incorporating different ratios of Cement Kin Dust and
+polypropylene fiber, is placed within a permeameter. Water is allowed to flow through
+the sample under controlled conditions, and the flow rate is recorded. Next, Darcy's
+law is applied to find the permeability (k).
+This test looks at how CKD affects the stabilized soil's water seepage properties.
+Verifying the efficacy of stabilized soil in drainage and erosion control applications
+requires analyzing permeability changes (a-Te et al., 2020).
+3.3. California Bearing Ratio (CBR) according to BS 1377-4: 1990
+
+The CBR test evaluates the strength of sandy soils stabilized with various
+concentrations of CKD and polypropylene fiber for use in road construction and other
+cases involving heavy loads. After obtaining a compacted sample of the stabilized soil,
+the sample is placed in a water bath. After placing a cylindrical plunger into the
+sample, the amount of resistance the sample provides is measured. The CBR value is
+calculated as the ratio of the measured pressure to the standard bearing pressure
+(Baghbani et al., 2023).
+
+
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.1. INTRODUCTION
+In this chapter, we summarize and review the findings from a substantial number of
+laboratory experiments and studies carried out on both stable and unstable soil
+samples. These tests consist of, for strength, the California bearing ratio and proctor
+compaction tests; for durability, the Unconstrained Compressive Strength (UCS) test;
+and for soil classification, the Atterberg tests and sieve analysis. The findings were
+compared to the standard values provided by AASHTO and to the 2005 existing
+specification for roads and bridges as published by the Ministry of Works and
+Transport.
+4.2. NEAT SANDY SOILS
+
+Soil samples were analyzed at Stirling laboratory located in Mbalal, Mukono having
+been collected from Paicho Road, Gulu. The tests carried out include particle size
+distribution, Atterberg test, compaction test, and CBR test. The properties or
+summary of the neat sandy soils analyzed are shown in the table 3 below.
+
+
+
+
+
+
+
+Table 3: Neat sandy Soil Summary
+Test
+Result
+General Specifications
+for Roads and Bridge
+works (MoW&T)
+Plasticity Index
+7.2%
+Maximum 25
+Maximum Dry Density
+2.008g/cm3
+-
+Optimum Moisture
+Content
+10.2%
+-
+AASHTO classification
+A-2-4 material
+-
+USCS
+SC
+-
+CBR
+9.9%
+Minimum 15
+CBR swell
+0.75%
+Maximum 1.5
+UCS
+0 MPa
+Minimum 0.5 MPa
+Permeability
+7.3 x10-5m/s
+-
+4.3. ENGINEERING PROPERTIES OF THE NEAT SANDY SOIL
+4.3.1 Particle Size Distribution
+According to the particle size distribution graph, 22% of the particles pass through
+sieve No. 200, 55% pass through sieve No. 40, and 80% pass through sieve No. 10. The
+Plasticity Index is 7.1%, the Liquid Limit is 21.3%, and the Plastic Limit is 14.2%.
+AASHTO classification yields an A-2-4 material, which is a well-graded sand, since the
+percentage passing sieve No. 200=22%<35% suggests that the material is granular.
+Applying the USCS (Unified Soil Classification System).
+
+
+According to the Unified Soil Classification System (USCS), the material is classified as
+coarse-grained soil because over half of it was retained on the 75μm sieve. The soil
+was classified as a SC, which is a sandy soil that contains some clay.
+4.3.2 Atterberg limits
+
+The liquid limit is the maximum moisture content at which soil will flow under its own
+weight. It is the quantity of moisture in the soil at the point where it changes from a
+liquid to a plastic state. The liquid limit of the sample was found to be 21.3%. This
+implies that sandy soils will flow more easily when water is added than clay soils,
+which expand before flowing (James, 1990).
+The plastic limit is the moisture content at which soil can be rolled into a 3 mm
+thread without breaking. When soil changes from a plastic to a semi-solid state, it
+contains this amount of moisture. The plastic limit of the soil was found to be 14.2%
+and hence the plasticity index was found to be 7.1%.
+The soil's capacity to absorb water is described by the plasticity index. It is derived
+from the difference between the plastic and liquid limits. The more the soil's PI
+increases, the more its volume changes as a result of variations in moisture content,
+and vice versa. It is implied that the sandy soil will not undergo volume changes when
+exposed to moisture conditions because the obtained.
+PI is a relatively low value. According to the MoWT General specifications for Roads
+and Bridge Works, the sample's PI of 7.1% falls within the acceptable ranges for a G15
+material. The low PI can be attributed to the low percentage of fines in the sample
+
+
+which indicates that the soil has a very low percentage of clay and silt and mostly
+sand which significantly reduces its Plasticity Index.
+4.3.3 Proctor test
+The Proctor test was used to determine the optimum moisture content for compaction
+as well as the maximum dry density of a given soil for a given compaction effort.
+Because the dry soil particles are not in contact with one another, the earth becomes
+rigid and splits when it is compacted, resulting in gaps. A thin layer forms around each
+soil particle when water is added to low-moisture soil during compaction. This layer
+acts as a lubricant, pulling the particles closer together and raising the soil's density.
+Because it allows the soil particles to move freely during compaction, adding water to
+soil that has a low moisture content leads to low void ratios. As such, as the volume of
+air in the sample decreases and the dry density of the soil reaches its maximum. The
+moisture content at this point is the optimum moisture content (Shivaprakash &
+Sridharan, 2021).
+The dry density decreases when water is added in excess of the ideal moisture
+content. This is because the water fills the voids and forces the soil particles apart,
+decreasing the dry density of the soil, rather than serving as a lubricant.
+The soil's OMC was 10.2% and its maximum dry density was 2.008g/cm3. This indicated
+that the optimal compaction level for this soil is 10.2% moisture content.
+4.3.4 California Bearing Ratio CBR
+CBR is used to measure soil strength. It is determined by calculating a soil sample's
+resistance to penetration. According to the MoWT General specifications for road and
+
+
+bridge construction from 2005, the soil did not meet the requirements for G15
+subgrade material. The sample's CBR was 10, even though the standards call for the
+material to have a CBR of 15. Therefore, this soil must be stabilised before the
+subgrade can be built (Othman & Abdelwahab, 2023).
+Additionally, the CBR swell was determined to be 0.75, falling within the general
+specifications set by the Ministry of Works and Transportation's maximum 1.5 limit for
+G15 material. This suggests that the rate of soil swell is within reasonable bounds.
+Significant amount of fines in the soil weakens it by causing volumetric changes in
+response to variations in moisture content. The loose particle sizes of sandy soils may
+be the cause of this low CBR value. The soil's non-plastic nature makes it difficult for
+the particles to bind together to create a more robust soil matrix (Sorsa, 2022).
+Since the soil's tidy qualities make it unsuitable for use as G15 subgrade material,
+stabilization of the material is required to raise the CBR in accordance with the MoWT
+General specifications for road and bridge construction 2005.
+4.3.5 Permeability test
+The permeability of the neat sandy soil was determined using the falling head method
+and the results tabulated in the table 4 below.
+
+
+
+
+
+
+
+Table 4: Neat Sandy Soil Permeability Result
+Test
+No.
+H1 (m) H2 (m)
+T(s)
+Inflow
+volume(m3)
+Outflow
+volume
+(m3)
+Hydraulic
+Conductivity, K
+(m/s)
+0.132
+0.005
+25.88
+1.27x10-5
+1.08 x10-5
+1.52 x10-4
+0.245
+0.132
+19.32
+1.13 x10-5
+4.63 x10-5
+3.85 x10-5
+0.345
+0.245
+14.28
+1.00 x10-5
+1.04 x10-5
+2.88 x10-5
+Average
+7.3 x10-5
+
+The value of coefficient of permeability, k was obtained as 7.3 x10-5m/s which
+accounts for the high rate of infiltration of water through the sandy soil thereby
+causing erosion.
+4.4 CHEMICAL COMPOSITION OF CEMENT KILN DUST
+The chemical composition of cement kiln dust depends on a number of factors, such
+as the raw material composition, combustion conditions, kiln operation, and process
+parameters (Sorsa, 2022).
+The table lists the various chemical components of the cement kiln dust that were
+subjected to XRF analysis.
+Table 5: Neat Soil Chemical Composition
+Parameter
+Units
+Result
+Calcium Oxide
+% m/m
+50.52
+Silicon dioxide
+% m/m
+27.77
+Aluminium Oxide
+% m/m
+15.13
+Potassium Oxide
+% m/m
+0.76
+Manganese (II) Oxide
+% m/m
+0.26
+Iron (II) Oxide
+% m/m
+5.33
+Chloride
+% m/m
+0.23
+
+
+
+The primary oxides found in the sample were aluminium oxide, silicon dioxide, and
+calcium oxide. The formation of calcium silicate hydrate gel (tobermorite) depends on
+these oxides.
+For the CKD and water mixture to form a CSH gel, the calcium to silica molar ratio
+must be between 1.6 and 2.5 (citation). The corresponding molar masses of silicon
+dioxide and calcium oxide were divided by the percentages of CaO and SiO2 to
+determine the moles of each, as shown below.
+Moles of Cao=
+50.52
+56 = 0.90
+Moles SiO2=
+27.77
+60 = 0.46
+C/S ratio=
+0.90
+0.46 = 1.97
+Since the calcium to silica molar ratio of 1.97 was determined to be within the
+required limits, the calcium silicate hydrate gel will form when the CKD is exposed to
+moisture conditions. This gel will produce a more stable soil matrix by tying the loose,
+sandy soil particles together.
+4.5 STABILIZED SANDY SOIL
+4.5.1 Engineering properties of sandy soils stabilized with varying percentages of
+cement kiln dust
+PLASTIC INDEX VARIATION
+The observed PI of 8.7 indicated in Figure 8 shows that the clean sandy soil contains
+fines like silt and clay. The PI then gradually drops with the addition of cement kiln
+dust, reaching a value of 7.3 following a 20% addition. The interaction between CKD
+and the sandy clay minerals explains the slight drop in Plasticity index values
+observed. In addition to filling the voids left by the coarser sand grains, the fine
+particles that comprise cement kiln dust alter the soil's gradation and lessen reactions
+that resemble clay. Moreover, the cementitious and pozzolanic processes caused by
+
+
+CKD bind the soil particles, reducing the range of moisture that the soil can still be
+worked.
+
+Figure 8: Plastic Index Result Variation Graph
+
+4.5.2 Effect of cement kiln dust on proctor values on the compaction
+characteristics
+
+The MDD gradually rises from 2.008g/cm3 to 2.032g/cm3 when cement kiln dust is
+added at a rate of 5 to 15% as it is shown in Figure 9. This is because the CKD particles
+efficiently fill in the voids left by the sand grains, enhancing particle packing and
+increasing the soil's density. However, when the CKD content increases to 20%, the
+ideal particle interlock is broken, resulting in a drop in the MDD to 1.993g/cm3.
+According to Atraa et al. (2015), this is because the soil particles were cemented
+together at higher cement kiln dust content levels, which led to the formation of a
+continuous structure with stronger connections made possible by secondary reactions
+7.2
+7.6
+8.4
+8.8
+Plasticity Index (%)
+
+
+and hydration products. The density is greatly reduced as a result of the soil particles
+becoming stuck together and having little mobility. Excessive CKD causes a less dense
+matrix and more interparticle spaces by introducing more fines. Furthermore, the
+formation of calcium silicate hydrates, which increase volume but do not increase
+overall density, resulted in a slight decrease in the MDD.
+
+Figure 9: MDD Variation Result Graph
+
+4.5.3 Effect of cement kiln dust on the optimum moisture content
+The optimum moisture content is impacted when CKD is used in place of clay minerals
+That absorbs water. The OMC gradually decreases from 5 to 15% CKD addition, from
+10.2% to 8.4% as shown in Figure 10. The soil requires less water for compaction
+because CKD increases particle lubrication and decreases the mixture's overall water
+affinity (Athraa et al, 2015). The increased surface area and reactivity of the
+additional fines, however, increase the water demand because more water is needed
+to support both the pozzolanic reactions and effective particle lubrication, which
+raises the ideal moisture content. As a result, the OMC dramatically increases to
+10.3% at 20%
+1.988
+1.995
+2.002
+2.009
+2.016
+2.023
+2.03
+2.037
+Maximum Dry Density (g/cm3)
+
+
+
+Figure 10: OMC Result Variation
+
+
+4.5.4 Effect of cement kiln dust on CBR
+The CBR values gradually increased as the CKD content increased with the addition of
+cement kiln dust. The recorded CBR was 16% at 15%, which was higher than the
+minimum of 15 required by MoWT. CBR has improved as a result of improved particle
+bonding and densification brought about by the addition of CKD. By effectively
+cementing the sand particles together, CKD improves pozzolanic processes that
+produce C-S-H gels as it is shown in Figure 11. This bonding significantly increases the
+soil's rigidity and load-bearing capacity (Alhassani et al, 2021). The reduction of voids
+to an optimal CKD content further improves particle interlock and load distribution.
+8.5
+9.5
+10.5
+Optimum Moisture Content (%)
+
+
+
+Figure 11: CBR Result Variation graph
+
+4.5.5 Effect of cement kiln dust on UCS
+The results showed a 45% increase in Unconfined Compressive Strength after 15%
+cement kiln dust was added. For CKD levels between 0 and 10%, rapid strength
+increases are observed when CKD combines with natural moisture to form a
+cementitious matrix that significantly enhances interparticle bonding as shown in
+Figure 12. The rate of strength development slows down between 15 and 20% when
+excess CKD is present, preventing further compressive strength improvement due to
+reactive site saturation and the introduction of microstructural weakness, such as
+brittleness, to the stabilized soil matrix (Amadi, 2022).
+CBR (%)
+
+
+
+Figure 12: UCS Result Variation Graph
+
+4.5.6 Effect of cement kiln dust on permeability
+
+
+The permeability of the sandy soil decreased significantly from 7.3 x10-5 m/s to 8.8
+x10-7 m/s at 15% CKD addition as shown in Figure 13. This happens because the fine
+particles of cement kiln dust fill in the gaps between the larger sand particles,
+reducing the overall porosity and the size of the water-permeable pores. Chemical
+reactions that bind the sand particles together to create a more cohesive and dense
+matrix are made possible by the cementitious properties of the dust. This binding
+effect further restricts their connection by making it harder for water to move
+through the pore spaces.
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+UCS (MPa)
+
+
+Figure 13: Permeability Variation Result Graph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Permeability x10^-6(m/s)
+
+
+4.6 Research Design
+
+Table 6: Research Design Summary
+Parameter
+Sandy soil with 15%
+CKD
+General Specifications
+for Roads and Bridge
+works (MoW&T)
+Plasticity Index
+7.5%
+Maximum 25
+Maximum Dry Density
+2.032g/cm3
+-
+Optimum
+Moisture
+Content
+8.4%
+-
+AASHTO classification
+A-2-5 material
+-
+USCS
+SW
+-
+CBR
+16%
+Minimum 15
+CBR swell
+0.48%
+Maximum 1.5
+UCS
+0.48 MPa
+Minimum 0.5 MPa
+Permeability
+8.8 x10-7m/s
+-

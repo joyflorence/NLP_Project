@@ -1,0 +1,1191 @@
+ASSESSING THE USE OF IRON COATED QUARTZ SAND IN GREY WATER
+TREATMENT FOR REUSE
+
+EDITOR NIMUSIIMA
+M22B32/039
+
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD
+OF THE DEGREE OF BACHELOR OF SCIENCE IN CIVIL AND ENVIRONMENTAL
+ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+February, 2026
+
+
+
+
+
+i
+
+ABSTRACT
+Soak pits remain the primary method of grey water disposal in many schools in Mukono.
+This method is effective for small volumes but inadequate due to the growing student
+population and expanding school activities thus leading to environmental risks like
+faster clogging and overflowing thus disease spreading. This research focused on
+identifying the quality and quantities of grey water in institutions specifically at St.
+Francis Borgia and going on to recover grey water as a valuable source that if recycled
+and reused for non-potable purposes like irrigation.
+Local and low cost materials were suggested to be used in grey water treatment and
+quartz sand filters showed promising results. Experiments were made with plain quartz
+sand and treated quartz sand and results showed higher percentage of contaminant
+reduction (between 40% and 80%) with treated quartz sand. Based on results, there was
+a suggestion of design of treatment unit using treated quartz sand for adsorption and
+filtration of grey water to ensure it meets standards for which it is treated for.
+
+
+ii
+
+DECLARATION
+I NIMUSIIMA EDITOR with the registration number M22B32/039, hereby declare that this
+is my original work, is not plagiarized and has not been submitted to any other
+institution for any award.
+NIMUSIIMA EDITOR
+M22B32/039
+Signature....................................................
+Date.............................................................
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+This is to certify that this report has been done by NIMUSIIMA EDITOR under my
+supervision and is ready for submission to the Department of Engineering and
+Environment, Faculty of Engineering, Design and Technology in partial fulfillment of a
+Bachelor of Science in Civil and Environmental Engineering of Uganda Christian
+University.
+PROF. S. KIZZA NKAMBWE
+Project supervisor
+Signature.............................................
+Date......................................................
+
+
+
+
+
+
+
+
+iv
+
+ACKNOWLEDGEMENT
+First and fore most I take this great opportunity to appreciate the almighty God for the
+gift of life he has given me and the far he has brought me ever since I joined University
+in 2022.Secondly, I thank my beloved mother for the guidance he has been giving me
+throughout this journey. I also take an opportunity to appreciate my beloved sponsor
+Paul Attermeier, mum and dad JoAnn and Joe Parsons for the financial support and
+guidance rendered to me throughout this research.
+A great appreciation goes to my beloved academic supervisor Prof. Sarah Kizza
+Nkambwe for her knowledge and guidance starting from May when I was assigned to her
+up to the completion of my report, she has been more than a supervisor but a mentor
+throughout. May God bless her abundantly. Also, great thanks go to Mr. Julius Wanyera
+and Mr. Ojara Eddie the lab technicians who guided me during laboratory experiments
+and results interpretation.
+Finally, I am so grateful to the Department of Engineering and Environment of Uganda
+Christian University for all the knowledge and skills they have imparted in me under the
+program of Final Year Research and design project that introduces students to the realworld situation. I am so grateful to the Research coordinator Mr. Rodgers Tayebwa and
+the Head Department. May God bless you abundantly
+
+
+
+
+v
+
+DEDICATION
+I dedicate this report to my sponsor Paul Attermeier for his dedicated work and love
+for me, supporting me throughout my university education through mum JO ANN
+PARSONS. May you be rewarded.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+ACKNOWLEDGEMENT ............................................................................. iv
+DEDICATION ......................................................................................... v
+LIST OF FIGURES .................................................................................. ix
+LIST OF TABLES ..................................................................................... x
+LIST OF ACRONYMS ............................................................................... xi
+CHAPTER 1: INTRODUCTION ...................................................................... 1
+1.1
+BACKGROUND ............................................................................. 1
+1.2 PROBLEM STATEMENT ...................................................................... 2
+1.3 Main Objective .............................................................................. 4
+1.3.1 Specific Objectives .................................................................... 4
+1.4 RESEARCH QUESTIONS ...................................................................... 4
+1.5 SCOPE OF STUDY ............................................................................ 5
+1.6 JUSTIFICATION .............................................................................. 5
+1.7 SIGNIFICANCE OF RESEARCH .............................................................. 5
+1.8 THEORETICAL/CONCEPTUAL FRAMEWORK .............................................. 6
+CHAPTER 2: LITERATURE REVIEW ................................................................ 9
+2.1 WASTEWATER ............................................................................... 9
+2.2 PARAMETERS MEASURED IN WASTE WATER............................................ 10
+
+vii
+
+2.3 MATERIALS: QUARTZ SILICA SAND ...................................................... 14
+2.4 GREYWATER USES ......................................................................... 16
+2.5 GREY WATER TREATMENT SYSTEMS .................................................... 16
+2.6 GREYWATER TREATMENT METHODS .................................................... 17
+2.7 SOAKPITS ................................................................................... 24
+CHAPTER3: METHODOLOGY .................................................................... 26
+3.1 ASSESSING THE PHYSICO-CHEMICAL CHARACTERISTICS OF GREY WATER. ........ 26
+3.2 DETERMINING THE PERCENTAGE REDUCTION OF CONTAMINANTS BY UNTREATED
+AND TREATED QUARTZ SAND ................................................................ 27
+3.3 DESIGNING GREY WATER TREATMENT UNIT WITH IRON COATED QUARTZ SAND . 29
+CHAPTER 4: RESULTS AND DISCUSSION ....................................................... 30
+4.1 Introduction ............................................................................... 30
+4.2 Chemical Oxygen Demand (COD) ....................................................... 31
+4.3 Biological Oxygen Demand (BOD) ...................................................... 33
+4.3.1 VARIATION OF BOD AND COD IN GREY WATER THROUGHOUT THE DAY ...... 33
+4.4 Total Phosphates ......................................................................... 35
+4.5 Total Suspended Solids (TSS)............................................................ 36
+4.6 Ph ........................................................................................... 37
+4.7 Electrical Conductivity (EC) ............................................................. 38
+4.8 PERCENTAGE REDUCTION OF CONTAMINANTS WITH PLAIN AND TREATED QUATRZ
+SAND ............................................................................................. 38
+4.8.1 COLUMN EXPERIMENTS .............................................................. 38
+
+viii
+
+4.9 COMPARISON OF PLAIN QUARTZ SAND AND TREATED QUARTZ SAND IN
+CONTAMINANT REDUCTION .................................................................. 43
+4.10 DESIGN CALCULATION (Metcalf and eddy) ........................................... 45
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS ........................................ 46
+5.1 CONCLUSION ............................................................................... 46
+5.2 RECOMMENDATIONS ...................................................................... 47
+REFERENCES ...................................................................................... 48
+APPENDICES ....................................................................................... 51
+APPENDIX A1: OVEN DRYING, SAMPLE PREPARATION .................................... 51
+APPENDIX A2: MEASURING MASS OF FERRIC CHLORIDE, DIRECT READING MACHINE, BOD
+REACTOR .......................................................................................... 52
+APPENDIX B: LABORATORY RESULTS .......................................................... 53
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF FIGURES
+Figure 1: Typical soak pit design . ...................................................................... 25
+Figure 2: Ferric chloride and Sodium hydroxide pellets Figure 3: Plain quartz sand .......... 28
+Figure 4: Coated quartz sand before and after oven drying ........................................ 28
+Figure 5:Variation of COD with time ................................................................... 31
+Figure 6: Variation of BOD with time ................................................................... 33
+Figure 7: Variation of TP with time .................................................................... 35
+Figure 8: Variation of TSS with time .................................................................... 36
+Figure 9: Variation of pH with time .................................................................... 37
+Figure 10: Percentage reduction of contaminant with contact time 60 minutes ................ 40
+Figure 11: Percentage removal with contact time 30 minutes ..................................... 40
+Figure 12: Percentage reduction of with treated quartz sand ...................................... 41
+Figure 13: A graph of percentage reduction with treated quartz sand ............................ 42
+Figure 14: Percentage removal of treated and untreated sand for COD .......................... 43
+Figure 15: Percentage reduction between untreated and treated quartz sand for BOD ........ 43
+
+
+
+
+
+
+
+x
+
+LIST OF TABLES
+Table 1: Parameters and the standard effluent discharge ................................ 11
+Table 2: Key effluent parameters for safe of treated wastewater in irrigation. ....... 23
+Table 3: Results of grey water samples taken from St. Francis Borgia .................. 31
+Table 4: Percentage reduction of contaminants by untreated quartz sand and treated
+quartz sand after column experiments ....................................................... 39
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+LIST OF ACRONYMS
+BOD – Biochemical Oxygen Demand
+COD – Chemical Oxygen Demand
+TSS – Total Suspended Solids
+TP– Total Phosphorous
+PH- potential hydrogen
+EC- electrical conductivity
+mg/L – milligrams per litre
+NWSC – National Water and Sewerage Cooperation
+NEMA – National Environmental Management Authority
+WHO – World Health Organization
+EPA- Environmental Protection Agency
+ICQS- Iron coated quartz sand
+Fe0H- Iron hydroxide
+NaOH- sodium hydroxide
+Lab - Laboratory
+
+
+
+CHAPTER 1: INTRODUCTION
+1.1 BACKGROUND
+Grey water is the waste water from sinks, bathtubs, and washing machines,
+excluding sewage. The treatment and reuse of grey water is one of the biggest
+resource recovery and sustainable water use in institutions (Misra, 2020)
+Water scarcity and pressure on freshwater systems are the main reasons for
+increased sustainable water reuse in the world especially in cities that are rapidly
+growing. Globally, 50-70% of the total household wastewater is greywater, and the
+safe reuse of greywater has been considered one of the main measures for reducing
+the demand for freshwater (Eriksson et al., 2002). Greywater reuse has already
+become a necessity in water stressed areas such as the Middle East, South Asia, and
+East Africa for irrigation, landscaping and non-potable applications. Research in
+countries like India, Kenya, and Ethiopia indicate that untreated greywater is a
+major cause of nutrient loading, groundwater contamination and clogging of soil
+infiltration systems (Mbae et al., 2024).
+In Sub-Saharan African countries, mostly greywater is not treated before disposal
+because of the limited infrastructure, poor enforcement of environmental standards
+and the use of economical disposal methods like soak pits (Semiyaga et al., 2015).
+Increased student numbers lead to more greywater that soon surpasses the capacity
+of the existing systems. Thus, rapid clogging of soak pits occurs leading to overflow
+into yards and the increased BOD, COD, TSS, and nutrient concentrations reach
+surrounding soils and aquifers causing increase in vector and pathogens due to
+stagnancy (Matos et al., 2012).
+
+
+
+Greywater from Africa is commonly rich in organic matter, phosphates coming from
+detergents and suspended solids. Research studies from East Africa have confirmed
+that wastewater of institutions usually exceed the discharge limits defined by WHO
+and the national standards (Niwagaba et al., 2021).
+Schools in Uganda generally produce greywater with high BOD (50-120 mg/L) mainly
+due to the presence of soaps and organic matter, high COD (100-250 mg/L), TSS over
+100 mg/L, and phosphates 3-10 mg/L particularly where commercial detergents are
+used (Niwagaba et al., 2021).
+Worldwide and regionally, low-cost filtration has been practiced with natural and
+modified sand, biofiltration, and adsorption media besides others. Iron-coated
+quartz sand (ICQS) has been identified as one of the best materials for phosphate
+and organic matter removal with proven scientific techniques, especially in
+detergent-based greywater (Xu et al., 2020; Liu et al., 2018).
+1.2 PROBLEM STATEMENT
+In many schools across Mukono District, soak pits are the primary method of grey
+water disposal. This method is effective for small volumes however it is inadequate
+due to the growing student population and expanding school activities.
+(Atwebembeire et al., 2019)
+St. Francis Borgia a secondary school in Mukono disposes its grey water into soak
+pits. In weekends when students are doing laundry, most of the laundry waste water
+is disposed in the compound and left to flow freely. Due to under designing and
+
+
+increased volumes of grey water per day at the school (21cubic meters), the
+available soak pits are overloaded and end up clogging faster.
+According to Ugandan standards (MoH, 2018) Soak pits must receive only pretreated
+effluents, sized according to percolation test with depth (1.5-5m) and internal
+diameter (1-2.5m)
+However, construction designs of these soak pits were not to the standard ie no
+percolation test was done, depth was 1.3m and sizing (0.9m diameter) hence
+possible clogging and over flowing leading to environmental and health risks (KCCA,
+2022)
+Studies have shown that regardless of designs, soak pits are not viable and
+sustainable methods of grey water treatment for growing institutions that generate
+large quantities of grey water. (Semiyaga et al., 2015)
+Furthermore, the seepage of untreated grey water poses risks of contaminating
+groundwater sources used for domestic and institutional purposes. It is extremely
+difficult to eliminate the risk of ground water contamination when onsite sanitation
+systems effluent is discharged into sub surface. (Mbae et al., 2024)
+Preliminary tests were carried out and the presence of high BOD, COD, total
+suspended solids, and nutrients in untreated grey water exceeded recommended
+NEMA standards for discharge and reuse. Such pollution not only degrades the
+environment but also increases the risk of waterborne diseases within the school and
+surrounding communities. The current disposal methods fail to utilize grey water as
+a resource, despite its potential for reuse in irrigation thus missing an opportunity
+to conserve water. Experiments (batch and column) were made in the lab for both
+
+
+plain quartz sand and treated quartz sand and it was found out that the treated
+quartz sand removes the highest percentage of contaminants in grey water due to
+large surface area for phosphates and organic matter. It was also found out that iron
+doesn’t leach into the treated grey water
+
+Iron-coated quartz sand filtration offers a promising approach due to its ability to
+enhance nutrient and organic matter removal. This study seeks to assess the
+performance of iron-coated quartz sand filters for treating grey water for reuse in
+institutions like St. Francis Borgia.
+1.3 Main Objective
+To assess the use of iron-coated quartz sand in grey water treatment for reuse.
+1.3.1 Specific Objectives
+1. To assess the physical-chemical characteristics of grey water
+2. To determine the percentage reduction of contaminants by untreated quartz
+sand and treated quartz sand
+3. To design a grey water treatment unit with treated quartz sand
+1.4 RESEARCH QUESTIONS
+1. What are the physical-chemical characteristics of grey water?
+2. What percentage of contaminant removal can untreated and treated quartz
+sand achieve in treated grey water?
+3. What are permissible limits for grey water discharge into the environment
+and for various reuse options?
+
+
+1.5 SCOPE OF STUDY
+St. Francis Borgia High school, Mukono
+1.6 JUSTIFICATION
+Iron-coated quartz silica sand has a high adsorption capacity of ferric oxides which
+bind contaminants like phosphate ions through electrostatic interactions as
+phosphate anions are attracted to the positively charged iron surface. (Liu et al.,
+2018) This happens when iron oxides get positively charged under a low to neutral
+PH with a high variance, they are able to attract the negatively charged phosphate
+ions.
+Fe 3+ +PO4 3- == FePO4 + H2O
+Quartz silica sand has as a porous support material, hard and resistant to abrasion.
+It enhances flow and its large surface area enhances contaminant removal. Coating
+it with iron oxides significantly improves its adsorption efficiency. (Rusch et al.,
+2010). In presence of oxygen and alkaline conditions, ferric oxides are stable thus
+insoluble in water.
+Its local availability and low cost, will provide a practical solution to promote water
+reuse and enhance sanitation in institutional settings hence reduction in fresh water
+consumption. There has been cases of water scarcity in institutions in Mukono as
+reported by Love Binti in 2023 thus this study can address this issue to some extent
+using locally available materials.
+1.7 SIGNIFICANCE OF RESEARCH
+Environmental protection: This study provided a low-cost and eco-friendly solution
+to reducing pollution in grey water before it is discharged into the environment.
+
+
+Public health concerns. By treating grey water, the risks of contamination and
+related diseases among school communities were reduced. For example, issues of
+water related diseases.
+Sustainable water management: Institutions will be empowered to recycle and reuse
+treated grey water for non-potable purposes, thus conserving fresh water resources.
+Scientific contribution: The research also contributed to scientific knowledge on the
+use of modified natural materials ie iron-coated sand in wastewater treatment.
+1.8 THEORETICAL/CONCEPTUAL FRAMEWORK
+The adsorption theory rooted in surface chemistry is the basis of this study. This
+theory states that attractions, either physical or chemical, between solid surfaces
+and pollutants, like phosphates in greywater, are the means for their removal. The
+iron coating over quartz sand brings in ferric oxides whose charges are positive and
+because of that they tend to associate with the negatively charged phosphate ions
+(PO4^3−) massively and most of the contaminants in grey water are negatively
+charged thus easy and fast interaction. The interaction causes the contaminants to
+stick to the media surface so they are removed from the water. The filtrate is then
+treated to eliminate any pollutant that might have evaded the adsorption process.
+COST BENEFIT ANALYSIS
+A cost benefit analysis was done to find out the benefit of incorporating a grey water
+treatment plant versus the cost of soak pits, fresh water consumption and use in
+irrigation and other non-potable purposes and it was found out that there are more
+cost benefits in treating grey water for non-potable purposes.
+
+
+
+Population of the school and volumes of grey water generated
+St. Francis Borgia currently has a population of 1115 students and 85 staff members
+The school uses 27 m3 of water per day and assuming 78% of this waste water is grey
+water
+Volume of grey water generated per day=78/100x27= 21m3
+Volume of grey water generated per month= 21x30=630m3
+The school spends 8.3M USH on water per month
+Population growth projections in the next 20 years:
+Using the formula for population growth
+P(t)=Pi×(1+r)t
+P(t) = population after time t
+Pi = Initial population
+r= Annual growth rate (decimal form) = 0.029
+t = time in years
+P(t)= 1115(1+0.029)20= 1976 students calculated using standard design manuals for
+waste water treatment plants
+In the next 20 years, population projection is estimated to be 1976 students. Given
+that a student uses 18.6 liters of water per day, the total amount of grey water
+generated in the next 20 years is 37.2m3
+
+
+This indicates that more volumes of grey water will be generated as population keeps
+increasing
+Calculating savings
+Savings= volume of treated grey water x cost of NWSC water per litre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 2: LITERATURE REVIEW
+2.1 WASTEWATER
+This refers to used water that contains a mixture of both organic and inorganic
+material that is harmful to the environment (Shah, 2017). It simply means water that
+is not clean because it has been used in households, factories, runoff from farms,
+and others. Wastewater is polluted water, and its pollutants are from both point
+sources and dispersed sources (R L and Mehta, 2020). It is dangerous to the
+environment when released without treatment.
+Point sources: this simply means a single identifiable source of pollution for example
+drain or a pipe (usually industrial wastewater effluent being discharged by a pipe
+into a river)
+Dispersed/ non-point sources: Also known as diffuse pollution simply mean inputs
+that happen over a large/ wide area and can be zeroed down to one source. They
+are usually attributed to a specific land use for example urban land use, Agricultural
+land use and factory land use and others. Diffuse pollution is executed by agents like
+storm water that greatly impact the water quality of the different waterways they
+flow into (EPA, 2021). Wastewater from the different sources affects the quality of
+surface and ground water.
+COMPOSITION OF WASTE WATER.
+• Nutrients like nitrates and phosphates
+
+
+• Heavy metals like lead, mercury and copper
+• Bacteria and pathogens
+• Suspended solids
+• Detergents and soap residue.
+2.2 PARAMETERS MEASURED IN WASTE WATER
+Total Phosphorus (TP)
+TP measures all forms of phosphorus (organic and inorganic) in water. Excess
+phosphorus promotes eutrophication, leading to algal blooms, oxygen depletion, and
+aquatic ecosystem damage. It is often contributed by detergents, fertilizers, and
+sewage. Studies show that grey water contributes significantly to nutrient loading in
+local rivers (Niwagaba et al., 2021).
+Turbidity refers to the cloudiness of water caused by suspended solids that scatter
+light. It is measured in Nephelometric Turbidity Units (NTU). High turbidity can
+indicate the presence of pathogens, organic matter, or pollutants and affects water
+clarity and quality.
+pH
+pH measures the acidity or alkalinity of wastewater on a scale of 0 to 14. A pH of 7
+is neutral, below 7 is acidic, and above 7 is alkaline. pH affects biological processes,
+chemical reactions, and the solubility of pollutants. Wastewater should have a pH
+between 6.5 and 8.5 to be considered safe for discharge.
+
+
+Biochemical Oxygen Demand (BOD)
+BOD is the amount of dissolved oxygen needed by aerobic microorganisms to break
+down organic matter in water. It is an indicator of organic pollution. High BOD means
+more organic matter, leading to oxygen depletion in receiving water bodies. It is
+usually high in black water due to high organic matter from human fecal matter.
+Chemical Oxygen Demand (COD)
+COD measures the total quantity of oxygen required to chemically oxidize all organic
+substances in water. High COD indicates the presence of significant organic and
+inorganic pollutants
+TSS refers to the solid particles suspended in water that can be trapped by a filter.
+High TSS can reduce water clarity, hinder light penetration, affect aquatic life, and
+clog treatment systems. It includes silt, decaying matter, and industrial waste
+particles.
+Electrical conductivity
+Electrical conductivity in wastewater measures the water’s ability to conduct
+electricity, which depends on the concentration of dissolved ions such as salts (e.g
+sodium, chloride, sulfate, nitrate). It is expressed in μS/cm (micro siemens per
+centimeter). High EC indicates a high concentration of dissolved salts or ions from
+detergents and low EC indicates low salt content, meaning the water is less
+mineralized and relatively clean.
+
+
+
+
+
+Table 1: Different parameters and the standard effluent discharge
+Standard for effluent discharge
+Total phosphorus
+5g/l
+BOD
+50g/l
+COD
+70g/l
+pH
+5.0-8.5
+DO
+>2
+25 NTU
+Electrical conductivity
+Source: National water lab Bugolobi
+GREY WATER
+Grey water is form of waste water excluding sewage. It is waste water from the
+kitchen, laundry, washing utensils, showers and cleaning. This waste water is less
+contaminated compared to black water thus treatment is easier.
+Physical, chemical and microbiological quality of greywater
+Physical and chemical quality
+There is a high amount of variability in the chemical and physical quality of
+greywater produced by institutions, due to factors such as the source of water, the
+water use efficiency of appliances and fixtures, Individual habits, products used
+(e.g. detergents, shampoos, soaps,) and other site-specific characteristics.
+
+
+The amount of salt (sodium, calcium, magnesium, potassium and other salt
+compounds), oils, greases, fats, nutrients and chemicals in greywater can largely be
+managed by the types of products used within an institution or community.
+Nutrients
+Greywater contains nutrients generated from the bathroom and laundry. By
+managing the type and amount of washing detergents, personal hygiene products
+and cleaning agents that are used, the amount of nutrients in greywater can be
+managed.
+Salts
+Salts in greywater originate from washing detergents and are commonly in the form
+of sodium, magnesium and calcium compounds.
+Why grey water is treated before disposal or reuse
+Treating grey water at household or institutional level reduces the volume and
+organic load entering centralized wastewater treatment plants, improving system
+efficiency and reduces expansion costs (NEMA, 2020).
+Protect Public Health. Untreated grey water contains pathogens such as bacteria
+and viruses that can cause infections. Chemical contaminants from detergents and
+pharmaceuticals also pose health risks (WHO, 2006)
+Environmental protection. Discharging untreated grey water contributes to
+eutrophication due to nutrients such as nitrogen and phosphorus. It can also degrade
+soils and contaminate groundwater.
+
+
+Resource recovery and circular economy. Treated grey water can be reused for
+irrigation and toilet flushing, reducing demand on freshwater supplies and
+supporting sustainable water management
+2.3 MATERIALS: QUARTZ SILICA SAND
+Quartz silica sand has the main chemical component of silicon dioxide (SiO2), which
+is a mineral that has a lot of remarkable features like very low reactivity with other
+chemicals, hardness, and that is why it comes in big granular sizes. One of the
+greatest properties of quartz is its high surface area and that is why it has found its
+place in the filtration systems as a filtering media. And since it is an inert material,
+it will not take part in the reaction going on with water or other substances, thus
+keeping the quality of the treated effluent.
+However, uncoated quartz silica sand has a low ability to hold up the pollutants
+mainly because of its negatively charged surface. For it effective with phosphate
+anions, it has to go through a surface modification by getting coated with metal
+oxides like iron.
+Iron specifically in the form of ferric oxides (Fe2O3, FeOOH) have a tendency to bind
+to phosphate ions. The surface of iron which carries a positive charge attracts the
+negatively charged phosphate ions (PO4^3-) thereby forming stable complexes. This
+phenomenon increases the phosphate extraction capacity.
+Iron coating has the additional advantage of increasing the number of active sites
+on the quartz surface, thus giving a boost to its adsorption efficiency. Research
+reports have confirmed that iron-coated sand can accomplish the removal of
+phosphate with an efficiency of up to 90% if conditions are made favorable.
+
+
+Moreover, iron is economically priced, and non-toxic, thus, it becomes the perfect
+option for environmental water treatment.
+Generally, the procedure of coating involves immersing clean quartz sand in a ferric
+chloride solution, then drying and heating it to create a stable iron oxide layer on
+the sand grains. Not only does this process impart hardness to the filtration medium
+it is also suitable for both batch and column types of greywater treatment systems.
+The natural adsorption capacity of quartz sand is such a way that it quickly captures
+and gets rid of iron particles thus contributing not only to the water quality but also
+to the longevity of the water infrastructure. Its durability and effectiveness are
+expressed
+Procedure for preparation of iron coated quartz sand
+Dissolve 2M of ferric chloride in 80ml of distilled water and stir. Wash the sieved
+quartz sand thoroughly until clean water comes out to remove any kind of dirt. Dry
+the sand in an oven at 100degrees Celsius to ensure it dries properly. Mix the clean
+sand with the ferric chloride solution and stir. Prepare a 1M NaOH solution by
+dissolving 40g of NaOH pellets in 250ml of distilled water and then make up the
+solution to 1 litre. Slowly by slowly, add the NaOH in the mixture until optimum pH
+6-8 and soak for 1-2 hours. Ph is the most critical to determine the final structure,
+surface area and the stability of iron oxide coated sand. The FeOH precipitate forms
+directly on the sand surface and sand is separated from the mixture, washed with
+clean water and oven dried at 105 degrees Celsius.
+
+
+2.4 GREYWATER USES
+Many research efforts have outlined the various potential uses of greywater. Among
+the most widely accepted applications are:
+•Toilet flushing and landscape irrigation. In the United States, greywater is most
+commonly used for watering landscapes, including lawns, ornamental plants, trees,
+and even certain food crops provided the water has been properly disinfected (Matos
+et al., 2012).
+•The application of greywater in toilet flushing has been encountered all over the
+Globe especially Europe (OMS, 2006).
+• Grey water is also used for general washing
+• Also used as a cooling tower make up water.
+Sources of grey water
+▪ Hand basins and washing dishes
+▪ Washing machines/laundry tubs, sinks, and water from washing clothes
+▪ Showers and baths etc.
+2.5 GREY WATER TREATMENT SYSTEMS
+Grey water does not typically produce unpleasant odors immediately after it is
+discharged. However, when stored in a tank without treatment, it rapidly depletes
+oxygen and transitions into an anaerobic state. In this condition, it becomes septic,
+forming sludge that may either sink or float depending on the amount of gas trapped
+within and its overall density. At this stage, greywater can emit foul smells similar
+to raw sewage and may also harbour anaerobic microorganisms, some of which are
+potentially pathogenic (Matos et al., 2012).
+
+
+Therefore, effective grey water management requires prompt treatment and reuse
+before it turns septic. One of the simplest and most suitable approaches is to use
+freshly produced grey water directly, without allowing it to stagnate (Verstraete et
+al., 2009).
+2.6 GREYWATER TREATMENT METHODS
+There are many different approaches available for treating grey water (GWT) each
+varying in terms of how they operate the types of pollutants they target their design
+and the stages of treatment they involve. Choosing the right treatment method
+usually depends on several factors such as the amount of grey water being produced,
+how much organic matter it contains, what the treated water will be used for and
+the regulatory standards it must meet (Kulabako et al., 2009).
+Typically, grey water treatment is divided into three key stages: preliminary,
+primary and secondary treatment. Across the board, there is strong agreement that
+treatment methods should aim to be environmentally sustainable ideally avoiding
+harsh chemicals or the creation of toxic waste. While some studies suggest that grey
+water can be stored for a short time before treatment this period should be kept as
+brief as possible to prevent the growth of harmful microorganisms.
+Treatment techniques vary physical and chemical methods often involve filtration
+and disinfection, while biological processes might include aeration or the use of
+membrane bioreactors (Oteng-Peprah et al., 2018). Because they can create high
+quality treated grey water, sophisticated systems like sequencing batch reactors and
+biologically aerated filters are being used more and more all over the world.
+
+
+However, these systems are less practical for low income or developing nations
+because of their high energy requirements and high installation and maintenance
+costs.
+The utilization of natural available resources as an alternative way is the main focus
+of this study due to these difficulties. These eco- friendly materials show promise
+for application in adsorption and filtration procedures providing efficient treatment
+without generating hazardous by products.
+Pre-treatment
+Pretreatment techniques eliminate the bulk solids, hair, lint, sand, oil and grease as
+well as other materials that might interfere with the proper functioning of the
+equipment downstream and cause fouling. The pretreatment makes sure that filters,
+biological reactors, etc. are not clogged. It consists of screening, grit removal, and
+trapping of grease as unit processes.
+Primary treatment
+The technique discussed here makes use of sedimentation and similar physical
+processes to remove from the liquid waste the solid matter that can settle, thus
+reducing TSS and BOD levels (some). Primary treatment decreases the load on
+biological
+(secondary)
+processes.
+The
+most
+common
+processes
+include
+sedimentation, lamella or tube settlers and dissolved air flotation.
+Secondary treatment (biological and combined processes)
+This treatment method biologically removes dissolved and colloidal organic matter
+(BOD/COD), reduces pathogens and further reduces suspended solids. Secondary
+treatment transforms organic matter into biomass and, ideally, stable effluent that
+
+
+is reusable or can be safely discharged. These processes consist of activated sludge,
+bio filters, constructed wetlands (nature-based systems that combine filtration,
+adsorption, and biological degradation). (Arden et al., 2018)
+Sedimentation in Grey Water Treatment
+Sedimentation is one of the simplest and most natural ways of cleaning grey water
+before it moves on to more advanced treatment steps. It works on a very basic idea
+if you give water enough time to rest heavier particles will slowly sink to the bottom.
+This simple action helps remove a big portion of the dirt and solids found in grey
+water from showers, sinks, and laundry. As grey water comes into the sedimentation
+tank, the water flow is reduced to allow the settling down of different kinds of debris
+such as soil, hair, soap and food particles. The sinking materials aggregate into a
+sludge layer on the floor of the tank. This sludge is to be removed at intervals to
+ensure the system remains clean and working efficiently. The water which is clearer
+than before now on the surface is then permitted to pass on to the following
+treatment stage.
+Sedimentation is especially useful because it can significantly reduce several
+parameters making the rest of the treatment process easier and more effective.
+Some of the main parameters reduced include total suspended solids and turbidity.
+This is the biggest improvement achieved through sedimentation. Most of the solid
+particles settle out, often reducing TSS by a big percentage.
+Because the solids settle, the water becomes clearer. Turbidity may drop
+significantly.
+
+
+Other parameters like BOD, COD and microbial load reduce slightly. They may be
+significantly reduced by biological processes.
+Factors that influence sedimentation efficiency
+▪ Retention time (1-3 hours)
+▪ Tank depth and type
+▪ Temperature
+▪ Particle size and density
+▪ Presence of surfactants
+Types of sedimentation tanks
+Circular sedimentation tanks
+The tanks are circular in shape and influent normally enters at the center and flows
+outward. Sludge is scraped to the center by rotating scrapers and effluent is
+collected at the edges via peripheral weirs.
+Advantages
+▪ Symmetrical flow patterns reduce dead zones.
+▪ Efficient sludge collection.
+▪ Suitable for large flow rates.
+▪ Continuous smooth operation of mechanical scrapers.
+Disadvantages
+▪ Require more land area.
+▪ Higher construction cost due to mechanical equipment.
+▪ Wind may disturb hydraulic efficiency.
+
+
+▪ Harder to cover for odor control.
+
+Rectangular sedimentation tanks
+These are long straight channels with influent entering at one end and leaving at the
+other and sludge moves to the end through gravity or chain mechanisms they have a
+uniform horizontal flow.
+Advantages
+▪ Require less land area.
+▪ Hydraulically more efficient (straight uniform flow).
+▪ Easier to expand by adding parallel units.
+▪ Cheaper construction and maintenance.
+▪ Easier sludge removal.
+▪ Perform better during peak flows.
+Disadvantages:
+▪ Possibility of short-circuiting if poorly designed.
+▪ Sludge removal equipment needs periodic maintenance.
+▪ Inlet flow distribution must be well designed.
+Why rectangular tanks are often preferred
+▪ Use less land area for same capacity.
+▪ Better hydraulic efficiency.
+▪ Cheaper to construct.
+▪ Easier to operate and maintain.
+
+
+▪ Allow easy modular expansion.
+Adsorption
+Adsorption is the concentration of a solute which maybe molecules dissolved or
+suspended in the liquid phase on the surface of a solid. During adsorption molecules
+bind onto the solid surface or are held of the solid surface by the weak
+intermolecular forces of attraction.
+Types of adsorbents used
+Biochar, activated carbon, clay minerals, zeolites and these have proved to be
+efficient in waste water treatment. Modified quartz sand has also shown better
+results in treating grey water at institutional level.
+Requirements of treated grey water for irrigation
+Grey water when treated should be able to meet standards for reuse according to
+different reuse options which include irrigation, toilet flushing and cleaning floors
+among others. It should be free from pathogens since human beings come in contact
+with it during the operations of these activities.
+Guidelines for Wastewater Reuse in Irrigation (WHO, 2006)
+Guidelines for wastewater reuse in irrigation (2006), provides the worldwide
+accepted framework for the safe application of wastewater and greywater in
+agriculture. The main aim is to protect the public health through the establishment
+of both the microbiological and physicochemical standards for the effluents that are
+to be used for irrigation.
+
+
+The guidelines distinguish between three types of irrigation practices: unrestricted
+(for edible crops consumed raw), restricted (for crops not consumed raw), and nonfood crop irrigation. The required treatment level for the water depends on the
+exposure risk for humans based on the crop type and irrigation method chosen.
+Despite the emphasis on microbial risks, the WHO guidelines also suggest values for
+chemical parameters such as BOD, COD, TSS, turbidity, and nutrients with
+phosphorus among them. Monitoring such parameters is an indicator that wastewater
+is safe for irrigation and does not cause soil structure deterioration, emitter clogging,
+or environmental degradation.
+Table 2: Key effluent parameters for safe of treated wastewater in irrigation.
+Effluent standard (WHO, 2006)
+BOD
+≤ 30 mg/L
+COD
+≤ 50–100 mg/L
+≤ 30 mg/L
+≤ 5 NTU
+Total Phosphorus (TP)
+≤ 2 mg/L
+
+Application of the guidelines in Irrigation
+In case the wastewater is treated to the level of WHO (2006) standards, it can be
+directly applied for agricultural irrigation but only if proper irrigation methods like
+drip irrigation are used. Such methods ensure that there is little human exposure
+
+
+and that the likelihood of non-edible crops being contaminated is lessened. Varying
+the effluent parameters along with the irrigation system is a must for monitoring the
+process.
+2.7 SOAKPITS
+A soak pit also known as a soak away refers to a covered porous walled chamber
+usually around 1.5 to 4 m deep, into which effluent is discharged after being settled
+for the pre-specified time, so that the effluent is slowly infiltrated into the
+surrounding soil. It is used in most cases for disposing pre treated waste water from
+septic tanks, grease traps, and grey water treatment installations.
+In Uganda and several other countries that can be categorized as low or middleincome, gravel-packing soak pits are a common practice for the disposal of small
+flows of waste water effluent or greywater. The sanitation guidelines refer to soak
+pits as inexpensive alternatives that do not require much area of land to be set aside
+and can only accommodate the influence volumes that are relatively small and may
+be a higher risk of groundwater pollution if they are poorly sited or designed (Ministry
+of Water and Environment, 2018).
+Through hydraulic infiltration, physical filtration, and biological processes, the
+effluent is infiltrated through the porous pit wall and the surrounding soil at a rate
+which is mainly controlled by the soil infiltration rate. The soil infiltration rate is
+obtained through percolation tests and the wetted wall area of the soak pit. Sandy
+or granular soils with high permeability are suitable while clayey or black-cotton
+soils have very low infiltration rates thus leading to quick ponding, back-up of
+wastewater, and surface overflow.
+
+
+As the gray water comes in contact with gravel and soil, it gets rid of suspended
+solids, soap scum, and very fine particles that are all held within the voids of the
+soil. Such solids together with microbial biofilm undergo the process of forming a
+clogging layer(biomat) at the interface between the soil and water. This layer
+gradually decreases the effective infiltration capacity of the soak pit (UNHCR &
+Eawag, 2024).
+
+
+Figure 1: Typical soak pit design (UNHCR & Eawag, 2024).
+
+
+
+
+
+
+CHAPTER3: METHODOLOGY
+3.1 ASSESSING THE PHYSICO-CHEMICAL CHARACTERISTICS OF GREY WATER.
+Grey water samples were collected from St. Francis Borgia, at key discharge points
+preserved below 4 degrees Celsius in a cooler box and transported to the laboratory.
+Samples were collected on different days in morning afternoon and evening to
+determine how they vary in different times due to different activities
+For the physical properties, these tests were carried out: turbidity and total
+suspended solids (TSS).
+For the chemical properties, these tests were carried out: pH, BOD, COD, phosphates
+and electrical conductivity.
+Procedure for determining BOD (APHA 5210B)
+Measure the initial dissolved oxygen level in the waste water sample. Pour a portion
+of the sample into a sealed BOD bottle and a separate bottle for dilution if needed.
+Incubate the sealed sample in the dark at 20oc for 5days. Measure the final Do level
+after this incubation period. Calculate the BOD by taking the difference of final DO
+initial DO
+Procedure for determining COD (APHA 520D)
+Pick a waste water sample and add a known amount of a strong oxidizing agent such
+as potassium dichromate in a digestion flask. Heat the flask at a high temperature
+for a set period to allow chemical reactions to happen. The remaining oxidizing
+agent is then measured through titration to determine the amount of oxygen
+required for chemical oxidation
+
+
+3.2 DETERMINING THE PERCENTAGE REDUCTION OF CONTAMINANTS BY
+UNTREATED AND TREATED QUARTZ SAND
+Sourcing of graded quartz sand from Jomai quary. Sieve quartz sand of particle
+size(2mm) through a 2mm sieve. Wash, thoroughly the quartz silica sand with
+distilled water and ensure it gets rid of any dirt. Quartz silica sand is then mixed
+with a ferric chloride (FeCl3) solution to introduce iron oxides in a volume ratio of
+1:4 where one unit of silica sand will be added in 4 units of ferric chloride solution.
+Slowly by slowly, add the NaOH in the mixture until optimum pH 6-8 and soak for 1-
+2 hours. pH is the most critical to determine the final structure, surface area and
+the stability of iron oxide coated sand. The FeOH precipitate forms directly on the
+sand surface and sand is separated from the mixture, washed with clean water and
+oven dried at 105 degrees Celsius. Wash again to remove free ions that may leach
+with treated water. Make experimental setups that involve batch and column
+experiments with different bed heights and determine percentage removal of
+contaminants using the concentrations before and after treatment. Batch
+experiments are to determine optimal conditions (pH, contact time, adsorption
+capacity) and column experiments simulate real-time filtration performance under
+continuous flow. Measuring of key parameters again to check the percentage
+removal of contaminants from the samples.
+Percentage removal =Initial Concentration-Final concentration x 100
+Initial concentration
+
+
+
+
+
+
+Figure 2: Ferric chloride and Sodium hydroxide pellets Figure 3: Plain quartz
+sand
+
+Figure 4: Coated quartz sand before and after oven drying
+
+
+
+
+
+
+
+3.3 DESIGNING GREY WATER TREATMENT UNIT WITH IRON COATED QUARTZ
+SAND
+By analyzing the quality and quantity of grey water, a suitable treatment unit is
+chosen using standard procedure. Determining the amount of grey water produced
+at St. Francis Borgia currently and future population projections, flow rates,
+velocities, contact time, filter depth and using AutoCAD for the drawings. It was
+found out that St. Francis Borgia generates 21 cubic metres of grey water per day
+with a population of 1115 students as of 2025. Pretreatment process was considered
+to remove large particles or debris from grey water. Filtration methods were
+incorporated to distribute water evenly over sand bed. Disinfection was to remove
+any pathogens that could have remained in the filtered water.
+
+
+
+
+
+
+
+
+
+CHAPTER 4: RESULTS AND DISCUSSION
+4.1 Introduction
+Grey water samples from key discharge points were analyzed at the National Water
+and Sewerage Corporation (NWSC) Bugolobi Laboratory to determine the physico
+chemical characteristics. The results obtained were compared to the National
+Environment Management Authority (NEMA) and NWSC effluent discharge guidelines,
+which set standards to protect human health, soil quality, and the environment. The
+parameters analyzed include Chemical Oxygen Demand (COD), Biological Oxygen
+Demand (BOD), Total Phosphates, Turbidity, Total Suspended Solids (TSS), pH, and
+Electrical Conductivity (EC).
+Results from grey water tested showed mean values of COD 128.8 mg/L, BOD 62
+mg/L, TSS 117.1 mg/L and TP 4.0 mg/L which confirmed that the greywater is highstrength and does not comply with NEMA (2020) discharge limits. The morning and
+evening peaks correlate with various activities that take place at the school like
+bathing/laundry activity which accumulate high volumes of grey water and more
+concentrations (Kulabako, 2009). The neutral pH (7.3) and low EC (248.6 μS/cm) are
+favorable, indicating no acute salinity or acidity issues for treatment or reuse (WHO,
+2006).
+
+
+
+
+
+
+Table 3: Results of grey water samples taken from St. Francis Borgia
+PARAMETER
+MORNING
+AFTERNOON
+EVENING
+MEAN
+COD
+146.3
+128.8
+BOD
+49.3
+74.7
+62.0
+TP
+3.8
+3.1
+5.1
+4.0
+29.6
+26.6
+37.7
+31.3
+TSS
+118.7
+80.3
+152.3
+117.1
+EC
+244.7
+241.7
+259.3
+248.6
+pH
+7.3
+7.2
+7.3
+7.3
+4.2 Chemical Oxygen Demand (COD)
+
+
+Figure 5:Variation of COD with time
+Morning
+Afteroon
+Evening
+COD(mg/L)
+TIME
+
+
+
+The COD value in the evening was 146.3 mg/L, which was above the NEMA and NWSC
+discharge limit of 70 mg/L. This trend aligns with greywater patterns in East African
+institutions, where evening bathing and laundry activities produce concentrated
+organic-rich greywater (Mbae et al., 2024). COD indicates the amount of oxygen
+required to oxidize totally both biodegradable and non-biodegradable organic
+matter in water. Evening high COD levels could be the result of a large amount of
+grey water that has high concentrations pointing to the presence of organic
+pollutants such as soap residues, oils, and detergents which are typical in grey water
+from showers.
+These pollutants interact with water and thus they require more oxygen for chemical
+oxidation since the inorganics cannot be decomposed naturally as shown in fig 5
+According to the adsorption theory, the presence of large amounts of biodegradable
+and non-biodegradable organics increases the oxygen demand and determines how
+much can be removed by adsorption onto modified media. Treated quartz sand with
+iron oxides offers ligand exchange sites and electrostatic attraction that enhance
+binding of organic anions, partially explaining the improved removal in Table 4.
+
+
+4.3 Biological Oxygen Demand (BOD)
+
+Figure 6: Variation of BOD with time
+The BOD value was measured as 74.7 mg/L in the evening, which was above the
+NEMA recommended limit of 50 mg/L for treated effluent discharge. BOD signifies
+the quantity of oxygen that living organisms would consume while eating away at
+organic matter, or rather in an aerobic situation. A high BOD indicates that the
+gray-water hides a lot of biodegradable organic materials like body fat, soap and
+skin coming from the shower water. If such water is disposed of or reused without
+proper treatment, the oxygen that is needed for microbial breakdown will outcompete the one used by aquatic organisms, which will eventually result in oxygen
+depletion.
+4.3.1 VARIATION OF BOD AND COD IN GREY WATER THROUGHOUT THE DAY
+Grey water has been mainly produced in schools from kitchen, bathroom, and
+laundry uses. With the passage of time, the quality of this grey water varies, thus
+affecting its parameters like Biochemical Oxygen Demand (BOD) and Chemical
+
+
+Oxygen Demand (COD). These fluctuations are mainly caused by humans' different
+activities and the differing amounts of water being produced at different times.
+Morning
+The generation of grey water in the morning is at its highest point when most of the
+students and staff take their baths, brush their teeth, and do laundry. Soaps,
+detergents, body oils, and a little bit of organic matter make up the grey water at
+this time. Consequently, BOD and COD levels range moderately high because of both
+fresh organic input and higher concentrations.
+On the other hand, the highwater volume leads to slight dilution thus lowering the
+concentration of the pollutants a bit. (fig6)
+Afternoon
+In the afternoon, the production of grey water is less because most daily activities
+have already taken place. The water might become a bit stagnant, which would
+allow some microbial degradation to happen. The BOD and COD values are moderate
+or slightly lower than in the morning due to the less addition of fresh organic matter
+to the system.
+Evening
+Grey water production in the evening goes up again because of increased bathing
+and cooking activities. This water usually contains food particles, grease, soaps, and
+other organic pollutants in higher proportions. Hence the BOD and COD levels are
+highest at night due to a higher concentration of pollutants and less dilution
+compared to the morning period.
+
+
+
+Influence of grey water volume on BOD
+The volume of water generated has an impact on the Biochemical Oxygen Demand
+(BOD) of grey water. From fig6, when the volume is high, such as during the
+morning, pollutants are more diluted thereby leading to a lower BOD concentration
+(dilution effect). In the case of the evening when the water volumes are low, there
+is less dilution of pollutants which results in the high BOD values. Hence, the
+concentration of BOD is inversely related to the volume of grey water produced.
+table
+4.4 Total Phosphates
+
+
+Figure 7: Variation of TP with time
+The total phosphate concentration was found to be 5.1 mg/L, in the evening time
+which is slightly above the NEMA standards for effluent discharge of 5 mg/L. These
+results reflect detergent-based phosphate inputs a problem widely documented in
+African and Asian greywater streams (Eriksson et al., 2002). These values are nearly
+
+
+same as those found in Ethiopian and Kenyan institutional greywater (4–8 mg/L)
+where detergent regulations are weak similar to Uganda
+Excessive phosphate levels can lead to eutrophication of surface water if runoff
+occurs. However, the moderate concentration observed in this study is not harmful.
+For irrigation purposes, such phosphate levels are beneficial, as phosphorus is a key
+nutrient that supports plant growth and root development.
+But also applying phosphates grey water for irrigation might result in the soil's high
+phosphorus content which could change the chemical composition of the soil causing
+nutrient imbalance.
+4.5 Total Suspended Solids (TSS)
+
+Figure 8: Variation of TSS with time
+The evening value of Total suspended solids concentration was 152 mg/L which is
+more than the NEMA discharge limit of 50 mg/L. These values are the main factor in
+the rapid clogging of soak pits. In Uganda, it has been reported that soak pits with
+TSS >100 mg/L will lose their infiltration capacity within 6–12 months due to the
+
+
+formation of a bio mat (Semiyaga et al., 2015). The TSS levels are over this limit in
+fig 8 thus demonstrating that the failure of the system was anticipated.
+TSS is made up of very tiny particles like silt, hair, soap residues, and other organic
+waste usually found in grey water. The presence of high TSS can slow down the water
+movement in soil and that can eventually lead to sealing up the surface and clogging
+the soak pits. The high TSS value implies that effective sedimentation or filtration
+is required before the grey water is approved for watering plants.
+4.6 Ph
+
+
+Figure 9: Variation of pH with time
+The pH of the grey water was 7.3 in the evening and morning time which falls within
+the NEMA and WHO acceptable range of 5.0 to 8.5 for effluent discharge reuse. This
+means that the grey water is not acidic or strongly alkaline hence it is safe for all
+types of soils and plants. A pH of 7 neutral helps nutrients and microorganisms in
+the soil.
+
+
+4.7 Electrical Conductivity (EC)
+The Electrical Conductivity (EC) was found to be 265 μS/cm, which is significantly
+lower than the NEMA recommended maximum limit of 1000 μS/cm. The
+measurement of EC indicates the amount of dissolved ions including sodium,
+chloride, and sulfate that are present in the water. Low EC values indicate low
+salinity, which is ideal for irrigation because it minimizes the risk of salt
+accumulation in soil and prevents osmotic stress in plants.
+High EC values, by contrast, suggest high salt levels that can damage soil structure
+and inhibit plant water uptake. Therefore, the recorded EC value (tab shows that
+the grey water poses minimal risk of soil salinization and is appropriate for reuse
+after basic treatment.
+4.8 PERCENTAGE REDUCTION OF CONTAMINANTS WITH PLAIN AND TREATED
+QUATRZ SAND
+4.8.1 COLUMN EXPERIMENTS
+Column experiments were carried out for adsorption and filtration with different
+bed heights, surface areas and with plain quartz sand and treated quartz sand at
+different contact times.
+Results showed that there is a higher percentage removal of contaminants by
+increase in contact time from 30minutes to 60minutes and bed height of treated
+quartz sand from 20cm was 40cm because adsorption is time dependent. The plain
+quartz sand showed a smaller percentage of contaminant reduction indicating that
+treatment(modifying) was necessary. This was indicated by different percentages by
+the parameters measured before and after treatment of grey water. The treated
+
+
+quartz sand showed better results possibly because higher adsorption capacity of
+iron oxides for contaminants. These findings are similar to studies in Kenya and South
+Africa where ICQS increased phosphate removal by 40–80% and enhanced organic
+matter capture (Oteng-Peprah et al., 2018)
+Table 4: Percentage reduction of contaminants by untreated quartz sand and
+treated quartz sand after column experiments
+
+Untreated quartz sand
+Treated quartz sand
+Media depth(cm)
+Percentage reduction (%)
+COD
+11.8
+22.1
+44.1
+47.1
+BOD
+21.6
+29.7
+40.5
+51.4
+Total phosphates
+34.5
+37.5
+41.2
+50.4
+11.6
+20.8
+49.6
+TSS
+35.2
+39.8
+62.9
+70.3

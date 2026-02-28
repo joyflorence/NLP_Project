@@ -1,0 +1,1321 @@
+Vol. 13(1), pp. 1-12, January-March 2021
+DOI: 10.5897/JEIF2020.1093
+Article Number: 054911F65534
+ISSN 2006-9812
+Copyright©2021
+Author(s) retain the copyright of this article
+http://www.academicjournals.org/JEIF
+
+
+Journal of Economics and International Finance
+
+
+
+
+
+Full Length Research Paper
+
+Financial inclusion: Is it a precursor to agricultural
+commercialization amongst smallholder farmers in
+Uganda? A comparative analysis between Lango and
+Buganda sub-regions
+
+Marus Eton1*, Fabian Mwosi2, Mary Ejang3 and Sammy Godfrey Poro4
+
+1Department of Business, Faculty of Economics and Management Science, Kabale University, Kabale, Uganda.
+2Department of Postgraduate Studies, Bishop Barham University College, Kabale Uganda.
+3Department of Public Administration and Management, Faculty of Management Sciences, Lira University, Lira, Uganda.
+4Basic Education and Adolescences Development Section, UNICEF, Uganda.
+
+Received 24 September, 2020; Accepted 17 November, 2020
+
+This
+study
+examines
+the
+contributions
+of
+in
+supporting
+commercialization amongst smallholder farmers in Uganda in Lango and Buganda sub-regions. The
+researcher adopted a comparative study and cross-sectional survey design where descriptive, bivariate
+and multivariate data analysis was used. Chi square procedure was run to test the hypothesis that
+financial inclusion does not affect agricultural commercialization amongst smallholder farmers in
+Lango and Buganda sub-regions. Regression analysis was specifically used to predict the level of
+change in agricultural commercialization due to changes in financial inclusion. The study identified
+financial inclusion as one variable that can predict the success of agricultural commercialization,
+though it varies from one region to another. In Lango, efforts by government to increase financial
+access is a positive factor to agricultural commercialization while in Buganda, it is a negative factor. In
+Lango, land is communal and not individually owned. Therefore, smallholder farmers need to access
+finances to purchase land for commercial farming. In Buganda, however, land is freehold, which makes
+smallholder farmers to own chunks of land from their parents. The study has established some
+common factors that limit agricultural commercialization in both Lango and Buganda, that is, expensive
+equipment and fluctuating prices while poor infrastructure is no longer a big worry. This paper
+recommends that, financial service providers should revise their lending terms downwards to reach
+smallholder farmers, some of whom lack collateral security to pledge for credit. While the government
+takes credit for improving infrastructure, government, through her policy organs like ministry of
+agriculture, should provide buffer prices against price fluctuations.
+
+Key words: Financial inclusion, agricultural commercialization, smallholder farmers.
+
+
+INTRODUCTION
+
+Many agencies, development partners and governments
+the world over have adopted financial inclusion as having
+the ability to support inclusive transformation in the
+community and rural areas (IFAD, 2016). Financial
+inclusion is a cross cutting issue where the policy makers
+need to develop policies that are linked to those
+
+2 J. Econ. Int. Finance
+
+
+
+operating in the financial sector. Demirguc-kunt et al.
+(2015) note that adequate progress has been achieved in
+raising financial inclusion levels globally where the
+unbanked people have drastically reduced by 20% to two
+billion in the period 2011-2015.In Uganda, the number of
+adults who could access formal financial services rose
+from 28% in 2009 to 54% in 2013 (CARE International,
+2014). Mobile money brought about a sharp rise in
+financial inclusion. This report further reveals that about
+15% of the adults have no access to formal financial
+services. In 2018, financial inclusion in Uganda stood at
+58%, which is almost double of what it was in 2009. The
+introduction of Agent Banking in 2016 and shared agent
+platform/switch to facilitate access to bank agents in 2018
+account for the notable rise in financial inclusion (Alliance
+for Financial Inclusion, 2019). However, the position
+remains low if compared to the global position of 69% in
+2017 and 63% in Sub Saharan Africa. The same report
+establishes that 77% of the adults in rural areas have
+formal financial inclusion, majority of who are men (63%).
+These statistics imply potential contributions of financial
+inclusion to the agricultural sector in Uganda, where 43%
+of household-based enterprises belong (Uganda Bureau
+of Statistics, 2016).
+Uganda‟s
+economy
+predominantly
+depends
+on
+agriculture since the 1920s, where cotton and coffee
+accounted for 90% of the total exports (Goobi et al.,
+2017). Around the years of independence, economic
+growth and development in Uganda was impressive,
+growing at an average annual rate of 6.7%. Around the
+same period, agriculture contributed more than one-third
+of the country‟s GDP. The expansion in the food
+processing industries at that time gave rise to this
+historical rate of economic growth and development
+(Uganda Bureau of Statistics, 2016). From mid-1960s,
+Uganda implemented agricultural and lending schemes
+that resulted in the establishment of two public sector
+banks (Uganda Commercial Bank and Cooperative Bank)
+to serve as a conduit for government lending schemes.
+These banks made losses for failure to follow commercial
+practices (Kilimani, 2007). However, political instability,
+poor governance and economic mismanagement that
+swept the country in the 1970s and early 1980s saw
+Uganda‟s persistent decline in the economy, casting it
+among the world‟s poorest and least developed
+countries. The real decline in GDP stood at 38%, with a
+greater effect on agriculture and trade sectors. The
+increasing insecurity at the time and the unattractive
+prices paid to farmers affected coffee prices significantly
+(Ministry
+of
+Finance,
+Planning
+and
+Economic
+Development, 2010; Brownbridge, 1996; Goobi et al.,
+2017). According to Uganda Bureau of Statistics (2016),
+agriculture contributed 24.0% to Uganda‟s GDP in 2014/
+
+
+
+
+2015 year and 80% of Uganda‟s exports, with coffee
+alone contributing 20% (Goobi et al., 2017).
+The integration of smallholder farmers into agricultural
+is
+significant
+to
+agriculture‟s
+contribution to economic growth thus enhancing financial
+inclusiveness. Dehaas (2016) states that Uganda
+registered 12 percent of smallholder farmers as the
+sellers of farms products and the net buyers stood at 66
+percent; therefore, accessibility to the market and
+transiting from subsistence farming to commercial
+farming can lead to economic growth. Uganda Bureau of
+Statistics (UBOS) (2015) observes that agricultural sector
+had grown faster by contributing 26 percent from 24
+percent to the GDP of Uganda, which is commendable as
+after embracing value addition. The importance of
+agricultural commercialization has significantly grown
+with the development of various strategies, which shifted
+from subsistence to commercial (FAO, 2013). Agriculture
+provides the primary source of income for the world
+economy and supporting agricultural commercialization
+may lead to an inclusive model for economic growth.
+Gashu et al. (2019) justifiably assert that a significant
+investment and creativity in agriculture is highly needed
+to achieve a sustainable economic growth. One way
+towards sustainable economic growth and development
+is
+and
+stimulating
+household incomes. Agriculture commercialization is the
+process of transition from subsistence farming to
+production-oriented marketing (Pradhan et al., 2010). The
+concentrations of commercial agriculture in Uganda
+consist of the following: Livestock farming, crop farming,
+fishing, forestry and recently horticulture, which have
+gained prominence. Majority of the population in Uganda
+depend on agriculture for their livelihood. They thus need
+an inclusive financial system to accelerate economic
+transaction, manage daily resources, improve lifestyle,
+and make investment to support growth. The Government
+of Uganda has supported agriculture by providing special
+incentives which included duty free tax on importation of
+plant
+and
+machinery,
+research
+and
+development
+expenditures are exempt, training and capital allowances
+on plant and machinery between 50-70% are exempted
+(Uganda Investment Authority (UIA), 2015). Agricultural
+modernization in Uganda may support change from
+subsistence agricultural system to a modern and
+commercialized system, though it calls for adoption of
+adequate interventions.
+Agricultural industry is significant to the society
+especially where it accounts for a larger share of the
+economic output. Most importantly, financial inclusiveness
+has not been emphasized in support to small holder
+commercialization of agriculture. Insufficient amount of
+commercialization of agriculture. Insufficient amount of
+
+*Corresponding author. E-mail: emarus@kab.ac.ug, eton.marus@gmail.com.
+
+Author(s) agree that this article remain permanently open access under the terms of the Creative Commons Attribution
+License 4.0 International License
+
+
+
+
+
+money has always been exerted to promote agricultural
+sustainability
+and
+development
+and
+majority
+of
+and
+entrepreneurs
+focus
+on
+production and technology which has not been consistent
+(Seidel et al., 2013). Agricultural financial sector has also
+been associated to the land rush growing globally.
+Fairbairn (2014) argues that financial investors intending
+to acquire land for large scale farming is on the rise and
+this is a major challenge facing commercial farmers.
+These challenges are unique to smallholder commercial
+agriculturalist and financial institution face similar hurdles,
+which may include but not limited to high transaction
+costs, regulatory framework and unfavorable climatic
+environment (IFC, 2012). The market dynamics currently
+faced by smallholder farmers does not support market
+access
+for
+the
+rural
+dwellers
+thus
+undermining
+agricultural commercialization.
+Economists
+and
+agriculturalist
+have
+linked
+the
+challenges in adopting innovation and technology in
+agricultural sector to access to credit. FAO (2015)
+establishes that inadequate infrastructure in the rural
+areas has made it difficult to support processing of
+agricultural produce for value addition, and other
+produces are perishable like vegetables, fruits, dairy
+products and others. Barnett et al. (2008) link the
+inadequate
+finance,
+which
+re-enforces
+poverty traps, and in essence, advocates for the riskbased finance programs. Despite the increasing attention
+and efforts by many developing countries where Uganda
+falls, environmental issues not withstanding delays in the
+adoption of technology affects smallholder agricultural
+commercialization (World Bank, 2016). Much emphasis
+on investing resources in domestic or smallholder
+agriculture is evident, Uganda‟s spending on agriculture
+has continuously declined despite its key role in the
+economy. In this respect, the low budget on this sector
+has negatively affected it and this affects the research on
+value addition, quality and regulation standards. The
+challenges
+the
+two
+regions
+face
+in
+commercialization amongst small holder farmers are not
+any different from other region. This study will help to
+identify key institutional issues that may support the
+transformation of smallholder farmers into large scale and
+modern agro-processing markets to achieve economic
+growth.
+
+
+Objectives
+
+(i) To establish the relationships between financial
+inclusion and agricultural commercialization amongst
+smallholder farmers in Lango and Buganda sub-regions
+(ii) To assess the role of financial inclusion in supporting
+Agricultural
+farmers in Lango and Buganda sub-regions.
+(iii) To examine the factors hindering the growth of
+agricultural commercialization amongst the smallholder
+Eton et al. 3
+
+
+
+farmers in of Lango and Buganda sub-regions.
+
+
+Hypothesis
+
+does
+not
+commercialization amongst smallholder farmers in Lango
+and Buganda sub-regions.
+
+
+LITERATURE REVIEW
+
+Conceptualizing financial inclusion
+
+Financial inclusion (FI) is the provision of affordable,
+timely and appropriately regulated access to financial
+services and products to all categories of people with the
+aim of improving and promoting the well-being of the
+population (OECD/INFE, 2012).The usage, adequacy,
+convenience,
+product
+knowledge,
+affordability
+and
+accessibility are some of the factors brought forward by
+many authors in describing financial inclusion (Aro-
+Gordon, 2016).Financial inclusion (FI) emerged as a
+major player in delivering financial services to the
+community and the disadvantaged poor at an affordable
+terms and conditions (Iqbal and Sami, 2017). It is
+important that the regulators, financial sectors and
+government create a conducive and enabling environment
+that supports the capacity of financial service providers
+through identification of the market demands by designing
+affordable products and services, which support financial
+inclusion (Arnold and Rhyne, 2016). Uganda has adopted
+the usage of mobile money services and technology that
+has significantly strengthened financial inclusion amongst
+the farmers in the rural and peri-urban areas. Digital cash
+transfers are most cost-effective methods of transferring
+money to small-scale farmers, which are scattered in
+rural areas. Finscope (2018) argues that mobile money
+services have driven financial inclusiveness to Ugandans.
+Out of the 58% of the population who have access to
+formal financial services, only 56% conduct their
+transaction through mobile money services.
+Accessibility to digital financing is critical for the
+transformation of smallholder agricultural sector. Finscope
+(2018) states that 22% of Ugandan adults are using
+informal channels in accessing financial services whereas
+22% are excluded financially therefore meaning that 44%
+of Ugandan adults are not getting the deserved services
+from the financial sector. Just like other developing
+countries in the world, Uganda has adopted the usage of
+telephone banking, whose penetration stands at 10%
+(Bruhn and Love, 2014). This is still low; however, the
+usage is likely to increase if most Ugandans are
+continuously sensitized. Callen et al. (2014) note that
+technology can improve savings; this can be done by
+using mobile point service centers to collect weekly
+deposits and this increases higher saving rates and
+
+4 J. Econ. Int. Finance
+
+
+
+increases household income. Kast and Pomeranz (2014)
+argue that the reduction in the barriers to a formal saving
+by individuals offering free bank accounts may result in a
+decrease in short term debt and increased ability of
+coping with consumption shocks. Serrao et al. (2013)
+state that inequality amongst the community is widening
+and believed that limited access to financial services is
+seen as a factor responsible for the persistent and
+widening income inequality and slow economic growth.
+UNCDF (2015) notes that policy makers hope that the
+rising level of financial inclusiveness would reduce
+inequality and raise growth. Kotler and Keller (2015)
+observes that there are non-financial institutions legally
+operating in the community offering financial products
+and services to clients without a regulatory framework
+given by a financial authority.
+Tania and Adalbert (2018) point out the challenges
+associated to financial inclusion that are linked to
+unfavorable business environment and ever rising
+transaction cost, which makes it very difficult for the
+sustainability of formal financial institution. DeOlloqui et
+al. (2015) argue that the challenges that limit financial
+inclusion are especially those population who are
+excluded, and majority are in the rural areas. The rural
+environment faces multiple risks such as lower rates for
+formal property ownership, which may lead to reduction
+in the range of collateral security and these affect the
+coverage and the quality of the availability of the
+infrastructure (Valenzuela and Cruz, 2017). Access to
+financial service providers and bank branches has proved
+to be problematic especially to smallholder farmers and
+agriculturalist who are based in rural areas where
+banking services are not easily available; whereas urban
+dwellers can access these financial services as and when
+they need them (World Bank, 2015). Credit services,
+saving and member‟s deposits remain the basic financial
+services, which can be accessible while others are
+outreach like networks and retail location (World Bank,
+2014). Financial experts argue that access to a
+reasonable credit, at affordable rates to the poor will
+increase financial inclusiveness to the disadvantaged
+poor (Abdulkareem, 2019).It is significant to note that
+financial exclusion in developing countries affects mostly
+the rural dwellers and therefore it is important to applause
+the contribution of informal financial lenders in filling this
+gap. Therefore the concerned authority should provide a
+monitoring and supervisory role to protect the borrowers
+(Eton et al., 2019). Similarly, Akinlo (2014) establishes
+that access to financial services is a major role in the
+development of the rural poor by increasing income and
+facilitating investment in various sectors creates an
+opportunity for employment therefore reducing the
+vulnerability of the poor. Tambi (2018) states that
+development partners, private sector especially formal
+financial institution and governments should sensitize the
+smallholder farmers on the availability and existence of
+financial services.
+
+
+
+
+Conceptualizing agricultural commercialization
+
+Agricultural development economics establishes ways of
+breakthrough from semi-subsistence methods (in which
+smallholders are trapped) to the modern ways of farming
+which is commercial in nature (Muamba, 2011).The
+process involving transforming agricultural practices from
+the rudimentary subsistence farming to commercial
+farming is agricultural commercialization (Justus et al.,
+2016). Smallholder farmers can engage in agricultural
+commercialization if given all the necessary support thus,
+contributing to economic growth of the economy.
+Agricultural commercialization operates in two folds: the
+one, which includes food crops and the one of cash
+crops, which allows for production diversity (Jennifer and
+Tina, 2014). The current agricultural commercialization or
+enterprise requires investing heavily on the equipment
+and guard against risk associated with uncertainties from
+natural disasters like droughts and floods. IPCC (2012)
+argues that farmers in sub-Saharan Africa, Uganda
+inclusive suffer climatic change that affects agricultural
+production capacity. Importantly, agriculture in Uganda is
+largely rainfed therefore farmers are vulnerable to
+drought and floods. Climatic change has proved to be a
+global phenomenon that greatly affects agricultural
+production by causing variation in weather patterns,
+drought and alterations in pests and diseases and the
+extent of its adversity would depend on the adaptability
+capacity of the farmers (Gornall et al., 2010).To increase
+the income of smallholder farmers in developing
+countries, agricultural commercialization should focus on
+developing better policies that supports commercialization
+of smallholder agriculture (Muriithi and Matz, 2015).
+Smallholder agricultural commercialization faces various
+challenges, which among others include inadequate
+financing for long-term growth. This is a serious
+challenge in the agricultural growth sector where
+agriculture has turned to be capital-intensive industry
+(Eraskine, 2014). Limited farmlands and variation in
+climatic conditions are some of the major challenges
+faced by smallholder farmers who are involved in
+commercial agriculture (Tambi, 2018). Technological
+barriers have posed as a challenge to agricultural
+commercialization that may prevent smallholder farmer‟s
+access to credit, thus limiting productivity and income
+generation
+(Levine,
+2005).
+Whereas
+technologies
+effectively support agricultural commercialization, inability
+to access capital especially among the underprivileged
+rural dwellers hinders smallholder farmers in developing
+countries from adopting them (Shiferaw et al., 2015).
+Smallholder farmers with smaller plots are often
+constrained by their inability to invest in modern inputs,
+which affects their income. EKN (2015) observes that
+small-scale farmers cannot use tractors since farmers
+cannot afford the technology. As an intervention, the
+adoption of technology has helped link the smallholder
+farmers and markets and this has enhanced the
+
+
+
+
+
+productivity by different farmers (GOP, 2015). Innovations
+in the agricultural sector is significant in lowering per unit
+cost, reduces hunger and therefore boosting the income
+of the rural dwellers (Maertens and Barrett, 2013).
+Access to usage of technology, land, infrastructure and
+adequate amount of rainfall significantly affects the
+decision of farmers in agricultural commercialization
+(Olwande et al., 2015). The continuous usages of poor
+technology, poor quality seeds, pesticides and fertilizers
+by smallholder farmers have greatly affected the
+production and markets prices. Herrmann (2017) argues
+that using modern farming techniques and technology
+can lead to production of good quality products with high
+demand in the market and these increase their income
+levels. This therefore changes the conditions of input and
+output prices, marketing systems, transaction cost and
+the risks that farmers anticipate.
+Gebremedhin and Jaleta (2010) state that agricultural
+production has been hit by falling prices of agricultural
+products, inadequate technology, lack of infrastructure
+and inefficient marketing institutions that cause a high
+risk to household income. Woolverton et al. (2014)
+observe that smallholder farmers have continued to
+engage in subsistence agriculture, which is less
+profitable, and therefore cannot reap from the benefits
+arising from agricultural commercialization. Gashu et al.
+(2019) note that new initiatives, reforms in policies and
+initiatives
+should
+be
+supported
+while
+appropriate
+investments needed to be developed which supports
+agricultural innovation and growth. AGRA (2016) argues
+that a number of interventions have been made by
+various bodies that led to the transformation of
+smallholder farmers into a major source of income,
+employment and food for consumption. Smallholder
+lack
+links
+to
+the
+markets
+locally
+and
+internationally, making them more prone to exploitation
+by intermediaries. The public and private sector ought to
+contribute towards agricultural commercialization through
+offering financial incentives and training (Kabiti et al.,
+2016).It is important to note that formation of agricultural
+cooperatives or partnership by farmers with already
+established farmers supports markets commercialization
+(Bitzernd
+and
+Bijman,
+2014)
+although
+poor
+and
+smallholder farmers could be left out on the argument
+that their relevance is not felt. Olwande et al. (2015)
+argue that improving markets accessibility and reduction
+of costs affects positively the smallholder farmers market
+participation which my lead to marketable surplus of their
+produce. The approach of improving smallholder farming
+methods and improved accessibility to the market
+transforms the household economic status (Yusuf et al.,
+2018). The integration of cash generating crops to the
+line of various crops produced by smallholder farmers will
+increase their level of income and this motivates them
+(Rubhara and Mudhara, 2019). There is much support
+still needed for sustainability and transformation of
+agricultural processes in the sub-Saharan Africa to meet
+Eton et al. 5
+
+
+
+the sustainable development goals.
+
+
+and
+
+The recent trends in developing nations have seen
+farmers engage in agricultural commercialization, and
+adoption of financial flows into less risky industries and
+corporations indicates that farmers are highly indebted
+and therefore creating avenues for financial partnerships
+(Sippel et al., 2017). Better financial services should
+improve financial accessibility to the poor, which provides
+support for a sound and safe spread of better modes of
+financial service delivery that can easily reach the poor
+and upscale the successful models for poor households
+to embrace agricultural commercialization. Soederberg
+(2013) notes that financialization is expanding into areas
+beyond
+traditional
+export
+nation
+as
+international
+organizations
+are
+promoting
+inclusiveness in most of the developing nations as a tool
+for development of agriculture and growth. Most
+development agencies and banks encourage private
+financing
+to
+support
+commercialization (Aitken, 2013). The government of
+Uganda, its agencies and private sector have developed
+strategies to aid the poor improve on agricultural
+commercialization in both rural and peri urban areas and
+this has increased incomes for the poor. The World Bank
+(2014) notes the critical areas where governments have
+to focus on lowering credit exposure to the agricultural
+sector and the supply chain and much concentration
+should be in the geographical disadvantaged areas,
+financial infrastructures and inadequate training amongst
+the smallholder commercial farmers regarding financial
+products and services. By lowering transaction cost in the
+agricultural sectors, money transfers and mobile money,
+users ought to protect farmers against any risks (Jack
+and Suri, 2014). The usage of mobile money services by
+smallholder farmers is associated with increased farm
+profits, household income and increased input usage,
+which supports agricultural commercialization (Kikulwe et
+al., 2014) .The provision of payments, insurance, credits
+and savings to the financially disadvantaged and poor at
+a reasonable cost remain basic to accessing formal
+financial services. Agricultural insurance products helps
+commercial farmers address the constraints affecting
+them such as limited land for cultivation, inadequate
+inputs for investment and risk associated to production
+(Norton et al., 2014).The agricultural sector globally
+suffers from inadequate financing, which reduces the
+potential of the agriculturalist in utilizing agricultural
+resources adequately and effectively (Gupta, 2012).
+Households can improve their well-being through
+additional income from sales of foodstuff for consumption
+(Beaman et al., 2014). Investing in farm inputs will
+eventually lead to increase in production sales.
+
+6 J. Econ. Int. Finance
+
+
+
+Sanfo and Gerard (2012) state that various interventions
+can mitigate the adverse effects of poor climatic
+conditions. Such initiatives increase access to financial
+services at household level, and enhance the adaptability
+capacity,
+which
+would
+improve
+commercialization. The rural poor communities have
+inadequate access and insecure access to natural
+resources due to degradation, land fragmentation;
+continuous competition for the limited available resources
+and unfavorable government policies, which increase
+income inequality and financial exclusion among rural
+dwellers (Prato and Longo, 2012). The high demands for
+collateral by formal financial institutions, high-perceived
+risks associated lending to farmers and inadequate
+capacity in developing friendly credit instruments for
+farmers have led to under capitalization in the agricultural
+sector. Financial credit will be a necessity for smallholder
+farmers to increase their income and agricultural
+productivity although they are facing a challenge to
+access credit due to lack of collateral (World Bank, 2015).
+Subsistence farmers and smallholder farmers if given
+extensive and financial support are most likely to adopt
+commercialization of agriculture (Rubhara and Mudhara,
+2019). Most clients have stated that high transaction cost
+has been a major challenge faced by households in
+obtaining credits from formal financial institution such as
+loan applications while evaluating collateral security,
+monitoring servicing of the loans and these eventually
+delays farmers which affects the planting periods (Ali et
+al., 2014). Banks assess loan applications for agricultural
+commercial farmers by taking into consideration the cash
+flow streams and availability of sources of income (ABA,
+2014). The reduction to barriers to formal savings by
+offering free accounts to individuals would decrease the
+short-term debt and increase ability to comply with the
+consumption shocks and well-being of the households
+(Kast and Pomeranz, 2014). Subsidization of savings by
+elimination of minimum balances for the customers will
+provide a temporary interest bonus to increase bank
+account opening and household income (Schaner, 2015).
+Informal financial services have proved to be costly,
+restricted farmers in a particular value chain, lack
+diversity and this affects the processors and traders who
+may be operating at small scale (FAOAcademic de
+Centro_ America, 2016).
+
+
+METHODOLOGY
+
+The researchers adopted a comparative study and cross-sectional
+survey design. The opinions, trends and attitudes of the participants
+were collected at one point in time on financial inclusion and
+agricultural commercialization. This study adopted the qualitative
+approach to obtain naturalistic experiences of commercial farmers
+in both Lango and Buganda sub-regions. The study adopted the
+quantitative approaches to obtain quantifiable information on
+commercial farmers that would easily be analyzed and generalized.
+Primary and secondary data collection methods were also used in
+the study. Secondary data were majorly from government and
+private institutions reports.
+
+
+
+
+Close-ended self-administered questionnaires were developed to
+provide uniformity of measurement. Bird (2009) states that a
+closed-ended question is easily admissible, easy to code and
+analyze and therefore produces a complete question that avoids
+irrelevant responses. The instrument was pretested on commercial
+farmers in some Kayunga district in Buganda sub-region. The
+instrument indicated a reliability coefficient of (α =.749). This was
+above 0.7, which is acceptable. Therefore, the instrument used was
+internally stable. The instrument had 11 items measuring financial
+inclusion, 13 items measuring agricultural commercialization, and
+11 items describing challenges in agricultural commercialization.
+Open-ended questions were developed and administered to
+commercial farmers that show excellence in National Agricultural
+and Research Organization (NARO) demonstration projects in
+Lango and Buganda sub-regions. This study identified these
+farmers from district reports, which constituted secondary
+information for this study.
+The study was conducted in the districts of Dokolo, Apac, and
+Lira in Lango sub-region while in Buganda sub-region, the study
+was conducted in the districts of Luwero, Masaka and Wakiso,
+respectively. The choice of the districts under study was due to the
+fact that the promotion of agricultural commercialization had taken
+shape as a result of the availability of market, land and increase in
+the number of prominent entrepreneurs engaging in smallholder
+agriculture for commercialization. Agricultural commercialization in
+Lango is characteristic of annual crops (millet, maize, simsim,
+groundnuts, and maize). On the other hand, agricultural
+commercialization in Buganda is characteristic of perennial crops
+(banana, pineapples, coffee, and sugarcane).
+A target population of 1700 was sought for in the study and 313
+respondents were considered against the total population of 6320
+from which the target was drawn (Uganda Bureau of Statistics
+(UBOS), 2018). The sample size of the respondents was from the
+selected districts which included Dokolo 44, Apac 55 and Lira 60
+from Lango sub-region while from Buganda sub-region Luwero 44,
+Wakiso 54 and Masaka. 58 districts were considered and it is from
+these districts where the sample size was determined using Krejcie
+and Morgan 1970 Table. The varying sample size per district was
+based on the premise that the population size of each district varied
+and the number of smallholder farmers dealing in commercial
+agriculture was also not the same. To identify the right participants,
+the researchers visited the office of the District Agricultural Officers,
+who availed lists of potential commercial farmers. Using simple
+random sampling procedures, sample sizes proportional to the
+targeted populations were drawn from each district. Creswell
+(2013) believes that simple random sampling eliminates potential
+selection bias that is likely to occur in the process of selecting
+participants. This procedure of sample selection was used because
+the population appeared finite (Amin, 2005). Numerical data
+collected through questionnaires were cleaned and validated to
+ensure accuracy and consistence. Descriptive, bivariate and
+mutivariate data analysis techniques were applied. Chi square
+procedure was run to test the hypothesis that financial inclusion
+does not affect agricultural commercialization amongst smallholder
+in Lango and Buganda sub-region. Regression analysis was
+adopted
+to
+predict
+the
+level
+of
+in
+commercialization due to changes in financial inclusion. Verbatim
+statements from key informants supported quantitative data
+analysis.
+
+
+RESULTS AND DISCUSSION
+
+In both Lango, and Buganda, most of the participants
+were male constituting 51.4% and 48.6% were female
+respectively. In most part of Uganda, productive resource
+like land is majorly owned by men. Therefore, it comes as
+
+Eton et al. 7
+
+
+
+Table 1. Correlation test.
+
+Variable list
+Output
+Agricultural commercialization
+(Lango)
+Agricultural commercialization
+(Buganda)
+Financial Inclusion
+Correlation
+0.314
+-0.340
+
+p-value
+0.000
+0.003
+
+N
+
+**Correlation is significant at the 0.01 level (2-tailed).
+
+
+
+no surprise that men dominate commercial agriculture.
+Even though women might have access to financial
+services, they lack securities to pledge to financial
+services providers. The lack of collateral security needed
+by formal financial institutions before extending credit
+supports Ali et al. (2014). These authors showed that the
+high cost of transacting loans affects households from
+obtaining credit, of which women are most affected. In
+terms of age, most of the participants from Lango were of
+35-49 (44.3%) while in Buganda, most of the participants
+were of age 18–34 (45.2%). The difference in
+participation according to age suggests differences in
+land tenure systems. In Lango, land is communally
+owned. Therefore, the adults and the old are likely to own
+land. In Buganda, land is freehold and highly inheritable,
+which has seen young people owning large chunks of
+land. Though ownership of land may not imply
+participation in commercial agriculture, those with land
+have high chances of engaging in commercial agriculture.
+In both Lango and Buganda, most of the participants had
+attained a university degree constituting 34.4% and
+39.7% respectively. In the past, participation in agriculture
+was an activity left to the rural poor and uneducated. With
+the increasing number of university graduates that are
+unemployed, many are turning to commercial agriculture
+as a source of employment. The educated are likely to
+transfer knowledge, and adopt improved technologies
+easily than the less educated. Secondly, the educated
+are likely to exploit the increasing opportunities of access
+to financial services than the less educated. In both
+Lango and Buganda, most of the participants used
+mobile money services between 5 to 9 times a week
+constituting 38.8% and 50.7% respectively. Though
+participants do not use mobile money services for
+commercializing agricultural practices, the mere fact that
+the service is available enhances commercial agriculture.
+This coincides with the findings on financial services
+commonly used by commercial farmers. In both Lango
+and Buganda, mobile money constituting 66.1% and
+80.8% were the most used financial services. Commercial
+agriculture is commonly practiced in rural area where
+mobile money services are more common than other
+financial services. Though village banking might be
+accessible in rural areas, they are not attractive to
+educated farmers. Food crop constitute agricultural
+commercialization in Lango and Buganda, constituting
+(66.1%) and 54.8% respectively. In Uganda, there is a
+thin line between food crops and cash crops since almost
+all food crops are marketable. Secondly, it is cheaper to
+cultivate food crops on small farmland than cash crops.
+
+
+The relationships between financial inclusion and
+agricultural commercialization amongst smallholder
+farmers in Lango and Buganda sub-regions
+
+The study employed a correlation test to establish the
+relationship between financial inclusion and agricultural
+farmers.
+Correlation coefficient ranges from zero (no relationship)
+to one (perfect relationship). Correlation coefficients very
+close to zero indicate weak relationships while those very
+close to one indicate very strong relationships. Positive
+correlation coefficients indicate that the two variables
+change in the same direction while negative correlation
+coefficients indicate that the two variables change in
+opposite directions. The findings are based on a
+response rate of 81.8% (256 out of 313) (Table 1).
+In Lango, the relationship between financial inclusion
+and agricultural commercialization (r =0.314; p-value
+=0.000) was weak. The statistics imply government‟s
+effort to promote financial inclusion is associated to a
+weak change to commercialization. However, the p-value
+shows
+that
+and
+are
+linearly
+related
+with
+99%
+confidence. In Buganda, the relationship between
+financial inclusion and agricultural commercialization
+amongst small holder famers (r =-0.340; p-value =0.003)
+was weak and negative. The statistics imply that an effort
+by government to promote financial access is associated
+with a reduction in commercialization in Buganda.
+However, the p-value shows that financial inclusion and
+agricultural commercialization in Buganda are linearly
+related with 99% confidence. The findings support The
+World Bank (2014), which recommends that governments
+should
+focus
+on
+lowering
+credit
+exposure
+to
+geographically disadvantaged areas where commercial
+farmers have inadequate training in financial products
+and services. The report suggests that commercial
+farmers are not educated enough on financial products to
+take advantage of them. In Uganda, not all commercial
+farmers have enough information on agricultural financing
+
+8 J. Econ. Int. Finance
+
+
+
+Table 2. Regression coefficients.
+
+Model summary
+Lango
+R
+0.314(a)
+-0.340(a)
+R square
+0.099
+0.115
+Adjusted R square
+0.094
+0.103
+Std. error of the estimate
+6.8653
+8.42049
+
+aPredictors: (Constant), Financial Inclusion, bDependent Variable: Agricultural Commercialization
+
+
+
+in commercial banks, except in Buganda, where the
+practice is gradually penetrating among the educated.
+However, the experience seems to disagree with
+(Kikulwe et al., 2014) who established that using mobile
+money services is associated with increased farm profits,
+household income, and input usage. These related
+benefits of financial inclusion to agriculture take shape in
+an environment that has less barriers to agricultural
+production than financial access. Otherwise, this study
+shows that a number of factors limit agricultural
+commercialization beyond finances. The present findings
+disagree with Norton et al. (2014) who draw findings from
+developed economics regarding agricultural insurance. In
+Uganda, very few commercial farmers have insured their
+farms against natural factors. One key informant
+observed:
+
+“...our effort to take a living out of agriculture is very
+constrained...the loans are available but tagged with
+exorbitant
+interest
+rates...this
+coupled
+with
+the
+unpredictable weather may lead to complete losses at
+times...”
+The
+study
+observes
+that
+commercialization in Uganda is growing under tides of
+nature and the volatile economy. When the season is
+bumper, prices drop drastically making it difficult to repay
+agricultural loans. When weather conditions threaten crop
+performance, the loss is severe that repaying agricultural
+loans is very difficult.
+
+
+The role of financial inclusion in supporting
+agricultural commercialization amongst smallholder
+farmer’s in Lango and Buganda sub-regions
+
+To assess the role that financial inclusion plays in
+supporting
+smallholder farmers in Lango and Buganda sub-regions,
+the study adopted regression analysis. Regression is a
+mathematical relationship between the independent and
+dependent variables. The model uses R Square to assess
+the variation in the dependent variable accountable to the
+independent variable (Table 2).
+Financial inclusion explains only 10% (R Square
+=0.099) of the variation of agricultural commercialization
+in Lango. In Buganda, financial inclusion explains only
+11.5% (R Square =0.115) of the variation of agricultural
+commercialization. The statistics imply absence of
+significant differences in the effect of financial inclusion
+on agricultural commercialization amongst small holder
+famers in the two sub-regions. Secondly, the effect of
+financial inclusion on agricultural commercialization
+amongst small holder farmers is low, which suggests the
+interplay of other factors in both regions. It should be
+noted that though the effects of financial inclusion appear
+to be low in both communities, financial inclusion
+increases agricultural commercialization in Lango and
+decreases in Buganda. These findings seem to agree
+with Rubhara and Mudhara (2019) who established that
+subsistence farmers are likely to adopt commercial
+agriculture if given financial support. While it is true that
+inadequate financial support is one limiting factor to
+commercial agriculture amongst small holder farmers, it
+is just a microcosm to the many barriers to agriculture
+development in Uganda. The findings further support
+Prato and Longo (2012) who identified inadequate and
+insecure access to natural resources as responsible for
+the increasing income inequality and financial exclusion
+among rural dwellers. Not to suggest that commercialized
+agriculture is an activity of the rural poor, financial
+exclusion affects mostly the poor.
+The negative
+relationship between financial inclusion and agricultural
+in
+Buganda supports FAOAcademic de Centro-America
+(2016) who observed that informal financial services tend
+to be costly, lack diversity, and affects borrowers on small
+scale. The costs associated with transacting credit tend
+to inch on the profits commercial farmers are likely to get.
+However, whether informal or formal financial services,
+accessing credit in Uganda is still costly, especially
+among the low-income earners.
+
+
+Factors
+hindering
+the
+growth
+of
+commercialization amongst smallholder farmers in
+Lango and Buganda sub-regions
+
+To
+assess
+the
+factors
+affecting
+commercialization amongst the smallholder farmers, the
+study subjected descriptive measures on a set of factors
+drawn from the Ugandan environment. The study used
+„arithmetic mean‟ to show where participants‟ views
+clustered mostly, and „standard deviation‟ to show where
+
+Eton et al. 9
+
+
+
+Table 3. Factors affecting agricultural commercialization.
+
+Variable List
+Lango, N = 183
+Buganda, N = 73
+Mean
+Std.
+Mean
+Std.
+Expensive equipment
+4.5
+0.718
+4.44
+0.957
+Weather changes
+4.19
+0.851
+4.41
+0.955
+Droughts
+3.85
+1.042
+3.84
+1.269
+Floods
+3.9
+1.003
+3.82
+1.358
+Pests and diseases
+4.45
+0.738
+4.36
+0.903
+Inadequate financing for long-term growth
+4.27
+0.75
+4.41
+0.879
+Limited farmland
+3.97
+1.141
+3.79
+1.354
+Inadequate technology
+4.27
+0.755
+4.15
+0.923
+Inability to access capital
+4.04
+0.997
+4.23
+0.993
+Inability to invest in modern inputs
+4.11
+0.811
+4.11
+1.061
+Fluctuating prices
+4.31
+0.918
+4.48
+0.818
+Inefficient marketing institutions
+3.73
+1.186
+3.85
+1.232
+Poor infrastructure
+3.97
+1.266
+3.81
+1.478
+
+Source: Field data (2020).
+
+
+
+participants‟ opinions deviated mostly (Table 3). These
+scores were computed from a 5-point likert scale.
+In Lango, the high mean scores point to expensive
+equipment (mean = 4.5; Std. =0.718), pests and diseases
+(mean = 4.45; Std. =0.738), and fluctuating prices (mean
+= 4.31; Std. =0.918) as key among the limiting factors to
+agricultural commercialization. In Buganda, high mean
+scores point to fluctuating prices (mean = 4.48; Std.
+=0.818), expensive equipment (mean = 4.44; Std.
+=0.957), weather changes (mean = 4.41; Std. =0.955),
+and inadequate financing for long-term growth (mean =
+4.41; Std. =0.878) as key among the limiting factors to
+commercialization.
+The
+factors
+limiting
+agricultural commercialization in both communities,
+based on mean scores are expensive equipment, and
+fluctuating prices. While the mean scores do not reveal
+unique
+patterns
+of
+concentration
+of
+opinions,
+a
+comparison of standard deviations shows fluctuating
+prices as the most important factor limiting agricultural
+in
+both
+communities.
+In
+both
+communities, standard deviations indicate that poor
+infrastructure is not a worrying problem to agricultural
+commercialization. The findings seem to disagree with
+IPCC (2012) and Tambi (2018) who argued that climatic
+change has the greatest effect on agricultural production.
+Climatic
+affects
+productivity
+contextually. For instance, farmers who cultivate in
+wetlands are least likely to be affected by climatic
+changes since wetlands do not dry completely. Similarly,
+farmers in mountainous areas are least likely to be hit by
+climatic changes, especially those that are situated on
+the windward side of the mountain. The findings in
+Buganda region agree with Levine (2005) and Shiferaw
+et al. (2015) who relate agricultural productivity to access
+to credit. Buganda region is near Uganda‟s capital city,
+Kampala, where financial services are easily available.
+However, there are isolated pockets of commercial
+agriculture in Luwero and Masaka, which are known for
+pineapples, and coffee production respectively. Wakiso
+for example is a city suburb with very small pockets of
+commercial agriculture on limited farmland. Therefore,
+access to finance in this region is negatively associated
+to agricultural commercialization.
+
+
+Hypothesis
+testing
+on
+and
+agricultural commercialization
+
+The study adopted Chi-Square results under cross
+tabulation procedure to test whether financial inclusion
+and agricultural commercialization are independent. As a
+guide to interpretation, an asymptotic significant value
+(Asymp. Sig. <0.05) indicates that the variables are
+related while Asympt. Sig. >0.05 indicates that the
+variables are independent (Table 4).
+In Lango, Asympt. Sig. <0.05, therefore rejecting the
+null hypothesis, which indicates that financial inclusion
+and
+are
+related.
+In
+Buganda, Asympt. Sig. <0.05, which also leads to the
+rejection of the null hypothesis, indicating that financial
+inclusion and agricultural commercialization are related.
+Based on the asymptotic significant values of the cross
+tabulation,
+and
+commercialization are related in both Lango and
+Buganda. The study rejected the null hypothesis that
+does
+not
+commercialization amongst smallholder farmers in both
+Lango and Buganda sub-regions; and accepted the
+alternative hypothesis that financial inclusion affects
+agricultural commercialization amongst small holder
+
+10 J. Econ. Int. Finance
+
+
+
+Table 4. Chi-Square results.
+
+
+Lango
+Asymp. Sig. (2-sided)
+Asymp. Sig. (2-sided)
+Pearson Chi-square
+0.000
+0.000
+Likelihood ratio
+0.774
+1.000
+Linear-by-linear association
+0.000
+0.003
+Number of valid cases
+
+The study set HO: = Null hypothesis, and HA: = Alternative hypothesis. HO: Financial inclusion does not affect agricultural
+commercialization amongst smallholder farmers in Lango and Buganda sub-regions; HA: Financial inclusion affects agricultural
+commercialization amongst smallholder‟s farmers in Lango and Buganda sub-regions.
+Source: Field data (2020)
+
+
+
+farmers in both Lango and Buganda sub-regions. The
+study is likely to obtain the same conclusion from over
+95% of the sampled objects. Notwithstanding, directional
+measures indicate that financial inclusion positively
+affects agricultural commercialization in Lango, and not in
+Buganda.
+
+
+CONCLUSION AND POLICY IMPLICATIONS
+
+Agricultural commercialization is one step forward to
+poverty alleviation in a developing country like Uganda
+but its success will persistently lean on a set of economic
+and natural variables. This study has identified financial
+inclusion as one variable that can predict the success of
+farmers, though it varies from one region to another. In
+Lango, government has a positive effect on financial
+inclusion in agricultural commercialization; while in
+Buganda, it is a negative factor. In Lango, land is
+communal and therefore smallholder farmers need to
+access finances to purchase or rent land for commercial
+farming. In Buganda, however, land is freehold, which
+makes smallholder farmers to inherit chunks of land from
+their parents. They need financial assistance to boost
+productivity than acquiring land. Nevertheless, these are
+relative positions in both Lango and Buganda because
+the overall input of financial access to agricultural
+commercialization is generally low. Of course, in Lango,
+farmers do not have collateral security to pledge before
+financial service providers while in Buganda, especially in
+Wakiso, land is expensive for commercial farming due to
+rapid urbanization. The study has established some
+common factors that limit agricultural commercialization
+amongst smallholder farmers in both Lango and Buganda
+that is expensive equipment and fluctuating prices while
+poor infrastructure is no longer a big worry. The existence
+of these factors and some shadows in financial access
+gave a strong ground to reject the null hypothesis that
+access
+does
+not
+commercialization amongst smallholder farmers in both
+Lango
+and
+sub-regions.
+We
+therefore
+recommend that, financial service providers should
+continue revising their lending terms downwards to reach
+smallholder farmers, many of whom lack collateral
+security to pledge for credit. While the government takes
+credit for improving infrastructure, government, through
+her policy organs like Ministry of Agriculture, should
+provide buffer prices against price fluctuations. This study
+contributes a unique relationship between financial
+inclusion and agricultural commercialization amongst
+smallholder farmers by drawing from a plethora of a
+comparative analysis. Future researchers should consider
+examining how price fluctuation could be handled to
+support smallholder farmers to increase productivity.
+
+
+CONFLICT OF INTERESTS
+
+The authors have not declared any conflict of interests.

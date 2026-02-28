@@ -1,0 +1,21 @@
+Background: The African eggplant (Solanum aethiopicum) is a nutritious traditional vegetable used in many African countries,
+including Uganda and Nigeria. It is thought to have been domesticated in Africa from its wild relative, Solanum anguivi. S.
+Received: 26 January 2019; Revised: 14 July 2019; Accepted: 24 August 2019
+C⃝The Author(s) 2019. Published by Oxford University Press. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium,
+provided the original work is properly cited.
+
+aethiopicum has been routinely used as a source of disease resistance genes for several Solanaceae crops, including Solanum
+melongena. A lack of genomic resources has meant that breeding of S. aethiopicum has lagged behind other vegetable crops.
+Results: We assembled a 1.02-Gb draft genome of S. aethiopicum, which contained predominantly repetitive sequences
+(78.9%). We annotated 37,681 gene models, including 34,906 protein-coding genes. Expansion of disease resistance genes
+was observed via 2 rounds of amplification of long terminal repeat retrotransposons, which may have occurred ∼1.25 and
+3.5 million years ago, respectively. By resequencing 65 S. aethiopicum and S. anguivi genotypes, 18,614,838 single-nucleotide
+polymorphisms were identified, of which 34,171 were located within disease resistance genes. Analysis of domestication
+and demographic history revealed active selection for genes involved in drought tolerance in both “Gilo” and “Shum”
+groups. A pan-genome of S. aethiopicum was assembled, containing 51,351 protein-coding genes; 7,069 of these genes were
+missing from the reference genome. Conclusions: The genome sequence of S. aethiopicum enhances our understanding of
+its biotic and abiotic resistance. The single-nucleotide polymorphisms identified are immediately available for use by
+breeders. The information provided here will accelerate selection and breeding of the African eggplant, as well as other
+crops within the Solanaceae family.
+Keywords: Solanum aethiopicum; African eggplant; Solanum anguivi; LTR-Rs; biotic stress; drought tolerance

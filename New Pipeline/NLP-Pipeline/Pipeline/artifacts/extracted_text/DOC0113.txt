@@ -1,0 +1,1862 @@
+1 
+ 
+The effectiveness of revenue collection methods and its impact on the quality of 
+services delivered in Mukono district local government 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sharon Nabakeni 
+S20B34/019 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN THE PARTIAL 
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF 
+BACHELOR OF SCIENCE IN ECONOMICS AND STATISTICS OF UGANDA CHRISTIAN 
+UNIVERSITY 
+ 
+September, 2023 
+ 
+ 
+ 
+
+4 
+ 
+I dedicate this research work to my beloved family members, guardians and friends especially my 
+brother Sakari Gregory for the moral and financial support he gave me while studying this course. May 
+the almighty God reward them abundantly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACKNOWLEDGEMENT 
+
+5 
+ 
+Thanks to the Almighty God for giving me the chance throughout this long journey of my academic 
+studies, may your Name be glorified, praised forever and ever! , 
+Am greatly indebted to my supervisor who tirelessly perused through this report to guide and correct 
+me. I appreciate your effort. I cannot fail to acknowledge my lecturers in the college of Humanities and 
+social sciences for the knowledge that they passed on to me, without you this would not be an easy task. 
+I would like to convey my sincere thanks to the management of Mukono Local Government and their 
+clients who participated that helped in filling the questionnaires. Thank you so much, your contribution 
+enabled me to write this research paper.  
+Lastly, thanks go to my dear Mother and my siblings once again and the entire family for their 
+tremendous support and encouragement. 
+ May the Almighty God Bless all your endeavors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+ 
+
+6 
+ 
+This study delves into the relationship between local revenue collection methods and service delivery 
+within the context of Mukono district local government. A total of 44 questionnaires were distributed to 
+staff members and community members, achieving a commendable response rate of 91.32%. The 
+respondents' background information were analyzed, revealing a predominantly youthful population 
+aged 18-25 years, a majority of females, and a prevalence of individuals with degree-level education. 
+Moreover, a significant portion of the respondents was indirectly engaged in revenue collection. The 
+study focused on the dependent variable, as services delivered conceptualized as the quality of services 
+delivered by Mukono local government. Findings indicated that respondents were dissatisfied with the 
+current state of services and that revenue collection did not significantly contribute to service 
+improvement. In examining revenue collection methods, the study identified cash payments and third-
+party processors as prevalent approaches. Additionally, the acceptance of credit card payments and 
+online methods for revenue collection was reported. Incentives for prompt payment and tax compliance 
+were also in use. A multiple linear regression analysis was performed to assess the impact of education 
+level, revenue collection methods, and revenue collection challenges on service delivery. The results 
+indicated that only revenue collection methods and revenue collection challenges significantly 
+influenced service delivery, while education level did not have a significant impact. The study further 
+explored the challenges faced by the revenue authority in collecting taxes, revealing inefficiencies in the 
+revenue collection process, challenges related to tax evasion and non-compliance, a lack of 
+transparency, ethical concerns, and a low level of tax compliance. 
+In conclusion, this study underscores the importance of revenue collection methods and addressing 
+revenue collection challenges to enhance service delivery in Mukono local government. It recommends 
+measures such as expanding the tax base, increased sensitization, timely accountability, transparency, 
+and identifying additional revenue sources. These findings provide valuable insights for policymakers 
+and practitioners in local government administration. For future research, it is suggested to explore 
+revenue generation, collection, and allocation across different local governments, investigate various 
+sources of local revenue in Mukono, and explore strategies for expanding the local revenue base. 
+ 
+ 
+Table of Contents 
+DECLARATION ...................................................................................................................................................... 2 
+APPROVAL ............................................................................................................................................................. 3 
+DEDICATION .......................................................................................................................................................... 3 
+
+7 
+ 
+ACKNOWLEDGEMENT ........................................................................................................................................ 4 
+ABSTRACT .............................................................................................................................................................. 5 
+CHAPTER ONE ....................................................................................................................................................... 8 
+INTRODUCTION .................................................................................................................................................. 8 
+1.0 Introduction ...................................................................................................................................................... 8 
+Background of the study ........................................................................................................................................ 9 
+Statement of the problem ..................................................................................................................................... 10 
+Purpose of the study ............................................................................................................................................. 11 
+Objectives of the study ......................................................................................................................................... 11 
+Research questions ............................................................................................................................................... 11 
+Scope of the study ................................................................................................................................................. 11 
+Content scope ....................................................................................................................................................... 11 
+Geographical scope .............................................................................................................................................. 11 
+Time scope ............................................................................................................................................................ 12 
+1.9 Significance of the study ................................................................................................................................ 12 
+Conceptual framework ......................................................................................................................................... 13 
+Anticipated constraints. ....................................................................................................................................... 13 
+CHAPTER TWO ..................................................................................................... Error! Bookmark not defined. 
+LITERATURE REVIEW ..................................................................................................................................... 14 
+2.0 Introduction .................................................................................................................................................... 14 
+The benefit theory of taxation ............................................................................................................................. 14 
+Empirical review .................................................................................................................................................. 15 
+The empirical evidence of the revenue collected by the revenue authority can provide valuable insights for its 
+impact on service delivery for local governments. ........................................................................................ 15 
+2.1 The methods used for revenue collection ...................................................................................................... 15 
+2.2 The relationship between revenue collection and service delivery ............................................................... 16 
+2.3 The challenges faced by the revenue authority in collecting taxes in local governments ........................... 17 
+CHAPTER THREE................................................................................................................................................. 18 
+RESEARCH METHODOLOGY.......................................................................................................................... 18 
+3.0 Introduction .................................................................................................................................................... 18 
+3.1 Research designs ............................................................................................................................................ 19 
+3.2 Population of the study .................................................................................................................................. 19 
+3.3 Sample size ..................................................................................................................................................... 19 
+3.4 Sampling techniques ...................................................................................................................................... 20 
+3.4.1 Purposive sampling technique .................................................................................................................... 20 
+3.4.2 Simple random technique ........................................................................................................................... 20 
+3.5 Sources of data ............................................................................................................................................... 20 
+3.6 Data collection method .................................................................................................................................. 20 
+
+8 
+ 
+3.6.1 Questionnaire survey method ..................................................................................................................... 21 
+3.7 Data collection instruments ........................................................................................................................... 21 
+3.7.1 Questionnaires ............................................................................................................................................ 21 
+3.7.2Documentary review checklist ..................................................................................................................... 21 
+3.8 Validity and reliability of research instruments ............................................................................................ 21 
+3.8.1 Validity of Research Instruments ............................................................................................................... 21 
+3.8.2 Reliability of research Instruments ............................................................................................................ 22 
+3.9 Measurement of Variables ............................................................................................................................. 22 
+3.10 Data processing and analysis ...................................................................................................................... 22 
+3.11 Limitations of the study ............................................................................................................................... 22 
+CHAPTER FOUR ................................................................................................................................................... 22 
+DATA ANALYSIS, INTERPRETATION AND FINDINGS ............................................................................. 22 
+4.0 Introduction .................................................................................................................................................... 23 
+4.1 Response rate ................................................................................................................................................. 23 
+4.2 Background of the respondents ..................................................................................................................... 23 
+4.3 Description of the Dependent Variable: Service delivery .............................................................................. 25 
+The dependent variable, service delivery, was conceptualized as quality of services provided. It comprised 6 
+quantitative items. These were measured using a five-point Likert scale ranging from 1 – 5. Where (1) = 
+strongly disagree, (2) = disagree, (3) = not sure (4) = agree and (5) = strongly agree as shown in Table 
+4.3. .................................................................................................................................................................. 25 
+4.4 Revenue collection methods ........................................................................................................................... 26 
+Relationship between revenue collection and service delivery. .......................................................................... 27 
+4.6 The challenges faced by the revenue authority in collecting taxes .............................................................. 29 
+4.7 Linear Regression Results and Hypotheses Testing ...................................................................................... 30 
+4.9 Testing of hypotheses ..................................................................................................................................... 32 
+CHAPTER FIVE..................................................................................................................................................... 32 
+DISCUSSION, CONCLUSION AND RECOMMENDATIONS ......................................................................... 32 
+5.0 Introduction .................................................................................................................................................... 32 
+5.1 Discussions ..................................................................................................................................................... 33 
+5.1.1 To establish the methods of revenue collection in Mukono local government. ........................................ 33 
+5.1.2 To establish the relationship between revenue collection and service delivery in local governments. .... 33 
+5.1.3 To identify the challenges faced in revenue collection in Mukono local government. ............................ 33 
+5.2 Conclusion...................................................................................................................................................... 33 
+5.2 Recommendations for Policy and Practice .................................................................................................... 34 
+ 
+CHAPTER ONE 
+INTRODUCTION 
+1.0 Introduction 
+
+9 
+ 
+This study analyzed the effectiveness of revenue collection methods and its impact on the quality of 
+services delivered in Mukono district local government. This chapter presented the background of the 
+study, statement of the problem, purpose of the study, objectives, research questions, justification, 
+significance of the study and conceptual framework. 
+1.1 Background of the study 
+In 1992, Uganda adopted the decentralization policy that sought to establish a system of governance 
+underpinned by strong local governments. Although decentralization has been pursued over the last two 
+decades, there is widespread consensus that the service delivery of local governments is less than 
+desirable (Makwaya, G., $ Matovu, G., 2020). Decentralization in Uganda started in 1993-94 with the 
+main objective of building a more democratic government that is responsible and accountable to the 
+public to promote capacity building at the local level and introduce local choice into service delivery 
+fostering a sense of local ownership, (Titeca, K. 2021). According to Local Government Act 1997, 
+defines revenue collection as the sub-total of all categories collected from a number of sources like 
+market dues, fines and penalties, parking fees. In conformity with the local government, resistance 
+council’s statue No.15 of section 44 of 1993, the 1995 constitution of the republic of Uganda provided a 
+decentralization system of governance with the districts at the top of the administrative units (Nabuguzi, 
+M., & Nsibambi, A. (2022). They are governed by the Constitution of 1995 of the republic of Uganda 
+and local government Act of 1997. Schedule 2 of the Local Government Act, (1997) gives mandate to 
+local governments to collect revenue collections from their own sources such as property tax, licenses, 
+permits, fines and penalties, market dues, parking fees, and take financial decisions while complying 
+with financial and accounting regulations 1998 guide of the financial operations and specifies 
+decentralization policies, rules and regulations. Local governments were empowered to carry out proper 
+planning decisions at budget level, do complete enumeration and assessment of taxes for financial 
+decentralization to succeed in improving.  
+Revenue collection (J. Muhangi, 2015). Article 176 (2) of the constitution of the republic of Uganda 
+1995, schedule 2 of the local government Act (1997) and sections 97 and 98 of local governments were 
+to offer services including and not limited to education, medical and health services, sporting facilities 
+while using their revenue collection forces, and number of revenue collection methods that governments 
+use, including taxes, fees, and fines. The effectiveness of these methods can vary depending on a 
+number of factors, such as the design of the tax system, the level of compliance among taxpayers, and 
+the efficiency of the government bureaucracy. The revenue base of local governments has diminished 
+and they are now heavily dependent on central government disbursements mainly through conditional 
+
+10 
+ 
+grants. The quality of services is less than desirable as key services such as health care, water and 
+sanitation, education and agricultural advisory services remain dismal (Kizito, J., & Titeca, K.,2023) Yet, 
+there is no prove whether the effectiveness of revenue collection methods influence the revenue 
+collected to fund the quality services needed by the community. Many mechanisms from central 
+government and donors are not well adapted to the decentralized framework, resulting in local 
+governments given little power over the allocation of resources and little involvement of lower local 
+governments in decision-making (Mutenyo, 2000). To facilitate the implementation of these revenue 
+enhancement objectives, the Local Government Finance Commission established a Revenue collection 
+Enhancement coordinating Committee (LRECC) in April 2002. The main tasks of the LRECC are to 
+coordinate and support the development of conducive decisions and policies regarding revenue 
+collection and to enhance the capacities of local governments to effectively and efficiently generate and 
+manage sustainable revenue collections (Kizito J., 2023) 
+1.2 Statement of the problem 
+Local revenue collected enables local governments to implement their planned budgets and work plans. 
+They use this revenue for co-funding on capital projects, monitoring of all the programs and the general 
+supervision of constructing latrines, classrooms and health centers and opening of community roads to 
+ensure better standards so as to meet the desired services (Mukwaya & Matovu, 2020). But despite of all 
+that, The level of service delivery in Mukono District local government remains poor as evidenced by 
+poor roads that causes too much jam, high poverty levels ,the poor hygiene of the communities ,poor 
+sewerage system, dumping sites, water source, and street lights that all turned out to be below standards 
+(Lilian A., 2019). Revenue collected from sources such as trading licenses, market dues, fines, and fees 
+were also declining tremendously to be effectively utilized to provide the required services to the public 
+has been one of the major problem (Ali M. Hussein, 2018).  
+This can be evidenced from the various deficit financial budgets of the District for the past three years, 
+for example, According to the Records at Mukono district local government indicate that in the financial 
+year (FY) 2020/21, the district planned to collect 3.4 billion Shillings in local revenue but only realized 
+1.5 billion Shillings which approximated to 44.12% of the planned (the estimated expenditures being 
+more than estimated incomes), that frustrated the realization of anticipated local revenue targets. It is 
+upon such a state that the researcher analyzed the revenue collection methods and challenges faced in 
+mukono district local government. 
+ 
+ 
+
+11 
+ 
+1.3 Purpose of the study 
+The main purpose of this study was to analyze the effectiveness of revenue collection methods and its 
+impact on the quality of services provided in mukono district local government. 
+1.4Objectives of the study 
+i. 
+To assess the methods used for revenue collection in Mukono district Local government. 
+ii. 
+To establish the relationship between revenue collection methods and challenges on the 
+delivery of quality services in Mukono district local government. 
+iii. 
+To identify the challenges faced by the revenue authority in collecting taxes in Mukono 
+district local government. 
+ 
+ 
+1.5 Research questions 
+i. 
+What are the methods used for revenue collection in Mukono local government? 
+ii. 
+How revenue collection methods and challenges related to service delivery in Mukono local 
+government? 
+iii. 
+What are the challenges faced by the revenue authority in collecting taxes in Mukono local 
+government? 
+1.6 Research Hypothesis 
+Whether there was a positive relationship between revenue collection methods and the quality of 
+services delivered in mukono local government. 
+1.7 Scope of the study 
+The scope of the study covered three dimensions that was; content, geographical and time and these are 
+explained in detail as below 
+1.7.1 Content scope 
+This study specifically focused on; assessing the methods used for revenue collection in local 
+governments establishing the relationship of revenue collection methods and challenges on the quality 
+of services delivered, and identifying challenges faced by revenue authorities in collecting taxes in 
+mukono district local government. 
+1.7.2 Geographical scope 
+
+12 
+ 
+This study was carried out in Bugujju village in Mukono district local government located in the Central 
+region of Uganda. The revenue collected in Mukono was selected because there have been poor quality 
+of services delivered approximately standing at 50% which could be partly attributed to inadequate tax 
+revenue collected from these areas. 
+1.7.3 Time scope 
+The study focused on the scholarly materials written by different authors, and it was carried out for 
+three month from June to September, because the research is limited to this period. 
+1.8 Justification of the study 
+ The study on effectiveness of revenue collection methods and its impact on the quality service delivery 
+was justified as it can contribute to improving the overall governance and quality of services delivered 
+to citizens. The study help on identifying potential challenges and creating ways to optimize revenue 
+collection for service delivery through devising the solutions to the challenges thus leading to economic 
+development. Investigating this study can shed light on issues related to corruption, mismanagement, 
+and the need for improved governance practices resulting into improved accountability and 
+transparency. This study can provide insights into how revenue collection practices impact citizen 
+satisfaction with the services they receive thus better policy decisions. The findings of the study can 
+inform legislative and policy decisions at both local and national levels to design and implement 
+policies that enhance revenue collection and service delivery. The study can also provide empirical 
+evidence to guide policymakers and local government officials to make informed decisions based on 
+real-world data and analysis. 
+1.9 Significance of the study 
+The study helped the researcher and other academicians who have the interest in searching into a related 
+field by enabling them get related literature. The study also will help the government in knowing the 
+problems and challenges faced in revenue collection and service delivery. The study established the 
+causes of fluctuations in the revenue collection in Mukono Local government. The study was beneficial 
+to policy makers of Mukono Local government and other Local Governments in finding a solution to 
+the problems of fluctuations in the revenue collections and appraises their quality of services provided 
+to the people. The research was beneficial to other academicians as they might use it for literature 
+review while carrying out research in the similar area. The study will be used to other stakeholders for 
+example Donors like UNICEF and the Central government to analyze linkages between revenue 
+collection administration and service delivery. 
+ 
+
+13 
+ 
+ 
+ 1.10 Conceptual framework 
+Comb and Tomb (2004, p.49) defines “conceptual framework” as a research tool intended to assist a 
+researcher to develop awareness and understanding of the situation under scrutiny and to communicate 
+it.  
+Figure 1: Conceptual Framework 
+Independent variable                                                                     Dependent variable 
+(Revenue collection methods)                                                                        (Services delivered) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Adopted from Abigaba (1998), lga (1999), Shotton (2000) and modified by the researcher 
+(2023). 
+ 
+ 
+1.11 Anticipated constraints. 
+The main expected constraints to this study was limited time, money, access to data, ethical       
+considerations, participant availability, research bias, publication bias, replication crisis and among 
+• Revenue sources 
+• Collection processes 
+• Sensitization  
+• Compliance  
+Actual collection 
+• 
+Improved quality 
+of services  
+ 
+Intervening variables 
+• 
+Government policy 
+• 
+Population size 
+• 
+Poverty levels 
+• 
+ Economic activities 
+
+14 
+ 
+others. The researcher overcame these constraints by planning carefully, being flexible, and network 
+with other researchers, and being patient in certain situations. 
+ 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 Introduction 
+Mukono Local Government, like many other sub-national entities, relies extensively on revenue 
+collection to fund crucial public services, such as education, healthcare, infrastructure, and social 
+welfare programs. This literature review aims to provide a comprehensive analysis of the multifaceted 
+relationship between revenue generation and service delivery in Mukono. Recognizing the pivotal role 
+of sustainable and effective resource mobilization. 
+Theoretical review 
+The benefit theory of taxation 
+This theory was developed by Erik Robert Lindahi in 1960. According to Benefit Theory, the state 
+should levy levies on individuals according to the benefit given to them. The more benefits a person 
+obtains from the accomplishments of the state, the more the duty the person should reimburse to the 
+government. This principle has been condemned because, first, if the state keeps a certain linking 
+between the benefits given and the benefits received, it will be in contradiction of the basic principle of 
+the tax. A tax is principally obligatory contribution done to the public authorities to meet the 
+expenditures of the government and the supplies of general benefit to all citizens (Booker, 2004). 
+Furthermore, most of the expenses suffered by the state is for the overall benefit of its citizens, it is not 
+likely to estimate the benefit received by a particular individual every year for it to be obvious how 
+much duty this individual should be charged. According to this model there should be some advantage 
+to those who pay taxes. The free-rider problem is the primary disapproval given for limiting the scope 
+of the subsidy principle. Each individual can lower his tax cost by under reporting his aids derived from 
+the public good or service (Ellen Meiksins Wood, 2023).  It assumes that taxes should be paid by an 
+individual in proportion to benefits conferred by the State on that individual, is quite unrealistic because 
+the benefits derived cannot be correctly measured in terms of money. Benefit is purely a subjective 
+matter and there is no scientific way to measure the magnitude of benefit and its money value. 
+
+15 
+ 
+Ability-to-Pay Principle: According to Arthur Cecil Pigou, 1957.The ability-to-pay principle posits that 
+individuals should contribute to revenue based on their ability to pay, regardless of the benefits they 
+receive from public goods and services. This theory emphasizes fairness and equity in taxation. In 
+relation to service delivery, it suggests that revenue should be collected from all individuals or 
+businesses within a jurisdiction, regardless of their direct benefit from these services. This approach 
+ensures that those with higher incomes or greater wealth contribute more to the funding of services like 
+education, roads and health care. 
+ 
+ Public Goods Theory: With reference to Paul Samuelson, 1954. The public goods theory argues that 
+certain services, have characteristics that make them non-excludable and non-rivalrous in consumption. 
+Non-excludability means that individuals cannot be excluded from using or benefiting from the good 
+once it is provided, while non-rivalry implies that one person's use or enjoyment of the good does not 
+diminish its availability to others. According to this theory, public goods should be funded through tax 
+revenue because it is difficult for private markets to efficiently provide them. Services like 
+infrastructure, education, health care being a public good, fall under this category and should be 
+financed through tax revenue to ensure their provision and maintenance.  
+ 
+Empirical review 
+ 
+The empirical evidence of the revenue collected by the revenue authority can provide valuable insights 
+for its impact on service delivery for local governments. 
+Top of Form 
+2.1 The methods used for revenue collection 
+Revenue collection covers how governments collect revenues in the extractive sector via payments from 
+companies, commodity sales or other sources that facilitate the provision of the necessary financial 
+resources for the delivery of essential public services.  Understanding the methods employed for 
+revenue collection is important for assessing its fiscal capacity and effectiveness in service provision. 
+This reviews the various methods used for revenue collection and their implications. 
+Local governments often employ a combination of traditional and modern revenue collection methods. 
+Property taxes, business permits, and local fees are common traditional sources (United Nations, 2022). 
+State and local government reliance on tax revenues vary between 70-75 percent of the local 
+governments revenues, including those of school districts, are sourced from property taxes and most 
+state tax revenues are sourced from sales and income taxes (U.S. census bureau & Rockefeller institute 
+
+16 
+ 
+of government, 2020) These traditional methods remain prevalent, especially in rural areas where digital 
+infrastructure is limited. With the increasing use of digital technology, many local governments are 
+transitioning to modern methods of revenue collection. Digital payment platforms, such as mobile 
+money and electronic fund transfers, have been implemented to enhance efficiency and reduce revenue 
+leakage (Jain, 2018). This shift towards digitalization is expected to improve transparency and 
+accountability in revenue collection process. Challenges in revenue collection methods are not 
+uncommon. Research has identified issues such as tax evasion, inadequate capacity, and lack of 
+taxpayer education as hindrances to efficient revenue collection (Alm & Martinez-Vazquez, 2007). For 
+optimal revenue collection there should be solutions to the challenges. Studies emphasize the 
+importance of taxpayer compliance and public awareness campaigns in revenue collection (Oluwatosin 
+Olanrewaju and Abdul-Rasheed Adebayo, 2022). Local Governments can benefit from initiatives that 
+educate citizens about their tax obligations and simplify payment procedures. The capacity of local 
+government institutions plays a significant role in revenue collection success (Boex & Martinez-
+Vazquez, 2013). There must invest in capacity-building to ensure its revenue collection methods are 
+effective and sustainable. 
+2.2 The relationship between revenue collection methods and challenges on service delivery 
+The relationship between revenue collection and service delivery can be clearly portrayed by various 
+rules and regulations governing the Local Governments. Published reports as well as some tools for 
+integrated planning such as the Local Government act, 1997, the Local Government financial and 
+accounting regulations, 1998, Compliance with national priorities, The Local Government budget 
+framework paper, Linkage between the Local Government budget framework paper and annual work 
+plans as explained below:  
+Several studies have shown a strong correlation between revenue collection and service delivery in local 
+governments. Adequate revenue streams enable governments to allocate resources efficiently, resulting 
+in improved service provision (Moses Kijjambu, 2020). The study done by Joha Dunia Kaongo (2015), 
+assessment of local revenue in the Tanzania local, government reveled that there is an immense need for 
+mechanisms to ensure that they substantially increase their local revenues. In this regard, the 
+Government needs to set broader revenue targets for the Councils and refrain from the revenue 
+administrative activities, such as setting and approving of the collection rates. To achieve this, instead 
+of issuing the ‘closed list’ of allowed local sources, the Government needs to provide a list of abolished 
+local taxes and allows the Councils to charge all other genuine taxes which are within their area of 
+jurisdictions. In light of the findings and the need for local revenue to provide services in Kinondoni 
+Municipal Council since transfers from the central government are only to support the budget of 
+
+17 
+ 
+Kinondoni Municipal Council, Local Government to enable them fulfill their obligations. Therefore a 
+lot of effort should be put in to ensure that local revenue collection and administration is improved in 
+Kinondoni Municipal Council Local Government to fully provide quality service to the people 
+Kinondoni Municipal Council needs to simplify the licensing process in order to reduce non-compliance 
+of businessmen to pay taxes. Kagaha Stephen, (2011) focused on local revenue collection systems and 
+quality of service delivery in local governments and concluded that the tax payers are properly assessed 
+before set any tax; there should be rates of tax to be paid, and monitoring of the systems, enforcement 
+on collection, proper legal action procedures should be instituted on defaulters. Some policies are 
+effective for example revision of administrative reports annually as showed by 62% of the respondents. 
+In many developing regions, challenges in revenue collection can hinder service delivery. Ochieng et al. 
+(2015) highlight issues such as tax evasion, weak enforcement, and administrative inefficiencies that 
+can limit revenue generation. Identifying and addressing these challenges are essential steps in 
+optimizing service delivery for the revenue authority. It is a legal requirement for Local Governments to 
+comply with national priorities by implementing various national programs to ensure service delivery, 
+the overall planning framework for Uganda is the poverty eradication Action Plan (PEAP) which sets 
+out the central Government’s national objectives and strategies for reducing poverty. Studies emphasize 
+the importance of taxpayer compliance and awareness in boosting revenue collection. Enhancing public 
+awareness about revenue obligations and simplifying the payment process may contribute to increased 
+revenue streams, subsequently benefiting service delivery. Transparency and accountability in revenue 
+collection are vital for ensuring that collected funds are channeled toward service delivery. Scholars 
+argue that transparency reduces corruption and enhances public trust (World Bank, 2017). Transparent 
+financial management practices foster confidence in the allocation of resources for public services. 
+Technological advancements have the potential to improve revenue collection and subsequently service 
+delivery (Dupas & Robinson, 2013). 
+ 
+2.3 The challenges faced by the revenue authority in collecting taxes in local governments 
+Efficient revenue collection acts as the lifeblood of local governments in Uganda, providing the 
+financial resources necessary for public service provision. Understanding the challenges faced by the 
+revenue authority in tax collection for improves revenue collection processes and optimizing resource 
+allocation. This reviews the key challenges encountered by the revenue authority in putting their efforts 
+to collect taxes. 
+
+18 
+ 
+Tax evasion and non-compliance by individuals and businesses are pervasive challenges faced by 
+revenue authorities globally. They are exacerbated by a lack of taxpayer education, complex tax 
+regulations, and informal economic activities (Mwesigye & Matovu, 2018). Administrative 
+inefficiencies in tax collection processes can hinder revenue collection efforts (Almeida, R., & Sequeira, 
+S., 2021). In Mukono, factors such as paperwork bottlenecks, manual record-keeping, and understaffing 
+have been identified as contributing to these inefficiencies (Mukasa & Tumushabe, 2014). Streamlining 
+administrative procedures improves revenue collection. The lack of transparency in revenue collection 
+practices has been cited as a challenge (Kasirye et al., 2012). Promoting transparency and accountability 
+enhance revenue collection and public confidence. The adoption of modern technology can improve tax 
+collection processes (Brookmeyer & Hernandez, 2019). However, challenges related to limited access 
+to digital infrastructure and a lack of expertise in implementing digital solutions (Jain, 2018) requires 
+investing in technology and training in order to overcome them. Excessive compliance costs and the 
+burden on taxpayers discourage voluntary tax compliance (Pomeranz, 2015). Businesses and individuals 
+perceive the tax system as burdensome, deterring compliance (Mwesigye & Matovu, 2018). Efforts to 
+simplify the tax system and reduce compliance costs encourage voluntary compliance. 
+ 
+ 
+ 
+ 
+ 
+                                                
+ 
+ 
+ 
+CHAPTER THREE 
+RESEARCH METHODOLOGY 
+3.0 Introduction  
+
+19 
+ 
+This chapter presented methodological approaches that was used to elicit reliable data or information for 
+this study. It presented the research design, study population, sample size, sampling techniques and 
+procedures, data collection methods and instruments, quality control (validity and reliability), procedure 
+for data collection, data analysis, measurement of variables and ethical consideration are discussed in 
+this chapter. 
+3.1 Research designs 
+According to Creswell (2012), a research design is the basic plan which guides the data collection and 
+analysis phase of the research project. It summarized the essentials of research design as an activity and 
+a time based plan; always based on the research question; guides the selection of sources and types of 
+information; frame work for specifying the relationship among the study variables and outlines the 
+procedures for every research. (Cooper and Schindler, 20013) 
+This study adopted a descriptive research design because the study intends to obtain an in depth 
+understanding of the revenue collection methods and challenges on the quality of services provided in 
+Mukono district local government. Descriptive research design is a preferred method for this study 
+because its analysis is primarily concerned with relationships between variables (Cox, Arnold, & 
+Tomas, 2010). 
+ 
+3.2 Population of the study 
+The population for a research study is defined by Jegede, (1990; 114) as “the totality of all the 
+observations that an investigator is concerned with”. The study will be carried out in mukono district 
+local government where the respondents were selected from the community members and its staff that 
+is, senior and junior staff from different departments involved in revenue collection. An accumulative 
+figure of targeted respondents of 50 was used as the population size.  
+3.3 Sample size 
+A sample is a subset of the population. By studying the sample, the researcher was able to draw 
+conclusions that would be generalizable to the population of interest (Sekaran, 2003). Yamane formula 
+was used to determine the sample size of the study because Yamane formula assumes a normal 
+distribution and it assumes that the respondents are distributed normally in relation to the parameters 
+under study that is revenue collection. This formula also enabled the selection of a sample that 
+represented the population, with confidence and risk levels.  
+
+20 
+ 
+The Yamane formula is; 
+ n = N/ 1 + N (𝑒2 ) 
+=50/1+50(0.052) = 50/5=44members  
+Whereby n represents the sample size for target population, N represents the population size, e 
+represents the error of sampling or precision/error limit at 95% level of confidence and 5% level of 
+precision is required (Yamane, 1967). 
+3.4 Sampling techniques  
+The researcher employed a combination of sampling designs like purposive and simple random 
+sampling techniques as detailed below; 
+ 
+3.4.1 Purposive sampling technique  
+A purposive sample will be used to select respondents who possessed similar characteristics to form a 
+sample. The technique allows the selection of certain units or cases based on a specific purpose rather 
+than randomly (Tashakkori & Teddlie, 20013). Purposive sampling will be used to identify respondents 
+who will provide non-numeric information through interviews. The technique will select town clerk, 
+senior assistant town clerk, physical planner, chief finance officer and community development officers.  
+3.4.2 Simple random technique 
+ Simple random sampling is a technique that is used to select respondents where each respondent has 
+equal chance of being selected to form a sample. The technique is unbiased and allows the 
+generalizations of findings. This technique will be used to select the local community members. 
+3.5 Sources of data 
+The researcher adopted both primary and secondary data. Primary data was collected through asking 
+open ended questions to the respondents using a questionnaire.  Secondary data was obtained from 
+various publications of the central and Local Governments, journals, books, magazines and newspapers, 
+published records and statistics, historical documents and other sources of published information using 
+the documentary review. 
+ 3.6 Data collection method 
+
+21 
+ 
+The study used two methods namely questionnaire, and documentary review method to aid data 
+collection. Below are details for each method.  
+3.6.1 Questionnaire survey method  
+ 
+The questionnaire method assisted the researcher collect quantified data and cover a big area over a 
+short period of time (Michael J. Ryan, 2021). The method was standardized to avoid falsifications of 
+responses. The method intends to capture information from a large group of respondents, it’s convenient 
+and cheaper in terms of costs to incur. According to Sarah Cunliffe and colleagues (2021), a self-
+administered questionnaire is the only way to elicit self-reports on people’s opinion, attitudes, beliefs 
+and values.  
+3.6.2 Documentary review. This included reviewing existing literature, publications of other 
+researchers, text books, journals and other correspondences, revenue collection and service delivery 
+reports, Public health department records and Papers presented in seminars in order to back up primary 
+findings. 
+ 
+ 
+3.7 Data collection instruments 
+The researcher used; questionnaires, and documentary review checklist, as methods of data collection in 
+order to get information from respondents. 
+ 3.7.1 Questionnaires 
+This instrument aided the collection of quantified data from the field of study. This questions designed 
+in this instrument were quantified ones on revenue collection and service delivery. These questions 
+were designed basing on five-point Likert-type scale to measure variables. The five-point Likert-type 
+scale provides less bias in mean, variance, covariance, correlation coefficient and the reliability of 
+scores (Krieg, 1999). This instrument obtained information from the local community members and 
+staffs. In addition, using questionnaires helped to elicit primary information; respondents provided their 
+opinions from alternative answers and also expressed their feelings about the study. 
+3.7.2 Documentary review checklist 
+This instrument entailed a list of secondary sources of information that the researcher planned to review. 
+Numerous records were reviewed in order to track or find valuable information on revenue sources, 
+collection processes, and sensitization. 
+3.8 Validity and reliability of research instruments 
+3.8.1 Validity of Research Instruments 
+ Validity measures whether the research truly measures that which it is intended to measure or how 
+truthful the research results are. Mark (2002), the validity of the study was tested as per the pilot study 
+
+22 
+ 
+to be done by the researcher. The pre-testing of the both self-administered questionnaires and face-to-
+face interview questionnaires will be conducted at the selected organization.  
+3.8.2 Reliability of research Instruments 
+According to Sekaran, U., & Bougie, R. (2016), “Research methods for business”, defines Reliability as 
+the consistency, stability, and dependability of measurements or findings obtained from a research 
+study. It is a crucial aspect of research methodology, ensuring that the results are replicable and 
+trustworthy. Reliable measurements produce consistent results when repeated under similar conditions, 
+and they are free from random error or measurement error. 
+3.9 Measurement of Variables 
+ To identify the inter-relationship between variables, the researcher made a clear understanding of the 
+objectives and compared them for a conclusion. The researcher determines whether there was a 
+significant relationship between revenue collection and service delivery in Mukono local government. 
+ 3.10 Data processing and analysis   
+The raw data that was collected from the field, scrutinized, organized and entered to excel sheet then 
+employing descriptive statistics in order to give more meaning to the data. The data was edited in order 
+to screen the relevant data from the raw data that is carried in this study. During this process, the 
+researcher translated the data into numerical figures to add meaning and easy understanding of the data. 
+The results then was presented in form of percentages, frequency tables, and graphs for easy 
+comprehension and later deductions will be made from the analysis. 
+ 3.11 Limitations of the study  
+The main limitation to this study was the harshness of respondents, since the researcher really does not 
+know the kind of respondents she was to deal with. However, the researcher overcame this through 
+giving more elaboration on what she was trying mean for the respondent to understand. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FOUR 
+DATA ANALYSIS, INTERPRETATION AND FINDINGS 
+
+23 
+ 
+4.0 Introduction 
+This chapter presents, analyses and interprets the study findings. It specifically presents the response 
+rate, background of the respondents, description of variables and findings of the study objective by 
+objective. 
+4.1 Response rate 
+A total of 44 questionnaires were issued and 40 were returned as shown in the table below; 
+Table 4.1 Response rate 
+Category 
+Questionnaires issued Questionnaires returned Response rate (%) 
+Staff members 
+13 
+12 
+92.32 
+Community members 
+31 
+28 
+90.32 
+Overall response  
+ 
+91.32 
+Source: primary data 2023 
+Table 4.1 above shows an overall response rate of 91.32%, which is very high and suggesting that the 
+survey results were representative. Fincham, (2008) contends that a response rate of 50% is 
+representative enough and acceptable for a survey. 
+4.2 Background of the respondents 
+This section reflects the distribution of respondents by age, gender, education level, and direct 
+engagement of the respondents as shown in the table below. 
+ 
+ 
+Table 4.2, background information 
+Item  
+Details  
+frequency 
+Percentage  
+Age of the respondent  
+18-25years 
+16 
+40 
+26-35years 
+11 
+27.5 
+36-45years 
+8 
+20 
+46-55years 
+3 
+7.5 
+Above 55years 
+2 
+5.00 
+Total 
+40 
+100 
+
+24 
+ 
+ 
+ 
+ 
+ 
+Source: primary data 2023 
+According table 4.2 the category of 18-25years dominated the sample by contributing 40%of the 
+respondents. This was followed by the category of 26-35years that contributed 27.5% of the 
+respondents. This was further followed by the category of 36-45years that contributed 20%of the 
+respondents. This was followed by the category of 46-55years with a contribution of 7.5%of the 
+respondents, yet the category of above 55years had the least contribution of 5%. This suggests that the 
+majority of the community members and staff of Mukono local government were aged between 18-
+25years. 
+Table 4.2 also shows that females contributed more to the sample with 52.5% of the respondents 
+compared to males who contributed 47.5% of the respondents. This suggests that majority of the 
+community members and staff of Mukono district local government are female. 
+According to table 4.2, shows that the category of degree dominated the sample by contributing 
+55.5%of the respondents. This was followed by the category of masters that contributed 22.5% of the 
+respondents. This was further followed by the categories of PHD and Diploma whose contribution to 
+the study tied at 10% each. This was followed by the category of certificate that contributed 2.5% of the 
+respondents, yet the category of others had had no contribution to the study. 
+ Table 4.2, also shows that those who were indirectly engaged in the revenue collection dominated the 
+sample by contributing 62.5% of the respondents. This was followed by those directly engaged with the 
+Gender of the 
+respondent 
+Male  
+19 
+47.5 
+Female  
+21 
+52.5 
+Total  
+40 
+100 
+Education level of the 
+respondent 
+PHD 
+4 
+10 
+Masters  
+9 
+22.5 
+Degree  
+22 
+55 
+Diploma  
+4 
+10 
+Certificate  
+1 
+2.5 
+Others  
+0 
+0 
+Total  
+40 
+100 
+Engagement of the 
+respondent 
+No  
+25 
+62.5 
+Yes  
+15 
+37.5 
+Total  
+40 
+100 
+
+25 
+ 
+contribution of 37.5%. This suggests that the majority of the community members and staff of Mukono 
+local government were indirectly engaged. 
+ 
+4.3 Description of the Dependent Variable: Service delivery 
+The dependent variable, service delivery, was conceptualized as quality of services provided. It 
+comprised 6 quantitative items. These were measured using a five-point Likert scale ranging from 1 – 5. 
+Where (1) = strongly disagree, (2) = disagree, (3) = not sure (4) = agree and (5) = strongly agree as 
+shown in Table 4.3. 
+Table 4.3: Statistics for Respondents’ Self-Rating on the quality of services provided. 
+Quality of services 
+Agree F (%) 
+Not sure 
+Disagree F (%) 
+Mean 
+SDV 
+SA 
+A 
+DA 
+SDA 
+You are satisfied with the services provided by 
+Mukono local government. 
+7 
+(17.5) 
+5 
+(12.5) 
+5 
+(12.5) 
+13 
+(32.5) 
+10 
+(25) 
+8 
+3.10 
+Revenue collection plays a crucial role in 
+funding and improving the quality of services in 
+Mukono local government. 
+8 
+(20) 
+10 
+(25) 
+5 
+(12.5) 
+13 
+(32.5) 
+4 
+(10) 
+8 
+3.29 
+Mukono local government should diversify its 
+revenue sources to improve service delivery. 
+10 
+(25) 
+12 
+(30) 
+5 
+(12.5) 
+5 
+(12.5) 
+8 
+(20) 
+8 
+2.76 
+There is a need for better communication 
+between Mukono local government and the 
+community regarding revenue collection and its 
+impact on service delivery. 
+13 
+32.5) 
+9 
+(22.5) 
+4 
+(10) 
+10 
+(25) 
+4 
+(10) 
+8 
+3.52 
+With transparency and accountability in revenue 
+collection would lead to improved service 
+delivery in Mukono local government. 
+17 
+(42.5) 
+9 
+(22.5) 
+1 
+(2.5) 
+8 
+(20) 
+5 
+(12.5) 
+8 
+5.29 
+You have noticed some changes in the quality 
+of services provided by Mukono local 
+government in recent years. 
+11 
+(27.5) 
+14 
+(35) 
+2 
+(5) 
+5 
+(12.5) 
+8 
+(20) 
+8 
+4.24 
+Source: Primary Data 2023 
+Table 4.3 reveals that, people are not satisfied with the services provides by the revenue 
+authority (Mean = 8; STD = 3.10), and revenue collection does not play a crucial role in funding 
+and improving the services (Mean = 8; STD = 3.29).  
+
+26 
+ 
+Table 4.3 also reveals that the government should diversify its revenue sources to improve on service 
+delivery (Mean = 8; STD = 2.76), and that there is a need for better communication between the local 
+authority and the community regarding revenue collection and its impact on service delivery. (Mean = 
+8; STD = 3.52).  
+Table 4.3, reveals that with transparency and accountability in revenue collection would lead to 
+improved service delivery in the local government (Mean = 8; STD = 5.29), and that there has been 
+some changes noticed in the quality of services provided by Mukono local government in recent years 
+(Mean = 8; STD = 4.24). These emerged as the key indicators of the quality of services provided. These 
+scored the highest means and relatively low standard deviation. 
+ 
+4.4 Revenue collection methods 
+The first objective of the study was to examine the methods used for revenue collection in Mukono 
+district local government. Revenue collection methods construct was measured using 6 items scored on 
+a five-point Likert scale ranging from 5= Strongly Agreed, 4= Agree, 3= Not Sure, 2= Disagree, 1= 
+Strongly Disagree and the findings are presented in Table 4.4.  
+Table 4.4: Descriptive Results for revenue collection methods. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Primary Data 2023 
+Table 4.4 above reveals that Mukono local government primarily collects revenue through cash 
+payment (Mean = 8; STD = 2.83), and that there is use of third-party payment processors or collection 
+agencies for revenue collection (Mean = 8; STD = 2.19). 
+Revenue collection methods 
+Agree 
+F (%) 
+ 
+Disagree F 
+(%) 
+M
+e
+a
+n 
+SDV 
+SA 
+A 
+Not sure 
+DA 
+SDA 
+ 
+Mukono local government primarily 
+collects revenue through cash 
+payments. 
+5 
+(12.5
+) 
+9 
+(22.5) 
+7 
+(17.5) 
+13 
+(32.5) 
+6 
+(15) 
+8 
+2.83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+2.19 
+Mukono local government uses third-
+party payment processors or collection 
+agencies for revenue collection. 
+8 
+(20) 
+12 
+8 
+(20) 
+6 
+(15) 
+6 
+(15) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mukono local government accepts 
+credit card payments for revenue 
+collection. 
+5 
+(12.5
+) 
+15 
+(37.5) 
+9 
+(22.5) 
+8 
+(20) 
+3 
+(7.5) 
+8 
+4.10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mukono local government uses online 
+payment methods for revenue 
+collection. 
+5 
+(12.5) 
+18 
+(45) 
+5 
+(12.5) 
+6 
+(15) 
+6 
+(15) 
+8 
+5.02 
+ 
+3.49 
+Discounts and incentives are offered to 
+encourage prompt revenue collection. 
+10 
+(26.3) 
+12 
+(31.5) 
+3 
+(7.9) 
+9 
+(23.7) 
+4 
+(10.5) 
+7.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.99 
+ 
+ 
+ 
+ 
+ 
+ 
+7.8 
+Th
+t
+i
+M k
+l
+l
+11
+11
+5
+8
+4
+
+27 
+ 
+ Table 4.4 also reveals that Mukono local government accepts credit card payments for revenue 
+collection (Mean = 8; STD = 4.10), and that there is use of online payment methods for revenue 
+collection (Mean = 8; STD = 5.02).  
+Table 4.4, reveals that Mukono local government uses discounts and incentives to encourage prompt 
+revenue collection (Mean = 7.6; STD = 3.49), and reveals that the tax payers in complies with relevant 
+regulations and tax considerations in revenue collection (Mean = 7.8; STD = 2.99). These emerged as 
+the key methods used for revenue collection. These scored the highest means and relatively low 
+standard deviation. 
+4.5 Relationship between revenue collection methods and service delivery. 
+The second objective of the study was to establish the relationship between revenue collection methods 
+and service delivery in Mukono district local government. 
+Regress C Education level B D 
+Source  
+SS 
+df 
+MS 
+Number of obs. = 40 
+F(3, 36) = 15.1 
+Prob > F = 0.0000 
+R-squared = 0.5578 
+Adj R-quared = 0.5209 
+Root MSE = .84203 
+Model  
+Residual  
+32.1969017 
+25.5246261 
+3 
+36 
+10.7323006 
+.709017391 
+Total  
+57.721578 
+39 
+1.48003917 
+ 
+ 
+C 
+Coef. 
+Std. Err 
+t 
+P>|t| 
+95% conf. interval 
+Educ 
+-.22932445 
+.1221749 
+-1.88 
+0.069 
+-.4771068           .0184578 
+B 
+.5564663 
+.1690403 
+3.29 
+0.002 
+.2136367             .899296            
+D 
+.4417607 
+.1744965 
+2.53 
+0.016 
+.0878655              .7956559 
+_cons 
+.8005973 
+.5772335 
+1.39 
+0.174 
+-.3700865              1.971281 
+ 
+ 
+Where:  
+C: service delivery 
+Educ: Education level 
+
+28 
+ 
+B: Revenue collection methods 
+D: Revenue collection challenges 
+ 
+Table 4.5 shows multiple linear regression analysis that explores the combined impact of education 
+level, revenue collection methods (B), and revenue collection challenges (D) on service delivery (C). 
+(Prob > F = 0.0000), indicates that the model is statistically significant because the p-value of 0.0000 is 
+less than 0.05, and thus there is a very strong relationship between the dependent and independent 
+variables. The R-squared value (0.5578) suggests that approximately 55.78% of the variance in the 
+dependent variable is explained by the independent variables in the model. This shows that service 
+delivery can be explained by the education level, revenue collection methods and revenue collection 
+challenges in Mukono district local government. 
+ 
+ C = 0.8005973 - 0.22932445Educ + 0.5564663B + 0.4417607D 
+ 
+From the equation above, the Intercept (0.8005973), shows that service delivery (C) when Education 
+level, revenue collection methods, and revenue collection challenges are equal to zero. It represents the 
+estimated value of service delivery when none of the independent variables have an effect. 
+ 
+Education level (-0.22932445) coefficient represents the effect of the Education level on service while 
+holding other variables constant. The coefficient of -0.22932445 suggests that for every one-unit 
+increase in the Education level, service delivery (C) is estimated to decrease by approximately 0.2293 
+units, assuming revenue collection methods and revenue collection challenges are held constant. 
+ 
+Revenue collection methods (0.5564663), represents the effectiveness of revenue collection methods 
+on the quality of services delivered while holding other variables constant. The coefficient of 0.5564663 
+suggests that for every one-unit increase in the effectiveness of revenue collection methods then 
+services delivered were estimated to increase by approximately 0.5565 units, assuming that Education 
+level and revenue collection challenges are held constant. 
+ 
+ 
+Revenue collection challenges (0.4417607), represents the effect of revenue collection challenges on 
+service delivery while holding other variables constant. The coefficient of 0.4417607 suggests that for 
+every one-unit increase in the revenue challenges, service delivery is estimated to increase by 
+approximately 0.4418 units, assuming Education level and revenue collection methods are held 
+constant. 
+
+29 
+ 
+ 
+4.6 The challenges faced by the revenue authority in collecting taxes 
+The third objective of the study was to identify potential challenges faced by the revenue authority in 
+collecting taxes in Mukono local government. The revenue collection challenges construct was 
+measured using 5 items scored on a five-point Likert scale ranging from 5= Strongly Agreed, 4= Agree, 
+3= Not Sure, 2= Disagree, 1= Strongly Disagree and the findings are presented in Table 4.6 
+ 
+Table 4.6: Descriptive Results for Output Factors 
+ 
+ 
+Revenue collection challenges 
+Agree F (%) 
+Disagree F (%) 
+Mea
+n 
+SDV 
+SA 
+A 
+Not sure 
+DA 
+SDA 
+The revenue collection process in Mukono 
+Local Government is efficient and streamlined. 
+3 
+(7.5) 
+7 
+(17.5) 
+15 
+(37.5) 
+7 
+(17.5) 
+8 
+(20) 
+8 
+3.56 
+The revenue authority in Mukono Local 
+Government effectively addresses tax evasion 
+and non-compliance. 
+5 
+(12.5) 
+8 
+(20) 
+10 
+(25) 
+14 
+(35) 
+3 
+(7.5) 
+8 
+3.85 
+There is transparency in the tax collection 
+process in Mukono Local Government. 
+4 
+(10) 
+9 
+(22.5) 
+10 
+(25) 
+13 
+(32.5) 
+4 
+(10) 
+8 
+3.52 
+The revenue authority in Mukono Local 
+Government operates with integrity and ethical 
+standards. 
+6 
+(15) 
+11 
+(27.5) 
+8 
+(20) 
+8 
+(20) 
+7 
+(17.5) 
+8 
+1.67 
+There is a high level of tax compliance among 
+individuals and businesses in Mukono Local 
+Government. 
+9 
+(22.5) 
+5 
+(12.5)  
+7 
+(17.5) 
+16 
+(40) 
+3 
+(7.5) 
+8 
+4.47 
+Source: Primary Data 2023 
+ 
+Table 4.6 above shows that the revenue collection process in Mukono Local Government is not efficient 
+and streamlined. (Mean = 8; STD = 3.56), there is a challenge of tax evasion and non-compliance 
+(Mean = 8; SDV =3.85), and that there is inadequate transparency in revenue collection (Mean = 8; 
+STD = 3.52).  
+
+30 
+ 
+Table 4.6, also shows that there is low integrity and ethical standards (Mean = 8; STD = 1.67), and low 
+level of tax compliance among individual and business (Mean = 8; STD = 4.47). Since these score the 
+highest means and relatively low standard deviation, they emerged as the key challenges faced by the 
+revenue authority in collecting taxes in Mukono local government. 
+4.7 Linear Regression Results and Hypotheses Testing 
+Multiple regression analysis was carried out to establish the overall causal effect of education level, 
+revenue collection methods, and revenue collection challenges on service delivery in Mukono local 
+government using adjusted R2 statistics. The linear regression analysis was conducted to establish which 
+among the dimensions of the independent variable was the most significant in contributing to service 
+delivery. The linear regression results were also used to make a decision on the study hypotheses and are 
+presented in Table 4.8. 
+Table 4.7: Linear Regression Analysis Results 
+Model Summary 
+Model 
+R 
+R Squared 
+Adjusted R 
+Squared 
+Std. Error of the 
+Estimate 
+1 
+.6016a 
+.4534 
+.4590 
+.4925 
+ANOVAa 
+Model 
+Sum of squares 
+Df 
+Mean Square 
+F 
+Sig. 
+1 
+Regression 
+26.1724 
+1 
+26.1724 
+.9112 
+0.000b 
+Residual 
+31.5491 
+38 
+0.83024 
+Total 
+57.5715 
+39 
+Coefficientsa 
+Model 
+Un standardized Coefficients Standardized 
+Coefficients 
+T 
+Sig. 
+B 
+Std. Error Beta 
+1 
+(Constant) 
+.60162 
+.57723 
+       .80059 
+  1.39 
+.174 
+Education level 
+-.22932 
+.12217 
+-.22902 
+  -1.88 
+.069 
+Revenue collection 
+methods 
+.81444 
+.14505 
+.55647 
+3.29 
+.002 
+
+31 
+ 
+So
+urc
+e: 
+Pri
+ma
+ry 
+dat
+a 
+202
+3 
+Table 4.7, shows a coefficient of determination (R-squared) of 0.4534 at a significance level of 0.000 
+suggesting that service delivery was 45.3% at a standardized error of estimate of 0.4925.  
+The correlation coefficient (R= 0.6016 or 60%) indicated the strength of the association between 
+education level, revenue collection methods and challenges taking into considerations all interactions 
+among the study variables. The adjusted R2 of 0.4590 or 46% was the variance in the quality of services 
+that was explained by education level, revenue collection methods and challenges putting into 
+consideration all the variables and the sample size of the study. The remaining variance of 54% is 
+explained by other factors other than education level, revenue collection methods and challenges. 
+The standardized coefficient statistics revealed that, revenue collection methods (β = 0.55647, t = 3.29, p 
+= 0.002), and revenue collection challenges (β = 0.44176, t = 2.53, p = 0.016)  are the only two 
+significant factors determining service delivery in Mukono local government among the factors 
+considered in this study. Education level (β = =0.22902, t =-1.88, p = 0.069) is  Statistically 
+insignificant in determining the service delivery in Mukono local government among the factor 
+considered in this study because it’s P-values is greater than 0.05 (P> 0.05). 
+ 
+Table 4.7 also presented the analysis of variance (ANOVA). The findings reveal that on average, the 
+mean score on the determinants of service delivery ended to differ significantly. With the computed F-
+statistic (F=.9112) small enough as its accompanying P-value = 0.000 < 0.05. Thus, since the 
+significance or p-value, 0.000 is less than 𝛼 = 0.05, then at 5% level of significance, it is deduced that the 
+computed or observed F is small enough to infer that the responses differed significantly. This means 
+that even when the services delivery in Mukono local government is in poor state with the revenue 
+collection, and even when there are challenges that discourage adequate revenue collection, this alone is 
+not worse enough to discourage service delivery. The findings reveal that inadequate revenue collection 
+in form transparency, integrity and ethical standards among others as well as failure to allocate and 
+distribute the collected revenue efficiently for improved quality of services provided, largely retard 
+service delivery in Mukono local government. The strategies, vision, goals and Plan of the respective 
+services delivery to be supportive enough to aid effective revenue generation and collection, 
+transparency, integrity and ethical standards for improve quality of services provided. Priority should 
+therefore be given to improve budgetary allocation towards developing appropriate revenue collection methods 
+and reducing on the changes faced in collecting revenue by the authority to increase on the service delivery. 
+Revenue collection 
+challenges 
+.74515 
+.15960 
+.44176 
+2.53 
+.016 
+Dependent variable: service delivery 
+Predictors (constant) education level, revenue collection methods, revenue collection 
+challenges 
+
+32 
+ 
+4.9 Testing of hypotheses 
+The study hypothesis was revenue collection methods and challenges significantly determines the 
+services delivered in Mukono local government” According to Table 4.8, revenue collection methods (β 
+= 0.55647, t = 3.29, p = 0.002), and revenue collection challenges (β = 0.44176, t = 2.53, p = 0.016)  are 
+the only two significant factors determining service delivery in Mukono local government among the 
+factors considered in this study. Education level (β = =0.22902, t =-1.88, p = 0.069) is statistically 
+insignificant in determining the service delivery in Mukono local government among the factor 
+considered in this study because it’s P-values is greater than 0.05 (P> 0.05). Therefore, accept the null 
+hypothesis since is service delivery is significantly determined by revenue collection but not education 
+level. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FIVE 
+DISCUSSION, CONCLUSION AND RECOMMENDATIONS 
+5.0 Introduction 
+
+33 
+ 
+This chapter presents the discussion of findings, conclusions and recommendations. The study was 
+meant to analyze the impact of local revenue collection in relation to the service delivery in local 
+governments with specific reference to Mukono district local government 
+5.1 Discussions 
+5.1.1 To establish the methods of revenue collection in Mukono local government.  
+Findings from the research study show that Mukono local government collects local revenue from 
+different sources and they include licenses and permits, parking fees, fines and penalties, rent and rates, 
+market dues in order to deliver services to the people by the means of cash payment, third party 
+processors, providing discounts and incentives, and use of tax payers regulations to collect revenue. The 
+study findings are supported by the responses of the key respondents who managed to respond to 
+questionnaires. 
+ 
+ 
+ 
+ 
+5.1.2 To establish the relationship between revenue collection methods and service delivery in 
+mukono district local government. 
+ In Mukono local government local revenue collected has led to improved service delivery and the 
+services that have been delivered include extension of agricultural services, boosting primary education, 
+construction of health centers’, construction of feeder roads, maintenance and sustainability of 
+development projects like early and child nutrition, provision of safe drinking water and sanitation 
+services, financing sporting activities, financing the registration of tax payers and training their 
+employees to ensure maximum production in Mukono local government. 
+ 
+ 5.1.3 To identify the challenges faced in revenue collection in Mukono local government. 
+The study findings are supported by researchers like Kiser (1994) who in his study observes that there 
+has been low local revenue collection, and this has been due to the harshness of tax collectors, 
+inadequate transparency, inadequate sources of revenue, lack of integrity and ethical standards for 
+officers, political intervention for example poor enforcement of rules and regulations of collecting 
+revenues, which reduces the tax base thus leading to low local revenue collection and thus low service 
+delivery in Mukono local government. 
+ 
+5.2 Conclusion 
+Based on the study findings, the following conclusions were drawn: 
+
+34 
+ 
+Education level is not very important determinant of quality of service provided to the people in 
+Mukono local government. That is, development of new methods for revenue collection and new 
+revenue sources, and emphasizing transparency, integrity and ethical standards attracts more revenue for 
+provision of quality services like infrastructure in Mukono local government to a significant level. It has 
+managed to attract revenue, majorly with the efforts by the revenue authority. 
+5.2 Recommendations for Policy and Practice 
+Basing on the discussion of the study findings, conclusions of this report, the study recommends the 
+following;  
+ There should be increase in service delivery that is establishment of infrastructure like roads, bridges, 
+electricity, schools and hospitals to attract investors and developers in the division in order to expand 
+tax base.  
+Enough sensitization. People should be sensitized over different medias like radios televisions 
+workshop about the role of local revenue in service delivery and they should also be informed about 
+what they use their money for.  
+Timely accountability to tax payers should be done in order to avoid wastage of local revenue collected 
+and ensuring proper allocation of services to the community. 
+ Study findings also revealed that there should be transparency, integrity and ethical standards during 
+assessment .This can improve supervision, monitoring and ease local revenue collection.  
+ Identification of other sources of income so as to boost tax base for example some activities which are 
+being carried in the Division should start paying taxes in order to increase on revenue and service 
+delivery as well.  
+Tax should be paid in installments in order to make it easier for tax payers who cannot afford the whole 
+amount assessed in order to avoid tax avoidance. This was suggested by tax payers who have small 
+businesses and they revealed that when they decide to pay the whole amount, their businesses end up 
+being affected by the amount removed from them. 
+Suggested areas for further research  
+The study focused on the impact of local revenue on service delivery in Mukono Local Government, the 
+study recommends further research on;  
+The revenue collection generation, collection and allocation to different local governments 
+The sources of local revenue in Mukono Local Government  
+More research should also be conducted on ways of enhancing local revenue base in local government. 
+REFERENCE 
+Kizito, J., & Titeca, K. (2023). The Paradox of Decentralization in Uganda: Improved Service Delivery 
+but Weakened Local Governance. World Development, 133, 105-123. 
+
+35 
+ 
+Mukwaya, G., & Matovu, G. (2020). Decentralization and Local Service Delivery in Uganda: A Review 
+of the Literature. Kampala: Economic Policy Research Centre. 
+Titeca, K. (2021). Decentralization in Uganda: The Rise and fall of Local Government Reform. London: 
+Routledge. 
+Paul A. Samuelson and William D. Nordhaus (1991). Economics .14th edition. Published by McGraw-
+Hill Companies.  
+Abigaba, F, (1996), Decentralization of service delivery in local authorities, revised edition Taxation in 
+developing countries, London: Cambridge university press. 
+Bahiigwa, Ellis F, Fjeldstad 0-H, Iversen V. (2004), “Uganda Rural Taxation Study”; Final Report 
+Economic Policy Research Centre; KIU: Kampala; 64-98, Balunya, (1 995), The Customer concept 
+paper presented at the First Quarter. 
+Ruzindana, A., Langseth, P., Gakwandi, A., 1998, Fighting Corruption in Uganda. The process of 
+building a National Integrity System, Fountain Publishing House, Kampala. 
+Pigou, A.C, (2010) A study in public finance, 3rd  Ed. London Macmillan and Company Ltd. Local 
+Government Financial and Accounting Regulations Act, 2012. Kampala Capital City Act, 2011 
+Publishing Co., West Patel Nagar, New Delhi. 
+Birungi P. and Mutenyo J. (2000) Principles of Economics, 1st Edition. 
+Joha Dunia Kaongo (2015), assessment of local revenue in the Tanzania local, government, research 
+report 
+Sylvia Juvko (3rd June 2009) Uganda: government revenue challenges. New vision newspaper. 
+Small-Sample Techniques. The NEA Research Bulletin, Vol. 38 (December, 1960), p. 99.  
+Shalinzi, Z and Squire, L (1989) Tax Policy in Sub-Saharan Africa: A Framework for Analysis. World 
+Bank Policy and Research Publications No.2 Local Government Act (1997). 
+Babiiha, John, (2002). Social capital civic participation and community development, a case study on 
+the success of WES programme in Mpigi district, MBA dissertation (unpublished).  
+Bird, M and Francois, (1998); Fiscal Decentralization in Developing Countries; Cambridge University 
+Press, New York 
+ 
+ 
+ 
+APPENDIX I 
+QUESTIONNAIRE 
+
+36 
+ 
+Dear respondent, 
+Am SHARON NABAKENI, carrying out a study on the impact of revenue collection on service 
+delivery in Mukono local government as a partial requirement for the award of Bachelor of Science in 
+Economics and statistics of Uganda Christian University. You have been chosen to participate in this 
+study as a respondent. Kindly provide the appropriate information as indicated in the questionnaire 
+based on your objective experiences. The information provided shall be used for academic purpose and 
+will be kept with outmost confidentiality. 
+                                                                                                            Yours’ truly, 
+                                                                                                             Sharon Nabakeni 
+ 
+SECTION A: BACKGROUND INFORMATION 
+Please indicate your age bracket 
+18-25years 
+ 
+26-35years 
+ 
+36-45years 
+ 
+46-55years 
+ 
+Above 55years 
+ 
+ 
+Gender of the respondent 
+Male 
+ 
+Female  
+ 
+What is your education level? 
+PHD 
+ 
+Masters 
+ 
+Degree 
+ 
+Diploma 
+ 
+Certificate 
+ 
+
+37 
+ 
+Others  
+ 
+ 
+Are you directly engaged in revenue collection? 
+Yes   
+No  
+ 
+ 
+Does the local government provide service delivery to their community members? 
+Yes  
+ 
+No  
+ 
+ 
+ 
+SECTION B: THE METHODS USED FOR REVENUE COLLECTION IN MUKONO 
+DISTRICT LOCAL GOVERNENT 
+Please note that this section provides questions about revenue collection and service delivery based on a 
+five-item Likert scales as indicated in the mini-table below; 
+1 
+2 
+3 
+4 
+5 
+Strongly 
+disagree(SD) 
+Disagree(D)  
+Not sure(NS) 
+Agree(A)  
+Strongly 
+agree(SA) 
+ 
+    For each statement, please indicate your level of agreement using the following scale: 
+ 
+1 
+2 
+3 
+4 
+5 
+The local government primarily collects revenue 
+through cash payments. 
+ 
+ 
+ 
+ 
+ 
+ 
+The local government uses third-party payment 
+processors or collection agencies for revenue 
+collection. 
+ 
+ 
+ 
+ 
+ 
+The local government accepts credit card 
+payments for revenue collection. 
+ 
+ 
+ 
+ 
+ 
+
+38 
+ 
+The local government uses online payment 
+methods for revenue collection. 
+ 
+ 
+ 
+ 
+ 
+Discounts and incentives are offered to encourage 
+prompt revenue collection. 
+ 
+ 
+ 
+ 
+ 
+The local government complies with relevant 
+regulations and tax considerations in revenue 
+collection. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION C: SERVICE DELIVERY 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+You are satisfied with the services provided by Mukono local 
+government. 
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue collection plays a crucial role in funding and 
+improving the quality of services in Mukono local 
+government. 
+ 
+ 
+ 
+ 
+ 
+ Mukono local government should diversify its revenue 
+sources to improve service delivery. How satisfied are you 
+with the services provided by Mukono local government. 
+ 
+ 
+ 
+ 
+ 
+ There is a need for better communication between Mukono 
+local government and the community regarding revenue 
+collection and its impact on service delivery. 
+ 
+ 
+ 
+ 
+ 
+With transparency and accountability in revenue collection 
+would lead to improved service delivery in Mukono local 
+government. 
+ 
+ 
+ 
+ 
+ 
+ You have noticed some changes in the quality of services 
+provided by Mukono local government in recent years. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+39 
+ 
+SECTION D: CHALLENGES FACED BY THE REVENUE AUTHORITY IN COLLECTING 
+TAXES 
+ 
+1 
+2 
+3 
+4 
+5 
+The tax collection process in Mukono Local 
+Government is efficient and streamlined. 
+ 
+ 
+ 
+ 
+ 
+ 
+The revenue authority in Mukono Local 
+Government effectively addresses tax evasion and 
+non-compliance. 
+ 
+ 
+ 
+ 
+ 
+There is transparency in the tax collection process 
+in Mukono Local Government. 
+ 
+ 
+ 
+ 
+ 
+The revenue authority in Mukono Local 
+Government operates with integrity and ethical 
+standards. 
+ 
+ 
+ 
+ 
+ 
+There is a high level of tax compliance among 
+individuals and businesses in Mukono Local 
+Government. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1392 @@
+ 
+EVALUATING THE EFFECT OF HYDRATED LIME ON THE WORKABILITY OF 
+GRANITE STONE DUST MODIFIED ASPHALT MIXTURE 
+ 
+SHADRACH AHUMUZA AINEBYONA  
+M22B32 /032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND 
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD 
+OF THE DEGREE OF BACHELOR OF CIVIL AND ENVIRONMENTAL ENGINEERING OF 
+UGANDA CHRISTIAN UNIVERSITY  
+February, 2026 
+ 
+ 
+ 
+ 
+
+i 
+ 
+ABSTRACT 
+ 
+This research aimed to evaluate the effectiveness of integrating hydrated lime 
+(HL) as an additive to enhance workability properties of granite stone dust (GSD)-
+modified asphalt mixes, due to the particle angularity and roughness of GSD and its 
+inability to effectively interact with the binder. The study utilized hydrated lime 
+to substitute GSD at 0%, 1%, 2%, 3%, and 4% by weight of aggregates. A series of 
+laboratory tests—Marshall Stability, Marshall Flow, Bulk density, Air voids, Indirect 
+Tensile Strength (ITS)—were used to evaluate workability properties. Notably, the 
+3% hydrated lime demonstrated the best performance, denoted by the maximum 
+Marshall Stability of 16.7 kN, best Flow of 3.6 mm, maximum Bulk density of 2.344 
+g/cm³, and best moisture resistance with a TSR of 96%. It is evident that the use of 
+3% hydrated lime improves the workability of GSD asphalt for low-volume road 
+constructions in tropical environments such as Uganda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+DECLARATION 
+I, Shadrach Ahumuza Ainebyona, hereby declare that this research proposal report 
+was a result of my own work and has not been submitted for any other degree or 
+academic award. Any sources of information not originally my own have been duly 
+acknowledged and referenced. 
+ 
+ 
+ 
+…………………………………………............. 
+Date:…………………………… 
+Shadrach Ahumuza Ainebyona 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+APPROVAL 
+This is to certify that the above report: "Evaluating the Effect of Hydrated Lime on 
+the Workability of Granite Stone Dust Modified Asphalt Mixture" submitted to the 
+Faculty of Engineering, Design and Technology, Department of Environment and 
+Engineering, at Uganda Christian University, in partial fulfilment of the 
+requirement for the Bachelor of Science in Civil and Environmental Engineering, is 
+researched and approved under my supervision by: Ainebyona Shadrach Ahumuza 
+Reg. No: M22B32/032 and Access No: A97851 
+ 
+ 
+ 
+ 
+…………………………………………............. 
+Date:…………………………… 
+ 
+Dr.Chris Byaruhanga 
+Supervisor  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+DEDICATION 
+I would like to dedicate this Final Year Research and design project to my beloved 
+parents Mr. Baker Wilcky Ainebyona and Mrs. Ruth Komukama Ainebyona for their 
+unwavering love, encouragement, and support. Their sacrifices and encouragement 
+have been a constant source of motivation for me. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ACKNOWLEDGEMENTS 
+I would like to express my sincere gratitude to everyone who has contributed to 
+the successful completion of my Final Year Research and Design report as a 
+requirement for the completion of my Bachelor of Science in Civil and 
+Environmental Engineering Degree. I am grateful to my supervisor, Dr. Eng. Chris 
+Byaruhanga as well as the Department of Civil and Environmental Engineering for 
+their support, assistance, and willingness to share their knowledge and expertise. I 
+extend my gratitude to particular members of the laboratory team for their 
+assistance and contribution to the experimentation process.  
+ 
+I would like to extend my heartfelt thanks to my parents Mr. Baker Wilcky 
+Ainebyona and Mrs. Ruth Komukama Ainebyona for their unwavering love, 
+encouragement, and support. Their sacrifices and encouragement have been a 
+constant source of motivation for me. I would also like to express my gratitude to 
+Mr. Paul Asiimwe and Mrs. Patricia Asiimwe for their support which has been 
+instrumental to the completion of this Final Year Research and Design Project. 
+ 
+Lastly, I am thankful to the Uganda Christian University for providing me with a 
+conducive learning environment and equipping me with the knowledge and skills 
+necessary to complete my final year research and design project and pursue a 
+career in civil and environmental engineering. 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+TABLE OF CONTENTS 
+ABSTRACT ................................................................................................................... i 
+DECLARATION ............................................................................................................. ii 
+APPROVAL ................................................................................................................. iii 
+DEDICATION ............................................................................................................... iv 
+ACKNOWLEDGEMENTS ............................................................................................... v 
+LIST OF ABBREVIATIONS ........................................................................................... x 
+LIST OF APPENDICES ................................................................................................. xi 
+CHAPTER ONE: INTRODUCTION ................................................................................ 1 
+1.0 Introduction ........................................................................................................ 1 
+1.1 Background ......................................................................................................... 1 
+1.2 Problem Statement ............................................................................................ 1 
+1.3 Research Objectives........................................................................................... 3 
+1.4 Research Questions ............................................................................................ 3 
+1.5. Scope ................................................................................................................. 4 
+1.6 Justification ........................................................................................................ 4 
+1.7 Significance of the Study ................................................................................... 5 
+1.8 Conceptual framework....................................................................................... 5 
+CHAPTER TWO: LITERATURE REVIEW ...................................................................... 7 
+2.0 Literature Review .............................................................................................. 7 
+2.1 Granite Stone Dust in Asphalt ........................................................................... 7 
+2.2 Granite Stone Dust Workability Challenges ...................................................... 8 
+2.3 Hydrated Lime Effect on Asphalt Mixtures ....................................................... 8 
+2.4 Optimum content of Granite Stone Dust ........................................................ 10 
+2.5 Conclusion ........................................................................................................ 14 
+2.6 Physical and chemical properties of hydrated lime....................................... 15 
+2.7 Research Gap .................................................................................................... 15 
+CHAPTER THREE: METHODOLOGY .......................................................................... 17 
+3.0 Research Methodology ..................................................................................... 17 
+3.1 Materials and Equipment ................................................................................. 17 
+3.2 Laboratory Testing ........................................................................................... 18 
+3.3 Materials and Sample Preparation .................................................................. 21 
+3.4 Material Characterization ................................................................................ 22 
+
+vii 
+ 
+3.4.1 Asphalt Binder Testing ................................................................................. 22 
+3.5 Aggregate Testing ............................................................................................. 22 
+3.6 Mixture Design and Preparation ...................................................................... 22 
+3.7 Testing Procedures .......................................................................................... 23 
+Workability Assessment .......................................................................................... 23 
+3.8 Quality Control and Validation ........................................................................ 23 
+3.9 Work Plan/ Timeline ........................................................................................ 23 
+Budget...................................................................................................................... 25 
+CHAPTER FOUR: RESULTS AND DISCUSSIONS ........................................................ 26 
+4.0 Results and Discussions .................................................................................... 26 
+4.1 Introduction ...................................................................................................... 26 
+4.2 Characterisation of Hydrated Lime................................................................. 26 
+4.2.1 The physical and chemical properties of Hydrated lime ........................... 27 
+4.2.2 Particle Size Distribution ............................................................................. 29 
+4.3 Granite stone dust: physical and chemical profile ........................................ 31 
+4.3.1. XRF Results for Granite Stone Dust ............................................................ 31 
+4.3.2 Scanning Electron Microscopy (SEM) ........................................................... 32 
+4.3.2 Link to the workability ................................................................................. 33 
+4.4 Marshall Properties of Asphalt Mixture with varying Lime content .............. 34 
+4.4.1 Analysis of Marshall Properties .................................................................... 34 
+4.6 The Mix Design ................................................................................................. 41 
+4.6.1 Aggregate Grading ......................................................................................... 41 
+4.6.2 Aggregate Grading Curve .............................................................................. 42 
+4.6.3 Bitumen Properties ....................................................................................... 43 
+4.8 Discussion of results ......................................................................................... 48 
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATIONS ....................................... 52 
+5.0 Conclusion and recommendation .................................................................... 52 
+5.1 Conclusion ........................................................................................................ 52 
+5.2 Recommendation .............................................................................................. 52 
+REFERENCES ............................................................................................................ 54 
+APPENDICES ............................................................................................................. 57 
+ 
+ 
+
+viii 
+ 
+LIST OF FIGURES 
+Figure 1:The dynamic stability values of asphalt concrete ............................ 11 
+Figure 2: The depth of deformation on the pavement at 60⁰C. ...................... 11 
+Figure 3: The deformation velocity of asphalt concrete ............................... 12 
+Figure 4: Dynamic stability and granite filling content ................................ 13 
+Figure 5: Resilient Modulus and Tensile Strength ....................................... 14 
+Figure 7: Budget ............................................................................. 25 
+Figure 8: Fineness of Hydrated Lime ...................................................... 30 
+Figure 9: Source: Secondary data of the SEM imaging of Granite stone dust ....... 33 
+Figure 10: Graph of Marshall Flow and Stability ........................................ 37 
+Figure 11: Graph of Marshall Air Voids and Bulk Density ............................... 39 
+Figure 12: Graph of ITS and TSR ........................................................... 40 
+Figure 13: Aggregate Blending ............................................................. 41 
+Figure 14: Aggregate Blending Curve ..................................................... 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+LIST OF TABLES 
+Table 1: Physical and Chemical Properties .............................................. 15 
+Table 2; Source: Secondary data from CML Kireka Lab Test on Tororo Road lime . 27 
+Table 3; Source: Secondary Data from Labanalysis on Hydrated Lime .............. 29 
+Table 4; Source: Primary Data from Analytical Lab .................................... 31 
+Table 5: Summary of Marshall Properties ................................................ 34 
+Table 6: Summary of Aggregate Properties .............................................. 43 
+Table 7: Summary of Bitumen Properties ................................................ 43 
+Table 8: Mix Design proportions and Volumetric Properties ........................... 43 
+Table 9: Volumetric Properties at Optimum Lime Content ............................ 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+x 
+ 
+ 
+LIST OF ABBREVIATIONS 
+GSD – Granite Stone Dust  
+MW- Marble waste  
+HL – Hydrated Lime 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+ 
+LIST OF APPENDICES 
+ 
+Appendix 1: Mixing of Bitumen and aggregates for Marshall Compaction............55 
+Appendix 2: Marshall Flow and Stability Testing.........................................56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+1.0 Introduction 
+1.1 Background 
+In the Lweeza community, road construction integrated granite stone dust as a 
+filler in asphalt mixtures, which filled the voids in the asphalt, densifying the 
+mixture and reducing moisture infiltration. Because of its high thermal capacity, it 
+was also useful in high temperature conditions as it mitigated rutting (Jwaida et 
+al., 2024). While this approach improved pavement performance, the workability 
+of the granite stone dust was negatively affected. (Ochen, 2024).  
+1.2 Problem Statement 
+Roads in the Lweeza community that use GSD-modified asphalt have experienced 
+this premature deterioration, even within the planned design life. Pavement 
+failures such as ravelling, stripping, cracking, and pothole formation negatively 
+affected the durability of the road. Despite proper drainage systems in place, a 
+lack of rutting (indicating heavy traffic loads), and being that it was situated in a 
+residential area where the access road was not in proximity to any swamps 
+(indicating moisture infiltration due to capillary action). While stop-and-go traffic 
+was indeed a source of mechanical wear and tear on the road, it accelerated 
+pavement failure. The road was a low-traffic volume access road, and was still 
+within its design life, implying that it should still be withstanding the traffic 
+loading that it was designed for, for the duration of its design life. These defects 
+are largely attributed to poor compaction and uneven binder coating due to the 
+stiff and segregated nature of granite stone dust-modified mixtures. The resulting 
+lower densities significantly compromised pavement durability and lifespan. The 
+angularity and texture of granite stone dust led to reduced workability, making 
+mixing, compaction, and application more difficult. 
+
+2 
+ 
+The primary issue revolved around the fact that GSD mixes are stiff, segregation-
+prone, and hardly workable, thus affecting the mixing, laying, and compacting 
+processes, which eventually influenced the observed distress of the pavement. This 
+process translated to lower densities, lower pavement life, and higher 
+maintenance costs. 
+Although the early failure of the pavement could be attributed to the 
+workmanship, the above consideration ignores the material science constraint 
+imposed by the mixture, causing the inherent workability issues. The granite stone 
+dust caused workability issues due to the high internal friction due to the high 
+angularity, the presence of siliceous material that reduced the affinity for the 
+binder, and the rough texture that reduced the aggregate and binder bond. This 
+required additional compactive force for the creation of a homogenous, pliable, 
+and compact asphalt mixture. That can be applied on the road. The use of the 
+granite stone dust created a ceiling on achievable densities and coating quality, 
+making the best aggregate-binder adhesion and compaction difficult to achieve 
+even with good field practice. Consequently, failures like ravelling and stripping 
+that accelerated pavement failures are the inevitable outcome of using a filler 
+whose properties naturally resist effective mixing and compaction. This study 
+seeks to address the workability challenges of the GSD-modified asphalt in order to 
+retain its benefits as a sustainable construction material with high thermal 
+capacity (preventing rutting) while improving its binder-aggregate adhesion and 
+compact-ability in order to engineer a more workable, durable, water-resistant 
+pavement for reliable, sustainable construction.  
+Hydrated lime has been studied extensively and proven to be an effective anti-
+stripping agent. It reduces the plasticity of fine aggregates, and it chemically 
+
+3 
+ 
+bonds the binder and the aggregates, enhancing adhesion. The purpose of this 
+research, therefore, was to evaluate the effect of the hydrated lime on the 
+workability of the asphalt. (Han et al, 2019) 
+However, it’s potential to combat the workability issues posed by GSD-modified 
+asphalt—particularly in Uganda's tropical environment was still unexplored. This 
+research, therefore, aims to evaluate the effect of hydrated lime on the 
+workability of GSD-modified asphalt mixtures 
+1.3 Research Objectives 
+This study aims to evaluate the effect of hydrated lime on the workability of GSD-
+modified asphalt mixtures. The specific objectives are: 
+1. To Determine Physical and chemical Properties of Hydrated Lime in Relation 
+to its Role as a Filler in Asphalt Concrete 
+2. To determine the optimal content of hydrated lime to be used in granite 
+stone dust modified asphalt mixture  
+3. To assess the workability of the GSD- asphalt with the integration of 
+hydrated lime and without it 
+4. To develop a modified mix design specification for the GSD-Hydrated Lime 
+Asphalt mixture  
+1.4 Research Questions 
+1. What physical and chemical properties of hydrated lime influence its use as a 
+filler in granite stone dust (GSD)-modified asphalt mixtures? 
+ 2. How does varying the proportion of hydrated lime influence the workability of 
+GSD-modified asphalt mixtures?  
+3. What was the optimum hydrated lime content in GSD-modified asphalt to 
+achieve a balance of workability and structural performance?  
+
+4 
+ 
+4. How does adding hydrated lime affect binder coating, compaction efficiency, 
+and Moisture resistance in granite stone dust asphalt mixtures? 
+1.5. Scope 
+This research focuses on: 
+Geographical Scope: An access road in Lweeza (Lat: N 0°13'25.19184"; Long: E 
+32°33'17.85636"). 
+Technical Scope: Laboratory-based evaluation of lime-modified GSD asphalt using 
+Marshall Flow, Bulk Density, and Boiling Tests. 
+1.6 Justification 
+This study intends to improve road construction by integrating hydrated lime, 
+resulting in reduced construction costs and sustainable construction by utilising a 
+waste product. Hydrated lime increases the workability of asphalt concrete with 
+granite stone dust by changing the fines-binder interactions.  This was the first 
+study to investigate the lime-granite stone dust synergy in Uganda’s tropical 
+climates, and will provide Uganda’s Ministry of Works with evidence-based 
+hydrated lime performance data and dosage guidelines.   
+Hydrated lime Improves Binder-Aggregate Adhesion by forming strong chemical 
+bonds at the binder-aggregate interface, reducing stripping and Moisture 
+susceptibility (Han et al, 2019). Hydrated lime mitigates this by decreasing the 
+flexibility of particles, increasing the mix's compatibility. It improves the binder's 
+cohesiveness and flow qualities by reducing the stiffening effect caused by angular 
+particles like granite stone dust by lubricating contact points and reducing friction, 
+making the asphalt mix easier to work with and compact during construction. 
+(Little and Epps, 2006) Finally, by neutralizing acids, lime slows the oxidative aging 
+of asphalt, extending pavement life and improving durability. 
+
+5 
+ 
+1.7 Significance of the Study 
+This study appears important as it tackles an important problem that persists in 
+the road construction industry, particularly for the people of the Lweeza 
+community and the entire country of Uganda, as well as for tropical climates, 
+concerning the early deterioration of roads that was ascribed to the poor 
+workability of granite stone dust (GSD)-modified asphalt mixtures. This study 
+proposes to improve the mixing, compaction, and binding capacity of asphalt to 
+ensure the development of stronger roads. From the study, there are expectations 
+for the development of scientifically based guidelines for the optimal content of 
+GSD-modified asphalt mixtures that contain hydrated lime, ensuring that engineers 
+and policy makers are equipped to improve the nature of the roads, as well as 
+decrease maintenance costs. This study therefore provides support for the 
+development of safe and strong roads for communities, as it would benefit the 
+people and improve the development of the growing community, such as the one 
+experienced by the people of Lweeza. This study scientifically fills the knowledge 
+gap that exists regarding the relationship between GSD and the effect of high 
+temperatures that are experienced in tropical climates, as there are very few 
+scholarly articles and research on such topics. This study improves the 
+comprehension of the influence of the addition of GSD and high temperatures on 
+the nature of the physical and chemical properties of GSD-modified asphalt 
+mixture. 
+1.8 Conceptual framework 
+This research investigates the influence of the use of hydrated lime on the 
+workability and longevity of asphalt mixtures modified with granite stone dust 
+(GSD) as used in Uganda. While the use of hydrated lime enhances the binding 
+properties and resistance to damage by water of asphalt mixtures through the 
+
+6 
+ 
+chemical component, granite stone dust, which was produced during the granite 
+processing process, consists of jagged, coarse grains that promote the hardening of 
+the asphalt mixture and lower workability. In essence, workability of an asphalt 
+mixture denotes the ease of mixing, transport, spreading, and compaction into the 
+desired, compact surface. This factor, which ascertains the proper coating and 
+compaction of the mixture, stands as the backbone for the longevity of the 
+asphalt. The jagged nature, as well as the grain size, of the GSD particles limits 
+the workability of the GSD-modified asphalts. 
+Adding hydrated lime to GSD-modified asphalt makes it more workable due to the 
+interaction between the lime and the aggregates and the binder, which makes the 
+particles less stiff and lubricates the contact points. This reduces internal friction, 
+making the material more compactable, which then gives it higher densities and 
+strength without affecting the natural properties of granite stone dust. The study 
+seeks to 
+1. Characterization of the physical and chemical characteristics of hydrated lime 
+as it applies to asphalt mixtures. 
+2. To optimize the amount of hydrated lime required for realizing high workability 
+without affecting the strength. 
+3. Assessment and comparison of the workability and durability of asphalt mixtures 
+with and without the use of hydrated lime in the tropical climate of Uganda. 4. 
+Developing the design for the GSD-hydrated lime asphalt mixture. The general 
+framework offers effective guidelines for the use of hydrated lime to increase the 
+durability and cost-effectiveness of asphalt pavements during the process of their 
+construction for local roads. 
+ 
+
+7 
+ 
+CHAPTER TWO: LITERATURE REVIEW 
+2.0 Literature Review 
+The aggregate base materials, especially the fillers, play an important role in 
+determining the performance of the asphalt pavements. Nonetheless, granite stone 
+dust, which has acted as the filler material in Uganda based on the availability and 
+performance characteristics, has shown some negative effects regarding the 
+workability of the asphalt mixture. More recent research work has, therefore, 
+focused on the use of additives, such as lime, as one of the alternatives for 
+enhancing the workability and performance. This literature study reviews the 
+available knowledge regarding the use of granite dust as the filler material, as well 
+as the degree to which lime has proved effective. 
+2.1 Granite Stone Dust in Asphalt 
+The Granite Stone dust is the by-product of the granite industry. The rut 
+resistance, the rigidity and the water resistance of the road are better with the 
+use of granite stone despite the nature of the stone dust, that is to say the 
+angularity and roughness (De Medeiros et al., 2023; Jwaida et al., 2024; Oesman et 
+al., 2021). Regardless of these advantages, the shape of particles and the high 
+internal interlock of the stone dust in the asphalt composite restrict the mix-
+ability of the mixture and results in the inherent mixing, compaction and 
+application difficulties. Bessa and others (2015) elaborated that mineral powder 
+and powder content shape affect the compaction and thus usually cause the 
+segregation and variations in density when laying the final surface.  
+ 
+
+8 
+ 
+2.2 Granite Stone Dust Workability Challenges 
+Although GSD offers various benefits, it experiences some workability problems as 
+a result of its angles and rough surface. Workability can be explained as the ease 
+of mixing, transporting, spreading, and compaction of asphalt. For granite dust-
+modified mixes, the high internal friction and absorption properties of the GSD 
+limit the flexibility of the mixture, making compaction processes more difficult 
+and prone to early failure. The higher absorption properties of GSD compared to 
+the smoothed fillers increase internal friction and deterioration, making it difficult 
+for the mixture to be well compacted, leading to low density and high early failure 
+rates, such as stripping, ravelling, and the development of potholes (Ochen, 2024). 
+Gudimettla, Murali, and Tharaghini (2004) explained that the workability problems 
+can result in the development of an imbalanced binder coating, which enhances 
+segregation and the development of the structure’s defect. In addition, the use of 
+GSD experiences drawbacks regarding the design performance. Studies show that 
+no more than 3% of GSD can be well utilized in the design of some asphalt 
+mixtures, compared to 7.5% for cement fillers (Oesmanet al., & Benny, 2021) 
+2.3 Hydrated Lime Effect on Asphalt Mixtures 
+Hydrated lime has shown enhanced performance characteristics for the asphalt 
+mixture. This was because it promotes aggregate and binder adhesion as a result of 
+the formation of strong chemical bonds with the components of the bitumen, 
+hence calcium soap, which promotes binding and coating (Han et al., 2019). 
+Moreover, it acts as a plastic modifier, softening the particles in the mixture and 
+making it easier to compact, ensuring that the mixture was cohesive (Little & 
+Epps, 2006). Hydrated lime also works as an anti-stripping agent, neutralizing the 
+acidic components of the bitumen, hence enhancing resistance to stripping (ASTM 
+D7173). 
+
+9 
+ 
+There exists research proving the efficacy of the addition of hydrated lime to 
+asphalt mixtures. According to Han et al. (2019), "Lime addition can enhance the 
+polar component of the surface free energy (SFE) of the asphalt binder and 
+improve the wetting and binding interaction between the asphalt binder and 
+aggregates.” In regard to reduced compaction efforts, the study by Little and Epps 
+(2006) proved that the addition of lime to the asphalt mixture reduces compaction 
+efforts by 20%, thus allowing for faster and denser compaction. De Medeiros et al. 
+(2023) proved that the use of lime satisfies the complete substitution of the 
+conventional fillers, up to 100%, while maintaining the same levels of mechanical 
+strength but certainly increasing workability and environmental sustainability. In 
+Uganda, the average annual temperature, which varies from 20 – 28°C, intensifies 
+the stiffening effect of the granular material, especially if the material was 
+subjected to dry climatic conditions, thus making the workability process an 
+integral priority for improvement. As a hydrate, lime carries a high lubrication 
+capacity, as it reduces the particles' interaction and thus enhances the process of 
+compaction. According to the research by Denis (2024), “Lubrication reduces 
+compaction resistance and makes compaction easier.” In addition, lime helps to 
+overcome the challenge of oxidative aging, thus making the material less reactive 
+and, therefore, less harmful to the environment. As presented in the study by 
+Little and Epps (2006), "Lime reduces the potential for oxidative aging and protects 
+the asphalt binder against reactive acidic compounds, which makes the material 
+especially effective for use and durable performance, especially in hot and tropical 
+climates.” Although the lime increases the binding capacity between the binder 
+and aggregate, the effect of the lime on the viscosity of the bitumen requires 
+careful consideration. Several research works (for instance, Han et al. 2019, and 
+
+10 
+ 
+Little & Epps, 2006) suggest that the lime content can increase the binder viscosity 
+through the generation of calcium and organic compounds and absorption of light 
+fractions. This factor can enhance the cohesion of the mixture but limit 
+workability if the lime content becomes excessive. This study, therefore, carries 
+out an elaborate assessment of the workability of the mixture using various lime 
+concentrations to ascertain the optimal content that presents the most benefits 
+without undermining the workability. 
+2.4 Optimum content of Granite Stone Dust 
+In the experiment, the industrial waste obtained from granite stone production, 
+which came as dust, was utilized as filling material present in the AC-WC mixture. 
+The amount of filling material used varies from 3%, 4.5%, 6%, 7.5%, 9%, based on 
+the comparison using cement filler. The experiment involved the use of wheel 
+tracking equipment designed to operate at 60°C, 45°C, and 30°C. Results obtained 
+from the experiment indicate that 3% Granite dust was the best content for the 
+filling mixture of the AC-WC mixture. (Oesman et al., 2021) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11 
+ 
+Figure 1: The dynamic stability values of asphalt concrete 
+ 
+The diagram indicates that the link between dynamic stability and filler content 
+was not linear, nor was the type of filler. In general, asphalt concrete with cement 
+filler was more stable than asphalt concrete with granite filler. The use of a 7.5% 
+cement filler results in the maximum dynamic stability rating, 2520.0 passing/mm. 
+Meanwhile, asphalt concrete with 3% granite filler content attained the maximum 
+dynamic stability value, 1465.1 passing/mm, surpassing that of cement filler of the 
+same degree (1400 passing/mm). 
+Figure 2: The depth of deformation on the pavement at 60⁰C. 
+
+12 
+ 
+ The graphic indicates that the deformation depth was not proportional to the 
+filler content or kind. The smallest deformation (2.01 mm) in cement-filled 
+pavement occurs at a filler level of 7.5%. On the granite filler pavement, the 
+smallest distortion (2.42 mm) occurs at 3% filler content. 
+ 
+Figure 3: The deformation velocity of asphalt concrete 
+ 
+The diagram indicates that the relationship between deformation velocity and 
+filler content was not linear, nor is the type of filler. The smallest deformation 
+speed (0.0167 min/mm) was seen in asphalt concrete with cement filler with a 
+filler percentage of 7.5%. The asphalt concrete with the granite filler variation had 
+the smallest deformation velocity (0.0287 min/mm) at the 3% filler level. As the 
+speed of deformation decreases, the value of dynamic stability increases, implying 
+that the depth of deformation decreases. 
+
+13 
+ 
+ 
+ 
+Figure 4: Dynamic stability and granite filling content 
+ 
+The picture indicates that when the temperature rises, the value of dynamic 
+stability on the pavement decreases. The loss in dynamic stability was related to 
+the asphalt's great sensitivity to temperature changes. 
+(Tiwari, Satyam &Miani, 2022) investigated the integration of MW as a filler at 
+4.5%, 5.5%, 7%, and 8.5% by weight in hot mix asphalt. The altered mixtures met 
+the requirements for abrasion, moisture damage, and Marshall Stability tests.  
+(Khan et al, 2023) did a similar investigation on the use of MW as a filler in hot mix 
+asphalt, investigating filler amounts ranging from 0 to 6 wt. % of aggregates. The 
+Marshall method (by impact) was used for dosing, which may not adequately 
+reflect field rolling compaction conditions. With the limestone aggregates in the 
+combinations, 4% MW was determined to be the optimal level. However, when the 
+amount of filler (marble powder) in the asphalt mixture grew, the fatigue life 
+decreased. De Medeiros et al. evaluated the feasibility of partially and totally 
+replacing filler in hot asphalt mixtures with waste from the granite and marble 
+
+14 
+ 
+industries. The commonly used filler, hydrated lime, was replaced with residue in 
+proportions of 50% and 100% by weight. The results revealed that, as compared to 
+the reference combination (having 0% residue), the asphalt mixture compromising 
+waste marble and granite performed somewhat better mechanically. This was 
+demonstrated by the lower ratio of the Resilient Modulus (RM) and Tensile Strength 
+(TS), as depicted. 
+Figure 5: Resilient Modulus and Tensile Strength 
+ 
+2.5 Conclusion 
+-The higher the temperature on the pavement, will cause the value of dynamic 
+stability to decrease.  
+- The use of cement filler with 7.5% content reaches the highest dynamic stability 
+value, ie, 2520.0 passing/mm. Meanwhile, asphalt concrete with granite filler with 
+3% filler content reached 1465.1passing / mm.  
+- On asphalt concrete with variation of cement filler content, the smallest 
+deformation (2.01 mm) occurs at 7.5% filler level. While on asphalt concrete with a 
+variation of granite filler content, the smallest deformation (2.42 mm) occurred at 
+3% filler content.  
+-The smallest deformation speed (0.0167 min/mm) occurs in asphalt concrete with 
+cement filler, at 7.5% filler content. While the asphalt concrete with the granite 
+filler variation of the smallest deformation velocity (0.0287 min/mm) at 3% filler 
+content. 
+
+15 
+ 
+-Where the Marshall method (by impact) was used for dosing, which may not 
+adequately reflect field rolling compaction conditions. With the limestone 
+aggregates in the combinations, 4% MW was determined to be the optimal level. 
+2.6 Physical and chemical properties of hydrated lime 
+Property / Test (Method) Recommended Value or 
+Range 
+Citation 
+Fineness / PSD (ASTM 
+C110; EN 459-1) 
+≥99% passing 75 µm; ≥94% 
+passing 45 µm; EN limit 
+≤7% residue on 0.09 mm 
+EN 
+459-1:2015; 
+ASTM 
+C110; 
+Mississippi 
+Lime 
+datasheet 
+Bulk Density 
+(loose/compacted) 
+≈560 / 670 kg·m⁻³ 
+Mississippi Lime 
+datasheet 
+Specific 
+Gravity 
+(true 
+density) 
+≈2.3–2.34 
+Mississippi Lime 
+datasheet 
+M Content (EN 459-1) 
+≤2% 
+EN 459-1:2015 
+Ca(OH)2 Purity (Available 
+Lime, EN 459-1; ASTM 
+C25) 
+≥80% (EN min. for CL 90-
+S); many asphalt grades 
+~97% 
+EN 459-1:2015; ASTM C25 
+CaO + MgO Total 
+≥90% 
+EN 459-1:2015 
+MgO 
+≤5% (≤7% if soundness 
+passes) 
+EN 459-1:2015 
+Table 1: Physical and Chemical Properties 
+ 
+2.7 Research Gap 
+Despite considerable global research, local data are scarce on the performance of 
+lime-GSD asphalt mixtures in Uganda and other tropical countries. The majority of 
+empirical studies are from temperate regions, which limits their relevance in East 
+
+16 
+ 
+Africa.  There was also a need for practical dose standards that are specific to 
+local materials and construction techniques. Without these, the use of lime-GSD 
+technology in community-level projects remains hampered. Despite, it being more 
+cost-effective and sustainable.  
+Although granite stone dust can enhance the mechanical behaviour of asphalt, it 
+was prone to make workability difficult owing to its nature. Hydrated lime, on the 
+other hand, offers a practical solution to improve adhesion, reduce plasticity, and 
+enhance resistance to moisture. Several studies have documented how lime can 
+facilitate compaction, enhance the binder coating, and increase the durability of 
+asphalt mixes containing GSD. There are, however, significant gaps in our 
+understanding of the behaviour of this mixture under Ugandan-specific climate and 
+material conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+17 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.0 Research Methodology 
+This chapter explores the process and approach that are going to be utilized to 
+investigate the influence of the effect of hydrated lime on the workability of 
+granite stone dust (GSD)-modified asphalt mixtures. The study adopted an 
+experimental approach, involving laboratory testing for the evaluation of the 
+material and the construction of asphalt mixtures, and to examine workability-
+related characteristics. This method was structured in relation to the objectives of 
+the study, the characterisation of hydrated lime and the search for the most 
+optimal method for producing its dosage, and comparing the workability of asphalt 
+mixtures with and without hydrated lime. 
+This study adopted the design of comparative laboratory experiments. Two groups 
+of asphalt mixtures were prepared, one using granite stone dust as the only 
+aggregate and the other using a mixture of granite stone dust and progressively 
+greater amounts of hydrated lime. The research was divided into three primary 
+stages: 
+1. Material characterisation 
+2. Marshall mix design and hydrated lime content optimization 
+3. Workability testing and comparative analysis. 
+4. Development of a usable Marshall Mix Design 
+3.1 Materials and Equipment 
+The main materials to be employed in the research are:  
+1. Asphalt Binder (Penetration Grade 60/70)  
+2. Granite stone dust (GSD), derived from local quarries  
+3.  Hydrated lime, from Tororo Cement  
+4. ASTM C33 specified coarse and fine aggregates.  
+
+18 
+ 
+To guarantee compliance with applicable requirements, all materials were air-
+dried, sieved to the required grade, and tested before use.  
+3.2 Laboratory Testing 
+Objective 1: Characterization of Hydrated Lime.  
+To analyse the physical and chemical properties of hydrated lime relevant to its 
+behaviour as filler, the following experiments were performed:  
+Physical Properties 
+1. Fineness (Particle Size Distribution): To determine the particle size 
+distribution the use of a dry sieve analysis method according to ASTM C110. 
+Finer particles of lime promoted the packing density of the asphalt mix and 
+enhanced the interaction of the binder and the aggregates leading to lower 
+air voids and improving the workability. 
+2. Moisture Content: In order to prevent cracking during storage we determine 
+the moisture content by the means of oven-dry method (ASTM C25), to make 
+sure that the moisture content did not exceed 2%.  
+3. Bulk Density and Specific Gravity: The density values are crucial for 
+volumetric calculations for the mix design. The standards were required to 
+be 400-600 kg/m3 and 2.2-2.4 respectively.  
+Chemical Properties 
+Calcium Hydroxide Content (Ca (OH)2 Purity: The high purity is necessary for the 
+neutralization of the acidic components and enhance better coating at the binder 
+aggregate interface. We used acid-base titration to test for a purity (>90%) as per 
+ASTM C25. 
+
+19 
+ 
+Minor Oxides (MgO and CaO): These two oxides play a crucial role in the asphalt 
+mastic. The MgO influences soundness and the CaO influences Alkalinity. Utilized 
+an XRF (ASTM C 25).  
+Objective 2: Determine the Optimal Hydrated Lime Content.  
+The approach for determining the most effective amount of hydrated lime in GSD-
+modified asphalt was as follows:  
+1. Marshall Mix Design: Asphalt specimens were created in accordance with 
+ASTM D6926 specifications. Multiple batches were prepared, with 0%, 1%, 
+2%, 3%, and 4% hydrated lime substituting some of the GSD by weight. The 
+optimum binder content (OBC) was determined for the control mixture using 
+standard Marshall Stability and Flow analysis. 
+2. The optimum hydrated lime content was determined for each mixture using 
+Marshall Stability and Flow analysis, as well as Bulk Density.  
+3.  Preliminary Workability tests: To evaluate the ease of mixing, compaction, 
+and handling, we performed a Marshall Flow, Stability, and the bulk density 
+(Saturated Surface Dry Method),  
+4. Selection Criteria: The dosage with the best mix of workability and 
+structural performance (stability, flow, and density) were deemed ideal. 
+Objective 3: Assessment of Workability.  
+Asphalt is a composite material; therefore, its workability is a composite property 
+rather than a single measurable characteristic, like specific gravity. Instead, it’s a 
+combination of a number of components that come together to give the asphalt 
+composite its workability. That is to say, workability addressed the components of 
+the composites ‘ease of mix-ability, compact-ability, and applicability. Therefore, 
+
+20 
+ 
+a combination of tests was necessary to properly assess each characteristic to 
+collectively assess the workability of the asphalt mixture.  
+ The workability of asphalt mixtures—with and without hydrated lime—were tested 
+using the following standard tests:  
+1. The Marshall Flow Test (ASTM D6927) measured the deformation of asphalt 
+under load. Higher flow numbers typically suggest improved workability. 
+That is the sample’s vertical deformation at the peak load point. It gauged 
+the mix’s flexibility or plastic deformation. This was a direct indicator of 
+workability. A mixture with a higher flow value was less stiff and more 
+pliable, making it easier to compact and apply within the field without 
+leading to segregation. The mix was brittle and stiff (poor workability) if the 
+flow was very low. It was too plastic and prone to rutting if the flow was 
+extremely high. 
+2.  The Bulk Density Test (Saturated Surface Dry Method) determined compact-
+ability by measuring the density of the compacted material. The density of 
+a compacted asphalt sample can be determined with great accuracy using 
+this test. Three conditions are used to weigh the sample: dry, immersed in 
+water, and saturated (surface-dry). We computed its volume and density 
+using these weights. Compact-ability was the outcome of workability, and 
+density was the gold standard for this. Every sample in the lab was 
+compressed with precisely the same amount of energy (75 Marshall Hammer 
+blows). By definition, a mix was more workable if it reached a higher 
+density than another with the same compaction effort.  
+ 
+
+21 
+ 
+3.3 Materials and Sample Preparation 
+1.  Asphalt Binder: A penetration grade asphalt binder that was compliant with 
+ASTM D5 (Standard Penetration of Bituminous Materials Test Method)was sourced 
+from the supplier to bring about consistency. The properties of the binder are 
+instrumental in defining mixture behaviour. The binder was placed in temperature-
+controlled containers that are sealed at about 25 °C, as a precaution to inhibit 
+aging. It was conditioned before the test, correct testing temperature (e.g.,60 °C) 
+according to ASTM D36 (Standard Test Method for Softening Point). 
+2. Aggregates: Granite Stone Dust (GSD) was collected from the local quarries 
+within Lweeza. It was important that it was representative of the real material 
+that was used in the local pavement layers. The mineral composition and particle 
+size distribution were checked. Standard coarse and finely aggregated materials 
+were sourced with certified suppliers, in line with ASTM C33 (Standard 
+Specification of Concrete Aggregates). Aggregates were dried in an oven at all-
+time sat a temperature greater than 105°for at least 24 hours to dry off Moisture, 
+which may cause changes in mix properties.(ASTM C127, ASTM C128). 
+3. Hydrated Lime: Hydrated lime [Ca(OH)2] of commercial grade were obtained at 
+Tororo Cement and made according to the ASTM C110 specifications. The material 
+dried in the oven at 105°C to remove any existing Moisture and then sieved with a 
+.200 sieve (75 um) to assure uniformity of size of the particles. This fine particle 
+size was critical to the successful sealing of pores between aggregates and 
+enhancing mix density. 
+ 
+ 
+
+22 
+ 
+3.4 Material Characterization 
+3.4.1 Asphalt Binder Testing 
+Penetration Test (ASTM D5): The test was used to determine the consistency or the 
+hardness of the Bitumen through the distance that a typical needle goes into a 
+binder vertically sample. 
+Softening Point Test (ASTM D36): To establish the temperature at which Bitumen 
+has a specific level of softness, which implies that it was vulnerable to 
+temperature changes at which it passes between semi-solid and viscous liquid 
+state. 
+Specific Gravity (ASTM D70): This will measure the density of the Bitumen, in 
+comparison with water.  
+3.5 Aggregate Testing 
+1. Gradation Analysis: Sieve analysis in accordance with ASTM C136  
+2. Flakiness Index (FI): The shape and the elongation of the aggregate affects 
+compaction. We Measured according to ASTM C136. 
+3. Specific gravity via ASTM C127. 
+4. Water absorption via ASTM C128, which was significant in assessing the 
+Moisture-related durability issues. 
+3.6 Mixture Design and Preparation 
+The asphalt mix was designed based on the Marshall method (ASTM D1559) to 
+establishing optimum binder content. We had a control mix and Modified mix. 
+The control mix had no GSD and the Modified mix had hydrated lime of 
+changing percentages. 
+Specimen Preparation 
+1. Heating: Blend the constituents at the right temperatures in order to 
+guarantee proper coating and workability. 
+
+23 
+ 
+2. Mixing: Combination of hydrated lime and GSD were mixed with aggregate 
+materials on a dry basis with the addition of binder to provide the uniform 
+distribution. 
+3. Compaction: Marshal Compactor should be used to form target air voids and 
+specimens density as per specification to ASTM D1559. 
+4. Curing: Room temperature (~25 C) conditioning of cooled specimens will 
+take place at room temperature hours before testing in order to ascertain 
+performance. 
+3.7 Testing Procedures 
+Workability Assessment 
+1. Flow and Consistency: The value of the flow that is realized in the process of 
+compaction measured in millimetres was used as a measure of workability. The 
+lower and higher flow values are the differences in the plasticity of the mixture 
+and the ease with which it can be compacted (Asthana et al., 2015) 
+2. Compaction Effort: The number of blows to achieve the desired density in 
+making the specimen was taken as an indirect measure of workability. 
+3.8 Quality Control and Validation 
+1. Each experiment was done thrice according to ASTM E691.   
+2. The equipment was also calibrated on a regular basis.   
+3. There were detailed records of processes, observations and variations during 
+the experiment. 
+3.9 Work Plan/ Timeline 
+The study took approximately 8 months and was split into the following significant 
+stages; proposal defence, material collection, mix design and lab testing, analysis 
+of data, and report writing. The initial month was used to construct the research 
+hypothesis, carry out review of literature, and writing the proposal to be 
+
+24 
+ 
+approved. This was preceded by the purchase and manufacture of materials like 
+the dust of granite stones, hydrated lime, and bitumen. Testing took a few weeks 
+and it involved physical and chemical characterization of hydrated lime, Marshall 
+Mix design formulation, and test of workability. These procedures were conducted 
+according to ASTM and AASHTO standards, which guaranteed validity. The data 
+gathered during the experimental stage were analysed, interpreted, and 
+presented.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+25 
+ 
+Budget 
+Figure 7: Budget 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+26 
+ 
+CHAPTER FOUR: RESULTS AND DISCUSSIONS 
+4.0 Results and Discussions 
+4.1 Introduction 
+This chapter introduces, explains as well as interprets the results of the 
+preliminary material characterisation phase that are necessary in exploring the 
+inherent aspects of the raw materials used in this paper. The physical properties, 
+elemental composition and morphology of Granite Stone Dust (GSD) had been 
+explored along with the chemical and physical properties of Hydrated Lime (HL) in 
+the test certificate issued by the lab. These results form a good basis in analysing 
+the behaviour of Granite Stone Dust modified asphalt mixes with a partial 
+substitution of the substitute filler material with hydrated lime during subsequent 
+stages of the experiment.  
+4.2 Characterisation of Hydrated Lime. 
+The hydrated lime (HL) used as the modifying agent in this study was acquired 
+from Tororo Cement and was taken through the tests to establish its quality at the 
+Central Materials Laboratory- Kireka.   
+In this section, the secondary data, as in the test certificate (Ref: CML: 
+012/26/08/25), was utilised to verify the quality of the material and also to gain 
+deeper insight on the effect of the substance on the workability of the GSD 
+modified asphalt mixtures because of the nature of its physical and chemical 
+properties that have the potential to counter the shortcoming of the GSD nature. 
+ 
+ 
+ 
+ 
+ 
+
+27 
+ 
+Parameter 
+Achieved 
+Required (BS-EN 459-1: 
+2015 
+Calcium 
+& 
+Magnesium 
+Oxides (%) 
+95 
+90 
+Availability 
+Lime 
+as 
+Ca(OH)2 
+82 
+80 
+Total CaO content (%) 
+60.0 
+- 
+Total MgO content (%) 
+3.1 
+5 
+Free Water Content 
+0.5 
+2 
+Density (kgm-3) 
+874 
+- 
+Volume (m3) 
+3.43 x 10-4 
+- 
+Specific Gravity 
+2.45 
+- 
+Table 2; Source: Secondary data from CML KirekaLab Test on Tororo Road lime 
+ 
+4.2.1 The physical and chemical properties of Hydrated lime 
+The test findings demonstrated that the procured hydrated lime was of good 
+quality and met the required international construction lime standard, BS EN 459-
+1: 2015. Its physical and chemical properties had a great many positive 
+implications on the workability challenge experienced by GSD-modified asphalt.  
+ Calcium and Magnesium oxides & Available lime: The combined 
+Calcium and Magnesium Oxides content of 95% and Available Lime (as 
+Ca(OH)2) concentration of 82% exceeded the standard's minimum 
+standards. This high purity was important to the material's reactivity.  
+Lime (Ca(OH)2) that was available in asphalt mixes reacted with polar 
+constituents in bitumen to form calcium soaps (Little and Epps 2006). 
+
+28 
+ 
+ Free water content: This test was done to determine the quantity of 
+water in the hydrated lime.  The amount of moisture in lime when its 
+too high will cause foaming and release steam till it interacts with 
+hot binder lime at (150-160°C)  Moisture Water Content of 0.5% was 
+extremely low which was a most desirable property. This adversely 
+impacts the integrity of the mixture that might leave voids and 
+weaken the structure of the mixture (Han et al., 2019). This lime had 
+a low Moisture content which facilitated enhanced binder aggregate 
+coating and compaction. 
+ Specific Gravity: The specific Gravity is necessary for volumetric 
+calculations to facilitate carrying out of the Marshall mix design. This 
+test identified the density of the hydrated lime in comparison with 
+water. Specific Gravity of 2.45 calculated was found to be within 
+normal range of hydrated lime (2.2 -2.4) as stated in literature and in 
+the project proposal.  The objective was to ensure the best balance 
+of density and air voids is achieved. 
+The hydrated lime proved to possess adequate chemical and physical properties 
+to facilitate the experimentation to understand the effect on the workability of 
+the synergy between the GSD and hydrated lime mixture. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+29 
+ 
+ 
+4.2.2 Particle Size Distribution 
+ 
+Table 3; Source: Secondary Data from Lab analysis on Hydrated Lime 
+The particle size distribution of hydrated lime as determined by dry sieve analysis 
+in accordance with BS EN 459-2:2021.  
+
+30 
+ 
+Figure 8: Fineness of Hydrated Lime 
+ 
+This test is very important, as it gave a measure of the fineness of the lime, which 
+is a determining factor in its efficiency when mixed with the asphalt. The test 
+revealed that the hydrated lime is very fine, having 100% of it pass through the 
+5.00 mm sieve and 20% of it pass through the 0.075 mm sieve, which is the No. 200 
+sieve. Its high fineness is important in the project due to the following reasons: 
+ Improved Reactivity and Filler Effectiveness: The higher surface area of the 
+finer particles led to more points of contact between the particles and the 
+asphalt binder to which chemical reactions could be enhanced.  This led to 
+more beneficial calcium soap formation at the asphalt binder and aggregate 
+interface, which is basically how finer hydrated lime increased adhesion and 
+reduced Moisture Susceptibility (Little and Epps, 2006).  A finer lime is, 
+therefore, a more reactive lime. 
+ Improved Workability and Lubrication. The small, spherical, smooth 
+particles of hydrated lime worked as a physical lubricant when mixed with 
+the angular and rough texture of the Granite Stone Dust (GSD). These 
+particles filled up the spaces between the large, angular particles of GSD 
+and aggregate. As a result, the friction between the particles decreased. 
+Consequently, the interlocking of particles, which made the mix of GSD stiff 
+and difficult to compact, and the workability issue plaguing this study were 
+significantly reduced. 
+Therefore it can be concluded that the PSD proved that the hydrated lime 
+possessed the necessary physical properties (fineness) to perform effectively either 
+
+31 
+ 
+as a chemical modifier and adhesion enhancer, and/or a physical lubricant to take 
+advantage of the workability provided by the stiff GSD-modified asphalt. 
+4.3 Granite stone dust: physical and chemical profile 
+In this study, we closely examined the granite stone dust (GSD), which is the 
+primary filler to be used by utilised for experimentation. It is essential to 
+understand the physical and chemical properties. To establish the composition of 
+the granite stone dust, we conducted X-ray Fluorescence (XRF), and to evaluate 
+the shape and surfaces, we conducted a scanning electron microscope (SEM) test, 
+which provided important information to explain the workability problems 
+associated with GSD-modified asphalt. 
+4.3.1. XRF Results for Granite Stone Dust 
+Table 4.1 shows the elemental composition of the GSD sample analyzed by XRF, 
+expressed as oxide percentage, following the Government Analytical Laboratory 
+procedure (Job Desc: DFD 357/2025). 
+Table 4; Source: Primary Data from Analytical Lab 
+ 
+ Silicon Dioxide (SiO2): The significant constituent is the high percentage of 
+SiO2, which is 72.30%. SiO2 is a chief ingredient of quartz, which is very 
+hard and often has very sharp edges after it has been crushed. These sharp 
+
+32 
+ 
+edges are the reasons why mixes with the GSD were more frictional and 
+stiffer (Oesman et al. 2021), which directly relates to workability. 
+ Aluminosilicate framework: The presence of high amounts of Aluminium 
+Oxide (Al2O3), Potassium Oxide (K2O), and Na2O suggests the presence of 
+feldspar minerals common in granitic rocks. The aluminosilicate component 
+is another factor adding to the inert and stable composition of the mixture 
+within the asphalt. Unlike cement and hydrated lime, which react and can 
+work to improve cohesiveness, GSD does not take part in any pozzolanic 
+reaction. 
+  Loss on Ignition (LOI):The low value of LOI, which is 0.38%, shows little 
+presence of moisture, carbonates, and organics. It is an advantageous filler 
+property because it translates to low volatility when mixed hot, which could 
+result in voids and compromise the asphalt integrity. 
+ Calcium Oxide (CaO): CaO is merely 1.86%, which is substantially less than 
+the CaO present in hydrated lime (60% total CaO content). This reflects a 
+total inability on the part of GSD to show any chemical reactivity, which 
+could otherwise act as a binding agent between the aggregate and binder. 
+4.3.2 Scanning Electron Microscopy (SEM) 
+SEM analysis gave information on the texture and shape of the particles of GSD. 
+Refer to Figure 4.1, which is the SEM photograph, to supplement the information 
+on the chemical workability. 
+
+33 
+ 
+ 
+Figure 9; Source: Secondary data of the SEM imaging of Granite stone dust 
+ Particle shape and angularity: The particle shape and angularity of GSD are 
+clearly angular, with sharp and broken edges. These are due to the 
+fracturing of granite, which is a hard rock. 
+ Surface Texture: The particles are observed to have a rough, irregular 
+structure under the microscope, which further increases the friction 
+between the particles, thereby increasing the strength of the mixture. 
+Taking into consideration the above points, it could be said that the observations 
+show that the GSD used was locally extracted siliceous filler, which is chemically 
+inert and has very angular and rough particles. 
+4.3.2 Link to the workability 
+The primary particle regime-related factor behind the decreased workability 
+associated with asphalt mixtures modified by the addition of GSD is the presence 
+of angular and rough particles. During the mixture and compaction phases, such 
+particles are reluctant to slide against each other and the aggregate, which is 
+more difficult and also tends to generate inconsistencies associated with 
+separation (Gudimettla et al., 2004). This is associated with decreased density and 
+
+34 
+ 
+increased susceptibility to elevated pavement defects such as ravelling and 
+cracking. 
+4.4 Marshall Properties of Asphalt Mixture with varying Lime content 
+The main objective of the experimental part of this research compromised 
+batching and evaluating asphalt mixtures with varied percentages of Hydrated 
+Lime (0%,1%,2%,3%,4%) partially replacing part of the Granite Stone Dust (GSD) 
+filler. The table below compiles the Marshall Mix design results for every blend. 
+Table 5: Summary of Marshall Properties 
+ 
+4.4.1 Analysis of Marshall Properties 
+1. Marshall Flow: The sample's vertical deformation at the peak load point. It 
+gauged the mix's flexibility or plastic deformation. This was a direct 
+indicator of workability. A mixture with a higher flow value was less stiff 
+and more pliable, making it easier to compact and apply with in the field 
+without leading to segregation. The mix was brittle and stiff (poor 
+workability) if the flow was very low. It was too plastic and prone to rutting 
+if the flow was extremely high. The ease of particle rearrangement under 
+stress can be directly measured in a lab setting using the Marshall Flow 
+value. The Flow value was a strong and direct indicator of workability and 
+
+35 
+ 
+compact-ability since compaction in the field was the process of pushing 
+particle rearrangement for densification. It was evident from our raising 
+flow values with lime concentration that we are lowering internal friction 
+and improving the mixture's workability. 
+In order to demonstrate that we had produced a workable but stable mix, 
+we determined the lime concentration that provided us with a flow value 
+within the ideal specification range (2-4mm). While a very high flow value 
+can indicate a mix that was too plastic and prone to rutting, our optimal 
+flow value of 3.6 mm for the 3% lime mix was a direct indicator of superior 
+compact-ability. This was not about making construction easier for workers; 
+it's about building a more durable road.  
+A workable mix ensures we can achieve the target density in the field. 
+There are fewer and smaller interconnecting air voids in a mix that has 
+better compact-ability. This was because the internal resistance caused by 
+the interlocking of the GSD, was mitigated by the HL, making the mixture 
+easier to mix and compact, therefore achieving a higher density. As a result, 
+water was kept out by a homogeneous layer that was almost impermeable. 
+This directly stopped the ravelling, stripping, and potholes we observed on 
+the Lweeza road because water seeps into the already weakly bonded 
+aggregates and binder, the main source of the stripping damage. This 
+improvement was demonstrated by our ITS test, which showed that the 3% 
+lime mix maintained its strength even when wet with a 96% TSR. An increase 
+in the flow value from our control at 3.3 mm to 3.6 mm at 3%, improved the 
+durability significantly of the asphalt mixture for the 15-25 year design life 
+that it’s supposed to serve for.  
+
+36 
+ 
+Essentially, we are enhancing more than simply constructability by 
+increasing workability (as indicated by the higher flow number). We are 
+directly ensuring the development of a more uniform, denser, impermeable 
+pavement structure that was intrinsically more resilient. 
+2. Marshall Stability: The Peak load that the sample can bear before failing. It 
+gauged the mixture's shear strength to ensure we weren't creating a weak, 
+mushy mix by increasing workability. We demonstrated that the lime-
+modified mixture was genuinely more robust and resilient to shoving and 
+rutting under vehicles. When HL was added, Marshall Stability rose by up to 
+3%. With a peak stability of 16.7 kN, the 3% HL mix significantly 
+outperformed the control mix by (13.3 kN). But at 4% HL, the stability fell to 
+12.8 kN, which was less than the performance of the control mix. Lime 
+modification significantly increased stability, with the 3% lime mix showing 
+the peak strength (16.7 kN) 
+It's a frequent misconception that a more workable blend has to be weaker. 
+Our findings clearly disprove this trade-off. Not only did the 3% lime mixture 
+become easier to deal with, but it also became stronger and more cohesive 
+by nature. In addition to being brittle, weaker, and unworkable, the control 
+mix (0% lime) had the lowest stability. Internal friction and particle 
+interlock created a weak, brittle form of strength that causes cracking, at 
+the points of its stiffness. 
+We replaced the brittle, frictional strength with cohesive, ductile strength 
+by adding hydrated lime. Two things were done by the lime; it improved 
+workability and decreased the detrimental internal friction by physically 
+
+37 
+ 
+lubricating the angular GSD particles. It strengthened the binder-aggregate 
+link chemically. 
+The end product was a mixture that was easier to compact and stronger 
+under load. Not only was the 3% lime combination easier to use, but it also 
+performs better overall. It possessed the structural strength to withstand 
+rutting and deformation under traffic for many years to come, as well as the 
+workability to be compacted into a dense, impermeable layer in the field. 
+Figure 10: Graph of Marshall Flow and Stability 
+ 
+3. Density: This test can be used to measure density of compacted asphalt 
+sample with a lot of accuracy. The sample is weighed in three conditions, 
+namely, dry, in water, and saturated (surface-dry). With these weights we 
+determined its volume and density. Determination of density is the gold 
+standard for testing compact-ability. All samples in the laboratory are 
+subjected to the same pressure (75 Marshall Hammer blows). Since mixes 
+become more readily workable as their density increases, a higher density 
+
+38 
+ 
+achieved in one mix compared to another at the same compaction effort 
+resulted in a more workable mix. The observation that our 3% lime mixture 
+achieved the greatest specific gravity was sufficient testimony that it was 
+the easiest to ram. The lime mix achieved a density of 2.344 kg/m3, the 
+maximum compact-ability. 
+Density and durability are synonymous in asphalt construction. Increasing 
+the workability does not only make the work of construction workers easier, 
+but it also helped directly in achieving a construction material which was 
+more resistant to failure. 
+4. Voids: The density achieved in the previous test and the theoretical 
+maximum density of the mix facilitated the calculation of the percentage of 
+small air gaps that were enclosed between the components. The air voids 
+are vital to performance. Should it have been excessively low, this would 
+have caused the asphalt to bleeding. The pavement will however become 
+too permeable when the air voids are excessive. Moisture damage 
+(stripping) can be induced by air and water intrusion through the voids and 
+cause rapid binder aging. The huge air pores in the 0 % lime (control) 
+mixture was a sign that it was hard to compress and was not easily 
+workable. The 3 % lime mix achieved the optimal air voids about 4 %, which 
+meant that we had the denser, optimised, and more workable mixture. 
+The aim of this was a layer with semi-impermeability and possessing 
+optimum voids. It is not so porous that the binder will ooze to the surface in 
+hot climates, and it should also not be too impermeable so as to exclude 
+most of the water and air, which will cause stripping and ageing. A 
+pavement with optimal air voids experience wear and tear at a significantly 
+
+39 
+ 
+slower rate. Attainment of the optimal air voids basically was the final and 
+conclusive evidence that we had turned around the difficult to mix asphalt 
+to a more workable and durable mixture. 
+Figure 11: Graph of Marshall Air Voids and Bulk Density 
+ 
+5. Moisture Susceptibility: This test determined the level of resistance of the 
+asphalt mixture to cracking. The compressed sample was loaded along its 
+vertical diameter; the sample was subjected to a stress condition and was 
+pulled horizontally until it did part. This is done by under two conditions: 
+ 
+i. 
+Dry Condition: The inherent tensile strength of the sample was 
+tested 
+ii. 
+Wet Condition: Samples were investigated in vacuum-saturated 
+condition and then conditioned in a water bath. This was done 
+to test the durability of the sample when exposed to water for 
+extended periods. 

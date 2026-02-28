@@ -1,0 +1,1067 @@
+1 
+ 
+ 
+BUS TICKET BOOKING APPLICATION: A case study of Kayoola Bus Company 
+ 
+ 
+ 
+ 
+ 
+ 
+EDGAR LAMBERT NAKWAGALA  
+ 
+S20B06/207 
+ 
+A PROJECT REPORT SUBMITTED TO THE FACULTY OF BUSINESS AND 
+ADMINISTRATION FOR THE PARTIAL FULFILLMENT OF THE REQUIREMENTS 
+FOR THE AWARD OF A BACHELORS DEGREE OF BUSINESS COMPUTING IN 
+UGANDA CHRISTIAN UNIVERSITY 
+ 
+ 
+ 
+August, 2023 
+ 
+ 
+
+iii 
+ 
+ 
+AKNOWLEDGEMENT 
+Acknowledgments go to my friends and group mates who have helped me in compiling this 
+proposal, I also acknowledge the support from my supervisor, my parents who have been there 
+for my consultation and giving me guidelines on how to start and finish this project. 
+GOD BLESS YOU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+ 
+ABSTRACT 
+This project report gives a case study on the creation of an application for Uganda's Kayoola Bus 
+Company to buy bus tickets. The application's purpose is to give consumers a simple and 
+convenient way to explore, choose, and buy bus tickets online. The paper goes over the study's 
+history, emphasizing how crucial it is to solve the problems with the traditional bus ticketing 
+system. The application's primary goal is to improve both the overall user experience and 
+operational effectiveness for both bus operators and passengers. The geographic region served by 
+the Kayoola Bus Company in Kampala, Uganda, is included in the study's purview.  The part on 
+the literature review offers viewpoints from academic researchers with expertise in e-ticketing 
+systems and the effectiveness of bus ticket reservation systems. Their work helps to comprehend 
+the ecosystem of bus ticketing applications and to pinpoint the variables that affect their 
+profitability. The study's importance is emphasized in the report's conclusion, along with the 
+benefits to customers in terms of ease and accessibility, time savings, and business growth and 
+competitiveness for app developers and service providers. The results of this case study will 
+serve as a basis for more investigation and enhancements to the ecosystem surrounding bus ticket 
+purchasing apps. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+Contents 
+CHAPTER ONE ......................................................................................................................................... 1 
+1.0 Introduction ......................................................................................................................................... 1 
+1.1 Background of the study ..................................................................................................................... 1 
+1.2 Problem Statement .............................................................................................................................. 1 
+1.3 Main objective. ................................................................................................................................... 2 
+1.4 Specific objectives .............................................................................................................................. 2 
+1.5 Scope of the study ............................................................................................................................... 2 
+1.6 Significance of the study or purpose of the study ............................................................................... 3 
+CHAPTER TWO ........................................................................................................................................ 4 
+Literature review 2.0 Introduction ............................................................................................................ 4 
+2.1 Review of related literature ................................................................................................................. 4 
+2.2 Conclusion/ summary. ......................................................................................................................... 5 
+CHAPTER THREE  Methodology 3.0 Introductions.......................................................................... 6 
+3.1 Research Design .................................................................................................................................. 7 
+3.2 Study Population (optional)/ target group ........................................................................................... 7 
+3.3 Sample Size ......................................................................................................................................... 8 
+3.4 Data Collection tools and methods ..................................................................................................... 8 
+3.4.1 Survey Form. .................................................................................................................................... 9 
+3.4.2 An illustration of comment form. ................................................................................................... 10 
+3.5 Data Analysis .................................................................................................................................... 10 
+3.6 Design Tools ..................................................................................................................................... 10 
+3.7 Implementation ................................................................................................................................. 11 
+3.8 Testing and Validation ....................................................................................................................... 11 
+CHAPTER 4  SYSTEM ANALYSIS AND DESIGN ............................................................................. 12 
+4.0 INTRODUCTION ............................................................................................................................ 12 
+4.1 Presentation of Findings ................................................................................................................... 12 
+4.2 Strengths and weakness of the current system .................................................................................. 13 
+4.3 Proposed system. ............................................................................................................................... 14 
+4.3.1 Requirements specification System requirements ......................................................................... 15 
+4.4 Systems Design 4.4.1 DFD (data flow Diagram and the context diagram) ...................................... 16 
+4.4.1.1 CONTEXT DIAGRAMS (DFD Level 0) ................................................................................... 16 
+4.4.2 DATA FLOW DIAGRAM ............................................................................................................. 17 
+1st level – User side Data flow Diagram .............................................................................................. 17 
+
+vi 
+ 
+4.4.2 ERD (Entity relationship Diagram) ............................................................................................... 19 
+4.4.3 Flow Chart ..................................................................................................................................... 22 
+4.4.4 Use case diagram. .......................................................................................................................... 23 
+4.4.5 Data dictionary ............................................................................................................................... 24 
+Chapter 5 ................................................................................................................................................... 25 
+5.1Introduction ........................................................................................................................................ 25 
+5.2Print Screen ........................................................................................................................................ 25 
+5.3 System testing ................................................................................................................................... 31 
+5.4 Validation .......................................................................................................................................... 31 
+5.5 limitations ......................................................................................................................................... 33 
+Chapter 6 ................................................................................................................................................... 34 
+6.0 Introduction ....................................................................................................................................... 34 
+6.1 Recommendations ............................................................................................................................. 34 
+6.1.1 User Experience Enhancements: .................................................................................................... 34 
+6.1.2 Mobile Responsiveness: ................................................................................................................. 34 
+6.1.3 Personalization and Customization: ............................................................................................... 34 
+6.1.4 Seamless Payment Process: ........................................................................................................... 34 
+6.1.5 Real-time Updates and Notifications: ............................................................................................ 35 
+6.2 Conclusion ........................................................................................................................................ 35 
+6.3 Summary. .......................................................................................................................................... 35 
+INDEX. ....................................................................................................................................................... 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE 
+ 
+1.0 Introduction 
+This chapter consists of the background of the study, the problem statement, objectives of the 
+study, study scope, and the significance of the study. 
+ 
+1.1 Background of the study 
+The Kayoola Bus was developed by Kiira Motors Corporation, an automotive manufacturing 
+company based in Uganda. The project was initiated as part of Kiira Motors' vision to promote 
+sustainable mobility solutions in Uganda and address the challenges of pollution, high fuel costs, 
+and reliance on imported vehicles. The Kayoola Bus was unveiled to the public on February 16, 
+2016, at the Kiira Motors Factory in Jinja, Uganda. The unveiling ceremony was attended by 
+government officials, industry stakeholders, and the media, generating significant attention and 
+interest in the project. The Kayoola is a Fully Electric Low Floor Bus specifically designed for 
+Urban Mass Transportation. At full charge, the Kayoola EVS has a range of up to 300 kilometers 
+making it capable of seamlessly handling the daily duty cycle. With a sitting capacity of up to 90 
+passengers, the Kayoola EVS™ is positioned to offer great returns for the bus operator while 
+enabling the reduction in congestion on the city roads. The Kayoola is fitted with state-of-the-art 
+safety and assistive technology for people with special needs including special seats and a ramp 
+for easy boarding and off boarding of people in wheelchairs. 
+ 
+1.2 Problem Statement 
+A significant portion of the demands of a sizable population are met by the bus transportation 
+sector. However, the conventional method of buying bus tickets can be laborious and time-
+consuming, causing customers' aggravation. Long lines, inaccessible ticketing locations, 
+inefficient ticket booking procedures, and a lack of real-time information are just a few of the 
+factors that frequently make travelers unhappy with their travel experiences. Therefore, there is a 
+critical need for an effective and user-friendly bus ticket booking software that resolves these 
+issues, enhances the entire ticket purchasing experience for customers, and increases operational 
+effectiveness for bus operators. Passengers now have a subpar travel experience due to the 
+inefficiencies, inconveniences, and limited accessibility of the bus ticket purchasing procedure. 
+
+2 
+ 
+Due to obsolete technology, bus operators struggle to manage ticket sales and resource 
+allocation, which leads to lost income and operational inefficiencies. Due to manual and 
+antiquated ticketing systems, bus operators also struggle to manage ticket sales, inventory 
+control, and resource allocation. These issues might result in lost income, ineffective seat usage, 
+and trouble tracking and evaluating passenger data. 
+ 
+1.3 Main objective. 
+A bus booking app's main goal will be to give consumers a simple and convenient way to 
+browse, contrast, reserve, and manage bus tickets. The app will improve user experience, 
+operational efficiency, and the bus booking process for both passengers and bus operators. 
+ 
+1.4 Specific objectives 
+• 
+Make purchasing bus tickets easier. The purpose of the bus booking app will be  to offer a 
+user-friendly platform that will make purchasing bus tickets easier. The software will 
+provide users with a quick and easy method to look up bus routes, choose seats, and make 
+bookings. 
+• 
+Reliable and safe payment mechanism. Users will be able to conduct online purchases 
+with confidence thanks to the secure payment gateway provided by the app. Integrating 
+well-known payment options and guaranteeing the confidentiality of financial and 
+personal data are essential. 
+• 
+Booking administration and client assistance Users of the app will be able to manage 
+their reservations through features like the ability to alter or cancel reservations. 
+1.5 Scope of the study 
+The study will cover different areas, which includes; the Area scope and content scope and the 
+time scope. 
+Area scope. 
+The area to be covered geographically will be Kayoola bus company, one of the leading bus 
+operators in Uganda located Kampala, the capital city of Uganda 
+ 
+
+3 
+ 
+Content scope. 
+This study tries to find out what aspects will be needed to improve bus ticket booking 
+applications' usability and effectiveness. The evaluation of several bus ticket booking 
+applications' user interfaces, search capabilities, payment methods, and ticket confirmation 
+procedures will be the main emphasis of the study. The research aims to discover best practices 
+and offer suggestions for app developers and service providers in order to improve the overall 
+user experience and effectiveness of bus ticket booking applications by gathering user input and 
+doing a comparative analysis. 
+ 
+Time scope. 
+The research will place over the course of three months, from May to July of 2023. During this 
+time, I will consider interacting with the respondents in order to obtain the necessary data for 
+analysis and conclusion 
+ 
+ 
+1.6 Significance of the study or purpose of the study 
+• 
+Convenience and accessibility. Bus ticket booking application will provide customers the 
+freedom to purchase tickets whenever and wherever they choose, negating the need to go 
+to actual ticket booths. This project will intend to increase convenience and provide 
+accessibility for a larger audience when purchasing bus tickets. 
+ 
+• 
+Time Saving. This application will help customers save time and effort by making the 
+ticket buying process more efficient. The goal of the project will be to find ways to make 
+bus ticket buying applications more effective, resulting in speedier searches, quicker 
+reservations, and more seamless transaction procedures. 
+• 
+Business Development and Competitiveness. Recognizing customer wants and 
+preferences is crucial for app developers and service providers that book bus tickets to 
+remain competitive in the market. This research offers suggestions and insights for 
+enhancing bus ticket booking applications, which it will aid businesses in gaining more 
+clients, fostering client loyalty, and achieving long-term success 
+
+4 
+ 
+CHAPTER TWO 
+Literature review 
+2.0 Introduction 
+This section consists of a critical review of research work from journals, internet sources and 
+other projects already done which is related to the subject area as well as an analysis of existing 
+literature on the subject with the objective of revealing contributions, weaknesses and gaps 
+ 
+2.1 Review of related literature 
+In a comparative study by Chandra and Verma (2020), user experience in bus ticket booking 
+systems was evaluated. The researchers examined factors such as website usability, speed, 
+reliability, and customer support. They found that users valued websites that were easy to 
+navigate, provided quick responses, and offered reliable information about bus availability. The 
+study highlighted the importance of responsive design and efficient performance in ensuring a 
+satisfactory user experience. It also emphasized the role of effective customer support in 
+addressing user queries and concerns promptly. 
+Yadav and Sharma (2020) focused on enhancing security in bus ticket booking systems. They 
+reviewed various authentication and authorization techniques employed to ensure secure 
+transactions and protect user information. The authors emphasized the need for robust security 
+measures such as two-factor authentication, encryption, and secure payment gateways to mitigate 
+security risks. They discussed the importance of building trust and confidence among users by 
+implementing stringent security protocols within these systems. 
+According to Chatterjee and Sarkar (2018), the integration challenges in bus ticket booking 
+systems are a significant area of concern. The researchers conducted a systematic literature 
+review and identified common integration challenges faced by these systems. They emphasized 
+the importance of seamless integration between various stakeholders, including bus operators, 
+payment gateways, and customer support systems. The study proposed strategies and 
+recommendations to address these integration challenges effectively, thereby ensuring smooth 
+operations and enhanced user experiences. 
+According to Sharma and Singh (2019), online bus ticket booking systems have revolutionized 
+the way passengers’ book and manage their bus tickets. These systems provide a convenient and 
+time-saving alternative to traditional manual ticketing processes. The authors highlight the 
+
+5 
+ 
+significance of features such as user interface design, payment gateways, seat availability 
+algorithms, and real-time tracking in ensuring a seamless booking experience for passengers. 
+They emphasize that a user-friendly interface and efficient search functionality are crucial for 
+users to easily find desired bus routes and schedules. Additionally, secure payment gateways are 
+essential to instill confidence and protect sensitive customer information during transactions.   
+Kaur and Singh (2017) conducted a comparative study of user perspectives on mobile 
+applications for bus ticket booking. The researchers evaluated factors such as ease of use, speed, 
+reliability, and features offered by different mobile apps. They found that users highly valued 
+applications with intuitive interfaces, quick response times, and real-time updates on bus 
+availability. The study highlighted the importance of designing mobile-friendly interfaces that 
+provide a seamless and convenient ticket booking experience for users on-the-go. 
+ 
+2.2 Conclusion/ summary. 
+In Summary, the reviewed literature will provide a comprehensive understanding of the bus 
+ticket booking app ecosystem, its purpose, and the factors influencing its success. The findings 
+will serve as a foundation for further research and development in the field, helping businesses 
+and stakeholders make informed decisions and improvements in this rapidly evolving sector. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+6 
+ 
+ 
+CHAPTER THREE  
+Methodology 
+3.0 Introductions 
+This chapter consists of the study methodology, research design, population/target group, sample 
+size, data collecting tools and data analysis tools, design tools, implementation, testing, and 
+validation procedures. 
+Methodology used; 
+The waterfall methodology is a traditional project management approach that will consist of 
+sequential phases, with each phase dependent on the completion of the previous one. Here is how 
+the waterfall methodology will be applied to the development of the bus ticket booking app; 
+ 
+• Requirements Gathering. The project team will gather and record all the requirements for 
+the bus ticket booking app during the first phase, requirements gathering. Understanding 
+user requirements and expectations, specifying features and functions, and identifying 
+any particular restrictions or limits are all part of this process. 
+ 
+• System Design: Following the collection of the requirements, the system design phase 
+starts. This will entail developing a thorough architectural design for the program, which 
+will include the database structure, user interface layout, and any system connections 
+with external systems. Determining the necessary infrastructure and technology stack will 
+be another step in the design process. 
+
+7 
+ 
+• Implementation: Based on the design criteria, the development team will begin creating 
+the bus ticket booking app in the implementation phase. Normally, the code is broken up 
+into components or modules, and each module will be implemented in turn. When 
+developing the code, the developers adhere to best practices and coding standards. 
+• Testing: To make sure the app performs as intended after the implementation process; 
+careful testing will be carried out. System testing, integration testing, and unit testing will 
+all be included in this. The testing team will confirm that each feature operates as 
+intended and that any problems or defects are found and fixed. 
+• Deployment: The app will be launched into a production environment after passing 
+testing and being deemed stable. In order for the app to function in a live environment, 
+servers, databases, and other infrastructure components will be configured as part of the 
+deployment process. 
+• Maintenance and Support: Following deployment, the app will move into the 
+maintenance phase. This will entail keeping an eye on the app for any problems or faults 
+that could appear in a real-world setting and giving customers ongoing help. As part of 
+maintenance, the app will also be updated or improved in response to user input or 
+evolving needs. 
+ 
+3.1 Research Design 
+The research plan for this project will include exploratory research and iterative development. 
+The goals of the exploratory study phase will be to identify issues and investigate potential 
+solutions. The iterative development method, which is based on customer input and shifting 
+demands, makes continuous improvement feasible. 
+ 
+3.2 Study Population (optional)/ target group 
+My bus ticket application will mostly be directed at Kampala as its target audience. It will 
+depend on people who are comfortable using smartphones and mobile applications, as well as 
+those who range in age from 1 year to 90 years. 
+
+8 
+ 
+ 
+3.3 Sample Size 
+A sample size of 50 persons will be used. This guarantees that the data obtained offers 
+trustworthy insights and generalization. The sample size will be decided using statistical methods 
+or based on logistical and financial concerns. 
+ 
+3.4 Data Collection tools and methods 
+• Surveys: To learn more about users' experiences, preferences, and satisfaction with the 
+bus ticket booking app, surveys will be performed offline or online. To collect 
+quantitative and qualitative data, surveys will be structured (with closed-ended questions) 
+• Interviews: To learn more about the experiences, difficulties, and ideas users have with 
+the bus ticket booking app, in-depth interviews will be done with a chosen sample of 
+users. Interviews will provide more in-depth and nuanced replies and will yield insightful 
+information. 
+• User testing: User testing entails watching and documenting how users interact with the 
+app as they carry out particular activities. This will assist in discovering usability 
+problems, discomforts, and places for development. User testing will maybe be carried 
+out in a controlled setting or in actual situations. 
+• Comments Forms: Within the app, users will immediately submit comments, report 
+problems, or make changes via feedback forms or comment boxes. These forms will 
+record user comments that will be used to improve the app, including thoughts, ideas, and 
+specific points. 
+ 
+ 
+ 
+
+9 
+ 
+3.4.1 Survey Form. 
+ 
+ 
+
+10 
+ 
+ 
+3.4.2 An illustration of comment form. 
+ 
+ 
+3.5 Data Analysis 
+A combination of qualitative and quantitative techniques will be used to examine the data that 
+has been gathered. Thematic analysis methods will be used to examine qualitative data from 
+interviews and open-ended survey responses in order to spot recurrent themes and patterns. 
+Statistical analysis methods will be used to assess quantitative data from surveys and sensor 
+technologies in order to identify important patterns. 
+ 
+3.6 Design Tools 
+• Wireframing: Creating wireframes to visually illustrate the layout and functionality of the 
+bus ticket booking app. 
+• Prototyping: Building interactive prototypes to test the usability and functionality of the 
+system. 
+
+11 
+ 
+• User interface design: Creating visual designs for the user interface of the bus ticket 
+booking app, including color schemes, typography, and iconography. 
+• Information architecture: Defining the information architecture of the bus ticket booking 
+app, including the organization of content and navigation. 
+• UML diagrams: Creating UML diagrams, such as class diagrams and sequence diagrams, 
+to illustrate the app architecture and functionality. 
+ 
+3.7 Implementation 
+The actual creation of the bus ticket booking app will be done during the implementation phase 
+using the established requirements and design guidelines. The frontend and backend parts of the 
+project will be constructed using programming languages, frameworks, and development tools to 
+ensure its functioning and usability. 
+ 
+3.8 Testing and Validation 
+The created bus ticket booking app will go through extensive testing to find any faults or 
+problems and solve them. We'll use a variety of testing techniques, including unit testing, 
+integration testing, and user acceptability testing, to make sure the app is high-quality, 
+dependable, and performant. Verification of the app will be part of validation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+CHAPTERFOUR  
+SYSTEM ANALYSIS AND DESIGN 
+4.0 INTRODUCTION 
+The process of examining, evaluating, and developing information systems to satisfy particular 
+business demands and objectives is known as system analysis and design. To increase efficiency, 
+productivity, and user pleasure, it entails comprehending the current system, finding areas for 
+improvement, and building new systems or altering existing ones. 
+ 
+4.1 Presentation of Findings 
+• 
+User Adoption and Engagement: According to our study, after the bus ticket app's release, 
+user adoption and engagement have significantly increased. The steady increase in app 
+downloads and active users shows how valuable and practical it is for our consumers. 
+• 
+User Satisfaction: In order to determine how satisfied users were with the app, we 
+performed user surveys and gathered comments. Most people had favorable things to say 
+about how simple it was to use, how quickly tickets could be purchased, and how many 
+different payment methods were offered. Users did, however, express some worries about 
+sporadic technical issues and lengthy loading times. 
+• 
+App Performance: To pinpoint areas in which the app may be improved, our team 
+carefully examined its performance. Although the app's general functioning is strong, we 
+discovered that there are still ways to improve it. The user experience will be much 
+improved if the technical issues are fixed and the loading times are optimized. 
+• 
+User Comments and Suggestions: We got several feature requests from users for 
+upcoming app releases. The most often requested features were an integrated loyalty 
+program, a real-time bus tracking tool, and the capacity to record preferred routes. Users 
+greatly desire these features, and their inclusion would improve the app's value 
+proposition. 
+ 
+ 
+ 
+
+13 
+ 
+ 
+4.2 Strengths and weakness of the current system 
+Strengths 
+• 
+Convenience: The app will offer a simple and convenient platform for users to buy bus 
+tickets at any time and from any location, doing away with the need to visit actual 
+ticketing locations or wait in long lines. 
+• 
+Real-time Information. Passengers will may make better informed decisions and plan 
+their travels more effectively thanks to access to the most recent information on bus 
+timetables, routes, seat availability, and pricing. 
+• 
+Secure Payments: The app's integration with reputable payment gateways and digital 
+wallets guarantees safe and simple financial transactions, giving users piece of mind. 
+• 
+Passengers will have the option to choose their favorite seats throughout the booking 
+process, providing a more individualized experience and raising general satisfaction. 
+• 
+Mobile ticketing and e-ticket integration are made possible by the app, this will enable 
+users to digitally keep their tickets on their mobile devices. Physical tickets are no longer 
+required, and both passengers and bus drivers may validate tickets more easily as a result. 
+Weakness 
+• Technical difficulties: Like any other digital platform, the app occasionally runs into 
+technical problems like server outages, sluggish loading times, or bugs. These 
+technological difficulties may momentarily impede the booking process and annoy 
+customers. 
+• Dependency on access: For the software to work properly, internet access is required. 
+Passengers could experience issues using the app and making reservations in locations 
+with spotty or nonexistent internet connectivity. 
+• Adoption and Accessibility: The success of the app depends on its wide adoption by both 
+bus operators and riders. Its influence can be restricted if a sizable section of the target 
+market does not use smartphones or have access to the app. 
+
+14 
+ 
+• Technical and practical difficulties might arise when integrating the app with current bus 
+operator systems, ticketing systems, and payment gateways. To achieve seamless 
+integration and functionality, cooperation and collaboration with numerous stakeholders 
+are required. 
+ 
+4.3 Proposed system. 
+The suggested bus ticketing app will be a cutting-edge solution designed to revolutionize how 
+customers purchase bus tickets and enhance the whole travel experience. A user-friendly design, 
+real-time bus information, safe payment methods, seat selection options, mobile ticketing 
+capabilities will all be offered via the app. Bus drivers will also have access to an admin 
+dashboard where they can control ticket inventories and examine passenger information. 
+Friendly user interface. Passengers will have a flawless booking experience thanks to the app's 
+clear and simple user interface. Users will be able to rapidly search for bus routes, choose travel 
+dates, and obtain essential information thanks to simple navigation and concise directions. 
+Passengers will have access to real-time bus information, including schedules, routes, seat 
+availability, and prices. The app will provide you the most recent information on bus timetable 
+changes, delays, and departures. Users will be able to efficiently organize their trips and reach 
+wise judgments thanks to this functionality. 
+Convenient and Secure Payment Methods. The app will link with reliable payment gateways and 
+digital wallets to guarantee secure transactions. Passengers will be able to securely make 
+payments within the app, doing away with the necessity for cash transactions and offering a 
+quick and easy payment method. 
+Passengers will have the freedom to select and personalize their favorite seats throughout the 
+booking process. Users of the app will be able to choose seats depending on their preferences, 
+such as window or aisle seats, by viewing a graphic representation of the bus layout. This 
+function will increase the personalization possibilities and offer a tailored booking experience. 
+Integration of E-Tickets and Mobile Ticketing: The proposed app will support mobile ticketing, 
+allowing users to digitally save their tickets. There is no need for actual tickets because users can 
+readily access their tickets on their smart devices. The ticket validation procedure will be 
+
+15 
+ 
+streamlined by integration with e-ticketing systems, making it quicker and more effective for 
+both passengers and bus operators. 
+Bus operators will be able to manage ticket inventory, keep track of bookings, and analyze 
+passenger statistics using the admin dashboard that is part of the proposed software. This tool 
+will give bus operators a thorough picture of their business, enabling them to allocate resources 
+more effectively, monitor ticket sales, and spot patterns and trends in customer preferences. 
+ 
+4.3.1 Requirements specification System requirements 
+ 
+Requirement 
+Description 
+Platform Compatibility 
+mobile iOS, Android and windows 10 
+Minimum Hardware Requirements 
+8 GB RAM for smooth performance. 
+Network Connectivity 
+Ensure the app works effectively on 
+mobile data and Wi-Fi 6 connections. 
+Ticket Booking Features 
+search, selection, booking, payment 
+integration, 
+booking 
+history, 
+cancellation, and confirmation. 
+Real-time Updates 
+Integrate real-time data for accurate 
+bus schedules, seat availability, and 
+any changes or delays. 
+Notifications and Alerts 
+push notifications or email alerts for 
+booking confirmations, updates, and 
+changes. 
+Admin Panel 
+admin panel to manage routes, fares, 
+seat inventory, and customer support. 
+ 
+User Requirements 
+• 
+Login and User Registration: Offer safe account creation and login options. 
+• 
+Easy Bus Route Search and Booking: Make bus route searches quick and easy, and make 
+bookings straightforward. 
+
+16 
+ 
+• 
+Allow users to select particular seats or to customize their preferred seats. 
+• 
+Ticket Prices and Payment Options: Show ticket prices and accepts payment. 
+• 
+Booking Confirmation and E-Tickets: Use the app to create and send precise booking 
+confirmations. 
+• 
+Trip management and adjustments: Give consumers the option to see, edit, or cancel their 
+reservations. 
+ 
+ 
+4.4 
+Systems 
+Design 
+4.4.1 DFD (data flow Diagram and the context diagram) 
+4.4.1.1 CONTEXT DIAGRAMS (DFD Level 0) 
+Data flow diagrams were employed in the logical design processes to depict the information flow 
+in the development system. Processes that the app’s users employ to operate the system are 
+depicted in data flow diagrams. It further displays how the entities communicate with the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+17 
+ 
+4.4.2 DATA FLOW DIAGRAM 
+1ST level Admin side (DFD) 
+ 
+ 
+1st level – User side Data flow Diagram 
+The user is all people who operate or visit our app. User must register in our system in order to 
+search for a ticket. after register he/she can login to site search and make bookings according to 
+their destinations near you of your choice. 
+
+18 
+ 
+ 
+
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4.2 ERD (Entity relationship Diagram) 
+ 
+1. ENTITIES; 
+• Users 
+• Bus 
+• Route 
+• Booking 
+• Payment 
+RELATIONSHIPS 
+
+20 
+ 
+ 
+ 
+1. ATTRIBUTES TO ENTITIES 
+Entity 
+Attributes 
+Users 
+Name, 
+contact, 
+email 
+address, 
+payment details 
+Bus 
+Bus 
+number, 
+seating 
+capacity, 
+departure time, arrival time 
+Route 
+Arrival time, departure, duration 
+Booking 
+Selected bus, total fare, chosen 
+route, selected seat, booking status 
+
+21 
+ 
+Payment 
+Total 
+fare, 
+payment 
+method, 
+payment status, transaction id 
+ 
+ 
+ 
+ 
+ 
+
+22 
+ 
+ 
+4.4.3 Flow Chart 
+ 
+
+23 
+ 
+ 
+4.4.4 Use case diagram. 
+ 
+
+24 
+ 
+ 
+4.4.5 Data dictionary 
+ENTITY 
+ATTRIBUTES 
+DATA TYPES 
+CONSTRAINTS 
+User 
+Name 
+Contact 
+Email address 
+Payment details 
+ 
+ 
+Varchar (20) 
+Int (10) 
+Varchar (20) 
+Varchar (20) 
+ 
+Not null 
+Not null 
+Not null 
+Not null 
+ 
+ 
+Bus 
+bus number 
+seating capacity 
+departure time 
+arrival time 
+int (10) 
+int (10) 
+Timestamp (10) 
+Timestamp (10) 
+ 
+ 
+Not null 
+Not null 
+Not null 
+Not null 
+ 
+ 
+Route 
+Arrival 
+Departure 
+Durations 
+ 
+Timestamp (10) 
+Timestamp (10) 
+Time (10) 
+ 
+Not null 
+Not null 
+Not null 
+ 
+Booking 
+Selected bus 
+Total fare 
+Chosen route 
+Selected seat 
+Booking status 
+Varchar (20) 
+Int (10) 
+Varchar (20) 
+Int (10) 
+Varchar (20) 
+Not null 
+Not null 
+Not null 
+Not null 
+Not null 
+ 
+Payment 
+Total fare 
+Payment method 
+Payment status 
+Transaction id 
+ 
+Int (20) 
+Varchar (20) 
+Varchar (20) 
+Int (10) 
+Not null 
+Not null 
+Not null 
+Not null 
+ 
+ 
+
+25 
+ 
+CHAPTER FIVE 
+5.1Introduction 
+In this chapter, we focus on the implementation of the bus ticket booking app, including print 
+screens of the application interface, system testing, validation, and an exploration of its 
+limitations. The implementation phase is a crucial step in the development process as it brings 
+the conceptual design of the app to life and allows for practical assessment and evaluation. 
+ 
+5.2Print Screen 
+The following illustrations show how the user interacts with the bus ticketing application. 
+This page is the first page of the application once opened. It shows the home page, the make 
+booking page, check tickets page, register and log in page. If the user has an account will then 
+log in, if not will have to register to access other features of the application. 
+ 
+ 
+ 
+ 
+
+26 
+ 
+ 
+This page shows the customer register page if they don’t have an account they can create one 
+from here and then after that proceed to the log in page to get access into the system 
+ 
+ 
+ 
+This page shows the Customer log in panel once they have an account they can log in, it also 
+shows the register button in case they don’t have an account they can register and also this page 
+shows the admin log in button for the admin to log into the application 
+
+27 
+ 
+ 
+ 
+After logging in the client can now be able to access the application and then therefore make 
+their bookings respectively. They can select the date, origin, destination and they can see various 
+available routes that are available and they can then search for tickets. 
+ After selecting the date, origin and destination they can then proceed and select seats basing on 
+what they want and also the clients can be able to see what bus they will use, the arrival time and 
+the price  
+
+28 
+ 
+This shows the route, destination terminal, date and time selected, the seats of the passenger, the 
+price and then after the client proceeds to another page  
+ 
+After that the clients ticket booking code will be displayed and can either download the Q-R 
+code or then check payment for the ticket.  
+ 
+
+29 
+ 
+ 
+This page the client can make payments for their tickets using their bank account number and 
+they select a bank and also attach a transaction photo as proof of payment.  
+ 
+ 
+After inserting payment details this is the confirmation page that shows the bank and account 
+number to make the client to be sure of their payment.  
+
+30 
+ 
+After paying for the ticket the clients can check their pending tickets from this page to see if they 
+have been accepted or declined and also, they can make payments of their tickets. If their ticket 
+has been accepted a green box will show accepting them to print the ticket online but if it has 
+been declined then they are advised to boo another ticket.  
+ 
+After the payments and the ticket being approved by the administration then the client can print 
+the ticket and proceed to the bus station.  
+ 
+ 
+
+31 
+ 
+5.3 System testing 
+Functionality Testing: 
+• Verify that users can search for available bus routes and schedules. 
+• Test the booking process, including seat selection, fare calculation, and payment inte-
+gration. 
+• Validate the cancellation and refund process. 
+• Ensure that user authentication, registration, and login functionalities work as ex-
+pected. 
+Compatibility Testing: 
+• Test the app on different devices (e.g., smartphones, tablets) and operating systems 
+(e.g., Android, iOS) to ensure compatibility. 
+• Check the app's responsiveness and compatibility with various screen sizes and reso-
+lutions. 
+Performance Testing: 
+• Assess the app's performance under normal and peak load conditions. 
+• Test response times for search queries, seat selection, and booking confirmation. 
+• Evaluate how the app handles simultaneous bookings and high traffic situations. 
+ 
+5.4 Validation 
+1. User Registration: 
+o Verify that all required fields (e.g., name, email, password) are filled in. 
+o Validate the email format (e.g., check for proper email syntax). 
+o Check that the password meets the specified criteria (e.g., minimum length, pres-
+ence of special characters). 
+ 
+ 
+
+32 
+ 
+2. Bus Selection: 
+o Ensure that the selected origin and destination are different. 
+o Validate that the selected departure and return dates are in the future. 
+o Check that the number of passengers selected is within the allowed range. 
+o Verify that the selected bus route is available. 
+ 
+3. Seat Selection: 
+o Validate that the selected seats are not already booked by other users. 
+o Ensure that the selected seats are within the available seating layout for the cho-
+sen bus. 
+o Check that the selected seats are adjacent (if required) for passengers traveling to-
+gether. 
+ 
+4. Payment: 
+o Validate the credit card information provided by the user. 
+o Verify that the card number is in the correct format and passes the checksum algo-
+rithm. 
+o Check the card's expiration date to ensure it is valid. 
+o Validate the CVV (Card Verification Value) or CVC (Card Verification Code) for 
+the card. 
+ 
+5. Confirmation: 
+o Display a summary of the booking details for the user to review before confirm-
+ing. 
+o Provide an option to modify any selected options or go back to previous steps. 
+o Require the user to confirm the booking before proceeding. 
+
+33 
+ 
+ 
+6. Error Handling: 
+o Display appropriate error messages for any invalid or missing inputs. 
+o Validate that the user has entered a valid email address for communication pur-
+poses. 
+o Ensure that the user receives error messages if there are any connectivity issues or 
+server errors. 
+ 
+5.5 limitations 
+• Limited Coverage: Not all bus operators and routes may be fully covered by bus ticketing 
+applications. Users' selections may be constrained by certain applications' restricted 
+relationships or agreements with particular bus operators. If consumers are seeking for 
+less traveled routes or certain bus companies, this might be a drawback. 
+• Bus ticketing applications mainly rely on internet access to deliver real-time information 
+and ticket purchasing services, which might cause connectivity and network issues. Users 
+could have trouble opening the app or completing their bookings in places with spotty 
+network coverage or during network outages. 
+• Payment Options and Security: Although many bus ticket booking applications include a 
+variety of payment methods, some customers may have restrictions if their chosen 
+payment method isn't accepted. Users may also be concerned about the security of their 
+financial information and the app's capacity to fend against data breaches and illegal 
+access. 
+• Absence of Customer assistance: Some apps for purchasing bus tickets may have few or 
+ineffective customer assistance options. Users may encounter difficulties asking for help 
+or resolving problems with their reservations, which can cause irritation and 
+disappointment. 
+ 
+ 
+
+34 
+ 
+Chapter 6  
+6.0 Introduction 
+In this chapter, we will provide recommendations, draw conclusions, and present a summary for 
+the bus ticket booking app. 
+ 
+6.1 Recommendations 
+Based on our analysis and evaluation of the bus ticket booking app, we recommend the following 
+improvements: 
+6.1.1 User Experience Enhancements: 
+• 
+Implement a user-friendly and intuitive interface for seamless navigation. 
+• 
+Optimize the app's performance to ensure quick response times, especially during peak 
+booking periods. 
+• 
+Provide clear and concise instructions throughout the booking process to guide users ef-
+fectively. 
+6.1.2 Mobile Responsiveness: 
+• 
+Develop a mobile application for iOS and Android platforms to reach a wider user base. 
+• 
+Ensure the app's responsiveness across different screen sizes and resolutions for a con-
+sistent experience. 
+6.1.3 Personalization and Customization: 
+• 
+Integrate a feature that allows users to save their preferred routes, seat preferences, and 
+personal information for faster future bookings. 
+• 
+Provide personalized recommendations and offers based on users' travel history and pref-
+erences. 
+6.1.4 Seamless Payment Process: 
+• 
+Integrate popular payment gateways to offer a variety of payment options, including mo-
+bile wallets, and net banking. 
+• 
+Implement a secure and encrypted payment process to ensure the safety of users' financial 
+information. 
+
+35 
+ 
+6.1.5 Real-time Updates and Notifications: 
+• 
+Provide real-time updates on bus schedules, delays, and cancellations to keep users in-
+formed. 
+• 
+Send booking confirmation emails and SMS notifications with relevant details to ensure a 
+smooth travel experience. 
+6.2 Conclusion 
+In conclusion, the app for purchasing bus tickets has the potential to completely change the way 
+that consumers purchase bus tickets. The app may provide its customers a user-friendly 
+experience, increased convenience, and customized services by implementing the suggested 
+improvements. In addition to drawing in additional users, these improvements will boost client 
+happiness and loyalty. 
+6.3 Summary. 
+The Bus Ticket Booking System is an innovative and user-friendly web application designed to 
+streamline and enhance the ticket booking process for bus travelers. This system aims to offer a 
+convenient and efficient way for passengers to reserve and purchase bus tickets online, eliminat-
+ing the need for physical ticketing and reducing long queues at bus stations. The system's archi-
+tecture incorporates a multi-tiered approach, with a front-end user interface, a middle-tier for 
+business logic, and a back-end database to store essential information. Users can access the plat-
+form from any device with an internet connection, ensuring accessibility and ease of use. 
+Key features of the system include a comprehensive search and filtering mechanism, allowing 
+users to find buses based on their preferred departure time, destination, and available seats. The 
+integration of real-time bus schedules and seat availability ensures accurate and up-to-date in-
+formation for travelers.  
+Security measures are a top priority in the system's development. Sensitive data, such as payment 
+information, is encrypted to protect users from potential threats and ensure secure transactions  
+However, future improvements are recommended to further enhance the system. Integrating ad-
+ditional payment gateways, introducing mobile applications, and expanding the service coverage 
+to other regions are potential avenues for growth. 
+ 
+ 
+
+36 
+ 
+INDEX.  
+Chandra and Verma (2020) ......................... 8 
+Chatterjee and Sarkar (2018) ...................... 9 
+Kaur and Singh (2017) ................................ 9 
+Sharma and Singh (2019)............................ 9 
+Yadav and Sharma (2020) ........................... 8 
+ 
+
+37 
+ 
+ 

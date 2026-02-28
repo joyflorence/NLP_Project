@@ -1,0 +1,1378 @@
+IMPROVING THE HYDRAULIC CONVEYANCE OF A ROAD DRAINAGE: A
+CASE STUDY OF NALUUMA ROAD, NANSANA-NABWERU
+
+AUSTIN OBBO
+S20B32/257
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+ii
+
+ABSTRACT
+This research project focused on improving the hydraulic conveyance of Naluuma
+road drainage channel in Nansana-Nabweru, Uganda. The study involved determining
+the existing conditions of the road drainage channel, determining the peak discharge
+of the catchment, sufficiently sizing the drainage channel through hydraulic
+calculations and providing suitable cost estimates with a bill of quantities (BOQ)
+To achieve these objectives, site visits and topographic surveys were conducted,
+channel measurements were taken and the catchment area was demarcated using
+ArcGIS, QGIS and a Digital Elevation Model (DEM). Rainfall data was acquired from
+Uganda National Meteorological Association (UNMA) to generate intensity duration
+frequency (IDF) curves, utilizing the theoretical extreme value (EV) distribution,
+which were used to determine the design storm and estimate rainfall events hence
+arriving at rainfall intensities. Using the rational method, the peak discharges were
+calculated. A bill of quantities was also generated in reference to prices and benefits
+of the various materials or equipment used.
+A total channel length of 803m was divided into three sections based on terrain slope
+and flow characteristics. Parameters such as runoff coefficients, rainfall intensities
+and catchment areas were determined to finally come up with peak discharges for
+the respective sections the uphill section(330m), midhill(300m) and downhill(180m).
+Results obtained from the third objective such as top and bottom widths, flow depth,
+and discharges from objective two were input into HECRAS software to run a
+supercritical hydraulic simulation of the modified channel. The results highlighted
+sections of the channel that were prone to overflow under extreme discharge
+scenarios. Based on these findings, recommendations were made on channel
+
+iii
+
+dimensions and possible lining materials to enhance flow capacity and reduce
+erosion risk hence mitigating the flooding problem of Naluuma
+
+
+
+iv
+
+DECLARATION
+I OBBO AUSTIN, S20B32/257 hereby declare that this is entirely my work and it has
+never been submitted to any other institution.
+
+Signature: ..........................................
+Date: ...................................................
+
+
+
+v
+
+APPROVAL
+This is to confirm that this final year report by OBBO AUSTIN has been completed,
+and reviewed approved under my supervision and has been submitted for approval.
+
+Signature: ...............................................................
+Mr. BRIAN SEMPIJJA BAAGALA
+ACADEMIC SUPERVISOR
+
+
+
+vi
+
+ACKNOWLEDGEMENT
+This project would not have been possible without the guidance, support, and
+encouragement of several individuals. First and foremost, I wish to thank the
+almighty God for keeping me alive and strong from the start of this project to the
+end, my parents for the continuous moral and financial support, Uganda Christian
+University and in particular the department of civil and environmental engineering
+for offering me the academic foundation and environment needed to carry out this
+final year project. The knowledge gained over the course of my study has been vital
+in understanding and applying hydraulic and environmental engineering concepts to
+practical challenges like roadside drainage design.
+My sincere appreciation goes to my project supervisor, Mr. Brian Sempijja Baagala
+whose professional advice, timely feedback and patient guidance have been
+instrumental from the start to the end of this research, my project partner
+Akampurira A Timothy for his unwavering moral support, shared ideas and thoughtful
+discussions which helped refine my approach and broaden my perspective.
+To everyone who supported me directly or indirectly, I am truly grateful.
+
+
+
+
+
+vii
+
+TABLE OF CONTENTS
+ABSTRACT ................................................................................................................................ ii
+DECLARATION ......................................................................................................................... iv
+APPROVAL ................................................................................................................................ v
+ACKNOWLEDGEMENT ............................................................................................................ vi
+LIST OF TABLES ....................................................................................................................... x
+LIST OF FIGURES .................................................................................................................... xi
+LIST OF ABBREVIATIONS ..................................................................................................... xiii
+CHAPTER 1: INTRODUCTION ................................................................................................ 1
+1.1 Background .................................................................................................................. 1
+1.2 Problem Statement .................................................................................................... 3
+1.3 Main objectives ........................................................................................................... 4
+1.4 Specific objectives ..................................................................................................... 4
+1.5 Research questions .................................................................................................... 4
+1.6 Justification ................................................................................................................. 4
+1.7 Significance of the Project ...................................................................................... 5
+1.8 Content Scope ............................................................................................................. 6
+1.9 Time Scope ................................................................................................................... 6
+1.10 Geographical Scope ................................................................................................. 6
+CHAPTER TWO: LITERATURE REVIEW. ............................................................................... 8
+2.1 Flooding ........................................................................................................................ 8
+2.1.1 Factors that cause flooding .............................................................................. 8
+2.2 The Hydrological cycle .............................................................................................. 9
+2.3 Channel geometry .................................................................................................... 11
+2.3.1 Cross sectional shape ...................................................................................... 11
+2.4 Open channel flow classification .......................................................................... 13
+2.4.1 Steady and unsteady flow .............................................................................. 13
+2.4.2 Laminar and turbulent flow ........................................................................... 14
+2.4.3 Critical, Subcritical and Supercritical Flow in Open Channel ............... 14
+2.4.4 Factors affecting velocity of flow ................................................................. 15
+CHAPTER 3: METHODOLOGY ............................................................................................. 17
+
+viii
+
+3.0 Introduction ............................................................................................................... 17
+3.1 To determine the existing conditions of the road drainage channel .......... 17
+3.1.1 Field Reconnaissance ...................................................................................... 18
+3.1.2 Topographic Survey .......................................................................................... 18
+3.1.3 Measurement of the Channel ........................................................................ 19
+3.2 To conduct a hydrological and hydraulic analysis of the catchment ........... 20
+3.2.1 Catchment Area Delineation .......................................................................... 20
+3.2.2 Design Storm ...................................................................................................... 21
+3.2.3 Development of IDF Curves ............................................................................ 21
+3.2.4 Time of Concentration..................................................................................... 27
+3.2.5 Runoff Coefficient ............................................................................................ 28
+3.2.6 Estimation of Peak Runoff .............................................................................. 29
+3.3 To sufficiently size the drainage channel through hydraulic calculations . 31
+3.3.1
+Determination of Flow Depth ................................................................... 33
+3.3.2 Side Slope ........................................................................................................... 33
+3.3.3 Longitudinal Channel Slope............................................................................ 33
+3.3.4 Channel Lining Material .................................................................................. 34
+3.3.5 Channel Dimensions ......................................................................................... 35
+3.3.6 HEC-RAS 1-D Flow Hydraulic Analysis .......................................................... 42
+3.4 To determine an economic analysis of the modified channel ....................... 42
+3.4.1 Bill of Quantities (BOQ) ................................................................................... 42
+3.4.2 Cost-Benefit Analysis (CBA) ............................................................................ 44
+3.4.3 Quantification of Economic Benefit – Property Value Increase ............ 46
+CHAPTER FOUR: RESULTS AND DISCUSSION ................................................................... 49
+4.0 Introduction ............................................................................................................... 49
+4.1 To Determine the Existing Conditions of the Road Drainage Channel ........ 49
+4.1.1 Site Visits ............................................................................................................ 49
+4.1.2 Surveying ............................................................................................................ 53
+4.1.3 Channel Measurements ................................................................................... 56
+4.2 To Conduct a Hydrological and Hydraulic Analysis of the Catchment ......... 57
+4.2.1 Catchment Studies ........................................................................................... 57
+4.2.2 Design storm ...................................................................................................... 58
+
+ix
+
+4.2.3 Generation of IDF Curves ................................................................................ 58
+4.2.4 Time of concentration ..................................................................................... 60
+4.2.4 The coefficient of discharge .......................................................................... 62
+4.2.5 Determination of peak runoff ....................................................................... 63
+4.2.6 HEC-RAS 1-D Hydraulic Analysis of the Naluuma road side drainage. . 65
+4.3 To Sufficiently Size the Drainage Channel ......................................................... 69
+4.3.1 Modified Channel Design ................................................................................. 69
+4.3.2 Depth of Flow .................................................................................................... 69
+4.3.3 Side Slope ........................................................................................................... 70
+4.3.4 Channel Slope .................................................................................................... 70
+4.3.5 Channel Lining Material .................................................................................. 70
+4.4 HEC-RAS 1-D Flow Hydraulic Analysis of the Modified Channel .................... 71
+4.5 To Provide a Suitable Cost Estimate with a Bill of Quantities (BOQ) ........... 79
+4.5.1 Economic Analysis for the Improved Drainage System ............................ 79
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS ................................................... 82
+5.1 Conclusion .................................................................................................................. 82
+5.2 Recommendations .................................................................................................... 83
+REFERENCES .......................................................................................................................... 85
+APPENDICES ........................................................................................................................... 90
+APPENDIX A: CATCHMENT AREA MAPS FROM THE DEM ............................................... 90
+APPENDIX B: RAINFALL TABULATIONS. ............................................................................ 92
+APPENDIX C: ENGINNERING DESIGN DRAWINGS. ........................................................... 98
+APPENDIX D: HEC– 1D HYDRAULIC ANALYSIS ............................................................... 101
+APPENDIX E: APPROVED INTRODUCTORY LETTERS .................................................... 102
+APPENDIX F: SURVEYING .................................................................................................. 104
+
+
+
+
+x
+
+LIST OF TABLES
+Table 3. 1 Maximum yearly rainfall (2012-2024) ........................................ 23
+Table 3. 2 Calculated Mean and Standard Deviation for Each Return Period (2012-
+2024) ........................................................................................... 24
+Table 3. 3 Rainfall depths for each return period. ...................................... 25
+Table 3. 4 Rainfall intensity for each Return Period .................................... 26
+Table 3. 5 Recommended channel side slope. ........................................... 33
+
+Table 4. 1 Channel measurements (Source; RTK machine) ............................ 56
+Table 4. 2 The distribution of the land use types ....................................... 58
+Table 4. 3 Time of concentration for each section ..................................... 60
+Table 4. 4 Rainfall intensity for a 25-year period ....................................... 61
+Table 4. 5 Existing land use conditions with Rational Coefficients ................... 62
+Table 4. 6 Peak Discharges for the Sections. ............................................ 63
+Table 4. 7 Existing channel Froude's number. ............................................ 65
+Table 4. 8 Bill of Quantities of the improved channel. ................................. 79
+Table 4. 9 Cost Benefit Analysis of the improved channel ............................. 80
+
+
+
+
+xi
+
+LIST OF FIGURES
+Figure 1. 1 Current condition of the roadside drainage ................................. 5
+Figure 1. 2 Location of Naluuma Road (Source: Google Earth) ......................... 7
+
+Figure 2. 1 Hydrological cycle ............................................................. 11
+
+Figure 4. 1 A transect map of Naluuma (catchment) ................................... 50
+Figure 4. 2 Visual representation of existing situation ................................. 51
+Figure 4. 3 Alignment profile of Naluuma (Catchment) ................................ 54
+Figure 4. 4 Topographic map of Naluuma(Source: Civil3D) ............................ 55
+Figure 4. 5 Delineation of the watershed (Source: ArcGIS software) ................ 57
+Figure 4. 6 IDF Curves for Nansana Nabweru ............................................ 59
+Figure 4. 7 Upstream water surface level of the existing channel (Source: HEC-RAS
+Software) ...................................................................................... 66
+Figure 4. 8 Mid-stream water surface level of the existing channel (Source: HEC-
+RAS Software) ................................................................................ 67
+Figure 4. 9 Downstream water surface level of the existing channel (Source: HEC-
+RAS Software) ................................................................................ 69
+Figure 4. 10 Up-stream section of the modified channel (Source HEC-RAS Software
+................................................................................................. 72
+Figure 4. 11 Mid-stream section of the modified channel (Source HEC-RAS
+Software) ...................................................................................... 73
+Figure 4. 12 Downstream section of the modified channel (Source HEC-RAS
+Software) ...................................................................................... 74
+
+xii
+
+Figure 4. 13 Profile output of hydraulic analysis of modified channel (Source:
+HECRAS Software) ........................................................................... 76
+
+
+
+
+
+
+xiii
+
+LIST OF ABBREVIATIONS
+UNMA Uganda National Meteorological Authority
+BCR Benefit Cost Ratio
+DEM Digital Elevation Model
+CBA Cost Benefit Analysis
+EV Extreme Value
+Fr Froude’s Number
+ft Feet
+Km Kilometer
+GPS Global Positioning System
+IDF Intensity duration frequency
+Km2 Square kilometer
+RTK Real Time Kinematic
+SI International System of Units
+UGX Ugandan Shillings
+LULC LAND-Use Land Cover
+m Meter
+m2 Square Meters
+m3/s Cubic meters per second
+mm/hr millimeter per hour
+
+xiv
+
+MoWT Ministry of Works and Transport
+NPV Net Present Valu
+
+
+CHAPTER 1: INTRODUCTION
+1.1 Background
+Drainage is a critical component of road infrastructure that involves the
+interception, collection, and removal of water from both above and below the road
+surface. It is typically classified into two main types; Surface drainage, which
+manages runoff on the road surface and adjacent areas, and subsurface drainage,
+which addresses water removal beneath the pavement structure.
+Both drainage-types play a significant role in preserving the structural integrity,
+longevity, and safety of roads, making effective drainage design a key consideration
+in highway construction (Smith, 2022).
+Proper drainage facilities are essential to protect roads from water-induced damage,
+which can create hazardous driving conditions and accelerate pavement
+deterioration (Williams & Chen, 2021). Inadequate drainage compromises the
+serviceability and lifespan of road infrastructure (Taylor et al., 2023). Effective
+drainage systems typically integrate both natural and engineered features such as
+ditches, culverts, pipes, curbs, and storm channels to ensure the safe and efficient
+conveyance of stormwater.
+The success of drainage construction depends heavily on factors like choosing
+appropriate materials that align with system requirements for collection,
+conveyance, and discharge, adhering to sound engineering practices, and conducting
+regular maintenance, all of which are essential for enhancing the performance and
+reliability of drainage systems (Roberts, 2023).
+
+
+In Uganda, a landlocked country in East Africa, roads are the primary mode of
+transport and play a vital role in supporting the national economy by facilitating the
+movement of goods and people. The Uganda National Roads Authority (UNRA),
+established in July 2008 by an Act of Parliament, is responsible for development and
+maintenance of national roads, management of road machinery, oversight of axle
+load control, strategic planning for sustainable road infrastructure.
+One of the persistent challenges facing Uganda’s road infrastructure is poor or
+inadequate drainage, often manifested as undersized drains, complete absence of
+drainage facilities, or blocked channels. These deficiencies are a direct cause of
+urban flooding, especially during intense storm events when large volumes of
+stormwater runoff overwhelm the drainage capacity, leading to flooding and
+property damage in nearby communities (ActionAid, 2006).
+Inadequate drainage channels can result in multiple issues, including frequent
+flooding, soil erosion, water pollution, and infrastructure degradation (EPA, 2019;
+NOAA, 2019).
+If not properly designed or maintained, drainage systems can become blocked,
+damaged, or overwhelmed, particularly during high-intensity rainfall. Additionally,
+poorly constructed or unlined channels are highly susceptible to erosion, where highvelocity water flows scour the channel beds and banks. This erosion leads to
+sediment deposition downstream, and the formation of sinkholes, which pose serious
+risks to both pedestrians and vehicles (USACE, 2014).
+This study focuses on the Naluuma Road (approximately 1.2 km in length), located
+in the Nansana-Nabweru Town Council in Wakiso District, Central Uganda. The road
+is situated near Hoima Road and serves as a critical access route for residents of
+
+
+Nabweru Cell 2, facilitating both local transport and commercial activities. However,
+the road has been severely impacted by a poor drainage network, leading to frequent
+flooding and reduced accessibility. This underscores the urgent need for the design
+and rehabilitation of an efficient roadside drainage system to support local socioeconomic development and improve the resilience of transport infrastructure in the
+area.
+1.2 Problem Statement
+The side drainage along Naluuma Road that is an access road connecting to Hoima
+Road, is severely silted due to frequent erosion of the earthen channel
+embankments. This sedimentation has significantly reduced the channel’s
+conveyance capacity resulting in the recurring flooding events during periods of
+heavy rainfall.
+These flooding occurrences have continuously contributed to the destruction of the
+road surface since infiltration and groundwater recharge weaken the pavement
+structure. This process leads to the formation of potholes which then makes
+transportation difficult and compromises pedestrian safety (H. Lugeye, personal
+communication, Municipal Engineer, December 2024).
+The current open channel design suffers from geometric and hydraulic deficiencies,
+including inadequate cross-sectional shape, slope, and size at certain locations.
+These flaws reduce the hydraulic efficiency of the drainage system, making it
+incapable of effectively conveying runoff, especially during high-intensity storms.
+Despite these challenges, no empirical upgrades have been implemented to cover
+come the drainage problems. Therefore, this study aims at bridging the existing
+design gap by focusing on improving the hydraulic conveyance capacity of the
+
+
+drainage system along Naluuma Road. This will help to mitigate the flooding
+problem, enhance road accessibility, and also support sustainable infrastructure
+development in Nabweru.
+1.3 Main objectives
+To improve the hydraulic conveyance of Naluuma road drainage.
+1.4 Specific objectives
+1. To determine the existing conditions of the road drainage channel
+2. To conduct a hydrological and hydraulic analysis of the catchment
+3. To sufficiently size the drainage channel through hydraulic calculations
+4. To determine an economic analysis of the modified channel
+1.5 Research questions
+1. What kind of drainage system exists in the catchment?
+2. What is the cause of the poor drainage system?
+3. What are the effects of a poor drainage system on the community?
+4. What design improvements can be made to the existing channel?
+1.6 Justification
+Naluuma catchment has experienced significant urbanization, shown by the
+expansion of residential settlements and commercial activities. This growth has led
+to increase in impervious surfaces hence resulting in generation of higher volumes
+of surface runoff that exceed the conveyance capacity of the existing drainage
+system
+
+
+Absence of an effective and well-planned drainage infrastructure has also led to
+persistent flooding along Naluuma Road in Nabweru hence posing serious risks to
+public safety, property, and transportation. This issue arises from the lack of an
+efficient drainage design that prioritizes flood mitigation under the various land use
+and climatic conditions.
+Therefore, the purpose of this study is to assess the state of the roadside drainage
+channel and to create a drainage channel design that is flood resilient. The study’s
+findings will improve the roads infrastructures functionality and safety while also
+offering a sustainable way to manage runoff and lessen the frequency and effects of
+flooding
+
+Figure 1. 1 Current condition of the roadside drainage
+1.7 Significance of the Project
+This research project addresses the problem of flooding in the settlements along
+Naluuma Road. The study will provide a comprehensive solution by proposing a new
+side drainage layout that meets the modern drainage design standards. The
+
+
+improved drainage will effectively divert excess surface runoff from road shoulders
+and pavement edges hence reducing water related damage and improving roads
+durability. The proposed drainage design will also enhance pedestrian safety,
+especially for those using walkways adjacent to the drainage channel by mitigating
+waterlogging and also minimizing slip hazards.
+1.8 Content Scope
+Hydraulic performance analysis of Naluuma roadside channel in relation to
+precipitation patterns, runoff volumes and time of concentration across the
+catchment
+Hydraulic modeling focusing on the estimation and management of peak discharges
+within the drainage network using simulation tools to assess current and proposed
+performance of the channel
+1.9 Time Scope
+the project was initiated in September 2024 and is scheduled for completion in
+March 2025.this time frame was planned to ensure the attainment of the main
+objective and fulfillment of all specific objectives outlined in the study
+1.10 Geographical Scope
+The study is geographically confined to Naluuma road located in the Nabweru South
+ward, within Nansana municipality Uganda. The site lies at coordinates 0.34904N,
+32.54101E. the location is part of a rapidly urbanizing region where efficient
+stormwater management is crucial due to increasing impervious surface areas and
+frequent flooding incidents.
+
+
+
+Figure 1. 2 Location of Naluuma Road (Source: Google Earth)
+
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW.
+2.1 Flooding
+Flooding as applied to roads, refers to the inundation of roadways due to excessive
+rainfall, river overflow or storm surges, leading to significant damage and disruption
+of transportation networks.
+A flood can be defined as the overflow of large amounts of water beyond the
+prescribed limits. Some causes of floods include heavy rainfall, high melting of snow
+and ice, failures of water storage or water-diverging structures etc. The floods can
+lead to various communicable diseases, damage the infrastructure and property,
+damage any plants or wildlife that come in its path and contaminate habitats.
+2.1.1 Factors that cause flooding
+Flooding is a complex phenomenon influenced by a variety of natural and
+anthropogenic factors. Below is an outline of the primary factors contributing to
+flooding;
+2.1.1.1 Natural factors
+Rainfall; excessive rainfall is a significant trigger for flooding.in regions like
+Kotabaru, Indonesia, moderate rainfall accounts for 73.3% of flood events (UMMIYATI
+et al., 2024)
+Geographical conditions; low lying topography and proximity to rivers as seen in
+Tunggal Irang llir village increase vulnerability to flooding (Yati et al., 2024)
+Climate change; changes in climate patterns including increased wet conditions,
+exacerbate flood risks, particularly in areas like northwestern Ethiopia (Teshome
+Nigatu et al., 2023)
+
+
+2.1.1.2 Anthropogenic Factors
+Urban Planning; poor urban planning and inadequate drainage systems are prevalent
+in cities like Harper City, Liberia, leading to increased flood risks (Baddianaah, 2023)
+Land Use Changes; deforestation and land degradation contribute to flooding by
+reducing the land's ability to absorb rainfall (Teshome Nigatu et al., 2023)
+Waste Management; ineffective solid waste management can block drainage
+systems, worsening flood conditions (Baddianaah, 2023)
+While natural factors are significant, the role of human activities in exacerbating
+flooding cannot be overlooked. Addressing these anthropogenic causes through
+improved urban planning and environmental management is essential for reducing
+flood risks.
+2.2 The Hydrological cycle
+The hydrological cycle plays a crucial role in understanding flooding dynamics,
+particularly in how water movement and management can mitigate flood risks. This
+cycle involves the continuous movement of water through evaporation,
+condensation, precipitation, and infiltration, which can significantly influence flood
+events. However, flood control measures, such as constructing floodways, may
+inadvertently reduce groundwater storage, highlighting the need for balanced flood
+management strategies (Pratoomchai et al., 2022)
+This gigantic system, powered by energy from the Sun, is a continuous exchange of
+moisture between the oceans, the atmosphere, and the land. Studies have revealed
+that evaporation, the process by which water changes from a liquid to a gas from
+oceans, seas, and other bodies of water (lakes, rivers, streams) provides nearly 90%
+
+
+of the moisture in our atmosphere. Most of the remaining 10% found in the
+atmosphere is released by plants through transpiration. Plants take in water through
+their roots, then release it through small pores on the underside of their leaves. In
+addition, a very small portion of water vapor enters the atmosphere through
+sublimation, the process by which water changes directly from a solid (ice or snow)
+to a gas. The gradual shrinking of snow banks in cases when the temperature remains
+below freezing results from sublimation.
+After the water enters the lower atmosphere, rising air currents carry it upward,
+often high into the atmosphere, where the air is cooler. In the cool air, water vapor
+is more likely to condense from a gas to a liquid to form cloud droplets. Cloud
+droplets can grow and produce precipitation (including rain, snow, sleet, freezing
+rain, and hail), which is the primary mechanism for transporting water from the
+atmosphere back to the Earth’s surface.
+When precipitation falls over the land surface, it follows various routes in its
+subsequent paths. Some of it evaporates, returning to the atmosphere; some seeps
+into the ground as soil moisture or groundwater; and some runs off into rivers and
+streams. Almost all of the water eventually flows into the oceans or other bodies of
+water, where the cycle continues. At different stages of the cycle, some of the water
+is intercepted by humans or other life forms for drinking, washing, irrigating, and a
+large variety of other uses (Paul Przyborski, no date)
+
+
+
+Figure 2. 1 Hydrological cycle
+2.3 Channel geometry
+Channel geometry plays a pivotal role in design and analysis of open channel flows,
+directly influencing flow capacity, velocity, and overall hydraulic efficiency. These
+properties are essential for effective water conveyance
+2.3.1 Cross sectional shape
+Rectangular channels; common in engineered structures due to ease of construction
+and analysis. They offer good balance between efficient fluid flow and adaptability
+to various conditions
+Trapezoidal channels; often used in irrigation and drainage systems for stability and
+efficient flow especially in situations with limited land availability. They offer a good
+balance between maximizing waterflow capacity while minimizing the amount of
+material needed for construction
+
+
+Triangular channels; typically found in natural formations or specific design
+scenarios. They are used in situations where maximizing flow velocity with minimal
+water volume is desired because its design concentrates flow towards the center of
+the channel leading to high flow rates with a relatively small cross-sectional area
+Circular channels. These are preferred due to their ability to minimize flow
+resistance due to their unique geometry that allows for the smoothest fluid
+movement with the less friction against the channel walls
+The cross-sectional area of the stream is determined by multiplying channel depth
+by channel width along a transverse section of the stream. For a hypothetical stream
+with a rectangular cross-sectional shape (a stream with a flat bottom and vertical
+sides) the cross-sectional area (A) is simply the width multiplied by the depth:
+A = (b * y)
+Wetted perimeter; this is simply the total length of the channel walls that are in
+contact with the liquid(water)
+The wetted perimeter, P is the width, b plus twice the depth, y that the water
+touches:
+P= b + 2y
+The greater the cross-sectional area in comparison to the wetted perimeter, the
+more freely flowing will the stream be because less of the water is in proximity to
+the frictional bed. So as hydraulic radius increases so will velocity (all other factors
+being equal).
+The hydraulic radius, R, is defined as the ratio of the cross-sectional area of the
+flow, A, to the wetted perimeter of the channel, P:
+
+
+R= A
+P
+Channel slope or Gradient; this is the difference in elevation between two points on
+a stream divided by the distance between them measured along the stream channel.
+The flow velocity, and thus power of the stream to do work is also directly related
+to the slope of the channel, the steeper the slope, the faster the velocity of flow.
+
+2.4 Open channel flow classification
+2.4.1 Steady and unsteady flow
+A steady flow occurs when the flow properties, such as the depth or discharge at a
+section, do not change with time. As a corollary, if the depth or discharge changes
+with time, the flow is termed unsteady. In practical applications, due to the
+turbulent nature of the flow and the interaction of various forces, such as wind,
+surface tension, etc., at the surface, there will always be some fluctuations in the
+flow properties with respect to time. To account for these, the definition of steady
+
+
+flow is somewhat generalized, and the classification is done on the basis of gross
+characteristics of the flow.
+2.4.2 Laminar and turbulent flow
+In open channel flow, when the Reynolds number exceeds 500, the flow is known as
+turbulent flow and when it is lower than 500, the flow is called laminar flow.
+So laminar flow in open channel occurs when Reynolds number is lower than 500.
+2.4.3 Critical, Subcritical and Supercritical Flow in Open Channel
+This classification is based on the Froude’s Number. In open channel flow, critical
+flow occurs when the flow velocity equals the wave speed, maintaining a stable
+water surface. Subcritical flow is slower than the wave speed, resulting in tranquil
+water conditions, while supercritical flow is faster, causing disturbances like waves
+and rapids. The classification is as follows
+F < 1; Subcritical flow
+F = 1; Critical flow
+F > 1; Supercritical flow
+The velocity of flow at any channel section is not uniformly distributed due to the
+presence of free surface and the frictional resistance offered to free flow of water
+by the boundary of the channel.
+The velocity distribution in a channel section depends upon various factors such as
+the shape of the section, roughness of the boundary of the channel and the
+alignment of the channel (Murugappan.A, 2020)
+
+
+2.4.4 Factors affecting velocity of flow
+Alignment of channel
+The velocity of flow in the channel also depends on the alignment of the channel. If
+the channel is straight there will be no change in velocity with respect to alignment.
+In straight channels, maximum velocity generally occurs at 0.05 to 0.15 m depth
+from the free water surface. If it is sinuous or meandering, the velocity will vary at
+bends. At bends, due to centrifugal action of flow, the velocity becomes more on
+the convex side compared to the concave side.
+Slope of Channel bed
+Slope of channel bed or gradient of the channel will also affect the velocity of flow
+in open channels. At steeper gradients, velocity increases while at normal gradients
+velocity decreases.
+Roughness of channel
+Roughness of channel is the measure of the amount of frictional resistance offered
+by channel bed material against the flow of water. In natural channels, the flow
+velocity is affected by the presence of large angular boulders as bed material,
+vegetation, obstructions etc. If the channel is made of smooth clay or silt, its
+roughness is very low and water flows faster. In the case of artificial channels,
+smooth finishing is required to maintain the required flow velocity. The average
+velocity in open channels can be calculated using manning’s formula mentioned
+below.
+V= 1
+n ∗ R
+3 ∗ S
+
+
+Where,
+V = Average velocity of channel
+R = hydraulic radius of channel
+S = Slope of channel
+n = Manning’s roughness coefficient.
+
+
+
+
+
+CHAPTER 3: METHODOLOGY
+3.0 Introduction
+This chapter outlines the various steps taken to develop the proposed designs.
+Relevant data was collected through a review of existing literature and analysis of
+historical rainfall records within the contributing areas. It also involved the
+generation of Intensity-Duration-Frequency (IDF) curves, which were essential in
+estimating rainfall intensity for the specific catchments
+Key activities carried out included field inspections, conducting topographic surveys
+along the road alignment, and reviewing academic and online resources related to
+drainage.
+The design process followed a standardized approach guided by established design
+manuals. Software tools such as ArcMap 10.1 and QGIS 3.38.2 were used to analyze
+catchment characteristics and patterns of land use. Civil 3D software further
+assisted in estimating catchment areas by utilizing GPS coordinates collected during
+fieldwork.
+
+3.1 To determine the existing conditions of the road drainage channel
+A field investigation was conducted to understand the present condition of the
+drainage channel along the road. It involved an initial reconnaissance survey to get
+a clear picture of the site and also determine the most appropriate design strategy.
+The process also included a topographic survey and the delineation of the relevant
+catchment area.
+
+
+3.1.1 Field Reconnaissance
+A site visit was conducted by walking the full stretch of the drainage channel, this
+helped to observe the surrounding environment, analyze the existing channel
+alignment, and also determine the natural flow direction along with some of the
+physical aspects of the catchment. During the walk-through, features such as land
+use types, settlement patterns, and alignment characteristics were recorded.
+The approach taken was based on transect walks by moving between two specific
+points in order to systematically cross through the local community. This exercise
+later included sketching a map that reflected the observations like potential
+hazards, and key features in place.
+This activity also involved interacting with local residents to gather information
+through informal conversations. These discussions together with active observation
+helped in identification of important community assets, risks, and livelihood
+patterns.
+3.1.2 Topographic Survey
+A detailed topographic survey was conducted along the entire length of the drainage
+channel from its point of entry to the outlet using Real-Time Kinematic (RTK) Global
+Positioning System (GPS) equipment. During the process, both the centerline and
+side coordinates, together with their respective elevation points were recorded at
+various chainages along the channel. Elevation data for ground surfaces, bridge
+structures, and culverts with their exact coordinates were also collected and
+documented.
+The following steps were followed;
+
+
+• A temporary benchmark was established at the beginning of the channel, and
+appropriate instrument stations were positioned at intervals along the route.
+• The RTK base station was installed at the benchmark to ensure optimal
+satellite signal coverage and enable the transmission of real-time correction
+data.
+• Elevation points and coordinates of the ground surface, the channel bed,
+crossing structures, and spot heights were measured after every 20 meters
+along both sides and the center of the channel by using a measuring tape.
+• All the coordinates obtained were input into Microsoft Excel from the original
+field notes and later imported into Civil 3D software. This data was then used
+to produce a topographic representation of the drainage channel and its
+associated features.
+3.1.3 Measurement of the Channel
+The dimensions of the drainage channel were established using standard surveying
+techniques with the help of instruments such as GNSS RTK equipment and measuring
+tapes. The objective of this activity was to determine geometric parameters of the
+channel such as the cross-sectional area, widths, depth, and elevation in order to
+evaluaate its flow capacity.
+Once the field measurements were collected, the data was extracted from the
+equipment, compiled and organized in Microsoft Excel. From there, the information
+was imported into Civil 3D software and later into AutoCAD, where it was utilized to
+assist in the design and delineation of the relevant catchment area.
+
+
+The slope of the channel was calculated using the elevation values recorded at both
+the inlet and outlet, along with the total measured length of the channel. The slope
+was determined using the following formula:
+Channel slope= Inlet elevation−Outlet elevation
+Total length of the channel
+
+3.2 To conduct a hydrological and hydraulic analysis of the catchment
+To analyze the flow and drainage characteristics of the catchment area, a
+comprehensive hydrological and hydraulic evaluation was performed.
+3.2.1 Catchment Area Delineation
+The catchment area contributing to the roadside drainage along Naluuma Road was
+mapped using ArcGIS software. A satellite image of the area was combined with a
+Digital Elevation Model (DEM), which provides elevation data for various points.
+Because both datasets shared the same coordinate reference system, the merging
+process was seamless.
+To prepare the DEM for analysis, the “Fill” tool found in the spatial analysis toolbox
+was applied to eliminate surface depressions and irregularities. Flow direction for
+each grid cell in the DEM was then determined using the “Flow Direction” tool and
+followed by the “Flow Accumulation” tool used to trace the accumulation paths.
+A pour point to represent the outlet was defined to assist in outlining of the
+watershed boundaries and identifying stream networks. The “Watershed” tool was
+then used to delineate the specific area draining into the defined pour point. A visual
+representation of the corresponding catchment area on the map was then
+generated.
+
+
+Land use and landcover (LULC) data from the study area was also analyzed and
+ArcGIS software was used to calculate the percentage of each land use category
+within the watershed. The analyzed data helped in the estimation of the
+catchment’s weighted runoff contribution to the Naluuma drainage system.
+3.2.2 Design Storm
+Data on the highest annual rainfall was obtained from the Uganda National
+Meteorological Authority (UNMA), located in Luzira was used to analyze extreme
+rainfall patterns for the catchment area.
+3.2.3 Development of IDF Curves
+To establish Intensity-Duration-Frequency (IDF) curves, the Gumbel Type I
+distribution a type of Extreme Value (EV) distribution was applied to the historical
+rainfall data. This approach allowed for estimation of rainfall intensities associated
+with specific exceedance probabilities over various durations.
+Procedure Followed:
+Data Collection and Organization; Historical rainfall records, particularly peak
+rainfall values, were gathered and categorized by year and time intervals to prepare
+for analysis.
+Selection of a Distribution Type; Different statistical distributions such as Gumbel,
+Fréchet, and Weibull were fitted to the data to determine which best represented
+the observed values. After comparison, the Gumbel distribution was selected due to
+its better fit based on statistical evaluation.
+
+
+Estimating distribution parameters; Parameters of the chosen distribution were
+calculated using statistical techniques like the method of moments and maximum
+likelihood estimation, based on the historical rainfall dataset.
+Return period; The return period representing the average time between events of
+a certain magnitude was derived using the estimated distribution parameters and
+historical records.
+Uncertainty evaluation; Confidence intervals were also calculated to assess the
+uncertainty linked to the estimated parameters and return periods.
+This statistical method provided a reliable way to estimate the likelihood of extreme
+rainfall events which is essential for designing effective drainage system. The raw
+data and full process used to produce the IDF curves are documented in Appendix B.
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3. 1 Maximum yearly rainfall (2012-2024)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year
+Maximum
+rainfall
+(mm)
+258.9
+198.4
+199.5
+301.4
+345.6
+176.6
+219.0
+293.8
+304.1
+295.2
+250.7
+342.0
+200.5
+
+
+Table 3. 2 Calculated Mean and Standard Deviation for Each Return Period (2012-2024)
+Construction of IDF (intensity-duration-frequency) curve for different recurrence interval (Gumbel)
+Ep = p(t/24) ^ (1/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5mins
+10mins
+15mins
+30mins
+60mins
+120mins
+720mins
+1440mins
+39.20438
+49.39442
+56.5425
+71.23908
+89.75562
+113.085
+205.4891
+258.9
+30.04306
+37.85188
+43.32959
+54.59186
+68.78144
+86.65918
+157.4702
+198.4
+30.20963
+38.06175
+43.56983
+54.89454
+69.16279
+87.13965
+158.3433
+199.5
+45.64001
+57.50281
+65.82429
+82.93341
+104.4895
+131.6486
+239.2213
+301.4
+52.33307
+65.93554
+75.47735
+95.0955
+119.8128
+150.9547
+274.3029
+345.6
+26.74196
+33.69276
+38.56858
+48.59336
+61.2238
+77.13716
+140.1675
+176.6
+33.16245
+41.78207
+47.82853
+60.26017
+75.92306
+95.65706
+173.8204
+44.48917
+56.05284
+64.16449
+80.84219
+101.8548
+128.329
+233.1892
+293.8
+46.04886
+58.01793
+66.41395
+83.67634
+105.4256
+132.8279
+241.3643
+304.1
+44.70117
+56.31994
+64.47024
+81.22741
+102.3401
+128.9405
+234.3004
+295.2
+37.96268
+47.82998
+54.75166
+68.98276
+86.91284
+109.5033
+198.9807
+250.7
+51.78794
+65.24871
+74.69113
+94.10493
+118.5648
+149.3823
+271.4456
+30.36106
+38.25253
+43.78822
+55.1697
+69.50947
+87.57644
+159.137
+200.5
+Mean
+39.43734
+49.68794
+56.87849
+71.6624
+90.28897
+206.7101
+260.4385
+standard
+deviation
+8.721665
+10.98861
+12.57882
+15.84832
+19.96763
+25.15764
+45.71446
+57.59661
+
+
+
+Table 3. 3 Rainfall depths for each return period.
+Table 3. 3 Rainfall depths for each return period.
+
+
+Xt (mm) = mean + SD*Kt
+
+
+
+2 years
+10 year
+25 year
+50 year
+75year
+100year
+time(mins)
+Mean
+STD
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+5mins
+39.437
+8.7216
+39.43734
+54.68663
+62.98028
+69.13298
+72.70916
+75.24025
+10mins
+49.687
+10.988
+49.68794
+68.90084
+79.35018
+87.10209
+91.6078
+94.79677
+15mins
+56.878
+12.578
+56.87849
+78.87177
+90.83328
+99.70701
+104.8648
+108.5152
+30mins
+71.662
+15.848
+71.6624
+99.3722
+114.4428
+125.623
+132.1213
+136.7206
+60mins
+90.288
+19.967
+90.28897
+125.2011
+144.1888
+158.275
+166.4624
+172.2572
+120mins
+25.157
+157.7435
+181.6666
+199.414
+209.7295
+217.0304
+720mins
+206.710
+45.714
+206.7101
+286.639
+330.11
+362.3593
+381.1038
+394.3705
+1440mins
+260.438
+57.596
+260.4385
+361.1425
+415.9126
+456.5441
+480.1607
+496.8756
+
+
+
+
+Table 3. 4 Rainfall intensity for each Return Period
+
+2 year
+10 year
+25 year
+50 year
+75year
+100year
+time(hours)
+0.083333
+458.5021
+656.2398
+755.7636
+829.5961
+872.5103
+902.8833
+0.166667
+288.8381
+413.405
+476.101
+522.6125
+549.6468
+568.7806
+0.25
+220.4247
+315.4871
+363.3331
+398.828
+419.459
+434.0609
+0.5
+138.8589
+198.7444
+228.8855
+251.2459
+264.2426
+273.4412
+87.47562
+125.2011
+144.1888
+158.275
+166.4624
+172.2572
+55.10619
+78.87177
+90.83328
+99.70701
+104.8648
+108.5152
+16.6891
+23.88659
+27.50917
+30.19661
+31.75865
+32.8642
+10.51347
+15.04761
+17.32969
+19.02267
+20.0067
+20.70315
+
+
+3.2.4 Time of Concentration
+To determine the design storm, the time of concentration was computed using Kirpich’s
+formula:
+T = Time of concentration (minutes)
+K = Conversion factor (0.0195 for SI units, 0.0078 for US units)
+L = The longest flow path of runoff (meters)
+S = Slope of the drainage channel
+Calculations
+For Section 1,
+Tc = 0.0195 ∗ 3300.770 ∗0.0196−0.385
+Tc = 7.70 minutes
+
+For Section 2,
+Tc = 0.0195 ∗ 3300.770 ∗0.0456−0.385
+
+
+Tc = 5.17 minutes
+
+For Section 3,
+Tc = 0.0195 ∗173.4720.770 ∗0.0057−0.385
+Tc = 7.86 minutes
+By utilizing Kirpich’s equation, these computations provided insight into how quickly
+runoff moves through the drainage system, aiding in stormwater design and flood
+management planning.
+3.2.5 Runoff Coefficient
+For areas with varying land use types, a weighted runoff coefficient is necessary to
+accurately represent runoff characteristics. In general, the runoff coefficient
+encapsulates all other influences on surface runoff, excluding rainfall intensity and
+catchment area.
+The weighted runoff coefficient is obtained using the formula:
+Cw =
+(A1C1+A2 C2+⋯+AnCn)
+A
+
+
+
+
+
+
+A1, A2, An = Land areas with similar surface characteristics within the catchment area
+A
+C1, C2, Cn = Respective runoff coefficients for each land area.
+Weighted Runoff Coefficient Calculation:
+Cw =
+(0.34 ∗ 0.50 + 0.10 ∗ 0.60 +0.20 ∗ 0.15)
+0.64
+
+Cw = 0.41
+This computed value, 0.41 is an estimate of the fraction of rainfall expected to
+contribute to runoff within the given catchment.
+3.2.6 Estimation of Peak Runoff
+Peak runoff refers to the highest discharge rate of stormwater at a given point during
+a rainfall event. To estimate peak runoff, historical annual rainfall data spanning over
+a decade was analyzed to determine expected runoff values for the channel. This data
+was then used to generate Intensity-Duration-Frequency (IDF) curves which help in
+attaining rainfall intensity for different durations.
+The Rational Method was employed to calculate surface runoff. The peak runoff rate
+was estimated using the formula:
+Q= CIA
+
+
+
+Q = Peak discharge (m3/s)
+C = Runoff coefficient
+I = Rainfall intensity (mm/hr)
+A = Catchment area (hectares)
+Peak Runoff Calculations:
+Section 1:
+Q=
+(0.41∗96∗0.34)
+= 3.72 m3/s
+
+
+Section 2:
+Q=
+(0.41∗110∗0.10)
+= 1.25 m3/s
+
+Section 3:
+Q=
+(0.41∗95∗0.20)
+= 2.16m3/s
+
+
+
+
+3.3 To sufficiently size the drainage channel through hydraulic calculations
+A structured approach was used to estimate the expected flow rate and determine
+suitable channel dimensions to ensure efficient water conveyance.
+The following steps were taken in the estimation:
+• Estimation of design flow rate; The anticipated runoff volume and intensities
+were assessed using the HEC-RAS software while incorporating rainfall data and
+other parameters derived in objective 2
+• Selection of channel slope; An appropriate longitudinal slope was chosen while
+balancing the need for adequate flow velocity while preventing excessive
+erosion.
+• Basing on availability of space and expected flow, different channel shapes
+(trapezoidal, rectangular, and circular) were considered. The trapezoidal
+channel was then selected due to its larger wetted perimeter which enhances
+water conveyance.
+• Using the selected slope and flow rate, key channel parameters such as depth,
+bottom width, and side slopes were also determined.
+• Flow Velocity Assessment; The computed dimensions were verified to ensure that
+the flow velocity remained within acceptable limits to prevent erosion. This
+analysis was conducted using the HEC-RAS hydraulic model.
+• Consideration of Inflow and Outflow Conditions; The design ensured that the
+channel could accommodate anticipated flow without causing flooding or
+structural instability.
+
+
+Channel Design Using Manning’s Equation
+The Manning’s Equation was used to determine the necessary channel dimensions:
+Q =
+AR2/3S1/2
+nP5/3
+Q = Design discharge (m3/s)
+A = Cross-sectional area of the channel (m2)
+R = Hydraulic radius (m)
+S = Channel slope
+P = Wetted perimeter (m)
+n = Manning’s roughness coefficient
+Additional Considerations in Channel Design included constraints due to seasonal
+variations; the channel’s performance would be affected by seasonal changes and
+maintenance conditions over time and spatial restrictions; the channel’s top width was
+constrained to fit within the available right-of-way.
+By substituting known values of V, S, Q and n into the Manning’s equation, key design
+parameters such as cross-sectional area (A) and hydraulic radius (R) were determined.
+
+
+
+3.3.1 Determination of Flow Depth
+To establish an appropriate flow depth, field measurements were conducted which
+involved inserting a probe into the channel until it reached the channel bed. These
+measurements provided baseline data, which together with hydraulic analysis, helped
+in determining the most suitable depth for the drainage system.
+3.3.2 Side Slope
+Recommended side slopes are shown in the table below.
+Table 3. 5 Recommended channel side slope.
+Material
+Side slope
+Rock
+Nearly vertical
+Muck and pear soils
+1⁄4 : 1
+Stiff clay and earth with concrete lining 1⁄2 1 to 1:1
+Earth with stone lining
+1:1
+Firm clay or earth for small ditches
+1 1⁄2:1
+Loose, sandy earth
+2:1
+Sandy loam or porous clay
+3:1
+
+3.3.3 Longitudinal Channel Slope
+The longitudinal slope of a drainage channel refers to the vertical gradient between
+the channel start and end points. This slope determines how water flows along the
+channel and directly influences its flow velocity and conveyance efficiency.
+
+
+To calculate this gradient, the elevation difference between the inlet and outlet of the
+channel is first established. The length of the channel is then used alongside the
+elevation difference to compute the slope using the formula:
+Channel slope =
+Difference in channel elevation
+Length of channel
+
+NB: It’s important to distinguish between the longitudinal slope, which describes the
+incline along the length of the channel, and the side slope, which pertains to the
+inclination of the channel’s side walls.
+3.3.4 Channel Lining Material
+The choice of channel lining material is a crucial component in the design of a drainage
+system because it helps to protect the channel against erosion, minimizes
+sedimentation, and ensures long-term structural performance of the drainage system.
+It also supports stable flow conditions especially during periods of high discharge and
+on steep slopes. Selection of a suitable lining material is influenced by several factors
+such as flow velocity, gradient of the channel, composition of soil and budgetary
+constraints
+The commonly used materials in channel lining include reinforced concrete, asphalt,
+riprap (rock armor), vegetative cover, and geotextile materials.
+To ensure a systematic and effective selection and design of the channel lining, the
+following approach was adopted:
+
+
+• An initial site investigation was performed as in the first objective to understand
+the channel’s characteristics, hydrological characteristics, and ground
+conditions.
+• With these insights, the most appropriate lining material was chosen one that
+can handle the predicted flow rates, withstand the terrain's slope, and is
+compatible with the local soil type. Considerations also included cost-efficiency,
+availability of materials, and environmental impact.
+• The design phase involved defining geometric parameters like as slope,
+alignment, and cross-sectional shape while ensuring that the lining would be
+effective and durable under operational conditions.
+• Installation feasibility and maintenance requirements were taken into account
+during the implementation planning to ensure sustainability and ease of upkeep
+over time.
+3.3.5 Channel Dimensions
+The dimensions of a drainage channel are key component in ensuring its ability to
+handle the designed flow rates efficiently and without failure. These dimensions are
+influenced by multiple factors such as the expected peak discharge, sediment load
+characteristics, and the available physical spce for channel construction.
+To achieve an optimal design, calculations were based on the geometry of a trapezoidal
+channel, which offers a balance between flow efficiency and structural stability,
+especially for open channel systems. The Manning’s equation was used in conjunction
+with the geometric formulas to determine critical flow parameters.
+
+
+The following design parameters were calculated;
+Bottom width (b)
+Cross-sectional area (A)
+Wetted perimeter (P)
+Hydraulic radius (R = A/P)
+Top width (T)
+Flow velocity (V) using Manning’s equation
+
+
+Area, A
+A= (b + xy) ∗y
+
+Wetted perimeter, P
+P= b + 2y√(1 + x2)
+
+Hydraulic Radius, Rh
+
+
+Rh =
+Area
+Wetted perime′ter
+Rh =
+A
+P =
+(b + xy)∗y
+b + 2y√(1+x2)
+
+Top Width, B
+B = b + 2xy
+
+Velocity of flow, V
+From Qpeak = AV
+Hence, the flow velocity is determined by
+V =
+Qpeak
+Area =
+Qpeak
+(b + xy)∗y
+
+Froude’s number, Fr
+Fr =
+V
+√(gDm)
+Where Dm =
+A
+B
+
+Calculations;

@@ -1,0 +1,1666 @@
+EVALUATING THE RUTTING RESISTANCE OF ASPHALT CONCRETE
+MODIFIED WITH ORGANO-PHILIC MONTIMORILLONITE NANO CLAY
+(OMMT)
+
+MICHAEL GAMUKMA
+S18B32/183
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD
+OF THE DEGREE OF BACHELOR OF SCIENCE IN CIVIL AND ENVIRONMENTAL
+ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+February, 2026
+
+
+
+
+
+i
+
+ABSTRACT
+Asphalt pavements are required to have long-term performance and durability to keep highway
+traffic safe and protected from damage from serious failures such as rutting which is described
+as the permanent deformation of the pavement surface in the area of the wheel path (Huang,
+2012).This was the primary reason this research was conducted based on the idea that OMMT
+could potentially be used to increase the mechanical and volumetric properties and, therefore,
+the rutting resistance of the asphalt mixture. Unlike previous studies that concentrated on using
+montmorillonite in its untreated form, this research investigated the use of surface-modified
+OMMT to improve OMMT compatibility with the bituminous binder. Results from the laboratory
+indicated that adding 1% OMMT by weight of aggregate achieved significant improvements in the
+asphalt mixture's Marshall Stability (17.2 kN) and Flow Value (3.6 mm) as well as the Air Voids
+Content (4.2%), Voids in Mineral Aggregate Value (15.3%), Voids Filled with Bitumen Value
+(72.4%), and Bulk Density Value (3.352).
+A comprehensive literature review identified the mechanisms that cause rutting in pavements
+and evaluated the structural response of pavements to loading, and indicated that the physical
+and performance-related characteristics of the asphalt mixtures tested were adequate to meet
+asphalt pavement performance requirements and supported an increase in their deformation
+resistance. Additionally, the standard mechanical tests indicated that adding OMMT to the
+asphalt mixture hindered rutting and created a more uniform distribution of applied loads.
+These results suggest that the use of Binders that use Nanotechnology such as OMMT is a more
+efficient method to increase the load-carrying ability of Ugandan Highways, allowing them to
+last longer and reduce maintenance expenses.
+
+
+
+
+
+
+
+
+
+
+ii
+
+APPROVAL
+This is to certify that my Project Proposal Report entitled “Evaluating the Rutting Resistance of
+Asphalt Concrete Modified with Organo-philic Montmorillonite Nano clay” is submitted as Partial
+Fulfillment of the Degree of Bachelor of Science In Civil & Environmental Engineering Program
+at Uganda Christian University.
+Signature:.....................................
+Date: ..............................................
+ENG. DR. MORRIS OLENG
+ACADEMIC SUPERVISOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+DECLARATION
+The Report represents my Original research, work and findings under the direction of My
+Academic Supervisor. The report has never been submitted to another institution or university
+for any reason. All sources and references that were used to develop this report have been
+credited in full detail.
+Signature: .....................................
+Date: ..............................................
+GAMUKAMA MICHAEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+I would like to dedicate this report to my parents, teachers and mentors for their continued
+support, patience and guidance throughout my academic career. The encouragement I received
+from you, along with the confidence you had in me, has been a major motivating factor in my
+studies. I consider this accomplishment to be a reflection not only of the hard work I have put
+forth, but also of all the part you have played in supporting me. Thank you for everything
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENT
+First and foremost, I would like to express my heartfelt appreciation to Almighty God who
+assisted me by giving me strength and perseverance on my journey of academic pursuit. I would
+like to sincerely thank my supervisor, Eng. Dr. MORRIS OLENG, for the support, guidance, and
+constructive criticism he has provided me during my studies. I am also thankful to my research
+coordinator, MR. ROGERS TAYEBWA for providing invaluable insight and resources that helped
+me to successfully complete my project. Finally, I would like to recognize laboratory
+technicians, Eng. Eduard Martin and Eng. Robin, for their assistance with the laboratory and
+experimental work. Their expertise was fundamental to my success.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+Contents
+ABSTRACT ........................................................................................................ i
+APPROVAL ....................................................................................................... ii
+DECLARATION .................................................................................................. iii
+DEDICATION .................................................................................................... iv
+ACKNOWLEDGEMENT .......................................................................................... v
+LIST OF TABLES ................................................................................................ ix
+LIST OF FIGURES ............................................................................................... x
+ABBREVIATIONS AND ACRONYMS ............................................................................ xi
+CHAPTER ONE: INTRODUCTION AND BACKGROUND ....................................................... 1
+1.1PROBLEM STATEMENT ................................................................................... 3
+1.2MAIN OBJECTIVE ......................................................................................... 4
+1.2.1SPECIFIC OBJECTIVES ....................................................................................... 4
+1.2.2RESERCH QUESTIONS ....................................................................................... 4
+1.3SCIENTIFIC JUSTIFICATION ............................................................................. 5
+1.4GEOGRAPHICAL SCOPE .................................................................................. 5
+CHAPTER TWO: LITERATURE REVIEW ....................................................................... 6
+2.1ROAD PAVEMENTS ....................................................................................... 6
+2.1.1FLEXIBLE PAVEMENTS: CONSTRUCTION AND BEHAVIOUR. ................................... 6
+2.1.2BITUMEN: CHARACTERISTICS, COMPOUNDS AND APPLICATIONS. ........................... 7
+2.1.3CHEMICAL AND RHEOLOGICAL CHARACTERISTICS. ............................................ 7
+2.2CHALLENGES AND INNOVATIONS ............................................................................ 7
+2.2.1TERMINOLOGY AND STANDARDS .......................................................................... 8
+2.2.2RUTTING OF ASPHALT PAVEMENTS: CAUSES, MECHANISM, AND RISKS. ....................... 8
+2.2.2.1TYPES OF RUTTING ....................................................................................... 8
+2.2.2.2ASPHALT MIXTURES TESTING PROCEDURES: RUTTING. ............................................. 9
+2.3NANOCLAYS: MATERIALS, PREPARATION AND USES. ............................................... 10
+2.3.1STRUCTURE AND COMPOSITION ......................................................................... 10
+2.3.2NANOCLAYS: TYPES, PROPERTIES AND CLASSIFICATION. ............................................ 10
+2.3.3MONTMORILLONITE .................................................................................. 12
+CHAPTER THREE: METHODOLOGY .......................................................................... 14
+3.1MATERIAL SELECTION AND PREPARATION ........................................................... 14
+3.1.1BITUMEN ................................................................................................... 14
+3.1.2AGGREGATES .............................................................................................. 14
+
+vii
+
+3.1.3ORGANOPHILIC MONTMORILLONITE .................................................................... 14
+3.2To characterize the properties of organophilic Montimorillonite Nano Clay, Bitumen, and
+Aggregate .................................................................................................... 14
+3.2.1TEST ON ORGANOPHILIC MONTIMORILLONITE NANO CLAY .......................................... 14
+3.2.2CHARACTERISATION OF BITUMEN ....................................................................... 15
+3.2.3TESTING ON AGGREGATES ............................................................................... 16
+3.3To determine the optimum organophilic MMT Nano clay content to be used in the mix .... 17
+3.3.1MARSHALL STABILITY AND FLOW TEST (ASTM-D 6927) .............................................. 18
+3.3.2BULK SPECIFIC GRAVITY & DENSITY (ASTM D2726) ................................................... 18
+3.3.3AIR VOIDS (AV) & VOIDS IN MINERAL AGGREGATE (VMA) (ASTM D3203 / D2041) ................ 18
+3.3.4DETERMINING OPTIMAL OMMT CONTENT TO BE ADDED. ............................................ 19
+3.4To determine the mechanical properties and rutting resistance of Organophilic
+Montmorillonite nanoclay modified bitumen. .......................................................... 19
+3.4.1THE INDIRECT TENSILE STRENGTH (ITS) TEST (ASTM D6931) ....................................... 19
+3.4.2MOISTURE SUSCEPTIBILITY (AASHTO T 283 / ASTM D4867) ......................................... 20
+3.4.3WHEEL TRACKING TEST (EN 12697-22/AASHTO T 324/ASTM D 7064) ............................. 20
+CHAPTER FOUR: RESULTS AND DISCUSSION ............................................................... 21
+4.1 Introduction ............................................................................................ 21
+4.2PROPERTIES OF BITUMEN .............................................................................. 21
+TABLE 1PROPERTIES OF BITUMEN ........................................................................ 21
+4.2.1PENETRATION OF BITUMEN .............................................................................. 21
+4..2.2BITUMEN SOFTENING POINT TEST ..................................................................... 22
+4.2.3BITUMEN SPECIFIC GRAVITY ............................................................................. 24
+4.3PROPERTIES OF AGGREGATES ........................................................................ 25
+4.3.2AGGREGATE CRUSHING VALUE (ACV) .................................................................. 27
+4.3.3AGGREGATE IMPACT VALUE (AIV) ....................................................................... 28
+4.3.4SPECIFIC GRAVITY OF AGGREGATES .................................................................... 29
+4.3.5TEN PERCENT FINES VALUE (TFV) ....................................................................... 30
+4.3.6LOS ANGELES ABRASION TEST (LAA) ................................................................... 32
+4.4Organophilic Montmorillonite nano clay Xray diffractometry ................................... 34
+4.5ASPHALT MARSHALL SAMPLE TESTS .................................................................. 35
+4.5.1MAXIMUM THEORETICAL SPECIFIC GRAVITY (GMM) AND BULK SPECIFIC GRAVITY (GMB) ....... 35
+
+viii
+
+4.5.2MARSHALL STABILITY ..................................................................................... 37
+4.5.3MARSHALL FLOW .......................................................................................... 38
+4.5.4AIR VOID CONTENT (VA): ................................................................................ 40
+4.5.5VOIDS IN MINERAL AGGREGATE (VMA) ................................................................. 41
+4.5.6VOIDS FILLED BY BITUMEN (VFB) ....................................................................... 42
+4.6INDIRECT TENSILE STRENGTH (ITS) ................................................................... 43
+4.7RESEARCH DESIGN ...................................................................................... 45
+CHAPTER FIVE: CONCLUSIONS AND RECOMMENDATIONS ................................................ 47
+5.1CONCLUSION .............................................................................................. 47
+5.2RECOMMENDATIONS .................................................................................... 48
+REFERENCES ................................................................................................... 49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+
+LIST OF TABLES
+TABLE 1PROPERTIES OF BITUMEN .............................................................................. 21
+Table 2 PENETRATION OF BITUMEN ........................................................................... 22
+Table 3SOFTENING POINT OF BITUMEN ....................................................................... 23
+Table 4 PROPERTIES OF AGGREGATES ........................................................................ 25
+Table 5 GRADATION OF AGGREGATES ......................................................................... 26
+Table 6 AGGRGATE CRUSHING VALUE ......................................................................... 27
+Table 7 AGGREGATE IMPACT VALUE ........................................................................... 28
+Table 8 SPECIFIC GRAVITY OF AGGREGATES ................................................................. 29
+Table 9 10% FINES VALUE DRY OF AGGREGATES ............................................................. 31
+Table 10 10% FINES VALUE SOAKED OF AGGREGATES ....................................................... 31
+Table 11 WET/DRY RATIO ....................................................................................... 32
+Table 12 LOS ANGELES ABRASION VALUES .................................................................... 33
+Table 13 GMM AND GMB REULTS ............................................................................... 35
+Table 14 ITS VALUES OF THE MARSHALL SAMPLES .......................................................... 43
+Table 15 RESEARCH MIX DESIGN............................................................................... 45
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1 COMBINED GRADING CURVE .......................................................................... 27
+Figure 2 XRAY-DIFFRACTOMETRY OF ORGANOPHILIC MONTMORILLONITE ............................... 34
+Figure 3 MARSHALL STABILITY OF OMMT SAMPLES .......................................................... 37
+Figure 4 MARSHALL FLOW OF OMMT SAMPLES ............................................................... 39
+Figure 5 AIR VOIDS OF OMMT SAMPLES ....................................................................... 40
+Figure 6 VOIDS IN MINERAL AGGREGATES OF OMMT SAMPLES ............................................. 41
+Figure 7 VOIDS FILLED WITH BITUMEN OF OMMT SAMPLES ................................................. 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+ABBREVIATIONS AND ACRONYMS
+AC
+-
+ASPHALT CONCRETE
+ACV
+-
+AGGREGATE CRUSHING VALUE
+AIV
+-
+AGGREGATE IMPACT VALUE
+HMA -
+HOT MIX ASPHALT
+ITSR -
+INDIRECT TENSILE STRENGTH RATIO
+LAAV -
+LOS ANGELES ABRASION VALUE
+TFV
+-
+TEN PERCENT FINES VALUE
+VFB
+-
+VOIDS FILLED WITH BITUMEN
+VIB
+-
+VOIDS IN BITUMEN
+VMA
+-
+VOIDS IN MINERAL AGGREGATES
+MMT -
+MONTMORILLONITE NANO CLAY
+OMMT -
+ORGANOPHILIC MONTMORILLONITE NANO CLAY
+UNRA -
+UGANDA NATIONAL ROADS AUTHORITY
+XRD
+-
+X-RAY DIFFRACTION
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION AND BACKGROUND
+Road infrastructure is vital to national economic growth as well as to the social
+development of any country including Uganda. Through its ability to enable trade
+and mobility and access to essential services through its road network system,
+Uganda is able to grow its economy. In Uganda, the road network consists mostly
+of flexible pavements made of conventional bitumen (UNRA, 2023), and serves as
+the backbone of the country's transport sector. Unfortunately, premature failure of
+flexible pavements from the effects of environmental conditions such as cracking,
+rutting and potholes continues to be a problem causing increased costs for
+maintenance, safety concerns, and decreased economic activity (Mugo et al.,
+2021).
+The mechanical properties of asphalt concrete constitute a significant portion of
+the performance of flexible pavements. Heavy traffic on flexible pavements exerts
+repeated axial loadings and therefore flexible pavements must be able to
+withstand the effects of these loads. The bitumen component of a flexible
+pavement must retain enough strength and elasticity to resist both permanent
+deformation and crack fatigue. However, most standard bitumen and its related
+composites typically do not have adequate mechanical strength to withstand the
+stresses associated with heavy vehicle loads,which leads to pavement detoriation.
+Additionally, bitumen is susceptible to thermal and water damage, which further
+reduces the load response capability of the pavement and enables more frequent
+repair and maintenance of flexible pavements (Apeagyei et al., 2018; Kisaaka et
+al., 2022).
+Recent advancements in nano technology of clay have shown montmorillonite
+(MMT) is a viable addition (or modifier) to asphalt. The 2:1 silicate structure of
+MMT combined with its vast surface area allows MMT to be dispersed within the
+binder (asphalts) and to interact with the binder at a much greater rate than
+previously available MMT to create a matrix of intercalated nanoparticulates.
+Intercalated nanoparticulates prevent freedom of movement of the asphalt-bound
+molcules; therefore, increasing the stiffness and shear strength of the asphaltbound products and improving thermodynamic (or thermal) stability compared to
+non-treated MMT forms of montomorillonite.
+
+
+Historically,
+researchers
+have
+studied
+montmorillonite
+using
+untreated
+montmorillonite products – typically exhibiting limited compatibility with
+hydrophobic materials such as asphalt. Furthermore, this investigation involved
+using organo-philic montmorillonite having the organo-philic grade of MMT treated
+with organic cation surface modifiers to create organo-philic montmorillonite
+products with improved dispersion qualities when incorporated into a hydrophobic
+binder such as asphalt and providing an improved binder performance when
+subject to changes in load and thermocycle stresses during use under heavy loads.
+This research evaluated the additive of OMMT Nano clay, on flexible pavement and
+increased the structural integrity, stiffness and shear strength of the asphalt
+products. As a result of incorporating OMMT Nano clay, asphalt products have
+enhanced resistance to deterioration from repetitive loading or repeated axial
+stresses imposed by the weight of heavy commercial vehicle traffic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.1PROBLEM STATEMENT
+The deteriorating of asphalt pavements in Uganda at a rapid rate is because the
+asphalt cannot support the heavy axle loadings being put on it causing rutting,
+fatigue cracking and the destruction of the asphalt due to moisture ingress. The
+creation of ruts is of particular concern because not only does it reduce the
+longevity of the pavement’s service use, but also creates a hazardous situation for
+vehicles operating on the pavement with the potential to create an accident. The
+concentrated stress created by axle loadings directly affects the asphalt pavement
+the weight of the axle acts as a point source of stress on the pavement leading to
+continual deformations occurring throughout the different layers of the asphalt
+pavement. With repeated axle loadings, there will be an accumulation of the
+deformations resulting in an increase of plastic strains developing within the
+asphalt pavement weakening the overall structural integrity of the asphalt
+pavement. The result of this is the creation of ruts throughout the wheel path of
+the asphalt pavement severely reducing the evenness of the pavement surface and
+increasing the hazard to vehicles operating on said pavement (Zhao, Z et al.,
+2020). With heavier axle load requirements for heavier trucks on the market today,
+rutting has become the number one reason for asphalt pavement failure. This has
+led to the need for the development of new and innovative procedures for
+managing and maintaining asphalt pavements.
+Routine maintenance strategies used along the Mukono-Mbalala section of the
+Kampala-Jinja Highway have failed to decrease the amount of rutting that
+continues to occur within the pavement. This section of roadway carries very high
+volumes of heavy commercial vehicles causing the pavement to be subjected to
+extremely high axle loadings and causing the development of permanent
+deformations at the wheel path within the pavement. Due to the amount of
+overloaded vehicles operating on the Mukono-Mbalala section of the Kampala-Jinja
+Highway, the rate of accumulation of plastic strains in the asphalt layers has
+significantly increased; thus causing the rate of rut formation to increase.
+(Kaloush, Rada, and Youcef, 2001)
+This study aims to evaluate the rutting resistance of asphalt concrete modified
+with organophilic Montmorillonite Nanoclay, with a focus on its performance under
+
+
+heavy axle loading. By investigating the effects of nanoclay modification on the
+rheological properties and rutting resistance of asphalt mixtures.
+1.2MAIN OBJECTIVE
+To evaluate the rutting resistance of asphalt concrete modified with organophilic
+montmorillonite Nano clay
+1.2.1SPECIFIC OBJECTIVES
+1. To characterize the properties of oganophilic Montimorillonite Nano clay,
+bitumen and aggregates.
+2. To determine the optimum OMMT Nano clay content to be used in the mix
+3. To determine the mechanical properties and rutting resistance of organophlic
+Montmorillonite nanoclay-modified bitumen
+1.2.2RESERCH QUESTIONS
+1. What are the properties of organophlic Montimorillonite Nano clay, bitumen
+and aggregates.
+2. What is the optimum OMMT Nano clay content to be used in the mix
+3. What are the mechanical properties and rutting resistance of organophilic
+Montmorillonite nanoclay-modified bitumen
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.3SCIENTIFIC JUSTIFICATION
+Repeated axle loading causes a permanent deformation of asphalt pavements,
+resulting in a shorter operational life of the pavement (AASHTO 2017). The usage
+organo-montmorillonite (OMMT) nanoclay to improve the mechanical properties of
+asphalt mixtures will increase their resistance to rutting (You et al. 2011).
+Montmorillonite is a type of clay mineral that has a plate-like structure composed
+of silicate polymers and when dispersed within the bitumen forms either an
+intercalated or exfoliated nanostructure (Jahromi & Khodaii 2009). The
+nanostructure that is formed restricts the movement of molecules thus increasing
+the stiffness of the binder resulting in less deformation under heavy loading giving
+an increase in resistance to rutting (Khattak et al 2013).
+In many studies, raw montmorillonite nanoclay exhibits promising physical
+properties that will enhance the ability of the asphalt mixture to withstand high
+axle loads thus considerably reducing the depth of rutting and increasing the
+performance of the pavement under repeated loading (Liu et al 2018). The
+increased mechanical properties of asphalt mixtures modified with nanoclay can
+also be attributed to improved adhesion of aggregates to the bitumen and their
+improved stiffness and deformation resistance (Wu et al. 2020).
+Overall, the addition of montmorillonite nanoclay into asphalt mixtures can be an
+effective way to improve the ability of the asphalt mixture to withstand rutting
+caused by axle loading therefore extending the lifespan of the pavement and
+reducing maintenance costs.
+
+1.4GEOGRAPHICAL SCOPE
+The scope of this study was along the Mukono-Mbalala stretch along the Kampala-
+Jinja highway
+
+
+
+CHAPTER TWO: LITERATURE REVIEW.
+2.1ROAD PAVEMENTS
+A road pavement is a complex structure that consists of several overlapping layers
+of engineered materials that are deposited over the underlying natural soil.
+According to their statement, its primary role as presented by Tom and Rao (2007)
+is to transfer the vehicle loads that are exerted on the surface to bottom subgrade in a regulated way. In the field of Highway engineering, there are two
+common types of road pavements: flexible pavement and rigid pavement. Flexible
+pavements are made of bituminous binders (that are usually referred to as asphalt
+cement in North America) mixed with aggregates (Ridmika, 2019). Rigid
+pavements, on the contrary, use Portland Cement Concrete as a major building
+material.
+2.1.1FLEXIBLE PAVEMENTS: CONSTRUCTION AND BEHAVIOUR.
+In flexible pavements, they are meant to take these stresses that occur due to
+loading of traffic through a stratified interior structure. The sequence normally
+includes a surface course, base course, a sub-base and sub-grade with each layer
+having a specific dissipation of load. The bituminous surface layer also has a
+smooth, stable riding surface and the layers beneath the surface give resistance to
+the deformation by interlocking together and also by the inherent stiffness of the
+granular material (Zhang et al., 2023). The combination of the low flexural
+strength of these constructions allows them to creep under load and,
+consequently, relieve the peaks of stresses; they regain their elasticity when the
+load is eliminated, which is explained by the viscoelastic characteristics of
+bitumen (Khan et al., 2022). Therefore, pavements of this nature need to be
+resistant to change of climatic conditions, temperature changes, and intrusion of
+moisture that are some of the factors that hasten their degradation. Material
+choice, therefore, does not only rely on the functional classification and the
+intensity of traffic, but depends on the climatic aspect as well (Al‐Qadi and Wang,
+2021). Sturdiness and maintenance in good time are essential in increasing service
+life and achieving stability in performance.
+
+
+2.1.2BITUMEN: CHARACTERISTICS, COMPOUNDS AND APPLICATIONS.
+Asphalt, also known as bitumen in American colloquialism, is a petroleum byproduct or natural mineral, a visco-elastic hydrocarbon (Read and Whiteoak,
+2003). Its behaviour under mechanical loading varies with temperature: at low
+temperatures of loading and high frequency loading it acts like an elastic solid, and
+at high temperatures and low loading rates like a viscous liquid (Anderson et al.,
+2021). This duality demands the emergence of performance enhancing technology.
+Low-temperature cracking and high-temperature rutting mitigation are of special
+concern in the tropical climate, like in Uganda, where bitumen is used as the base
+material in asphalt concrete (Obaid and Al-Mansob, 2022).
+2.1.3CHEMICAL AND RHEOLOGICAL CHARACTERISTICS.
+Bitumen is a complicated structure of hydrocarbons in the form of aliphatic,
+alicyclic, and polyaromatic compounds, supplemented by heteroatoms (O, N, S)
+and traces of metals (vanadium, nickel, and iron) (Lesueur, 2022). According to the
+Nellensteyn model, this is a structure that is filled with asphaltene particles
+dispersing in a resin-stabilised maltene (saturates and aromatics) matrix (Petersen,
+2009). Important rheological characteristics such as viscosity, penetration,
+softening point, and ductility have a direct effect on mixing, compaction, and
+adhesion of aggregates (Airey, 2023). Lack of control in the viscosity may affect
+aggregate coating, and a dynamic shear rheometer (DSR) test measures the viscoelastic reaction to applied simulated traffic conditions (Bahia et al., 2021).
+2.2CHALLENGES AND INNOVATIONS
+The world pavement industry is faced with the rising distresses of rutting and
+cracking, partly due to the increased load on the traffic and extreme climatic
+conditions (Zaumanis et al., 2023). The developing nations are often characterised
+by poor maintenance regimes and thus enhance wear and tear faster resulting in
+the need to use high-performance bitumen. Other advanced methods of analysis,
+such as Fourier Transform Infrared Spectroscopy (FTIR) and Gel Permeation
+Chromatography (GPC), can give information about ageing processes and chemical
+structure
+(Yin
+et
+al.,
+2021),
+whereas
+polymer
+modifiers,
+such
+as
+styrenebutadienestyrene (SBS) and crumb-rubber, can play an important role in
+maximising elasticity and rut resistance (Polacco et al., 2022).
+
+
+2.2.1TERMINOLOGY AND STANDARDS
+According to the American Society of testing and materials (ASTM) D8, bitumen is a
+carbon disulfide-soluble, hydrocarbon-based cementitious substance (ASTM, 2021).
+In Uganda, the nomenclature is that bitumen (the binder) is differentiated with
+asphalt, which is a composite product of bitumen and aggregates (UNRA, 2022).
+2.2.2RUTTING OF ASPHALT PAVEMENTS: CAUSES, MECHANISM, AND RISKS.
+Rutting should be regarded as a severe distress of pavements that are flexible as it
+causes the decline in performance and poses a threat to the safety. The high truck
+traffic, tyres pressure, and the growth of traffic quantities contribute to the
+permanent deformation of asphalt layers in the form of longitudinal depressions
+along the tracks of the wheels (Wang et al., 2023). Repeated loading of structures
+with irreversible strain does not only undermine structural integrity but also
+encourages pooling of water following which activities such as hydroplaning and
+loss of traction become probable (Almeida et al., 2022).
+2.2.2.1TYPES OF RUTTING
+Rutting generally breaks off into two major types:
+1. Subgrade Rutting - occurs when the underlying layers (sub -grade or
+foundations) degenerate excessively, which is normally caused by inadequate
+pavement depth or structural support. The form is more common in thin
+pavements that have higher loads with the stresses induced by the load exceeding
+the bearing capacity of the sub-grade (Zhou et al., 2021).
+2. Hot Mix Asphalt (HMA) Rutting: This phenomenon develops as a result of plastic
+deformation of asphalt layer itself, and this may be due to poor mix design, break
+even due to improper compaction or high-temperature susceptibility. It is in
+contrast to subgrade rutting where HMA rutting may take place even with constant
+underlying layers (Khan et al., 2023).
+The current research focuses on the rutting of HMA, which is basically caused by
+recurrent heavy axle weights, excessive pavement temperatures (lowening the
+asphalt stiffness) and inadequate quality of binder or aggregates that causes poor
+shear resistance. Highly developed tests of materials and refined mix designs,
+
+
+including polymer-modified binders and high-performance aggregates, have been
+found to be effective in rutting mitigation of HMA (Ghabchi et al., 2022).
+2.2.2.2ASPHALT MIXTURES TESTING PROCEDURES: RUTTING.
+Rutting resistance forms a crucial performance indicator of pavements made of
+asphalt. To test this property, a number of standardised laboratory tests are used.
+The most common methods are the following:
+1. Asphalt Mixture Performance Tester (AMPT)
+This apparatus measures rutting susceptibility in terms of flow number, which
+represents the onset of the tertiary flow or permanent shear deformation and in
+turn, the dynamic modulus; which is critical for mechanistic-empirical pavement
+design (NCHRP, 2021). Request testing is done at repeated compressive loads
+controlled at different temperatures.
+2. For example: Scotland Burger Wheel Tracking Machine (HWTD).
+By rolling a steel wheel over a specimen of asphalt submerged in water and water,
+this device simulates the loading of traffic, so it evaluates the level of resistance
+of moisture damage and rutting. Accelerated deformation in such a setup is an
+indication of stripping susceptibility (AASHTO T 324, 2021). The device provides a
+way to track the progression of depth of rut over thousands of cycles.
+3. An initial step in prosecuting these firms was completed when the Asphalt
+Pavement Analyzer (APA) discovered numerous plants applied a component
+containing elevated tetane levels.<|human|>Asphalt Pavement Analyzer (APA) was
+one of the first steps taken in piling up charges on these firms when the Asphalt
+Pavement Analyzer (APA) test found more than a dozen of plants used a compound
+with higher levels of tetane.
+Utilising a loaded aluminium wheel during pressurised hose operation, the APA
+simulates the traffic condition and determines the rut depth after a predetermined
+number of cycles and thereby, provides a comparative assessment of the mix's
+stability (West et al., 2022).
+
+
+2.3NANOCLAYS: MATERIALS, PREPARATION AND USES.
+Nanoclays are a class of nanomaterials of layered mineral silicates, with
+dimensions capable of being less than 100 nm for each. Their exceptional
+structures and physicochemical characteristics have received huge interests as
+useful additives in polymer composites, green remedial efforts, biomedical
+engineering, and energy storage (Giannakas et al., 2021). The high surface area,
+exceptional aspect ratio, and tunable surface chemistry of them make them very
+effective for improving the mechanical strength, thermal stability and barrier
+properties of composite materials (Kausar, 2022).
+2.3.1STRUCTURE AND COMPOSITION
+Nanoclays consist of stacked layered units, which mostly consist of:
+Tetrahexahedron shapes In this case, each tetrahedron uses 3 oxygen atoms that
+have an oxygen atom with its neighbors, creating a two dimensional sheet.
+Octahedral sheets (aluminium/magnesium- oxygen-hydroxyl = Al/MgO6) - these
+sheets are covalently attached to tetrahedral layers hence forming a lamellar
+structure (Bergaya & Lagaly, 2023).
+This arrangement of these sheets defines the type of nanoclay (e.g.,
+montmorillonite, kaolinite or halloysite), which in turn affects the properties such
+as cation exchange capacity and swelling behaviour (Zhou et al.,oda, 2021).
+These materials have been integrated to polymer nanocomposites where they are
+used to enhance tensile strength, flame retardant and gas barrier properties (Kotal
+& Bhowmick, 2021); used for environmental remediation due to their effectiveness
+in adsorbing heavy metals and organic pollutants (Unuabonah & Taubert, 2022) in
+wastewater; and have medical engineering applications such as drug delivery,
+wound dressing and tissue scaffolds due to their biocompatibility (Gaharwar et al
+2023).
+2.3.2NANOCLAYS: TYPES, PROPERTIES AND CLASSIFICATION.
+Nanoclays are classified into classes according to their electrochemical charge
+property as anionic, neutral, and cationic, and are classified as follows because
+they have different structural and functional properties: each class has unique
+characteristics for a specific use.
+
+
+A unique feature of anionic nanoclays, in particular of layered double hydroxides
+(LDHs), is the presence of positively charged octahedral sheets containing divalent
+(Mg, Zn) and trivalent (Al, Fe) metal cations with charge balancing anions (CO3^2-,
+NO3-, Cl-) located in the interlayer space (Wang et al., 2021). These nanoclays
+have excellent anion exchange capacity that make them valuable for
+environmental remediation particularly for the removal of pollutants like
+phosphate and arsenic from wastewater. The advantages of them are their thermal
+stability and pH-responsiveness according to flame-retard polymer uses and
+controlled drug delivery (Cao et al., 2022; Rives et al., 2023).
+Kaolinites and talc are neutral nanoclays that are associated with either 1:1 or 2: 1
+layer structures and weakly electrochemical charges. In the 1:1 configuration, one
+tetrahedral (SiO4) sheet is bonded with a single octahedral (AlO6) sheet. 2:1
+configuration is composed of two tetrahedral sheets sandwiching an octahedral
+(MgO6) sheet (Murray, 2021). Owing to their low surface charge and low swelling
+capacity, these nanoclays are chemically inert and hence employed in the
+production of ceramics, paper coatings, as well as reinforcing fillers in polymers
+composites where there is need for electrical neutrality (Bergaya et al., 2022).
+Cationic nanoclays, as montmorillonite and vermiculite, for example, have a 2:1
+layered structure with a permanent negative charge (0.2-2 per unit cell) due to
+isomorphous substitutions in the tetrahedral sheets or in the octahedral sheets
+(e.g. Al3+ for Si4+). This imbalance of charges is replaced by exchangeable cations
+(Na+, Ca++, K+) in the interlayer space and gives these materials a high cation
+exchange capacity. Such attributes make cationic nanoclays especially useful for
+heavy metal adsorption in water treatment, as rheology modifiers in drilling fluids
+and reinforcing agents in polymer nanocomposites to improve their barrier
+properties in food packaging applications (Unuabonah et al., 2021; Giannakas
+et al., 2022).
+The unique properties of these nanoclay types ranging from anion exchange
+capacity provided by LDHs up to the cation exchange capacity of smectites and
+chemical inertness of kaolinites enable their use in various fields of applications
+from environmental engineering through to materials science and biomedical
+applications.
+
+
+
+Figure 1TETRAHEDRAL-OCTAHEDRAL SHEETS OF MONTMORILLONITE
+2.3.3MONTMORILLONITE
+In Montmorillonite, the chemical composition divides nanoclay minerals (Smectite
+Group) into two different categories based on their structure. The formula is Na,
+Ca) 0.33 (Al, Mg) 2 (Si 4 O 10) (OH) 2.nH 2 O.Montmorillonite has a unique
+combination of uses and properties due to its ability to hold cations, swell when
+wet, and adsorb gases and pa flammables like mercury (Bergaya and Lagaly, 2013).
+The montmorillonite mineral found in bentonite deposits is derived from the
+weathering of volcanic ash and can be used as an additive in polymer composites
+as a replacement for fiberglass to improve the strength of the products and
+decrease the overall weight of these reinforced plastics. Because of its ability to
+release water when heated, montmorillonite provides a flame-retardant feature in
+plastics or coatings that would otherwise burn easily (Kotal and Bhowmick, 2015;
+Leszczyńska et al., 2021).
+Due to its significantly high surface area and Cation Exchange capacity (CEC),
+montmorillonite can efficiently remove heavy metals and harmful organic
+pollutants in the environment by sorbing them. Examples of how montmorillonite
+can be used in agriculture include soil amendment and enhancing soil's ability to
+retain moisture (Uddin, 2017). Additionally, montmorillonite can act as a catalyst
+because of its unique ability to support other materials through ion exchange and
+sol-gel preparation (Zango et al., 2022). Recent work has shown that
+montmorillonite can enhance the performance of polymer nanocomposites by
+improving their thermal stability, barrier properties and biodegradation
+
+
+characteristics (Mallakpour et al., 2023), whilst Saba et al. (2021) have shown that
+montmorillonite can also provide substantial benefits in the automotive and
+aerospace sectors through the reduction in vehicle weight and improvement in
+mechanical properties. The unique capabilities of montmorillonite make it a
+revolutionary material in various construction, packaging and chemical industries,
+with many ongoing research projects that are developing further applications for
+montmorillonite using advanced modification techniques (Hussain et al., 2022).
+
+Figure 2 organophilic montmorillonite nanoclay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.1MATERIAL SELECTION AND PREPARATION
+3.1.1BITUMEN
+The grade of bitumen that was used in this study was 60/70 due to its
+thermoplastic property which causes the material to soften at high temperatures
+and harden at lower temperatures and used in hot climates because due to its
+durability against heavy traffic loads.
+3.1.2AGGREGATES
+Aggregates selected were the ones in the asphaltic concrete wearing course (AC
+14). Indicating that the nominal size of aggregates is 14mm. Grading tests on
+aggregates to ensure that the nominal size of aggregates is 14 mm with reference
+to HMA 007-02. AC 14 was chosen to be used in asphalt because of its ability to
+carry loads of up to 10,000 kgs, making it ideal for larger projects where durability
+and strength are a priority. AC 14 has an excellent skid resistance. The
+combination of the components in AC 14 creates a surface that is flexible enough
+to allow for temperature fluctuations without cracking.
+3.1.3ORGANOPHILIC MONTMORILLONITE
+The OMMT was obtained in its readily modified form from the raw MMT into the
+fine nano size OMMT from a certified supplier.
+3.2To characterize the properties of organophilic Montimorillonite Nano Clay,
+Bitumen, and Aggregate
+3.2.1TEST ON ORGANOPHILIC MONTIMORILLONITE NANO CLAY
+The OMMT clay was characterized for its hydrophilic surface properties, ability to
+absorb and exchange cationic ions, and its reactivity to heat. In order to establish
+the characteristics of organophilic Montimorillonite Nano clay, X-ray diffraction
+(XRD) was conducted. This method is an analytical method that does not change
+the surface of the material being investigated, and is used primarily to determine
+the atomic and molecular structure of substances that are crystalline in form
+(Cullity and Stock, 2001; Patterson et al., 2017).
+The procedure followed to conduct X-ray Diffraction (XRD) analysis on Organophilic
+Montmorillonite (MMT) Nano Clay;
+
+
+1.
+A nanoclay sample for XRD analysis was prepared by heating the nanoclay
+sample into a fine powder, which will provide a random orientation of the
+crystallites (Patterson et al., 2017) and prepared for inclusion in the sample
+holder.
+2.
+Once placed into the sample holder, the sample holder was mounted to a
+goniometer stage that was a part of the XRD instrument.
+3.
+Once the sample holder was mounted to the goniometer stage, the XRD
+instrument consisted of an X-ray source, a sample holder, and a detector.
+4.
+The X-ray source emitted X-rays that passed through the sample holder,
+which in turn created a series of diffraction patterns that were captured by a
+detector (Cullity and Stock, 2001). The sample was exposed to X-rays for a
+specified length of time as described by the capabilities of the XRD instrument.
+In order to characterize the nanoclay's crystalline structure and phase composition,
+diffracted X-rays were recorded and plotted as a function of the angle (2θ)
+between the incident beam and the detector site. The resulting plot, intensity
+versus 2θ, contains valuable information about the nanoclay's configuration, as
+reported in Bergaya and Lagaly (2013). Subsequently, the intensity versus 2θ plots
+were analysed using software programs, including either DIFFRAC.SUITE or
+HighScore Plus (Bruker, 2021). At the conclusion of IDF and XRD analyses of the
+sample nanoclay, the analyst can derive an estimate of the sample's crystallite
+sizes and lattice parameters, as well as assess whether the sample contains any
+impurities.
+3.2.2CHARACTERISATION OF BITUMEN
+The properties of bitumen were obtained through, the penetration test (ASTM D5-
+86), softening point (ASTM D36-70), viscosity (ASTM D2170).
+3.2.2.1THE PENETRATION TEST ASTM D5-86.
+The Penetration Test consists of a standardized experiment to determine how deep
+a weighted (50 g) tapered needle, placed vertically above the sample in a
+temperature-controlled environment at 25°C, will penetrate into the sample
+during five seconds of exposure to the temperature. A high penetration rate
+
+
+indicates that the sample is soft; conversely, a low penetration rate indicates that
+the sample is relatively hardness.
+3.2.2.2SOFTENING POINT TEST. ASTM D 36
+Softening point is the temperature at which bitumen attains a particular degree of
+softening under specified conditions of the test. This helps in classifying bitumen,
+evaluating tendency of the material to flow at elevated temperatures encountered
+in service.
+3.2.2.3SPECIFIC GRAVITY OF BITUMEN. ASTM D-70.
+The specific gravity is integral in determining the appropriate bitumen grade for
+asphalt mix designs, influencing the selection of penetration or viscosity grades
+and also plays a crucial role in calculating volume-correction factors, ensuring
+accurate volume measurements in mix designs. The specific gravity establishes
+compatibility between bitumen and aggregates, influencing coating, adhesion, and
+overall performance of the asphalt mixture.
+3.2.3TESTING ON AGGREGATES
+Aggregates were evaluated using the following techniques: BS 812-P103-1 (Sieve),
+BS 812-112 (Impact), and BS 812-113 (Abrasion).
+3.2.3.1SIEVE AND GRADING TESTS, BS 812-P103-1:
+Sieve and grading tests are used to classify different types of aggregates based on
+particle size. From this information, the predominant aggregate will be
+determined, i.e. gravel, sand, silt, clay; the degree to which each of the four
+groups contributes to the aggregate's mechanical properties can be estimated.
+3.2.3.2AGGREGATE CRUSHING VALUE BS 812: PART 110: 1990:
+The strength of aggregates can be determined by performing the Aggregate
+Crushing Value (ACV) test. An aggregate's ACV indicates how resistant it will be to
+crushing under an increasing load; the ACV is determined by taking a sample from
+the crushed material and passing it through a specified size sieve with 400 kN.
+3.2.3.3LOS ANGELES ABRASION TEST - ASTM C 131-89:
+Repeated loading on pavement by vehicles exhibits a wear effect on stones on the
+pavement surface. Hence the most important physical property to consider is the
+resistance to wear, (sometimes referred to as hardness), of the aggregate when
+
+
+used in the wear course of asphalt pavements. Performance of this test allows for
+the evaluation of mineral aggregate degradation due to combined actions of
+abrasion.
+3.2.3.4SPECIFIC GRAVITY OF AGGREGATES ACCORDING TO BS812 PART 2: 1975
+This test used to calculate the volumetric properties of an asphalt mix. This
+includes air voids, VMA (voids in mineral aggregate) and VFA (voids filled with
+asphalt).
+3.2.3.5THE AGGREGATE IMPACT VALUE, AS DESCRIBED IN BS812 PART 112:
+1990.
+This test is an indicator of how resistant aggregate is to sudden shock or impact.
+Road-building aggregates must have sufficient strength to support the loads placed
+on them by the wheels of vehicles travelling over them.
+3.3To determine the optimum organophilic MMT Nano clay content to be used in
+the mix
+To identify how much organophilic MMT nano clay to use in a mix the following
+tests were conducted. Samples of asphalt with different amounts of bitumen were
+made and compacted. Each of these asphalt mixes were tested for ; stability
+(ASTM D6927), flow (ASTM D6927), Bulk density (ASTM D2726), air voids, and VMA
+(ASTM D2041) per sample. The bitumen content yielding the best combination of
+performance were taken as the optimum bitumen content used in that particular
+sample.
+A systematic testing procedure was used to determine the maximum percentage of
+organophilic montmorillonite nano clay to add to asphalt mixes. The aim is to
+determine the percentage of OMMT nano clay that enhances the performance of
+the bitumen.
+Preparation of Samples
+•
+Sample asphalt mixtures containing various percentages of OMMT Nanoclay
+0%, 0.5%, 1% and 1.5% by weight of of the total mix.
+•
+. For each OMMT percentage, 392 g of 60/70 penetration grade bitumen
+which is 4.9% of the total 8,000g mix was heated to between 150°C and 160°C and
+rotation of 3000rpm for 20-30 minutes to enable adequate mixing.
+
+
+•
+Asphalt samples were then compacted using marshall compactors; (ASTM-D
+6926).
+2. Key Tests Used to Evaluate Performance
+The additional tests that were performed on each compacted asphalt sample, were
+used to determine the optimum level of OMMT Nanoclay content;
+3.3.1MARSHALL STABILITY AND FLOW TEST (ASTM-D 6927)
+The Marshall Stability and Flow Test measured the compressive strength of an
+asphalt mixture and represented its resistance to deformation under load. In the
+Marshall Stability Test, 60 degrees celcius is applied as the temperature under
+simulated high temperature pavement conditions, and a consistent loading rate of
+50.8 mm/min up to failure is used to perform the Marshall Stability Test. The test
+yielded two parameters, the Marshall Stability (in Kilo-Newtons) as well as the
+Marshall Flow (in mm). The higher the representative Marshall Stability is, the
+more rut resistant the asphalt is expected to be. The representative flow should
+ideally be between 2-4 mm, which indicates a balance between Stiffness and
+Flexibility, to avoid excessive brittleness or deformation of the product.
+3.3.2BULK SPECIFIC GRAVITY & DENSITY (ASTM D2726)
+The test conducted under ASTM D2726 proves the existence of a compatibility and
+voids within an asphalt mixture. The process of weighing a sample in both air and
+in water under saturated surface-dry provides the bulk specific gravity of the
+asphalt concrete or Gmb. A higher value of Gmb signifies that there is greater
+compaction and less voids filled with air, which also promotes higher durability and
+provides greater resistance to moisture entering the material. Proper compaction
+allows for the mix to be able to withstand the stresses of traffic without
+experiencing excessive deformation.
+3.3.3AIR VOIDS (AV) & VOIDS IN MINERAL AGGREGATE (VMA) (ASTM D3203 /
+D2041)
+The voids within an asphalt mixture are a vital part of the overall durability and
+resistance to moisture damage. The Void in Mineral Aggregate test and Air Voids
+test are performed per ASTM D3203 and ASTM D2041 respectively. The Air Voids
+(AV) are the percentage difference between the theoretical maximum density and
+the bulk density and should be in the range of 3 – 5 %. Too few air voids will cause
+
+
+rutting and too many will create a situation where moisture will penetrate the
+material. The VMA (Voids in Mineral Aggregate) test determines the amount of void
+space between aggregates and is filled with binder and air. The VMA should be at
+least 14% to be considered sufficient to coat the aggregates with binder to prevent
+premature cracking and stripping.
+3.3.4DETERMINING OPTIMAL OMMT CONTENT TO BE ADDED.
+The amount of OMMT in Bitumen was determined to be suitable based on the
+results from testing of samples with varying levels of MMT. The best type of OMMT
+mixture had;
+1. Highest Marshall Stability within the specified standards indicating that the
+sample has the ability to resist excessive amounts of rutting.
+2. A Flow value between 2-4 mm. This indicated that there is enough flexibility in
+the sample while also providing adequate resistance to deformities when placed
+under traffic loads.
+3. An Air Voids percentage of 3-5% and VMA percentage of >= 14% to meet the
+require value necessary for long-term performance.
+4. Highest ITS and TSR strengths represented superior cracking and moisture
+resistances of samples containing OMMT.
+
+3.4To determine the mechanical properties and rutting resistance of Organophilic
+Montmorillonite nanoclay modified bitumen.
+
+3.4.1THE INDIRECT TENSILE STRENGTH (ITS) TEST (ASTM D6931)
+This test provided information on a mixture's ability to resist crack formation and
+indicated moisture effects on the sample through the application of a diametrical
+tensile load until failing to measure the ITS value of the sample to show the degree
+of tensile resistance capacity of the mixture.
+The ITS (Indirect Tensile Strength) value is an indicator of how well an asphalt
+mixture can resist thermal and fatigue cracks. A higher ITS value indicated that a
+mixture was more resistant to cracking due to either heat or fatigue.
+
+
+3.4.2MOISTURE SUSCEPTIBILITY (AASHTO T 283 / ASTM D4867)
+The Moisture Damage Test also known as the TSR test was used to measure the
+effect of moisture on the Tensile Strength Ratio (or TSR) of a modified asphalt
+mixture. It involved subjecting prepared sample pieces of the mixture to freezethaw cycles before analyzing their indirect tensile strength (ITS). In this test, the
+minimum prescribed TSR value is 80%.
+The combined effect of both these tests indicated that when modified with
+nanoclay, the mixture was able to maintain sufficient tensile strength even after
+exposure to water. In addition, because of their unique chemistry, nanoclays tend
+to enhance the performance of the variants used for asphalt cement's adhesion to
+treated aggregates while also improving the ability of those aggregates to drain
+away moisture efficiently.
+Asphalt mixtures made with Nano Clay were tested to determine if it is effectively
+utilized to increase their performance for “Rutting Resistance” (Permanent
+Deformation) & “Stripping Resistance” (Water Damage). Standard tests were
+utilized to evaluate Asphalt Mixtures. Following are summaries of some of the
+various types of tests and testing procedures:
+3.4.3WHEEL TRACKING TEST (EN 12697-22/AASHTO T 324/ASTM D 7064)
+The Wheel Tracking test (WTT) was developed to determine the amount of vertical
+deflection of the Surface of Asphalt Specimens caused by the repeated application
+of Load, in conjunction with the simulation of real-world traffic conditions, to
+evaluate the amount of Rutting (Vertical Deformation) of the Specimen being
+tested. During the test, a Load Wheel is rolled across a Compacted Slab of Asphalt
+or a Cylindrical Sample held at a controlled Temperature (50-60°C) to determine
+the Rutting Depth of the asphalt material. The WTT test consists of numerous
+Repetitive cycles, and the Data collected during the WTT test is utilized to
+determine the Rate at which Ruts will form, thereby providing an estimate of the
+Rut Resistance of the asphalt mixture being evaluated. Generally, mixtures that
+are modified with Nano Clay demonstrate reduced Rut Depths attributed to the
+increase in stiffness and stability of the Binder material.
+
+
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.1 Introduction
+The results from this study, presented in this chapter, show how various tests were
+completed for objectives one through three and the outcome associated with
+them. The goal of objective one was to determine the characteristics of
+organophilic montmorillonite, bitumen, and aggregate materials; therefore, tests
+were performed on these materials using different test methods including: X-Ray
+diffraction, aggregate crushing, aggregate impact, ten percent fines, flakiness
+index and grading for aggregate testing and softening point, penetration, flash
+point and specific gravity for testing of bitumen material.
+4.2PROPERTIES OF BITUMEN
+TABLE 1PROPERTIES OF BITUMEN
+
+The table above shows a summary of results obtained from tests done which
+include; Softening Point, Penetration, Specific Gravity for bitumen compared to
+the standards and are explained below;
+4.2.1PENETRATION OF BITUMEN
+Test results from the penetration test reveal that the average (0.1 mm)
+penetration value of this research's bitumen (60/70) is 68 and indicating that it is
+located within the British Standard's specification of 60–70. The individual readings
+of the penetration test show little variation from each other, indicating that the
+
+
+produced bitumen is a uniform and stable binder. Furthermore, the results show
+that the penetration value of the binder is close to the upper limit of the
+specification and is indicative of its ability to maintain a moderate degree of
+softness (at 25°C) for use during the mixing and compaction process while also
+offering adequate adhesion properties between the aggregates. In general, this is
+typical of binders used in tropical regions where binders must be flexible enough
+to accommodate low-temperature fluctuations throughout the day (Read and
+Whiteoak 2003).
+Table 2 PENETRATION OF BITUMEN
+PENETRATION
+(5 SECONDS) AT 25OC
+AVERAGE RESULTS (0C)
+60-70
+
+4..2.2BITUMEN SOFTENING POINT TEST
+This involves the determination of the semi-solid-to-fluid temperature of bitumen
+after heating, under controlled conditions. The average softening point was
+determined from the softening point of two rings (Ring-and-Ball). Ring 1 softened
+to 53°C; Ring 2 softened to 54°C. The average softening point was 53.5°C. This
+softening point was very much in line with the temperature range for bitumen with
+a penetration grade of 60/70 (49-56°C) as outlined by British Standards (BS 2000,
+2003). The close agreement of both ring results indicated good thermal uniformity
+and consistency between the binder samples, thus indicating that prior to the
+softening point determination there was no indication that the binder had
+experienced significant oxidation and/or contamination.Softening point results
+indicate that the binder is relatively stiff under moderately high pavement
+temperatures. As such, a higher softening point in hotter climates is preferred to
+
+
+assist in limiting the asphalt's potential for excessive flow or rutting under higher
+temperatures (Huang, 2012).
+TABLE 3SOFTENING POINT OF BITUMEN
+RING 1
+RING 2
+TIME (MINUTES)
+TEMP
+(0C)
+TEMP RISE
+(0C)
+TIME (MINUTES)
+TEMP
+(0C)
+TEMP
+RISE(0C)
+SOFTENING POINT
+SOFTENING
+POINT
+AVERAGE VALUE
+53.5
+RECOMMENDED
+(BRITISH STANDARDS)
+(49-56)0C
+
+
+4.2.3BITUMEN SPECIFIC GRAVITY
+Bitumen specific gravity testing provided a Specific Gravity of 1.025. This value
+falls within the British Standards minimum to maximum limit of 1.01 - 1.06. A high
+specific gravity indicates that the bitumen has a suitable density relative to the
+water and will have good quality and refined properties. Additionally, the specific
+gravity of an asphalt mix is important as it will have an impact on the volumetric
+design, binder content determination, and mixture stability (Huang, 2012). A
+Specific Gravity of approximately 1.02 indicates that the bitumen has not been
+subjected to too much dilution of the lighter fractions or too much aging and
+therefore both of these factors will greatly affect its performance. The specific
+gravity value obtained from this study fit well within the expected specification
+limits, indicating that the binder used in this research study is viable for producing
+dense, well-compacted asphalt concrete.
+
+
+
+
+
+4.3PROPERTIES OF AGGREGATES
+Table 4 PROPERTIES OF AGGREGATES
+
+The table above shows a summary of results obtained from tests done which
+include; Aggregate Crushing Value, Aggregate Impact Value, Ten Percent Fines
+Value, Flakiness Index and Grading for aggregates compared to the standards and
+are explained below;
+4.3.1GRADATION OF AGGREGATES
+Gradation analysis was performed to evaluate if the combined aggregates are
+within the recommended range of particle sizes for asphalt concrete
+manufacturing. The blended final gradation corresponds closely with the target
+gradation envelope showing an excellent balance of coarse aggregate/fine
+aggregate/mineral filler elements.
+From the larger sieve sizes (20 mm and 14 mm), the percentage that passed
+through falls into the acceptable specification limits indicating that there is
+sufficient quantity and coarsening of the coarse aggregates. The intermediate
+sieve sizes (10 mm, 5 mm, and 2.36 mm) showed that the gradation remains
+consistent with the target curve displaying a gradual progression of particle size.
+
+
+This gradation consistency ensures that the aggregate particles lock together
+properly providing for greater strength and stability.
+Regarding the finer fractions of aggregate, (0.6 mm, 0.3 mm, and 0.075
+mm sieve sizes) the amount of retained material is within the
+recommended limits. The fine aggregate content is below the maximum
+limit which indicates the asphalt concrete is unlikely to have excessive
+demand for a binder, inadequate stability, or poor moisture resistance. At
+the same time, there were sufficient fines present to fill voids and promote
+a dense, well-graded structure.
+
+Table 5 GRADATION OF AGGREGATES
+Sieve
+Size
+14/20MM 10/14MM 6/10MM 0/6MM FILLER Theoretical
+actual
+TARGET
+GRADING
+BRITISH
+STANDARDS
+98.6
+99.4
+80-100
+18.7
+70.3
+99.4
+60-80
+1.6
+18.7
+93.9
+50-70
+0.4
+1.3
+6.6
+83.0
+36-56
+2.36
+0.4
+0.9
+5.1
+53.7
+28-44
+1.18
+0.4
+0.8
+4.3
+37.4
+20-34
+0.6
+0.4
+0.7
+3.6
+27.3
+99.8
+15-27
+0.3
+0.4
+0.6
+3.0
+19.1
+95.8
+10-20
+0.15
+0.4
+0.5
+2.5
+12.0
+79.7
+5-13
+0.075 0.4
+0.4
+2.2
+6.5
+58.4
+2-6
+
+
+
+
+Figure 3 COMBINED GRADING CURVE
+
+4.3.2AGGREGATE CRUSHING VALUE (ACV)
+Aggregate crushing value is an indicator of the aggregate's ability to withstand
+pressure as it is a measure of how much an aggregate can tolerate compressive
+loads without collapsing. As the test progresses, an aggregate sample is
+progressively loaded until it breaks. After the sample has broken, the total amount
+of fines produced is measured. The testing method conforms to the requirements
+set forth in BS 812 Part 111:1990. An aggregate crushing value of 15.8%, which is
+lower than the specified limit, indicated that the aggregates can withstand gradual
+loading with minimal breakage. Therefore, there will be fewer fines produced
+during construction, impacting the pavement's durability. Furthermore, fewer fines
+will be produced during Marshall compaction testing, which may adversely affect
+the mix design by altering the stability and volumetric properties of the mix.
+Aggregates with lower aggregate crushing values produce stronger aggregates.
+Table 6 AGGRGATE CRUSHING VALUE
+SAMPLE
+WT. BEFORE CRUSHING (g)
+2751.1
+2753.2
+
+
+WT. WT. AFTER CRUSHING (g)
+2752.4
+WT. RETAINED AFTER CRUSHING (g)
+2318.9
+WT. PASSING SIEVE 2.36mm
+435.1
+434.3
+A.C.V (%) (D/B)*100
+15.8
+15.8
+AVERAGE RESULTS %
+15.8
+<30%
+
+4.3.3AGGREGATE IMPACT VALUE (AIV)
+The 15.0% Aggregate Impact Value exceeded the target and indicated that the
+aggregates have enough strength to withstand shock due to sudden impact. So,
+there will likely be fewer fine particles produced that could affect the long-term
+durability of the roadway. There will also likely be fewer fine particles formed
+when conducting Marshall Compaction tests that could negatively impact both
+stability as well as volumetric properties of the mix, resulting in an inaccurate mix
+design. The lower the Aggregate Impact Value, the greater the aggregate's
+resistance to impact.
+
+Table 7 AGGREGATE IMPACT VALUE
+SAMPLE
+WT. BEFORE TEST (g)
+347.5
+337.7
+WT. WT. AFTER TEST (g)
+344.5
+337.5
+WT. RETAINED AFTER TEST (g)
+296.2
+286.8
+WT. PASSING SIEVE 2.36mm
+51.3
+50.9
+A.I.V (%) (D/B)*100
+14.9
+15.1
+
+
+AVERAGE RESULTS %
+15.0
+<30%
+
+The expected value of the aggregate impact value (AIV) was calculated using the
+average of approximately fifteen percent average loss of all samples, which is
+significantly lower than the maximum allowed under British Standards of 30% for
+aggregate used to make up asphalt concrete. The low values of AIV exhibited by
+the tested materials indicate that the materials are tough and can withstand
+sudden shocks and impact loads. The very small difference in aggregate impact
+value between the two representative samples further reinforces the general
+quality consistency of the material. Therefore, aggregates have sufficient
+strengths to support the dynamic loads that pavements are subjected to.
+4.3.4SPECIFIC GRAVITY OF AGGREGATES
+The specific gravity of coarse aggregate particles used in the asphalt concrete mix
+was determined through a laboratory-based procedure. The results indicated that
+the bulk specific gravity of the coarse aggregates was 2.621, and it was also
+determined that the apparent specific gravity of the coarse aggregates was 2.638.
+Therefore, the SSD basis for this aggregate was determined to be 2.627, and the
+measured water absorption rate of 0.2% indicates that these aggregate particles
+possess a dense structure with very few intern particles about them, which provide
+better protection from continued crushing and wear from traffic loads than do the
+more porous aggregates.
+Table 8 SPECIFIC GRAVITY OF AGGREGATES
+Aggregate size
+20-14mm
+14-10mm
+10-6mm
+6-0mm
+Filler
+Bulk SG
+2.621
+2.632
+2.633
+2.632
+2.653
+Combined SG
+2.634
+Water Absorption (%)
+0.2
+0.4
+0.5
+0.6
+
+
+Combined (%)
+0.4
+Standard (BS 812-2: 1995)
+<2%
+
+The measured water absorption value of 0.2% indicated that this aggregate has a
+low level of porosity and is, therefore, unlikely to absorb water. BS 812: Part 2
+(1995) states that aggregates that absorb less than 1% by dry weight of water are
+classified as high-quality materials and that a high rate of water absorption can
+result in a poor bond with bitumen and early failure from stripping due to water
+(Roberts et al., 1996). Therefore, these aggregates provide an excellent
+combination of durability and moisture resistance needed to maintain long-term
+pavement stability.
+The amount of water that can be absorbed from the binder of the aggregates and
+the amount of aggregate that is present in the asphalt concrete will affect its
+performance. The values of water absorption refer to the total number of
+aggregate particles that have been in contact with water. The values should not
+exceed 2% of the weight of the aggregate for the purpose of using them in asphalt
+concrete surfacing. Therefore, the aggregates tested are acceptable for use based
+upon their specific gravity and water absorption.
+According to standard BS 812:105, aggregates, which contain more than 25% flaky
+or elongated particles, should not be used as coarse aggregates. The coarse
+aggregates t contained less than 19.40%, flaky or elongated particles hence are
+more efficient and desirable for use in asphalt concrete surfacing. This means that
+the aggregates are more angular in shape, allowing for more interlocking to occur
+between the aggregates, providing better stability and volumetric properties to
+the asphalt concrete.
+4.3.5TEN PERCENT FINES VALUE (TFV)
+It is preferable for aggregates to have a high "Ten Percent Fines Value," (TFV)
+because this indicates that they are highly resistant to crushing, which positively
+contributes to the quality, durability, and performance of the asphalt concrete.
+For both the dry and wet conditions, tested aggregates had a TFV of greater than
+
+
+110 kN, which is the minimum recommended ten percent fine value for asphalt
+concrete.
+The High 10% Fines Value of the aggregates is preferred because that number
+indicates how much the aggregate can withstand compression forces (crushed).
+Aggregates that are strong enough to carry the weight of the asphalt will produce a
+more robust and durable overall mixture of materials to withstand traffic loads.
+The results for both dry and soaked conditions have been included in Tables 9 and
+10, respectively.
+Table 9 10% FINES VALUE DRY OF AGGREGATES
+CRUSHING FORCE (KN)
+WT. OF AGG AFTER CRUSHING,M1 (g)
+2754.2
+WT. OF AGG RETAINED ON 2.36mm SIEVE, M3 (g)
+WT. OF AGG PASSING THROUGH 2.36mm SIEVE, M2(g) 293
+291.3
+TEN % FINE VALUE (M=M2/M3*100)
+10.7
+10.6
+AVERAGE RESULTS
+10.7
+AVERAGE CRUSHING FORCE (KN)
+TFV DRY (KN)
+255.6
+STANDARD (BS 812-111: 1990)
+>110KN
+
+Table 10 10% FINES VALUE SOAKED OF AGGREGATES
+CRUSHING FORCE (KN)
+WT. OF AGG AFTER CRUSHING,M1 (g)
+2792.2
+2770.6
+WT. OF AGG RETAINED ON 2.36mm SIEVE, M3 (g)
+WT. OF AGG PASSING THROUGH 2.36mm SIEVE, M2(g) 349.2
+345.6
+
+
+TEN % FINE VALUE (M=M2/M3*100)
+12.6
+12.5
+AVERAGE RESULTS
+12.5
+AVERAGE CRUSHING FORCE (KN)
+TFV SOAKED (KN)
+226.6
+STANDARD (BS 812-111: 1990)
+>110KN
+
+Dry and saturated revisit obtained TFV more than 110kN, which is the minimum
+value for aggregates used in asphalt concrete surfacing. In fact, that the W/D
+strength ratio for the aggregate in table 11 exceeds the recommended value of 75%
+set out by the British standards indicates that the aggregates still retain
+substantial strength when subjected to moisture / saturation and therefore will be
+able to withstand crushing under traffic loading (MoWHC, 2005).
+Table 11 WET/DRY RATIO
+Sample
+Dry
+Wet
+Wet/Dry ratio
+Force (KN)
+255.6
+226.6
+Standard (BS 812-111)
+>75%
+
+
+4.3.6LOS ANGELES ABRASION TEST (LAA)
+The Los Angeles Abrasion test has evaluated an aggregate's susceptibility to wear,
+breakdown, or overall abrasion due to the stresses caused by the passage of
+traffic. The average abrasion value obtained was 16.8% which is much lower than
+the specified UK maximum of 40% laid out in ASTM C131 and BS 812-11:1990 and
+therefore confirms that these aggregates have an excellent level of toughness and
+resistance to mechanical degradation and will be able to meet the demands of
+heavy pavement applications. Additionally, the fact that these aggregates have
+such a low abrasion value will help assure users that they will remain intact during
+the mixing, compaction, and traffic loading processes that occur while vibrating in
+
+
+traffic. This will assist in maintaining the structural stability of the asphalt mixture
+being formed. (Huang, 2012; Kadiyali & Lal, 2016).
+Table 12 LOS ANGELES ABRASION VALUES
+Parameter
+Sample 1
+Sample 2
+Weight of material retained on 1 mm sieve
+4,155.0
+4,165.0
+Weight after crushing
+4,968.2
+4,946.1
+Weight of fine material (g)
+845.0
+835.0
+% of wear
+16.9%
+16.7%
+Average
+16.8%
+Standard (BS 812-110 1990)
+<40%
+Rotational Speed
+33 revolution/minute
+Maximum Revolutions
+Allowable Time
+15 minutes
+The data supports the conclusion that the Mukono Quarry's aggregate material has
+superior durability and wear resistance, offering superior interlocking performance
+and, therefore, overall performance, when used in an OMMT-modified asphalt
+concrete mixture.
+
+
+
+
+
+
+
+
+
+
+4.4Organophilic Montmorillonite nano clay Xray diffractometry
+
+
+Figure 4 XRAY-DIFFRACTOMETRY OF ORGANOPHILIC MONTMORILLONITE
+X-ray diffraction patterns for organophilic montmorillonite illustrate the
+diffraction patterns associated with montmorillonite. The d-spacings for
+montmorillonite are represented by distinct peaks at particular 2 theta angles.
+Montmorillonite has a basal spacing peak at d001, which is a characteristic feature
+of montmorillonite. The angle and intensity of the d001 peak provide information
+about interlayer spacing and about montmorillonite dispersion and intercalation in
+polymers and asphalt. X-ray diffraction patterns support the idea that
+montmorillonite
+has
+a
+crystalline
+structure.
+
+
+If montmorillonite is effectively dispersed and intercalated into asphalt, it is likely to
+enhance the rutting resistance of the asphalt by changing the viscoelastic properties
+of the asphalt.
+Montmorillonite (D001) is a common component of clays and can be identified by its
+characteristic 5 to 10° 2θ peak, which corresponds to d-spacings of 1 to 1.8 nm. The
+sharpness of the peaks may indicate the presence of well-ordered or aggregated
+structures, whereas broad peaks or shifts may indicate intercalation with mixtures of
+aspahlt, or partial peeling apart of clay layers.
+
+4.5ASPHALT MARSHALL SAMPLE TESTS
+4.5.1MAXIMUM THEORETICAL SPECIFIC GRAVITY (GMM) AND BULK SPECIFIC
+GRAVITY (GMB)
+The Maximum Theoretical Specific Gravity (Gmm) Test provides the specific gravity
+of an asphalitic mixture without taking into account air voids. Gmm allows us to
+calculate compaction levels and the volumetric characteristics of the asphalt mixture.
+The bulk specific gravity test (Gmb) provides the specific gravity of the compacted
+asphalt sample, factoring in the air voids. Both Gmm and Gmb Values provide the
+framework for calculating air voids for assessing mixture durability and resistance to
+permanent deformation due to loading from vehicles (Roberts et al., 1996).
+Table 13 GMM AND GMB REULTS
+SPECIMEN NO.
+OMMT %
+Gmm
+Gmb
+0.0
+2.450
+2.342
+0.5
+2.443
+2.346
+
+
+1.0
+2.437
+2.352
+1.5
+2.438
+2.322
+
+
+As shown by the Experimental Results, the Gmm values produced by Method 3
+discarded a slight decrease in value from 2.450 at 0% OMMT to 2.437 at 1.0% OMMT,
+while 2.438 was produced as the Gmm value for 1.5% OMMT. However, the Gmb
+values produced with Method 3 showed a general increase from 2.342 to a peak of
+2.352 at 1.0% OMMT, followed by a drop in value to 2.322 at 1.5% OMMT. The increase
+in Gmb produced with 1.0% OMMT may be an indicator of improved compaction and
+better densification of the mixture and have significant positive correlation with
+resistance to temporary deformations (i.e., rutting). The addition of OMMT to the mix
+increased the overall density of the mix and provided an increase in the bond strength
+between aggregate particles, both of which contribute to the reduced susceptibility
+to temporary deformations (Brown & Cross, 1992).
+There are several factors that may account for the slight decrease in Gmm values and
+the increase in Gmb values until the addition of 1.0% OMMT occurred. These factors
+include improved binder stiffness and enhanced dispersion of nano clay within the
+bitumen matrix, which allows for greater packing density. However, the addition of
+1.5% OMMT in this instance may have caused excessive clay content, which has been
+shown to lead to slight agglomeration of particles and excessive stiffness. This may
+have resulted in less effective compaction of the mixture, thus providing an
+explanation for the drop in Gmb values produced. Similar trends in performing
+workability and compaction studies with nano-modified binders have been noted in
+past research (Chen et al., 2011), thus supporting the concept that an excessive use
+of modifiers may have a negative effect on both workability and compaction ability of
+the mixture.
+
+
+
+4.5.2MARSHALL STABILITY
+The Marshall Stability Test measures the maximum amount of loads that an asphalt
+sample can withstand when compressed. It is a measure of how well an asphalt
+material resists plastic deformation when subjected to heavy or constant movement
+(over time) from motor vehicle traffic. In addition to this, higher "stability" indicates a
+more stable structure and as a result has improved "rutting" characteristics (Huang,
+2012).
+
+Figure 5 MARSHALL STABILITY OF OMMT SAMPLES
+
+Results indicated a steady increase from 13.4kN (0% OMMT) to 17.2kN (1.0%
+OMMT) and peaking at 19.0kN (1.5% OMMT). All values fall within the ASTM
+range of 8–18kN except the highest value, which slightly exceeds the upper
+13.4
+16.6
+17.2
+0.0
+0.5
+1.0
+1.5
+Marshall Stability (KN)
+OMMT (%)
+ASTM STANDARD (8-18KN)
+
+
+limit. While the highest stability at 1.5% suggests robust resistance to
+deformation, the value at 1.0% provides a more appropriate balance between
+strength and flexibility, aligning with design specifications. Increased stability
+with rising OMMT content arises from improved rigidity and reinforcement of
+the binder phase, enhancing aggregate bonding and shear resistance.
+However, excessively high stability may indicate reduced flexibility, which
+could lead to cracking, especially under repeated loading (Khattak et al.,
+2013).
+
+4.5.3MARSHALL FLOW
+The amount of deformation and the amount of stress that the material can take
+before cracking is measured by Marshall Flow. The amount of stress the material can
+take without cracking must be between two and four millimetres according to ASTM
+specifications. When a mix has this amount of stress without excessive deformation, it
+indicates that the material is suitable for use in practice (Read & Whiteoak 2003). The
+suitability of a mix for use in practice is defined as being within ASTM specifications,
+which is between eight and eighteen kilonewtons for all but the highest values that
+are exceeding the upper limit. The highest stability of the material occurs at 1.5%
+OMMT (a minimum of one) and indicates that the material can withstand large
+amounts of deformation. Conversely, the mix that contains one per cent OMMT
+indicates a greater balance between strength and flexibility, which is what the design
+requires. As a mix has increased OMMT and binder, the increased rigidity and
+reinforcement in the binder have enhanced the bond between the aggregate and the
+shear resistance of the aggregate. However, excessive amounts of stability may result
+in loss of flexibility, which can result in cracking under repetitive loading (Khattak et
+al. 2013).
+
+
+
+Figure 6 MARSHALL FLOW OF OMMT SAMPLES
+The flow value of the 0% OMMT was 3.0 mm, while it was 3.6 mm at 1% and 3.5 mm at
+1.5% OMMT. All of these values are considered to be within acceptable limits. The
+increased flow value at the 1% level indicates a good balance between the stiffness
+and deformability of the asphalt mixture. When OMMT content is increased, the
+viscosity and stiffness of the binder increase. However, the increase in structural
+cohesion produced by the OMMT also allows for a controlled amount of deformation of
+the mixture when loaded.
+
+
+
+
+3.9
+3.6
+3.50
+2.2
+2.4
+2.6
+2.8
+3.2
+3.4
+3.6
+3.8
+0.0
+0.5
+1.0
+1.5
+Marshall Flow (mm)
+OMMT (%)
+ASTM STANDARAD (2-4 mm)

@@ -1,0 +1,1318 @@
+ 
+ASSESSING THE USE OF RICE HUSKS AND SPENT GRAIN FOR THE 
+REMOVAL OF HEAVY METALS FROM SURFACE WATER  
+ 
+JEREMIAH RICHARD KAYONGO 
+S21B32/129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+ 
+ii 
+ 
+ABSTRACT 
+This study assessed the use of rice husks and brewer’s spent grain as adsorbents for 
+removing heavy metals from River Nyamwamba's water. The research aimed to 
+address the significant heavy metal contamination in the river, posing risks for 
+domestic use. The study employed in-situ measurements of physico-chemical 
+properties and heavy metal analysis, followed by laboratory experiments to 
+determine the adsorption efficiency of the biochars of rice husks and brewers’ spent 
+grain. The findings revealed that a mix ratio of 1:3 (rice husks to brewer’s spent 
+grain) provided the most efficient removal of copper and iron, with removal 
+efficiencies of 95.63% and 94.63%, respectively. The study concluded that steam 
+activation significantly enhanced the adsorbents' performance, making them 
+effective for improving water quality. These results highlight the potential of using 
+agricultural by-products as sustainable and cost-effective solutions for water 
+treatment in regions affected by heavy metal pollution. 
+ 
+
+ 
+iii 
+ 
+DECLARATION 
+I KAYONGO RICHARD JEREMIAH with the following registration number 
+S21B32/129, hereby declare that this is my original work, is not plagiarised and has 
+not been submitted to any other institution for any award. 
+KAYONGO RICHARD JEREMIAH 
+S21B32/129 
+ 
+Signature:..................................... 
+ 
+Date:........................................... 
+ 
+
+ 
+iv 
+ 
+APPROVAL 
+I certify that this report is for KAYONGO RICHARD JEREMIAH, S21B32/129. I fully 
+accept that he has been under supervision and this research report can be submitted 
+to the Department of Engineering, Design and Technology in partial fulfilment of a 
+Bachelor of Science in Civil and Environmental Engineering of Uganda Christian 
+University. 
+Mrs. Kyomukama Emma Immaculate 
+Academic Supervisor (Uganda Christian University) 
+ 
+Signature:..................................... 
+ 
+Date:........................................... 
+ 
+
+ 
+v 
+ 
+DEDICATION 
+To my beloved father and mother, 
+Your unwavering support, endless love, and boundless wisdom have been the 
+guiding lights in my life. This work is a testament to your sacrifices, encouragement, 
+and the values you instilled in me. I am forever grateful for your presence and the 
+foundation you have provided. 
+
+ 
+vi 
+ 
+ACKNOWLEDGEMENT 
+I would like to express my deepest gratitude to GOD for providing me with the 
+strength, wisdom, and perseverance to complete this project. 
+I am profoundly grateful to my parents for their unwavering support, 
+encouragement, and love throughout this journey. 
+My heartfelt thanks go to my supervisor, Mrs. Kyomukama Emma Immaculate, for 
+her invaluable guidance, patience, and insightful feedback, which have been 
+instrumental in the successful completion of this project. 
+I would also like to extend my sincere appreciation to my project partner, Ssebagala 
+Sandra, for their collaboration, dedication, and hard work. 
+Lastly, I am thankful to the UCU lab technician, Mr. Ojara Eddy, for his technical 
+assistance and support throughout the project. 
+ 
+
+ 
+vii 
+ 
+TABLE OF CONTENTS 
+ABSTRACT ....................................................................................... ii 
+DECLARATION .................................................................................. iii 
+APPROVAL ...................................................................................... iv 
+DEDICATION ..................................................................................... v 
+ACKNOWLEDGEMENT ......................................................................... vi 
+TABLE OF CONTENTS ........................................................................ vii 
+LIST OF TABLES ............................................................................... xiv 
+LIST OF FIGURES .............................................................................. xv 
+GLOSSARY OF TERMS AND ACCRONYMS ................................................... xvii 
+CHAPTER ONE: INTRODUCTION .............................................................. 1 
+1.1 BACKGROUND ........................................................................... 1 
+1.2 PROBLEM STATEMENT .................................................................. 2 
+1.3 MAIN OBJECTIVE ........................................................................ 3 
+1.4 SPECIFIC OBJECTIVES .................................................................. 3 
+1.5 RESEARCH QUESTIONS ................................................................. 3 
+1.6 JUSTIFICATION .......................................................................... 4 
+1.7 GEOGRAPHIC SCOPE .................................................................... 5 
+1.8 TIME SCOPE .............................................................................. 6 
+CHAPTER TWO: LITERATURE REVIEW ........................................................ 7 
+2.1 Introduction ............................................................................. 7 
+
+ 
+viii 
+ 
+2.2 Water Quality ........................................................................... 7 
+2.2.1 Physico-chemical qualities ....................................................... 7 
+2.2.1.1 Electrical Conductivity (EC) ................................................ 7 
+2.2.1.2 Total Dissolved Solids (TDS) ................................................. 7 
+2.2.1.3 pH .............................................................................. 8 
+2.2.2 Heavy metals ....................................................................... 8 
+2.3 Materials ................................................................................. 9 
+2.3.1 Rice husks as an adsorbent and preparation .................................. 9 
+2.3.2 BSG as an adsorbent and preparation .......................................... 9 
+2.3.3 Activation of adsorbents ......................................................... 9 
+2.3.3.1 Types of Activation Techniques ........................................... 10 
+2.3.3.1.1 Physical Activation .................................................... 10 
+2.3.3.1.2 Chemical Activation ................................................... 10 
+2.3.3.1.3 Combined Physical and Chemical Activation ...................... 11 
+2.4 Water Treatment ..................................................................... 11 
+2.4.1 Conventional treatment methods in relation to adsorption .............. 11 
+2.4.1.1 Chemical precipitation .................................................... 11 
+2.4.1.2 Ion Exchange ................................................................ 11 
+2.4.1.3 Membrane Filtration ....................................................... 12 
+2.4.1.4 Chemical and Electrocoagulation ........................................ 12 
+2.5 Adsorption ............................................................................. 12 
+
+ 
+ix 
+ 
+2.5.1 Types of Adsorption ............................................................. 13 
+2.5.1.1 Physical adsorption......................................................... 13 
+2.5.1.2 Chemical Adsorption ....................................................... 13 
+2.5.2 Factors Affecting the Adsorption Process .................................... 14 
+2.5.2.1 Temperature ................................................................ 14 
+2.5.2.2 Nature and Surface Area of Adsorbent .................................. 14 
+2.5.2.3 pH of the Solution .......................................................... 14 
+2.5.2.4 Concentration of Adsorbate .............................................. 14 
+2.5.2.5 Presence of Competing Substances ...................................... 15 
+2.5.2.6 Ionic Strength of the Solution ............................................ 15 
+2.5.2.7 Contact Time ................................................................ 15 
+2.5.3 Adsorbents ........................................................................ 15 
+2.5.3.1 Types of Adsorbents ........................................................ 16 
+2.5.3.1.1 Carbon-based adsorbents ............................................ 16 
+2.5.3.1.2 Zeolites ................................................................. 16 
+2.5.3.1.3 Metal-organic frameworks (MOFs) .................................. 16 
+2.5.3.1.4 Polymeric adsorbents ................................................. 16 
+2.5.4 Adsorption Isotherms ........................................................... 17 
+2.5.4.1 The Langmuir isotherm .................................................... 17 
+2.5.4.2 The Freundlich isotherm .................................................. 18 
+2.5.5 Maximum Adsorption Capacity ................................................ 20 
+
+ 
+x 
+ 
+2.5.6 Breakthrough Curves and Mass Transfer Zone ............................... 20 
+2.5.7 Adsorbent regeneration ........................................................ 20 
+2.5.7.1 Types of regeneration ..................................................... 21 
+2.5.7.1.1 Thermal Regeneration ................................................ 21 
+2.5.7.1.2 Chemical Regeneration ............................................... 21 
+2.5.7.1.3 Steam Regeneration .................................................. 21 
+2.5.7.1.4 Electrochemical Regeneration ...................................... 22 
+2.5.7.1.5 Biological Regeneration .............................................. 22 
+CHAPTER THREE: METHODOLOGY ......................................................... 23 
+3.1 Introduction ........................................................................... 23 
+3.1.1 Research Design ................................................................. 23 
+3.1.2 Area of Study ..................................................................... 24 
+3.2 Determining the physico-chemical quality characteristics of the raw water 
+from the river. ............................................................................. 25 
+3.2.1 Materials and Equipment ....................................................... 25 
+3.2.2 Field Measurement Procedure ................................................. 25 
+3.2.2.1 Site Selection and Sample Point Identification ........................ 25 
+3.2.2.2 Sampling procedure ........................................................ 26 
+3.2.2.3 Heavy metal ion measurement using the FAAS (APHA 3111 B) ....... 27 
+3.2.3 Post-Measurement Handling ................................................... 27 
+3.2.4 Quality Control .................................................................. 27 
+
+ 
+xi 
+ 
+3.2.5 Safety Considerations ........................................................... 28 
+3.3 Determining the sorption properties of rice husks and Brewer’s spent grain.
+ ............................................................................................... 29 
+3.3.1 
+Material preparation ........................................................ 29 
+3.3.1.1 Pyrolysis ..................................................................... 29 
+3.3.1.2 Activation .................................................................... 29 
+3.3.2 FTIR Characterisation Procedure .............................................. 29 
+3.4 Determining the optimum mixing ratios of rice husks and brewer’s spent grain 
+to remove heavy metals from the water. .............................................. 31 
+3.4.1 Materials and Equipment ....................................................... 31 
+3.4.2 Experimental Procedures ....................................................... 31 
+3.4.2.1 Column experiments to determine the Optimum Mix Ratio ......... 31 
+3.4.2.2 Batch experiments to determine the Adsorption kinetics ............ 32 
+3.4.2.3 Column experiments to determine the Optimum mix ratio .......... 33 
+3.4.2.4 Column experiments to determine the Breakthrough characteristics
+ ......................................................................................... 33 
+3.5 Designing the appropriate adsorption system .................................... 34 
+CHAPTER FOUR: RESULTS AND DISCUSSION ............................................... 35 
+4.1 Introduction ........................................................................... 35 
+4.2 IN-SITU TESTS OF PHYSICO-CHEMICAL CHARACTERISTICS AND HEAVY METAL 
+TEST ANALYSIS ............................................................................. 36 
+4.2.1 pH .................................................................................. 36 
+
+ 
+xii 
+ 
+4.2.2 Electrical Conductivity (EC) ................................................... 37 
+4.2.3 Total Dissolved Solids (TDS) .................................................... 38 
+4.2.4 Heavy Metals (Copper and Iron) ............................................... 39 
+4.3 FOURIER TRANSFORMS INFRARED SPECRTOSCOPY ............................... 42 
+4.3.1 Brewers’ Spent Grain ........................................................... 42 
+4.3.2 Rice Husks ........................................................................ 43 
+4.4 LABORATORY EXPERIMENTS .......................................................... 44 
+4.4.1 Optimum mix ratio for RH and BSG ........................................... 44 
+4.4.2 Removal Efficiency, Reff and Adsorbent Phase Concentration, Qe ........ 45 
+4.4.3 Adsorption isotherms ........................................................... 46 
+4.4.3.1 Langmuir Adsorption isotherms .......................................... 46 
+4.4.3.2 Freundlich Adsorption isotherms ......................................... 48 
+4.4.4 Determining optimum mass and corresponding column height ........... 50 
+4.4.5 Breakthrough curves ............................................................ 51 
+4.5 DESIGN OF THE ADSORPTION TANK ................................................. 52 
+4.5.1 Small scale design ............................................................... 52 
+4.5.2 Large Scale Design .............................................................. 54 
+CHAPTER FIVE: CONCLUSIONS AND RECOMMENDATIONS................................ 57 
+5.1 CONCLUSIONS ......................................................................... 57 
+5.2 RECOMMENDATIONS .................................................................. 58 
+REFERENCES .................................................................................. 60 
+
+ 
+xiii 
+ 
+APPENDICES ................................................................................... 74 
+APPENDIX A: TABLES OF RESULTS ....................................................... 74 
+APPENDIX B: PICTORIAL .................................................................. 77 
+APPENDIX C: CERTIFICATES OF ANALYSIS ............................................... 81 
+ 
+ 
+
+ 
+xiv 
+ 
+LIST OF TABLES 
+Table 1: Summary of results ................................................................ 35 
+Table 2: Results for the Langmuir Isotherm for copper ................................ 46 
+Table 3: Results for the Langmuir Isotherm for iron .................................... 47 
+Table 4: Results for the Freundlich Isotherm for copper ............................... 48 
+Table 5: Results for the Freundlich Isotherm for iron .................................. 49 
+Table 6: Summary of Random packed column dimensions ............................. 52 
+Table 7: Results from variation of different mix ratios of adsorbents in column 
+experiment ................................................................................... 74 
+Table 8: Results from variation of mass of adsorbent at 150rpm for 90 minutes 
+contact time .................................................................................. 74 
+Table 9: Results from the varying column masses and corresponding heights ...... 75 
+Table 10: Results from the breakthrough curves experiment ......................... 76 
+ 
+ 
+
+ 
+xv 
+ 
+LIST OF FIGURES 
+Figure 1: Research Design Flow Chart .................................................... 23 
+Figure 2: Map showing area of study ...................................................... 24 
+Figure 3: pH in situ results ................................................................. 36 
+Figure 4: Electrical Conductivity in situ results ......................................... 37 
+Figure 5: Total Dissolved Solids in situ results ........................................... 38 
+Figure 6: Iron in situ results ................................................................ 39 
+Figure 7: Copper in situ results ............................................................ 39 
+Figure 8: Brewers' Spent Grain FTIR graph ............................................... 42 
+Figure 9: Rice Husk FTIR graph ............................................................ 43 
+Figure 10: Average Removal efficiency against varying mix ratios ................... 44 
+Figure 11: Removal Efficiency against varying masses ................................. 45 
+Figure 12: Copper Langmuir Isotherm Graph ............................................ 46 
+Figure 13: Iron Langmuir Isotherm Graph ................................................ 47 
+Figure 14: Copper Freundlich Isotherm Graph ........................................... 48 
+Figure 15: Iron Freundlich Isotherm Graph .............................................. 49 
+Figure 16: Optimum removal efficiency for varying masses ........................... 50 
+Figure 17: Breakthrough curves graph for copper and iron ............................ 51 
+Figure 18: Sediment sampling ............................................................. 77 
+Figure 19: Water column sampling ........................................................ 77 
+Figure 20: Residents washing from river ................................................. 77 
+Figure 21: In situ testing with multimeter ............................................... 77 
+Figure 22: Sealed material in pots ........................................................ 78 
+Figure 23: Activated BSG and RH .......................................................... 78 
+Figure 24: Sieving materials ................................................................ 78 
+
+ 
+xvi 
+ 
+Figure 25: Material mass ratios ............................................................ 78 
+Figure 26: Batch experiment set up ...................................................... 79 
+Figure 27: Analytical Reagents ............................................................. 79 
+Figure 28: Setting up column bed ......................................................... 79 
+Figure 29: Filtering samples ................................................................ 79 
+Figure 30: Laboratory setup ................................................................ 80 
+Figure 31: Prototype setup ................................................................. 80 
+ 
+ 
+
+ 
+xvii 
+ 
+GLOSSARY OF TERMS AND ACCRONYMS 
+Acronym/ symbol  
+ 
+Full form 
+APHA  
+ 
+ 
+ 
+American Public Health Association 
+BSG 
+ 
+ 
+ 
+ 
+Brewers’ Spent Grain 
+Cu 
+ 
+ 
+ 
+ 
+Copper 
+EC 
+ 
+ 
+ 
+ 
+Electrical Conductivity 
+FAAS  
+ 
+ 
+ 
+Flame Atomic Absorption Spectroscopy 
+Fe 
+ 
+ 
+ 
+ 
+Iron 
+FTIR  
+ 
+ 
+ 
+Fourier Transforms Infrared Spectroscopy 
+HM 
+ 
+ 
+ 
+ 
+Heavy Metal 
+ISO 
+ 
+ 
+ 
+ 
+International Organisation for Standardisation 
+kg 
+ 
+ 
+ 
+ 
+kilogram 
+mg/L  
+ 
+ 
+ 
+milligrams per litre 
+ppm  
+ 
+ 
+ 
+parts per million 
+RH 
+ 
+ 
+ 
+ 
+Rice Husk 
+SEM 
+ 
+ 
+ 
+ 
+Scanning Electron Microscopy 
+TDS 
+ 
+ 
+ 
+ 
+Total Dissolved Solids 
+US:EAS 
+ 
+ 
+ 
+Uganda Standard 
+WHO  
+ 
+ 
+ 
+World Health Organisation 
+µS/cm  
+ 
+ 
+ 
+micro-Siemens per centimetre 
+ 
+
+ 
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+1.1 BACKGROUND 
+The Kasese district is centred in Kilembe, an old mining town at the foot of the 
+Rwenzori Mountains. Alongside the Nyamwamba River, it is home to the legendary 
+Kilembe Mines, a copper and cobalt mining company established in colonial Uganda. 
+Kilembe Mines' rusty and dilapidated facilities, which dominate the skyline, are 
+easily seen against the surrounding vegetation (Masereka et al. 2022). 
+After being established as a mining company in the 1950s, Kilembe Mines produced 
+and exported copper until the late 1970s. These mines were once operated by 
+Falcon-bridge, but the pounds of leftover copper tailings pose a major environmental 
+risk today. Due to their erosion into the river, these dangerous tailings have 
+contaminated the land and water sources (Mwesigye and Lawrence, 2022). 
+According to Amjad et al., (2020), for living things, drinking and irrigation water 
+contaminated with heavy metals (Cr, Cd, Hg, As, Zn, Cu, Fe, Al, Ba, Ca, Mg, Pb, Mn, 
+Ag, Na, and Se) in excess or below what the body needs is extremely harmful. Many 
+sectors, including mining, textiles, leather, insecticides, plastic, wood, and 
+medicines, are their main suppliers. These metals are released into the air, surface 
+water, soil, groundwater, and crops by industrial operations, and they eventually 
+endanger human health. Anthropogenic activities such as the discharge of 
+petroleum, oil, road salts, mining, fertilisers, pesticides, and other man-made 
+materials into groundwater can contaminate it. 
+ 
+
+ 
+2 
+ 
+1.2 PROBLEM STATEMENT 
+The second most important element for human life is drinking water; without it, life 
+cannot exist. Nevertheless, it is currently difficult to find pure water for human use, 
+and the remaining 3% of freshwater is heavily polluted globally (Amjad et al, 2020). 
+According to Mwesigye and Lawrence (2022), mining operations in Kilembe 
+concluded in 1978; however, the extraction and processing of copper in Western 
+Uganda resulted in significant deposits of cupriferous and cobaltiferous pyrites 
+within the mountain river valley, accompanied by mine water which is channelled to 
+the surface. 
+Masereka et al. (2022) conducted research revealing significant heavy metal 
+contamination in the Nyamwamba River. The concentrations of heavy metals in the 
+raw water, including Iron (Fe) at 10.21 mg/L and Copper (Cu) at 5.29 mg/L, exceed 
+the Uganda Standards for potable water guideline values of 0.3 mg/L and 1.0 mg/L, 
+respectively, posing risks for domestic and agricultural use by residents. This 
+research also indicated higher levels of the heavy metal contamination in the wet 
+season as compared to the dry season. Agriculturists cultivating near the 
+Nyamwamba River in the Kasese district of Western Uganda observe that their crops 
+wither whenever the riverbanks inundate, and the district's rising incidence of 
+cancer and ulcers is anecdotally ascribed to the ingestion of contaminated water 
+from supplies polluted by Kilembe copper mine tailings (Masereka et al., 2022). 
+This research study is therefore aimed at assessing the use of rice husks and brewer’s 
+spent grain as adsorbents for the removal of heavy metals ions from the raw water 
+of river Nyamwamba that can be employed by the community for domestic use.  
+
+ 
+3 
+ 
+1.3 MAIN OBJECTIVE 
+To assess the use of Rice Husks and Brewer’s Spent Grain as adsorbents for the 
+removal of heavy metals from the raw water of river Nyamwamba. 
+1.4 SPECIFIC OBJECTIVES 
+1. To determine the physico-chemical quality characteristics of the raw water from 
+the river.  
+2. To determine the sorption properties of rice husks and brewer’s spent grain.  
+3. To determine the optimum mixing ratios of rice husks and brewer’s spent grain 
+to reduce heavy metals from the water. 
+4. To design an appropriate treatment system. 
+1.5 RESEARCH QUESTIONS 
+1. What is the heavy metal concentration in the water of River Nyamwamba?  
+2. What are the sorption properties of rice husks and brewer’s spent grain?  
+3. What are the optimum mixing ratios of rice husks and brewer’s spent grain to 
+remove heavy metals from the water? 
+4. What are the appropriate dimensions for the effective functioning of the 
+treatment system? 
+ 
+
+ 
+4 
+ 
+1.6 JUSTIFICATION 
+Due to its high cellulose and lignin content, brewer's spent grain (BSG) is a substance 
+that shows promise for heavy metal adsorption from water. Functional groups like 
+hydroxyl (−𝑂𝐻) and carboxyl (−𝐶𝑂𝑂𝐻) in cellulose provide binding sites that enable 
+coordination with heavy metal ions (Wierzba and Klos, 2019). 
+Because of their higher charge density and smaller ionic radii, metals like iron (𝐹𝑒2+) 
+and lead (𝑃𝑏2+) are more likely to form stable complexes with negatively charged 
+carboxylate groups. Strong metal binding results from the hydroxyl groups in BSG 
+forming stable inner-sphere complexes with metals (Wierzba and Klos, 2019). 
+The adsorption of iron on BSG biochar, for instance, can be explained as follows: 
+𝟐𝑪𝟔𝑯𝟏𝟎𝐎𝟓
+−−𝑶𝑯(𝒂𝒒) + 𝑭𝒆𝟐+
+(𝒂𝒒) →(𝑪𝟔𝑯𝟏𝟎𝑶𝟔)𝟐𝑭𝒆(𝒔) + 𝟐𝑯+
+(𝒂𝒒) 
+Due to their special qualities, rice husks have a synergistic impact that improves the 
+performance of heavy metal adsorption when added to brewer's spent grain (BSG). 
+Silica is abundant in rice husks. For example, silanol groups exhibit greater affinity 
+for metals such as zinc (𝑍𝑛2+) and copper (𝐶𝑢2+) since they pose a low charge 
+densities and larger ionic radii. These metals frequently form outer-sphere 
+complexes where the electrostatic attraction between the negatively charged 
+silanol groups and the metal cations plays a more significant role in the interaction 
+than covalent bonding as is the case with the carboxyl groups (Priya et al., 2022). 
+The adsorption of copper on rice husk biochar, for instance, can be explained as 
+follows: 
+𝟐𝑺𝒊−𝑶𝑯(𝒔) + 𝑪𝒖𝟐+
+(𝑎𝑞) →(𝑺𝒊−𝑶)𝟐𝑪𝒖(𝑠) + 𝟐𝑯+
+(𝒂𝒒) 
+
+ 
+5 
+ 
+Additionally, the biochars of these bio adsorbents have the potential to be 
+regenerated using chemical desorption whereby acids, bases or salts can be applied 
+to detach heavy metal ions from the surfaces and pores of the adsorbents. This can 
+be done for about 4-10 cycles before significant loss of adsorption efficiency of the 
+biochars settles in (Velempini et al., 2023). 
+The rice husks will be obtained from Mubuku Irrigation Scheme milling plant located 
+in Mubuku whereas the Brewer’s spent grain shall be obtained from Nile Breweries 
+Mbarara Branch located in Mbarara. 
+Due to Uganda's high rate of alcohol consumption and the fact that breweries are 
+always operating, BSG is easily accessible throughout the year. It is estimated that 
+85% of the by-products from beer brewing contain BSG, with 20 kilogrammes of BSG 
+produced for every 100 litres of alcohol produced (Kabirizi and Kato, 2023). Since 
+the Nile Breweries Limited Mbarara Plant, where BSG is to be obtained, generates 
+1.3 million hectolitres per year, roughly 26 million kilogrammes of BSG are generated 
+annually (NBL, 2024). 
+In addition to that due to the Mubuku Irrigation Scheme, which has over 80 hectares 
+of land set aside for rice cultivation and yields an average of 2.5 tonnes per hectare 
+per agricultural year, rice husks are also easily accessible in Kasese district 
+(Wanyama et al., 2024). 
+1.7 GEOGRAPHIC SCOPE 
+Nyamwamba River is located in Kasese district in the western part of Uganda 
+(0012'30.0" N, 30000'25.0" E). It is the main river of the Rwenzori Mountains and is 
+fed by melting glaciers from the mountains of the moon. The river emerges from 
+
+ 
+6 
+ 
+Rwenzori Mountain and flows to Lake George in the Albertine Rift, stretching an 
+estimated distance of 126 km.  
+The specific region of interest is Nyakasanga I parish located at the extremes of 
+Kasese district about 800m from the Nyamwamba River where residents depend on 
+the surface water for domestic and agricultural purposes. 
+1.8 TIME SCOPE 
+This research study was carried out from the month of October, 2024 to the month 
+of April, 2025. 
+ 
+
+ 
+7 
+ 
+CHAPTER TWO: LITERATURE REVIEW 
+2.1 Introduction 
+This section reviews existing studies on water quality and treatment methods with 
+a focus on physico-chemical parameters like electrical conductivity (EC), total 
+dissolved solids (TDS), and pH. These are key indicators of heavy metal 
+contamination. It also explores the environmental and health impacts of heavy 
+metals in raw water. This review also looks at bio adsorbents like rice husks (RH) and 
+brewer's spent grain (BSG) alongside conventional treatment methods and the 
+various preparation techniques. The findings help in understanding current water 
+treatment technologies and how they can be improved. 
+2.2 Water Quality 
+2.2.1 Physico-chemical qualities 
+2.2.1.1 Electrical Conductivity (EC) 
+Electrical Conductivity indicates the level of dissolved ions in water. Elevated EC 
+levels generally indicate a high metal pollution due to the dissolved ions. Elevated 
+EC values also affect adsorption by causing ionic competition which can inhibit heavy 
+metal binding onto adsorbents. For example, in multi-metal solutions, metals with 
+greater ionic radii or valences can occupy adsorption sites (Kerketta et al., 2013). 
+2.2.1.2 Total Dissolved Solids (TDS) 
+TDS measures the overall concentration of dissolved solids including organic 
+compounds and heavy metals like iron and copper. Elevated TDS levels suggest water 
+contamination often from industrial and mining activities. Godson Ebenezer Adjovu 
+et al., (2023) demonstrates that adsorption efficiency tends to decrease in high-TDS 
+
+ 
+8 
+ 
+water due to competition among ions necessitating pre-treatment to lower TDS and 
+improve metal removal. 
+2.2.1.3 pH 
+pH directly influences heavy metal solubility, ion speciation, and adsorbent surface 
+charge. Under acidic conditions, metals remain in dissolved ionic states (e.g., Cu²⁺, 
+Fe²⁺), favouring adsorption. However, extreme pH levels can degrade adsorbent 
+material or lead to metal precipitation, reducing adsorption efficiency. Optimization 
+of pH is critical for achieving high removal rates in adsorption systems (Li et al., 
+2013). 
+2.2.2 Heavy metals 
+Heavy metals are generally defined as metallic elements with high densities, atomic 
+weights, or atomic numbers, typically above 5 g/cm³ (Tchounwou et al., 2012). Their 
+definition can vary slightly depending on the context, but they are often 
+characterized by their toxicity, persistence in the environment, and potential to bio 
+accumulate in living organisms (Järup, 2003).  
+Heavy metals are introduced into surface waters through natural processes such as 
+weathering of rocks and volcanic activity, as well as through anthropogenic activities 
+like mining, industrial effluents, agricultural runoff, and improper waste disposal 
+(Singh et al., 2011). Once present in aquatic ecosystems, these metals do not 
+degrade, leading to their accumulation in sediments and potential uptake by aquatic 
+organisms, posing serious risks to both environmental and human health (Alloway, 
+2013). 
+ 
+
+ 
+9 
+ 
+2.3 Materials 
+2.3.1 Rice husks as an adsorbent and preparation 
+Rice husks are a renewable agricultural by-product rich in silica, cellulose, and 
+hemicellulose. Their abundant hydroxyl (-OH) and silanol (Si-OH) groups make them 
+effective for heavy metal adsorption. Various pre-treatment processes, such as 
+thermal activation (e.g., carbonization at 600°C), chemical modification (e.g., acid 
+treatment with HCl or H₂SO₄), and functionalization with nanoparticles, enhance 
+their adsorption capacity. Rice husks rich in silica have showed removal efficiency 
+exceeding 90% for lead (Pb²⁺) and cadmium (Cd²⁺) (Chen et al., 2019). 
+2.3.2 BSG as an adsorbent and preparation 
+Brewer's spent grain (BSG) is a brewing residue made up of cellulose, hemicellulose, 
+lignin, and protein. Because of its porous structure and presence of carboxyl (-COOH) 
+and hydroxyl (-OH) functional groups, it possesses the excellent property of having 
+the ability to uptake heavy metals such as chromium (Cr⁶⁺), zinc (Zn²⁺), and nickel 
+(Ni²⁺) efficiently. Pre-treatment methods such as acid washing, enzymatic 
+hydrolysis, and carbonization enhance adsorption efficiency by expanding the 
+surface area and revealing more binding sites. In recent studies, blending BSG with 
+other materials has also been investigated in a bid to further enhance its 
+performance (Pereira et al., 2024). 
+2.3.3 Activation of adsorbents 
+Activation is the process of enhancing the porosity and surface area of pyrolysed 
+carbonaceous materials to create activated carbon with superior adsorption 
+properties. This process removes volatile compounds and develops a highly porous 
+
+ 
+10 
+ 
+structure, increasing the material’s ability to capture adsorbates (Somi Doja, Lava 
+Kumar Pillari and Bichler, 2021). It can be achieved using a wide variety of methods, 
+all of which impact the final characteristics of the activated carbon, including the 
+pore size distribution, surface characteristics, and capacity for adsorption. Which 
+activation route to use depends on the intended application as well as the precursor 
+used in the pyrolysis (Mehdi et al., 2022). 
+2.3.3.1 Types of Activation Techniques 
+2.3.3.1.1 Physical Activation 
+Physical activation is when materials that have already been pyrolysed are treated 
+with oxidising agents like steam, carbon dioxide or air at high temperatures ranging 
+from 6000C to 12000C. This process helps to remove leftover tars and also helps form 
+small pores in the carbon structure. Steam activation is commonly used for making 
+activated carbon from coconut shells and wood because it creates a good pore 
+structure (Panwar and Panwar, 2020). 
+2.3.3.1.2 Chemical Activation 
+Chemical activation is done by treating the raw material with certain chemicals like 
+phosphoric acid (H₃PO₄), potassium hydroxide (KOH), or zinc chloride (ZnCl₂) before 
+heating it to make carbon (Sakhiya et al., 2021). This method uses lower 
+temperatures between 4000C and 8000C compared to physical activation but still 
+results in activated carbon with many pores. Phosphoric acid is mostly used with raw 
+materials such as wood and farm waste, while potassium hydroxide is preferred when 
+making activated carbon wit very small pores especially for things like super 
+capacitors (Illingworth, Rand and Williams, 2022). 
+
+ 
+11 
+ 
+2.3.3.1.3 Combined Physical and Chemical Activation 
+Wiśniewska et al. (2022) mention that sometimes both chemical and physical 
+methods are used together to improve the surface area and pore structure of 
+activated carbon. This is usually done by first soaking the materials in chemicals and 
+then heating it at high temperatures in an oxidising environment. This method is 
+used for making high-performance carbon materials that are used in things like 
+energy storage and gas adsorption, where having more surface area and specific pore 
+size is important. 
+ 
+2.4 Water Treatment 
+2.4.1 Conventional treatment methods in relation to adsorption 
+2.4.1.1 Chemical precipitation 
+Chemical precipitation is accomplished through the addition of chemicals such as 
+lime, alum, or ferric salts to precipitate out dissolved heavy metals as solid 
+particulate matter. Lime precipitation, for instance, is suitable for the removal of 
+metals such as copper and zinc but generates enormous quantities of sludge. Recent 
+developments in co-precipitation methods, where heavy metals are co-precipitated 
+along with other contaminants, have improved efficiency and lowered the sludge 
+generation footprint (Siddha & Kumar, 2024). 
+ 
+2.4.1.2 Ion Exchange 
+Ion exchange/ resins are used to selectively remove heavy metal ions from water by 
+exchanging them with harmless ions like Na⁺ or H⁺. Modern ion exchange systems 
+
+ 
+12 
+ 
+utilize chelating resins with higher specificity for metals such as lead, mercury, and 
+cadmium. However, challenges like resin fouling and high costs for resin regeneration 
+limit their large-scale application. Emerging nano-enhanced resins and magnetic ion 
+exchangers aim to address these limitations by improving selectivity and operational 
+durability (Bettine, 2023). 
+2.4.1.3 Membrane Filtration 
+Membrane filtration techniques, including ultrafiltration, nanofiltration, and reverse 
+osmosis, remove heavy metals based on molecular size and charge. These methods 
+achieve high removal rates for metals like arsenic (As⁵⁺) and chromium (Cr⁶⁺). 
+Innovations in membrane materials, such as graphene oxide coatings and polymer 
+composites, enhance filtration efficiency and resistance to fouling. Hybrid systems 
+that integrate adsorption and membrane filtration are being explored to optimize 
+water treatment performance (Li & Hausladen, 2023). 
+2.4.1.4 Chemical and Electrocoagulation 
+Chemical coagulation makes use of reagents like ferric chloride and alum, which 
+function by neutralizing the charges of metal ions and thereby forming readily 
+removable flocs. Electrocoagulation, however, employs electric currents to sacrifice 
+anodes like aluminium or iron to form coagulants in the point of use. Both are highly 
+effective in treating a broad spectrum of metals like arsenic, copper, and lead. 
+Current advancements are aimed at making energy efficiency improvements, 
+merging these techniques with adsorption to drive increased contaminant removal 
+while simultaneously lowering chemical consumption (Bettine, 2023). 
+2.5 Adsorption 
+
+ 
+13 
+ 
+Adsorption is the process by which molecules, atoms or ions from a gas liquid or 
+dissolved solid accumulate on the surface of a material rather than diffusing into it. 
+It is a surface phenomenon driven by intermolecular forces like van der Waals 
+interactions or chemical bonding (Lima et al., 2021). Unlike absorption where a 
+substance is taken up by the entire volume of another material adsorption happens 
+only at the interface between two phases. This process is widely used in industries 
+such as water purification catalysis and gas separation. It can be classified into physi-
+sorption which involves weak physical forces and chemi-sorption which involves 
+stronger chemical bonds (Topare and Wadgaonkar, 2022). 
+2.5.1 Types of Adsorption 
+2.5.1.1 Physical adsorption 
+Physical adsorption, also known as physisorption, happens when weak Van der Waals 
+forces hold the adsorbate to the adsorbent. This process can be reversed and usually 
+occurs at low temperatures (Lei et al., 2022). 
+2.5.1.2 Chemical Adsorption 
+Chemical adsorption, or chemisorption, occurs when strong bonds like covalent or 
+ionic bonds are formed. This type is usually not reversible and happens at higher 
+temperatures, often creating a single layer on the adsorbent’s surface. (Sabadash 
+and Lysko, 2023). 
+ 
+ 
+
+ 
+14 
+ 
+2.5.2 Factors Affecting the Adsorption Process 
+2.5.2.1 Temperature 
+Temperature is very important in adsorption. In physical adsorption, higher 
+temperatures weaken the van der Waals forces, so less adsorption happens. In 
+chemical adsorption, higher temperatures help the reaction and can increase 
+adsorption (Morgan, Anstine and Colina, 2022). 
+2.5.2.2 Nature and Surface Area of Adsorbent 
+The physical and chemical properties of the adsorbent greatly impact adsorption 
+efficiency. Adsorbents with a higher surface area to volume ratio provide more active 
+sites for adsorption to occur. Additionally, the chemical nature of the adsorbent such 
+as functional groups determines its affinity for adsorbates. 
+2.5.2.3 pH of the Solution 
+The pH of the solution is important because it changes the ionization of both the 
+adsorbent and adsorbate. This is especially true for ion-exchange adsorption, where 
+pH changes can increase or decrease how well the adsorbate sticks (N’diaye et al., 
+2022). 
+2.5.2.4 Concentration of Adsorbate 
+A higher concentration of adsorbate usually leads to more adsorption, as there are 
+more molecules available to stick. However, when all the sites are filled, the process 
+reaches a limit (Bullen et al., 2021). 
+ 
+ 
+
+ 
+15 
+ 
+2.5.2.5 Presence of Competing Substances 
+In systems with more than one substance, different adsorbates may compete for the 
+same sites. This competition can lower the efficiency of adsorption for the target 
+substance. The adsorbent’s preference determines which substance sticks better 
+(Morgana Macena et al., 2025). 
+2.5.2.6 Ionic Strength of the Solution 
+In water, a high ionic strength can block the electrostatic forces between the 
+adsorbent and adsorbate, lowering the efficiency. Sometimes, it can also help by 
+compressing the electrical double layer and promoting particle clumping, which 
+improves interactions (Hu et al., 2013). 
+2.5.2.7 Contact Time 
+The time the adsorbate is in contact with the adsorbent is very important. A short 
+contact time may not allow complete adsorption, while a longer time can help reach 
+equilibrium and maximize adsorption. The needed time depends on the adsorbent 
+type, how fast adsorption happens, and other conditions (Zhao et al., 2014). 
+2.5.3 Adsorbents 
+Adsorbents are materials that help in the adsorption process. They can be natural, 
+man-made, or modified materials. Common examples are activated carbon, silica 
+gel, zeolites, and metal-organic frameworks (MOFs). Their effectiveness depends on 
+factors like surface area, porosity, and chemical attraction to the adsorbate 
+(Alaqarbeh, 2021). 
+ 
+ 
+
+ 
+16 
+ 
+2.5.3.1 Types of Adsorbents 
+2.5.3.1.1 Carbon-based adsorbents 
+Carbon-based adsorbents, such as activated carbon, have high surface areas and 
+many pores. They work well to remove organic contaminants, heavy metals, and 
+gases. They are used in water treatment, air purification, and chemical recovery 
+(Mahesh et al., 2022). 
+2.5.3.1.2 Zeolites 
+Zeolites are crystalline aluminosilicates with clear pore structures. They work well 
+for gas separation and water cleaning. Their ion-exchange ability lets them 
+selectively remove ions, making them useful for softening hard water and removing 
+heavy metals (Irannajad and Kamran Haghighi, 2020). 
+2.5.3.1.3 Metal-organic frameworks (MOFs)  
+MOFs are very porous materials with adjustable structures. They are good for gas 
+storage, separation, and catalysis. Their large surface area and customizable pore 
+sizes help them capture greenhouse gases and treat industrial waste (Moghadam, 
+Chung and Snurr, 2024). 
+2.5.3.1.4 Polymeric adsorbents 
+Polymeric adsorbents are synthetic materials made to selectively remove certain 
+contaminants. They are often used in medicine, drug delivery, and wastewater 
+treatment. These materials can be modified with specific groups to better capture 
+targeted pollutants (Moradi and Sharma, 2021). 
+ 
+ 
+
+ 
+17 
+ 
+2.5.4 Adsorption Isotherms 
+Adsorption isotherms show how adsorbates stick to adsorbents at a constant 
+temperature. The Langmuir and Freundlich isotherms are the two most common 
+models used to describe these interactions (Al-Ghouti and Da’ana, 2020). 
+2.5.4.1 The Langmuir isotherm 
+The Langmuir isotherm assumes monolayer adsorption on a homogeneous surface 
+with no interactions between adsorbed molecules. It is based on the concept that 
+all adsorption sites are energetically equivalent and that once a site is occupied, no 
+further adsorption can occur at that location (Saad Alafnan et al., 2021).  
+The equation for the Langmuir isotherm is: 
+𝟏
+𝑸𝒆
+=
+𝟏
+𝑸𝒎𝒂𝒙𝑲𝑳
+∗𝟏
+𝑪𝒆
++
+𝟏
+𝑸𝒎𝒂𝒙
+ 
+Where; 
+𝑸𝒆 – amount of adsorbed adsorbate molecule per gram of Adsorbent (mg/g) 
+𝑸𝒎𝒂𝒙 – capacity of the adsorbent monolayer (mg/g) 
+𝑪𝒆 – adsorbate equilibrium concentration (mg/L) 
+𝑲𝑳 – Langmuir Adsorption constant 
+The separation factor, 𝑹𝑳 
+𝑹𝑳=
+𝟏
+𝟏+ 𝑲𝑳𝑪𝒆
+ 
+The separation factor has the following values; 
+
+ 
+18 
+ 
+𝑹𝑳> 𝟏, unfavourable adsorption process (allows the adsorption process to occur, 
+most desorption processes occur) 
+𝑹𝑳= 𝟏, linear adsorption process (depending on the amount adsorbed and the 
+concentration adsorbed) 
+𝑹𝑳= 𝟎, Irreversible adsorption process (strong adsorption) 
+𝟎< 𝑹𝑳< 𝟏, Favourable adsorption process (normal adsorption) 
+Plotting a graph of 
+𝟏
+𝑸𝒆 against 
+𝟏
+𝑪𝒆 
+Parameters 
+𝟏
+𝑸𝒎𝒂𝒙
+= 𝒊𝒏𝒕𝒆𝒓𝒄𝒆𝒑𝒕 
+𝑸𝒎𝒂𝒙=
+𝟏
+𝒊𝒏𝒕𝒆𝒓𝒄𝒆𝒑𝒕 
+𝑲𝑳=
+𝟏
+𝑸𝒎𝒂𝒙∗𝒔𝒍𝒐𝒑𝒆 
+This model is particularly useful for predicting the maximum adsorption capacity of 
+an adsorbate onto an adsorbent (Rajahmundry et al., 2021). 
+2.5.4.2 The Freundlich isotherm 
+The Freundlich isotherm describes multilayer adsorption on heterogeneous surfaces 
+with varying adsorption sites. It accounts for surface heterogeneity and the 
+possibility of stronger interactions at certain sites (Kalam et al., 2021). 
+The equation for the Freundlich isotherm is: 
+𝑰𝒏𝑸𝒆= 𝑰𝒏𝑲𝒇+ 𝟏
+𝐧𝑰𝒏𝑪𝒆 
+
+ 
+19 
+ 
+Where; 
+𝑸𝒆 – amount of adsorbed adsorbate molecule per gram of adsorbent (mg/g) 
+𝑪𝒆 – adsorbate equilibrium concentration (mg/L) 
+𝑲𝑭 – adsorbate equilibrium concentration (mg/L) 
+𝒏 – value indicating degree of linearity between adsorbate solution and adsorption 
+process 
+The value of 𝒏 is described as follows; 
+𝒏= 𝟏, linear adsorption 
+𝒏< 𝟏, Adsorption process with chemical interaction 
+𝒏> 𝟏, adsorption process with physical interaction  
+Favourable adsorption process is declared when 𝟎<
+𝟏
+𝒏< 𝟏, and a cooperative 
+adsorption process occurs when  
+𝟏
+𝒏> 𝟏 
+Plotting a graph of 𝑰𝒏𝑸𝒆 against 𝑰𝒏𝑪𝒆 
+Parameters 
+𝑰𝒏𝑲𝒇= 𝒊𝒏𝒕𝒆𝒓𝒄𝒆𝒑𝒕 
+𝑲𝒇= 𝒆𝒔𝒍𝒐𝒑𝒆 
+𝟏
+𝒏𝑭
+= 𝒔𝒍𝒐𝒑𝒆 
+𝒏𝑭=
+𝟏
+𝒔𝒍𝒐𝒑𝒆 
+
+ 
+20 
+ 
+Unlike the Langmuir model, the Freundlich isotherm does not set a limit on how 
+much can be adsorbed, which makes it better for adsorption processes that involve 
+complex surfaces (Saad Alafnan et al., 2021). 
+ 
+2.5.5 Maximum Adsorption Capacity 
+Maximum adsorption capacity is the highest amount of adsorption an adsorbent can 
+achieve under perfect conditions. This value is found using experimental data and 
+mathematical models based on isotherm equations (Liu et al., 2024). Factors like 
+the type of adsorbent, surface treatment, and environmental conditions affect this 
+maximum capacity (Gayathiri et al., 2022). 
+2.5.6 Breakthrough Curves and Mass Transfer Zone 
+Breakthrough curves are graphs that show how the concentration of adsorbate in the 
+output changes over time, which helps in checking how effective an adsorption 
+column is (Apiratikul and Chu, 2021). The mass transfer zone (MTZ) is the area in 
+the column where adsorption is happening most actively (Danish et al., 2022). A 
+shorter MTZ means that the adsorption is more efficient, while a longer MTZ 
+indicates that the adsorbent may not be used effectively and could lead to 
+breakthrough (Danish et al., 2022). These measurements are very important when 
+designing systems for separation and purification based on adsorption. 
+2.5.7 Adsorbent regeneration 
+Adsorption regeneration refers to the process of restoring an adsorbent's capacity by 
+removing previously adsorbed substances, allowing the material to be reused. 
+
+ 
+21 
+ 
+Regeneration is essential in maintaining the efficiency and cost-effectiveness of 
+adsorption-based systems, particularly for industrial applications where continuous 
+operation is required (None Renu and Thandiwe Sithole, 2024). 
+2.5.7.1 Types of regeneration 
+2.5.7.1.1 Thermal Regeneration 
+Thermal regeneration involves heating the adsorbent to high temperatures to desorb 
+the retained adsorbate. This method is widely used for carbon-based adsorbents 
+such as activated carbon, where adsorbates with relatively low thermal stability can 
+be effectively removed (P. Márquez et al., 2022). The high temperatures break 
+intermolecular forces, allowing the adsorbate to evaporate or degrade. However, 
+excessive heating may damage the adsorbent’s structure, leading to reduced 
+adsorption capacity over multiple cycles (Sonmez Baghirzade et al., 2021). 
+2.5.7.1.2 Chemical Regeneration 
+Alsawy et al. (2022) explain that chemical regeneration uses solvents, acids, or 
+alkaline solutions to remove substances that have been adsorbed from the surface 
+of the adsorbent. This method works well for ion-exchange resins and certain 
+polymeric adsorbents. Changing the chemical environment causes the adsorbates to 
+either dissolve or be pushed off, which restores the adsorbent’s active sites. The 
+type of chemical used depends on the nature of the adsorbate, and care must be 
+taken to avoid causing permanent damage to the adsorbent. 
+2.5.7.1.3 Steam Regeneration 
+According to Jareteg et al. (2021), steam regeneration is an effective way to remove 
+volatile organic compounds (VOCs) and other adsorbates from porous adsorbents like 
+
+ 
+22 
+ 
+activated carbon and zeolites. When steam is introduced, it pushes the adsorbates 
+away by reducing their interaction with the adsorbent surface. This method is 
+common in wastewater treatment and air purification because it is environmentally 
+friendly and does not require harsh chemicals. 
+2.5.7.1.4 Electrochemical Regeneration 
+Electrochemical regeneration is a modern method that uses an electric current to 
+help remove adsorbates. This technique is especially useful for adsorbents that 
+remove heavy metals because it can selectively regenerate them by changing the 
+oxidation state of the adsorbed species. It is highly efficient and produces very little 
+secondary waste, making it a good option for sustainable wastewater treatment 
+processes (Zhou et al., 2021). 
+2.5.7.1.5 Biological Regeneration 
+Biological regeneration uses microorganisms to break down or transform adsorbed 
+substances into harmless by-products. This approach is often used for bio-based 
+adsorbents and in activated sludge systems. The success of this method depends on 
+factors such as the activity of the microorganisms, the nature of the adsorbate, and 
+the surrounding environmental conditions (Jain et al., 2021). 
+ 
+
+ 
+23 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.1 Introduction 
+This section explains the steps used to evaluate water quality and the effectiveness 
+of biochar materials in removing heavy metals. It includes measuring the physical 
+and chemical properties of river water, preparing and testing biochar made from 
+rice husks and brewer’s spent grain, and figuring out the best conditions for biochar-
+based water treatment, such as the proper mixing ratios, contact time, and pH. 
+These steps are important because they provide useful data for creating effective 
+water treatment solutions. 
+3.1.1 Research Design 
+A quantitative experimental design was used to evaluate the effectiveness of BSG 
+and RH in removing heavy metals from water. Water samples were treated using 
+different BSG-RH ratios in laboratory scale experiments. Parameters such as pH, 
+Electrical Conductivity, Total Dissolved Solids, Iron and Copper were measured 
+before and after treatment. Data were analysed to determine removal efficiency 
+and compare treatment performance. Statistical analysis was used to validate the 
+results. Below is the layout of the procedure followed t achieving the results from 
+the experiments. 
+Proposal 
+submission 
+Literature 
+review 
+Methodology 
+Laboratory 
+analysis 
+Results and 
+discussion 
+Conclusions and 
+recommendations 
+Figure 1: Research Design Flow Chart 
+
+ 
+24 
+ 
+3.1.2 Area of Study 
+ 
+The study's focus is the Lower Nyakasanga I Parish region of the River Nyamwamba 
+in Kasese district, Western Uganda (0012'30.0" N, 30000'25.0" E), where the local 
+population actively depends on the river as their sole supply of water for everyday 
+household needs. Few individuals in this area can pay the National Water and 
+Sewerage Corporation's (NWSC) treated water distribution, and the hilly terrain 
+makes it difficult to deliver water to different homesteads (Oyesigye et al, 2024). 
+The Kilembe mines with their enormous copper tailings dump along most of this 
+section of the river in the upper section, domestic activities like washing motorbikes, 
+bathing, and laundry in the mid-section, and sand/clay mining activity downstream 
+are the main features of the Lower Nyakasanga region that was the focus of the 
+study, as depicted on the map in Figure 1. With sample locations A (00 11’ 38’’N, 
+300 4’ 54’’E) upstream, B (00 11’ 40’’N, 300 5’ 32’’E) midstream, and C (00 11’ 
+Figure 2: Map showing area of study 
+Point A 
+Point C 
+Point B 
+Direction of Flow 
+0 
+80 
+
+ 
+25 
+ 
+39’’N, 300 6’ 6’’E) downstream, the sampling sections and points (A, B, and C) were 
+chosen in accordance with the previously specified activities.  
+3.2 Determining the physico-chemical quality characteristics of the raw water 
+from the river.  
+This procedure outlines the steps that were carried out for in situ measurement of 
+pH, Electrical Conductivity (EC), and Total Dissolved Solids (TDS) in the river water 
+using a multimeter. These measurements followed the guidelines specified in the 
+APHA 23rd edition (2017). 
+3.2.1 Materials and Equipment 
+i. 
+Multimeter: A portable, calibrated device that was used to measure pH, EC, and 
+TDS. 
+ii. 
+Distilled Water: Distilled water was used for rinsing probes between 
+measurements. 
+iii. 
+Field Sampling Kit: The kit included gloves, sample containers, and data sheets. 
+iv. 
+Flame Atomic Absorption Spectrophotometer: This equipment was used to 
+measure the concentration of the heavy metal ions in the raw water. 
+3.2.2 Field Measurement Procedure 
+3.2.2.1 Site Selection and Sample Point Identification 
+Sampling was done in the months of November 2024, December 2024 and January 
+2025. The water samples were picked from River Nyamwamba in Kasese district, 
+Western Uganda (0012'30.0" N, 30000'25.0" E) focusing on Nyakasanga I Parish region 
+where most of the population actively relies on the river as the only source of water 
+for daily domestic use.  
+
+ 
+26 
+ 
+Three sampling points were selected along the section of the river namely A, B and 
+C where three water samples and sediment samples were collected in the morning 
+hours between 9am and 11am with in -situ tests being done on pH, Electrical 
+Conductivity, Total Dissolved Solids and Temperature for each sampling location. The 
+sampling points were 5m from the average river bank demarcations due to the 
+seasonal changes of the river banks attributed to climate change. 
+ 
+3.2.2.2 Sampling procedure 
+The sampling procedure was determined according to World Health Organization and 
+American Public Health Association standard guidelines for sampling for heavy metal 
+analysis. 
+The borosilicate glass bottles for sample collection were first rinsed with the nitric 
+acid 1:1 24 hours prior to sampling as a pre-conditioning method. This is done 
+because samples collected were to be acidified (using nitric acid, 1:1 50%) in 
+preservation of heavy metal ions (APHA, 2017).  
+During collection, the borosilicate glass was placed into the river at a subsurface 
+depth of about 20cm with the mouth of the jar facing the water current of the river 
+(upstream) till it was full. Nitric acid (1:1, 50%) was then added to the sample using 
+glass droppers while taking note of the pH till the sample was at pH<2.  
+Afterwards the sample was labelled clearly indicating the details of sample number, 
+location of sampling point, date, time, temperature and pH. The sample was then 
+placed in a cooling box with ice to keep it in a temperature range of 4-8oC.  
+
+ 
+27 
+ 
+Simultaneously, in-situ tests for the other parameters pH, Electrical Conductivity 
+(EC), Total Dissolved Solids (TDS) and Temperature were carried out three times at 
+the location that the sample was picked using a multimeter. The multimeter probe 
+was first rinsed with distilled water and then it was submerged into the sample 
+ensuring that the sensor was fully covered. The values displayed on the screen of 
+the multimeter were allowed to stabilize for 1-2 minutes before reading off and 
+recording the values of the respective parameters. 
+3.2.2.3 Heavy metal ion measurement using the FAAS (APHA 3111 B) 
+The nitrified samples to be analysed for heavy metals of copper and iron were 
+restored to their original in situ pH when collected. the sample containing the 
+elements of interest was introduced into a flame and heated in a graphite furnace 
+to atomise it then a monochromatic light source was then passed through this 
+atomised sample. At the characteristic wavelength of the element being analysed, 
+the atoms in the sample absorbed light. The amount of absorption is directly 
+proportional to the concentration of the Heavy Metal ion concentration present in 
+the sample. The concentrations of the ions were thus recorded. 
+3.2.3 Post-Measurement Handling 
+i. 
+The probe was rinsed and cleaned with distilled water after completing 
+measurements. 
+ii. 
+The multimeter was stored according to the manufacturer's guidelines. 
+3.2.4 Quality Control 
+i. 
+Measurements were taken in triplicates at each sampling site to ensure reliability 
+and accuracy of the measurements.  
+
+ 
+28 
+ 
+3.2.5 Safety Considerations 
+i. 
+Gloves were worn to prevent contamination and to protect against potential 
+hazardous contact with the water. 
+ii. 
+Electrical components of the multimeter were kept dry and away from water. 
+
+ 
+29 
+ 
+3.3 Determining the sorption properties of rice husks and Brewer’s spent grain. 
+3.3.1 Material preparation 
+3.3.1.1 Pyrolysis 
+The materials were collected and oven-dried at 1050C for 24 hours to remove 
+moisture. The dried materials were loaded into pots with minimum compaction in 
+order to allow for heat dissipation and sealed off. Thereafter they were subjected 
+to slow pyrolysis by heating to a temperature of about 5000C in an oxygen limited 
+environment for 3 hours to produce a biochar out of them. The biochar was allowed 
+to cool in an inert environment to avoid oxidation. 
+3.3.1.2 Activation 
+After pyrolysis, the materials were both loaded into an autoclave and therefore 
+subjected to steam of about 1300C for 2hours in order to activate these materials. 
+Distilled water was used during this process and added when it was replenished. 
+3.3.2 FTIR Characterisation Procedure 
+The Fourier Transforms Infrared Spectroscopy (FTIR) analysis was used on the 
+activated biochars in order to determine and identify the functional groups that 
+were formed with each of these two materials before any treatment and after the 
+activation treatment. The FTIR machine (model FT/IR-6600, Japan; M/C Serial 
+Number No: - A027761790) was used in accordance to ISO 10993-1 for Biomaterials.  
+To rule out the presence of particles other than the samples being worked on, the 
+background was first measured after turning on the machine without inserting any 
+samples and a graph was plotted. After opening the machine and loading the sample 
+onto the sample holder, the sensing lens was adjusted until it made slight contact 
+
+ 
+30 
+ 
+with the sample. Transmittance (%) Vs wavenumber (cm-1) graphs were plotted and 
+shown. Both the horizontal and vertical axes had scales set from 4000 to 400cm-1 
+and 0 to 100%T respectively to provide key information about the functional groups 
+present in the materials. 
+ 
+
+ 
+31 
+ 
+3.4 Determining the optimum mixing ratios of rice husks and brewer’s spent grain 
+to remove heavy metals from the water. 
+3.4.1 Materials and Equipment 
+i. 
+Biochars: Two types of biochar (Biochar A for Rice Husks and Biochar B for BSG) 
+to be used. 
+ii. 
+Cotton: Cotton was used to act as a filtration bed at the bottom. 
+iii. 
+Sample Water: Surface raw water of known HM concentration or synthetic water 
+with known heavy metal concentrations will be prepared. 
+iv. 
+A pH meter 
+3.4.2 Experimental Procedures 
+3.4.2.1 Column experiments to determine the Optimum Mix Ratio 
+A first column experiment was performed in order to ascertain the optimal mixing 
+proportion of rice husk biochar (RH) and brewers spent grain biochar (BSG) as a single 
+composite adsorbent material. Mixtures of the two biochars were prepared with 
+different mass proportions of RH to BSG, along with controls of each biochar 
+separately. The ratios used were of the following compositions; Only RH, 3:1(3 RH 
+and 1 BSG), 1:1 (1 RH and 1 BSG), 1:3 (1 RH and 3 BSG) and Only BSG. 
+The column setup was made up of 6cm diameter containers (D1, D2, D3, D4, D5) 
+which were each filled randomly with one of the mix ratios of the material and a 
+thin layer of cotton at the bottom of the container as a support media for the 
+adsorbent in the container. 
+A standard solution of 3mg/l copper and 3mg/l Iron was prepared in the laboratory 
+from Copper (II) Sulphate Pentahydrate solution (CuSO4. 5H20) and Iron (II) Sulphate 
+
+ 
+32 
+ 
+Heptahydrate solution (FeS04. 7H20) respectively. The solution was pH 7.0. This 
+solution was allowed to pass through the various containers of different mix ratios 
+of adsorbent above at a flow rate of 0.06 L/min left to flow by gravity and the 
+filtrate collected from the bottom for each collected for analysis of heavy metals 
+using the Flame Atomic Absorption Spectrometry (FAAS). 
+The mixture ratio that yielded the optimal average removal efficiency was 
+ascertained and utilized as the optimal ratio and subsequently used in the rest of 
+the experiments. The percentage removal efficiency was calculated from; 
+𝑹𝒆𝒇𝒇= (𝑪𝒐−𝑪𝒆)
+𝑪𝒐
+∗𝟏𝟎𝟎 
+3.4.2.2 Batch experiments to determine the Adsorption kinetics 
+Batch tests were conducted in order to analyse the adsorption kinetics and the rate 
+of consumption of the adsorbent with respect to the adsorbate. Different masses of 
+the adsorbent were produced (5g, 10g, 15g, 15g, 20g, and 25g) by using the optimum 
+mixing proportion (1:3 parts of RH to BSG). A known mass in each instance was added 
+to a jar containing 500ml of the solution prepared by using 3mg/l concentration for 
+copper and iron. The solution in every jar and its corresponding weight of the 
+adsorbent was agitated at 150 revolutions per minute for 90 minutes. At the end of 
+the 90 minutes, the solutions in every jar were filtered and the filtrates determined 
+for heavy metals using FAAS. 
+The adsorbent phase concentration after equilibrium was determined for each mass 
+variation was determined using; 
+𝑸𝒆= 𝑽
+𝑴∗(𝑪𝒐−𝑪𝒆) 
+
+ 
+33 
+ 
+The adsorbent's maximum adsorption capacity was determined through the Langmuir 
+and Freundlich adsorption isotherm models, and the acquired data were fitted to 
+each model in order to identify the adsorption mechanism employed between the 
+adsorbate and the adsorbent. 
+3.4.2.3 Column experiments to determine the Optimum mix ratio 
+Column experiments were carried out using different masses (40g, 60g and 80g) of 
+the known mix ratio. These masses were each packed in a column with cotton at the 
+bottom of the column as described before and a solution containing both the iron 
+and copper at 3mg/L each was allowed to pass through the columns by gravity at 
+flow rate of 0.06L/min. The filtrate at the bottom was collected and analysed for 
+heavy metals using the FAAS. The optimum mass and corresponding height for the 
+given parameters of flow rate and initial concentrations was then determined and 
+used subsequently in the design to follow 
+3.4.2.4 Column experiments to determine the Breakthrough characteristics 
+The optimum mass obtained from the previous test was used to determine the 
+breakthrough and exhaustion time of the material in the fixed bed column. A solution 
+containing both concentrations of iron and copper 3mg/L each were passed through 
+the material by gravity at a constant flow rate of 0.06 L/min. The experiment was 
+left to run for a total of two hours and the at six different intervals, the 
+concentrations were measured from filtrates obtained from the experiment. A graph 
+of 
+𝑪𝒐
+𝑪𝒆  against time was plotted and the breakthrough time and exhaustion time of 
+the materials were obtained when 
+𝑪𝒐
+𝑪𝒆= 𝟎. 𝟎𝟓 and 
+𝑪𝒐
+𝑪𝒆= 𝟎. 𝟗𝟓 respectively. 
+ 
+ 
+
+ 
+34 
+ 
+3.5 Designing the appropriate adsorption system 
+A granulated activated carbon (GAC) system was designed based on the demand 
+capacity for a household in Nyakasanga parish following data from Uganda Water 
+Supply Design Manual (MWE, 2013), World Health Organization (2020) and Uganda 
+Bureau of Statistics (2024). The column adsorption system dimension specifications 
+were calculated from the desired flow rate to cater for the daily household capacity, 
+the adsorbent usage rate and the retention time of the system. 
+ 

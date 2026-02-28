@@ -1,0 +1,239 @@
+This project addresses the problem of high-quality potable water being used to
+carry out low quality tasks such as flushing in toilets and urinals by offering an
+affordable, yet environmentally friendly way of harnessing treated wastewater
+effluent for non-potable applications. This research aims to assess the raw quality
+(physicochemical and microbiological characteristics) of treated wastewater
+effluent from the UCU wastewater treatment plant and treat it with reference to
+how it complies with established reclaimed water standards for use in toilet and
+urinal flushing.
+Uganda Christian University (UCU) purchases large volumes of potable water from
+National Water and Sewerage Corporation (NWSC) on a monthly basis. This water is
+used to ensure smooth running university activities such as cleaning, cooking,
+drinking, and waste management. Studies show that about 20-40% of domestic
+water demand is consumed in toilet flushing and 50-70% of commercial water
+demand (Ilemobade et al., 2012).
+
+ii
+
+DECLARATION
+I, LOKWANG DOMINIC with registration number M22B32/021 hereby declare that
+this is my original work, is not plagiarized and has not been submitted to any other
+institution for any award.
+Student’s name: LOKWANG DOMINIC
+Sign: ............................................................. Date: ...................................................
+
+iii
+
+APPROVAL
+This research project report submitted by LOKWANG DOMINIC to the Department
+of Engineering and Environment at Uganda Christian University has been carried
+out and compiled under constant supervision.
+Eng. Prof. ELEANOR WOZEI
+Academic Supervisor (Uganda Christian University)
+Signature: ...........................................
+Date: ....................................................
+
+iv
+
+DEDICATION
+This report is dedicated to my brother as well as the father Dada Ross Romano, my
+wife Sagal Kevin and my children Dada Jerome, Nading Davin and Lopeyo Darius for
+their constant love and support throughout my education journey and through
+every season of my life thus far. This research is a testament of your loving
+guidance and perseverance to shape me into valuable citizen of this country. I am
+grateful for the sacrifices and investments you have made for my future.
+
+v
+
+ACKNOWLEDGEMENT
+I give all glory and thanks to God Almighty for His boundless grace, wisdom, and
+strength throughout the length of my academic life. without His guidance and
+favors, it would have been impossible to complete this study. In times of doubt and
+uncertainty, His presence was my hope and strength.
+I am highly grateful to my parents/supporters especial Dada Ross, Lokwang Alfred,
+Baatom Ben Koryang Nasur Charles, Lodung Francis, Bilamoe Reymond, Lopeyo
+Simon Nading and Bwire Paul Wafula my research partner) for their unlimited love,
+kindness, and sacrifices, their guidance and belief in me have been the foundation
+of my quest for studies. Their encouraging words and blessings have been the
+driving force that has helped me get to this milestone, and I will forever be
+thankful for their contribution to my life.
+I would also like to express my sincerest thanks to my supervisor, Eng. Prof.
+Eleanor Wozei, for her invaluable guidance, patience, and constructive criticism
+throughout the duration of this study. Her professionalism and dedication not only
+had an impact on the quality of this research but have compelled me to grow
+academically and personally too. In a special way, I thank my project partner
+Lokwang Dominic for his continuous contribution and support in the making of this
+research.
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ...................................................................................... i
+DEDICATION ................................................................................... iv
+ACKNOWLEDGEMENT ......................................................................... v
+LIST OF FIGURES ............................................................................ viii
+LIST OF TABLES ............................................................................... ix
+LIST OF ACRONYMS AND ABBREVIATIONS ................................................. x
+CHAPTER ONE: GENERAL INTRODUCTION ................................................ 1
+1.0 BACKGROUND ............................................................................. 1
+1.1.0 PROBLEM STATEMENT ........................................................... 1
+1.1.1 MAIN OBJECTIVES ................................................................ 2
+1.1.2 SPECIFIC OBJECTIVES ........................................................... 2
+1.1.3 RESEARCH QUESTIONS ............................................................. 2
+1.1.4 JUSTIFICATION .................................................................... 3
+1.1.5 CONTENT SCOPE.................................................................. 3
+1.1.6 GEOGRAPHICAL SCOPE .......................................................... 4
+TIME SCOPE .................................................................................. 4
+CHAPTER TWO: LITERATURE REVIEW ...................................................... 5
+2.0 INTRODUCTION......................................................................... 5
+2.1.2 Case Studies of Implemented Wastewater Effluent Reuse Systems .... 8
+Water Factory 21, Orange County California ....................................... 8
+2.1.3 Sembcorp NEWater plants, Singapore ........................................ 9
+Treatment Of Wastewater Effluent to Meet Non-Potable Water Quality ...... 13
+2.1.4 Depth filtration ................................................................. 14
+2.1.5 Estimating the performance of a depth filter in the reduction of the
+turbidity of wastewater secondary effluent. ....................................... 15
+CHAPTER THREE: METHODOLOGY ....................................................... 19
+3.1.0 Determining the Physicochemical and Bacteriological Characteristics
+of Raw Ucu Effluent. .................................................................. 20
+3.1LABORATORY TESTS ............................................................... 20
+3.1.0 Biochemical Oxygen Demand (BOD5) ....................................... 20
+3.1.1 COLOR ............................................................................ 22
+3.1.2 pH value ......................................................................... 23
+
+vii
+
+3.1.3 Total coliforms .................................................................. 23
+3.1.4 E. coli ............................................................................ 24
+3.1.5 TURBIDITY ....................................................................... 25
+CHAPTER FOUR: RESULTS AND DISCUSSION ............................................ 27
+4.1 INTRODUCTION....................................................................... 27
+4.1.0 Physicochemical and Bacteriological Characteristics of Raw Effluent
+from The Ucu Wastewater Treatment Plant. ..................................... 27
+TURBIDITY ................................................................................. 28
+COLOR ...................................................................................... 30
+ESCHERICHIA. COLI (E. Coli) ............................................................ 31
+pH VALUE .................................................................................. 32
+4.1.8 Determining the cost benefit analysis. ....................................... 66
+4.1.9 Concrete Mix Design ............................................................ 66
+5.0 Conclusion ............................................................................... 77
+The higher-pressure nodes may need regulation to prevent excessive pressure and
+potential pipe damage in low laying areas ............................................... 77
+References ................................................................................... 79
+
+viii
+
+LIST OF FIGURES
+Figure 1: Sembcorp NEWater Plant in Singapore (Changi Water Reclamation Plant &
+Sembcorp NEWater Plant, 2023) ........................................................... 10
+Figure 2: A Reclaimed water pumping station for instream flow and agricultural
+irrigation (Mujeriego et al., 2008). ....................................................... 13
+Figure 3: A flow chart showing the unit process technologies for removal of
+particulate matter from treated wastewater effluent (Metcalf & Eddy Inc. et al.,
+2014). .......................................................................................... 14
+Figure 4: A flow chart showing options for the reduction of effluent turbidity .... 16
+Figure 5: trend over seven-year period ................................................... 30
+Figure 6: E. Coli trend over seven-year period .......................................... 32
+Figure 7: pH trend over seven-year period .............................................. 33
+Figure 11: show load profile ............................................................... 11
+Figure 12:showing the Distribution network (EPANET 2.2) ............................. 19
+Figure 13:showing pressure distribution ................................................. 22
+Figure 14:showing the graph of demand distribution. ................................. 23
+Figure 15: showing elevation differences ................................................ 23
+Figure 16:Payback period ................................................................... 74
+Figure 17: map of ucu extracted using Google earth ..................................... 1
+
+ix
+
+LIST OF TABLES
+Table 1: Estimating the performance of a second depth filter ....................... 16
+Table 2: The parameters tested to determine the effluent quality (Public Utilities
+Board (PUB), 2014). ......................................................................... 26
+Table 3: Shows Time taken to fill a 19L bucket of influent ............................ 34
+This approach enables safe and reliable supply of water to be reused for sanitary
+flushing while preventing risks of cross connection with the potable water system.
+Table 4: showing calculation table .......................................................... 2
+Table 5:showing the cost benefit analysis. ................................................. 5
+Table 6: showing Dataset for the distribution line. (coordinates) ................... 12
+Table 7: showing nodes variations ........................................................ 19
+Table 8:showing Links variations .......................................................... 20
+Table 9:Showing material acquisition ..................................................... 68
+Table 10:showing estimated cost of the materials ...................................... 71
+Table 11:showing present value using volume of 50m3/day .......................... 75
+Table 12:showing price list from Gentex enterprises .................................. 2
+
+x
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+AWWTP..................................... Activated Waste Water Treatment Plant
+BOD.......................................... Biochemical Oxygen Demand
+CAPEX.......................................Capital expenditure
+DF...................................................Discounting factor
+DN................................................Nominal diameter
+HDPE.............................................High density pipe
+LPS........................................... Liters per second
+NWSC....................................... National Water and Sewerage Corporation
+TPV.............................................. Total present value
+UF............................................. Ultrafiltration
+US EPA.................................... United States Environmental Protection Agency
+O&M..........................................operation and maintenances
+PI............................................. Profitability index
+PUB.......................................... Public Utilities Board (in Singapore)
+PN.............................................Nominal pressure
+UCU..........................................Uganda Christian University
+U-PVC.......................................Unplasticized polyvinyl chloride
+UV........................................... Ultraviolet (radiation)
+VOCs........................................ Volatile Organic Compounds
+
+xi
+
+WHO........................................ World Health Organization
+
+CHAPTER ONE: GENERAL INTRODUCTION
+1.0 BACKGROUND
+Uganda Christian university is currently using high quality potable water for nonpotable use in toilet and urinals, irrigation leading to incorrection use of treated
+water consequently the university incurs a substantial burden due to its
+dependence on potable water supplied by national water and sewerage
+corporation. Over the last years, UCU spent between UGX 30million and UGX 40
+million per month on potable water, equivalent to approximately 6000 to 7000
+cubic meters monthly (Mangene, 2025)
+Implementation of a wastewater effluent reuse would reduce the demand of
+potable water hence enhance sustainable environment by reducing volume of
+treated effluent discharged to environment.
+UCU activated wastewater treatment plant was commissioned in 2006 the first
+facility of it is kind in Uganda, it handles wastewater generated from the university
+residences including cooking, cleaning, washing and human waste management.it
+waste constructed to support on decentralized waste management, wastewater
+from toilet, showers and laundry areas is processed through a treatment system
+consisting of solid waste removal biological decomposition and chlorination.
+Influent from campus activities is converted to treated effluent that is safe for
+discharge into environment.
+1.1.0 PROBLEM STATEMENT
+Uganda Christians university currently relies on potable water for non potale uses
+such as flushing toilets and urinal plus irrigation resulting to inefficient allocation
+
+of quality water, as potable water is being used for task that do not reuire such
+standards the practice is unsustainable and contribute to unnecessary strains on
+the university`s water resources. UCU Has it`s financial burdens incurred to NWSC
+for low grade over a period of five years, ucu has consistently spent between thirty
+million to forty million with equal volume of treated water of 6000 cubic metre to
+7000 cubic meter monthly
+Implementation of a wastewater effluent reuse would reduce the demand of
+potable water hence enhance sustainable environment by reducing volume of
+treated effluent discharged to environment.
+1.1.1 MAIN OBJECTIVES
+To Assess the suitability of a wastewater effluent reuse in application for nonpotable use
+1.1.2 SPECIFIC OBJECTIVES
+1. To determine the physicochemical and bacteriological characteristics of UCU
+effluent.
+2. Determine the quantity of effluent discharge and design a non-potable water
+distribution system
+3. To conduct a comprehensive cost benefit analysis of the wastewater effluent
+reuse.
+1.1.3 RESEARCH QUESTIONS
+1. What are the physicochemical and bacteriological characteristics of raw
+UCU effluent.
+2. What is the amount of effluent discharge from wastewater treatment plant.
+
+3. What is the cost-benefit analysis of the wastewater effluent reuse system.
+1.1.4 JUSTIFICATION

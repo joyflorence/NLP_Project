@@ -1,0 +1,174 @@
+doc_id,file_name,extractor_used,word_count,scanned_suspected,error,success
+DOC0001,"2025_DSC3114 - Scientific writing, reporting and publishing (Advent2025) BSCS&BSDs_30Sept2025.pdf",pymupdf,1512,False,,True
+DOC0002,ACHIARA E J_BBA_2023.pdf,pymupdf,8909,False,,True
+DOC0003,Agaba F_BSCEE_2025.pdf,pymupdf,8643,False,,True
+DOC0004,Agoth P_BSOGM_2024.pdf,pymupdf,10311,False,,True
+DOC0005,Ahumuza BIBM_2023 (1).pdf,pymupdf,6855,False,,True
+DOC0006,Ahumuza BIBM_2023.pdf,pymupdf,6855,False,,True
+DOC0007,Ahumuza S_BSCEE_2026.pdf,pymupdf,9281,False,,True
+DOC0008,AKANDWANAHO E_BSAF_2023.pdf,pymupdf,11859,False,,True
+DOC0009,Akatukunda N-BSW-2025.pdf,pymupdf,10043,False,,True
+DOC0010,Akatukunda N_BSW_2025.pdf,pymupdf,9562,False,,True
+DOC0011,Akatukunda-R-BDIV-2025.pdf,pymupdf,10253,False,,True
+DOC0012,Akello B_BSW_2025.pdf,pymupdf,11651,False,,True
+DOC0013,Akile F E_BASE_2025.pdf,pymupdf,8842,False,,True
+DOC0014,AKISA D.J_BSWASA_2024.pdf,pymupdf,13429,False,,True
+DOC0015,Alaku P_BDIV_2024.pdf,pymupdf,14160,False,,True
+DOC0016,Amuge G_BBA_2024.pdf,pymupdf,10579,False,,True
+DOC0017,Amule L M_BSCEE_2025.pdf,pymupdf,8303,False,,True
+DOC0018,Amuno A_J_BAJC_2024.pdf,pymupdf,5874,False,,True
+DOC0019,Anyango J_BBA_2025.pdf,pymupdf,9697,False,,True
+DOC0020,Apaama M_BBA_2025.pdf,pymupdf,11219,False,,True
+DOC0021,Apiyo S_BHRM_2024.pdf,pymupdf,11227,False,,True
+DOC0022,ARINAITWE G E_BSAF3_2023.pdf,pymupdf,9836,False,,True
+DOC0023,Arinamukama K_BASE_2025.pdf,pymupdf,10045,False,,True
+DOC0024,Arthur Nuwagaba_Article Publication_2023.pdf,pymupdf,11156,False,,True
+DOC0025,Article 32.pdf,pymupdf,9073,False,,True
+DOC0026,Article 33 (1).pdf,pymupdf,8181,False,,True
+DOC0027,Ashaba AM_BSCEE_2025.pdf,pymupdf,8130,False,,True
+DOC0028,Asiimire R_LLB_2024.pdf,pymupdf,16329,False,,True
+DOC0029,ASIIMWE S _BBA_2023.pdf,pymupdf,8481,False,,True
+DOC0030,Asonya J_BSCEE_2026.pdf,pymupdf,9739,False,,True
+DOC0031,Atuhaire R_BAJC_2024.pdf,pymupdf,9482,False,,True
+DOC0032,ATUHAIRE R_BHRM_2023.pdf,pymupdf,10713,False,,True
+DOC0033,Atuhaire T_BJAC_2024.pdf,pymupdf,9024,False,,True
+DOC0034,AYO J_BASE_2025.pdf,pymupdf,10787,False,,True
+DOC0035,Babirye K_E_BSCEE_2026.pdf,pymupdf,10859,False,,True
+DOC0036,Bamanisa K R_BSCEE_2025.pdf,pymupdf,8571,False,,True
+DOC0037,Basemera E_BSAF_2023.pdf,pymupdf,9342,False,,True
+DOC0038,Big Data Mining_Lecture 9_Ensemble_Techniques.pdf,pymupdf,1858,False,,True
+DOC0039,Big Data Mining_Lecture3_Mining_Techniques.pdf,pymupdf,1955,False,,True
+DOC0040,BIJOBWA I_BD_2023.pdf,pymupdf,10849,False,,True
+DOC0041,Bulletin Ecologic Soc America - 2016 - Turbek - Scientific Writing Made Easy  A Step‐by‐Step Guide to Undergraduate Writing.pdf,pymupdf,5103,False,,True
+DOC0042,Byaruhanga_Called by God but Ordained by Men_2009.pdf,pymupdf,8691,False,,True
+DOC0043,calculus 1 .pdf,pymupdf,21941,False,,True
+DOC0044,Calculus_assignment1.pdf,pymupdf,781,False,,True
+DOC0045,Chemutai G_BBA_2025.pdf,pymupdf,13369,False,,True
+DOC0046,Cheptoek B_BSCEE_2025.pdf,pymupdf,8632,False,,True
+DOC0047,Chibita_Indigenous Language Media and Freedom of Expression in Uganda_2016.pdf,,0,False,Both extractors failed,False
+DOC0048,ChildEvangelismGlobalAnglican.pdf,pymupdf,8013,False,,True
+DOC0049,Continuity.pdf,pymupdf,7662,False,,True
+DOC0050,CSC3116 MACHINE LEARNING -BSCS.pdf,pymupdf,1297,False,,True
+DOC0051,Cwinyaai W_BDIV_2025.pdf,pymupdf,10873,False,,True
+DOC0052,Cyber and Digital Forensics_2.0.pdf,pymupdf,1765,False,,True
+DOC0053,Cyber and Digital Forensics_3.0.pdf,pymupdf,558,False,,True
+DOC0054,Data Protection and Privacy Act No. 9 of 2019.pdf,,0,False,Both extractors failed,False
+DOC0055,Data Science_Course Outline.pdf,pymupdf,607,False,,True
+DOC0056,Data Structures and Algorithms Theory.pdf,pymupdf,3,True,,True
+DOC0057,Dependence.pdf,pymupdf,1022,False,,True
+DOC0058,Differentiation and Difference Operators.pdf,pymupdf,7773,False,,True
+DOC0059,"Draft Genome Sequence of Solanum aethiopicum Provides Insights Into Disease Resistance, Drought Tolerance, and the Evolution of the Genome.pdf",pymupdf,11875,False,,True
+DOC0060,Driliga M_BASE_2025.pdf,pymupdf,55,False,,True
+DOC0061,"DSC3114 - Scientific writing, reporting and publishing (Advent2025) BSCSBSDs.pdf",pymupdf,1486,False,,True
+DOC0062,DSC3114_Course_Outline - Copy.pdf,,0,False,Both extractors failed,False
+DOC0063,DSC3114_Course_Outline.pdf,,0,False,Both extractors failed,False
+DOC0064,Ebyakagonza A_BD_2023.pdf,pymupdf,10772,False,,True
+DOC0065,Emodit N_BSAF_2023.pdf,pymupdf,13600,False,,True
+DOC0066,Ethically-Questionable-Behavior-and-Consumerism-in-Uganda_-A-Survey-of-University-Students.pdf,pymupdf,1056,False,,True
+DOC0067,Finite Difference Operators.pdf,pymupdf,10086,False,,True
+DOC0068,Flow+.pdf,pymupdf,5644,False,,True
+DOC0069,Functions.pdf,pymupdf,12371,False,,True
+DOC0070,Fundamentals of Web Design (1).pdf,pymupdf,1272,False,,True
+DOC0071,Gamukama M_BSCEE_2026.pdf,pymupdf,10734,False,,True
+DOC0072,Gum A_BAJC_2024.pdf,pymupdf,13466,False,,True
+DOC0073,Higaye DE_BBA_2025.pdf,pymupdf,9323,False,,True
+DOC0074,Ingabire M_BPLM_2024.pdf,pymupdf,10945,False,,True
+DOC0075,Ingima S C O_BBA2023.pdf,pymupdf,7588,False,,True
+DOC0076,Interpolation.pdf,pymupdf,6757,False,,True
+DOC0077,Inua M_BDIV_2025.pdf,pymupdf,8579,False,,True
+DOC0078,Isoobo D B_BASE_2025.pdf,pymupdf,7679,False,,True
+DOC0079,Kagwisagye R_BPLM_2023.pdf,pymupdf,9166,False,,True
+DOC0080,Kakooza_IP enforcement_2010.pdf,pymupdf,14725,False,,True
+DOC0081,Kakooza_land law reform in Uganda_2008.pdf,pymupdf,4806,False,,True
+DOC0082,Katono_Constraints to Ugandan SME’s Participation in AGOA_2007.pdf,pymupdf,9250,False,,True
+DOC0083,Katwesiime W_BHRM_2023-Branded copy.pdf,pymupdf,11876,False,,True
+DOC0084,Kayongo_RJ_BSCEE_2025.pdf,pymupdf,8312,False,,True
+DOC0085,Kemigisha FE_BSFT_2025.pdf,pymupdf,11350,False,,True
+DOC0086,Kharono M_N_BSCEE_2025.pdf,pymupdf,8807,False,,True
+DOC0087,Khaukha A_BBA_2024.pdf,pymupdf,8504,False,,True
+DOC0088,Kirabo NB_BBA_2025.pdf,pymupdf,12203,False,,True
+DOC0089,Kiyegga I_LLB_2025.pdf,pymupdf,12737,False,,True
+DOC0090,Kizza_Species Richness and Nutritive Values of Fodder. 2018.pdf,pymupdf,4654,False,,True
+DOC0091,KOMAKECH_BLPM_2023.pdf,pymupdf,14450,False,,True
+DOC0092,KONGAI E_BSAF_2023.pdf,pymupdf,11581,False,,True
+DOC0093,Kyakuwa C_BIBM_2023.pdf,pymupdf,7359,False,,True
+DOC0094,Linear_Algebra_I_lecturenotes.pdf,pymupdf,18183,False,,True
+DOC0095,Lokwang D_BSCEE_2026.pdf,pymupdf,8465,False,,True
+DOC0096,Lotukei  G _BSWSA_2024.pdf,pymupdf,12298,False,,True
+DOC0097,Lubulwa I_J_BSCEE_2026.pdf,pymupdf,9582,False,,True
+DOC0098,Maliba Z_BSW_2025.pdf,pymupdf,11825,False,,True
+DOC0099,Manana M_BSCEE_2024.pdf,pymupdf,8914,False,,True
+DOC0100,Mbabazi M_M_BJAC_2024.pdf,pymupdf,9851,False,,True
+DOC0101,MBEIZA NORAH_BBA_2023.pdf,pymupdf,11554,False,,True
+DOC0102,Mirembe P_BSCEE_2024.pdf,pymupdf,9018,False,,True
+DOC0103,Mubiru J_BD_2024.pdf,pymupdf,5866,False,,True
+DOC0104,Mugarura A_BDIV_2025.pdf,pymupdf,15461,False,,True
+DOC0105,Mukabya R_BSCEE_2025.pdf,pymupdf,7323,False,,True
+DOC0106,Mukisa T_BASE_2025.pdf,pymupdf,10683,False,,True
+DOC0107,MUKUZA S_BAJCS_2024.pdf,pymupdf,14124,False,,True
+DOC0108,Mulondo Y_BSCEE_2025.pdf,pymupdf,7572,False,,True
+DOC0109,Mutambi R_BASE_2025.pdf,pymupdf,6914,False,,True
+DOC0110,Mutonyi D_BSW_2025.pdf,pymupdf,13612,False,,True
+DOC0111,Mwigo D_BSIT_2025.pdf,pymupdf,10995,False,,True
+DOC0112,NA_Linear_Systems.pdf,pymupdf,3389,False,,True
+DOC0113,NABAKENI S_BSES_2023 (1).pdf,pymupdf,10249,False,,True
+DOC0114,NABAKENI S_BSES_2023.pdf,pymupdf,10249,False,,True
+DOC0115,Nakato J_BSWASA_2024.pdf,pymupdf,13786,False,,True
+DOC0116,Nakwagala E L_BBC_2023.pdf,pymupdf,6175,False,,True
+DOC0117,Namuganyi J_BHRM_2024.pdf,pymupdf,9163,False,,True
+DOC0118,Namwase B E_BPLM_2023.pdf,pymupdf,12852,False,,True
+DOC0119,NASSIMBWA L_BBA_2023.pdf,pymupdf,6395,False,,True
+DOC0120,NCO.pdf,pymupdf,1004,False,,True
+DOC0121,Ndamira M A_BSCEE_2025.pdf,pymupdf,7161,False,,True
+DOC0122,Ndawula M_BPLM_2024.pdf,pymupdf,10951,False,,True
+DOC0123,Ngura C_BD_2023.pdf,pymupdf,12000,False,,True
+DOC0124,Nimusiima E_BSCEE_2026.pdf,pymupdf,8457,False,,True
+DOC0125,Nimwamanya-B-BBA-2025.pdf,pymupdf,9263,False,,True
+DOC0126,Niwabeine-B-DT-2025.pdf,pymupdf,8567,False,,True
+DOC0127,Niwamanya S_BAJC_2025.pdf,pymupdf,11005,False,,True
+DOC0128,Njuki F_BBA_2025.pdf,pymupdf,11040,False,,True
+DOC0129,Nonlinear Equations.pdf,pymupdf,12588,False,,True
+DOC0130,Nowamani G_BSCEE_2025.pdf,pymupdf,6431,False,,True
+DOC0131,Nsamba E_BSWASA_2023.pdf,pymupdf,9807,False,,True
+DOC0132,Numerical_Integration.pdf,pymupdf,13239,False,,True
+DOC0133,Nyende_Ethnicity in Theological Education in Africa_2013.pdf,,0,False,Both extractors failed,False
+DOC0134,Nyirarukundo A_BBA_2025.pdf,pymupdf,8376,False,,True
+DOC0135,Obbo A_BSCEE_2025.pdf,pymupdf,7499,False,,True
+DOC0136,Ocholla M C_BSCEE_2025.pdf,pymupdf,7765,False,,True
+DOC0137,ocilo joshuaBHRM (1).pdf,pymupdf,11949,False,,True
+DOC0138,Ocweo R_BAJC_2024.pdf,pymupdf,14014,False,,True
+DOC0139,OGENRWOT  C_BBA_2023.pdf,pymupdf,8475,False,,True
+DOC0140,Okello A_BSOGM_2025.pdf,pymupdf,9269,False,,True
+DOC0141,Oketch L_LLB_2024.pdf,pymupdf,10924,False,,True
+DOC0142,Okuraja P_BSIT_2025.pdf,pymupdf,10121,False,,True
+DOC0143,Okwir D_BBA_2024.pdf,pymupdf,11413,False,,True
+DOC0144,OPERATING SYSTEMS.pdf,pymupdf,1906,False,,True
+DOC0145,Oshaba P_BPLM_2024.pdf,pymupdf,13291,False,,True
+DOC0146,Othieno C_BASE_2025.pdf,pymupdf,6620,False,,True
+DOC0147,Othieno G B_BASE_2025.pdf,pymupdf,7886,False,,True
+DOC0148,Owor Joseph J. _Human Resource Practices and OCB_Sept_2015.pdf,pymupdf,7376,False,,True
+DOC0149,Peter A_BD_2023.pdf,pymupdf,7647,False,,True
+DOC0150,Pitia M A_BSCEE_2025.pdf,pymupdf,8665,False,,True
+DOC0151,Product Planning and Development on the output of Small scale and Medium Enterprises in Uganda case study Northern Division Kabale municipality.pdf,pymupdf,3681,False,,True
+DOC0152,Revision Exercise.pdf,pymupdf,3,True,,True
+DOC0153,Rwotber R_BSCEE_2025.pdf,pymupdf,9728,False,,True
+DOC0154,Sebaggala_et al_Costs Motorcycle Accidents in Uganda_2014.pdf,pymupdf,10180,False,,True
+DOC0155,Serioni B_BSCEE_2025.pdf,pymupdf,7838,False,,True
+DOC0156,Sida C P_BSCEE_2025.pdf,pymupdf,8685,False,,True
+DOC0157,Software Project Management Course Outline.docx.pdf,pymupdf,362,False,,True
+DOC0158,Sseremba S_BBA_2023.pdf,pymupdf,12669,False,,True
+DOC0159,Ssonko AB_BSFT_2025.pdf,pymupdf,7434,False,,True
+DOC0160,Surgical Mortality at a mission hospital in western Uganda.pdf,pymupdf,3259,False,,True
+DOC0161,Sustainable Environmental Law.pdf,pymupdf,13686,False,,True
+DOC0162,"The Elements of Style, 2011 Revised Edition (William Strunk, Chris Hong) (Z-Library) (1).pdf",pymupdf,6500,False,,True
+DOC0163,The_internet_of_things_BY_Isaac_C_Zion_M_Israel_Y_K_and_Jireh_I-1.pdf,pymupdf,14876,False,,True
+DOC0164,Topic5_Differentiation_Calculus.pdf,pymupdf,13040,False,,True
+DOC0165,Tumusiime J_BSIT_2024.pdf,pymupdf,10873,False,,True
+DOC0166,Twikirize A-BDIV-2025.pdf,pymupdf,9480,False,,True
+DOC0167,Understanding ICT adoption amongst SMEs in Uganda Towards a participatory design model to enhance technology diffusion.pdf,pymupdf,8796,False,,True
+DOC0168,Wamoni P_BSIT_2025.pdf,pymupdf,10825,False,,True
+DOC0169,Wampande A_BSIT_2025.pdf,pymupdf,8732,False,,True
+DOC0170,Wayomirwoth K_BSCEE_2024.pdf,pymupdf,9107,False,,True
+DOC0171,Website design and development courseoutline (1).pdf,pymupdf,1124,False,,True
+DOC0172,WOL - BSAF-2023.pdf,pymupdf,11183,False,,True
+DOC0173,Wozei_Household-level Fluoride reduction from drinking water using crushed fired clay _2021.pdf,pymupdf,2876,False,,True

@@ -1,0 +1,1668 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+28 
+ 
+CONSTRAINTS TO UGANDAN SME’s PARTICIPATION IN AGOA 
+ 
+ 
+Wasswa Katono Isaac*
+Many countries in Africa realize that an outward-oriented development strategy (as 
+opposed to protectionism) is the best way to attain economic growth and fight poverty. 
+Exported growth is anchored on the premise that trade is important for Africa’s 
+development, and recognizes the importance of streamlining trade into overall National 
+ 
+ABSTRACT 
+Many Small and Medium Enterprises (SMEs) in Uganda have not utilized the opportunities 
+presented by AGOA. The objective of this study was to examine the constraints that hinder these 
+firms from utilizing these opportunities. Specifically the study examined the macro constraints 
+facing these firms, with a view to finding solutions to them. A literature review was carried out   
+to identify challenges to SME’s participation in AGOA. , followed by a triangulation technique in 
+which a qualitative study (Focus Discussion Group) involving key stakeholders in this business 
+was done to further identity these constraints and their underlying dimensions. Instrument 
+development was   next, followed by a reliability analysis in which the psychometric properties of 
+the instrument were assessed on the basis of   Cronbach’s alpha.   A quantitative study was then 
+done by administering the refined questionnaire to a group of exporters.  Factor Analysis by 
+promax (oblimin ) rotation revealed six oblique factors identifying that the most important 
+constraints facing Ugandan SMEs are Lack of middle managers, infrastructure,  technology,  
+marketing , inadequate  export credit  and governance issues.  The study   calls for   
+technological transfer from the developed countries to the Less Developed Countries (LDCs) in 
+addition to addressing the other barriers.  There is also a need for exporters to  develop   better  
+marketing skills through training .The study   implores the  government to put policies in place  
+that will enhance the development of  SMEs.      
+ 
+Comment 
+ 
+Key Words: Exports, Constraints, AGOA, Preferences, Small and Medium Enterprises. 
+INTRODUCTION 
+                                                 
+Business Management Review 11(2) pp 28-53 ISSN 0856-2253©July-December 2007 FCM. All rights of 
+reproduction in any form reserved. 
+* Waswa Katono Isaac: Faculty of Business and Administration,  Uganda Christian University 
+ikatono@ucu.ac.ug 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+29 
+ 
+Development plans.  Trade increases income through resource reallocation, and since 
+many African countries have relatively large informal sectors, their economies should 
+grow faster to the extent that their exports expand rapidly and become diversified 
+(World Bank et al.,2000).  To assist developing countries boost their export trade, non-
+reciprocal trade preferences have long been granted to them by the developed world, 
+the pattern of which reflected past colonial ties in some cases. In 1968, the creation of a 
+Generalized System of Preferences (GSP) was recommended by UNCTAD on the basis 
+of non-reciprocity since it was realized that treating unequal countries equally simply 
+entrenched inequalities (UNCTAD, 2004). 
+ 
+Consequently, the European Union through the Lome convention and the Cotonou 
+agreement has extended preferences to African Caribbean and Pacific states (ACP). 
+Likewise, the USA has extended most-favoured nation status (MFN) to many countries 
+in Africa through the African Growth Opportunity Act (AGOA) which came into force 
+on 18th
+ 
+ May 2000.    AGOA was intended to benefit small and medium sized 
+enterprises (SMEs) as well as large businesses and state-owned firms (Corey, 2006). 
+Eligible African countries gained liberal access to the US market and   the list of 
+products which they may export to USA, subject to zero import duty under the GSP, 
+was expanded.  AGOA applies to more then 6400 items, and as a consequence  98% of 
+all US imports from eligible countries were  duty free in 2005 (Corey, 2006). Thus 
+AGOA has the potential to change the course of relations between Africa and the USA, 
+while helping millions of people in Africa to prosper. 
+ However, it is debatable whether trade preferences have made a substantive impact in 
+terms of enhancing the welfare of recipient countries (Francois  et al., 2005).  
+Developing countries in Asia that were granted the fewest preferences at their inception 
+in the 1960’s have  grown faster, yet those that were granted the most preferences  
+(including Sub Saharan Africa) have failed to increase their per capita incomes or to 
+diversity their exports significantly.   In the last 20 years, SSA has recorded the poorest 
+economic performance, has not fully exploited the benefits of globalization and seems 
+to have gained little from trade preferences (Kasekende et al., 2002).  Therefore such 
+arrangements are not a guaranteed means of achieving the objectives of African export 
+expansion and diversification (Oyejide, 2005).  While stimulating export diversification 
+in a few countries, AGOA has fallen short of the potential impetus that preferences 
+could otherwise offer African countries (Brenton and Hoppe, 2004). The expansion of 
+USA-Africa trade is largely due to oil imports from West Africa. Total non-oil trade 
+under AGOA actually declined by 16 % (Corey, 2006). In 2004, the majority of AGOA 
+eligible countries utilized only up to 2% of the value of trade preferences (Brenton and 
+Hope, 2004   ). It is now a fact that AGOA’s goal of promoting multi-sector economic 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+30 
+ 
+growth in Africa has just been partially met, and much remains to be done to promote 
+Africa’s entrepreneurs and enhance the capacity of their  SMEs   (Corey, 2006). 
+The world over,  SMEs face immense challenges that limit their capacity to grow and 
+exploit opportunities, with particularly smaller and younger firms being more 
+vulnerable to export constraints (Katsikeas and Morgan,1994).Compared with 
+entrepreneurship, internationalization and small business management, there has been 
+less work done on the experiences of SMEs as they grow internationally. Further, the 
+overwhelming majority of studies examining export barriers facing SMEs have been 
+done in the USA and Europe, which ports limits the generalizabilty of their findings. 
+Research dealing with export barriers faced by firms in developing countries has been 
+limited (Leonidou, 2004).  Studies that have been done on SME exports of developing 
+countries have established that    their inability to break through to the export market in 
+spite of the preferences is attributed to numerous obstacles that adversely affect their 
+performance and there have been many attempts to cluster these constraints. For 
+example, Beyene (2002) based on empirical data, Tesform and Lutz (2006) through a 
+literature search, Shacfer (2001) as well as Neupert et al (2006) through qualitative 
+methodology attempt to classify the constraints.  However, many others studies e.g. 
+Todd and Javalgi (2007), Gumede and Rasmussen (2002), make no attempt to classify 
+the export barriers, let alone rank them in order of importance. An important missing 
+link in the literature is that most studies do not rank the constraints (and by implication 
+the interventions) in order of importance yet empirical evidence from the Economic 
+Commission For Africa (ECA) shows that policy intervention is required at all levels to 
+help African SMEs overcome these barriers and prioritizing such interventions is the 
+first step in this direction (Beyene, 2002).  This paper intends to address this gap 
+through a survey in response to a call from Tesfom and Lutz (2006), who observe that 
+the number of articles addressing export problems of manufacturing firms from 
+developing countries has been declining since 1985-1989 and that the trend in the 
+articles has changed from problem identification (theory building) to testing the effects 
+of export problems. To cover this gap,  they call upon  researchers  to redirect their 
+future research to barriers encountered by exporters from developing countries and 
+recommend further analysis of export obstacles identified in their study through the 
+development of a questionnaire for a regional survey of SMEs from developing 
+countries.  They specifically suggest: “Each obstacle could be posed to respondents as 
+a potential barrier to exporting… their responses could be along a likert scale (5 or 7 
+points) from “not an obstacle” to “major obstacle”.  Responses could be factor 
+analyzed to see if the statistical results match the hypothesized clusters, or whether 
+some new underlying factors emerge from the survey.”  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+31 
+ 
+ Uganda   utilized less than 5% of the AGOA preferences in 2004 (Brenton and Hoppe, 
+2004) and hence the benefits from AGOA are limited (Uganda Export Promotion 
+Board, 2005).  Given that trade matters have only recently been streamlined in the 
+National Development Plan (Mutahunga, 2006), the purpose of this study is to identify, 
+cluster and rank the constraints facing Ugandan SMEs in regard to AGOA. 
+Specifically, the study will have the following objectives: 
+ 
+• 
+What factors mostly constrain Ugandan SMEs participation in AGOA? 
+• 
+What are the underlying dimensions of these factors? 
+• 
+To what extent are Ugandan SMEs satisfied with the way the government has 
+handled these constraints? 
+ 
+ It is hoped that the findings from this study will help in further streamlining 
+government trade policy and export strategy, so as to further position the country 
+competitively. The rest of the article is structured as follows. The next section is a 
+synthesis of the extant literature, followed by the methodology that was used to carry 
+out the study. The findings of the study are given thereafter, together with a discussion 
+of their implications. A conclusion sums up the paper. 
+LITERATURE REVIEW 
+Definition   and Importance of SMEs 
+There is no universally accepted definition of SMEs in Africa (Beyene, 2000).Even 
+definitions of other countries lack uniformity, and reflect the relative development of 
+the respective economies. For example, in the USA, small businesses are those with 
+less than 500 employees, which figure may represent medium to large enterprises in the 
+African context. In India, a small or medium enterprise is an undertaking in which 
+investment in fixed assets in plant and machinery (owned or leased) does not exceed 
+$23 million (Todd and Javalgi, 2007). On the other hand, SMEs are defined as those 
+business organizations with less than 100 employees (Macqueen, 2004). Specifically, 
+small businesses are defined as those that employ 20 people, and medium businesses 
+are those that employ 20 or more, but not more than 200 (Freeman and Lawley, 2005). 
+This paper adopts the latter definition.  
+ 
+SMEs often account for the majority of firms and a substantial proportion of 
+employment in both developed and developing  states ( Liedholm and Mead, 1987; 
+OECD, 2000; Hallberg, 2001).Were it not for the ability of SMEs to create jobs, the 
+majority of Africans would be unemployed (Corey, 2006).  SME are important in that 
+they operate even in the poorest communities which warrants them appropriate support 
+irrespective of any other advantages or disadvantages (Haggblade  et al., 2002). SMEs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+32 
+ 
+do not operate in a vacuum hence their activities and impact are influenced by the 
+context in which they operate. There is a broad range of policy environments and 
+business strategies that have a wide spectrum of impacts on them. For instance, market 
+failures disproportionately affect them. Such inequity warrants support (Biggs, 2002; 
+Beck et al., 2003). There are strong links between the debates on SMEs versus large-
+scale firms, and the debates on localization versus globalization of trade.  SMEs might 
+be in favour of localization and large firms might favour international trade (Macqueen, 
+2004).In spite of such skeptical debates, there have been many attempts to enhance the 
+export capacity of African SMEs, because the challenges faced by firms in developing 
+economies compared with developed economies most likely lead to different 
+implications for managers and policy makers in these contexts (Neupert et al., 2006). 
+ 
+International Trade Theory and SMEs in International Trade  
+International trade theory offers an explanation for the pattern of international trade, 
+and the distribution of the gains from trade. While many economists agree about the 
+benefits of liberal trade, many other people are not persuaded by it arguments. The 
+traditional theory of international trade is based on the classical labour cost theory and 
+the neo- classical factor endowment theory (Todaro, 1995). The former emphasizes 
+differences among nations (Risse 2005, in Hoskyns 2006) through the principle of 
+comparative advantage, arguing that nations should specialize in the export of those 
+products which they can produce at the lowest relative cost.  The latter proposes that 
+different products require productive factors in different relative proportions, and that 
+countries have different endowments of factors of production. These theories imply 
+that free international trade would benefit all the nations of the world as well as 
+maximize global output.  Todaro however points out that the restrictive and unreal 
+assumptions on which these theories are based lead to faulty conclusions about the 
+structure of world trade and the distribution of its benefits, since these assumptions are 
+in many ways contrary to the reality in international economic relations between 
+nations.  Stiglitz and Charlton (2005) concur and further explain that conventional trade 
+theory is flawed because it assumes full employment and no restrictions on resources. 
+This is not the case for many developing countries that suffer from high levels of 
+unemployment and limited resources which constrain the gains that can be expected 
+from trade.   In summary, factor endowments and comparative costs are dynamic, and 
+often determine the nature and character of international specialization (Todaro 
+1995:338). This means that any initial state of unequal resource endowments (e.g. 
+technology and capital) will tend to be reinforced and exacerbated by trade, reinforcing 
+already unequal trading relationships and distributing the benefits in favour of those 
+who already have, thus perpetuating the physical and human underdevelopment that 
+characterizes many developing countries.  In spite of all this, developing countries are 
+aware that self-reliance and isolation is not the solution. Todaro suggests a two-
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+33 
+ 
+pronged approach: negotiate with the first world for removal of tariff and non-tariff 
+barriers, as well as utilize their scarce resources efficiently. The first suggestion has 
+resulted in trade preferences which the developing countries have failed to utilize. The 
+latter recommendation has proved difficult to implement because of many policy-
+related and other constraints within the micro and macro environment of firms in SSA. 
+The next section scrutinizes the debate on policy-related constraints. 
+  
+Institutional Weaknesses and Protectionism  
+ In a very competitive environment, as is the case under globalization, there is 
+increased competition which results in a reduction in the ability of SMEs to control 
+their development paths (Etmad  et al., (2001) in Todd and Javalgi, 2007). In such a 
+situation, there is a need to identify and understand factors that have an impact on 
+international performance (Kuivalainen et al., (2004) in Todd and Javalgi 2007). This 
+section examines why export performance by many developing countries has been 
+bleak. 
+ 
+ First, some researchers argue that foreign protectionism is not responsible for the poor 
+trade and economic performance in SSA (Ng and Yeats in Tupy, 2005). Proponents of 
+this view urge that, while it is true that preferential trade agreements at times include 
+restrictions against LDC exports, e.g. phytosanitary regulations and administrative 
+costs which combine to raise the cost of production in these countries (the ban on fish 
+exports from East Africa to Europe in 2005 is an example), domestic conditions in SSA 
+are more responsible for the problem. Of particular importance in this regard are 
+factors like political instability, e.g. the war in Northern Uganda that has taken close to 
+20 years (Ohtswamah, 2008), plus other governance issues like lack of the rule of law 
+and corruption (Zachary ,2008). Second, the dismal performance of SSA in 
+international trade is explained in terms of trade openness. The argument is that trade 
+liberalization enables more efficient allocation of resources to productive uses, and 
+countries with an abundant supply of unskilled labour and low labour costs can expand 
+production and employment in labour intensive industries (Bigman, 2002). In spite of 
+this,  and despite substantial declines in applied and bound tariffs, protectionism is very 
+much alive and SSA is more guilty of the offence since its average   tariffs are more 
+than  three times higher than developed country tariffs, making it one of the world’s 
+most protectionist regions (Tupy ,2005 ). He espouses that SSA leaders view imports as 
+a threat, pay lip service to liberalization and call for greater access to global markets, 
+while rejecting trade openness in their countries. They do not appreciate the positive 
+impact of foreign competition on stimulating domestic production (e.g. the rise in 
+economic growth of India and South East Asia is partly attributed to an increase in 
+productivity as a result of trade liberalization) and do not realize that the import 
+substitution model was dismantled because it rewarded inefficiency, undermined 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+34 
+ 
+competitiveness, bred corruption, penalized consumers, discouraged technological 
+transfer, etc. In short, lack of trade openness has bred incompetence and lack of 
+competitiveness, thus pushing developing world products out of developed world 
+markets. 
+ 
+The above arguments are of course challenged by many workers and international 
+bodies who underscore the failed experience of many countries in SSA (Bigman, 
+2002). For example, Oxfam (a Non-Government Organization) argues for more trade 
+reforms in developed markets, while rejecting similar policies in the developing world 
+(Tupy, 2005). Particular  emphasis is put on trade distortions brought about by 
+subsidies to farmers in first-world countries which continue to account for the drop in 
+prices of many such subsidized products, making SSA  unable to compete.   Stiglitz 
+and Charlton (2005) call for caution, pointing out that more successful developing 
+economies like the Asian countries have pursued trade liberalization selectively, 
+slowing it down where necessary and introducing complementary policies.  Further, 
+since the assumption of full employment in trade theories violates the reality of 
+unemployment and underemployment in many developing countries, they may be 
+justified in pursuing protectionist strategies in order to ensure sufficient job 
+opportunities and also absorb surplus labour in their economies (Todaro, 1995). 
+ 
+SMEs  Constraints to Export trade 
+Apart from the issues of protectionism and liberalization discussed above, many 
+researchers agree that the rapid and sustained growth in Asia and the deficiency of this   
+in a large part of Africa reflects weaknesses in domestic policy and institutions, and 
+that the major constraints facing African export diversification and expansion are 
+supply-side constraints (Francois et al., 2005).They argue that domestic reforms are 
+urgently required if economic growth in SSA is to become a reality. Since 
+entrepreneurship and economic growth are related (Beyene, 2002; Gupta et al., 2004 in 
+Todd and Javalgi, 2007),  African countries must realize that, to promote growth, they 
+should provide a conducive macro- economic environment in which the private sector 
+can flourish.  Such an environment continues to elude many of them because of the 
+numerous constraints within their economies.  There have been many attempts by 
+various scholars to classify the export barriers faced by  SMEs in their path to 
+internationalization. Tesar and Trelton (1982) in Neupert et al., (2006) divide them into 
+start–up constraints (e.g. start-up costs, identifying opportunities) and ongoing export 
+problems (e.g. standards and different consumer tastes). Beyene (2002), drawing on 
+empirical studies by the ECA, categorized them into policy and regulatory factors, 
+infrastructure, access to finance, lack of non financial support services, and lack of 
+support services for marketing, while Leonidou (2004) , as well as Tesform and Lutz 
+(2006), through a literature search, classify them into internal and external barriers. The 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+35 
+ 
+internal factors (micro environment) are those that apply to individual firms and are 
+usually associated with inadequate resources for exporting.  They are subdivided into 
+company capabilities (Katsikeas and Morgan, 1994) and product characteristics (Keng 
+and Jiun (1989) in Tesfom and Lutz, 2006). The external forces are those that are not 
+under the control of the individual firms or industry e.g. industry factors, export market 
+issues and macro-economic factors. Scharf et al., (2001) in Neupert et al., (2006), using 
+qualitative methodology through the critical incident technique, classify these barriers 
+into those relating to initiating export business or ongoing export operations. The table 
+below is an attempt to summarize these constraints. 
+ 
+ Table 1:       Export   Constraints Facing African   SMEs 
+ 
+ 
+Besides constraint number 6 (firm level), the table shows the key external forces that 
+hinder SSA SMEs in their quest to enter international markets.  Empirical studies by 
+ 
+Constraint  
+Description of constraint 
+Major source  
+1 
+Competition    
+Main competitive strength being in economic 
+sectors where international competition is 
+intense.  
+World Bank, 2000 ; 
+Oyejide, 2005. 
+2 
+Industrial 
+sophistication 
+and technology 
+Shifting technology plus obsolete technology. 
+World Bank, 2000. 
+ 
+3 
+Infrastructure 
+development  
+ Poor 
+infrastructure 
+(telecommunication, 
+power, transport, water, sanitation and finance)   
+World Bank, 2000. 
+Beyene 2002 
+4 
+Policy matters   
+-  Inadequate compensation for exporters 
+ -   Inadequate   integration of trade policy in 
+national    development plans. 
+- 
+hostile 
+domestic 
+policy, 
+regulatory 
+framework. 
+World Bank, 2000; 
+Tupy 2005, Francois et al., 
+2004., ECA 2001. 
+Brenton and Hoppe, 2006. 
+5 
+Phytosanitary 
+measures   
+ Complex health, safety and environmental 
+standards 
+ITC, 
+2001; 
+Jaffet 
+and 
+Henson 2004, Tupy 2005 
+6 
+Firm level  
+Production and marketing  know-how, access 
+to finance  
+ ITC, 2001.,Beyene2002, 
+Leonidou 2004.Keng and 
+Jiun 1989, Katsikeas and 
+Morgan 1994. 
+7 
+Exports structure   
+Major exports and their distribution  
+Oyejide 2005; Ng and Yeats 
+2004. 
+Brenton and Hoppe 2006 
+8 
+Erosion of trade 
+preferences.  
+ 
+Francois et al., 2005 
+Low et al 2005  
+9 
+Rules of origin   
+Differences in applicability  
+Brenton and Kenzuki 2004 
+Brenton and Hoppe 2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+36 
+ 
+the ECA (2001) indicate that policy matters and regulatory restrictions,  which include 
+issues such as fiscal and monetary policy, regulations that impact the cost of business, 
+plus infrastructure, all affect SMEs to a great extent. Other key barriers include 
+conditionality phrases in the trade arrangements (tariff and non-tariff barriers) that 
+make it hard for SSA to utilize the preferences offered to them by the first world.  In 
+fact research by IMF shows that  AGOA stands to yield only 19-26% of the benefits 
+that it could have yielded, if it were free and unconditional ( Mattoo et al., 2002 in 
+Tupy, 2006). 
+ 
+All these constraints (both internal and external) combine to prevent the SMEs from 
+realizing their full potential as instruments of development. They not only constrain 
+their growth, but they also push up their transaction costs thus making their products 
+less competitive locally and internationally (Beyene, 2000). The next section discusses 
+the impact of some of these constraints on AGOA trade. 
+SSA and AGOA   
+There have been many attempts to enhance the export capacity of African SMEs since 
+the launch of the original AGOA in 2000. Consequently four hubs for global 
+competitiveness have been established in Botswana, Ghana, Kenya and Senegal. Even 
+then, African SMEs continue to lag behind in their ability to enjoy AGOA benefits 
+(Corey, 2006) due to a number of factors.  
+ 
+Firstly, it remains a fact that, for certain African countries, US preferences are of little 
+or no relevance under the current structure of their exports since there are no or just a 
+few export products that are eligible for the available preferences (Oyejide, 2005).  For 
+exampla many entrepreneurs are part of agriculture and yet many agricultural products 
+are not part of AGOA (Corey, 2006). Even then, most of these agricultural exports are 
+in the form of primary commodities and yet this structure is unlikely to change in the 
+medium to short term (Ng and Yeats, 2000).  Generally, there are many countries in 
+Africa for whom the amount of exports eligible for preferential access to the US market 
+comprises less then 50% of total exports to the market (see table 2). Only 5 countries 
+have over 90% of their trade to the US covered by trade preferences, namely; Lesotho 
+100%, Nigeria 98.4%, Cape Verde 97.7%, Gabon 99.4% and Mauritius 94.5% 
+(Oyejide, 2005). Secondly, increased competition in the market for products which 
+benefit from the preferences may inflict losses on African countries that depend heavily 
+on   such products (Oyejide, 2005)  
+ 
+The predicament facing African countries is further worsened by the fact that more 
+than 900 tariff lines for manufactured products, e.g. textiles and leather, are not covered 
+by AGOA. Also excluded are diary products, soft drinks, cocoa, coffee, tea, tobacco, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+37 
+ 
+and nuts. The average tariff on products excluded from AGOA is 30%. As a result, 
+African exporters still face substantial tariff escalation (Brenton and Hoppe, 2004). The 
+US subsidy scheme for cotton is also undermining export returns from African 
+producers. It is often asserted that stimulating the textile sector in African countries is a 
+key objective of AGOA, yet textile products from African countries are subjected to 
+duties in the US. 
+ 
+ 
+Table 2: Value of AGOA Preferences in 2004 
+ 
+   
+0-2%  
+2-5%  
+5-10 %  
+>10 %  
+Angola, 
+Burkina 
+Faso, 
+Benin, 
+Cameroon, Djibouti, Chad, Congo, 
+DR Congo, Gabon, Gambia, Ghana, 
+Guinea, 
+Guinea-Bissau, 
+Mali, 
+Mauritania, Niger, Nigeria, Rwanda, 
+Sao Tome, Senegal, Seychelles, 
+Sierra Leone, South Africa, Zambia  
+Ethiopia, 
+Tanzania, 
+Uganda  
+Botswana, 
+Mozambique, 
+Namibia  
+Cape 
+Verde, 
+Kenya, 
+Lesotho, 
+Madagascar, 
+Malawi, 
+Mauritius, 
+Swaziland  
+  Source: Brenton and Hoppe 2004. 
+ 
+ In Table 2 above, Brenton and Hoppe (2004) show that for the majority of African 
+beneficiaries, the value of preferences is very small or negligible. For 24 of the then 37 
+beneficiaries the value of preferences was less than 2 per cent of the value of exports to 
+the US in 2004. For only 7 countries did the value of preferences exceed 10 percent of 
+the value of exports to the USA. 
+ 
+Uganda in the AGOA Market 
+Specifically for Uganda, besides most of the above constraints that apply to most of 
+sub-Saharan Africa, the ECA survey (2000) established that the regulatory and policy 
+environment, poor infrastructure in terms of power (availability and cost) as well as 
+access to finance were  key constraints hindering the growth of SMEs. Besides these, 
+the African Competitiveness Report (2005)  points out weakness and lack of 
+transparency in tax administration, commercial injustice, cumbersome customs 
+procedures, labour constraints (lack of middle managers), lack of access to market 
+information and  a poor entrepreneurial culture as key constraints affecting  Ugandan 
+SMEs. Further, UEPB (2005) also adds that little is known about the American market 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+38 
+ 
+in terms of consumer behaviour and trade practices and continues to point out that 
+inadequate product volumes and the long and arduous certification process are major 
+constraints hindering exports to the USA under AGOA. To this list, Kwesiga (2001) 
+adds the lack of foreign domestic investment, lack of export processing zones, and the 
+inability of Ugandan businessmen to think globally .These constraints combined make 
+the performance of Ugandan SMEs in the export market very bleak compared with 
+other countries like neighbouring Kenya . However in the case of AGOA (a new 
+market), the situation is worse compared with the European Union for example. 
+Ugandan exports to the USA are limited, yet both regions offer the country preferences 
+as indicated in the table below: 
+ 
+ 
+Table 3: Ugandan Exports by Region and Country of Destination (000US$) 2001 -
+2005. 
+ 
+2001 
+2002 
+2003 
+2004 
+2005 
+United Kingdom 
+28,806 
+30,015 
+33,883 
+29,438 
+26,831 
+Germany, Federal Republic 
+12,134 
+13,399 
+12,024 
+17,677 
+33,768 
+Belgium 
+16,085 
+21,902 
+12,899 
+26,685 
+33,147 
+Netherlands 
+52,803 
+56,000 
+48,955 
+57,860 
+85,413 
+France  
+4,057 
+6,844 
+5,116 
+22,702 
+39,581 
+Spain  
+7,961 
+17,732 
+14,526 
+13,914 
+17,988 
+Other  
+6,393 
+10,495 
+13,127 
+13,481 
+15,979 
+United States 
+6,743 
+9,190 
+12,693 
+15,714 
+15,892 
+Canada  
+943 
+832 
+1,765 
+3,064 
+2,094 
+Other  
+661 
+526 
+177 
+407 
+355 
+ Source: Uganda Exports Promotion Board (2005) 
+ 
+ This table indicates that Uganda is yet to fully realize the benefits of AGOA.  Total 
+Ugandan   exports to the European Union (Lome and Cotonou preferences) are far 
+higher than those to the USA (AGOA preferences) in the period 2001-2005. Total 
+exports  to the USA  more than doubled in this period  but are far less than those of 
+individual countries except France (but only for the first 3 years). All this is in spite of 
+the fact that the Ugandan Head of state was the first African President to embrace 
+AGOA, and jointly with the US, Uganda sponsored a seminar in 2002 with the theme 
+‘Maximizing Benefits of AGOA” in East Africa (Kwesiga, 2002). 
+ 
+Such concerns point to the need for a study with an adapted questionnaire suitable for 
+the Uganda export sector and cultural environment. The battery of items in the 
+questionnaire should enable ranking of the importance of the constraints as well as 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+39 
+ 
+gauge the respondents’ overall satisfaction with the way the government has handled 
+these constraints. The next section presents the methodology used in the construction of 
+the questionnaire, subsequent data collection and analysis. 
+METHODODOLOGY 
+This section gives an account of the methodology that was used to fulfil the objectives 
+of the study. In order to fulfil the first two objectives, the suggestion by Tesfom and 
+Lutz (2006)    was adopted, i.e.  the export constraints facing SMEs are factor analyzed 
+so as to rank them and also examine their underlying dimensions. The third objective of 
+the study was fulfilled through gauging the perceptions of SMEs about the way the 
+government has handled the constraints. The procedure below was followed: 
+ 
+Sample and sampling method 
+The study sample consisted of 2 apparel firms, 80 exporters of art crafts (middle men) 
+18 exporters of agricultural products, 2 officials from the Ministry of Trade and 
+Industry, 2 from the AGOA country office and 2 officers from the Uganda Export 
+Promotion Board. However, only 100 usable questionnaires were collected in all. This 
+sample size is adequate according to Barret and Kline (in Kline 2000), who established 
+in a study that in factor analysis, the main factors remained clear and unequivocal until 
+the sample dropped below 100. Exporters were identified through the AGOA country 
+office, and the snow balling technique.  The snow-balling technique is a sampling 
+method in which a researcher selects several people from a sampling framework for 
+interview and these people assist the researcher in identifying others to interview 
+(Coolican, 2004: 40).  Snowballing was used because   the AGOA country office is yet 
+to establish a directory of exporters.  Therefore, respondents were asked to identify 
+who else is engaged in this business while government officials were   purposively 
+chosen. 
+ 
+Variable construction and validity test 
+First a review of the extant literature was done to identify the constraints currently 
+facing Ugandan exports to the USA under AGOA. This was followed by a qualitative 
+study (Focus Group Discussion) that involved four people who are conversant with 
+business to the AGOA market, plus conversations with knowledgeable academicians in 
+both international marketing and international trade. This whole effort yielded a total of 
+45 likely items for inclusion in the draft questionnaire. 
+In order to establish the face/content validity of these items, they were subjected to a 
+review by two experts, one from UPTOP (Uganda Programme for Trade Opportunities) 
+and another from   the AGOA country office. They also examined these items for 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+40 
+ 
+relevance, ambiguity and repetitions. This exercise ended up with in 14 items being 
+dropped, leaving only 31 which were then included in the final questionnaire; these 
+items were randomized to avoid any cluster effects.  The scale in the questionnaire   
+was anchored from ‘1’ not at all, to ‘7’ extremely large extent. Respondents were 
+requested to rate the extent to which each of the items (constraints) affects exports to 
+the AGOA market. A pretest was carried out using 5 exporters, all of whom found no 
+difficulty in answering the questions. Pre-testing provides a statistical basis to shorten 
+long survey instruments without sacrificing their explanatory power since respondents 
+may perceive long instruments as cumbersome and this may contribute to non-response 
+(Siekpe, 2005: 38). 
+ 
+The psychometric properties of the instrument were assessed using SPSS   by 
+examining Cronbach’s alpha (α).  All items had alpha above 0.7 cut-off recommended 
+by Nunnally (1978) and overall α for the whole instrument was 0.8927, which is well 
+within the range recommended by Nunnally and Bernstein (1994). This shows that the 
+measure   was robust. Following Greenland et al., (2005) factor analysis was then 
+carried out by first constructing a Pearsonian correlation matrix between each pair of 
+the 31 items. Bartlett’s test of sphericity was  done to test the null hypothesis that the 
+resultant 31x31 correlation matrix was an identity matrix, all diagonal coefficients are 
+equal to one, and off diagonal items are zero (those that are not zero are due to chance). 
+The null hypothesis was rejected (χ2 
+ 
+= 1203.421, df=465, p=0.000) meaning that factor 
+analysis could proceed. The Kaiser Meyer-Olkin (KMO) test of sampling adequacy 
+indicated a coefficient of 0.723, which is interpreted as middling (Kaiser, 1974), further 
+reinforcing that factor analysis was appropriate (the closer to 1.0 the better).  Maximum 
+likelihood extraction by direct oblimin rotation with Kaiser Normalization yielded   6 
+oblique factors each with eigen value greater than one and accounting for 57.8% of the 
+variance. A useful factor must account for one unit of variance or have Eigen value >1. 
+Oblique factors were preferred because they rotate to simple structure and also agree 
+more with psychological theory than do orthogonal factors (Kline, 2005). The factors 
+were subsequently named:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+41 
+ 
+ 
+ Table 4    : Factors affecting exports to AGOA 
+Latent factor 
+Item loading at >0.5 
+Eigen 
+value 
+Loading 
+AVE 
+√AVE 
+Α 
+Middle 
+Managers 
+Poor entrepreneurial culture 
+ 
+Lack of middle managers 
+7.8 
+0.561 
+ 
+0.971 
+ 
+0.63 
+0.79 
+0.70 
+Infrastructure 
+High cost of skilled labour 
+ 
+High cost of technology 
+ 
+Poor infrastructure 
+2.245 
+0.813 
+ 
+0.582 
+ 
+0.783 
+0.54 
+0.73 
+0.7344 
+Technology/ 
+Product 
+innovation 
+Inappropriate Technology 
+ 
+Inadequate Product 
+innovation 
+ 
+Unfamiliarity with 
+American consumer 
+behaviour 
+ 
+Inadequate export Insurance 
+schemes 
+1.1881 
+0.836 
+ 
+0.534 
+ 
+0.545 
+ 
+ 
+0.514 
+0.38 
+0.62 
+0.70 
+Marketing 
+Limited access to market 
+information 
+ 
+Limited knowledge of 
+Global best Practices 
+ 
+Poor marketing Skills 
+1.740 
+0.537 
+ 
+ 
+0.836 
+ 
+ 
+0.574 
+0.44 
+0.66 
+0.7114 
+Export Credit 
+Unfamiliarity with 
+American Trade Practices 
+ 
+Inadequate Export credit 
+ 
+Inadequate academic 
+Research 
+1.539 
+0.643 
+ 
+ 
+0.636 
+ 
+0.591 
+0.39 
+0.62 
+0.701 
+Governance 
+Issues 
+Restrictive Rules of Origin 
+ 
+Governance issues 
+1.298 
+0.588 
+ 
+0.567 
+0.33 
+0.58 
+0.60 
+ 
+Extraction method: Maximum likelihood estimation 
+Rotation method: Oblimin with Kaiser Normalization  
+ 
+The table above shows  the  named  factors / constructs  ( column 1 )  and their 
+indicators  ( items)  in column 2, each  with factor loading greater than 0.5. Hair et al., 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+42 
+ 
+2003 (in Barnes 2007) affirm that a measure is loaded significantly on its underlying 
+construct if its factor loading exceeds 0.5, which is indicative of nomological validity. 
+The table also shows the Average Variance Extracted1
+ 
+ (AVE) of the different factors, 
+which is defined as the average variance shared between a construct and its measures 
+(Reinartz, Kraft and Hoyer, 2003). A factor should reach 0.5 cut-off recommended by 
+Fornell and Lacker (1981) for convergent validity, although only 2 factors achieve this 
+level in this study.  However it is not un-common to find measures of an estimated 
+model with squared loadings below the 0.5 threshold (Sorebo, Christensen and 
+Eikebrokk, 2004) particularly for newly developed items and scales. Hulland (in 
+Sorebo  et al., 2004) recommends a suitable cut-off value as 0.16 or 0.25. The table 
+also shows that all factors had acceptable reliabilities (0.7 and above) except factor 6 
+with a reliability of 0.6. It has been suggested however that Cronbachs alpha should be 
+above 0.6 for exploratory research and above 0.70 for confirmatory research and that in 
+the case of a scale with two or three items, a coefficient alpha of 0.60 or 0.50 is 
+acceptable as a minimum standard (Cortina, 1993).  Loewenthal (2001:60) concurs 
+when she argues that if a scale has a small number of items, it may not be possible to 
+get a high reliability value and thus a coefficient of 0.6 may be sufficient. Based on 
+these arguments, factor 6 was not excluded from subsequent analysis.   Lastly,   since 
+the inter-correlation between pairs of the constructs did not exceed 0.9, the problem of 
+multicollinearity was ignored (Hair  et al., 1998).   
+Next, the discriminant validity of these factors was examined.  Discriminant validity is 
+a measure of the extent to which   constructs (latent factors) are distinct, i.e. they 
+should not correlate so highly as to seem to be measuring the same underlying 
+dimension (Siekpe 2005). Discriminant validity can be assessed by examining the 
+factor correlation matrix and AVE. The square root of AVE should exceed the 
+correlations in the rows and columns for adequate discriminant validity, which 
+indicates that more variance is shared between the construct and its indicators than with 
+other constructs (Fornell and Lacker in Siekpe, 2005). This is the case in table 5 below.  
+ 
+Table 5: Factor correlation matrix and discriminant validity of factors 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+Α 
+1 
+0.790 
+ 
+ 
+ 
+ 
+ 
+0.70 
+2 
+0.234 
+0.729 
+ 
+ 
+ 
+ 
+0.73 
+3 
+0.379 
+0.251 
+0.62 
+ 
+ 
+ 
+0.70 
+4 
+0.199 
+0.132 
+0.182 
+0.66 
+ 
+ 
+0.71 
+5 
+0.258 
+0.331 
+0.300 
+0.116 
+0.62 
+ 
+0.70 
+6 
+0.210 
+0.337 
+0.228 
+0.153 
+0.261 
+0.58 
+0.60 
+Square  root   of    AVE in bold in the diagonal. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+43 
+ 
+ 
+Another approach to assessing discriminant   validity is to examine the factor 
+reliabilities and the inter-factor correlations. For adequate discriminant validity, the 
+reliability coefficients should be greater than the correlation coefficients (Anderson and 
+Gerbing 1988) in Siekpe (2005) as evidenced above.         
+ 
+Satisfaction with Government efforts to eliminate the constraints 
+ 
+ 
+In order fulfil third objective of the study, i.e. establish whether the government was 
+doing something significant about the elimination of these constraints, the perceptions 
+of the SMEs were sought.  Respondents were requested to rate the extent to which they 
+were satisfied with the way the government has handled the elimination of these 
+constraints on a 7 point likert scale, ranging from 1 “not at all” to   7 “  strongly  
+agree”. This overall question has been used in many satisfaction studies (e.g. 
+Parasuramman et al 1988). Tables 6 and 7 below present the results.  
+ 
+ 
+Statistics 
+ 
+Table 6: To What extent are you satisfied with the way the government has 
+handled the elimination of these constraints? 
+ 
+N                                
+ 
+Mean 
+Std. Deviation 
+Variance 
+Skewness 
+Std. Error or Skewness 
+Kurtosis 
+Std. Error of Kurtosis 
+100 
+0 
+3.32 
+1.64 
+2.68 
+.482 
+.241 
+-567 
+.478 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+44 
+ 
+Table: 7:   To What extent are you satisfied with the way the government has 
+handled the elimination of these constraints? 
+ 
+Frequency  
+Percent 
+Valid 
+Percent 
+Cumulative 
+Percent 
+Valid   Not at All 
+            Slightly Moderate Extent 
+            Moderate extent 
+            Moderately Large Extent 
+            Large Extent 
+            Very Large Extent 
+           Extremely Large Extent 
+           Total 
+13 
+22 
+26 
+14 
+13 
+8 
+4 
+100 
+13.0 
+22.0 
+26.0 
+14.0 
+13.0 
+8.0 
+4.0 
+100.0 
+13.0 
+22.0 
+26.0 
+14.0 
+13.0 
+8.0 
+4.0 
+100.0 
+13.0 
+35.0 
+61.0 
+75.0 
+88.0 
+96.0 
+100.0 
+                                                                                                            
+The tables show  the perceptions of the SMEs regarding the government is handling of 
+the constraints .The statistics show that the data is negatively skewed which means that 
+most of the respondents are not satisfied with the way the government is handling the 
+constraints. This is particularly obvious in view of the findings in table 4. 
+DISCUSSION 
+Firstly, it is imperative to note that many LDCs have little capacity within government 
+and the private sector to identify the constraints that hinder SMEs from going 
+international  (Brenton and Hoppe, 2006). Secondly, all the 6 identified factors and 
+their underlying dimensions are important distinct constraints that hinder Ugandan 
+SMEs from accessing the AGOA market.   However, Factor analysis reveals  (Table 4) 
+that lack of middle managers, infrastructure, technology, marketing issues, lack of 
+export credit, and governance issues  (in order of importance)  are the most crucial 
+constraints facing Ugandan SMEs in the AGOA market. These findings are in 
+consonance with the clusters hypothesized by Tesform and Lutz (2006). Lack of 
+middle managers, inadequate export credit and marketing issues are similar to the 
+internal company barriers /forces identified by Tesform and Lutz, while infrastructure, 
+technology and governance issues can be clustered as external forces in their model.  
+  
+In agreement with Yang et al 1992( lack of personnel to administer exporting activities) 
+and  the African Competitiveness Report (2005), this study finds that lack of middle 
+managers (and a poor entrepreneurial culture) are the factors that most hinder exports 
+to  the AGOA  market. Although Universities churn out many managers every year, 
+many of them do not live up to the expectations of the employers as established in a 
+study by Asiimwe et al., ( 2000)  on local government in Uganda.  In this study, 
+university graduates were found to be lacking practical skills, had low motivation, 
+lacked dedication, were unable to solve problems, had narrow focus and lacked cross-
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+45 
+ 
+cutting   multi-displinary and integrative knowledge.  Another   problem in this regard 
+is the lack of a good work ethic among Ugandan managers as postulated by Ntayi 
+(2005:156), that work as a determinant of personal value and identity and as an 
+indicator of good character and good morals is disappearing out in Uganda.  
+ 
+ For example,   graduates   who find a job after years of street walking spend more time 
+contemplating greener pastures than doing their assignment in the first week of their 
+employment (Twinamatsiko in Ntayi 2005).  Therefore it is not surprising that many 
+firms in many sectors (e.g. flowers and textiles) hire non-Ugandan middle managers. 
+However, the issue of entrepreneurship is controversial given that Walter  et al., (2003) 
+established that Uganda is the most entrepreneurial country in the world in terms of 
+necessity and opportunity entrepreneurship.  The former is involuntary and is driven by 
+necessity while the latter is voluntary and motivated by the pursuit of perceived 
+opportunities (Reynolds et al., in Walter et al., 2003: 20).  Uganda is reported as being   
+three times as entrepreneurial as the USA, yet Uganda is a poor country. The likely 
+explanation in this case could be in terms of government policy as a factor limiting  
+entrepreneurship. Walter et al., (2003) argue that the regulatory and administrative 
+burden associated with entrepreneurship is too high in Uganda. The tax system is not 
+conducive to the development of entrepreneurial firms and it seems government 
+understanding of entrepreneurship is not sufficient. Thus the strong entrepreneurial 
+spirit is wasted if the conditions handicap entrepreneurship in trying to compete at a 
+global level. As Kasekende et al., (2002) observe, there is a positive correlation 
+between a good policy environment and economic growth. Therefore, it is apparent that 
+designing  policies and programme that promote the growth of SMEs must be the 
+cornerstone of any growth strategy for this country. 
+ 
+ It is universally agreed that for policy coherence and overall effectiveness, trade policy 
+should be mainstreamed into a country’s overall development strategy (Oyejide 2004).  
+While government has taken steps to streamline trade matters into the overall 
+development plan (PEAP- Poverty Eradication Action Plan), there is a need to also 
+focus on the capacity of the individual exporters who are behind the SMEs.  In this 
+respect Ugandan exporters to AGOA have benefited a lot from the USA trade hub in 
+Nairobi. On the other hand,   marketing issues stand out as important in affecting 
+exports to AGOA,   consistent with Katsikeas and Morgan (1994), who underscore the 
+importance of organizational capacity to execute the marketing function. In the case of 
+apparel for example, American firms have a lot of bargaining power compared with the 
+garment producer, who must comply with given specifications in terms of sizes, 
+labeling, packaging etc. (USAID Report, 2001). Thus access to market information, 
+marketing skills, familiarity with global best practices and knowledge of the export 
+market become critical factors for success, in agreement with Weaver and Pack (1990); 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+46 
+ 
+Bordur (1986); and Karafakioglu (1986).  These factors combine to worsen an already 
+precarious situation and account for many lost opportunities.  Thus steps must be taken 
+to equip SMEs with knowledge about marketing issues in order for them not to lose out 
+on matters that they would otherwise control. Today the world is “a global village” and 
+the environment is more competitive than ever before.  Specifically, access to 
+information is critical because inadequate information or information received late 
+spells doom for the SMEs. 
+  
+The findings indicate that availability of export credit is a critical factor in the bid by 
+SMEs to export to AGOA, in agreement with Tesform and Lutz.  Beyene (2002) also 
+finds that access to finance is the biggest constraint facing SSA SMEs.   Many SMEs 
+lack the capacity to fund large orders on their own. Late payments and bank red tape 
+cannot be ruled out. However, another related problem is the high interest rates that 
+prevail in Uganda as well as the fluctuating dollar rates. This situation is not surprising 
+since the high cost of capital and risks are prevalent in many African countries 
+(Kasekende et al., 2002).   Certainly the government   needs to set up special credit 
+lines for exporters. 
+ 
+Technology is a major constraint because it greatly influences value addition, and 
+hence the ability of the products to compete with those from other countries through 
+innovation. The problem of inappropriate technology is acute, because in many 
+instances manufactures find it difficult to acquire modern technology which would 
+make their products competitive.   Technology influences the ability of firms to be 
+innovative, utilize economies of scale and thus gain a competitive edge in the market.  
+For example ,production systems used to mass-produce apparel in industries around the 
+world are still foreign in Ugandan textile companies (USAID Report, 2001). Thus there 
+is need for technology transfer from the developed countries to the LDCs.  High 
+transaction costs resulting from poor technology are worsened by poor infrastructure in 
+terms of transport, and   energy.   In addition to the high power tariffs, the current 
+power   shortage which the country is facing has made load shedding a daily 
+occurrence, thus forcing many firms to use generators, further raising production costs. 
+However, reforms in the telecommunication sector that have brought the number of 
+licensed national operators to 4 have greatly reduced tariffs much to the relief of 
+exporters.  
+ 
+As noted by Bigman (2002), successful implementation of policy reforms depends on a 
+country’s institutions of governance. While the government has taken measures to 
+combat corruption through the Inspector General of Government, improve democratic 
+space and observe the rule of law, the 20-year old rebellion has diverted important 
+resources in terms of human beings, money and time, and displaced millions of people 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+47 
+ 
+from their homes and productive activities. Such resources could have been put to 
+better use in terms of infrastructure, technology, and market support. Last but not least, 
+rules of origin are a major factor determining whether AGOA contributes to the 
+development of  local industries in LDCs.  As Hayashi et al., (2004) note, if the rules 
+are too strict, AGOA would discourage the vertical integration of production chains 
+CONCLUSION 
+This study set out to investigate the barriers that hinder Ugandan exports from reaching 
+the AGOA market, with a view to ranking them in order of importance. This would 
+help the government in the prioritization of interventions to mitigate these constraints 
+in the light of the limited resource envelop.  Given that trade preferences that have been 
+granted to ACP states for the last 30 years by the European Union (EU) under 
+Yaoundé, Lome and Cotonou have already expirer the opportunity presented by AGOA 
+should not be wasted. 
+ 
+ Against this background, this study makes a contribution in this direction by 
+identifying the most important constraints facing Uganda in the AGOA market so that 
+more emphasis is put on them.  In general the identified constraints are interwoven, i.e. 
+one constraint leading to another or contributing somehow to its impact, be they 
+internal or external factors.  In totality, these barriers contribute to the high trade 
+related costs facing Ugandan exporters to AGOA. Besides the most common 
+constraints in the extant literature like   technology and infrastructure, entrepreneurship, 
+and   limited knowledge of global best practices, poor marketing skills are also 
+important constraints facing Ugandan SMEs in the AGOA market. It is difficult to be 
+competitive in a market which one does not understand. Hence there is need to improve 
+the marketing expertise of the exporters. Further, most of the respondents were just 
+moderately satisfied with the way the government is handling these constraints, 
+implying that there is a need for more effort in this direction. In addition to making an 
+effort to integrate trade matters into the PEAP, government is currently carrying out a 
+series of studies in order to improve the country’s export capacity.  It is hoped that such 
+efforts and others like this study   will help to put the focus on the elimination of the 
+most important barriers facing exporters.  However, government alone cannot change 
+the situation, thus there is need for a concerted effort on the part of all stakeholders, 
+including   academic institutions and   civil society. Since weaknesses in institutions of 
+governance undermine domestic reforms and thus the business environment in which 
+SMEs operate, there must be a concerted effort to improve this area. There is also a 
+great need to put an end to all forms of rebellion in the country, and stem resource 
+waste through combating corruption.       
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+48 
+ 
+REFERENCE  
+Asiimwe, D., Ezati, E., Mugisha, F., Onweng, T., & Nsabagasani, X. (2000): Human 
+resource demand assessment from the perspective of the district. Kampala 
+MISR 
+ 
+Barnes, S. (2007): Virtual worlds as a medium for advertising. The DATABASE for 
+advances in Information Systems. Volume 38   Number 4. 
+                                               
+Beck .T, Demirguc-Kunt, A, and Levine, R. (2003): Small and medium enterprise 
+growth and poverty: cross-country evidence. World Bank Policy Research 
+working Paper 3178. World Bank, Washington, USA.  
+ 
+Beyene, A. (2002): Enhancing the competitiveness and productivity of SMEs in Africa: 
+An analysis of differential Roles of National Governments through improved 
+support services. Africa Development, Vol. xxvii No.3. 2002 
+ 
+Biggs, T. (2002): Is small beautiful and worthy of subsidy? International Finance 
+Corporation, Washington, USA. 
+ 
+Bigman, D (2002) Globalization and the Developing Countries. Oxon. CABI 
+Publishing  
+ 
+Brenton .P and Kenzuki (2004): “The initial and potential impact of preferential access 
+to the US market under AGOA”. Policy Working PaperNo3262, World Bank, 
+Washington, DC 
+                                                      
+Brenton, P. & Hoppe, M. (2006): AGOA, Exports and development in SSA.   Policy 
+Research Paper 3936. The World Bank. 
+ 
+Cortina, J .M (1993):  What is coefficient alpha? An examination of theory and 
+applications .Journal of Applied Social Psychology 78(1).pp98-104 
+ 
+Corey W.C (2006): Small African Business Lag in Reaping AGOA Benefits. 
+  
+http://uninfo.state.gov/archives/display.html 
+ 
+Coolican. H (2004): Research Methods and Statistics in Psychology. London. Hodder 
+and Stoughton 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+49 
+ 
+ECA (2001), Enhancing the competitiveness of SMEs in Africa: “A Strategic 
+Framework for support services”, Economic Commission for Africa 
+DMD/PSD/TP/00/04 
+ 
+Freeman, J. and Lawley, M. (2005): “Export Performance: A framework for 
+comparison of regional and metropolitan exporters”, ANZMAC – 2005 
+Conference:  Marketing in international and cross-cultural environments. 
+ 
+Francois, J., Hoekman, B., & Manchini, M. (2005): Preference erosion and multilateral 
+trade liberalization.  Tinbergen Institute Discussion Paper. TI 2005 – 073/2 
+ 
+Greenland. S, Coshall. J and Combe .I (2005): Evaluating service quality and customer 
+satisfaction in emerging   markets. International Journal of Consumer Studies. 
+Vol. 30 issue 6.   Pp582-590 
+ 
+Gumede, V and Rasmussen, K. (2002): Small manufacturing enterprises and exporting 
+in South Africa: a preliminary assessment of key export success factors. 
+Journal of Small Business and Enterprise Development Vol 9 No 2 pp161-171 
+       
+Haggblade, S., Hazell, P. and Reardon, T. (2002): Strategies for stimulating Poverty 
+alleviating growth in the rural non-farm economy in developing countries. 
+Discussion Paper No. 92.The World Bank, Washington, USA.   
+  
+Hair .J.F., Anderson R.E., Tathem R.L, & Black W.C. (1998):  Multivariate Data 
+Analysis.  Englewood Cliffs. Prentice Hall. 
+ 
+Hallberg, K. (2001): A market–orientated strategy for small and medium-scale 
+Enterprise. IFC Discussion Paper No. 40.  International Finance Corporation. 
+ 
+Hayashi, M, Bartel, C. & Monge Roffaredo, L. (2004): AGOA. African Technology 
+Development 
+Forum. 
+http://www.atdforum.org/spip.php?article 
+94  
+(10.2.2008)  
+ 
+Hoskyns, C. (2006): Linking Gender and International Trade Policy. Is interaction 
+Possible? CSGR, University of Warwick. 
+ 
+Hosmer, D.Z. & Lemeshaw, S. (1989): Applied Logistical Regression .New York. Wiley 
+and Sons. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+50 
+ 
+International Trade Center (ITC) (2001), Converting LDC export opportunities into 
+business: A strategic response. ITC, Geneva. 
+ 
+Jaffet, S. and Henson, S. (2004): Standards and agro–food exports from developing 
+countries: Rebalancing the debate. Policy Working paper 3348, World Bank, 
+Washington, DC 
+ 
+Kaiser, H.F. (1974): An index of factorial simplicity. Psychometrika, (39):31-36. 
+ 
+Kline, P. (2000): Handbook of Psychological Testing .2nd
+ 
+ Edition. London. Routledge. 
+Kasekende, L.A., Atingi-Ego, M. & Sebudde, R.K. (2002): The African growth 
+experience. Uganda Country Study. Work in Progress. 
+http://www.gdnet.org/pdf/draft_country_studies/Uganda-
+Atingi_FR.pdf.(15.2.2008) 
+ 
+Katsikeas, C.S and Morgan, R.E (1994): “Differences in perceptions of export 
+problems based on firm size and export market experience”, European 
+Journal of Marketing Vol. 28 pp. 17 – 35 
+ 
+Kwesiga, C. (2003): Seminar presentation on AGOA: Uganda’s response and 
+challenges. Kampala. AGOA Country Office. 
+ 
+Leonidou, L. (2004): An analysis of the barriers hindering small business export 
+development. Journal of Small Business Management Vol 42 No.3 pp 229-302 
+ 
+Liedholm .C and Mead, D. (1987): Small-scale industries in developing countries: 
+Empirical   evidence   and   policy implications. Michigan State University 
+International Development Papers No. 9. Michigan State University, East 
+Lansing, USA 
+ 
+Loewenthal, K.M (2001):  An Introduction to Psychological Tests and Scales .2nd
+     
+ 
+Edition. New York. Psychological Press. 
+Low. P; Pier martini, R & Richenting, J (2005): Multilateral solutions to the erosion of 
+non–reciprocal preferences in NAMA. Working    Paper ERSD-2005-05, 
+WTO, Geneva. 
+  
+McQueen .D.  (2004): Small-scale enterprises and sustainable development.  
+Policy Discussion Paper .Edinburgh IIED/SDC/DFID 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+51 
+ 
+ 
+Mutahunga E. (2006): “Mainstreaming trade into national development plans.” A 
+presentation at   the 4th
+ 
+ Course on Introduction to Trade and Trade Policy 
+Analysis. Kampala. MITI 
+Ntayi, J.M. (2005): Work ethic, locus of control and sales force performance. Journal 
+of African Business Vol. 6 Numbers 1/2   International Business Press. 
+ 
+Ng, F and Yeats    (2000): On the recent trade performance of Sub-Saharan African 
+Countries: Cause for Hope or More of the same? African   Region Working 
+Paper. World Bank, Washington. DC. 
+ 
+Neupert, K.E; Baughn, C.C and Dao, L.T (2006): “SME export challenges in 
+transitional and developed economies”, Journal for Small Business and 
+Enterprise Development, Vol. 13 No. 4, Pg. 535 – 545 
+ 
+Norusis, M.J. (1988) SPSS – X Advanced Statistics Guide. SPSS Inc. Chicago. 
+ 
+Nunnally J.C and Bernstein I.H (1994): Psychometric Theory, New York MacGraw 
+Hill. 
+ 
+OECD, (2000): Small and Medium Enterprises Outlook. 2nd
+ 
+ edition, Paris France. 
+Ohtswamah, C. (2008):20 years later NRM fails where it mattered. The Independent 
+.Issue 4 Jan-Feb 2008. www.independent.co.ug 
+ 
+Oyejide, A.T (2005): Relaxing export supply capacity constraints and promoting export 
+expansion and diversification in Africa. The role  of special export 
+development strategies.( Retrieved 6/11/07.) 
+http://www.afdb.org/pls/portal/url/ITEM?22FE8F94631A299E04C00A0C3D
+3.  
+Parasuramman A., Zeithamal V.A., and Berry, L.L. (1998): SERVQUAL:  
+A multiple–item scale for measuring consumer perceptions of service quality. 
+Journal of Retailing 64(1):12-40. 
+ 
+Reinartz, W.  Kraft, M., & Hoyer, W. (2003): Measuring the customer relationship 
+construct and linking its performance outcomes. INSEAD Working Paper 
+Series 2003/02/MKT. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wasswa Katono Isaac 
+ 
+52 
+ 
+Siekpe S.J (2005): An Examination of the multi-dimensionality of the flow construct in 
+a computer mediated environment. Journal of Electronic Commerce 
+Research. 6 (1) 
+ 
+Sorebo, O Christensen, G.E, & Eikebrokk, T.R (2004): The impact of purposeful end-
+user computing activities on job performance: An empirical investigation. 
+Journal of Research and Practice in Information Technology Vol. 36 No. 2 
+ 
+Stiglitz, J.E and Charlton, A. (2005): Fair Trade for All:- How Trade can Promote 
+Development
+ 
+: Oxford University Press, London. 
+Tesfom, G. and Lutz, C. (2006): “A classification of export marketing problems of 
+small and medium-sized manufacturing firms in developing countries”. 
+International Journal of Emerging Markets, Vol. 1 No.3 pp. 265 – 281 
+ 
+Todaro, M.P. (1995): Economics for a Developing World
+ 
+. Longman. London 
+Todd, R.P and Javalgi, R. (2007): “Internationalization of SMEs in India”, 
+International Journal of Emerging Markets, Vol.2 No.2, pp. 166 – 180 
+ 
+Tupy, L.M (2005), “Trade liberalization and poverty reduction in Sub-Sahara Africa”, 
+Policy Analysis No. 557, CATO Institute, Washington 
+  
+UEPB (2005). http://www.ugandaexportsonline.com/s  
+ 
+UNCTAD (2004): Beyond conventional wisdom in development policy. An 
+intellectual history of UNCTAD (1964 – 2004). UNCTAD/ EDM/ 2004/4 
+      
+USAID (2001): AGOA   Textile & garment -what future for Uganda’s exports? Nathan 
+–MSI (OUT-PCE-1-807-980016) 
+                                                                        
+US Government (2005) Africa Competitiveness Report. 
+ 
+US Government (2000) AGOA Act   Implementation Guide.   
+ 
+Walter, T.   Balunywa, W., Rosa, P., Sserwanga, A., Barabas, S., Namatovu, R. (2003): 
+Global Entrepreneurship Monitor. Kampala. MUBS. 
+ 
+World Bank (2000): Can Africa Claim the 21st
+ 
+ Century? World Bank, Washington DC. 
+Zachary, P.G. (2008): Should the map of Africa be redefined? The Independent Issue 4 
+Jan-Feb 2008. www.independent.co.ug 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Management Review Journal Vol.11(2) 
+ 
+ 
+53 
+ 
+END NOTE 
+                                                 
+ 
+1   Average Variance Extracted  (AVE )  is given by   : AVE =Σλi²/{Σλi² + Σ(1- λi²)} 
+,where Σλi² is the sum of the squared loadings, while  Σ(1- λi²) is the sum of the 
+residual variances. 

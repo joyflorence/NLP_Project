@@ -1,0 +1,1488 @@
+Sustainable
+Environmental Law
+
+The Future for Uganda
+
+
+
+
+
+
+
+
+
+
+Isaac Christopher Lubogo
+
+
+
+
+
+
+
+© 2022 Isaac Christopher Lubogo.
+
+The right of Isaac Christopher Lubogo to be identified as the author of this
+book has been asserted by him in accordance with the Copy right and
+Neighboring Rights Act, 2006.
+
+All rights reserved. No part of this publication may be reproduced or
+transmitted in whole or in part in any form or by any means, electronic or
+mechanical, including photocopy, recording or any information storage and
+retrieval system, without permission in writing from the author.
+
+First Edition 2022
+ISBN: 978-9913-633-27-7
+
+First published in Uganda by:
+Jescho Publishing House
+A member of Jescho Group Ltd
+Maria’s Galleria, Level 3 Room 17,
+Luwum Street, Kampala (U), East Africa.
+Tel: +256 393 256 545, +256 782 395 293
++256 702 055 211, +256 752 055 211
+E-mail: jeschogroupltd@gmail.com
+Website: www.jeschogroupltd.co.ug
+
+View this author’s profile at:
+www.lubogo.com or www.suigenerislawapp.com
+
+
+
+
+iii
+Table of Contents
+Sustainable
+Environmental Law
+Dedication .............................................................................................vii
+
+Sustainable Development Goals (SDGS) ............................................... 8
+Energy Poverty. ................................................................................................. 8
+Causes of Energy Poverty. ................................................................................ 9
+Intermeddling Factors and different perspectives. ....................................... 11
+Challenges to defining and measuring energy poverty ................................ 12
+Composite Indices ......................................................................................... 13
+Government Intervention. ............................................................................ 20
+Effects of Governmental Interventions. ....................................................... 22
+Mitigations. .................................................................................................... 33
+Improved success ........................................................................................... 33
+Successful interventions ................................................................................ 34
+Environmental impacts ................................................................................. 37
+Sustainable options ........................................................................................ 37
+Challenges ...................................................................................................... 38
+Government intervention ............................................................................. 39
+Education interventions and behaviour change techniques ........................ 40
+Non-technological interventions .................................................................. 44
+Challenges ...................................................................................................... 44
+Sustainable and Environmental development effects. ................................. 45
+Energy Conservation ............................................................................ 46
+Energy conservation opportunities by sector ............................................... 47
+
+
+
+iv
+Global Impact ................................................................................................. 52
+Energy conservation by countries .................................................................. 52
+Mechanisms to Promote Conservation ......................................................... 57
+Non-Governmental Mechanisms .................................................................. 62
+Benefits ............................................................................................................ 70
+Appliances ....................................................................................................... 70
+Building design ............................................................................................... 71
+Industry ........................................................................................................... 76
+Transportation. ............................................................................................... 77
+Energy conservation ....................................................................................... 80
+Rebound Effect .............................................................................................. 80
+Sustainable energy ........................................................................................... 81
+Sources Of Energy .......................................................................................... 87
+The Ultimate Source of Energy ..................................................................... 88
+Classification of energy sources ..................................................................... 90
+Renewable Energy Sources .................................................................. 92
+Drivers and benefits ........................................................................................ 94
+Power generation ............................................................................................ 95
+Solar Energy. ................................................................................................... 96
+Methods of solar energy .............................................................................. 102
+Heat Transfer. .............................................................................................. 108
+Propulsion .................................................................................................... 109
+Solar Pumping System ................................................................................. 130
+Hydro Energy .............................................................................................. 131
+Geothermal energy....................................................................................... 134
+Geothermal Heating. ................................................................................... 137
+Bioenergy. ..................................................................................................... 142
+
+Isaac Christopher Lubogo
+
+
+v
+Non-renewable energy sources .................................................................... 156
+Renewable Energy in Africa. ............................................................ 169
+Utilization of biogas ..................................................................................... 179
+Combustion ................................................................................................. 183
+Renewable energy use .................................................................................. 195
+Wind Energy ................................................................................................ 199
+Horizontal Axis Single Blade Wind Mill .................................................... 204
+Sustainability As Amajor Requirment ....................................................... 208
+Global Warming .......................................................................................... 212
+Impacts of Global Warming To Uganda .................................................... 213
+Unconventional resources ........................................................................... 221
+Conventional Resources in Respect to Gas ............................................... 222
+Unconventional Resources in Respect to Gas ........................................... 223
+Importance of unconventional resources to the future of our industry ... 223
+Benefits of non-conventional energy resources .......................................... 226
+Reducing Nitrous Oxide Emissions ........................................................... 242
+Blue Economy .............................................................................................. 249
+Terms of the economy ................................................................................. 250
+Blue Economy Development Framework .................................................. 260
+Fossil Fuel ..................................................................................................... 270
+The Role of Fossil Fuels in a Sustainable Energy System ........................... 273
+Butane Gas ................................................................................................... 279
+Clean Energy ................................................................................................ 281
+Climate Change ........................................................................................... 283
+Impacts of Climate Change ........................................................................ 289
+Reducing and recapturing emissions .......................................................... 293
+
+
+
+vi
+Economic of climate change ....................................................................... 294
+Shale Gas ...................................................................................................... 296
+Shale Oil ....................................................................................................... 299
+Conventional Oil ......................................................................................... 301
+Tidal Energy ................................................................................................. 302
+References ........................................................................................... 310
+
+
+vii
+Dedication
+
+Oh God, Even my God my High Tower, my refuge, my Redemeer, my only
+source of hope. This and many more is for you Oh God of the mighty
+universe.
+
+
+
+Sustainable Development Goals (SDGS)
+
+For the worldwide goal of preventing climate change while sustaining
+economic growth and permitting living standards to rise, meeting present and
+future energy demands sustainably is a crucial challenge. For health care,
+education, and economic development, it is crucial to have access to
+affordable, reliable energy, especially electricity. 790 million people in
+developing nations will not have access to electricity by 2020, and about 2.6
+billion will cook with harmful fuels. Most of the United Nations 2030
+Sustainable Development Goals, which address topics like gender equality
+and climate action, may be achieved by increasing energy availability in the
+least developed nations and making energy cleaner. By 2030, all people must
+have access to "cheap, dependable, sustainable and contemporary energy for
+all," including access to electricity and facilities for clean cooking.
+ENERGY POVERTY.
+Lack of access to modern energy services is known as energy poverty. It refers
+to the condition where a lot of people in poor nations and some individuals
+in rich countries have their well-being badly impacted by extremely low
+energy usage, the use of dirty or polluting fuels, and a lot of time spent
+gathering fuel to meet their basic needs. Currently, 2.6 billion people employ
+unsafe and ineffective cooking methods, while 759 million people live
+without reliable access to power. Although increasing access is only one
+component in efforts to eliminate energy poverty, it is inversely correlated
+with access to contemporary energy services. Fuel poverty, which largely
+concentrates on the issue of affordability, is different from energy poverty.
+Brenda Boardman's book Fuel Poverty: From Cold Homes to Affordable
+
+
+Warmth, which was published, gave rise to the phrase "energy poverty"
+(1991). The need to create governmental policies to alleviate energy poverty
+as well as research its causes, symptoms, and social repercussions was sparked
+by the term "energy poverty," which refers to the junction of poverty and
+energy use. In Boardman's book, when energy poverty was first mentioned, it
+was defined as not having enough electricity to heat and cool dwellings.
+Electricity poverty is now recognised as the outcome of many systemic
+injustices that make it difficult for people to obtain modern energy at a
+reasonable cost. Because energy poverty is a private experience within homes,
+is peculiar to cultural contexts, and dynamically changes based on the time
+and place, it is difficult to quantify and, thus, to analyse. The World
+Economic Forum's Energy Poverty Action programme states that "Access to
+energy is essential for raising quality of life and is a vital requirement for
+economic growth. Energy poverty is still pervasive in the developing world ".
+This led to the United Nations (UN) launching the Sustainable Energy for
+All Initiative and declaring 2012 as the International Year for Sustainable
+Energy for All, which placed a significant emphasis on lowering energy
+poverty. Through Goal 7 of the Sustainable Development Goals, which aims
+to "provide access to affordable, dependable, sustainable, and modern energy
+for all," the UN further highlights the significance of energy poverty.
+CAUSES OF ENERGY POVERTY.
+Energy Sources.
+The majority of emerging nations have significant rural populations, and the
+rural areas in such nations lack a modern energy infrastructure. They have
+relied primarily on conventional biomass, including wood fuel, charcoal,
+crop residue, wood pellets, and similar materials. Due to a lack of modern
+energy infrastructure, including power plants, transmission lines, and
+underground pipelines to deliver energy resources like natural gas and
+petroleum, which require advanced technologies and have extremely high
+upfront costs and are therefore beyond their capacity in terms of both money
+
+
+and technology. Even while some emerging nations, such as the BRIC bloc,
+have financial clout and energy-related technical levels that are comparable to
+those of industrialised nations, conventional biomass still dominates in the
+majority of developing nations. The International Energy Agency (IEA)
+predicts that while traditional biomass use would decline in many nations, it
+is projected to rise along with population expansion in South Asia and sub-
+Saharan Africa. Renewable energy projects that address energy poverty can
+be helpful for low-carbon development plans.
+Energy Ladder.
+An energy ladder illustrates how energy use has improved as household
+income has increased. In general, home energy consumption would become
+cleaner and more cost-effective as income rose, such as when switching from
+traditional biomass to electricity. Low-income and underdeveloped
+households are prone to use inexpensive, locally accessible, but inefficient
+fuel, placing them at the bottom of the energy food chain. The World Health
+Organization estimates that over three billion people worldwide are on these
+lower rungs and rely on coal and biomass fuels, such as crop waste, dung,
+wood, and leaves, to supply their energy demands. These people are
+disproportionately concentrated in Asia and Africa; for example, 95 percent
+of the people in Afghanistan, 95 percent in Chad, 87 percent in Ghana, 82
+percent in India, 80 percent in China, and so on, use these fuels. We would
+anticipate that households would switch to higher quality fuel options as
+wages improve. But it has been a very gradual process. In fact, according to
+the World Bank, the percentage of biomass used for all forms of energy has
+stayed stable at around 25% since 1975.
+Energy Prices Increases and Poverty.
+Increases in energy prices are frequently necessary for economic and
+environmental reasons, even though they occasionally make households
+poorer. According to a 2016 study assessing the expected effects of an energy
+price reform on poverty and distribution in Armenia, a large natural gas tariff
+
+
+increases of about 40% led to an estimated 8% of households switching to
+wood as their primary source of heating, and it also drove an estimated 2.8%
+of households into poverty, or below the national poverty line. This study
+also discusses the methodological and statistical assumptions and limitations
+that come into play when estimating the causal effects of energy reforms on
+household poverty. It also explores potential impacts of such reforms on nonfinancial human welfare, which is more challenging to statistically quantify.
+High Energy, a study by Oldham. Jules, (2011) Scottish Council for Single
+Homeless, demonstrated how having utilities set up before moving in, being
+aware of different payment options and metre types, and being able to access
+the right tariff to suit their financial needs can make the difference between a
+new tenancy succeeding or failing when people leave homelessness.
+INTERMEDDLING FACTORS AND DIFFERENT PERSPECTIVES.
+Domestic Energy Poverty.
+When a household lacks access to or cannot afford to purchase the essential
+energy or energy services needed to meet daily needs, the situation is referred
+to as domestic energy poverty. These specifications may vary from one
+location or country to another. Lighting, culinary energy, and household
+heating or cooling are the most frequent requirements. Other authors take
+into account a variety of energy requirements, ranging from "basic energy
+needs" related to human survival and highly impoverished conditions. All of
+the aforementioned activities (cooking, heating, and lighting) , as well as
+energy for fundamental services related to health, education, and
+communications, are referred to as "basic energy demands," which are
+necessary for achieving basic living standards. "Energy needs for productive
+uses" refers to situations where a user also needs the energy to meet basic
+needs; "Energy for recreation" refers to situations where a user has met all of
+the requirements for the previous categories but still needs energy to enjoy
+life. Up until recently, energy poverty definitions only took into account the
+bare minimum amount of energy needed. However, a newer school of
+
+
+thought holds that in addition to energy quantity, definitions of energy
+poverty should also evaluate the quality and cleanliness of the energy
+consumed. An example of one of these definitions is as follows:
+(a)
+“A person is in 'energy poverty' if they do not have access to at least:
+(a) the equivalent of 35 kg LPG for cooking per capita per year from liquid
+and/or gas fuels or from improved supply of solid fuel sources and improved
+(efficient and clean) cook stoves.and
+(a)
+120kWh of energy per person per year is required for illumination,
+access to the majority of fundamental services (drinking water,
+communication, enhanced health services, improved education services, and
+others), as well as some value-added to local production.
+An "improved energy source" for cooking is one that requires less than 4
+hours of fuel collection time per week per household, complies with WHO
+air quality recommendations (maximum CO concentration of 30 mg/M3 for
+exposures lasting 24 hours and less than 10 mg/M3 for exposures lasting 8
+hours), and has an overall conversion efficiency of more than 25%.”
+CHALLENGES TO DEFINING AND MEASURING ENERGY
+POVERTY
+Energy services cannot be quantified in a tangible way, and there is no agreedupon definition of what constitutes essential energy services, making it
+difficult to identify and quantify energy poverty. The various ways that
+humans use energy, such as for lighting, cooking, space heating, and
+refrigeration, are known as energy services.
+
+
+
+
+
+COMPOSITE INDICES
+Energy Development Index (EDI)
+The Energy Development Index (EDI), first developed by the International
+Energy Agency (IEA) in 2004, seeks to gauge a nation's transition to
+contemporary fuels. The weighted average of the following four variables is
+used to calculate it: "1) Per capita commercial energy consumption as an
+indicator of the overall economic development of a country; 2) Per capita
+electricity consumption in the residential sector as a metric of electricity
+reliability and customers' ability to afford it; 3) Share of modern fuels in total
+residential energy sector consumption to indicate access to modern cooking
+fuels; and 4) Share of population with access to modern energy sources. (The
+Human Development Index (HDI) served as the inspiration for the EDI.)
+The EDI gives a metric that provides an understanding of the national level
+of energy development because it is calculated as the average of indicators that
+quantify the quality and quantity of energy services at a national level.
+However, this also implies that the EDI is ill-suited to describe energy poverty
+at the home level.
+Multidimensional Energy Poverty Index (MEPI)
+Depending on how severely they are affected by energy shortage, determines
+whether a person is energy rich or poor. Seven variables are used to classify
+different levels of energy deprivation: "access to light, contemporary cooking
+fuel, fresh air, refrigeration, recreation, communication, and space cooling."
+If a person goes through a specified amount of energy shortages, they are said
+to be low on energy.
+The MEPI is computed by averaging the average degree of energy
+deprivation among the energy poor and multiplying that number by the
+proportion of people who were classified as energy poor relative to the overall
+sample size. The MEPI's ability to account for both the quantity and severity
+of energy poverty among its many advantages. On the other hand, because it
+
+
+gathers data at the home or person level, it is more challenging to comprehend
+the larger national context.
+Energy Poverty Index (EPI)
+The Energy Poverty Index (EPI), created by Mirza and Szirmai in their 2010
+study to assess energy poverty in Pakistan, is determined by averaging a
+household's energy deficiency and energy annoyance. The frequency of
+buying or collecting a source of energy, the distance travelled from the
+household, the mode of transportation used, the participation of household
+members in energy acquisition, the amount of time spent collecting energy
+each week, the household's health, and the participation of children in energy
+collection are all indicators of energy inconvenience. Lack of enough energy
+to meet essential home demands is referred to as an energy shortage. This
+rating gives more weight to the usability of energy services than to their
+accessibility. The EPI collects data at a micro level, like the MEPI, which aids
+in a better understanding of energy poverty at the household level.
+Intersectional Concerns.
+Energy poverty, like other challenges of economic justice, frequently makes
+already poor groups more vulnerable.
+Climate Change
+The production and use of energy accounted for 70% of greenhouse gas
+emissions in 2018. There is a chance that greenhouse gas emissions will rise
+correspondingly as more nations strive to switch to modern energy services
+and make energy accessible to more people. [Reference needed] 50 percent of
+the lowest emitting nations contribute only 0.74 percent of all historic
+greenhouse gas emissions, while 5 percent of countries historically account
+for 67.74 percent of total emissions. As a result, there are significant systemic
+hurdles that restrict people from obtaining and using energy services, which
+are reflected in the highly unequal distribution, production, and use of energy
+services. Additionally, poorer countries are being urged more strongly to
+
+
+invest in renewable energy sources rather than replicating the energy
+development trends of wealthy countries.
+Health
+Women are typically in charge of obtaining traditional biomass for energy
+because of traditional gender norms. In the kitchen, women also spend a lot
+of time cooking. Women who spend a lot of time gathering energy resources
+have less time for other pursuits, and the physically taxing work causes
+chronic weariness in them. Additionally, women and kids who stay close to
+their mothers to assist with household duties run the risk of being exposed
+over time to the indoor air pollution that is brought on by burning traditional
+biomass fuels. They face health risks from combustion-related substances
+such benzene, carbon monoxide, and particulates. This causes a lot of acute
+respiratory infections in women and children as well as lung cancer, asthma,
+and other illnesses. "Unsustainable biomass use has devastating effects on
+human health. According to the World Health Organization, exposure to
+indoor air pollution is to blame for 4% of the world's disease burden and over
+two million extra deaths from cancer, respiratory infections, and lung
+illnesses, mostly affecting women and children.
+In comparison, each year more people die from biomass pollution-related
+causes than from tuberculosis (1.6 million) and malaria (1.2 million)."
+Energy-poor households are more likely to rely on traditional biomass, like
+wood and cow dung, to meet their energy needs, which is another link
+between energy poverty and health. Black carbon is released into the
+environment when wood and cow dung are burned, though, because of
+incomplete combustion. A potential health risk is black carbon.
+Gender
+Energy has a huge impact on women and girls' health, educational, and
+employment chances in underdeveloped nations because they are typically in
+charge of providing the main source of energy for households. Women and
+girls have less time to pursue school, recreational activities, and employment
+
+
+since they spend a large amount of time searching for fuel sources such wood,
+paraffin, dung, etc. Additionally, because they are the main family members
+in charge of cooking and other domestic tasks in the home, women and
+children are disproportionately impacted by using biomass as a fuel for
+heating and cooking. 85 percent of the 2 million deaths from interior air
+pollution are attributable to women and children because they are more
+susceptible to the indoor air pollution caused by burning biomass. Because of
+their comparatively low incomes compared to the high cost of energy services,
+women in industrialised countries are more likely to experience energy
+poverty.
+For instance, of the 5.6 million French households who were unable to
+effectively heat their houses, 38 percent were headed by women. Because of
+structural differences between men and women in financial resources and
+ability to invest in energy-saving measures, older women are particularly
+vulnerable to experiencing energy poverty.
+"Energy offers services to fulfil a variety of fundamental human requirements,
+especially heat, drive (for things like water pumps and transportation), and
+light. Access to energy services is crucial for the provision of modern business,
+industry, commerce, and public services like modern healthcare, education,
+and communication. Indeed, many poverty indicators, including infant
+mortality, illiteracy, life expectancy, and total fertility rate, are directly
+correlated with the lack of adequate energy services. By encouraging people
+to move into cities in search of better living conditions, inadequate energy
+access also accelerates urbanisation in developing nations.
+Long-term studies have shown a direct correlation between rising energy use
+and rising living standards. It's not obvious, though, whether rising energy
+consumption is a prerequisite for economic expansion or vice versa. There is
+still a strong direct correlation between energy consumption and economic
+development in underdeveloped nations, even though wealthy countries are
+
+
+already starting to divorce their energy consumption from economic growth
+(via structural reforms and improvements in energy efficiency).”
+Education
+Education is a very effective tool for reducing the effects of energy poverty,
+which has many different dimensions. Because they may be unable to study
+for as long as they would want without reliable energy sources after sundown,
+pupils with limited electrical access may have lower academic standards.
+Furthermore, having reliable access to energy allows female children, who are
+typically responsible for gathering fuel for their home, to devote more time
+to studying and attending school. In primary schools in sub-Saharan Africa,
+90% of the students are without power. Only 2% of schools in Burundi and
+Guinea and 8% of schools in the Democratic Republic of the Congo (DR
+Congo) are electrified, respectively (43 percent of whom are under 14 years).
+According to these figures, about 30 million kids are attending school
+without electricity in the DRC alone. In order to increase human capital,
+which in turn helps people become more productive members of society and
+contribute to economic progress, education is a crucial factor. As emerging
+countries amass more money, they can spend in constructing cutting-edge
+energy infrastructure, giving households more options to pursue cutting-edge
+energy sources and reducing energy poverty.
+Regional Comparisons.
+Energy poverty is a complicated issue that takes into account the subtleties of
+a region's culture, time, and place. Although there are basic patterns in how
+energy poverty is experienced and mitigated between the Global North and
+South, the phrases "Global North/South" are generalisations and sometimes
+insufficient to capture the specifics of energy poverty.
+Africa
+Due to its growing urbanisation and expanding metropolitan centres, Africa
+faces some particularly difficult energy poverty issues. Urbanization has
+
+
+historically sparked more extensive shifts to contemporary energy services,
+according to trends in urbanisation in Asia. However, a rise in money is
+necessary for access to modern energy services in cities, and this is difficult to
+find in the economies of many African cities. Due to this, just 25% of Africans
+who live in metropolitan areas have access to power. Additionally, access to
+electricity has not grown proportionally as Africa's population has grown.
+Despite a population increase of 150 million individuals between 1970 and
+1990, only 50 million people acquired access to electricity. The greatest
+obstacle to energy access for those living in urban areas is the high price
+compared to their generally low earnings. The urban poor spend 10–30% of
+their income on energy, compared to the non–poor who spend only 5-7%.
+Global South
+Due to inadequate energy infrastructure, weak energy service markets, and
+insufficient family incomes to cover the cost of energy services, the Global
+South suffers from a severe lack of access to modern energy sources. The
+capacity of a region to switch to modern energy sources is influenced by a
+complex web of political, economic, and cultural issues, according to recent
+research, therefore reducing energy poverty may take more than simply
+improving power infrastructure. Because better energy availability helps
+people to employ more of their skills, energy poverty is closely related to many
+sustainable development goals.
+For instance, having more access to clean energy for cooking helps women's
+health by lowering the indoor air pollution caused by burning traditional
+biomasses; farmers can use telecommunication networks to find better prices
+for their crops; people have more free time to engage in leisure activities and
+other pursuits, which can increase household income from the time saved
+from searching for firewood and other traditional biomasses; etc. Energy
+poverty is generally viewed through the lens of another way to promote
+sustainable development in regions within the Global South because of the
+influence energy poverty has on sustainable development.
+
+
+Global North
+In the Global North, where the conversation centres on households' access to
+energy sources to heat, cool, and power their homes, energy poverty is most
+frequently characterised as "fuel poverty." High energy expenses, poor
+household incomes, and inefficient equipment are the main causes of fuel
+poverty. a global viewpoint Additionally, because of their financial situation
+and lack of access to energy-saving devices, older persons are more likely to
+experience fuel poverty. Between 50 and 125 million people live in fuel
+poverty, according to the European Fuel Poverty and Energy Efficiency
+(EPEE). Fuel poverty shares many complexities with energy poverty, making
+it challenging to describe and quantify. One of the few nations that defines
+fuel poverty as when a household spends 10% or more of its income on
+heating and cooling is the United Kingdom (UK) and Ireland. By employing
+three indicators checking for leaking roofs, energy bill arrears, the ability to
+pay for proper heating, and mould in windows another EPEE investigation
+discovered that 1 in 7 families in Europe were on the verge of fuel poverty.
+Low earnings, inadequate insulation in homes, and high energy costs all
+enhance a person's susceptibility to fuel poverty. As weather patterns become
+more extreme, there is increased pressure from climate change, which raises
+the need for fuel to heat and cool homes. Since cold weather can exacerbate
+respiratory and cardiovascular conditions, it is important to be able to
+provide enough heating during cold weather.
+Facing Energy Poverty.
+Energy is crucial for both public health and economic prosperity.
+Governments in developing nations should work to combat energy poverty
+since it has a detrimental effect on both public health and economic growth.
+As developing countries governments take steps to minimise social expenses
+and boost social benefits by progressively bringing modern electricity to their
+people in rural places, the number of people who currently use it should rise.
+Governments in the developing countries, however, have had trouble
+promoting the dissemination of modern energy, such as electricity. An
+
+
+enormous sum of money must initially be invested in order to develop the
+energy infrastructure that will produce and supply electricity to every home.
+Additionally, developing nations have been unable to obtain contemporary
+energy due to a lack of advanced technologies. Due to these significant
+obstacles, it is challenging for the governments of developing nations to
+contribute to the efficient growth of the energy sector without outside
+assistance. Building a solid future energy infrastructure and institutions in
+developing nations requires international cooperation. Even though their
+energy status hasn't changed much in recent years, current international aid
+programmes are making a significant contribution to closing the gap between
+developing and industrialised nations when it comes to the use of modern
+energy. When compared to the absence of international cooperation, closing
+the gap will take less time with international aid.
+According to the World Bank, financial aid should be given to individuals in
+need rather than acting as a general subsidy for fossil fuels.
+GOVERNMENT INTERVENTION.
+The term "economic interventionism," often also referred to as "state
+interventionism," refers to an economic policy stance that favours
+government intervention in the market process in order to address market
+imperfections and advance the welfare of the populace. An economic
+intervention is a step that a government or international organisation takes in
+a market economy to influence the economy in ways other than the usual
+ones—regulating fraud, upholding contracts, and offering public goods and
+services. Economic intervention can be used to achieve a range of political or
+economic goals, including fostering economic development, raising
+employment levels, boosting wages, increasing or decreasing prices,
+promoting income equality, controlling the money supply and interest rates,
+boosting profits, and addressing market inefficiencies.
+
+
+The phrase "intervention" is generally employed by proponents of laissez-faire
+and free market capitalism, and it implies that government action is essentially
+exogenous to the economy and that, from a philosophical standpoint, the
+state and economy should be kept apart. State-owned firms that function as
+market entities do not constitute an intervention; the term refers to capitalist
+market-based economies when government activities interfere with the forces
+of the market through laws, subsidies, and price controls. Mixed economies
+are generally described as capitalist market economies with significant levels
+of state intervention.
+The Political Standpoint.
+Due to the law of unintended consequences, the conviction that government
+is incapable of successfully managing economic matters, and other factors,
+liberals and other proponents of the free market or laissez-faire economics
+typically see government interventions as negative. Modern liberals in the
+United States and modern social democrats in Europe, however, are more
+likely to embrace interventionism since they view state economic
+interventions as a critical strategy for advancing more income equality and
+social welfare. To further foster social order and stability, numerous centerright groups, including Gaullists, paternalistic conservatives, and Christian
+Democrats, embrace governmental economic interventionism. The power
+and riches of a nation or its citizens can be protected by economic
+interventionism, which is usually backed by national-conservatives. This is
+especially true when benefits are given to sectors of the economy that are
+considered as being crucial to the nation. When the prospective benefits
+surpass the external costs, such government actions are typically made.
+A developed welfare state, on the other hand, makes capitalism more tolerable
+for the average worker, thereby perpetuating the continued existence of
+capitalism to the detriment of society, according to Marxists, who frequently
+feel that interventions in the form of social welfare policies might interfere
+with the goal of replacing capitalism with socialism. Interventionism, which
+is backed by social democrats and social liberals, is frequently criticised by
+
+
+socialists as being unworkable and likely to lead to further economic
+distortion in the long run. While interventions may temporarily address
+specific problems, they exacerbate distortions and reduce the effectiveness of
+the capitalist system. According to this viewpoint, the only long-term answer
+is the replacement of capitalism with a socialist economy because any attempt
+to fix capitalism's flaws would cause economic inefficiencies elsewhere.
+EFFECTS OF GOVERNMENTAL INTERVENTIONS.
+There is much debate concerning the effects of government economic
+intervention.
+Although regulatory agencies don't always shut down markets, as was the case
+in Latin America's efforts at economic liberalisation by states and various
+organisations (including the International Monetary Fund and World Bank),
+"financial liberalisation and privatisation coincided with democratisation."
+According to one study, a growing "dispersion of regulatory agencies" arose
+following the "lost decade," and these actors got busy reshaping the
+economies in Latin America. Latin America had experienced hyperinflation
+and a debt crisis throughout the 1980s (during 1989 and 1990). These foreign
+parties constrained the state's economic clout and legally obligated it to
+cooperate. The renewal and intervention appeared to have stopped after
+numerous initiatives and years of unsuccessful attempts to get the Argentine
+authorities to comply. Significantly growing privatisation and the creation of
+a currency board were two crucial intervention factors that sparked economic
+growth in Argentina. This is an example of how international organisations,
+like the World Bank and the International Monetary Fund, promote
+openness to boost foreign investment and economic growth in various
+regions, including Latin America.
+Theoretically, in Western nations, government officials must consider the
+costs and benefits of an intervention on behalf of the populace or they will be
+forced to act by third parties. Stakeholders' discretion and self-interest, as well
+as their many interpretations of progress and development theory, govern
+
+
+interventions for economic development. To demonstrate this, consider the
+fact that during the financial crisis of 2007–2008, the government and
+international organisations did not support Lehman Brothers, causing the
+company to declare bankruptcy. Days later, as American International
+Group began to teeter on the brink of collapse, the government spent tax
+dollars to prevent catastrophe. These businesses have overlapping interests
+with the state, therefore they have an incentive to lobby for regulatory
+measures that won't impede their ability to amass wealth. Abenomics is a
+form of intervention in Japan, where Prime Minister Shinzō Abe wants to
+bring back the nation's past glory within a globalised economy.
+Government Interventions in the USA.
+In 1970, the Clean Air Act was expanded by President Richard Nixon to
+require both state and federal regulation of industries and automobiles.
+Additional changes were made in 1977 and 1990. The National
+Environmental Policy Act of 1969 (NEPA), which mandates that the
+government take the environment into account when making decisions, was
+one of the first contemporary environmental protection laws passed in the
+United States. One of the most often applied environmental regulations in
+the country is still NEPA. There are several pollution-control laws that apply
+to such particular environmental media as air and water in addition to NEPA.
+The Clean Air Act (CAA), Clean Water Act (CWA), and Comprehensive
+Environmental Response, Compensation, and Liability Act (CERCLA),
+sometimes known as Superfund, are the most well-known of these laws. The
+Resource Conservation and Recovery Act (RCRA), the Toxic Substances
+Control Act (TSCA), the Oil Pollution Prevention Act (OPP), the
+Emergency Planning and Community Right-to-Know Act (EPCRA), and
+the Pollution Prevention Act are just a few of the numerous other significant
+pollution control laws (PPA). There are many different types of pollution
+control laws in the United States, and many of the environmental laws
+established by Congress are focused on pollution prevention. Before their
+impact is completely seen, however, they frequently need to be updated and
+enlarged. Congress must find or establish an agency for each pollution-
+
+
+control statute since the laws are typically too broad to be administered by
+current legal authorities.
+The United States government intervened during World War I and required
+that machinery production take the place of vehicle production in order to
+win the war. By requiring American automakers to create electric vehicles like
+the Chevrolet Volt, the government may step in to reduce the country's
+reliance on foreign oil. Jennifer Granholm, the governor of Michigan, stated:
+"We need help from Congress," namely in the form of reauthorizing the tax
+incentives that lower the cost of plug-ins for consumers and the
+manufacturing tax credit for sustainable energy. Government-mandated
+carbon fees may be used to advance technology and lower the cost of vehicles
+like the Volt for consumers. However, according to existing legislation,
+carbon pricing would only marginally increase the price of gasoline by a few
+cents, which would have little impact on fuel consumption. The White
+House has taken credit for putting a down payment on the American battery
+industry that may lower battery prices in the coming years. Washington is
+starting to invest in the auto manufacturing industry by partially providing
+$6 billion in battery-related public and private investments since 2008.
+Opponents now hold the opinion that the carbon dioxide emissions tax the
+US government implemented on new cars is unfair to customers and appears
+to be a revenue-raising fiscal intervention rather than preventing
+environmental harm. A national fuel tax ensures that everyone pays the same
+amount of tax, with the amount paid by each person or business being based
+on the quantity of emissions they produce. They would have to pay more the
+more they drove. The National Treasury has declared that minibuses and
+midibuses will be specifically exempt from the emissions tax on cars and light
+commercial vehicles, which went into effect on September 1, 2010, despite
+the fact that the motor manufacturers favour this tax. The reason for this
+exclusion is that these taxis are also used for public transportation, a claim
+that tax opponents dispute.
+George W. Bush pledged to invest $2 billion over 10 years in research and
+development projects to promote clean coal technologies during the 2000
+
+
+presidential campaign. Bush's budget request for fiscal year 2008 included
+$426 million for the Clean Coal Technology Program, which his supporters
+claim shows that he kept his pledge. The Energy Policy Act of 2005, passed
+by Congress under his administration, provided financing for the
+development of a carbon-capture technology that would enable coal to have
+its carbon removed and buried after burning. As part of a plan to lessen
+American reliance on foreign energy and cut carbon emissions, the coal
+industry received $9 billion in subsidies under the act. Included in this were
+$6.2 billion for brand-new power plants, $1.1 billion in tax credits for the
+installation of pollution-control equipment, and a further $1.1 billion for the
+cost-effectiveness of coal. The measure also permitted "non-traditional" coal
+processing to be redefined, allowing coal firms to avoid paying $1.3 billion in
+taxes annually. Examples of this include spraying coal with diesel or starch.
+After 2020, when the cost of the permits would increase to further reduce
+consumers' demand for CO2-intensive goods and services, the Waxman-
+Markey plan, also known as the American Clean Energy and Security Act,
+would aim significant CO2 reductions. In 2050, the Act aims to cut CO2
+emissions by 83 percent from 2005 levels. According to an EPA assessment,
+the cost of the permit would increase from around $20 per tonne in 2020 to
+more than $75 per tonne in 2050.
+According to the Office of Management and Budget (OMB), four coal tax
+preferences—expensing of exploration and development costs, percent
+depletion for hard mineral fossil fuels, royalty taxation, and domestic
+manufacturing deduction for hard mineral fossil fuels—were expected to be
+significantly reduced between 2011 and 2020 if the budget was approved by
+Congress. The Obama administration's proposed budget for fiscal 2011
+would eliminate about $2.3 billion in coal subsidies over the following ten
+years.
+International efforts
+A third of the world's population, China and India, have rising economies,
+and other developing countries exhibit comparable patterns in rapid
+
+
+economic and demographic expansion. Modern energy sources are
+increasingly needed as a result of modernization and industry. Expanding
+their energy infrastructure to meet the rising energy demands of their
+expanding populations is a challenge for emerging countries. More people in
+developing nations will have extremely difficult access to modern energy
+services if deliberate policy-making and action are not taken.
+Intervention strategies used by international development organisations have
+not always been effective. "International collaboration must be based on a
+select few, well-known components of energy policy, such as institutional
+assistance, capacity development, support for local and national energy
+programmes, and strong ties to utility/public sector leadership. Africa is
+deficient in utilising its abundant human and material resources for its
+people's welfare, while having everything needed to alleviate poverty. The
+ability to deploy technology, absorb and distribute funding, provide
+transparent regulation, implement peer review processes, and communicate
+and monitor pertinent information and data are all included in this."
+European Union
+In 2013, the European Economic and Social Committee (EESC) issued an
+official opinion on the subject urging Europe to concentrate on energy
+poverty indicators, analysis of energy poverty, consideration of an energy
+solidarity fund, economic analysis of member states' energy policies, and
+consumer education campaigns. Several million individuals in Spain are said
+to live in energy poverty, according to a 2016 survey. A few fatalities have
+resulted from these circumstances, and the public is outraged at the contrived
+and "absurd pricing structure" used by electrical companies to boost their
+profits. The average interior air temperature of impoverished families in
+Cyprus was found to be below the acceptable threshold for comfort in 2017,
+and their heating energy usage was found to be lower than the national
+average for the clusters classified by high and partial deprivation. Due to their
+inability to purchase it, low-income households are unable to meet and
+maintain the interior thermal needs.
+
+
+Global Environmental Facility
+"The Global Environmental Facility (GEF), an international financial
+organisation that lends money to developing nations for capital projects, was
+founded in 1991 by the World Bank Group to address global environmental
+issues in collaboration with other international organisations, the private
+sector, etc., particularly by funding various projects in developing nations.
+The GEF awards funding to developing nations and nations whose
+economies are transitioning for initiatives addressing persistent organic
+pollutants, international waterways, ozone depletion, land degradation, and
+biodiversity. By tying together regional, governmental, and international
+environmental issues and fostering sustainable livelihoods, these programmes
+help the environment worldwide. For more than 2,800 projects in more than
+168 emerging and transitioning economies, the GEF has allocated $10 billion,
+plus an additional $47 billion in cofinancing. More than 13,000 small awards
+totaling $634 million have been awarded by the GEF directly to communitybased and civil society organisations through its Small Grants Programme
+(SGP). The UN Development Programme, UN Environment Programme,
+World Bank, UN Food and Agriculture Organization, UN Industrial
+Organization,
+African
+Bank,
+Asian
+Development Bank, European Bank for Reconstruction and Development,
+Inter-American Development Bank, and International Fund for Agricultural
+Development are the ten organisations that make up the GEF partnership.
+The Scientific and Technical Advisory Panel provides technical and scientific
+advice on the GEF's policies and projects."
+Climate Investment Funds
+The Clean Technology Fund (CTF) and the Strategic Climate Fund are two
+Trust Funds that make up the Climate Investment Funds (CIF), each of
+which has its own governance structure, goals, and scope (SCF). The CTF
+encourages financial investments to start the transition to clean technologies.
+The CTF aims to close a gap in the global financial system by providing
+development financing at more favourable rates than those offered by
+
+
+Multilateral Development Banks (MDBs) on a large enough scale to
+encourage developing nations to incorporate locally appropriate mitigation
+measures into their plans for sustainable development and investment
+choices. The SCF acts as an umbrella fund to assist targeted initiatives with
+dedicated funding to trial novel strategies with the potential for scaled-up,
+transformational action directed at a particular climate change challenge or
+sectoral response. The Program for Scaling-Up Renewable Energy in Low-
+Income Countries (SREP), which was approved in May 2009, is one of SCF's
+target programmes. Its goal is to show the economic, social, and
+environmental viability of low-carbon development pathways in the energy
+sector by generating new business opportunities and expanding access to
+energy through the use of renewable energy.
+Energy Poverty and Cooking.
+Lack of access to clean, contemporary fuels and cooking technologies is one
+aspect of energy poverty. More than 2.6 billion people in poor nations will be
+regularly cooking using fuels including wood, animal dung, coal, or kerosene
+by the year 2020. The World Health Organization (WHO) estimates that 3.8
+million people die each year as a result of severe home air pollution brought
+on by burning these kinds of fuels in open flames or conventional stoves. This
+pollution also exacerbates other health, socioeconomic, and environmental
+issues.
+Making clean cooking facilities widely accessible and reasonably priced is a
+top goal for global sustainable development. If the WHO-defined thresholds
+for carbon monoxide and fine particulate matter emissions are not reached,
+cooking facilities are regarded as "clean."
+Electricity, liquid petroleum gas (LPG), piped natural gas (PNG), biogas,
+ethanol, and solar heat are all regarded as clean fuels for stoves and other
+equipment. Improved cook stoves that burn biomass more effectively than
+conventional stoves are a crucial stopgap measure in places where it is more
+difficult to implement cleaner technology. The ecology and gender equality
+
+
+would both benefit greatly from having clean cooking facilities available to
+everyone.
+Shortfalls of Traditional Cooking Fuels.
+By 2020, more than 2.6 billion people in developing nations would still cook
+with polluting biomass fuels like wood, dried dung, coal, or kerosene, which
+not only contribute considerably to outdoor air pollution but also dangerous
+indoor air pollution. According to the World Health Organization (WHO),
+cooking-related pollution kills 3.8 million people per year. According to the
+Global Burden of Disease report, 1.6 million people passed away in 2017.
+Numerous of the hundreds of chemicals found in solid fuel smoke are
+harmful to human health. Carbon monoxide (CO), small particulate matter,
+nitrous oxide, sulphur oxides, a variety of volatile organic compounds,
+including formaldehyde, benzene, and 1,3-butadiene, and polycyclic
+aromatic compounds, such as benzo-a-pyrene, are among the substances
+whose effects on human health are believed to be both immediate and longterm.
+Household air pollution (HAP) exposure roughly doubles the chance of
+developing paediatric pneumonia and is to blame for 45% of all pneumoniarelated fatalities in children under the age of five. New research indicates that
+HAP increases the chance of low birth weight and cataracts, which are the
+main causes of blindness in lower-middle-income nations. In developing
+nations, cooking over open flames or using improper stoves is the main cause
+of burn injuries among women and children.
+Women, who are probably in charge of cooking, and young children are most
+affected in terms of health. Women and children are particularly at danger
+when gathering fuel because it frequently takes 15 or more hours per week,
+which limits their time for paid labour, paid leisure, and education. Because
+they frequently have to travel great distances to collect cooking fuel, women
+and girls are more likely to experience physical and sexual abuse. Many kids,
+especially girls, may choose not to go to school in order to assist their mothers
+
+
+with gathering firewood and preparing meals. Excessive harvesting of wood
+and other flammable materials can result in serious local environmental harm,
+including desertification.
+Traditional cooking facilities
+Cooking is traditionally done over a three-stone fire or on a mud stove. The
+three-stone fire is the most affordable stove to construct since it just requires
+three suitable stones that are the same height and can support a cooking pot
+over a fire. Instead of exiting through a chimney, smoke is vented into the
+house.
+Traditional cooking methods waste fuel by allowing heat to escape into the
+outside air. Burns and scalds are risks associated with using an open fire.
+Adults and children in particular are vulnerable to slipping or stepping into
+the flames while using the stove indoors, which increases their risk of getting
+burned. Additionally, spilling boiling water unintentionally could result in
+scorching, and blowing oxygen onto a fire could release burning embers and
+harm eyes.
+Household Air Pollution.
+Important source of indoor air pollution, known as household air pollution
+(HAP), is the use of cooking and heating appliances in developing nations.
+For home cooking and heating, three billion people in poor nations rely on
+biomass fuel, which comes in the forms of wood, charcoal, dung, and crop
+residue. Millions of people, mostly women and children, face major health
+hazards since a large portion of cooking is done indoors in unventilated
+spaces. Combustion and building materials are the main causes of indoor
+pollution. IAP exposure was blamed for 4.3 million fatalities worldwide in
+2012, almost all of which occurred in low- and middle-income nations. With
+1.69 million and 1.62 million deaths, respectively, the Western Pacific and
+South East Asian regions carry the worst burden. Africa sees about 600,000
+fatalities, followed by the Eastern Mediterranean by 200,000, Europe by
+
+
+99,000, and the Americas by 81,000. High-income nations account for the
+remaining 19,000 fatalities. Although the pace of reliance on biomass fuel is
+decreasing, this resource will eventually run out due to population expansion,
+putting the environment at even greater risk. Numerous research have looked
+into the air pollution produced by traditional domestic solid fuel burning for
+space heating, lighting, and cooking in developing countries during the past
+few decades. It is already well-established that the indoor burning of solid
+fuels (biomass, coal, etc.) by inefficient, frequently improperly vented
+combustion equipment causes higher exposure to home air pollutants
+throughout most of the developing world. This is brought on by the
+combustion devices' poor combustion efficiency and the high intensity of the
+emissions. Additionally, they are frequently released right into populated
+areas. Typical incomplete combustion products found in smoke from
+traditional household solid fuel combustion include fine and coarse
+particulate matter (PM2.5, PM10), carbon monoxide (CO), nitrogen dioxide
+(NO2), sulphur dioxide (SO2), and a number of organic air pollutants (such
+as formaldehyde, 1,3-butadiene, benzene, acetaldehyde, acrolein, phenols,
+pyrene, benzopyrene, benzo(a)pyr About 6–20% of the solid fuel used in a
+typical solid fuel stove is transformed into hazardous pollutants (by mass).
+Factors determining the amount include fuel type and moisture content,
+stove type, and operation, which influence the precise quantity and relative
+composition. Although various pollutants can change over time, the majority
+of measurements have been made on carbon monoxide (CO) and particulate
+matter (PM), the two main byproducts of incomplete combustion and the
+ones thought to offer the biggest health hazards. There have been numerous
+reports of indoor PM2.5 exposure levels in the hundreds to thousands of
+micrograms per cubic metre (g/m3) range. Similarly, it has been determined
+that CO exposure levels can reach up to 1000 mg/m3 (milligrammes per
+cubic metre). A recent study of 163 households in two rural Chinese counties
+found that the geometric mean indoor PM2.5 concentrations for homes
+using a variety of different fuel types and stove configurations were 276 g/m3
+(combinations of different plant materials, including wood, tobacco stems,
+and corncobs), 327 g/m3 (wood), 144 g/m3 (smoky coal), and 96 g/m3
+
+
+(smokeless coal) (e.g., vented, unvented, portable, fire pit, mixed ventilation
+stove).
+Consequences of HAP.
+Health implications
+The intensity of emissions that frequently result from the use of biomass
+fuels, particularly wood, dung, and agricultural residue, has been the subject
+of numerous applied research initiatives in rural Kenya. Women and children
+are exposed to smoke for up to seven hours a day in enclosed spaces as a result
+of the incomplete combustion of solid fuel. These emissions differ with the
+amount of airflow inside the house, the season, and the day of the week.
+Exposure in substandard housing can be up to 100 times higher than
+acceptable safety standards. One kilogramme of burning wood produces
+small soot particles that can block and irritate the bronchial passages since
+many Kenyan women use a three-stone fire, the worst offender. Aldehydes,
+benzene, and carbon monoxide are among the hazardous gases present in the
+smoke. Various diseases have been linked, with varied degrees of evidence, to
+exposure to IAP from the combustion of solid fuels. The two main
+conditions brought on by smoking are chronic obstructive pulmonary disease
+(COPD) and acute lower respiratory infections (ALRI). IAP is also thought
+to contribute to cataracts, blindness, lung cancer, TB, preterm births, and low
+birth weight.
+Women and gender
+In most households, especially in rural areas and in refugee camps, women
+and girls are primarily in charge of gathering wood for cooking. This makes
+them more susceptible to violent crimes like rape, assault, and beatings that
+result in physical harm. Improved cookstove initiatives in refugee camps have
+demonstrated considerable decreases in fuelwood collection times as reported
+by women. This time could be used in more productive ways, such as
+attending school or income generating. In addition, eliminating the necessity
+for women to gather fuelwood considerably lowers the number of reported
+
+
+rapes that occur while gathering firewood. The use of biomass combined
+with ineffective cooking equipment creates a web of environmental and
+social issues that are directly related to the UN Millennium Development
+Goals. The majority of deaths from household air pollution (HAP), which
+has been demonstrated to have an impact on close to three billion people
+worldwide, are also women and girls. In Nigeria, it has been demonstrated
+that using cleaner ethanol stoves instead of conventional kerosene/firewood
+ones can reduce the risk of unfavourable pregnancy outcomes due to HAP.
+MITIGATIONS.
+Early interventions
+Unfortunately, it is difficult and requires constant improvement to find an
+economical way to handle the multiple consequences of IAP, including
+enhancing combustion, reducing smoke exposure, improving safety and
+saving labour, reducing fuel costs, and addressing sustainability.
+Although the effectiveness of these historical initiatives to improve cook
+stoves to conserve firewood is questionable, they were primarily focused on
+reducing deforestation without regard for IAP beginning in the 1950s. The
+results of numerous attempts varied. For instance, new stove designs in Kenya
+produced higher CO2 and SO2 emissions while dramatically reducing
+particle emissions. Flues to evacuate smoke were delicate and difficult to
+build.
+IMPROVED SUCCESS
+Smoke hoods are one of the more effective modern interventions, however
+they function similarly to flues in extracting smoke and are found to lower
+IAP levels more effectively than residences that only used windows for
+ventilation. A chimney, enclosing the fire to preserve heat, creating pot
+holders to enhance heat transfer, dampers to control air flow, a ceramic insert
+
+
+to prevent heat loss, and multi-pot systems to enable cooking different dishes
+are some features of recently upgraded stoves.
+The use of stoves is currently recognised as one of the least expensive ways to
+accomplish the dual goals of lessening the health burden of IAP and, in some
+locations, lessening environmental stress from biomass harvesting. An
+interdisciplinary strategy that involves numerous stakeholders has helped
+with the installation of interventions, including better cook stoves. These
+initiatives have found that in order to make sure that intervention
+programmes are successful, significant socioeconomic factors must be
+addressed. Numerous intricate problems show that better stoves are more
+than just a way to save fuel.
+SUCCESSFUL INTERVENTIONS
+The Kenya Smoke and Health Project (1998–2001), which involved fifty
+rural homes in two different locations, Kajiado and West Kenya, is one
+successful intervention that is represented by the information that follows.
+Due to their various climatic, geographic, and cultural significance, these
+regions were chosen. The main goal of this project was community
+participation, and as a result, individuals participated said the outcomes
+greatly exceeded their expectations. Men were actively involved in the project
+in West Kenya as well as regional women's groups. The project gained wider
+acceptance as a result of including the end users, and it also produced the
+additional benefit of generating local employment.
+Three major interventions were explored and widely publicised: placing
+smoke hoods above the cooking area, widening windows, or installing an
+upgraded cook stove like the Upesi stove. Smoke hoods are free-standing
+appliances that pull smoke out of the house by acting like chimneys or flues.
+They can be used over conventional open flames, and this study found they
+significantly reduce IAP levels. The smoke hood models were created locally
+using sturdy manila paper that was then transferred to heavy-gauge galvanised
+
+
+sheet metal. The artisans who were taught by the project as a result received
+additional employment options.
+Practical Action and East African partners created the clay Upesi stove, which
+is kiln-fired and built of wood and agricultural waste. This stove provided a
+number of advantageous qualities because it was created and customised for
+local requirements. Not only does it reduce household smoke exposure and
+fuel-wood consumption by about half, but it also uplifts local women by
+giving them jobs because they make and sell the stoves. As a result of the
+introduction of this enhanced stove, these women's groups have access to
+technical training in production and marketing, experience higher wage
+earnings, and have better social standing.
+Numerous advantages were attained, including better health, which was
+crucial for everyone of the affected communities. They also reported better
+sleep, fewer headaches and exhaustion, as well as reduced eye discomfort,
+coughing, and dizziness. The smoke hoods boosted safety by preventing goats
+and kids from falling into the fire, reducing soot contamination, and keeping
+snakes and rodents out of the house. Windows made it possible to see
+livestock from inside, and better interior lighting resulted in less of a need for
+kerosene. Overall, a number of small changes that are taken for granted in
+contemporary western homes considerably improved the indoor
+environment. Women can earn more money thanks to increased indoor
+lighting because they can work on their beading near the window when the
+weather prevents them from doing it outside. Increased illumination for
+homework is advantageous for kids as well. The project led to the
+development of interpersonal bonds among the women, and men better
+supported their wives' initiative when the outcome benefited them as well.
+The awareness that sustainable domestic energy resources are "essential to
+decreasing poverty and hunger, improving health...and enhancing the lives of
+women and children" has led to more effective current initiatives to improve
+stoves, notwithstanding the limited success of earlier ones. Giving the locals
+accessible, affordable options is the best short-term objective for reducing
+
+
+rural poverty. Stoves can help with this intervention, and using cleaner fuels
+will have further advantages.
+Other parts of the world have seen success with comparable improved-stove
+initiatives. It was discovered that the improved stoves put in place as part of
+the Randomized Exposure Project of Pollution Indoors and Respiratory
+Effects (RESPIRE) study in Guatemala are well-liked by the populace and
+have a positive impact on mothers' and kids' health. In addition to
+experiencing less back pain and eye discomfort, mothers in the intervention
+group also reported lower blood pressure. Small particles and carbon
+monoxide levels were also found to be lower in intervention families. Asthma
+prevalence among kids in these homes was also lower. This original pilot
+project has developed into CRECER (Chronic Respiratory Effects of Early
+Childhood Exposure to Respirable Particulate Matter), which will try to
+follow kids in intervention households for a longer period of time in order to
+ascertain whether the improved stoves also contribute to better health over
+the lifespan. With some success, India's National Program on Improved
+Chulhas has pushed at-risk populations to utilise better stoves. This initiative,
+which was started in the middle of the 1980s, offers financial aid to families
+in order to persuade them to buy the more durable chulhas and have a
+chimney put in. According to a 2005 study, women are less likely to get
+cataracts while using stoves with chimneys. There is minimal data from
+intervention trials and most of the information from India is more of a
+characterization of the problem.
+With hundreds of millions of upgraded stoves built since the project's
+inception in the early 1980s, China has been particularly effective at
+promoting their use. By the late 1990s, approximately 75% of poorer, rural
+homes had "better kitchens," thanks to the government's very deliberate
+targeting of these communities. A 2007 analysis of 3500 homes revealed that
+intervention homes had improved indoor air quality, as seen by decreased
+levels of carbon monoxide and tiny particle pollution in the air. Although the
+initiative in China included extensive intervention, it is unknown if its success
+could be duplicated because the cost of stoves was highly subsidised.
+
+
+ENVIRONMENTAL IMPACTS
+Utilizing inefficient energy technology, such as the combustion of biomass,
+has negative repercussions beyond mortality and disease load. More than 90%
+of the energy demands of rural households in Kenya are met by biomass, with
+around one-third coming in the form of charcoal and the remaining from
+firewood. Firewood for habitation and charcoal for urban use are two
+examples of biomass energy mostly derived from savannah woods. A minor
+portion is obtained from nearby communities' closed and protected forests,
+which are typically located in regions with dense populations. While it is
+problematic to gather biomass in sensitive places, it is now known that land
+conversion and agricultural expansion account for the vast bulk of biomass
+clearing. Due to periodic shortages of traditional fuel-wood, about 38% of
+families in "high agro-ecological zones" consume agricultural waste. Crop
+residue and animal waste used for household energy production has a
+negative impact on soil quality and livestock and agricultural productivity. In
+the end, these resources are unavailable as organic fertiliser, livestock feed, and
+soil conditioners, not to mention their "cumulative implications on national
+food security". The majority of farmers are however aware that agricultural
+waste and dung play a significant role in preserving soil fertility even when
+they are not burned for energy. Making briquettes is among the most effective
+ways to use crop waste and dung for residential energy. The process of
+shaping the material into a doughnut improves combustion efficiency, which
+helps to reduce emissions. This procedure can be carried out locally and only
+requires a basic instrument.
+SUSTAINABLE OPTIONS
+Only when biomass combustion is done sustainably is it possible to burn it
+on a large scale. If wood fuel sources are to remain sustainable and renewable
+over the long term, regeneration is of utmost importance. The development
+of energy crops (trees and bushes), which would also increase farmer income,
+could be one attempt at sustainable solutions in Kenya. As the root systems
+
+
+and leaf litter would improve soil stability, this method would assist
+agriculture or rangeland vulnerable to erosion and flooding. The most
+sustainable choice would be regenerative cultivars because planting and
+tilling do not disturb the stability of the soil. However, with careful
+management of the forest resources, this could be a workable alternative.
+Some individuals see this solution as a way to further abuse forests. Energy
+efficiency and emissions in the home are two criteria that can be used to
+evaluate fuels and cook burner technology. Even with dirty fuels, highly
+effective stoves can help the environment to some extent (such as firewood
+and biomass). More of the fuel's heating value is converted into usable
+cooking energy with more efficient stoves, so less fuel needs to be produced,
+transported, and burned to deliver the same amount of cooking, according to
+a study comparing the environmental, social, and economic life cycle impacts
+of cooking fuels. Liquid and gas fuels that are burned in highly effective stoves
+are additional sustainable choices. For instance, ethanol generated from
+cellulosic/non-food feedstocks (wood, agricultural waste) has less of an
+impact on the environment over its whole life cycle than ethanol produced
+from materials containing sugar and starch. Even though LPG is generated
+from non-renewable fossil fuels, it still has less of an adverse effect on the
+environment than traditional fuels; as a result, even while it is not a
+sustainable alternative, it has significantly less of an influence on emissions
+than conventional fuels.
+CHALLENGES
+Supply
+On the supply side of the market for cook stoves and fuels, there are tradeoffs between efficiency and sustainability. Although creating cook stoves that
+use effective and clean fuel sources is ideal from an environmental standpoint,
+this is frequently not a practical option because of difficulties in expanding
+the production and consumption of these fuels. For instance, electric stoves
+are mentioned as "clean" domestic alternatives to biomass that emit no
+
+
+emissions. The generation of electricity in India and China, countries that are
+heavily reliant on coal for electricity generation, still causes considerable
+environmental problems, and ambient air pollution in communities close to
+power plants continues to constitute a health risk. Additionally, only homes
+in a country or region that are connected to the electric grid will have access
+to electricity for domestic energy consumption, excluding a substantial
+portion of rural populations.
+Demand
+On the demand side, there are obstacles to establishing an atmosphere that
+makes buying cook stoves possible. To promote widespread behaviour
+change, as will be detailed below, culturally sensitive behaviour change
+methods (BCTs) must be incorporated into demand interventions. The high
+upfront costs of upgraded stoves are the other deterrent to cook stove
+programmes that do not include paternalistic good provision. The target endusers of these upgraded technologies are frequently consumers at the bottom
+of the economic pyramid, yet they do not have access to conventional forms
+of consumer finance and credit because they lack collateral or are isolated.
+These problems are being addressed by new business model innovations and
+the expansion of microfinance institutions (MFIs), however scaling up
+presents difficulties for MFIs.
+GOVERNMENT INTERVENTION
+There is a compelling justification for government involvement given the
+negative externalities connected to unclean cook stove technology, including
+the harm done to women and girls, the lack of environmental sustainability,
+and the increased risk of diseases like HAP. Direct subsidies with a focus on
+health and climate implications, such as those in the carbon market, could be
+one type of action. Public goods like consumer finance access and consumer
+education are examples of helpful initiatives. To build an efficient and
+sustainable supply chain, subsidies are needed for R&D into cleaner
+technologies and fuels, as well as for the establishment of baseline criteria and
+
+
+testing frameworks for cleanliness and efficiency (also provision of a public
+good).
+Developments
+Significant advancements in energy-efficient cooking techniques, like the
+Wonderbag, can drastically lower the amount of fuel needed for cooking in a
+home. Technology advancements have made it possible to employ more
+environmentally friendly cooking methods with conventional fuels, such as
+the BioLite Home Burner, a biomass stove that cuts emissions by up to 95%
+and fuel consumption by 50%.
+Suppliers of cook stoves have also been able to "dramatically improve both
+manufacturer and end-user economics, while attaining high levels of health
+and environmental advantages," because to innovations in business models.
+For instance, Rwanda's Inyeneri, a for-profit energy provider, functions more
+like a "cooking fuel utility firm." Its strategy effectively handles a variety of
+issues with stove adoption, such as the unreasonably high upfront costs of
+stoves, the propensity of consumers to combine new and traditional cooking
+methods, and the lack of commercial sustainability of these businesses.
+Furthermore, advances in mobile technology have made it possible for
+businesses like Pay Go Energy in Kenya and Kopa Gas in Tanzania to get
+around the financial barriers that low-income users experience, such as the
+high upfront cost of stoves and the difficulty of buying fuel in tiny quantities
+(a form of the poverty penalty). As seen by the accomplishments of the
+USAID-funded Renewable Energy Microfinance and Microenterprise
+Program, MFIs have also started to focus on access to clean energy
+(REMMP).
+EDUCATION INTERVENTIONS AND BEHAVIOUR CHANGE
+TECHNIQUES
+
+
+By using behaviour change approaches that make individuals aware of the
+risks and inspire a readiness to change cultural and lifestyle behaviours,
+educational intervention can help reduce exposure to smoking. This could
+have a substantial impact on reducing exposure to IAP. One component of
+influencing demand that can be accomplished through targeted social
+marketing efforts is behaviour change. These campaigns often fall into one of
+two categories: mass-market campaigns or specialised local and household
+approaches that involve demonstrations and follow-up visits. Studies
+demonstrate that major marketing campaigns do in fact raise consumer
+knowledge of the dangers of indoor air pollution, but they frequently fail to
+stimulate demand for improved stoves.
+These factors include intra-gender issues, felt needs, cultural significance of
+food, and religious and cultural beliefs. When designing these interventions,
+it is important to keep in mind that "consumer needs and preferences are
+complex and are influenced by many contextual and social factors that
+require a deep understanding of culture, going beyond technology and
+economics." China, which distributed 172 million upgraded cookstoves
+between 1980 and 1995, provided proof of one effective government
+initiative. The participation of local consumers, notably women, in the
+design and fieldwork processes led to this effort's greater success.
+Primary intervention for children
+90% of children under the age of five spend their time at home. Particulate
+particles breathed from indoor air pollution is to blame for 50% of
+pneumonia deaths in children under the age of five worldwide. Solid fuels
+were employed for cooking in a lot of homes all around the world. Both
+carbon monoxide and fine particulate particles are released in high quantities
+by these fuels. Inhaling these chemical irritants can result in a variety of lung
+diseases, such as acute pulmonary infection or pulmonary epithelial
+carcinoma.
+Modern Energy in Kenya.
+
+
+With the knowledge that consumption is linked to indoor air pollution and
+environmental deterioration, Kenya has demonstrated a willingness to take
+on biomass energy challenges as of 2004. The United Nations Development
+Programme suggests creating an organisation that will only deal with biomass
+energy and creating rules for modern biomass, such as cleaner fuels like wind,
+solar, and small-scale hydropower, as well as sustainable firewood and
+charcoal. The most practical near-term possibilities, as opposed to a complete
+switch to nonsolid fuels, are improved cook stoves that use domestic energy
+more efficiently. Transitioning to contemporary, cleaner fuels and alternative
+energy sources within a broad international and national policy and
+economic agenda is the foundation of long-term solutions. As seen by present
+attempts in Zambia to build policy to promote biofuels, government support
+for long-term solutions is conceivable.
+In terms of installed solar power systems per person, Kenya is the global top
+(but not the number of watts added). Each year, Kenya sells more than 30,000
+tiny solar panels with a power output of 12 to 30 watts. The PV system may
+be used to charge a car battery for as low as $100 for the panel and wiring,
+which can then supply power to light a fluorescent lamp or a tiny television
+for a few hours each day. Every year, more Kenyans switch to solar energy
+than connect to the nation's electrical grid.
+Clean cooking Facilities.
+Clean fuel can refer to a type of fuel used for cooking and lighting as well as a
+type of fuel used for transportation. The Sustainable Development Goal 7 is
+to "Ensure access to cheap, dependable, sustainable and modern energy for
+all" in reference to cooking. The WHO normative guiding rules for indoor air
+quality include specific fuel recommendations (i.e. against unprocessed coal
+and kerosene) and emission rate targets that define clean fuel. One element of
+sustainable energy is clean fuel.
+Making clean cooking facilities widely accessible and reasonably priced is a
+top goal for global sustainable development. Cooking facilities are deemed
+
+
+"clean" by the World Health Organization if their carbon monoxide and fine
+particulate matter emissions are below a set threshold.
+Electricity, liquefied petroleum gas (LPG), piped natural gas (PNG), biogas,
+ethanol, and solar heat are all clean fuels for stoves and other equipment. If
+properly used and the pellets have low enough levels of moisture, the best-inclass fan gasifier stoves that burn biomass pellets can be categorised as clean
+cooking facilities. However, these stoves are not commonly accessible. As of
+2016, no commonly accessible biomass burner complies with the suggested
+emissions thresholds for usage in indoor households. In addition to
+conventional electric stoves, electricity can be used to power equipment like
+rice cookers and extremely efficient induction burners. Even when connected
+to coal power sources, electric induction stoves are often more
+environmentally friendly and less expensive than liquified petroleum gas
+(LPG). 770 million people still lack access to electricity as of 2019, and for
+many more, it is either unaffordable or unreliable.
+Waste, including human waste and animal manure, is transformed into a
+methane-rich gas using biogas digesters, which burns cleanly. In regions
+where each family has at least two large animals to give dung and a reliable
+supply of water is also available, biogas systems are a viable technology. Solar
+cookers collect and concentrate the sun's heat when sunshine is available.
+Improved Cooking Stoves.
+Improved cook stoves (ICS) can be used as a stopgap measure on the way to
+clean cooking because they are often more fuel-efficient than conventional
+stoves. Less than 30% of those who use a biomass stove to cook as of 2009 do
+so with an ICS. Because the link between pollution levels and effects on the
+body has been proven to be non-linear for some illnesses, like childhood
+pneumonia, the efficiency advantages of ICS may not always translate into
+considerable reductions in health hazards. This implies, for instance, that a
+reduction in exposure of 50% would not result in a halving of the health risk.
+In terms of blood pressure, shortness of breath, emissions of cancer-causing
+
+
+compounds, and cardiovascular disorders, ICS use was associated with small
+improvements in 2020, according to a systematic study, but not with changes
+in pregnancy outcomes or child health. The World Health Organization
+promotes additional study to create low-emission, cost-effective, long-lasting,
+and user-friendly biomass stove technology.
+NON-TECHNOLOGICAL INTERVENTIONS
+Household air pollution exposure can be reduced by 20 to 98 percent
+through behavioural modification treatments that aim to lower children’s
+exposures. Cooking outside, spending less time in the kitchen, keeping the
+door open while cooking, avoiding leaning over the fire while preparing
+meals, staying away while carrying children when cooking, and keeping the
+kids away from the cooking area can all significantly reduce your exposure to
+indoor air pollution (IAP). Changes to the surroundings, such as using a
+chimney, curing fuel wood before use, and using a lid when cooking, can help
+lessen negative effects. Collaborations with festivals, religious gatherings, and
+medical outreach clinics are all possibilities for educating communities about
+lowering exposure to indoor air pollution in homes. Community health
+professionals are a valuable resource for teaching people in communities
+about how to lessen the consequences of indoor air pollution.
+CHALLENGES
+A practise known as "fuel stacking" or "stove stacking" is common among
+users of clean stoves and fuels who also frequently use conventional fuels and
+stoves. For instance, a recent research in Kenya discovered that households
+that use LPG as their primary fuel consume 42% more charcoal than those
+that use charcoal as their primary fuel. Clean cooking facilities may not
+significantly reduce household air pollution when stacking is practised, which
+could have an adverse effect on health outcomes. There are several reasons to
+keep using traditional fuels and stoves, including the inconsistency of the fuel
+
+
+supply, the high cost of fuel, the flexibility of the stoves for various pots and
+cooking styles, and the necessity of making lengthy trips for stove repairs.
+The population has barely kept up with efforts to increase access, and existing
+and projected policies will still leave 2.4 billion people without access in 2030.
+SUSTAINABLE AND ENVIRONMENTAL DEVELOPMENT EFFECTS.
+Even if fossil fuels are used as substitute fuels, switching to cleaner cooking
+methods is predicted to either modestly increase greenhouse gas emissions or
+decrease emissions. There is proof that converting to LPG and PNG has less
+of an impact on the environment than burning solid fuels, which releases
+methane and black carbon. Up to 58 percent of the world's black carbon
+emissions come from the burning of household solid fuels. "The costs of
+establishing nearly universal access to electricity and clean fuels for cooking
+and heating are anticipated to be between 72 and 95 billion USD per year
+through
+with
+modest
+effects
+on
+GHG
+emissions,"
+the
+Intergovernmental Panel on Climate Change noted in 2018. The UN
+Sustainable Development Goal 7's first objective is to "Ensure universal access
+to affordable, dependable, and modern energy services by 2030," and one of
+its components is universal access to clean cooking. The achievement of other
+Sustainable Development Goals, such as eradicating poverty (Goal 1),
+promoting health and wellbeing (Goal 3), achieving gender equality (Goal 5),
+and acting on climate change, will be made easier by advancements in clean
+cooking (Goal 13). According to SDG 7, Indicator 7.1.2 measures the
+"Proportion of the population that relies primarily on clean fuels and
+technology." - The indicator is determined as the proportion of the total
+population who report using any type of cooking, heating, or lighting,
+divided by the number of persons utilising clean fuels and technology. In this
+context, the term "clean fuel" refers to fuels that meet the emission rate targets
+and particular fuel recommendations (i.e., refrain from using raw coal and
+kerosene) included in the normative WHO standards for indoor air quality.
+
+
+
+Energy Conservation
+
+The effort to lower energy consumption by utilising fewer energy services is
+known as energy conservation. This can be done by either increasing the
+efficiency with which energy is used (using less energy for a constant service)
+or by decreasing the quantity of service required (for example, by driving less).
+The idea of eco-sufficiency includes energy conservation. Buildings using
+energy conservation measures (ECMs) use less energy overall, which
+improves environmental quality, national security, individual financial
+security, and savings. On the hierarchy of sustainable energy, it is at the top.
+By avoiding future resource depletion, it also reduces energy expenditures.
+By minimising waste and losses, enhancing efficiency through technological
+advancements, and improving operation and maintenance, energy can be
+conserved. The stabilisation of population growth can also help to reduce
+energy use globally.
+Only the transformation of energy from one form to another is possible, such
+as the conversion of heat energy into vehicle motive power or the kinetic
+energy of water flow into electricity in hydroelectric power plants. To change
+energy from one form to another, however, requires the use of machines.
+When this machine is operating, the wear and friction of its parts result in
+significant energy losses and substantial associated expenses. By using green
+engineering techniques to lengthen the component life cycles, it is possible to
+reduce these losses.
+Since 1991, December 14 has been designated as National Energy
+Conservation Day. The cornerstone of many sustainable energy initiatives is
+energy efficiency, which refers to using less energy to deliver the same goods
+
+
+or services or to delivering equivalent services with fewer commodities.
+According to the International Energy Agency (IEA), boosting energy
+efficiency might result in 40% of the greenhouse gas emission reductions
+required to meet the targets of the Paris Agreement.
+By making equipment, vehicles, industrial processes, and buildings more
+technologically efficient, energy can be saved. Another strategy is to utilise
+less materials, such as through improved building design and recycling, whose
+creation consumes a lot of energy. Another option to save energy is to make
+behavioural adjustments like switching to videoconferencing instead of
+business travel or travelling inside cities on foot, bicycle, or public
+transportation rather than by car. Building codes, performance criteria,
+carbon pricing, and the creation of energy-efficient infrastructure are a few
+examples of government policies that can be used to increase efficiency. An
+approximation of the energy efficiency of economic output is provided by
+the global economy's energy intensity, or the amount of energy spent per unit
+of gross domestic product (GDP). Per US dollar of GDP in 2010, there were
+5.6 megajoules (1.6 kWh) of global energy intensity. According to UN
+targets, between 2010 and 2030, energy intensity should drop by 2.6 percent
+year. This objective hasn't been reached recently. For instance, only 1.1% of
+energy intensity was lost between 2017 and 2018. Efficiency gains can have
+the unintended consequence of making consumers spend their money on
+more energy-intensive goods and services. For instance, consumer behaviour
+patterns like choosing larger vehicles and residences have largely countered
+recent technical efficiency increases in transportation and construction.
+ENERGY CONSERVATION OPPORTUNITIES BY SECTOR
+Buildings
+Existing buildings
+Conducting an energy audit is one of the key approaches to increase energy
+saving in buildings. A building, process, or system's energy use and flows are
+
+
+inspected and analysed as part of an energy audit with the goal of minimising
+energy input without adversely effecting output. This is often carried out by
+qualified experts and may fall under any of the national initiatives already
+mentioned. Homeowners may now perform somewhat complex energy
+audits on their own thanks to recent developments in smartphone apps.
+Energy consumers, both commercial and residential, can see the effects of
+their energy use in their workplaces or homes thanks to building technologies
+and smart metres. Modern real-time energy metering can support individuals
+in their efforts to save energy.
+Energy Service Companies (ESCOs) with expertise in energy performance
+contracting are frequently used by companies installing ECMs in their
+commercial buildings. Since the 1970s, this industry has existed and is now
+more widespread than ever. A set of rules have been developed by the USbased group EVO (Efficiency Valuation Organization) for ESCOs to follow
+when assessing the savings realised by ECMs. The International Performance
+Measurement and Verification Protocol is the name of these rules (IPMVP).
+In order to provide a more thorough awareness of the environment,
+dataloggers can also be added to precisely track the interior temperature and
+humidity levels. More fine-tuning of the interiors can be undertaken if the
+data collected is then compared with the users' impressions of comfort (for
+example, in increasing the temperature where AC is used to prevent overcooling).
+New buildings
+When a structure is designed with passive solar principles, its windows, walls,
+and floors are constructed to absorb, store, and distribute solar energy as heat
+in the winter and reject it in the summer. Because it doesn't employ
+mechanical or electrical components, like active solar heating systems do, this
+is known as passive solar design or climatic design.
+
+
+Making the most of the local climate is essential when planning a passive solar
+building. The positioning of windows and the type of glass, as well as thermal
+insulation, thermal mass, and shading, must all be taken into account. The
+easiest buildings to use passive solar design approaches are those that are
+newly constructed, however older structures can be modified.
+Transportation
+In the United States, suburban infrastructure developed at a time when fossil
+fuels were readily accessible, which resulted in living arrangements that are
+reliant on mobility. Zoning changes that permit higher urban densities, along
+with plans for walking and bicycling, can significantly lower the amount of
+energy used for transportation. Since many Americans don't commute to
+work every day, there is a tremendous chance to save energy by working
+remotely.
+A decrease in greenhouse gas emissions is one of the environmental effects.
+Madrid's city centre saw a 38 percent decrease in nitrogen oxide levels and a
+14.2 percent decrease in carbon dioxide after restricting access for cars. A
+decrease in greenhouse gas emissions is one of the environmental effects. In
+Madrid, nitrogen oxide levels decreased by 38% while carbon dioxide levels
+increased after restricting access for cars to the city core.
+Consumer products
+An energy audit is a common first step for homeowners installing ECMs in
+their residential structures. This is one technique for homeowners to
+determine which parts of their homes are utilising and perhaps wasting
+energy. The Building Performance Institute (BPI) or the Residential Energy
+Services Network accredits residential energy auditors (RESNET).
+Homeowners have three options for doing an audit: hiring a pro, doing it
+themselves, or using a smartphone.
+To maximise energy savings while reducing inconvenience to building
+residents by coordinating improvements, energy conservation initiatives are

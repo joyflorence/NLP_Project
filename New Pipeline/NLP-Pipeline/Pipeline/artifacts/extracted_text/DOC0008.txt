@@ -1,0 +1,1736 @@
+i 
+ 
+ 
+IMPACT OF CASH FLOW MANAGEMENT ON THE FINANCIAL PERFORMANCE 
+OF SMALL AND MEDIUM-SIZED ENTERPRISES 
+ 
+ 
+ 
+ 
+ 
+ELIJAH AKANDWANAHO  
+ 
+ 
+S20B33/245 
+ 
+A RESEARCH PAPER SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL 
+FULFILLMENT OF THE REQUIREMENTS FOR AWARD OF A BACHELORS 
+DEGREE OF SCIENCE IN ACCOUNTING AND FINANCE 
+ 
+ 
+ 
+OCTOBER, 2023 
+ 
+ 
+
+ii 
+ 
+ 
+DECLARATION 
+ 
+I AKANDWANAHO ELIJAH do hereby declare that this work is original and has never been 
+submitted to any other institution for award of any Degree or Diploma. Where the work of others 
+has been used, reference has been made there of. 
+Signature…………………………….                    Date………………………………….       
+AKANDWANAHO ELIJAH 
+S20B33/245 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+ 
+APPROVAL 
+This extended essay has been prepared under my guidance and it is hereby submitted for 
+examination with my approval as the student’s University supervisor 
+ 
+Signature ……………………………………… 
+Date…………………….………. 
+Mr Kisenyi Vincent  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+ 
+ACKNOWLEDGMENT 
+I am thankful to the Almighty God who has enabled me to through and be able to complete my 
+research and gracefully without going through any hardships, it has not been so easy but I finally 
+made it. 
+I would like to appreciate my supervisor Mr Kisenyi Vincent who with his guidance and his 
+contribution I was be able to complete this research. 
+ I also appreciate my parents who provided with the necessary support through different ways so 
+that I could be to do this in order to attain a bachelor’s degree at Uganda Christian University. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+ABSTRACT 
+ 
+The research was aimed at investing the impact of cash flow management on the financial 
+performance of small and medium sized enterprises. The study was based on three objectives 
+and these were; to assess the importance of cash flow management for the overall performance 
+and success of small and medium-sized enterprises (SMEs), to examine the relationship between 
+effective cash flow management practices and the financial stability of SMEs, to identify the key 
+factors influencing cash flow management in SMEs and their impact on business performance. 
+The researcher used qualitative research designs based on already published information which 
+included reports. From the study findings, the cash flow management had a positive but 
+insignificant effect on the financial performance. This implies that cash flow management has 
+no any influence on the financial performance. From the findings of the study it was also 
+established that the size of the company had a negative and insignificant effect on the financial 
+performance. It implies that the size of the company has no any influence on the financial 
+performance. From the study findings, the cash flow management had a positive but 
+insignificant effect on the financial performance. This implies that cash flow management has 
+no any influence on the financial performance. From the findings of the study it was also 
+established that the size of the company had a negative and insignificant effect on the financial 
+performance. It implies that the size of the company has no any influence on the financial 
+performance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+ 
+ 
+ 
+LIST OF ACRONYMS 
+ 
+SMEs- Small and medium sized enterprises 
+U.S- United States 
+GDP- Gross Domestic Product 
+E. U-European Union 
+ROE- Return on Equity 
+ROA- Return on Assets 
+PPE- Plant, Property and Equipment 
+NSE- Nairobi Security Exchange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+ 
+TABLE OF CONTENTS 
+DECLARATION..................................................................................................................................... ii 
+APPROVAL ........................................................................................................................................... iii 
+ACKNOWLEDGMENT ....................................................................................................................... iv 
+ABSTRACT ............................................................................................................................................. v 
+LIST OF ACRONYMS ......................................................................................................................... vi 
+CHAPTER ONE ..................................................................................................................................... 0 
+1.0 Introduction ....................................................................................................................................... 0 
+1.1 Background of the study .................................................................................................................. 0 
+1.2 Problem statement ............................................................................................................................... 2 
+1.3 General objective .............................................................................................................................. 3 
+1.4 Specific objectives ............................................................................................................................. 3 
+1.5 Research questions ............................................................................................................................ 4 
+1.6 Scope of the study .............................................................................................................................. 4 
+1.6.1 Content scope ................................................................................................................................. 4 
+1.6.2 Geographical scope ........................................................................................................................ 4 
+1.6.3 Time scope ...................................................................................................................................... 4 
+1.7 Significance of the study ................................................................................................................... 4 
+CHAPTER TWO .................................................................................................................................... 5 
+LITERATURE REVIEW ...................................................................................................................... 5 
+2.0 Introduction ....................................................................................................................................... 5 
+2.1 Theoretical Framework .................................................................................................................... 5 
+Agency Cost Theory ................................................................................................................................ 5 
+The Modigliani and Miller Theory ........................................................................................................ 6 
+Pecking Order Theory ............................................................................................................................ 6 
+Miller-Orr Model of Cash Management ............................................................................................... 7 
+Cash management and financial performance ............................................................................................. 9 
+2.2 Importance of cash flow management for the overall performance and success of small and 
+medium-sized enterprises (SMEs) ....................................................................................................... 10 
+2.3 The relationship between effective cash flow management practices and the financial stability 
+of SMEs .................................................................................................................................................. 11 
+
+viii 
+ 
+2.4 Key factors influencing cash flow management in SMEs and their impact on business 
+performance........................................................................................................................................... 12 
+2.5 Emperical literature review ........................................................................................................... 13 
+2.5.1 Cash Flow Management From Operating Activities And Financial Performance ................ 13 
+2.5.2 Cash Flow Management From Investing Activities and Financial Performance .................. 14 
+2.5.3 Cash Flow Management From Financing Activities And Financial Perfomance .................. 16 
+2.6 Conceptual Framework .................................................................................................................. 17 
+CHAPTER THREE .............................................................................................................................. 18 
+RESEARCH METHEDOLOGY ......................................................................................................... 18 
+3.0 INTRODUCTION ........................................................................................................................... 18 
+3.1 Research Design .............................................................................................................................. 18 
+3.2 The Study Population ..................................................................................................................... 18 
+3.3 Sample Size ...................................................................................................................................... 19 
+3.4 Sampling technique ......................................................................................................................... 19 
+3.5 Data Sources .................................................................................................................................... 20 
+3.6 The validity and reliability of the research instrument. .............................................................. 20 
+3.6.1 Validity of Instruments ................................................................................................................ 20 
+3.6.2 Reliability of Research Instruments ........................................................................................... 20 
+3.7 Data Processing and analysis ......................................................................................................... 20 
+CHAPTER FOUR ................................................................................................................................. 21 
+DATA PRESENTATION AND ANALYSIS ...................................................................................... 21 
+4.1 INTRODUCTION ........................................................................................................................... 21 
+4.2 KEY FINDINGS ............................................................................................................................. 21 
+CHAPTER FIVE .................................................................................................................................. 28 
+SUMMARY OF FINDINGS, CONCLUSION AND RECOMMENDATIONS .............................. 28 
+5.1 Introduction ..................................................................................................................................... 28 
+5.2 Summary .......................................................................................................................................... 28 
+5.3 Conclusion ....................................................................................................................................... 28 
+5.4 Recommendations ........................................................................................................................... 29 
+5.5 Areas for Further Research ........................................................................................................... 29 
+REFFERENCES ................................................................................................................................... 30 
+
+0 
+ 
+ 
+ 
+ 
+ 
+CHAPTER ONE 
+INTRODUCTION 
+1.0 Introduction 
+This chapter comprises of the background of the study, the statement of the problem, purpose of 
+the study, objective of the study, research questions and scope of the study and significance of 
+the study. 
+1.1 Background of the study  
+Cash flow management is the corporate process of collecting and managing cash, as well as 
+using it for (short term) investing. It is a key component of insuring a company’s financial 
+stability and solvency. In business anything done financially affect eventually, cash is the crucial 
+for ever business, every company has to have cash on hand or at least access to cash in order to 
+be able to pay for the goods and services it uses and consequently, to stay in the business as on 
+simple it can be said that the company has to viable of managing its day to day operation. Cash 
+movement in a business is two-way traffic, it keeps on moving in and out of business. The inflow 
+or outflow of cash never coincides, the cash management is one of the effective tools to maintain 
+and manage the cash which is the king of business. Cash management can be effectively done 
+using various cash management techniques which are in practice. Working of various cash 
+management techniques like cash flow synchronization, speeding up collection, controlling 
+payments, cash flow forecasting etc. important aspect which is unique to cash management is 
+time dimension associated with the movement of cash the primary aim of cash management is to 
+ensure that there should be enough cash availability when the needs arises, not too much but 
+never too little. 
+The importance of SMEs has attracted a lot of international attention in recent past due to their 
+significant contributions to the economies of both the developed and developing countries 
+(Asiedu, 2006).   
+
+1 
+ 
+In Europe, SMEs are the backbone and engine of the European economy as they play a central 
+role. In the European Union, almost 85% of net new jobs from 2002-2010 were created by 
+SMEs (E U, 2012 European Commission, 2011; Abouzeedan, 2011; and Muhammad et al, 
+2010).   
+ In the United States, the effect of globalization on SMEs has received a lot of attention in 
+international circles in the past few years. In 2004, SMEs in the U.S. employed about 25 million 
+people and their gross product was about 20 percent of the gross domestic product of private 
+industries in the U.S. (Kozlow, 2006; BEA, 2006).   
+In Asia, SMEs are very important for employment creation and are sources of economic growth 
+and foreign currencies. In Indonesia, SMEs are valued for their potential to create employment, 
+to generate foreign currencies through export, and their potential to grow into larger enterprises 
+(Tumbunan, 2012). In India SMEs constitute over 90% of total enterprise in most of the 
+economy, generating the highest rate of employment growth and account for a major share of 
+industrial production and exports (Kumar, and Sardar, 2011).  
+In Africa SMEs are efficient and prolific job creators, the seeds of big businesses, and the fuel 
+of national economic engines. From an economic perspective, however, SMEs are not just 
+suppliers, but also consumers (Abor and Quartey, 2010). SMEs make up approximately 50% of 
+the gross domestic product; have a higher production output than large companies, greater 
+capacity to innovate, a more direct impact on cultural and social issues, and a greater role to 
+play in the future growth of an economy (Belinda, 2011).  
+Uganda’s SMEs are considered the engine for income generation, wealth creation, poverty 
+reduction through job-creation and innovation. Uganda SMEs are vital drivers of growth, 
+innovation and a source of government revenues that target poverty reduction (COMSEC, 
+2011). SMEs account for over 70 percent of the country’s dominant economic force, employing 
+more man 2.5 million people, constitute 70 to 90 percent of the private sectors and contributes 
+over 70% to total GDP (Kakista and Baguma, 2011; Ssempijja, 2011). The Baseline Survey 
+reports on SMEs, by Uganda Investment Authority, UIA, (2011) revealed that there were over 
+24,505 SMEs in Uganda, employing over 90% of the private sector work force and contributing 
+substantially to the provision of basic goods and services. In 2011, Uganda revenue authority 
+collected up to 32% of the total revenue to the government from SMEs (Mugabe, 2012).  
+
+2 
+ 
+Studies by Kazooba, (2006) and Keough, (2002) revealed that most of the Uganda businesses 
+never celebrate their first anniversary; over 50% of the newly established SMEs fight an uphill 
+battle from the start but fail in five years and that less than 4% of small businesses grow to 
+medium or large firms.   
+Amuzu, (2010) linked business success/failure to the volume of the net cash inflows and 
+outflows from a firm’s activities. He argued that inability to generate cash from its operations 
+may force a business to borrow more money or to dispose of its capital investments to meet its 
+obligations and this may lead to involuntary bankruptcy if this situation persists over a period of 
+time.   
+According to Percat, (2012), around 90% of SMEs failures are due to inadequate management 
+of their cash flow. SMEs are especially vulnerable to cash flow problems since they operate 
+with inadequate cash reserves or none at all (Peng and Jiahai, 2005).  
+Cash flow management which is considered as the nucleus of a business entity for short and 
+long-term survival has remained an ongoing challenge to SMEs (Bay City Financial Solutions, 
+2012; and Munusamy, 2010).  
+1.2 Problem statement  
+The strength of an organization would be determined on how managers handle the daily cash 
+flows. Cash flow management needs proper skills in financial management and training with 
+adequate experience in resource mobilization. Much as emphases have been put on cash flow 
+and financial management training and development of managers, its impact is still very low 
+and managers are failing to manage cash flows in the re organization. Most upcoming SMEs 
+have faced a lot of challenges related to cash flow management thus leading to the death of 
+their SMEs. It’s upon this background where the researcher is investigating how cash flows 
+management in an organization affects the financial performance of SMEs and possibly 
+propose a better solutions to this challenges.  
+The process of managing cash has become a major challenge for most of the companies, because 
+of its significant impact on the results of a company. The success of any business venture is 
+predicted on how the management has planned and controlled its cash flow (Akinsulire, 2003). 
+Effective cash management is the fundamental standing point to ensure that the firm’s finances 
+
+3 
+ 
+are in a strong position. Managing cash is a real challenge to financial managers in Uganda; most 
+companies obtain cash from inappropriate sources which creates problems in cash management 
+therefore bringing mismatch in investments decisions. The goals of the cash management 
+function brings out the basic responsibility of the cash manager which broadly speaking takes up 
+planning, monitoring and controlling of cash flows and the cash position of a company, while 
+maintaining its liquidity (Coyle, 2010). Accordingly, (Festus, 2011) observed that poor 
+management practices constraints business operations and some customers who are not satisfied 
+with the services ran away signifying poor performance and hence retards the business growth.  
+The problem arises in trying to encourage managers to spend money wisely as opposed to 
+investing in projects with a lower required rate of return or wasting the said funds in 
+organizational inefficiencies (Wang, 2010).When a company is holding cash or cash equivalents 
+that are insufficient, interruptions of normal flow of most business operations occurs. A large 
+number of business entities were experiencing negative cash flows in their operations which 
+caused difficulties in meeting company liabilities such as payment of suppliers, staff wages and 
+salaries and meeting deadlines for tax payments Kaketo, Timbirimu, Kiizah & Olutayo, (2017). 
+However inadequate cash management has led to slow rate in making orders, delivery of services 
+timely due to delayed payment of suppliers. These inadequate or improper cash management 
+procedures were some of the major challenges.  
+1.3 General objective 
+The intention of the investigation is to examine the role of cash flow management on the 
+financial performance of small and medium Enterprises. 
+1.4 Specific objectives 
+To assess the importance of cash flow management for the overall performance and success of 
+small and medium-sized enterprises (SMEs). 
+To examine the relationship between effective cash flow management practices and the 
+financial stability of SMEs. 
+To identify the key factors influencing cash flow management in SMEs and their impact on 
+business performance. 
+
+4 
+ 
+1.5 Research questions 
+The research will answer questions like; 
+What is the importance of cash flow management for the overall performance and success of 
+small and medium-sized enterprises (SMEs)? 
+What is the relationship between effective cash flow management practices and the financial 
+stability of SMEs? 
+What are the key factors influencing cash flow management in SMEs and their impact on 
+business performance? 
+1.6 Scope of the study 
+The study was designed to handle the boundary of the research work in terms of the content 
+scope, geographical scope and time scope. 
+1.6.1 Content scope 
+The study will draw attention to the impact of cash flow management on the financial 
+performance of SMEs. The independent variable is cash flow management and the dependent 
+variable is financial performance of SMEs. 
+1.6.2 Geographical scope 
+This study is aimed to be carried out on small and medium-sized enterprises. It will focus more 
+on the cash flow management practices in small and medium sized enterprises. 
+1.6.3 Time scope 
+Time scope shall cover the period from April 2023 to August 2023. The period from April 2023 
+to August was chosen simply because it will be adequate time to do enough study. 
+1.7 Significance of the study 
+The significance of the study to the academia will allow other academicians have access to 
+similar information in future research on cash flow management and financial performance of 
+small and medium-sized enterprises as a point of reference.  
+It will also broaden the knowledge of the study; the findings and recommendations shall be a 
+basis for further research in the related subject study. 
+
+5 
+ 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 Introduction   
+The literature review in this context gives various concepts in regards to relationship between 
+cash flow management and financial performance of small and medium-sized enterprises. In 
+addition, the researcher will discuss empirical studies done by previous researchers. 
+2.1 Theoretical Framework 
+Cash management theory 
+ The cash management theory developed by James Mao and Charlie Sarndral (1978) focuses on 
+liquidity. By covering cash losses or using its surplus, cash management entails controlling cash 
+inflows, cash outflows, and balances at certain times (Kipruto, 2013). Aziz and Dar (2006) claim 
+that it is challenging to anticipate cash flow since there are periods when it exceeds inflows and 
+other times when it does not, and there is thus a key interest in short-term management of the 
+company. Unbalanced income and cost may be the cause of poor cash management (Pandey, 
+2005). According to Kibuchi (2018), reduced financial burden is a result of effective cash 
+management. Consistent cash flow imbalances that lead to corporate failure might be the cause 
+of financial crises in organizations (Aziz & Dar, 2006). The theory give reason for retaining cash 
+balance from operations to be used for investing, thus it addresses the cash flow management 
+from operating activities variable.   
+Agency Cost Theory  
+Jensen and Meckling founded the named theory in 1976. The model provides the association 
+between the principals who are mainly the shareholders and agents who are mainly the company 
+executives and managers (Sayari & Mugan, 2013). Agency cost theory holds that shareholders 
+expect the agents to act and make decisions in the principal’s best interest. However, this is not 
+always the case as the managers of organizations can be self-interested (Sharma, 2011). The 
+model looks into the conflict affecting the shareholders and their managers - agents (Khanji & 
+Siam, 2015). This model was useful to the current study as the responsibility of running the 
+named Kenya companies is bestowed on managers who are expected to make decisions that 
+
+6 
+ 
+favor the shareholders with ensuring a stable cash flow position and sound financial performance 
+being a good indication of the managers’ execution of this responsibility.  
+The Modigliani and Miller Theory  
+This theory was a continuation of Modigliani and Miller work in 1961 after a paper titled: 
+Dividend Policy, Growth, and the Valuation of Shares were published by the two in the Journal 
+of Business (Mirosky & Debrah, 2014). They provided a new concept when it came to the use of 
+dividends as an important measure of an organization’s value. Based on various assumptions 
+their argument was that investors should not make investment decisions based on whether a 
+company gives divided or not (Smith & Barclay, 2015). According to this model in the investors 
+view dividends and capital gains are the same. A company’s value is thus pegged on the earnings 
+that it gets that are determined by how lucrative the industry is and the investment decision the 
+firm makes (Stiglitz, 2010). If the investors can access the organization’s investment policy then 
+they can successfully opt to invest in the firm or not based on this information (Brusov, Filatova, 
+Orehova, Brusov & Brusova, 2011). This model was relevant to the current study given that the 
+investment policy of a firm has significant implications on its cash inflows and outflows as well 
+as on the earning power of the firm. As such, when evaluating the cash flow position of a firm, 
+activities in its investment section cannot be ignored.  
+Pecking Order Theory  
+Pecking order theory is also referred to as the information asymmetry theory. Donaldson is the 
+developer of the theory in 1961 and later it was modified by Stewart Myers and Nicolas Majluf 
+in 1984 (Al-Najjar, 2013). The theory states companies will always prefer to finance their 
+operations by use of internal financing rather than from equity and will only go for equity 
+financing if they are out of options. Thus, a firm will first use its internal finances and once these 
+are depleted the firm will opt for debt financing and equity financing as the last resort (Frank & 
+Goyal, 2013). Based on this theory, firms prefer to finance their investments, first internally with 
+retained earnings, then with debt and finally with the issue of new equity (Harford et al., 2012). 
+The choice to use internal funds to fund investments is based on the assumption that they have 
+no transaction costs while the use of debt is preferred to stock given that it signals positive 
+information regarding the firm’s ability to repay both the borrowed funds and accruing interest 
+(Smith & Barclay, 2015). This model will be significant to this study since managers are 
+
+7 
+ 
+expected to make wise decisions that distinguish between the conservative and aggressive 
+financing strategies to optimize a firm’s performance (Omag, 2016). This theory was relevant to 
+the current study given that internal financing (though ploughed back earnings) and external 
+financing (through issue of shares or debt instruments) form the major sources of corporates’ 
+financing and where a firm’s internal funds are depleted, use of debt instruments and issue of 
+equity provide the mechanisms through which the firm can raise much needed cash inflows for 
+its continued operation.  
+Miller-Orr Model of Cash Management  
+The Miller-Orr model of cash management is one of the prominent cash management models 
+developed by M.H Miller and Daniel Orr in 1966. This stochastic cash management model helps 
+the present day business enterprises to manage their cash while taking into consideration the 
+fluctuations in daily cash flow. This model deals with cash inflows/outflows that change on a 
+daily basis (Drake & Fabozzi, 2010). The model specifies two control limits, the upper control 
+limit (beyond which the cash balance should not be carried) and the lower control limit (to which 
+the firm should maintain cash resources at least to the extent of the lower limit), and a target cash 
+balance (which is the return point for the firm’s cash balances or the desired level of the cash 
+balances) (Nagano et al., 2015). This theory was relevant to the current study given its focus on 
+cash flow management  
+Cash flow management in SMEs 
+Cash flow management is the nucleus of a business entity for short and long-term survival 
+(Munusamy, 2010); concerned with both the short term and long- term financial objectives 
+(Evans, 2012); and determined by examining the cash flow statement (Statt and Truman, 2003). 
+According to Aminu, (2012) cash flow management brings together actions concerned with cash 
+payment, collection management and liquidity management, which involves acquisition and 
+disposal of treasury assets and their subsequent monitoring, a strategy for investing surpluses of 
+cash for maximum profitability and financing deficits at minimum costs.   
+According to Percat, (2012) around 90% of SMEs failures in Saudi Arabia are due to inadequate 
+management cash flow). Muller (2008) noted that in order for SMEs to manage their cash flow, 
+they must understand cash flow and be able to project how and when cash will be received and 
+spent, take steps to optimize revenue and expenditure timing and amounts. Yaqub and Husain 
+
+8 
+ 
+(2010), Surridge and Gillespie (2008) argue that for SMEs to grow, they must address failure 
+factors by identifying potential cash problems and deciding on how to adjust it to improve the 
+organizations cash position.  
+Financial performance of SMEs. 
+The association between cash flow management activities and financial performance of small 
+and medium sized enterprises has not been well established. Most of the studies carried out 
+before focused on the relationship between investing, financing and operating activities in terms 
+of organizational performance. However, it is quite evident that cash flow in a way or other 
+affects an entities’ profitability though there is not enough evidence to support. According to 
+(Miles, 2010) cash flow management activities have to be a result of investment, financing, 
+operating, equity investment, cash collection, plant investment and or debt repayments. This 
+study will focus on small and medium sized enterprises by looking at the cash flow management 
+from investing, operating as well as financing activities. 
+Efficiency in performances of small and medium sized enterprises and their weaknesses are 
+sometimes a result of failure and lagging of their respective cash flows management 
+identifications. Cash flow management is mainly born out the process of cash accumulation, 
+general business transaction and other events. Cash flow remains the principle of the financial 
+performance of any organization and the circular manifestation as the aim of law that has to be 
+decided by the shareholders. This implies that cash flow management will always be the core of 
+financial performance (Mong’o, 2010). 
+There are various ways of determining measure of financial performance of small and medium 
+sized enterprises. Athanase (2015) indicated that the measure of financial performance has been 
+made by applying possible indicators in most businesses by evaluating returns on asset and 
+returns on equity as the appetite of shareholders. The entity’s financial performance can also be 
+measured by applying financial ratios depending on the actual environment and the targeted aim 
+being the most common measures in relation to accounting. These measures include net profit, 
+return on asset, return on equity, current ratio, liquid ratio and credit ratios (Dukes, Davis and 
+Dyckman, 1998; Gullet and Hicks, 1981 and Nwanyanwu, 2013a). Components of cash flow 
+may be measured by adding all the line items that appear under respective cash flow activities 
+
+9 
+ 
+component (Collins, Hribar, & Tian, 2014). Therefore, this study will take this dimension to 
+research and evaluate the association and interdependence of variables. 
+The assumption of this research is grounded stability of monies coming in to any organization 
+and that it is an indicator to the opportunity for financial presence and profitability. The 
+performance of an entity can also be determined by the use of return on equity (ROE) and return 
+on assets (ROA). Cash flow and profits of an organization are much related. A sound cash flow 
+standing is reflected in the cash levels of an organization. When an entry continues in trend of 
+making profits, then it is assumed that has stable cash flow hence has enough cash for investment 
+decisions. It is evident that profit, in turn is always a reflection of the image in its cash flow 
+soundness or bottom line of cash flow statement (Panigrahi, 2013). 
+Cash management and financial performance   
+Ndirangu (2017) conducted a study on the effect of cash management and performance of 
+companies. Company size was found to have a negative and insignificant effect on financial 
+performance. Focusing on manufacturing companies in Nigeria, (Abioro, 2013) established that a 
+mere availability of cash (liquidity) without proper management does not necessarily translate 
+into favorable financial performance. A related study conducted in manufacturing firms in 
+Srilanka found an insignificant relationship between cash ratio and financial performance and 
+cash turnover ratio and financial performance (Janaki, 2016).(Yousef, 2016) also found that 67% 
+of SMEs in Jordan had no knowledge about cash control procedures. The above studies generally 
+suggest that cash management may not contribute to financial performance. However, this seems 
+to be true in relation to the level of growth of the company. The situation is likely to change as 
+businesses grow. For example, cash holding practices and use of technology in cash management 
+have a relevant effect on financial performance of SMEs in Nyeri, Kenya (Kinyanjui, Kiragu, & 
+Kamau, 2017). In Mogadishu, cash management was found to have a high effect on financial 
+performance of private secondary schools (Mohamed & Omar, 2016). Similarly, (Murkor, 
+Muturi, & Oluoch, 2018) found that operating cash flow management had significant and 
+positive effect on return on assets and insignificant and positive effect on return on equity. The 
+focus of this study were the mutual funds in Kenya.  
+
+10 
+ 
+2.2 Importance of cash flow management for the overall performance and success of small 
+and medium-sized enterprises (SMEs)  
+According to Evans (2012), cash flow management helps SMEs maintain an optimal cash 
+balance that is neither excessive nor deficient. It would minimize the positive items and 
+maximize the negative items affecting the cash cycle, leading to a minimum number of days in 
+a cash cycle. Menon, (2011)  added that cash flow management helps SMEs in spotting 
+potential cash flow gaps, serves as a reference tool for seeking funds from bankers, and 
+enhances confidence of the bankers on the SMEs effectiveness.  Amuzu (2010) agreed that cash 
+flow is an important measurement used by investors for evaluating a company because it 
+focuses on actual operation and eliminates one- time expenses and non-cash charges and gives a 
+clear picture of what the company is truly doing. Correia C et al, (2007) also observed that cash 
+flow is an area looked upon with great interest by financial and economic analysts as a credible 
+indicator on the strength, or riskiness, of an enterprise as it gives an enterprise the possibility of 
+either cutting or stripping off some operations, or ceasing altogether.  Lange (2010) asserts that 
+SME can still have an image of profitability and still be in danger of running into bankruptcy 
+because many people think of the profits that the business will generate rather than planning on 
+managing cash flows. Lange further explained that many profitable SMEs face serious 
+operational challenges as their liquid assets and cash are all tied to assets, thus lacking the 
+needed cash to settle financial obligations.             
+Minnery (2006) maintains that an efficient cash flow management system plays a key role and 
+helps to demonstrate that the SME is profitable. Minnery explained that an enterprise will need 
+to generate a profit over a long-term period but if it does not generate sufficient cash reserves 
+for its daily operations and for the generation of a profit for the owners, then such enterprise is a 
+failure.   Minnery observed further that while the overriding logic in the creation and 
+establishment of any business concern is the generation of a profit for the business it is still the 
+amount of cash that is recognized as the crucial resource in the short, medium, and long-term 
+life of any business. 
+
+11 
+ 
+2.3 The relationship between effective cash flow management practices and the financial 
+stability of SMEs 
+Effective cash flow management practices play a crucial role in the financial stability and 
+success of small and medium-sized enterprises (SMEs). Scholars have extensively researched 
+and highlighted the relationship between cash flow management and the financial well-being of 
+SMEs. Here are some perspectives from different scholars: 
+Lazaridis and Tryfonidis (2006): Lazaridis and Tryfonidis emphasize the importance of cash 
+flow forecasting, monitoring, and control in SMEs. They argue that accurate cash flow 
+projections help SMEs anticipate and address potential cash shortages, enabling them to make 
+informed decisions and ensure financial stability. 
+Taffler and Tisshaw (2011)Taffler and Tisshaw suggest that SMEs should adopt efficient 
+working capital management practices to maintain a healthy cash flow. They emphasize the 
+need for SMEs to carefully manage their receivables, payables, and inventory to optimize cash 
+flow and enhance financial stability. 
+Deloof (2003): Deloof investigates the impact of working capital management on the financial 
+performance of SMEs. His research reveals that effective management of cash conversion cycle 
+components, such as accounts receivable, accounts payable, and inventory, positively influences 
+the liquidity and financial stability of SMEs. 
+Chapra and Sufian (2012): Chapra and Sufian examine the role of financial management 
+practices in SMEs' financial stability. They argue that SMEs should adopt prudent financial 
+management techniques, including cash flow management, to enhance their resilience to 
+financial shocks and ensure long-term stability. 
+Vintilă and Gherghina (2015): Vintilă and Gherghina analyze the determinants of SMEs' 
+financial stability and find that effective cash flow management is a critical factor. They suggest 
+that SMEs should actively monitor their cash inflows and outflows, maintain sufficient liquidity 
+reserves, and seek external financing options when necessary to ensure financial stability. 
+Berger and Udell (2006): Berger and Udell examine the relationship between small business 
+financing and financial stability. While not explicitly focusing on cash flow management, their 
+research suggests that efficient cash flow management practices can enhance SMEs' 
+
+12 
+ 
+creditworthiness, making it easier for them to access external funding and maintain financial 
+stability. 
+2.4 Key factors influencing cash flow management in SMEs and their impact on business 
+performance. 
+Al-Qudah and Al-Omoush (2016): According to their study, the main factors influencing cash 
+flow management in SMEs include accounts receivable management, inventory management, 
+accounts payable management, and cash conversion cycle-Impact on business performance: 
+The researchers found that efficient cash flow management positively affects profitability and 
+liquidity, leading to better business performance in terms of financial stability and growth. 
+Deloof (2003): Deloof's research emphasized the importance of working capital management 
+in cash flow management for SMEs. It includes managing accounts receivable, inventory, and 
+accounts payable-Impact on business performance: The study revealed a significant positive 
+relationship between efficient working capital management and SMEs' profitability, liquidity, 
+and overall financial performance. 
+Laitinen (2007): Laitinen highlighted the role of financial planning and control systems, 
+including budgeting, cash budgeting, and monitoring financial performance indicators, as 
+crucial factors for effective cash flow management in SMEs. Impact on business performance: 
+The research indicated that SMEs with well-developed financial planning and control systems 
+experienced improved cash flow management, leading to enhanced business performance in 
+terms of profitability and growth. 
+Howorth and Westhead (2003): The study emphasized the significance of external financing 
+and banking relationships as important factors influencing cash flow management in SMEs. 
+Impact on business performance: The researchers found that SMEs with better access to 
+external financing and stronger banking relationships had improved cash flow management, 
+leading to higher business performance in terms of growth and survival. 
+O'Sullivan and Sheffrin (2003):O'Sullivan and Sheffrin discussed the impact of 
+macroeconomic factors, such as interest rates, inflation, and economic cycles, on cash flow 
+management in SMEs. Impact on business performance: The study suggested that SMEs need 
+to consider macroeconomic conditions and adapt their cash flow management strategies 
+
+13 
+ 
+accordingly to mitigate the negative effects of economic fluctuations and maintain business 
+performance. 
+ 
+2.5 Emperical literature review 
+2.5.1 Cash Flow Management From Operating Activities And Financial Performance 
+Mehtari (2016) investigated the association amongst operating cash flow and a company's 
+profitability in the TSE. The goals were to determine the impact of retained profits on 
+profitability, the impact of liabilities on profitability of the company, and the impact of dividend 
+policy on profitability. To examine the relationship between these two factors, the study 
+employed correlations analysis. The research looked at 19 publicly traded firms in the United 
+States and three different performance metrics, including market performance (based on changes 
+in stock market value), profitability (return on investment), and cash flow performance 
+(dividend-per-share). Companies with lesser total assets, greater liabilities, lower equity, an 
+unbiased auditor's judgment, and lower retained earnings, according to the study's findings, 
+perform better in terms of cash flow (as determined by cash dividend). It is advised that 
+businesses have effective operating cash flow management; as a result, regression analysis was 
+employed in this study. As a result, there were conceptual and contextual gaps, which the current 
+study aims to solve by taking into account cash from operations, net cash-flow from working-
+capital adjustments, and noncash elements in the Kenyan manufacturing industry. Additionally, 
+panel regression analysis was used in the study.  
+  
+Nwanyanwu (2015) looked at how operating cash-flow activities affect an organizational 
+performance in the Nigeria's tourism sector. The goals were to study how operational cash flows 
+affected an organization's performance, to ascertain how processing loans affected that 
+performance, and to discover how equity investments affected that performance. There were 45 
+hotels and print media companies in the sample. Inferential statistics utilizing correlations 
+analysis were employed in the investigation. The investigation came to the conclusion that taxes 
+and cash payments to suppliers had an impact on cash flow statement performance. In this 
+research, operating cash flow activities were examined using manufacturing enterprises. 
+Consequently, there were conceptual and subjective gaps that the current study attempted to 
+
+14 
+ 
+close by include operating cash flow, net cash-flow from adjustments to operating capital, and 
+noncash elements in Kenya's industrial sector.  
+  
+Frank & James (2014) evaluated the connection between operating cash flow activities and 
+corporate performance in Nigeria's food and beverage industry. The major goal was to determine 
+how financial information affected business performance. The financial statements of the firms 
+under examination were used to generate the data that was gathered. Five food and beverage 
+firms listed on the Nigerian Stock Exchange were sampled for the study. The technique of 
+multiple regression analysis was utilized to examine the data. According to the report, there is a 
+strong correlation between operational cash flows and corporate success in Nigeria's food and 
+beverage industry. The study concluded that operational cash flows had an impact on corporate 
+performance in Nigeria's food and beverage industry. In order to examine how operational cash 
+flow affects financial performance, descriptive statistics were utilized in the study. Consequently, 
+there were conceptual and contextual gaps that the current study attempted to close by include 
+operating cash flow, net cash-flow from adjustments to operating capital, and noncash elements 
+in Kenya's industrial sector.  
+  
+2.5.2 Cash Flow Management From Investing Activities and Financial Performance 
+Rehaman (2017) investigated the profitability of a Pakistani company's cash-flow through 
+investing operations. The study's intention was to compare the disparities between operational 
+net cash-flows and commercial success in Pakistan. The objectives were to ascertain the impact 
+of investing cash flow on success, the impact of current assets on profitability, and the impact of 
+current liabilities on profitability for the company. 23 businesses made up the sample size. 
+Descriptive statistics were utilized in the investigation. Because they directly affect both liquidity 
+and profitability, the findings have significant implications for businesses. Current assets and 
+current liabilities of the company are included in the cash flow from investments. The study 
+found that profitability is impacted by net investment cash flows. According to the study, the 
+amounts of interest generated should be computed via the net investment, PPE purchases and 
+sales, as well as the impact on profitability. Unfortunately, the study did not apply correlation 
+analysis to assess how investment activities affect organizations' financial success. As a result, 
+
+15 
+ 
+there were methodological and contextual gaps, which the current study sought to remedy by 
+focusing on Kenya and utilizing a panel regression model.  
+Agala (2017) investigated how business characteristics influenced the association amongst 
+investing free cash flows and the financial performance of listed companies at the Nairobi stock 
+market. In order to understand how business characteristics affect the relation amongst 
+investment cash flows and financial performance, a research was conducted. The goals of the 
+study were to quantify the relationship between cash flow investments and the financial 
+performance of NSE listed companies, as well as to identify how business characteristics and the 
+magnitude of cash flow investments affect financial performance. The study utilized secondary 
+panel data that was gathered from 55 NSE-listed businesses between the years of 2006 and 2015. 
+Regression analysis was utilized throughout data analysis. The results show that while business 
+characteristics have a detrimental effect on financial performance, free cash-flows have a 
+considerable beneficial impact. The emphasis of this study, which was not addressed, was cash 
+flow invested.  
+  
+Asif (2015) carried out research on investment cash-flows and productivity information from 
+companies listed on the Karachi Stock Exchange. The study's goal was to look at the profitability 
+and cash flows of investments. The study's objectives included determining the profitability 
+impact of cash collections on profitability, investigating the profitability impact of cash receipts 
+from the sale of intangible assets, and evaluating the profitability impact of cash payments made 
+to build or purchase long-term fixed assets. 37 companies that are listed on the Karachi Stock 
+Exchange comprised the sample. The analysis was descriptive. According to the report, 
+investment cash flows are crucial to both a company's long-term viability and corporate 
+profitability. The analysis discovered that current assets are used to fund a sizable portion of cash 
+flow investments, hence it is crucial for finance managers to effectively manage investment 
+activities. Even though it is recommended that cash flows from investment activities be reported 
+after cash revenues from the sale of bonds and company stock, cash receipts from cash payments 
+made in the form of loans and advances, and cash receipts from payments made to repay such 
+loans and receivables, no consensus has been reached on how to look into how investing 
+activities affect financial performance. The present study is being conducted in Kenya in order to 
+close a contextual gap that occurred.  
+
+16 
+ 
+  
+ 
+2.5.3 Cash Flow Management From Financing Activities And Financial Perfomance 
+Gravetter in 2016 evaluated the profitability and financing cash-flows of SMEs in California. 
+The research intends to explore the effects of employing owner's capital, dividends, and long-
+term obligations or debt on profitability. The study utilized secondary data from 7 SMEs. The 
+data that was gathered were examined using descriptive statistics. The findings showed that 
+profitability and financing cash flows had a favorable link. The study came to the conclusion that 
+changes in long-term obligations or debt, changes in owner's capital, and changes in dividends all 
+influences the financial performance. The study's findings suggest that a comparable item should 
+be on the cash flow statement and balance sheet. There existed the both the contextual and 
+methodological gap that the current study sought to fill by carrying the study in Kenya and 
+adopting panel regression. Bragg (2014) investigated the correlation between financing cash-
+flows and corporate effectiveness in the London Stock Exchange-listed corporations. The goals 
+were to determine how the accumulating from stock, using debt issue, paying dividends, paying 
+down debt, and repurchasing shares would affect the company's performance. A sample of 8 
+businesses listed on the London Stock Exchange was utilized in the study. The data utilized for 
+analysis came from the released financial statements of the 8 corporations. The association 
+between financing cash flows and company performance was determined using component 
+analysis. According to the study, there is a substantial relationship amongst corporate success of 
+London-listed corporations and investing cash flows. The study came to the conclusion that 
+financing cash flows should be utilized in relation to funds arising from equity, debt issuance, 
+dividend payment, debt repayment, and share repurchase. Nevertheless, it is necessary to 
+determine the impact of dividends, loans, and debts that are recorded as cash-flow financing. 
+When dividends are paid out, the rise in capital and adjustments in financing cash are referred to 
+as cash in. When an organization sells its bonds to the general populace, it boosts its cash flow. 
+As a result, the current study used inferential statistics to examine financing cash-flows on 
+financial performance in industrial companies that were not previously studied.  
+Wanja (2011) examined the factors influencing cash holdings and their impact on SMEs 
+performance in Nairobi, Kenya. The study's goal is to better understand the factors that influence 
+cash holdings and how they affect small and medium-sized businesses' cash levels in Nairobi, 
+
+17 
+ 
+Kenya. In Nairobi, Kenya, 14 small and medium-sized businesses made up the sample size. 
+Regression modeling and simple correlations were utilized. The study demonstrates how cash 
+flow financing affects small and medium firms' performance. The study found that financing 
+cash-flows plays a significant influence in a company's decision to finance or invest, and that the 
+FASB was appropriate in releasing a statement of cash flows. For businesses to prepare cash 
+flow statements for the consumers of financial information, it is now necessary to examine 
+financing cash flows. It has not been fully addressed how cash in hand affects net change, cash 
+payments, and cash receivables. There existed both methodological and contextual gaps, 
+consequently, the study used multiple regressions to examine the impact of financing cash flow 
+on the financial performance of manufacturing enterprises.  
+2.6 Conceptual Framework 
+Independent variable  
+  
+  
+  
+  
+Dependent variable  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Cash - Flow Management  
+from  Financing Activities  
+ 
+Net cash flow  
+from financing activities 
+ 
+Cash - Flow Management  
+from  Investing Activities  
+ Net cash flow  
+from investing activities 
+ 
+ 
+Financial performance 
+ 
+- 
+ 
+Cash - Flow Management  
+from  Operating Activities  
+ Net cash 
+fl
+From  operating 
+flow  
+ 
+
+18 
+ 
+ 
+CHAPTER THREE 
+RESEARCH METHEDOLOGY 
+ 
+3.0 INTRODUCTION 
+An extended essay form of methodology will be used by using secondary specific case study in 
+line with what is being researched about. This is because Uganda Christian University allows 
+both the usage of secondary and primary but since I have limited time I decided to use secondary 
+data. It is only suitable that secondary data in form of a case study is used. The advantage is to 
+this methodology style is that helps the researcher identify the gaps and help them draw 
+recommendations and conclusion on top of that comparing with what he will have done in the 
+field of interest.  Therefore, the study will mainly use secondary data acquired through previous 
+research reports, newspapers, newsletters, journals and internet. Therefore, advantages of 
+secondary data include cost effectiveness, time efficient hence less effort needed, availability and 
+the gaps and deficiencies are filled since the information is available. 
+3.1 Research Design 
+The study used cross section design together with descriptive and analytical research design so as 
+establish the effects of inventory management on performance of small and medium enterprises. 
+This study used both quantitative and qualitative methods. Qualitative methodology was 
+employed purposely to gain the in-depth insights into various variables related to study field 
+whereas quantitative methods was used utilized to supplement qualitative methods. The research 
+is a case study research design. 
+3.2 The Study Population 
+The study population comprised of all the owners and employees of the selected SMEs. The 
+researcher considered only 100 for this study and these were the source of the sample size 
+respondents. The sample (respondents) was selected from the study population. 
+ 
+ 
+
+19 
+ 
+3.3 Sample Size 
+The sample was selected from the study area and population at random, selecting at least 80 
+respondents. This was done after getting the names and addresses of the small and medium 
+enterprises. The study used a sample size of 80 respondents from a population of 100. 
+ Table 1: Showing sample size 
+Category 
+Study 
+population 
+Sample size 
+determination 
+Total sample Sampling 
+methods 
+Medium 
+enterprises 
+25 
+25/100*80 
+20 
+Simple 
+random 
+Small 
+enterprises 
+75 
+75/100*80 
+60 
+Simple 
+random 
+Total 
+100 
+ 
+80 
+ 
+ 
+3.4 Sampling technique 
+ 
+There are broadly two sampling approaches thus probability and none probability sampling 
+techniques. The probability sampling approach involved selecting a sample in such a way that all 
+the elements in the population have some chances of being selected (Amin, 2005). 
+ 
+This study used simple random sampling which is a sample obtained from the populations in 
+such a way that samples of the same size have equally chances of being selected (Amin, 2005). 
+As indicated above in table 1 above, the study used simple random sampling for all the 
+respondents. In using simple random sampling, the study used the lottery approach where names 
+in each category were written on tag and one picked at a time until the required number was 
+reached. To arrive at the sample size the study used proportionate sampling (80/100* the no in 
+the population category). 
+ 
+
+20 
+ 
+3.5 Data Sources 
+3.5.1 Secondary Data 
+Secondary data is the data that is already in existence and found in published reports, books and 
+interest (Krishnaswami and Ranagnatham, 2006). In this research, the secondary data was 
+gathered from journals, internet books and company records. 
+ 
+3.6 The validity and reliability of the research instrument. 
+3.6.1 Validity of Instruments 
+Validity refers to the appropriateness of the instrument. It is the ability to produce findings that 
+are in agreement with theoretical and conceptual values of the study. It is the ability to produce 
+accurate results and measure what it is supposed to measure. To ensure validity of research 
+instrument, copies of the draft instruments were pre-tested in a pilot run and content validity 
+index was used to assess the validity of the contents in the instruments. 
+3.6.2 Reliability of Research Instruments 
+Amin (2005) defined reliability as the dependability or trustworthiness in context of a 
+measuring the instrument. It is the degree to which the instrument consistently measures what it 
+is measuring. 
+3.7 Data Processing and analysis 
+The data collected was edited, coded and later analyzed using statistical package for the social 
+sciences (SPSS) computer program. Quantitative data was presented in form of descriptive 
+statistics using percentages and frequencies for each of the variables used. Quantitative data was 
+then be presented by using graphs pie charts and tables. In contrast, qualitative data from 
+interview scripts, notes and statements was systematically coded and classified into broad 
+descriptive categories while exploring themes, meanings and/or issues that emerged from the 
+information gained from the interview. The data was further linked to the research 
+objectives/questions to generate meaning and explanation on the study topic. 
+ 
+ 
+ 
+
+21 
+ 
+CHAPTER FOUR 
+DATA PRESENTATION AND ANALYSIS 
+ 
+4.1 INTRODUCTION 
+In this chapter, the findings of the study are presented and interpreted to address the objective 
+of the study and research questions. The purpose of the study was to establish the impact of 
+cash flow management on the financial performance of small and medium sized enterprises. 
+Specifically this chapter addresses itself to resolving the research objectives which include; to 
+assess the importance of cash flow management for the overall performance and success of 
+small and medium-sized enterprises (SMEs), to examine the relationship between effective 
+cash flow management practices and the financial stability of SMEs, to identify the key 
+factors influencing cash flow management in SMEs and their impact on business performance. 
+4.2 KEY FINDINGS 
+The study was set to find out the impact of cash flow management on the financial 
+performance of small and medium sized enterprises. 
+The gender composition in this study indicates that 65.7% were female while only 34.3% were 
+male. The high composition of women in the study stems from the nature of businesses 
+investigated i.e. merchandize and service businesses. In line with age, 33.3% belonged to 31 – 40 
+years of age and were the majority, followed 31.4% who belonged to 21 – 29 years of age, 
+followed by 25.5% who had 50 and above years while 9.8% belonged to 41 – 50 years and were 
+the least. This actually, implies that the businesses investigated were run mostly by women. 
+According to marital status, 68.6% were married and were the majority while 29.4% were single. 
+The statistics suggest that majority of the businesses investigated were run by women, who had 
+familial roles in addition to their businesses. About 33.3% had secondary education and were the 
+majority, followed by 32.4% who had tertiary education followed by 22.5% who had primary 
+education while only 11.8% had university degrees. The small percentage of those with 
+professional qualifications explains why majority of the participants would confirm being 
+incompetent in cash management. In line with the nature of businesses investigated, 41.2% sold 
+merchandize and were the majority, 31.4% operated service businesses, 14.7% dealt in 
+
+22 
+ 
+production while 12.7% were manufacturer. Common among service businesses were saloons, 
+bars and restaurants, lodges and stationery.   
+Table 1: Background data  
+Variable List  
+Category  
+Frequency  
+Valid 
+Percent  
+Gender  
+Female  
+53  
+65.7  
+   
+Male  
+27  
+34.3  
+   
+Total  
+80  
+100  
+Age  
+21 – 30  
+25  
+31.4  
+   
+31 – 40  
+27  
+33.3  
+   
+41 – 50  
+8  
+9.8  
+   
+50 and above  
+20  
+25.5  
+   
+Total  
+80  
+100  
+Marital status  
+Single  
+24  
+29.4  
+   
+Married  
+55  
+68.6  
+   
+Others  
+1  
+2  
+   
+Total  
+80  
+100  
+Highest level of education  
+Primary  
+18  
+22.5  
+   
+Secondary  
+27  
+33.3  
+   
+Tertiary  
+26  
+32.4  
+   
+University  
+9  
+11.8  
+   
+Total  
+80  
+100  
+Number of years in business  
+Below 5 years  
+60  
+74.5  
+   
+5 - 9 years  
+7  
+8.8  
+   
+10 years and above  
+13  
+16.7  
+   
+Total  
+80  
+100  
+Nature of business  
+Merchandize  
+33  
+41.2  
+   
+Services  
+25  
+31.4  
+   
+Manufacturing  
+10  
+12.7  
+   
+Production  
+12  
+14.7  
+   
+Total  
+80  
+100  
+Competence in managing cash  
+Very incompetent  
+24  
+30.4  
+   
+Incompetent  
+21  
+26.5  
+   
+Not Sure  
+9  
+10.8  
+   
+Competent  
+16  
+19.6  
+   
+Very competent  
+10  
+12.7  
+   
+Total  
+80  
+100  
+
+23 
+ 
+Source: Field data, 2019  
+Evaluating the competence of participants had in cash flow management, 56.9% confirmed to be 
+incompetent while 32.3% were competent in cash flow management. On the other hand, 10.8% 
+were neither sure competent nor incompetent. These statistics suggest that most of the 
+participants in this study were incompetent in terms of cash flow management skills.  
+Table 2: Cash flow Management  
+Variable List  
+Disagreement  
+(%)  
+Not 
+sure  
+(%)  
+Agreement  
+(%)  
+1. I find it easy to manage cash receivable from customers  
+4.9  
+1  
+94.1  
+2. I find it easy to hold inventories  
+4.9  
+4.9  
+90.2  
+3.  I find it easy to generate sufficient cash for meeting 
+immediate obligations  
+9.8  
+1  
+89.3  
+4. I have learnt to maintain liquidity positions  
+13.7  
+1  
+85.3  
+5. I find it easy to make cash payments to suppliers  
+9.8  
+5.9  
+84.3  
+6. This business has a cash management policy  
+20.6  
+6.9  
+72.5  
+7. I can easily manage my day-to-day operations  
+28.4  
+4.9  
+66.7  
+8.  I have learnt to manage trade-offs between holding too much 
+cash and  
+too little cash  
+31.4  
+2  
+66.6  
+9. I find it easy to plan and control cash flows  
+27.4  
+13.7  
+58.8  
+10. I have learnt to build a sustainable cash flow  
+47.1  
+8.8  
+44.1  
+11. I have learnt to maintain large cash reserves  
+47.1  
+8.8  
+44.1  
+12. I have learnt to match timing of payments against cash 
+available  
+55.9  
+1  
+43.2  
+13. I can forecast my receipts and payments  
+59.8  
+4.9  
+35.3  
+Source: Field data, 2019  
+Findings on the claims raised cash flow management revealed that 94.1% find it easy to manage 
+cash receivables from customers, 90.2% find it easy to hold inventories, 89.3% find it easy to 
+generate sufficient cash for meeting immediate obligation, 85.3% have learnt to maintain 
+liquidity positions, 84.3% find it easy to make cash payments to suppliers while 72.5% have a 
+cash management policy. These were very extreme viewpoints. However, 59.8% disagreed on 
+being able to forecast receipts and payments, 55.9% disagreed on having learnt to match timing 
+of payments against cash available, 47.1% disagreed on having learnt to maintain large cash 
+reserves and building sustainable cash flow. Moderate viewpoints were evident in finding it easy 
+
+24 
+ 
+to plan and control cash (58.8%), managing trade-offs between holding too much cash and too 
+little cash (66.6%) and managing day-to-day operations (66.7%).  
+Table 3: Financial Performance   
+Variable List  
+Disagreement 
+(%)  
+Not 
+Sure  
+(%)  
+Agreement  
+(%)  
+1. This business avoids exposure to financial risks  
+4.9  
+2  
+93.2  
+2. My business' cash flow is positively improving  
+5.9  
+2  
+92.2  
+3. This business has a stable financial position  
+4  
+3.9  
+92.1  
+4. This business rarely runs into bankruptcy  
+9.8  
+0  
+90.2  
+5.  This business properly utilizes its resources to generate 
+revenue  
+12.7  
+0  
+87.3  
+6. This business ensures avoidance of indebtedness  
+8.8  
+3.9  
+87.3  
+7.  This business is ever making prudent management 
+decisions  
+11.8  
+1  
+87.3  
+8. This business is highly productive  
+13.8  
+0  
+86.3  
+9. This business lays much emphasis on optimizing capital.  
+13.7  
+2  
+84.3  
+10. This business is surviving efficiently  
+10.7  
+5.9  
+83.4  
+11. This business has adequate free cash flows  
+15.7  
+2  
+82.3  
+12. This business carefully plans for funding liquidity 
+management  
+14.7  
+4.9  
+80.4  
+13. This business is positively affected by its size  
+14.7  
+5.9  
+79.4  
+14. This business is highly profitable  
+19.6  
+2  
+78.4  
+15. This business has the relevant skills required to manage 
+finances effectively  
+12.7  
+9.8  
+77.5  
+16. Managing finances has improved entrepreneurial 
+activities  
+21.5  
+2.9  
+75.5  
+17. This business is growing steadily  
+15.7  
+8.8  
+75.5  
+18. This business has potential strategies for achieving her 
+financial goals  
+26.4  
+3.9  
+69.7  
+ 
+Source: Field data, 2019  
+The findings on the claims raised on financial performance revealed that 93.2% of business 
+owners do their best to avoid exposure to financial risks, 92.2% are registering positive 
+improvements in operating cash flow, and 92.1% have stable financial positions while 90.2% 
+rarely run into bankruptcy. While these were extremely high view points on financial 
+performance, business owners expressed moderate positions on having sound human capital 
+19.  This business has a sound human capital development policy 
+ 
+25.5  
+6.9 
+67.7  
+
+25 
+ 
+development policy (67.7%) and having potential strategies for achieving financial goals 
+(69.7%).    
+Table 4: Regression Coefficients   
+  
+Unstandardized Coefficients  
+Standardized  
+Coefficients  
+t  
+Sig.  
+  
+B  
+Std. Error  
+Beta  
+B  
+Std. 
+Error  
+(Constant)  
+4.417  
+0.26  
+  
+16.975  
+0  
+Cash flow 
+Management  
+-0.139  
+0.075  
+-0.183  
+-1.858  
+0.066  
+R  
+0.182698  
+  
+  
+  
+  
+R Square  
+0.033378  
+  
+  
+  
+  
+Adjusted R Square  
+0.023712  
+  
+  
+  
+  
+Std. Error of the Estimate 0.334954  
+  
+  
+  
+  
+Regression sum of 
+squares  
+0.387419  
+  
+  
+  
+  
+Residual sum of squares  
+11.21945  
+  
+  
+  
+  
+Predictors: (Constant), Cash flow Management  
+Dependent Variable: Financial Performance  
+  
+The relationship between cash flow management and financial performance (r =.182) is very 
+weak. This suggests that any variation in cash flow management is associated to a very weak 
+variation in financial management among the businesses investigated. Potentially, the statistics 
+agree with the findings on the level of competence in cash flow management, where more than 
+50% indicated to be incompetent. This correlation translated in 3.3% impact of cash flow 
+management on financial performance as per (Adjusted R Square = .03333). This suggests that 
+cash flow management has a very small bearing on financial performance, which leaves room for 
+a big portion of financial performance that is explained by other factors that could not be 
+ascertained by this paper. To further illustrate the very weak effect of cash flow management on 
+financial performance among the businesses investigated, (sig. =.066) is above 0.5, which 
+suggests that cash flow management is not relevant in accounting for the variations in financial 
+
+26 
+ 
+performance. This is further proved by the (regression sum of squares =.387) which is smaller 
+than the (residual sum of squares = 11.219). This further emphasizes the fact that cash flow 
+management is not significant in accounting for the level of variation in financial management. 
+The suggested model is: Financial performance = 4.417 – 0.183(cash flow management) + ε, 
+where ε is the possible error estimate in the model. The model reflects a decrease in financial 
+performance associated to cash flow management because most of the measures of cash flow 
+management used were focusing on competence in cash flow management.   
+The study was about cash flow management and financial performance among selected small and 
+medium enterprises. The study found a weak relationship between cash flow management and 
+financial performance. The findings disagree with Robert & Hamacher, (2015) who investigated 
+the effect of cash flow management on financial performance of mutual funds and noted that 
+cash flows positively affected financial performance. Similarly, the findings disagree with 
+Turcas, (2011) who noted that solvency, flexibility and financial performance of a firm are set on 
+the firm’s ability to generate cash flows from operating, investing and financial activities. In the 
+same view, Waswa, Mukras & Oima, (2018) observed that careful consideration and planning of 
+funding liquidity management is one of the ways to measure financial performance and therefore 
+firms should increase their operating cash flow to positively influence their performance. Study 
+findings revealed that business owners find it easy managing cash receivable from customers, 
+holding inventories, generating sufficient cash for meeting immediate obligations and have learnt 
+to maintain liquidity positions. The statistics support Kroes & Subramantam, (2012) who noted 
+that a firm cash flow management policy, which manages working capital in form of cash 
+receivables from customers, inventory holding and cash to suppliers is widely linked to improved 
+financial performance. Business owners revealed that they are unable to forecast receipts and 
+payments, have not learnt matching timing of payment against cash available, makes it difficult 
+to maintain large cash reserves and sustainable cash flow. The results disagree with Njeru, Njeru, 
+Member &Tirimba, (2015) who pointed out that cash flow management would focus on building 
+sustainable cash flow and forecasting receipts and payments so as to manage day-to-day 
+operations of the business. The study however agrees with (Ndirangu, 2017)who found that 
+company size had a negative and insignificant effect on financial performance of the companies 
+listed at Nairobi Security Exchange. The findings of the current study agrees with (Abioro, 2013) 
+
+27 
+ 
+who established that a mere availability of cash (liquidity) without proper management does not 
+necessarily translate into favorable performance of manufacturing companies. Similarly, (Janaki, 
+2016) investigated Srilankan manufacturing companies and found insignificant relationships 
+between cash ratio and financial performance and cash turnover ratio and financial performance. 
+Finally, the findings of the present study on incompetence in cash flow management support 
+(Yousef, 2016) who revealed that 67% of the SMEs had no knowledge about cash control 
+procedures. The study was based on SMES in Jordan.   
+Business owners revealed doing their best to avoid exposure to financial risks, improving cash 
+flow, maintaining stable financial positions to avoid running into bankruptcy. Efforts to avoid 
+exposure to financial risks agree with Gongera, Ouma& Were, (2013) who stated that financial 
+risk exposure negatively affects the company’s financial performance. In view of avoiding issues 
+related to running into bankruptcy, the findings advised with Liman & Aminatu, (2018) who 
+noted that institutions should set a policy so as to keep bankruptcy costs at lower level, manage 
+and increase efficiency and financial performance. The businesses investigated moderate 
+positions on having sound human capital development policies and potential strategies for 
+achieving financial goals. In line with human capital development, the findings support 
+Ganotakis, 2010; Jin etal., 2010; and Ofoegbu, (2013) who asserted that human capital 
+development is one of the most important managerial tool and an important success factor in 
+generating better financial performance.  
+                                                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+28 
+ 
+CHAPTER FIVE 
+SUMMARY OF FINDINGS, CONCLUSION AND RECOMMENDATIONS 
+5.1 Introduction 
+This chapter presents the summary of the findings, conclusion of the study, recommendations 
+for policy and practice, limitations of the study and areas for further research. 
+5.2 Summary 
+The aim of the study was to establish the effect of cash flow management on the financial 
+performance of the Small and medium sized enterprises. Cash flow management was measured 
+by the three variables which included investing activities, operating activities and financing 
+activities and the financial performance of SMEs. The study employed the secondary data which 
+was obtained from the financial statements of the companies. Data analysis involved descriptive 
+data analysis and the regression analysis. 
+The descriptive analysis was aimed at establishing the impact of the cash flow management on 
+financial performance of SMES. 
+The study also employed regression analysis. From the regression analysis results, the 
+regression model accounted for 20.5% of the variance in performance. This is evident from the 
+adjusted R2 value of 0.206 and the F-Statistic was 5.43 and this was significant at 5% 
+significance level this implies that the model employed was fit. From the findings of the study, 
+the effects of cash flow management were found to be insignificant at 5% level of significance. 
+However the effect on financial performance was found to be statistically significant at 5% level 
+of significance. 
+5.3 Conclusion 
+The study aimed at establishing the effect of cash flow management on the financial 
+performance of companies listed of Small and medium sized enterprises. From the study 
+findings, the cash flow management had a positive but insignificant effect on the financial 
+performance. This implies that cash flow management has no any influence on the financial 
+performance. From the findings of the study it was also established that the size of the company 
+had a negative and insignificant effect on the financial performance. It implies that the size of 
+the company has no any influence on the financial performance. 
+
+29 
+ 
+5.4 Recommendations 
+Following the outcome of the study, the study proposes that the companies in small and medium 
+enterprises to increase their receivable period, inventory period and payable periods. This will 
+increase the cash management cycle which will in turn improve the financial performance of the 
+companies in small and medium sized enterprises. 
+5.5 Areas for Further Research 
+This study employed only the secondary data in the analysis. Another study should be 
+undertaken to incorporate both secondary data and primary data since primary data is able to 
+bring out some aspects which are not dealt by the secondary data. It could be the change in 
+financial performance is not brought about by cash management alone. 
+In this study, all the segments of Small Scale Businesses were represented since two companies 
+were taken from each segment. A similar study should be conducted considering each segment 
+as a separate entity. 
+ 
+
+30 
+ 
+REFFERENCES 
+ 
+ 
+[1.]  Abioro, M. (2013). The Impact of Cash Management on the Performance of 
+Manufacturing in Nigeria. Uncertain Supply Chain Management, 1(2013), 177-192.  
+[2.]  Abu Tabanja.A., (2005). Cash Management of the selected Jordanian Large. Scale Public 
+Limited Industrial Companies, Dirasat, Administrative Sciences, Vol. 32, No. 1.  
+ 
+[3.]  Adomako, S. and Danso, A (2014). Financial literacy and firm performance: the moderating 
+role   of financial capital availability and resource flexibility. International Journal of 
+Management and Organizational studies, 3(4), pp. 1-15  
+ 
+[4.]  Akbas, H.E., & Karaduman,H.A (2012) The effect of firm size on profitability: An empirical 
+investigation on  
+Turkish manufacturing companies. European Journal of Economics, Finance and 
+Administrative Sciences, 55, 21-27   
+ 
+[5.]  Akinsuline, O (2003) Financial Management fifth edition, Lagos, Ceemol Nigeria Limited  
+ 
+[6.]  Akinyomi, O. J (2014). Influence of competition on Activity-based costing system 
+implementation in Nigeria. International Journal of Information, Business and Management,
+6(1),11  
+ 
+[7.]  Alfred, D. D (2007). Corporate Finance (2nded.) New York: High Rise Publishers  
+ 
+[8.]  Brinchk. M., Soeren. J.S &Gemuenden,H.G (2011) Entrepreneurship theory and Practice, 
+March 2011, Vol 35, Issue 2, pp 217-234. Financial Management- Turning theory in to 
+practice. South Africa: Oxford University Press.  
+ 
+
+31 
+ 
+[9.]  Business development Bank of Canada (2014). Cash flow management. BDC’s research and 
+Market Intelligence Team. BDC view point Study, Canada  
+ 
+[10.]  Charitou, M. S., Elfani, M., &Lois,P (2010). The effect of working of working capital 
+management of firm’s profitability: Empirical evidence from an emerging market. Journal 
+of Business and economics Research (JBER), 8(12)  
+ 
+[11.]  Chartered Institute of Management Accountants (2010). Improving Cash Flow using Credit 
+Management, 1-28  
+ 
+[12.]  Coyle, B (2010). Flow Management. Chicago & London: Cash Flow forecasting and 
+Liquidity  
+ 
+[13.]  Drexler, A., Fischer, G and Schoar. A (2014). Keeping it Simple: Financial Literacy and 
+Rules of Thumb. American Economic Journal: Applied Economics, 6(2), pp. 1-31  
+ 
+[14.]  Festus, A (2011) Cash management and growth of Small Scale business in Ntungamo 
+Market. College of Business (Doctoral dissertation, MAKERERE UNIVERSITY  
+ 
+[15.]  Franks, B.P., & James, O.K., (2014). Cash flow and Corporate Performance: A Study of 
+Selected Food and  
+Beverages Companies in Nigeria. European Journal of Accounting, Auditing and Finance 
+Research, 2(7), 77-87  
+ 
+[16.]  Ganotakis, P (2010). Founder’s Human Capital and the performance of UK New 
+Technology-Based firms. Small  
+Business Economics, 35(4): 1-21  
+ 
+[17.]  Gao,Y (2010). Study on Formative Mechanism of Financial Risk and Control for 
+Agriculture Listed Companies in China, College of Economy and Management, Southwest 
+University, Beibei, Chongqing, China.  
+ 
+[18.]  Gongera, E.G., Ouma, B.O., & Were, J.N (2013). Effects of financial Risks on Profitability 
+of Sugar Firms in Kenya. European Journal of Business and Management 5 (3)  
+ 
+[19.]  Gyebi,F., &Quain,S (2013) Internal Control on Cash collection. A case of the electricity 
+company of Ghana Ltd.  
+
+32 
+ 
+Accra East region, International Journal of Business and Social Science, 4 (9), pp. 217-233  
+ 
+[20.]  Harash, E., Fatima, J. A., &Essia, R. A (2013) Moderating effect of market practices on the 
+government policyPerformance relationship in Iraq SMEs. Proceeding from 4th Global 
+Conference for Academic Research on Economics, Business and Management (GCAR-
+EBM). Kuala Lumpur, Malaysia.  
+  
+ 
+[21.]  Janaki, S. T. (2016). Impact of cash management on financial performance of the Srilankan 
+manufacuring companies. EPRA International Journal of Economics and Business Review, 
+4(8), 118-126.  
+[22.]  Kaketo F, Timbirimu. M., Kiizah.P, and Olutayo K.O (2017) Cash Management and 
+Organizational Profitability  
+InGumutindo Coffee Cooperative Enterprise Limited  (GCCE) Mbale District Uganda. 
+Journal of Research in  
+Business and Management Vol.5-Issue 5 (2017) www.questjournals.orgpp: 33-40
+ISSN(Online): 2347-3002  
+ 
+[23.] Kasim, H., Mutula .Z. and Antwi. S.K (2015) Cash management Practices and financial 
+performance of Small  
+Medium Enterprises (SMEs) in the Northern region of Ghana.  International Journal of 
+Economics, Commerce and  
+Management. Vol.III, Issue 7, July 2015  
+ 
+[24.]  Kinyanjui, D., Kiragu, D., & Kamau, R. (2017). Cash Management Practices on Financial 
+Performance of Small and Medium enterprises in Nyeri Town, Kenya. Saudi Journal of 
+Business and Management Studies, Volume 2(Issue 3A), 215 - 221.  
+[25.]  Kroes,J., Subramanian, R &Subramanyam, R (2012). Operational Compliance levers, 
+environmental performance and firm performance under cap and trade regulation. Journal of 
+manufacturing & service operations  
+Management, 14(2), 186-201  
+ 
+[26.]  Liao, S. H., & Wu, C.C (2009). The relationship among knowledge management, 
+organizational learning and organizational performance. International Journal of Business 
+and Management, 4(4), 64-76  
+ 
+[27.]  Liman. M &Aminatu. S.M (2018) Operating Cash Flow and Corporate Financial 
+Performance of Listed Conglomerate Companies in Nigeria. IOSR Journal of Humanities 
+and Social Science (IOSR-JHSS) Vol 23, Issue 2, Ver.II 2018 pp 01-11. 
+www.iosrjournals.org  
+ 
+[28.]  Makokha, S (2017) Mumias Sugar now deals cane growers a blow., Daily Nation, p.33  
+ 
+
+33 
+ 
+[29.]  Merchant 
+Factors 
+(2013) 
+Finance 
+beyond 
+the 
+numbers. 
+Available 
+at 
+http;//www.mfactors.co.za/articles.php#2  
+[Accessed 14 October 2015]  
+ 
+[30.]  Miller,A., Boehije, M., & Dobbins, C (2013). Management Challenges for the 21st Century. 
+Key financial performance measures for farm general managers. Purdue University 
+Cooperative Extension. West  
+Lafayette, pp.1-3  
+ 
+[31.]  Mohamed, A. N., & Omar, N. (2016). effects of cash management on financial performance 
+of private secondary schools in Mugadishu, Somalia. IJRDO - Journal of Business 
+Management, 2(9), 89 - 107.  
+ 
+[32.]  Murkor A.S., Muturi. W &Oluoch. O (2013), Effect of operating Cash flow Management of 
+Financial  
+Performance of Mutual Funds in Kenya. European Journal of Business, Economics and 
+Accountancy Vol.6 No. 5  
+2018.ISSN 2056-6018   
+ 
+[33.]  Murkor, A. S., Muturi, W., & Oluoch, O. (2018). effects ofoperating cash flow management 
+on financial performance of mutual funds in Kenya. European journal of Business, 
+Economics and Accountability, 6(5).  
+ 
+[34.]  Ndirangu, L. W. (2017). Effect of Cash Management on the Financial Performance of the 
+Companies :isted at the Nairobi Securities Exchange . Nairobi: Nairobi University.  
+ 
+[35.]  Njeru. M. D., Njeru,A., Member, F., and Tirimba O.I (2015). Effect of Cash Management on 
+Financial performance of deposit taking SACCOs in Mount Kenya Region. International 
+Journal of Scientific and  
+Research Publications, 624  
+ 
+[36.]  Nyabwanga, R.N., Ojera, P., Lumumba, M., Odondo.A.J&Otieno, S. (2012). Effect of 
+working capital Management practices on financial performance: A Study of small Scale 
+Enterprises in Kisii South District, Kenya. African Journal of Business Management 6 (18), 
+5807-5817  
+ 
+[37.]  Odindo, J (2018) Sugar industry on the death bed, is Government willing to revive it? 
+Sunday Standard  
+ 
+[38.]  Ofoegbu E.O, P.A Akanbi and A.I. Joseph(2013) Effects of Contextual Factors on the 
+Performance of Small and  
+Medium Scale Enterprises in Nigeria: A Case Study of Ilorin Metropolis. Advances in 
+Management and  
+Applied Economics. 3 (1), 95-114  
+
+34 
+ 
+[39.]  Omondi, M.M., &Muturi, W (2013). Factors affecting the financial performance of listed 
+companies at the Nairobi Securities Exchange in Kenya. Research Journal of Finance and 
+Accounting, 4(15),99-104  
+ 
+[40.]  Podilchuk, Z (2013) Impact of Liquidity management on profitability: Evidence from 
+Ukraine.(MA), Ukraine  
+ 
+[41.] Reheman, A and Nasr. M (2007) Working capital Management and Profitability- Case of 
+Pakistani  
+Firm. 
+IntRev.Bus.Res.Papers 3:279-300  
+ 
+[42.]  Robert,P&Hamacher. T (2015). The Fund Industry: How Your money is managed (2nd ed.)
+Hoboken,NJ: Wiley Finance  
+ 
+[43.]  Sekaran U. (2006) Research Methods for Business. A Skill Building Approach. 4th Ed
+UNECA  (2010)  
+ 
+[44.]  Turcus, M (2011) The cash flow- Instrument for the company’s analysis and forecast. 
+Bucharest, Academy of economic studies, MIBES (2011) poster.461-466  
+ 
+[45.]  Uwonda, G., Okello, N., & Okello .N.(2013) Cash Flow Management utilization by Small 
+and Medium enterprises (SMEs) in Northern Uganda. Merit Research Journal of 
+Accounting, Auditing, Economics and  
+Finance,1(5) 67-80  
+ 
+[46.]  Wang, G.Y (2010). The Impacts of free Cash Flows and Agency Costs on Firm 
+Performance. Journal of Service Science and Management, 03(04), 408-418  
+ 
+[47.]  Wang, P. (2008). How to evaluate performance of Government Agency: A manual for 
+practitioner’s. World Bank  
+ 
+[48.]  Waswa. C.W., Mukras. M.S ., &Oima. D (2018) Effect of liquidity on financial performance 
+of sugar industry in Kenya. International Journal of education and research Vol.6, No. 6  
+ 
+[49.]  Weston, I. F and Copeland, T.E (2008). Managerial Finance (12thed.) The Dryden Press.  
+ 
+[50.]  Wu,J., Li, Y. and Zhu, M (2010). Empirical Analysis of Rural Influencing Factors on Lited 
+Agribusiness Financial Performance. Agricultural Economics and Management, 3, 22-27   
+ 
+[51.]  Wu,L., Li. Y & Zhu, M., (2010). Empirical analysis of rural influencing factors of listed 
+agribusiness financial performance. Agricultural Economics and Management 3, 22-27  
+ 
+[52.]  Yousef, A. S. (2016). Cash management practices and financial performance of small and 
+medium enterprises  
+
+35 
+ 
+(SMEs) in Jordan. Research Journal of Finance and Accounting, 7(2), 98-107.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+ 
+ 

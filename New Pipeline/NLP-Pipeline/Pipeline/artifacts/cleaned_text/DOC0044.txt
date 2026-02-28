@@ -1,0 +1,154 @@
+Assignment 1.
+Instructions to candidates:
+(i) Attempt ALL questions.
+1. (a) Given f(x) = x2 + 2 and g(x) =
+√
+3 −x. Find (f ○g)(x).
+(b) Given f(x) = x2 + 2 and g(x) =
+√
+3 −x. Find (g ○f)(1).
+(c) Given
+f(x) =
+⎧⎪⎪⎪⎨⎪⎪⎪⎩
+2,
+x ≤−1
+αx,
+−1 < x <≤1
+βx2,
+x > 1
+Find α and β such that limit of f(x) exists.
+(d) Given
+f(x) = { x2 + kx + 1
+x < 1
+x3
+x ≥1
+Find the value of k such that lim
+x→1 f(x) exists.
+(e) Given f(x) = x2 −9
+x −3 . Find lim
+x→3 f(x).
+(f) Find lim
+x→0
+2sinx
+x
+.
+(g) Tom’s computer memory capacity decays in such a way that the amount of memory
+remaining after t days when attacked by a virus, is given by the function m(t) = 13e−0.015t
+where m(t) is measured in GB.
+(i) Find the memory at time t = 0
+(ii) How much of the memory will Tom remain with after 45 days?
+(iii) Is m(t) increasing or decreasing?. Explain.
+(iv) Assuming there is no solution to solve Tom’s computer memory decay. Henry seeks
+to swap his 10GB hard disk with Tom forever. What advise do you have for both
+Tom and Henry?
+(h) Use the Sandwich theorem to compute lim
+x→∞
+2 −cosx
+x2 + 3
+2. (a) Given that
+lim
+x→2 g(x) = 4,
+lim
+x→2 f(x) = 5
+Find the;
+(i) lim
+x→2 5g(x)f(x)
+(ii) lim
+x→2 10g(x)
+(iii) lim
+x→2 (
+g(x)
+3g(x) + f(x))
+(b) State the formal definition of a limit.
+(c) Use a formal definition of a limit to prove that lim
+x→2(3x −1) = 5
+(d) Sketch the function
+y = { x
+x ≥0
+−2
+x < 0
+
+(e) Suppose that $500 is invested at 6% compounded quarterly for t years, given;
+A(t) = 500(1 + 0.06
+4 )
+4t
+= 100(1.015)4t.
+where A(t) ia a function of the number of years for which the money is invested.
+Determine the domain.
+(f) Recently, Sprint offered a cellphone calling plan in which the customer’s monthly bills
+could be modeled by the graph below.
+(i). Find the range of the function shown.
+(ii). Is the function f continuous? Explain.
+(g) Stating the rule used, compute
+lim
+x→0
+(2x + 3)2 −9
+x
+3. (a) State the domain and range of the function f(x) =
+√
+x2 + 3
+.
+(b) Find the solution to 2(3 + 2x) −10 > 7x?
+(c) Find the inverse of the function f(x) = ex −e−x
+ex + e−x.
+(d) Find the solution to ∣2x + 3∣≥8?
+(e) Find the solution to (x −2)(x −3) ≥0?
+(f) Which of the following sets does not represent a function?
+A. A = {(−1,1),(4,11),(5,13),(1,5)}
+B. A = {(−1,−1),(−4,−4),(−5,−5),(−10,−10)}
+C. A = {(−1,1),(−1,11),(5,13),(1,5)}
+D. A = {(−2,4),(2,4),(−1,1),(1,1)}
+(g) Given a function which is represented by the following set
+A = {(−1,1),(4,11),(5,13),(1,5)}, which one of the following alternatives represent the
+range and domain respectively?
+A. {−1,4,5,1} and {1,11,13,5}
+B. {1,11,13,5} and {−1,4,5,1}
+C. Can not be determined.
+D. A does not represent a function.
+(h) Show whether the function 5x + 2
+is one to one.
+(i) Prove that
+√
+ab ≤a + b
+.
+
+(j) Solve the inequality (x −1)(x + 2)
+(x −3)
+< 0.
+(k) Show whether the function
+x
+x2 −1 is either even or odd.
+4. (a) All polynomials are continuous at all points in real numbers.
+A. False
+B. True
+(b) Which kind of discontinuity does the function f(x) =
+√x −2
+x −4
+have at x = 4?
+(c) Which kind of discontinuity does the function f(x) =
+⎧⎪⎪⎪⎨⎪⎪⎪⎩
+x2
+x < 1
+x = 1
+3 −x
+x > 1
+have at x = 1?
+(d) Which kind of discontinuity does the function f(x) =
+x + 1 have at x = −1?
+(e) The value of λsuch that f(x) = { 6 −x
+x ≤−2
+λx2
+x > −2
+is continuous at x = 2 is;
+(f) Evaluate lim
+x→∞
+5x7 −8x2 + 2
+3x6 −x3 + x2
+(g) Suppose 6x −x2 ≤f(x) ≤x2 −6x + 18 for all x in real numbers. Find lim
+x→3 f(x).
+(h) Redefine the function f(x) =
+√x −2
+x −4
+such that it is continuous at x = 4. Which type of
+discontinuity is this?
+◂END ,! ▸

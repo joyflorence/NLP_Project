@@ -1,0 +1,1443 @@
+EVALUATION OF SEED QUALITY IN THREE RELEASED VARIETIES OF
+SOLANUM AETHIOPICUM SHUM ACROSS SEASONS
+
+FAITH AKILE ECORA
+S21B26/009
+
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN
+PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF
+BACHELOR OF AGRICULTURAL SCIENCES AND ENTREPRENEURSHIP OF UGANDA
+CHRISTIAN UNIVERSITY
+April,2025
+
+
+
+
+
+
+ii
+
+ABSTRACT
+Solanum aethiopicum Shum presents differences in germination performance with a
+relatively low germination percentage of 0-25% and this is attributed to the relative
+response of different varieties to germination conditions caused by intraspecific factors
+such as genetics. With progression of generations over seasons, seeds vary in the
+stability levels of inheritance of superior traits for germination pointing out the
+difference in levels of seed quality for efficient crop establishment and growth. This
+research evaluated seed quality of Solanum aethiopicum Shum varieties E11, E15, and
+E16 over two seasons and the effect of germination synchrony on plant growth
+performance. This was objectively to check for stability of germination of the varieties
+with progression over seasons and establish how levels of germination synchrony
+influence plant establishment and growth.
+The experiment was carried out in a screen house at Uganda Christian University,
+Mukono using a Completely Randomized Design, with three replicates for three
+varieties. Germination study was conducted in a healing chamber and germination
+metrics recorded were germination percentage, mean germination time, germination
+velocity index, and germination synchrony. Subsequent plant growth was conducted in
+a screen house and growth metrics studied were plant height, plant canopy, stem girth,
+leave dimensions, and petiole traits.
+Results of the study indicated that germination performance varied across all varieties
+over seasons with p-value 0.229 for germination percentage, p-value 2.46 for Mean
+Germination Time, p-value 0.046 for Germination Velocity Index, and p-value 0.064 for
+Germination Synchrony at significance level of 5%. Furthermore, different levels of
+germination synchrony across the varieties had marginal to significant effects on plant
+growth performance where variety E11 expressed relatively stable genetic expression
+across seasons in its germination rates followed by varieties E15 and E16. Additionally,
+different germination synchrony levels exhibited variations in all plant growth
+parameters with exception of petiole length suggesting a strong influence of
+
+
+iii
+
+germination synchrony on plant establishment other the germination velocity index on
+plant growth.
+Declaration
+I ECORA FAITH AKILE hereby declare that this dissertation is entirely my original work
+except where I have acknowledged references by other authors, and it has not been
+presented partially or wholly in any other institution for any award.
+Signature: ecora faith akile
+Date: 15th April, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+Approval
+This is to certify that this dissertation has been submitted for examination with approval
+of my academic supervisor as a requirement for the award of a degree in Bachelor of
+Agricultural Science and Entrepreneurship at Uganda Christian University.
+
+
+Ms. MILDRED JULIAN NAKANWAGI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+Table of Contents
+Content
+Declaration ........................................................................................ iii
+Approval ........................................................................................... iv
+Table of Contents ................................................................................. v
+List of tables ..................................................................................... vii
+List of figures .................................................................................... vii
+List of Acronyms ............................................................................... viii
+CHAPTER ONE ...................................................................................... 1
+1.1 Background ................................................................................. 1
+1.2 Statement of the problem ............................................................... 2
+1.3 Objectives .................................................................................. 3
+1.3.1 Specific Objectives ................................................................... 3
+1.4 Research hypotheses ..................................................................... 3
+1.6 Significance ................................................................................. 4
+1.7 Conceptual frame work .................................................................. 4
+CHAPTER TWO ( please italicize all scientific names) ..................................... 5
+2.0
+Literature review ......................................................................... 5
+2.1 Taxonomy of Solanum aethiopicum Shum ............................................ 5
+2.2 Botany and agronomy of S. aethipicum Shum ....................................... 5
+2.3 Challenges facing production of S.aethiopicum Shum ............................. 6
+2.4 Importance of seed quality .............................................................. 6
+2.5 Germination behavior over seasons ................................................... 7
+2.6 Impact of germination timing on growth .............................................. 7
+CHAPTER THREE ................................................................................... 9
+
+
+vi
+
+3.0 METHODOLOGY ............................................................................... 9
+3.1 Methodology 1 ........................................................................... 9
+3.1.1 Area of study .......................................................................... 9
+3.1.2 Study material (briefly describe the characteristics of the varieties you
+assessed) ....................................................................................... 9
+3.1.3 Experimental Design ................................................................. 9
+3.1.4 Data collection ........................................................................ 10
+3.1.5 Data Analysis ........................................................................... 10
+3.2 Methodology 2 .............................................................................. 11
+Comparing effects of germination synchrony on crop growth in Solanum aethiopicum
+Shum .............................................................................................. 11
+3.2.2 Layout ................................................................................ 12
+3.2.3 Data collection ...................................................................... 13
+3.2.4 Data analysis ........................................................................ 13
+CHAPTER 4 ( enhance your results with ANOVAs) ........................................ 14
+4.1 Germination percentage ............................................................... 14
+4.2 Mean germination time ................................................................. 15
+4.3 Germination velocity index ........................................................... 16
+4.4 Germination synchrony ................................................................ 17
+4.5 Plant growth performance by variety and germination synchrony level ..... 19
+Plant height.................................................. Error! Bookmark not defined.
+CHAPTER 5 ....................................................................................... 26
+5.1 Discussion for objective 1 ............................................................. 26
+5.2 Discussion for objective 2 ............................................................. 27
+
+
+vii
+
+Comparing effects of germination synchrony on crop growth in S. aethiopicum Shum
+..................................................................................................... 27
+CHAPTER 6 ....................................................................................... 29
+6.0 CONCLUSIONS ............................................................................ 29
+6.1 Recommendations ....................................................................... 29
+APPENDIX ......................................................................................... 30
+REFERENCES ..................................................................................... 34
+
+List of tables
+Table 2: germination percentage for seasons across varieties ............................ 14
+Table 3: Mean Germination Time for seasons across varieties ............................ 15
+Table 4: Germination Velocity Index for seasons across varieties ........................ 16
+Table 5: Germination Synchrony for seasons across varieties ............................. 18
+Table 6: Plant growth parameters by germination synchrony and variety .............. 21
+Table 1: work plan and time frame ........................................................... 30
+
+List of figures
+Figure 1: Mean Germination Time by Genotype and Season .............................. 16
+Figure 2: Germination Velocity Index by genotype and Season .......................... 17
+Figure 3: Germination Synchrony by Genotype and Season ............................... 19
+Figure 4: Plant height by Variety and Germination synchrony ........................... 22
+Figure 5: Plant canopy by Variety and Germination Synchrony .......................... 23
+Figure 6: Stem girth by Variety and Germination synchrony .............................. 23
+Figure 7: Number of leaves by Variety and Germination synchrony ..................... 24
+Figure 8: Leaf length by Variety and Germination synchrony ............................ 24
+Figure 9: Leaf width by Variety and Germination synchrony ............................. 25
+Figure 10: Petiole length by Variety and Germination synchrony ........................ 25
+Figure 11: Objective 1 data sheet ............................................................ 31
+
+
+viii
+
+Figure 12: Objective 2 data sheet ............................................................ 31
+Figure 13: Mixing loam soil with poultry manure in the ratio of 2:1 .................... 32
+Figure 14: steam sterilizing of mixed soil ................................................... 32
+Figure 15: watering plants in the screen house ............................................ 33
+Figure 16: data collection ..................................................................... 33
+
+List of Acronyms
+AIV
+African Indigenous Vegetables
+AOSA
+Association of Official Seed Analysts
+ANOVA
+Analysis of Variance
+CRD
+Completely Randomized Design
+CUG
+Coefficient of Uniformity of Germination
+DNA
+De-oxyribonucleic Acid
+GP
+Germination Percentage
+GVI
+Germination Velocity Index
+GS
+Germination Synchrony
+ISTA
+International Seed Testing Association
+MGT
+Mean Germination Time
+SDG
+Sustainable Development Goals
+
+
+
+
+
+
+
+
+
+
+ix
+
+
+
+
+
+
+
+
+
+CHAPTER ONE
+1.1 Background
+Solanum aethiopicum Shum is a nutrient-rich horticultural crop belonging to the
+Solanaceae family (Buteme et al., 2021). It is also referred to as scarlet eggplant or
+garden egg, said to have originated from tropical Africa (Plaza et al., 2024) and evolved
+from Solanum anguivi (Godfrey et al., 2017). It is one of the four sub-groups of Solanum
+aethiopicum on morphological variations which include gilo, kumba, aculeatum, and
+Shum, cultivated for their leaves and fruits for consumption and ornamental purposes
+for the aculeatum group (Buteme et al., 2021). The Shum group locally known as
+‘nakati’ in Uganda is a common highly nutritious African Indigenous Vegetable, (AIV)
+cultivated for its leaves (Kabod et al., 2018). However, the vegetable has received less
+attention (Nakyewa et al., 2021), and there is limited knowledge about the crop among
+researchers (Botey et al., 2019; Han et al., 2021) and so to explore this loophole, this
+study focuses on evaluating seed quality of the African vegetable considering seed
+germination as an indicator. Seed germination is influenced by a combination of genetic
+traits and environmental conditions, essential for understanding plant adaptation,
+population dynamics, and cultivation success (Maleki et al., 2023). As shown by Ghaleb
+et al. (2022), factors such as germinability and rate can vary within seed populations
+across generations, reflecting adaptive mechanisms or selective pressures in response
+to cultivation practices and environmental shifts. This aligns with Govindaraju and
+Dancik’s (2021) findings, which highlight that stability indices in germination can differ
+significantly across developmental stages, stressing the importance of evaluating
+genetic stability over time to check for heritability levels over the seasons (Sales et al.,
+2013). The African eggplant is known to have a germination period of 5-9 or even more
+days from sowing (Lozano et al., 2022) which accounts for possibility in difference of
+rates of germination with a germination percentage range of 0%-25% (Botey et al., 2021)
+indicating variation in seed quality among varieties across seasons
+Synchrony, or the uniform timing and simultaneous germination among seeds (Botey et
+al., 2021), can impact plant establishment, competition, and resilience to
+environmental stresses. Across generations and over seasons, heritability is influenced
+
+
+
+by mendelian & non-mendelian genetics ( Achrem et al., 2023; Mittelsten Scheid, 2022;
+Strome et al., 2024)(Achrem et al., 2023; Mittelsten Scheid, 2022; Strome et al., 2024).
+However, levels of phenotypic expression vary with progression of generations due to
+effects of inbreeding depression and DNA methylation(Walter et al., 2023). To further
+contribute to the understanding of synchrony in the three cultivated species based on
+seed quality, this research will explore whether this trait remains consistent or adapts
+based on environmental and genetic influences, and the extent of this variation across
+seasons for the different varieties highlighting the potential implications for breeding,
+commercial bulking, and cultivation practices.
+As shown by Ghaleb et al. (2022), factors such as germinability and rate can vary within
+seed populations across generations, reflecting adaptive mechanisms or selective
+pressures in response to cultivation practices and environmental shifts and so the
+purpose of studying different seasons points out the stability for inheritance of
+desirable traits by the relative varieties over the seasons to identify heritability levels.
+Therefore, germination synchrony explains dormancy patterns and seed adaptation to
+the environment and it is relatively expressed over seasons due to heritable fitness
+traits that are relative to individuals and varieties (Walter et al., 2023)
+1.2 Statement of the problem
+Solanum aethiopicum Shum presents differences in seed germination days (Han et al.,
+2021) over a range of five (5) or more days that is 5-9 days from sowing and a
+germination percentage range 0-25% (Botey et al., 2022) which is wide enough to
+optimize varieties with highest germinability and synchrony over seasons. Within a
+seed’s potential, germination stability indices can differ across developmental stages
+(Govindaraju & Dancik, 2021). During germination, seed adaptations to germination
+conditions in the environment differ in occurrence of processes of imbibition, enzyme
+activation, elongation of the hypocotyl, and seed coat rupture. The difference in
+germination timing categorizes the Shum plant population into early and late
+germinators depending on the timing of seedling emergence. This, subsequently affects
+overall plant fitness, health and yield of the population basing on the stability levels of
+inheritance of different varieties across generations for plant breeding programs and
+
+
+
+bulking for commercial purposes aligning with Sustainable Development Goals 1 and 2
+(FAO, 2021)
+1.3 Objectives
+To assess Solanum aethiopicum Shum varieties most suitable for early germination and
+uniformity across generations
+1.3.1 Specific Objectives
+1. To investigate the germination rate of the three released varieties of Solanum
+aethiopicum Shum under optimum conditions across seasons (stability)
+2. To determine subsequent plant growth at different germination synchrony levels
+across the selected varieties
+1.4 Research hypotheses
+ There is a difference in levels of germination synchrony of the three released
+varieties of S.aethiopicum Shum across seasons
+ There is a difference in subsequent plant growth at different germination
+synchrony levels across the selected varieties
+1.5 Justification
+Across inbred generations over seasons, stability is obtained due to increased
+homozygosity from a reduced gene pool from inheritance of strong genetic components
+(Walter et al., 2023). This results into a consistency in the gene frequency thus genetic
+uniformity where constant alleles for desirable traits are identified, providing an insight
+into breeding practices through reliable data for seed viability and vigor, and bulking
+seed production systems for seed quality based on performance across seasons (Kebede
+et al., 2016). According to Gramazio et al., 2017, enhancing the seed system for scarlet
+eggplant aligns with the global efforts through the Sustainable Development Goals,
+(SDG) to develop climate- smart and resilient vegetable varieties. Through this study,
+researchers can determine the extent to which synchrony is maintained over planting
+seasons, suggesting a strong genetic relative for the three varieties. Uniformity in the
+seed bank also facilitates agronomic efficiency through its direct impact on planting
+density, plant competition, and overall crop yield facilitated by uniform growth and
+
+
+
+better nutrient uptake. Uniform crop establishment and maturity, makes cultivation
+less difficult for the local farmers in terms of management to obtain consistent, reliable
+crop production, and steady income generation (Bewley & Bradford, 1994).
+1.6 Significance
+With rising global concerns about climate variability, seed quality evaluation through
+germination synchrony is a selectively adaptive trait which stabilizes crop
+establishment under variable climatic conditions (Merrick et al., 2020). This is
+especially relevant to the Sub- Saharan countries with unpredictable rains and
+temperature shifts. By analyzing the traits in the different varieties for seed quality,
+genetic diversity within the species is evaluated, providing ground for future breeding
+efforts to strengthen nutrition and food security (Grubben and Denton, 2004).
+Evaluating seed quality traits of different Shum varieties especially germination
+synchrony, to be utilized by commercial producers for bulking reduces cases of
+replanting and excessive seed usage which contributes to resource efficiency and
+minimizes agricultural wastage thus aligning with sustainable agriculture goals that
+emphasize responsible use of inputs to protect environmental resources without
+compromising long- term productivity (Bradford et al., 2017). Identifying seed quality
+stability traits of Solanum aethiopicum Shum also holds importance in achieving uniform
+seedling emergence and establishment thereby enhancing agronomic efficiency by
+optimizing agricultural productivity and obtaining consistent yields especially in
+resource-constrained farming systems (Bradford et al., 2017).
+1.7 Conceptual frame work
+
+
+
+
+
+
+INDEPENDENT VARIABLE
+Shum variety (genotype) &
+season- method 1
+Germination timing, variety,
+season – Method 2
+DEPENDENT VARIABLE
+Germination- method 1
+Plant growth metric- Method 2
+Physiological processes
+(intervening/Mediating
+variable)
+conditions
+
+
+
+CHAPTER TWO
+2.0 Literature review
+2.1 Taxonomy of Solanum aethiopicum Shum
+Solanum aethiopicum is a leafy vegetable that evolved from the wild Solanum anguivi,
+with the taxonomic classification of kingdom Plantae, Phylum Tracheophyta, Class
+Magnoliopsida, Order Solanales, Family Solanaceae, Genus Solanum, and Species
+aethiopicum. Shum is one of the four sub- groups of S. aethiopicum alongside other
+groups of gilo, kumba, and aculetum (Jäger et al., 2023)
+2.2 Botany and agronomy of S. aethipicum Shum
+It is often grown as an annual crop, with its leaves being harvested for 2 or more
+seasons. However, it is a perennial plant with more or less woody and much branched
+stems. Its propagation is by seed, with germination taking averagely 5- 9 days (Botey
+et al., 2022) and transplanting of seedlings to the field is done 30- 35 days from the day
+of sowing when plants have attained a height of 15- 20cm with 5- 7 leaves. Seedlings
+grow at a fast rate and flowering starts at 40- 100 days from sowing and first flowers
+are concurrently initiated with branching and the production of younger leaves (Prakash
+& Sharma, 2017; Bragard et al., 2021).
+It can be cultivated in home gardens and grown commercially for sale in local markets.
+With a growing season of at least three months, the plant does best in areas with annual
+day time temperatures ranging between 20- 300C and a mean annual rainfall of
+1200mm- 1600mm but tolerant to lower amounts of 800mm. Moderately fertile, welldrained soils that are exposed to sunlight are best for the plant with PH range of 5.5- 7
+is best, while ensuring moderate nitrogen levels to optimize leaf yield. Where irrigation
+is involved, yield ranges between 12- 20t/ha with improved cultivars yielding 50- 80t/ha
+under favorable conditions. Shum cultivars under good management produce up to 75
+leaf bundles of 30kg each implying a yield potential of 225t/ha (Buteme et al., 2021).
+This enables for optimization of varieties with highest seed quality in terms of
+germination timing, percentage, and synchrony to achieve that yield potential.
+( Bragard et al., 2021)
+
+
+
+2.3 Challenges facing production of S.aethiopicum Shum
+Globally, production of Shum is faced with a challenge of heterogeneity of phenotypic
+responses, which explains the lack of stability, as it interferes with uniform plant
+response to water stress and it is one of the major challenges to Shum productivity
+(Tumuhimbise et al., 2022). This affects responses such as the reduction in leaf
+elongation and impacts stomatal closure, thereby reducing the nutrient value of
+stressed plants and lowering their market value (Gabriel, 2013; Kiwuka et al., 2020)
+Africa is experiencing climate variations where the normal dry and wet seasons are
+currently shifting to being wetter and hotter than before, posing challenges to plant
+resilience to water loss (Mubiru et al., 2018). This has created a gap that causes yield
+losses, hence prompting the need for optimization of well-performing Shum varieties
+with early, rapid, and synchronized germination to improve field management practices
+uniformly across all established plants (Bragard et al., 2021). Locally, in Uganda,
+farmers and gender-based preferences for Nakati varieties vary depending on the yield
+experienced in the major Nakati-growing districts, namely Mukono, Wakiso, and
+Luweero (Nakyewa et al., 2021) The identification of the variety with the highest
+synchrony has been shown to produce more yield compared to others, contributing to
+the livelihoods of an estimated 400,000 people in Uganda (Nakyewa et al.,
+2021;Nsubuga et al., 2014). Nonetheless, erratic germination behavior and poor
+seedling establishment are also common challenges faced by farmers, often due to
+reliance on saved and recycled seeds (Botey et al., 2019, 2021). These issues highlight
+the importance of understanding seed germination dynamics and developing varieties
+with desirable germination traits like synchronization.
+2.4 Importance of seed quality
+Seed quality, as a vital aspect of successful crop production, includes physiological
+aspects such as germination capacity, vigor, viability, and physical aspects of purity and
+health (ElMary et al., 2019; Turner et al., 2020). The seed quality assessment is vital
+for high yield potential as well as encouraging effective seed usage in agricultural
+systems (Dias et al., 2023). Additionally, seed health as part of seed quality is significant
+for vigor longevity, and its ability to minimize diseases that could arise during
+
+
+
+propagation (Saldanha et al., 2020) and various germination tests can be conducted
+alongside other technological advancements to evaluate seed quality so as to maintain
+seed integrity throughout the production and storage cycles (Rego et al., 2020;
+Sundareswaran et al., 2023)
+2.5 Germination behavior over seasons
+As germination stability ensures the predictability of germination traits across different
+planting cycles, it is influenced by genetic and environmental factors. Studies have
+revealed various key insights such as intra-varietal variability where research shows
+that S. aethiopicum exhibits genetic diversity affecting germination rates (Buteme et
+al., 2021). Differences in floral and phenological traits among varieties contribute to
+variability in seed vigor and synchrony.
+While there is a lack of specific research on the germination rate and stability of S.
+aethiopicum Shum varieties across generations, studies on related Solanum species
+provide valuable insights (Botey et al., 2021). Physiological dormancy, observed in
+Solanum melongena and Solanum torvum, can also contribute to low germination
+percentages (Botey et al., 2017) and this may be influenced by the maturity stage of
+the fruit at harvest and the extraction process (Botey et al., 2017). Genetic factors
+such as seed size and the rate and duration of seed filling, can impact the accumulation
+of food reserves within the seed, (Silva et al., 2015; Santos et al., 2020; Botey, 2022)
+which in turn, influences germination and initial seedling growth.
+2.6 Impact of germination timing on growth
+The timing of germination plays a pivotal role in determining early-stage plant vigor
+and overall development in factors like competition for resources to impact seedling
+survival and growth (Sales et al.,2013). Related studies reveal that early germinating
+seeds of Solanaceae, including S. melongena, outperformed late germination in plant
+fitness such as root and shoot development (Margenot et al., 2016; Verdu, M., Travest,
+A., 2005). Similar effects were observed in S. aethiopicum, where early germinators
+had higher biomass accumulation. Physiologically, early germination positively
+impacted nutrient absorption and stress resilience, especially under optimized
+
+
+
+fertilization regimes (Margenot et al., 2016). As per crop establishment, early and
+uniform germination ensured synchronized growth phases, reducing competition for
+resources (Buteme et al., 2021). While maintaining all environmental factors constant
+in a screen house, the study aims to evaluate germination characteristics across seasons
+for the three varieties so as to identify the variety with superior genetic strength of
+desirable traits of early and synchronous germination for positive impact on subsequent
+growth and potentially higher- yielding plants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE
+3.0 METHODOLOGY
+3.1 Methodology 1
+Evaluating germination rates in Solanum aethiopicum Shum
+3.1.1 Area of study
+The germination studies were conducted in the screen house at Uganda Christian
+University in Mukono district, located in the central part of Uganda approximately 27km
+East of Kampala. It lies at an altitude of 1158-1219m above sea level. The district
+receives two wet seasons with an annual rainfall ranging between 1100 and 1400mm.
+Temperatures experienced range between 210C and 290C with coordinates 00020’N
+32045’E. This experiment ran from January 2024 to March 2025 with day screen house
+temperatures ranging between 180C to 420C
+3.1.2 Study material
+Seeds for the three released varieties of Solanum aethiopicum Shum, 148 (E11), 137
+(E15) & 184 (E16) were used. These were obtained from the faculty of Agricultural
+Sciences seed bank, and seeds used were selfed- seeds (hybrids). Variety E11 is
+characterized with green stems, green leaves and leaf veins with generally whole leaf
+margins, variety E15 has green- purple stems, green leaf veins, and moderately serrated
+leaf margins, and E16 is purple stemmed, has green leaves with purple-green leaf veins,
+and has serrated leaf margins
+3.1.3 Experimental Design
+Using Complete Randomized Design, (CRD), 100 seeds for each variety were planted in
+planting trays with 3 replicates for each variety for the germination study (Steel &
+Torrie, 1980), ensuring sufficient sample size for statistical analysis(Ranal & De Santana,
+2006). Each replicate was tagged and labeled with information about the variety, date
+of planting, and replicate number. The substrate used was steam-sterilized soil mixed
+with well-decomposed poultry manure in a ratio of 3:1 for the S. aethiopicum Shum
+seeds. The experiment was conducted in a healing chamber with controlled
+
+
+
+temperature and light conditions with average 20-45% humidity and 20-490C
+temperature as per guidelines for germination studies (Analysts & Seed, 2014)
+3.1.4 Data collection
+Visual observation for emergence of seedlings above the soil that is, the plumule or
+hypocotyl was considered to record for germination. Germination was monitored at an
+interval of every 24 hours (daily) and the number of germinated seeds at each
+observation time in the seed bed was recorded in a physical data sheet and later
+entered into Microsoft excel for accuracy (Finch-savage & Leubner-metzger, 2006).
+The independent variables were the Shum varieties (148, 137, & 184) and the season
+while the dependent variables were the germination characteristics in terms of speed
+and overall number of germinated seeds among the total number sown. The control
+variables were the germination conditions as temperature, moisture, and light, and the
+mediating variables were the germination physiological processes as imbibition,
+activation of hormones, and elongation of the hypocotyl coupled with seed coat rupture
+(Bewley et al 2013)
+3.1.5 Data Analysis
+The germination rate was calculated in terms of final germination percentage,
+germination velocity index, GVI and mean germination time, GMT for each variety and
+season. This followed established formulae for germination assessment (Scott et al.,
+1984)
+Germination percentage=
+No.of germinated seeds
+Total number of seeds planted× 100
+Germination Mean Time, GMT=
+Σ(n×d)
+N
+, where n- number of seeds that germinated on
+each day, d- number of days from the start of the experiment, and N- the total number
+of seeds that germinated by the end of the experiment
+Germination velocity index, GVI= Σ
+N1
+D1 +
+N2
+D2 ... ... +
+Nn
+Dn
+Germination synchrony was calculated using the coefficient of uniformity of
+germination (CUG) (Primack, 1980).
+
+
+
+CUG=
+∑
+Ni
+k
+i=1
+∑
+(T−TI)2 Ni
+k
+i=1
+, Where T is the mean germination time, Ti is the time from the start
+of the experiment to the ith interval, Ni is the number of seeds germinated in the ith
+time interval (not accumulated), and k is the total number of time intervals. Statistical
+analysis was conducted using Analysis of Variance, ANOVA, t-tests to compare
+germination rates and synchrony among varieties and generations (Gomez & Wiley,
+1984). ANOVA tests were conducted to analyze the data so as to determine if there
+were significant differences in germination rates among the African eggplant varieties
+and generations.
+3.2 Methodology 2
+Comparing effects of germination synchrony on crop growth in Solanum aethiopicum
+Shum
+I am sure there are preliminary steps before this write them. Also note that any thing
+below five lines do not qualify for a paragraph. You need to be more logical in your
+writing here and avoid repetitions. What did you do first, want followed etc..
+3.2.1 Layout
+Loam soil was mixed with well decomposed poultry manure in a ratio of 3:1 and
+sterilized using steam, as the substrate. Well steam sterilized soil was then packed in
+polypots weighing 10kg per pot using a weighing scale and the pots were arranged in
+the screenhouse using a block design of 15 pots per block with three replicates. After a
+week of allowing the soil to cool and watering in preparation for planting, 15 seedlings
+for each variety were transplanted into well tagged pots. Tags carried information about
+the variety, replicate, and date of transplanting. Spacing within sub plots was 45cm by
+15cm for 15 plants per plot, and 45cm between plots of replicates. Agronomic practices
+such as regular watering, weeding, fertilizer application, and pest and disease control
+were carried out, while controlled light, humidity, and temperature conditions were
+monitored in the screen house (AOSA, 1993)
+
+
+
+
+3.2.2 Layout
+N1- 148
+Space
+blocks 45cm
+Space
+
+
+
+
+
+
+15 plants
+15 plants
+
+
+
+
+@3×5 pots
+
+
+
+
+
+45×15cm
+spacing
+
+
+
+
+
+N2- 137
+Space
+blocks 45cm
+Space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N3- 184
+Space
+blocks 45cm
+Space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1- Variety 148
+2- Variety 137
+3- Variety 184
+4- Control variety
+
+
+
+
+
+3.2.3 Data collection
+From fifteen (15) seedlings transplanted, ten (10) plants were randomly selected for
+data collection on the growth parameters, ensuring unbiased sampling (Steel & Torries,
+1980). Selected 10 plants were tagged using threads of different colors and data was
+collected once every week on 10 plants using materials such as rulers, Vanier calipers,
+pencils and hard copy data sheets. Data was collected on parameters such as plant
+height, plant canopy, stem girth, number of leaves, leaf length, and leaf width as
+standard indicators of plant growth and health (Ranal & De Santana, 2006)
+The independent variables were germination synchrony levels, Shum varieties (148, 138
+& 184), and the seasons (1 & 2). The dependent variables were the subsequent plant
+growth metrics as plant height, plant canopy, stem girth, number of leaves, leaf length,
+leaf width, biomass analysis of fresh weight and dry weight. The control variables were
+the germination conditions as temperature, moisture, and light, and the mediating
+variables were the germination physiological processes as imbibition, activation of
+hormones, and hypocotyl elongation coupled with seed coat rupture (Bewley et Al 2013)
+3.2.4 Data analysis
+Statistical data analysis was by conducting ANOVA and t-tests to compare growth
+parameters between levels of germination synchrony of each variety and season, as
+appropriate tools for examining variance and significance in plant studies (Gomez &
+Wiley, 1984). Analyzed data was used to determine if germination synchrony provided
+a significant advantage for subsequent growth in S. aethiopicum and the implications
+of the findings were discussed for plant breeders, commercial producers, and farmers,
+emphasizing the importance of selecting varieties with high germination synchrony and
+early germination rates.
+
+
+
+
+
+
+
+CHAPTER 4
+This chapter comprises of results of the study and their interpretation for germination
+tests and the subsequent plant growth influenced by germination synchrony. Four
+parameters were examined for germination performance for three varieties (E11, E15,
+AND E16) across 2 seasons. Data analysis conducted presented differences in interaction
+between seasons and varieties for each germination test and six parameters were
+assessed for subsequent plant growth.
+4.1 Germination percentage
+The proportion of seeds that successfully germinate under favorable conditions, usually
+expressed in percentage is the germination percentage. The data in the table shows
+germination percentages for the three varieties, E11, E15, and E16 tested in two
+different seasons, 1 and 2 with their Least Significant Difference, LSD groups that is,
+“a”, “b”, and “c” to illustrate the significant difference between groups. Germination
+percentage groups with similar LSD groups show no significant difference while
+differences in LSD groups indicate significant differences in the germination
+percentage. Season and genotype both demonstrated significant effects with no
+significant interaction between them at p<0.05. Variety E11 consistently showed higher
+germination percentage across both seasons with a higher increase in season 2 (87.7%).
+Varieties E11 and E15 performed with more moderate germination percentages, with
+E15 performing better in season 2 and both showing lowest values in season 1.
+Table 1: germination percentage for seasons across varieties
+season variety Mean Germination Percentage
+E11
+87.67 ± 2.082a
+E11
+82.33 ± 2.082b
+E15
+81.00 ± 1.000b
+E16
+77.67 ± 1.528c
+E15
+76.67 ± 0.577c
+E16
+76.00 ± 2.646c
+Variety×Season p-value 0.2287
+
+
+
+
+
+df
+P-value
+64.22
+64.22
+19.931
+0.001
+217.44
+108.72
+33.741
+1.18e- 10
+Season: genotype
+10.78
+5.39
+1.672
+0.2287
+38.67
+3.22
+
+
+
+4.2 Mean germination time
+The average time, usually in days, taken for seeds to germinate is the mean germination
+time. Lower mean germination time values reflect faster speed and uniformity of
+germination as opposed to higher values of mean germination time. Faster germination
+is desirable in subsequent crop establishment and growth. There was no significant
+difference in interaction between season and genotype for Mean Germination Time.
+Variety E11 in season 1 had the longest germination time (8.41 days), indicating slowest
+germination. However, Variety E15 had consistently fast germination across both
+seasons (7.34- 7.36 days), indicating greater stability in germination traits across
+seasons
+Table 2: Mean Germination Time for seasons across varieties
+Season Variety Mean Germination Time
+E11
+8.410000 ± 0.01a
+E11
+7.830000 ± 0.04b
+E16
+7.520000 ± 0.01c
+E16
+7.400000 ± 0.12cd
+E15
+7.360000 ± 0.09d
+E15
+7.343333 ± 0.08dd
+
+df
+
+
+
+0.234
+0.234
+46.49
+1.85e-05
+2.075
+1.038
+206.62
+5.05e-10
+Season: Variety
+0.293
+0.147
+29.18
+2.46e-05
+Residuals
+0.060
+0.005
+
+
+
+
+Figure 1: Mean Germination Time by Genotype and Season
+4.3 Germination velocity index
+Germination velocity index, GVI measures how quickly and vigorously seeds germinate
+over time where higher GVI values indicate a faster and more uniform germination
+providing a useful insight of seed vigor and quality to select high performing varieties
+across seasons over less performing varieties for farming and breeding purposes of
+superior traits. There was significant difference in interaction between season and
+variety at p<0.05 with p-value for the variety×Season of 0.0046. Variety E11
+demonstrated differences between seasons with a low velocity in season 1 and high
+velocity in season 2. E15 had a consistently high germination velocity index in both
+seasons, indicating a more stable germination performance across seasons
+Table 3: Germination Velocity Index for seasons across varieties
+
+
+
+Germination Velocity index
+E11
+11.73000 ± 0.255a
+E15
+11.71333 ± 0.255a
+E15
+11.34333 ± 0.191ab
+E16
+11.09667 ± 0.133b
+E16
+10.91000 ± 0.44b
+E11
+10.37333 ± 0.249c
+
+df
+Sum sq Mean sq
+1.831
+1.831
+26.798
+1.010
+0.505
+7.396
+0.0080
+Season: variety 2
+1.188
+0.594
+8.696
+0.0046
+0.819
+0.0083
+
+
+
+
+Figure 2: Germination Velocity Index by genotype and Season
+4.4 Germination synchrony
+The simultaneous germination or the degree to which seeds in a lot germinate at the
+same time reflecting uniformity, is referred to as germination synchrony derived from
+
+
+
+the calculation for coefficient of germination. Higher synchrony values mean that more
+seeds in the lot germinate more uniformly, which is often preferred for even seedling
+growth while lower synchrony values translate scattered and irregular germination
+timing. Germination synchrony values range from 0 to 1, with 1 illustrating perfect
+synchrony of all seeds germinating together. There was a significant difference in
+interaction between variety and season. Season 2 had higher synchrony values across
+all varieties, illustrating more uniform germination. E15 in season 2 achieved the
+highest synchrony (0.177), while all varieties in season 1 showed lower synchrony
+values. At p-value of 0.0635, there was a significant interaction between season and
+variety to the effect of germination synchrony level
+Table 4: Germination Synchrony for seasons across varieties
+Season Variety Germination synchrony
+E15
+0.1766667 ± 0.003a
+E16
+0.1700000 ± 0.05ab
+E11
+0.1600000 ± 0.00b
+E15
+0.1433333 ± 0.003c
+E11
+0.1400000 ± 0.00c
+E16
+0.1333333 ± 0.003c
+Variety×Season p-value 0.0635
+
+df
+0.0041
+0.0041
+121.500
+1.34e-07
+0.0003
+5.167
+0.0241
+Season: variety
+0.0001
+3.500
+0.0635
+Residuals
+0.0004
+0.00003
+
+
+
+
+
+
+
+
+Figure 3: Germination Synchrony by Genotype and Season
+
+OBJECTIVE 2
+4.5 Plant growth performance by variety and germination synchrony level
+The length at which a plant grows, usually measured in centimeters can be influenced
+by its genotype that is, variety and its early- stage vigor following the level of uniform
+germination. Taller plants indicate better seedling vigor and growth which offer
+competitive advantage in the crop population. The data in the table and graph present
+the relationships between the Shum varieties E11, E15, and E16 and germination
+synchrony levels with the effect on plant height, and a graphical representation to
+visualize plant height by variety and germination. Plant canopy refers to the above
+ground spread of the plant by measuring the diameter. Larger canopies indicate better
+vegetative growth with more leaf area thus a higher photosynthetic capacity beneficial
+for growth performance. Canopy development can be influenced by the variety (genetic
+potential) and germination vigor and uniformity which influence early growth. Variety
+E11 was observed to have the widest canopy at synchrony of 0.14 followed by E15 at
+synchrony of 0.15. E16 with the highest synchrony of 0.15 had the smallest canopy
+
+
+
+suggesting that while synchrony is beneficial, other factors such as genetics contribute
+to canopy development as moderate synchrony levels had optimal canopy formation
+The thickness of a plant’s main stem is the stem girth serving as an indicator of
+structural strength, nutrient transport capacity of the plant, and overall plant
+robustness. Thicker stems can support better plant performance by nutrient flow and
+withstanding environmental stresses as compared to thinner plant stems. Variety E15
+produced the thickest stems at synchrony level of 0.14 suggesting better vegetative
+growth with significance difference. E16 demonstrated thinner stems under low
+synchrony levels, compromising stability levels while E11 produced plants with thin
+stems under 0.14 germination synchrony. The number of leaves of a plant indicates the
+vegetative growth of the plant. A larger number of leaves generally indicates higher
+photosynthetic capacity supporting better plant growth performance as compared to
+plants with fewer leaves. Germination synchrony affects leaf development through
+early seedlings and the genetic potential of the plant. Variety E15 produced the highest
+number of leaves followed closely by E16 and E11 had the lowest leaf count despite
+leading in plant height and canopy size
+Leaf length is the measurement from the base of the leaf at attachment with the petiole
+to the tip of the leaf. It reflects a plant’s growth and elongation capacity which presents
+the photosynthetic capacity for better energy production and growth. Germination
+synchrony affects leaf elongation alongside the genetics of the plant varieties. The
+measurement across the broadest part of the leaf is the leaf width and it presents a
+surface for photosynthetic activity of the plant. Broader leaves capture more sunlight
+implying higher photosynthesis rates for biomass production and growth. Unlike on
+mature leaves, germination synchrony may affect early leaf development though the
+effects of leaf width may be variety-dependent. For the result on leaf dimensions,
+variety E11 produced the longest and widest leaves, providing strong photosynthetic
+potential under moderate synchrony conditions of 0.14. Both E15 and E16 had shorter
+and narrower leaves at high and low synchrony of 0.13 and 0.15.
+
+
+
+The petiole length is the measurement of the stalk that attaches the leaf blade to the
+plant stem before branching at the seedling stage. It influences the positioning of the
+leaf to capture light for photosynthetic efficiency and airflow around the leaves for
+respiration. Aside from how uniformly seeds germinate, germination synchrony may
+indirectly affect petiole growth through its effect on early seedling development. No
+significant differences were observed in the petiole length across all varieties,
+suggesting that germination synchrony has minimal impact on this trait.
+Table 5: Plant growth parameters by germination synchrony and variety
+Variety Synchrony Plant
+height
+Plant
+canopy
+Stem
+girth
+Number
+of leaves
+Leaf
+length
+Leaf
+width
+Petiole
+length
+E11
+0.14
+13.19a
+30.19a
+5.84a 19.78a
+13. 56a 11.11a 3.92a
+E15
+0.15
+10.59b
+28.78 a 5.10b 18.70a
+11.74b
+9.97ab
+3.77a
+E15
+0.14
+10.24b
+28.42ab 5.00b 18.30a
+11.71b
+9.75b
+3.49a
+E16
+0.13
+8.93b
+28.35ab 4.73b 17.95a
+11.70b
+9.65b
+3.43a
+E16
+0.14
+8.76 b
+24.99b
+4.43b 14.02b
+10.91b
+9.06b
+3.39a
+
+
+df
+Plant height
+578.0
+19.847
+6.75e-09
+
+2.1
+0.071
+0.932
+
+10338
+29.1
+
+
+Plant canopy
+262.35
+3.021
+0.050
+
+151.88
+1.749
+0.175
+
+30829
+86.84
+
+
+Stem girth
+12.7
+6.358
+1.267
+0.283
+
+55.2
+27.610
+5.502
+0.004
+
+1781.4
+5.018
+
+
+
+
+
+number of leaves
+931.3
+10.184
+5e-05
+
+46.5
+0.509
+0.602
+
+32465
+91.5
+
+
+Leaf length
+159.53
+7.916
+0.0004
+
+8.69
+0.431
+0.6501
+
+20.15
+
+
+Leaf width
+90.29
+6.345
+0.002
+
+5.23
+0.367
+0.693
+
+14.23
+
+
+Petiole length
+12.4
+6.178
+1.747
+0.176
+
+3.9
+1.940
+0.549
+0.578
+
+1255.3
+3.536
+
+
+
+
+
+Figure 4: Plant height by Variety and Germination synchrony
+
+
+
+
+
+
+Figure 5: Plant canopy by Variety and Germination Synchrony
+
+
+Figure 6: Stem girth by Variety and Germination synchrony
+
+
+
+
+
+
+Figure 7: Number of leaves by Variety and Germination synchrony
+
+
+Figure 8: Leaf length by Variety and Germination synchrony
+
+
+
+
+
+
+Figure 9: Leaf width by Variety and Germination synchrony
+
+
+
+Figure 10: Petiole length by Variety and Germination synchrony
+
+
+
+
+
+CHAPTER 5
+This chapter presents the discussions for the interpreted data from chapter 4 in relation
+to other studies on seed quality, its effect on germination traits, and plant growth
+performance. The discussions compare and contrast the results firstly with the aim of
+identifying Solanum aethiopicum Shum varieties with stronger germination traits across
+seasons and secondly to identify desirable traits of growth performance in relation to
+early and uniform germination that is, germination synchrony
+5.1 Discussion for objective 1
+Evaluation germination rates for the three released varieties of S.aethiopicum Shum
+The results from the interpretation reveal that both season and genotype had significant
+influence on germination characteristics that is germination percentage, mean
+germination time (GMT), germination velocity index (GVI), and germination synchrony.
+The season had high significant effect on all four germination characteristics indicating
+how they strongly impact germination performance. The variety affected germination
+performance implying that genetic differences among the genotypes contributed to
+variations in germination performance. However, there was significant impact on the
+interaction between season and genotype slightly for germination synchrony, strongly
+suggesting that the effect of season on germination traits varied depending on the
+variety. In germination percentage, the study significant variation was identified among
+the varieties, with E11 demonstrating higher germination performance in season 2,
+indicating its potential as favorable variety across multiple growing seasons. This result
+agrees with findings that highlight genetic variability as a factor in germination
+efficiency, where certain varieties outperform others in specific environmental
+conditions (Adebisi et al., 2013; Jahan et al., 2018). The interaction between season
+and genotype for germination percentage suggests that while both factors are critical
+for successful germination, they operate independently in influencing germination
+percentage relating with studies supporting independent contributions of variety and
+season to germination outcomes (Khodarahmpour, 2011; Lamichhane et al., 2021).
+
+
+
+Results from mean germination time demonstrated significant variation influenced by
+both season and genotype, with the interaction effects suggesting that some genotypes
+particularly respond to changes over seasons. The shortest germination times recorded
+for variety E15 in season 1 and E15 in season 2 indicate a strong relationship between
+genetics and environmental adaptability, resonating with findings that agrees certain
+varieties exhibit greater plasticity in response to environmental factors (Sheng et al.,
+2021). This study’s finding suggests that breeding programs might benefit from focusing
+on varieties with genotypes that adapt well to environmental variations other than high
+germination performance
+Germination velocity index results support the interaction between genetic potential
+and environmental influence, as highest GVI values in varieties E11 for season 2 and E15
+season 2 display their capability for rapid establishment under optimal growth
+conditions. Studies by Shezi & Adjetey, 2020 correlate GVI with overall plant vigor and
+successful crop establishment and so, the significant interaction between season and
+genotype observed in the study emphasizes the importance of selecting high GVI
+varieties while also emphasizing how these varieties respond to varying seasonal
+changes. Germination synchrony was significantly affected by both season (p>0.001)
+and variety (p=0.0241) although the minimal significance of the interaction (p=0.0635)
+indicates that while synchrony generally varies with seasons, response to environmental
+pressures might vary with varieties. This aligns with findings of Shu et al., 2017; Souza
+et al., 2013 which emphasizes the importance of synchrony for agriculture pointing out
+uniform germination that can lead to better crop management and yield frequency
+5.2 Discussion for objective 2
+Comparing effects of germination synchrony on crop growth in S. aethiopicum Shum
+From the data analyzed, plant growth metrics are related to variety and germination
+synchrony influencing parameters and the study reveals that variety had a predominant
+effect on growth characteristics while germination synchrony had minimal influence.
+This finding matches with the general understanding that genetic variability as in the
+
+
+
+different Shum varieties offers a more significant impact on plant growth than timing
+and uniformity of germination.
+At a significant effect of variety on plant height, (p<0.005), the result aligns with
+research that emphasizes the role of genetic factors in determining growth traits. Zhao
+et al argue out that leaf and plant morphology may be closely linked to genetic
+predispositions and so they often express variability depending on genetic background
+(Zhao et al., 2018). In this case, the superior height observed in variety E11 as compared
+to E15 and E16 illustrates how specific genetic traits can lead to enhanced growth
+performance. For plant canopy growth, E11 and E16 produced superior canopy size
+significantly different from E11 (p=0.50). This result supports the assertions made by
+Diouf et al., who confirmed significant variability among varieties concerning
+vegetative traits including plant canopy (Diouf et al., 2017)
+With stem grith, germination synchrony had a significantly different relation at p=0.004.
+This observation suggests that synchronized germination positively affects stem
+robustness, essential for structural support for the plant and as well contrasts with the
+study which emphasized that plant morphological traits maybe moderated against
+environment variability (Rixen et al., 2022). This illustrates the interactions between
+environmental timing and genetic expression of traits. Leaf morphological traits that is
+number, length, and width showed a significance (p<0.005). The highest leaf count in
+E15, E16, and E11 respectively confirm that genetic factors greatly govern leaf
+attributes ( Farooq et al. 2010) and the role of leaf dimensions in shaping plant success
+is widely supported to correlate leaf traits and overall growth efficiency ( Falster et
+al., 2018; Chen et al., 2021)
+Petiole traits that is length and color, presented lack of significance influence neither
+by variety nor germination synchrony at p=0.176 and p=0.5778. this result suggests
+inherent stability in these traits under varying conditions, aligning with interpretations
+from Macklin et al., 2022 regarding consistency of leaf trait (Macklin et al., 2022)
+Meanwhile, the significant difference observed in petiole color at p<0.005 proves that
+
+
+
+certain traits remain strongly influenced by genetic factors other than germination
+timing
+
+CHAPTER 6
+6.0 CONCLUSIONS
+This study investigated the germination rate of the three released varieties of Solanum
+aethiopicum Shum under optimum conditions across seasons (stability) and was guided
+by the hypothesis that there was difference in levels of germination synchrony of the
+three released varieties of S.aethiopicum Shum across seasons. Thereby at p> 0.005,
+with p-value 0.0635, the study confirmed significant difference in germination
+synchrony among all varieties across seasons, resulting into failure to reject hypothesis
+1 where the findings of the research show that E11 was the most stable variety across
+both seasons with high germination percentages, short germination times, and strong
+germination velocity. E15 produced a slight variability with slightly lower stability across
+both seasons and E16 demonstrated the highest variation across both seasons,
+suggesting lowest adaptability and stability
+To determine subsequent plant growth at different germination synchrony levels across
+the selected varieties, the objective was hypothesized that there was difference in the
+effects of germination synchrony on subsequent growth across the selected varieties.
+Moreover, the study also confirmed significant differences in subsequent growth
+parameters at the various germination synchrony levels across the selected varieties
+thus failure to reject hypothesis 2. This is illustrated by the results which indicated that
+germination synchrony subsequently affects plant establishment but plant growth is
+more influenced by germination velocity index other than uniformity of germination
+6.1 Recommendations
+Further research by plant breeders to identify superior traits of stability levels in variety
+E11 as it exhibited better germination and growth performance over the seasons, to
+improve the genetic potential of other varieties. Additionally, optimization of
+cultivation of varieties E11 and E15 by farmers for stable yields over seasons
+
+
+
+
+
+
+APPENDIX
+Table 6: work plan and time frame
+WORK PLAN/ TIME FRAME
+BUDGET
+Activity
+Month
+Month 2 Month 3 Month 4 Month 5 AMOUNT
+(UGX)
+Concept
+development
+
+
+
+
+
+
+Proposal writing
+
+
+
+
+
+
+Proposal defense
+
+
+
+
+
+
+Experiment set up &
+maintenance
+
+
+
+
+
+449,000
+Data collection
+
+
+
+
+
+
+Data analysis
+
+
+
+
+
+
+Proposal, data sheet,
+&
+Dissertation
+printing
+
+
+
+
+
+100,000
+TOTAL
+549,000
+
+
+
+
+
+
+Figure 11: Objective 1 data sheet
+
+Figure 12: Objective 2 data sheet
+
+
+
+
+Figure 13: Mixing loam soil with poultry manure in the ratio of 2:1
+
+Figure 14: steam sterilizing of mixed soil
+
+
+
+
+
+
+
+
+Figure 15: watering plants in the screen house
+
+
+Figure 16: data collection

@@ -1,0 +1,219 @@
+There is a potential of using sweet potato as suitable substrate for trapping, culturing
+and multiplying IMOs for improved crop and livestock production. However, there are
+limited studies on optimal concentration of sweet potato substrates for IMO growth and
+multiplication. This study focused on optimizing sweet potato as a substrate for
+indigenous microorganisms (IMO) growth. A randomized complete design (RCD) with
+three replicates was employed to test the five- sweet potato substrate concentration
+(20%, 40%, 60%, 80%, 100%). Data was collected on shape, color, texture, colony
+forming units (CFU) and colony size of bacteria and fungi in different concentrations of
+sweet potato substrates. This study showed that there was a significance differences
+(P-Value <.001) on CFU and colony sizes. Rice substrate concentration of 100%
+showed highest (7266667d) CFU of bacteria, while 100% concentration of sweet
+potato showed the lowest (4333333a). The largest colony size (3.333d) shown in 100%
+of rice whereas 100% concentration of sweet potato had the smallest size
+(1.167±0.0000a ) and all concentrations had only Gram positive bacteria. Sweet
+potato concentration of 60% had the highest number (6677778c) of CFU while 100%
+concentration of sweet potato showed the number (4100000a) Largest colony size
+(10.667c) of fungi was shown in 100% concentration of sweet potato whereas 100%
+of rice showed the lowest size (4.000a). This implies that the concentration having
+20% sweet potato substrate supports good bacterial growth and 60% of sweet potato
+substrate supports fungal growth. Using sweet potato substrate as a supplement to rice
+can be used for growth and multiplication Indigenous micro-organisms for improved
+animal and crop production.
+
+ii
+
+DEDICATION
+I dedicate this work to my parents Mr. Owor Anthony and Mrs. Peres Owor, whose
+unwavering support, sacrifice and encouragement have been my foundation. Your
+influence is deeply appreciated.
+
+iii
+
+DECLARATION
+
+iv
+
+APPROVAL
+
+v
+
+ACKNOWLEDGEMENT
+I sincerely thank Almighty God for the grace, wisdom and knowledge to complete this
+research and my bachelors’ degree.
+My deepest gratitude goes to my supervisor, Madam Winnie Namutosi, for her
+invaluable guidance.
+I also appreciate my lectures, family, and friend for their unwavering support and
+encouragements given to me.
+Appreciation goes to Madam Linet, for guidance, providing necessary resources during
+my study.
+God bless you abundantly!
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ...................................................................................................................................................... i
+DEDICATION ................................................................................................................................................. ii
+DECLARATION ............................................................................................................................................. iii
+APPROVAL ................................................................................................................................................... iv
+ACKNOWLEDGEMENT .................................................................................................................................. v
+LIST OF TABLES ........................................................................................................................................ viii
+LIST OF FIGURES ........................................................................................................................................ ix
+ACRONOMES ................................................................................................................................................. x
+CHAPTER ONE .............................................................................................................................................. 1
+1.0 INTRODUCTION ................................................................................................................................. 1
+1.1 BACKGROUND ................................................................................................................................... 1
+1.2 PROBLEM STATEMENT ..................................................................................................................... 2
+1.3 OBJECTIVES ....................................................................................................................................... 3
+1.4 HYPOTHESIS ...................................................................................................................................... 3
+1.5 JUSTIFICATION .................................................................................................................................. 4
+1.6 SIGNIFICANCE .................................................................................................................................... 4
+1.7 CONCEPTUAL FRAMEWORK ............................................................................................................. 5
+1.8 SCOPE OF THE STUDY ...................................................................................................................... 7
+CHAPTER TWO ............................................................................................................................................. 8
+2.0 LITERATURE REVIEW ........................................................................................................................ 8
+2.1 Importance of Indigenous microorganisms .................................................................................. 8
+2.2 Application of Indigenous microorganisms .................................................................................. 9
+2.3 Substrates used for production of Indigenous microorganisms ............................................. 10
+2.4 Characterization of Indigenous microorganisms ...................................................................... 10
+2.5 Optimization of Indigenous microorganisms ............................................................................. 11
+CHAPTER THREE ........................................................................................................................................ 12
+3.0 MATERIALS AND METHODS ............................................................................................................ 12
+3.1 Study location................................................................................................................................. 12
+3.2 Collection of microbes from the field ........................................................................................ 12
+3.3 Experimental design ...................................................................................................................... 12
+
+vii
+
+3.4 Preparation of Sweet potato Substrate ..................................................................................... 13
+3.5 Media preparation ......................................................................................................................... 14
+CHAPTER FOUR .......................................................................................................................................... 18
+4.0 RESULTS ........................................................................................................................................... 18
+CHAPTER FIVE ............................................................................................................................................ 26
+5.0 DISCUSION ....................................................................................................................................... 26
+5.1 Morphological characteristics of microbial isolates ................................................................ 26
+5.2 Gram’s stain ................................................................................................................................... 26
+5.4 Growth and performance of the organisms .............................................................................. 27
+5.3 Colony size of bacteria ................................................................................................................. 28
+5.5 Colony forming unit of fungi ........................................................................................................ 29
+CHAPTER SIX .............................................................................................................................................. 32
+CONCLUSION AND RECOMMENDATIONS ............................................................................................. 32
+6.1 Conclusion ....................................................................................................................................... 32
+6.2 Recommendations ......................................................................................................................... 33
+REFERENCE ................................................................................................................................................. 34
+APPENDICES ............................................................................................................................................... 42
+
+viii
+
+LIST OF TABLES
+
+Table 1. Treatments ................................................................................................................................ 13
+Table 2. Mean and SD of Colony Forming Unit and Colony Size of bacteria .................................. 22
+Table 3.Colony Forming Unit and Colony Size for fungi .................................................................... 23
+
+ix
+
+LIST OF FIGURES
+Figure 1: Conceptual framework ............................................................................................................. 6
+Figure 2: Frequency of bacteria cultural characteristic ................................................................... 19
+Figure 3. Frequency of fungi cultural characteristic ......................................................................... 19
+Figure 4. Streptococcus peneumoniae .................................................................................................. 19
+Figure 5. Staphylococcus aureus ............................................................................................................ 19
+Figure 6. Bacillus ...................................................................................................................................... 20
+Figure 7. Mucor ......................................................................................................................................... 20
+Figure 8. Penicillium ................................................................................................................................ 20
+Figure 9. Aspergillus ................................................................................................................................. 20
+Figure 10. Bacteria colony forming unit ............................................................................................... 23
+Figure 11. Bacteria colony size .............................................................................................................. 24
+Figure 12. Fungi colony forming unit .................................................................................................... 24
+Figure 13. Fungi colony size ................................................................................................................... 25
+Figure 14. Work plan ................................................................................................................................ 42
+Figure 15. collected IMO ............................................................................................................................. 43
+Figure 16 Picking substrates with IMOs ...................................................................................................... 43
+Figure 17. burrying the substrate ................................................................................................................ 43
+Figure 18. burrying substrates..................................................................................................................... 43
+Figure 19. Mixing substrates ....................................................................................................................... 43
+Figure 20Media preparation ....................................................................................................................... 44
+Figure 21. Bacteria colonies ........................................................................................................................ 44
+Figure 22. Plating ......................................................................................................................................... 44
+Figure 23. Measuring colony size ................................................................................................................ 44
+Figure 24. Serial dilution .............................................................................................................................. 44
+Figure 25Gram staining ............................................................................................................................... 44
+Figure 26. Viewing cells ............................................................................................................................... 44
+
+x
+
+ACRONOMES
+IMO: Indigenous microorganisms
+E.coli: Escherichia coli
+CFU: Colony Forming Unit
+MAAIF: Ministry of Agriculture, Animal Industry and Fisheries
+UBOS: Uganda Bureau of Statistics
+RCD: A randomized complete design
+
+CHAPTER ONE
+1.0 INTRODUCTION
+1.1 BACKGROUND
+Indigenous microorganisms (IMO) are naturally occurring microbial communities found
+in local environments, such as soil, water and plant surfaces. These microorganisms
+include bacteria, fungi, actinomycetes and yeasts which play very important role in
+nutrient cycling, organic matter decomposition and plant growth promotion (Smith et
+al., 2019; Bayu, 2024; Teruo Higa, 1994). In sustainable agriculture, IMO is also
+increasingly utilized as bio-fertilizer, bio-control agent and soil conditioner due to
+their ability to enhance soil fertility, suppress pathogens and improve crop resilience
+(Abu-Bakar & Ibrahim, 2013; Adal, 2024; Carandang, 2003; Kumar & Gopal, 2015).
+A key factor in cultivating IMO’s is the choice of substrate which serves a nutrient
+source for microbial proliferation (Kumar & Gopal, 2015). Common substrates include
+rice, rice bran, and wheat bran, which provide carbohydrate, proteins and minerals
+necessary for microbial growth (Kumar & Gopal, 2015; Khan et al., 2019). However,
+there is a growing need to explore alternative, cost effective and locally available
+substrates to improve accessibility and efficiency of IMO-based farming practices
+(Kumar et al., 2015; Smith et al., 2019).
+In 2019, production of rice on global scale, about 756 million metric tons over about
+164 million hectare, hence contributing to its third position among agricultural
+production after sugarcane and maize. In Africa, rice production was predicted to be
+around 37.9 million metric tons from about 17.2 million hectares (FAO, 2021).
+
+Uganda is the is third in rice production and experience deficit in rice production
+which necessities reliance on imports (FAO, 2021). According to FAO (2023), Uganda
+spends about $60 million annually on rice imports. Sweet potatoes (Ipomoea batatas)
+is therefore a promising candidate due to its high carbohydrate content (starch,
+sucrose, glucose and fructose), rich nutrient profile and widespread availability in
+tropical and subtropical region (Woolfe, 1992). This makes sweet potatoes a suitable
+carbohydrate
+source
+for
+trapping,
+culturing,
+and
+multiplying
+indigenous
+microorganisms. Traditional substrates like rice and wheat brand have been widely
+studied yet there is a growing imperative to explore alternative substrates that are
+both eco-friendly and locally available (Navarro et al., 2020; Zhao et al., 2022).
+This study focused on optimizing sweet potatoes as a substrate for indigenous
+microorganisms (IMO) growth.
+1.2 PROBLEM STATEMENT
+Fouls smell in pig sty is one of the major problems in animal production (
+Ndyomugyenyi et al., 2020). Indigenous Micro-organisms is increasingly being
+utilized as bio fertilizer, bio-control agent and soil conditioner due to their ability to
+enhance soil fertility, suppress pathogens and improve crop resilience (Abu-Bakar &
+Ibrahim, 2013; Adal, 2024; Carandang, 2003; Kumar & Gopal, 2015). Rice and
+sweet potato are widely used as substrates in the production of indigenous
+microorganisms (Kobusinguzi, 2024; Park1 et al., 2010; Kumar & Gopal, 2015);
+however a comparative study on efficiency of rice and sweet potato as IMO substrate
+is needed. Research pointed out that rice supports bacterial growth however, they did
+not look at specific microorganisms found in it (Anyanwu et al., 2015; Kumar &
+
+Gopal, 2015), Kobusinguzi (2024), also reported that there is a potential of using
+sweet potato as suitable substrate for trapping, culturing and multiplying IMOS; which
+was evidenced by the formation of white mold within 7 days (Kobusinguzi, 2024).
+However, there are limited studies on optimal concentration of sweet potato
+substrates for IMO growth and multiplication. Therefore, this study optimized sweet
+potato as a substrate for indigenous microorganisms (IMO) growth for improved animal
+and crop production.
+1.3 OBJECTIVES
+Main objective
+To assess the potential of sweet potato as a substrate for cultivating indigenous
+microorganisms (IMO)
+Specific objectives

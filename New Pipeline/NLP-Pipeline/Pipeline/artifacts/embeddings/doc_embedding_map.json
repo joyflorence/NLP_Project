@@ -1,0 +1,666 @@
+[
+  {
+    "doc_id": "DOC0001",
+    "embedding_index": 0
+  },
+  {
+    "doc_id": "DOC0002",
+    "embedding_index": 1
+  },
+  {
+    "doc_id": "DOC0003",
+    "embedding_index": 2
+  },
+  {
+    "doc_id": "DOC0004",
+    "embedding_index": 3
+  },
+  {
+    "doc_id": "DOC0005",
+    "embedding_index": 4
+  },
+  {
+    "doc_id": "DOC0006",
+    "embedding_index": 5
+  },
+  {
+    "doc_id": "DOC0007",
+    "embedding_index": 6
+  },
+  {
+    "doc_id": "DOC0008",
+    "embedding_index": 7
+  },
+  {
+    "doc_id": "DOC0009",
+    "embedding_index": 8
+  },
+  {
+    "doc_id": "DOC0010",
+    "embedding_index": 9
+  },
+  {
+    "doc_id": "DOC0011",
+    "embedding_index": 10
+  },
+  {
+    "doc_id": "DOC0012",
+    "embedding_index": 11
+  },
+  {
+    "doc_id": "DOC0013",
+    "embedding_index": 12
+  },
+  {
+    "doc_id": "DOC0014",
+    "embedding_index": 13
+  },
+  {
+    "doc_id": "DOC0015",
+    "embedding_index": 14
+  },
+  {
+    "doc_id": "DOC0016",
+    "embedding_index": 15
+  },
+  {
+    "doc_id": "DOC0017",
+    "embedding_index": 16
+  },
+  {
+    "doc_id": "DOC0018",
+    "embedding_index": 17
+  },
+  {
+    "doc_id": "DOC0019",
+    "embedding_index": 18
+  },
+  {
+    "doc_id": "DOC0020",
+    "embedding_index": 19
+  },
+  {
+    "doc_id": "DOC0021",
+    "embedding_index": 20
+  },
+  {
+    "doc_id": "DOC0022",
+    "embedding_index": 21
+  },
+  {
+    "doc_id": "DOC0023",
+    "embedding_index": 22
+  },
+  {
+    "doc_id": "DOC0024",
+    "embedding_index": 23
+  },
+  {
+    "doc_id": "DOC0025",
+    "embedding_index": 24
+  },
+  {
+    "doc_id": "DOC0026",
+    "embedding_index": 25
+  },
+  {
+    "doc_id": "DOC0027",
+    "embedding_index": 26
+  },
+  {
+    "doc_id": "DOC0028",
+    "embedding_index": 27
+  },
+  {
+    "doc_id": "DOC0029",
+    "embedding_index": 28
+  },
+  {
+    "doc_id": "DOC0030",
+    "embedding_index": 29
+  },
+  {
+    "doc_id": "DOC0031",
+    "embedding_index": 30
+  },
+  {
+    "doc_id": "DOC0032",
+    "embedding_index": 31
+  },
+  {
+    "doc_id": "DOC0033",
+    "embedding_index": 32
+  },
+  {
+    "doc_id": "DOC0034",
+    "embedding_index": 33
+  },
+  {
+    "doc_id": "DOC0035",
+    "embedding_index": 34
+  },
+  {
+    "doc_id": "DOC0036",
+    "embedding_index": 35
+  },
+  {
+    "doc_id": "DOC0037",
+    "embedding_index": 36
+  },
+  {
+    "doc_id": "DOC0038",
+    "embedding_index": 37
+  },
+  {
+    "doc_id": "DOC0039",
+    "embedding_index": 38
+  },
+  {
+    "doc_id": "DOC0040",
+    "embedding_index": 39
+  },
+  {
+    "doc_id": "DOC0041",
+    "embedding_index": 40
+  },
+  {
+    "doc_id": "DOC0042",
+    "embedding_index": 41
+  },
+  {
+    "doc_id": "DOC0043",
+    "embedding_index": 42
+  },
+  {
+    "doc_id": "DOC0044",
+    "embedding_index": 43
+  },
+  {
+    "doc_id": "DOC0045",
+    "embedding_index": 44
+  },
+  {
+    "doc_id": "DOC0046",
+    "embedding_index": 45
+  },
+  {
+    "doc_id": "DOC0048",
+    "embedding_index": 46
+  },
+  {
+    "doc_id": "DOC0049",
+    "embedding_index": 47
+  },
+  {
+    "doc_id": "DOC0050",
+    "embedding_index": 48
+  },
+  {
+    "doc_id": "DOC0051",
+    "embedding_index": 49
+  },
+  {
+    "doc_id": "DOC0052",
+    "embedding_index": 50
+  },
+  {
+    "doc_id": "DOC0053",
+    "embedding_index": 51
+  },
+  {
+    "doc_id": "DOC0055",
+    "embedding_index": 52
+  },
+  {
+    "doc_id": "DOC0057",
+    "embedding_index": 53
+  },
+  {
+    "doc_id": "DOC0058",
+    "embedding_index": 54
+  },
+  {
+    "doc_id": "DOC0059",
+    "embedding_index": 55
+  },
+  {
+    "doc_id": "DOC0060",
+    "embedding_index": 56
+  },
+  {
+    "doc_id": "DOC0061",
+    "embedding_index": 57
+  },
+  {
+    "doc_id": "DOC0064",
+    "embedding_index": 58
+  },
+  {
+    "doc_id": "DOC0065",
+    "embedding_index": 59
+  },
+  {
+    "doc_id": "DOC0066",
+    "embedding_index": 60
+  },
+  {
+    "doc_id": "DOC0067",
+    "embedding_index": 61
+  },
+  {
+    "doc_id": "DOC0068",
+    "embedding_index": 62
+  },
+  {
+    "doc_id": "DOC0069",
+    "embedding_index": 63
+  },
+  {
+    "doc_id": "DOC0070",
+    "embedding_index": 64
+  },
+  {
+    "doc_id": "DOC0071",
+    "embedding_index": 65
+  },
+  {
+    "doc_id": "DOC0072",
+    "embedding_index": 66
+  },
+  {
+    "doc_id": "DOC0073",
+    "embedding_index": 67
+  },
+  {
+    "doc_id": "DOC0074",
+    "embedding_index": 68
+  },
+  {
+    "doc_id": "DOC0075",
+    "embedding_index": 69
+  },
+  {
+    "doc_id": "DOC0076",
+    "embedding_index": 70
+  },
+  {
+    "doc_id": "DOC0077",
+    "embedding_index": 71
+  },
+  {
+    "doc_id": "DOC0078",
+    "embedding_index": 72
+  },
+  {
+    "doc_id": "DOC0079",
+    "embedding_index": 73
+  },
+  {
+    "doc_id": "DOC0080",
+    "embedding_index": 74
+  },
+  {
+    "doc_id": "DOC0081",
+    "embedding_index": 75
+  },
+  {
+    "doc_id": "DOC0082",
+    "embedding_index": 76
+  },
+  {
+    "doc_id": "DOC0083",
+    "embedding_index": 77
+  },
+  {
+    "doc_id": "DOC0084",
+    "embedding_index": 78
+  },
+  {
+    "doc_id": "DOC0085",
+    "embedding_index": 79
+  },
+  {
+    "doc_id": "DOC0086",
+    "embedding_index": 80
+  },
+  {
+    "doc_id": "DOC0087",
+    "embedding_index": 81
+  },
+  {
+    "doc_id": "DOC0088",
+    "embedding_index": 82
+  },
+  {
+    "doc_id": "DOC0089",
+    "embedding_index": 83
+  },
+  {
+    "doc_id": "DOC0090",
+    "embedding_index": 84
+  },
+  {
+    "doc_id": "DOC0091",
+    "embedding_index": 85
+  },
+  {
+    "doc_id": "DOC0092",
+    "embedding_index": 86
+  },
+  {
+    "doc_id": "DOC0093",
+    "embedding_index": 87
+  },
+  {
+    "doc_id": "DOC0094",
+    "embedding_index": 88
+  },
+  {
+    "doc_id": "DOC0095",
+    "embedding_index": 89
+  },
+  {
+    "doc_id": "DOC0096",
+    "embedding_index": 90
+  },
+  {
+    "doc_id": "DOC0097",
+    "embedding_index": 91
+  },
+  {
+    "doc_id": "DOC0098",
+    "embedding_index": 92
+  },
+  {
+    "doc_id": "DOC0099",
+    "embedding_index": 93
+  },
+  {
+    "doc_id": "DOC0100",
+    "embedding_index": 94
+  },
+  {
+    "doc_id": "DOC0101",
+    "embedding_index": 95
+  },
+  {
+    "doc_id": "DOC0102",
+    "embedding_index": 96
+  },
+  {
+    "doc_id": "DOC0103",
+    "embedding_index": 97
+  },
+  {
+    "doc_id": "DOC0104",
+    "embedding_index": 98
+  },
+  {
+    "doc_id": "DOC0105",
+    "embedding_index": 99
+  },
+  {
+    "doc_id": "DOC0106",
+    "embedding_index": 100
+  },
+  {
+    "doc_id": "DOC0107",
+    "embedding_index": 101
+  },
+  {
+    "doc_id": "DOC0108",
+    "embedding_index": 102
+  },
+  {
+    "doc_id": "DOC0109",
+    "embedding_index": 103
+  },
+  {
+    "doc_id": "DOC0110",
+    "embedding_index": 104
+  },
+  {
+    "doc_id": "DOC0111",
+    "embedding_index": 105
+  },
+  {
+    "doc_id": "DOC0112",
+    "embedding_index": 106
+  },
+  {
+    "doc_id": "DOC0113",
+    "embedding_index": 107
+  },
+  {
+    "doc_id": "DOC0114",
+    "embedding_index": 108
+  },
+  {
+    "doc_id": "DOC0115",
+    "embedding_index": 109
+  },
+  {
+    "doc_id": "DOC0116",
+    "embedding_index": 110
+  },
+  {
+    "doc_id": "DOC0117",
+    "embedding_index": 111
+  },
+  {
+    "doc_id": "DOC0118",
+    "embedding_index": 112
+  },
+  {
+    "doc_id": "DOC0119",
+    "embedding_index": 113
+  },
+  {
+    "doc_id": "DOC0120",
+    "embedding_index": 114
+  },
+  {
+    "doc_id": "DOC0121",
+    "embedding_index": 115
+  },
+  {
+    "doc_id": "DOC0122",
+    "embedding_index": 116
+  },
+  {
+    "doc_id": "DOC0123",
+    "embedding_index": 117
+  },
+  {
+    "doc_id": "DOC0124",
+    "embedding_index": 118
+  },
+  {
+    "doc_id": "DOC0125",
+    "embedding_index": 119
+  },
+  {
+    "doc_id": "DOC0126",
+    "embedding_index": 120
+  },
+  {
+    "doc_id": "DOC0127",
+    "embedding_index": 121
+  },
+  {
+    "doc_id": "DOC0128",
+    "embedding_index": 122
+  },
+  {
+    "doc_id": "DOC0129",
+    "embedding_index": 123
+  },
+  {
+    "doc_id": "DOC0130",
+    "embedding_index": 124
+  },
+  {
+    "doc_id": "DOC0131",
+    "embedding_index": 125
+  },
+  {
+    "doc_id": "DOC0132",
+    "embedding_index": 126
+  },
+  {
+    "doc_id": "DOC0134",
+    "embedding_index": 127
+  },
+  {
+    "doc_id": "DOC0135",
+    "embedding_index": 128
+  },
+  {
+    "doc_id": "DOC0136",
+    "embedding_index": 129
+  },
+  {
+    "doc_id": "DOC0137",
+    "embedding_index": 130
+  },
+  {
+    "doc_id": "DOC0138",
+    "embedding_index": 131
+  },
+  {
+    "doc_id": "DOC0139",
+    "embedding_index": 132
+  },
+  {
+    "doc_id": "DOC0140",
+    "embedding_index": 133
+  },
+  {
+    "doc_id": "DOC0141",
+    "embedding_index": 134
+  },
+  {
+    "doc_id": "DOC0142",
+    "embedding_index": 135
+  },
+  {
+    "doc_id": "DOC0143",
+    "embedding_index": 136
+  },
+  {
+    "doc_id": "DOC0144",
+    "embedding_index": 137
+  },
+  {
+    "doc_id": "DOC0145",
+    "embedding_index": 138
+  },
+  {
+    "doc_id": "DOC0146",
+    "embedding_index": 139
+  },
+  {
+    "doc_id": "DOC0147",
+    "embedding_index": 140
+  },
+  {
+    "doc_id": "DOC0148",
+    "embedding_index": 141
+  },
+  {
+    "doc_id": "DOC0149",
+    "embedding_index": 142
+  },
+  {
+    "doc_id": "DOC0150",
+    "embedding_index": 143
+  },
+  {
+    "doc_id": "DOC0151",
+    "embedding_index": 144
+  },
+  {
+    "doc_id": "DOC0153",
+    "embedding_index": 145
+  },
+  {
+    "doc_id": "DOC0154",
+    "embedding_index": 146
+  },
+  {
+    "doc_id": "DOC0155",
+    "embedding_index": 147
+  },
+  {
+    "doc_id": "DOC0156",
+    "embedding_index": 148
+  },
+  {
+    "doc_id": "DOC0157",
+    "embedding_index": 149
+  },
+  {
+    "doc_id": "DOC0158",
+    "embedding_index": 150
+  },
+  {
+    "doc_id": "DOC0159",
+    "embedding_index": 151
+  },
+  {
+    "doc_id": "DOC0160",
+    "embedding_index": 152
+  },
+  {
+    "doc_id": "DOC0161",
+    "embedding_index": 153
+  },
+  {
+    "doc_id": "DOC0162",
+    "embedding_index": 154
+  },
+  {
+    "doc_id": "DOC0163",
+    "embedding_index": 155
+  },
+  {
+    "doc_id": "DOC0164",
+    "embedding_index": 156
+  },
+  {
+    "doc_id": "DOC0165",
+    "embedding_index": 157
+  },
+  {
+    "doc_id": "DOC0166",
+    "embedding_index": 158
+  },
+  {
+    "doc_id": "DOC0167",
+    "embedding_index": 159
+  },
+  {
+    "doc_id": "DOC0168",
+    "embedding_index": 160
+  },
+  {
+    "doc_id": "DOC0169",
+    "embedding_index": 161
+  },
+  {
+    "doc_id": "DOC0170",
+    "embedding_index": 162
+  },
+  {
+    "doc_id": "DOC0171",
+    "embedding_index": 163
+  },
+  {
+    "doc_id": "DOC0172",
+    "embedding_index": 164
+  },
+  {
+    "doc_id": "DOC0173",
+    "embedding_index": 165
+  }
+]

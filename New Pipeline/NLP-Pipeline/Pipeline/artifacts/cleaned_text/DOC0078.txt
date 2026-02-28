@@ -1,0 +1,1062 @@
+EFFICACY ASSESSMENT OF GARLIC EXTRACT AND RABBIT URINE AS A
+NATURAL APHID CONTROL AGENT ON INFESTED TOMATO PLANTS
+
+DAVID BECKHAM ISOOBA
+S20B26/007
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN
+PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF
+AGRICULTURAL SCIENCE AND ENTREPRENEURSHIP OF UGANDA CHRISTIAN
+UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+This experiment aimed to assess the effectiveness of garlic extract and rabbit urine concoction as a natural
+aphid control agent on infested tomato plants (Solanum lycopersicum). The study investigated the impact
+of different doses of garlic extract on plant height, leaf damage, Number of aphids and Number of flowers
+at the flowering stage. The garlic extract was prepared by crushing garlic bulbs and sieved to achieve the
+desired concentrations after mixing it with the desired concentrations of rabbit urine. The experiment
+employed a randomized complete block design with four treatment groups each replicated three times:
+a control group (0%), low dose (10%), medium dose (30%), and high dose (50%) of the mixture
+concentration of rabbit urine and garlic extract concoction. The treatments were applied using a handheld
+sprayer, and the plants were monitored for aphid populations using visual inspection. Data collected were
+subjected to statistical analysis, including analysis of variance (ANOVA), to determine significant
+differences between treatments. The results revealed that higher doses of garlic extract and rabbit Urine
+concoction led to increased plant height, decrease in leaf damage caused by aphids, , and reduced number
+of aphids as well as increased number of flowers. The control group exhibited the lowest values for all
+parameters, while treatments with garlic extract and rabbit urine concoction showed significant
+improvements. The highest yields were observed in Treatment 50%, where plants treated with the highest
+dose of garlic extract and rabbit urine concoction had the highest plantt height, least number leaves
+damaged by aphids and highest number of flowers at flowering stage. These findings demonstrate the
+potential of garlic extract and rabbit urine concoction as an effective aphid control agent, capable of
+enhancing tomato crop health and growth and economic returns for farmers.
+
+
+
+
+iii
+
+DECLARATION
+I, ISOOBA DAVID BECKHAM, declare that; I am the author of this research report and any
+assistance I received in its preparation is fully acknowledged and disclosed in the report. I have
+also cited any sources from which I used the information, ideas or words, either quoted directly or
+paraphrased. I also certify that this paper was prepared by me specifically for the partial fulfillment
+for the award of degree in Bachelor of Agricultural Science and Entrepreneurship at Uganda
+Christian University.
+Signed..........................
+Date......................
+
+
+
+
+
+
+
+
+
+
+iv
+
+APPROVAL
+This is to certify that this dissertation has been submitted for examination with my approvals as
+the academic supervisor as a requirement for the award of a degree in Bachelor of Agricultural
+Science and Entrepreneurship.
+Signature .......................................................... Date.......................................
+
+MISS NAKANWAGI MILDRED JULIAN
+Special Project Supervisor
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+DEDICATION
+I delicate this research report to my family, for their endless love and support towards my academic
+journey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+ACKNOWLEDGEMENTS
+Above all, special praises and thanks go to the Most High, Almighty God for enabling me to write
+this Dissertation.
+I acknowledge the Department of Agricultural Sciences for offering a good platform and
+foundation that has enabled me to complete my research. Thanks go to my supervisor; Ms.
+Nakanwagi Mildred Julian for her invaluable guidance and encouragement throughout this study.
+In the same regard, I endlessly thank my aunt Namuswa Margret & Isooba Betty plus my lovely
+Mother for their unconditional support mentally, financially and emotionally towards pursuing this
+course. Heartfelt thanks go to my dear son Isooba Gabriel Ethan and the mother Nagawa Fatuma
+for their encouragement and endurance throughout my course of study.
+I also appreciate my class mates which include Muzaki Lillian,Gunghima Emmanuel, Rojo
+Charity, Jimmy Ocen, Dranzoa Daisy Drabe, Ojok Boniface, Owili oscar jimmy, Gonzaga
+Mayengo for their and support, encouragement during my academic journey.
+Finally, I appreciate my parents Mr Bukoosi Godfrey and Mrs. Mutunda Sophie for the constant
+prayers, love, and strength. May you live to share the golden fruits of my life!
+
+
+vii
+
+TABLE OF CONTENTS
+
+Table of Contents
+ABSTRACT ................................................................................................................................................... i
+DECLARATION ......................................................................................................................................... iii
+APPROVAL ................................................................................................................................................ iv
+DEDICATION .............................................................................................................................................. v
+ACKNOWLEDGEMENTS ......................................................................................................................... vi
+TABLE OF CONTENTS ............................................................................................................................ vii
+LIST OF TABLES ....................................................................................................................................... ix
+LIST OF ACRONYMS ............................................................................................................................... xi
+CHAPTER ONE ........................................................................................................................................... 1
+1.0 Introduction ............................................................................................................................................. 1
+1.1 Background of the study ......................................................................................................................... 1
+1.2 Aphids control in Tomatoes .................................................................................................................... 3
+1.3 Statement of the problem ........................................................................................................................ 3
+1.4 Objectives ............................................................................................................................................... 5
+1.4.1 Main objective ..................................................................................................................................... 5
+1.4.2 Specific objectives ............................................................................................................................... 5
+1.5 Hypotheses .............................................................................................................................................. 5
+1.6 Scope of the study ................................................................................................................................... 5
+1.7 Significance............................................................................................................................................. 6
+1.8 Justification ............................................................................................................................................. 6
+CHAPTER TWO .......................................................................................................................................... 9
+2.0 Literature review ..................................................................................................................................... 9
+2.1 Introduction ............................................................................................................................................. 9
+2.1.1 Tomato production ............................................................................................................................... 9
+2.1.2 Aphids .................................................................................................................................................. 9
+2.1.3 Origin and distribution of aphids ....................................................................................................... 10
+2.1.4 Growth of Aphids .............................................................................................................................. 10
+
+viii
+
+2.1.5 Economic importance of Aphids in tomato production ..................................................................... 11
+2.1.6 Control of Aphids .............................................................................................................................. 11
+2.2 Synthetic insecticides ............................................................................................................................ 12
+2.2.1 Use of plant extracts (Garlic) ............................................................................................................. 12
+2.2.3 Rabbit Urine ....................................................................................................................................... 14
+CHAPTER THREE .................................................................................................................................... 16
+3.0 Methods and materials .......................................................................................................................... 16
+3.1 Experimental site .................................................................................................................................. 16
+3.2 Materials ............................................................................................................................................... 16
+3.3 Soil Sampling ........................................................................................................................................ 16
+3.4 Experimental design .............................................................................................................................. 17
+3.5 Agronomic practices ............................................................................................................................. 17
+3.7 Making of the extract ............................................................................................................................ 17
+3.8 Treatments and bio pesticide extract application .................................................................................. 18
+3.9 Data collection ...................................................................................................................................... 18
+3.9.1 Data analysis ...................................................................................................................................... 19
+CHAPTER FOUR ....................................................................................................................................... 20
+
+
+
+
+
+
+ix
+
+LIST OF TABLES
+
+Table 1. Means and standard deviation
+Table 2.Aphid Damage
+Table 3. A table showing general means
+Table 4.Analysis of variance of leaf damage
+Table 5. Tomato growth response by number of flowers
+Table 6. Tomato growth response on Plant height
+Table 7. Relationship between aphid damage and tomato growth
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+xi
+
+LIST OF ACRONYMS
+FAO: Food and Agriculture Organization
+FAOSTAT: Food and Agriculture Organization Statistics
+MAAIF: Ministry Of Agriculture, Animal Industry and Fisheries
+MUZARDI: Mukono Zonal Agricultural Research and Development Institute
+NaCRRI: National Crops Resources Research Institute
+NARO: National Agricultural Research Organization
+RCBD: Completely Randomized Design
+UNBS: Uganda National Bureau of Standards
+UGX: Uganda shillings
+LVCAZ: Lake Victoria Crescent Agro-ecological Zone
+
+
+
+
+
+
+CHAPTER ONE
+1.0 Introduction
+This chapter comprises of the background of the study of the topic, problem statement, main
+objective, specific objectives, hypothesis, justification, significance and scope of the study.
+The tomato, Lycopersicon esculentum L., is a widely favored vegetable for home gardens and
+ranks as the second most commonly consumed vegetable globally, right after potatoes (Solanum
+tuberosum L.). Originally hailing from South America, particularly Peru and Ecuador, the tomato
+was first cultivated and domesticated in Mexico (Benton, 2007). During the middle of the 16th
+century, the tomato made its way to Europe. It was mainly showcased in early herbals for its visual
+appeal, but it wasn't commonly consumed, except in Italy and Spain. In fact, many people believed
+the fruit to be poisonous, and it took until 1800 for it to be recognized as a valuable vegetable. Fast
+forward to today, the tomato is now extensively cultivated across the globe due to its delightful
+taste, vibrant color, rich flavor, and nutritious qualities. Tomatoes are a versatile food that can be
+enjoyed in various ways, either straight from the garden or after undergoing processing. Including
+tomatoes in your diet can be beneficial for maintaining a healthy and balanced eating plan. Not
+only do they contain very few calories, but they are also packed with essential nutrients like
+vitamin A, vitamin C, and various minerals. Additionally, tomatoes provide small but valuable
+amounts of vitamins from the B complex, including thiamin, riboflavin, and niacin, as noted by
+Sainju and Dris 2006.
+1.1 Background of the study
+Tomato (Lycopersicon esculentum L) belongs to the Solanaceae family and is an important and
+lucrative vegetable crop grown around the world including Uganda for fresh market and
+processing. It is ranked as the third most important vegetable worldwide (Shiberu et al., 2018). In
+
+
+Uganda, tomatoes are among the most important and prominent horticultural crops grown for both
+home consumption, domestic market and for export (Kennedy, 2008). Globally, tomato production
+is at 177.04 million metric tons while in Uganda is at 38,234 metric tons (FAOSTAT, 2016).
+Tomatoes are a good source of iron and contain lycopene, an antioxidant that may protect against
+cancer. Yellow tomatoes have more vitamin A than red ones (Naika et al., 2005). Research
+indicates that lycopene, a compound found in tomatoes, may lower the chances of prostate cancer
+(Miller et al., 2002). Additionally, consuming tomatoes can potentially decrease the likelihood of
+gastroenteric diseases like colon, rectal, and stomach cancer. Moreover, tomatoes are easily
+digestible and their vibrant color can boost your appetite (Sainju and Dris, 2006).
+Plant diseases and pests can cause significant economic losses in agricultural production. A study
+conducted by Tolman et al. (2004) found that insect damage led to a loss of approximately 30%
+in tomato yield. Detecting infested plants at an early stage, before visual symptoms appear, is
+crucial for implementing effective management strategies and pest control measures to prevent
+the spread of diseases (Zee et al., 2001; Park et al., 2016). Currently, we rely heavily on
+insecticides to control aphids. However, this has led to some aphid species, like the peach,
+tomato, and potato aphid, becoming resistant to these chemicals. To address this issue, we need
+alternative methods of aphid control. One potential solution is using plant extracts that repel
+aphids or discourage them from feeding. This could help decrease the number of aphids on plants
+without relying solely on insecticides (Bizzaro et al., 2005; Van Toor et al., 2008; Imbaya et al.,
+2018).
+
+
+
+1.2 Aphids control in Tomatoes
+Several control methods against aphids have been put forward and these include cultural, chemical
+and biological means. However, none of the control measures has been validated as such that even
+under increased chemical spray cycles; they experience massive losses due to aphids (Zekeya et
+al., 2018).
+Most local farmers use chemical means by use of synthetic pesticides for example Rocket, dudu
+acelmectine... Resource poor farmers on the other hand use cultural methods like crop rotation,
+removing of infested plants, and proper disposal of plant debris at the end of season (Retta et al.,
+2015). The other control is use of biological control method. This method is potentially a very
+beneficial tactic to develop the biological control agents (living antagonists-natural enemies:
+predators, parasitoids and pathogens) are considered as one possible solution to most tomato pests
+Oztemiz, 2013). This strategy offers a more sustainable and less expensive alternative to chemicals
+(Vivan et al., 2003; Bale et al., 2008). Use of garlic extracts and rabbit urine is a cheap, valuable,
+safe and environmentally friendly alternative for insect pest management (Shiberu et al., 2018).
+These plant extracts naturally contain pest repellant attributes which have the ability to repel or
+kill the insect pest at all stages including eggs, larvae, pupae nymphs and adults. However, in
+Uganda the using of these garlic extracts and rabbit urine to control pests such as aphids on tomato
+has not been fully explored yet there is still a need to improve crop protection against these pests
+and in the same way reducing the use of inorganic pesticides (Shiberu and Getu, 2018).
+
+1.3 Statement of the problem
+Tomato has a lot of importance however, its production is threatened by destructive pests (Zekeya
+et al., 2018). They destroy the leaves, stem, roots and fruits, resulting into low- and poor-quality
+
+
+yield and even death of plants or rotten fruit (Visser et al., 2017). For example, in the case of
+aphids, the economic losses range from 50-100% yield loss in other countries depending on the
+tomato variety (Zekeya et al., 2018). The pest has been observed on tomatoes and other Solanaceae
+crops as well as the Brassica family crops in Uganda,
+Current management of tomato pests has been based on inorganic pesticides such as Belt Expert,
+Abamectin, Dudu acelamectin which are very expensive and not affordable to resource poor
+farmers. The use of synthetic pesticides is also complicated by the fact that most farmers do not
+observe the prescribed dosages and pre-harvest intervals which results into chemical residues in
+the fruits affecting export trade and posing health risks to the consumers and drastic effects on the
+environment (Klieber et al., 2015; Retta et al., 2015). In addition, biopesticides also have the
+ability to provide some required nutrients for plant growth hence making pesticides a better option.
+Limited studies have however been conducted to determine the effect of rabbit urine and Garlic
+biopesticide on aphid control. Therefore, eeffective pest control is no longer a matter of heavy
+application of limited insecticides, because continuous use of pesticides promotes development of
+insecticidal resistance in the target pests, pest resurgence, emergence of secondary pests, affects
+non-target insects’ species, affects the environment through air pollution, killing of beneficial
+organisms, as well as causing human health complications such as skin cancer.
+Chemical pesticides are also quite expensive to most of the farmers which has led to
+economical loss due to the reduced yields.
+Farmers mostly affected are the horticultural farmers in this case (Dilawar Hussaina, 2023).
+Therefore, the growing need for alternative, environmentally friendly methods of aphid control.
+(Sarwar, 2015 and Grzywacz et al., 2010)
+
+
+Therefore, this study aimed at evaluating the effectiveness of rabbit urine and Garlic biopesticide
+against aphid control and determine the pest infestation on different growth stages of tomato
+1.4 Objectives
+1.4.1 Main objective
+To evaluate the effectiveness of garlic, extract and rabbit urine as natural alternative of controlling aphid
+infestations on tomato plants.
+1.4.2 Specific objectives
+
+i.
+To assess the effect of rabbit urine and garlic concentration on aphid population and aphid
+damage on tomato plants
+ii.
+To determine the effect of rabbit urine and garlic extract concentration on growth response
+of tomatoes (Plant height & Number of flowers).
+iii.
+To determine if there is a relationship between aphid damage and growth of tomato plants.
+1.5 Hypotheses
+i.
+Aphid population and aphid damage in tomatoes are independent of the concentrations of
+the rabbit urine and garlic extract concoctions.
+ii.
+Rabbit urine and garlic extract concoction do not affect the growth response of tomatoes.
+iii.
+There is no relationship between aphid damage and growth of the tomatoes.
+1.6 Scope of the study
+The experiment to evaluate the effectiveness of the stinging nettle and garlic based biopesticides
+in the control of aphids in tomatoes was carried out at Uganda Christian university’s field trial
+plots located in mukono during the period of January 2024 to March 2024. During this study
+
+
+Asole tomato variety was used and a homemade organic pesticide acquired from a rabbit urine and
+garlic extract was also used as a pesticide during this experiment.
+1.7 Significance
+Tomato growing is one of the most promising areas for horticultural expansion and development
+in Uganda (MAAIF, 1998). The biggest tomato producers are the districts of Mbale, Mpigi, Hoima,
+Mbarara, Wakiso, and Mukono. Uganda produces 38,234 metric tons of tomatoes per year
+(FAOSTAT 2016) of which about 3,000 small-scale farmers grow fresh vegetables including
+tomatoes for export while more than 20,000 small-scale farmers grow vegetables particularly
+tomatoes for income (Sonko et al., 2005). Since the tomato aphid is threatening the tomato growers
+in Uganda, the plant extracts can provide an alternative control, it is important to evaluate their
+efficiency. The findings of this study will contribute to improved management of the tomato pests
+while protecting the environment, reducing the risks associated with use of synthetic insecticides
+and reducing the cost of controlling the pest. This will improve farmers’ incomes and their
+livelihoods through increased yields and safety of the tomatoes for consumption while protecting
+the environment.
+1.8 Justification
+Tomatoes are a good source of iron and contain lycopene, an antioxidant that may protect against
+cancer. Yellow tomatoes have more vitamin A than red ones (Naika et al., 2005). Research
+indicates that lycopene, a compound found in tomatoes, may lower the chances of prostate cancer
+(Miller et al., 2002). Additionally, consuming tomatoes can potentially decrease the likelihood of
+gastroenteric diseases like colon, rectal, and stomach cancer. Moreover, tomatoes are easily
+digestible and their vibrant color can boost your appetite (Sainju and Dris, 2006).
+
+
+Plant diseases and pests can cause significant economic losses in agricultural production. A study
+conducted by Tolman et al. (2004) found that insect damage led to a loss of approximately 30% in
+tomato yield. Detecting infested plants at an early stage, before visual symptoms appear, is crucial
+for implementing effective management strategies and pest control measures to prevent the spread
+of diseases (Zee et al., 2001; Park et al., 2016).
+Tomato production in Uganda contributes to economic development and poverty alleviation since
+tomatoes are a source of foreign exchange earnings, and also generates income locally for
+economic growth (Andre et al, 2005). Since tomato production is reduced by pest infestation. Use
+of mechanical methods such as removal of infested leaves have been suggested but can only be
+successful on very small plots. Inorganic pesticides are another alternative but the cost of these
+pesticides makes tomato production non-profitable. Controlling aphids is not an easy practice
+although synthetic pesticides are apparently available for use. Effective pest control is no longer a
+matter of heavy application of limited insecticides, because continuous use of pesticides promotes
+development of insecticidal resistance in the target pests, pest resurgence, emergence of secondary
+pests, affects non-target insects’ species, affects the environment and human health (Sarwar, 2015
+and Grzywacz et al., 2010). Therefore, the use of alternatives including botanicals, bio-pesticides,
+and new generation synthetic insecticides is essential to growing healthy crops. The use of different
+botanical insecticides such as a mixture concentration of rabbit urine and garlic extract to protect
+plants from pests is very promising because of several distinct advantages (Marbet and Aurea,
+2008). Insecticidal plants are generally much safer than conventionally used synthetic insecticides.
+It prevents development of insecticide resistance. Botanical insecticides are used by small-scale
+farmers at low cost or zero cost of extraction and are highly degradable. The use of natural and
+easily biodegradable crop protection inputs like a mixture of Rabbit urine and Garlic (Allium
+
+
+sativum) can be a useful component of an integrated pest management (IPM) strategy since the
+compounds are known for their low toxicity against beneficial insects (Koona and Njoya, 2004).
+Therefore, tomato farmers urgently need a cheaper but effective alternative which can be easily
+acquired and home made such the these locally made garlic extract and rabbit urine since they are
+locally available materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO
+2.0 Literature review
+2.1 Introduction
+The literature reviewed under this chapter provides an evaluative assessment of the pests affecting
+tomatoes, classification, origin and economic importance. Challenges faced in controlling some of
+these pests particularly aphids as of this case by tomato farmers using garlic extracts and rabbit
+urine in tomato production in Uganda.
+
+2.1.1 Tomato production
+Tomato (Lycopersicon esculentum) belongs to Solanaceae family. It is an important and
+remunerative vegetable crop grown around the world including Uganda for fresh market and
+processing. It is ranked as the third vegetable worldwide (Shiberu et al. 2018). Statistics currently
+shows that the production of tomato globally is at 177.04 million metric tons (FAOSTAT 2016).
+And Uganda produces 38,234 metric tons of tomatoes per year (FAOSTAT 2016). In Uganda,
+tomatoes are among the most important and prominent horticultural crops grown for both home
+consumption, domestic market and for export. Production of tomatoes in rural areas of the country
+has increased employment and improved farmers’ livelihoods (Kennedy, 2008). However, tomato
+production is threatened by the exotic invasive insect pest tomato leaf miner (T. absoluta) (Zekeya
+et al. 2018).
+2.1.2 Aphids
+The green peach aphid (Myzus persicae) is a major agricultural pest that is found worldwide.
+While the exact origin is debated, it is likely native to Asia, much like its favorite food source,
+the peach tree. (Prunus persica)
+
+
+2.1.3 Origin and distribution of aphids
+The exact origin of aphids is still under debate, but fossil evidence suggests they emerged
+sometime in the Permian period, roughly 299 to 252 million years ago. Their long evolutionary
+history has resulted in a vast array of species, with estimates ranging from 4,000 to 10,000
+However most experts believe the green peach aphid originated in Asia, like its primary host
+plant, the peach tree. The green peach aphid is now found almost everywhere in the world except
+for areas with extreme temperatures or humidity. They are adept at travelling long distances by
+wind, storms, and even on young plants that are transported between locations. This explains
+their global reach and ability to survive in various climates. While they don't prefer greenhouses,
+they can easily invade them, further contributing to their spread.
+
+2.1.4 Growth of Aphids
+An aphid's lifecycle typically involves four stages: egg, nymph (several instars), pupa (in some
+species), and adult. Parthenogenesis: During warm weather, female aphids can reproduce
+asexually, giving birth to live young without needing a male (Shree et al., 2017). This allows for
+rapid population growth when conditions are favorable.
+Winged and Wingless Forms: Aphid populations often contain both winged and wingless
+individuals. Winged aphids can disperse long distances to find new host plants, while wingless
+aphids focus on feeding and reproduction. The specific duration of each stage can vary
+depending on the species and environmental factors. However, the overall lifecycle can be
+remarkably fast, allowing for rapid population growth under ideal conditions. (Hughes et al.,
+2013 and (Balzan, 2015).
+
+
+2.1.5 Economic importance of Aphids in tomato production
+Tomato production is in danger due to the invasion by green peach aphid (Zekeya et al., 2016).
+Several authors have consistently reported that, no effective control including use of chemicals is
+available for farmers. (Nesreen et al., 2017). They pierce plant tissue with their needle-like
+mouthparts to suck out sap. This weakens the plant, stunts growth, and can cause leaves to curl or
+turn yellow and as they feed, aphids excrete a sugary substance called honeydew which h attracts
+ants and promotes the growth of sooty mold, a black fungus that further reduces photosynthesis
+and weakens the plant. In severe infestations, aphids can even transmit viruses between plants,
+posing a significant threat to your tomato crop.
+Tomato growing farmers in Africa are currently stranded due to lack of effective control options
+as even under increased spray cycles, they experience massive losses due to increased aphid
+infestation levels (Zekeya et al.,2016).
+This however has opened a new window for research and development of new and alternative
+control measures. The most recommended and promising approaches include application of
+biological control options such as parasitoids and nematodes (Alabern et al., 2013; and Arnaouty
+et al., 2014), entomopathogenic fungi and bacteria (Keikotlhaile et al., 2010) and pheromone traps
+for monitoring population as well as detection of their presence (Zekeya et al., 2016).
+2.1.6 Control of Aphids
+Different management options exist for aphids are already in place and these include use of insect
+chemicals, cultural methods, physical controls and biological methods (Retta et al., 2015)
+
+
+
+2.2 Synthetic insecticides
+Conventional pesticides are commonly applied to control insect pests includingAphids. Reports
+show the effect of chemical sprays mainly harming untargeted organisms as well as environment
+and not the Aphids (Klieber et al., 2015). The nature of infestation especially by the Aphids hiding
+underneath the tomato plant leaves and resistance to different chemicals limit control efforts
+(Wilcockson et al., 2014).
+Common chemicals that aphids have been reported to develop resistance are Cartap, pyrethroids,
+organophosphates, spinosad, Emamectin benzoate, Abamectin, chloride channel activators,
+benzoylureas and diamide (Zekeya et al., 2016). Synthetic chemicals have serious drawbacks,
+including reduced profits from high insecticide costs, destruction of natural enemy populations
+(Campbell et al., 1991), buildup of insecticide residues on tomato fruits (Walgenbach et al., 1991)
+and in the environment and fundamentally the rapid development of insecticide resistance. Pest
+resistance has been reported to cause increased use of chemical pesticides applications against
+Aphids in many parts of the world including Uganda (Roditakis et al., 2015).
+In countries such as Tunisia, more than 18 chemicals were introduced during 2009-2011 for the
+control of Aphids but none of them seemed efficient in solving the pest problem (Abbes et al.,
+2012). However, chemical pesticides are very expensive and are applied frequently to the extent
+that most smallholder farmers in Africa cannot afford to purchase regularly (Zekeya et al., 2016).
+
+2.2.1 Use of plant extracts (Garlic)
+Allium sativum, commonly known as garlic, has been widely utilized in culinary practices and
+traditional medicine for more than 4000 years. It possesses various beneficial properties such as
+antiseptic, anti-inflammatory, antioxidant, cardioprotective, and anticancer effects. The
+
+
+antimicrobial activity of garlic is attributed to its prominent organ sulfur compounds, including
+ajoenes, allicin, alliin, allyl sulfide, and 1,2- vinyldithiin (Lanzotti 2006; Corzo Martinez et al.,
+2007; Martins et al., 2016). For instance, Gong et al. (2013) conducted a study on the impact of
+2% raw garlic straw extracts on root- knot nematodes (Meloidogyne incognita) in tomato plants.
+The researchers observed that the garlic extracts inhibited the growth of nematodes and led to an
+increase in tomato yield. Similarly, Jess et al. (2017) explored the potential use of garlic oil in
+controlling Megaselia halterata (a species of phorid fly) in commercial mushroom production. The
+researchers found that low concentrations (ranging from 0.1% to 20%) of garlic solutions
+effectively repelled adult female M. halterata. A commonly recommended recipe for a garlic
+solution involves using 25 grams of chopped garlic in 10 liters of water. This solution can be
+applied to the soil and plants, exhibiting effectiveness against various pathogens such as fungi and
+bacteria, as well as pests including mites, aphids, larvae of Lepidoptera, and small bedbugs
+(Ministerio de Agricultura. Servicio Agrícola y Ganadero, 2013). Garlic (Allium sativum L.) is a
+highly effective plant-based bio-pesticide known for its ability to control seed-borne diseases. It
+contains allicin, a compound that gives garlic its distinctive smell and taste while providing
+biological properties. Studies have shown that garlic possesses insecticidal and fungicidal
+properties, making it effective against pests like mites, ticks, nematodes, and worms. These
+characteristics make garlic a valuable resource for pest management and disease control in
+agriculture and veterinary applications. Therefore, the appropriate use of eco-friendly microbial
+pesticides can be engaged in recreation of sustainable organic crop production by providing a
+stable pest management program.
+Biological control method is potentially very beneficial tactic to develop (Savinoet et al., 2012).
+The biological control agents (living antagonists-natural enemies: predators, parasitoids and
+
+
+pathogens) are considered as one possible solution of the aphid’s crisis (Desneux et al., 2010;
+Oztemiz, 2013). This strategy offers a more sustainable and less expensive alternative to chemicals
+(Vivan et al, 2003; Bale et al., 2008).
+2.2.3 Rabbit Urine
+Rabbit urine has been used as a natural pesticide for centuries, and there is some scientific evidence
+to support its effectiveness against aphids. Studies have shown that rabbit urine can repel aphids,
+reduce their egg-laying ability, and even kill them outright because of it’s Components
+Rabbit urine contains several components that are thought to be responsible for its insecticidal
+properties. These include:
+Ammonia: Ammonia is a pungent gas that can repel aphids and other insects. It can also damage
+their delicate respiratory systems.
+Urea: Urea is a nitrogen-rich compound that can disrupt the hormonal balance of aphids and other
+insects. It can also interfere with their ability to reproduce, it as well dehydrates the aphids when
+in close contact (Diana Kemunto,2022)
+Creatinine: Creatinine is a waste product of muscle metabolism. It is not directly harmful to aphids,
+but it can make rabbit urine more attractive to beneficial insects, such as ladybugs and lacewings,
+which prey on aphids.
+Several studies have explored the insecticidal properties of rabbit urine and garlic individually.
+Rabbit urine diluted with water at a ratio of 1:10 has been shown to effectively control aphids on
+kale plants (Petrović et al., 2013). Rabbit urine is a readily available substances which has
+demonstrated insecticidal properties. Rabbit urine contains high levels of nitrogen, which can act
+
+
+as a fertilizer and also possesses insecticidal activity (Petrović et al., 2015) Therefore Combining
+rabbit urine and garlic could potentially create a synergistic natural pesticide with enhanced
+insecticidal efficacy against aphids.
+
+
+
+
+
+
+
+CHAPTER THREE
+3.0 Methods and materials
+3.1 Experimental site
+The experiment was carried out in Mukono district at Mukono at Kyawambogo village from
+January 2024 to March 2024. Kyawambogo village s located about 28km from Uganda’s capital
+and main city, Kampala, along Jinja road. The village has wooded savannah vegetation
+characterized by tall trees and tall grasses. According to FAO 1992, Mukono has two main soils
+categories namely; Ferralitic soils and Ferrisols, a high plateau (1000-1300) above sea level and
+mean annual rainfall is 11,000mm distributed over 106 rain days, with peaks in March – June and
+September – November. Temperatures range between 160C and 280C throughout the year.
+
+3.2 Materials
+Garden infested with Aphids for samples, Rabbit urine, fresh Garlic bulbs,hand sprayer,Tomato
+seeds for cultivar MV were used in this study. The seedlings were raised in a nursery bed and
+transplanted at three weeks after germination with the starter dose of 20g of NPK fertilizer per
+plant. Our bio pesticide of rabbit urine and garlic were used and a untreated control was also
+included for comparison.
+
+3.3 Soil Sampling
+A composite soil sample was collected randomly from the 0-20 cm depth at the field station in
+January 2024. Physical properties of the soil were analyzed at the UCU laboratory
+
+
+
+3.4 Experimental design
+The experimental field was laid in a Randomized Complete Block Design (RCBD) with three
+replications.
+
+3.5 Agronomic practices
+During the experiment, the following agronomic practices were carried out;
+Land clearing, ploughing and harrowing was done by use of a hand hoe to break down soil particles
+and remove unwanted objects, and the plots were demarcated in of size 3m× 3m with a total of 12
+plots.
+Transplanting was done in February 2024 by placing one seedling at spacing of 60 by 60cm.
+Watering by use of a watering can was done occasionally whenever there was need especially if
+there was no rain, watering was done twice a day
+Weeding was done whenever weeds emerged by hand pulling and use of a hand hoe.
+Plots were uniformly mulched 2 weeks after planting with dry grass to avoid evaporation of water
+and nutrients.
+Staking was done one month after planting to prevent the plant from being disturbed by wind and
+also encourage straight growth.
+Spraying of the bio pesticide was done weekly as indicated in 3.6 (application of pesticides) was
+done to control pests specifical the aphid. This was carried out using a hand sprayer.
+
+3.7 Making of the extract
+The organic pesticide extract was made following the procedure below;
+
+
+The garlic extract was obtained by crushing fresh garlic bulbs and extracting the juice. It was
+diluted with water to achieve the desired concentrations for each treatment whereas the rabbit urine
+was used immediately after being mixed
+
+
+3.8 Treatments and bio pesticide extract application
+The treatments were sprayed once in 1 week in each assigned plot apart from the control plot,
+Treatment T1 (control): No mixture concentration was applied (0%).
+Treatment T2: Low Dose - A diluted concentration of garlic & rabbit urine was prepared by
+mixing 5(ml) of garlic extract and 5(ml) of rabbit urine to make 10(ml) with 90 ml of water (10%).
+Treatment T3: Medium Dose - A moderately concentrated rabbit urine & garlic extract was
+prepared by mixing 30 ml made up of 15(ml) garlic extract, 15(ml) of rabbit urine with 70 ml of
+water (30%).
+Treatment T4: High Dose - The highest concentration of garlic extract was prepared by mixing 50
+ml made up of 25(ml) garlic extract, 25(ml) of rabbit urine of garlic extract with 50 ml of water
+(50
+
+3.9 Data collection
+In every week data was collected once. This was followed by tagging of ten plants in each plot.
+To identify the level of infestation of the pest, Inspections were done on entire plant, and the areas
+considered were leaves damaged, plant height, number of aphids at the different growth stages of
+the plants (FAO 2006).
+
+
+3.9.1 Data analysis
+All data collected were entered and sorted using Microsoft Excel (version2013). The sorted data
+was thereafter imported into GenStat (12th Edition) to obtain the means, standard errors,
+Coefficient of Variation and P-values by running the One-Way Analysis of Variance (ANOVA),
+(Diana Kemunto,2022) and separated means using a Boniferi’s test to determine significant
+differences between the treatments and evaluate the efficacy of garlic extract and rabbit urine concoction
+as an aphid control agent on tomato plants. In addition to assessing aphid control, the study also
+considered several parameters as part of the investigation, including plant height, leaf damage caused by
+aphids, Number of aphids and Number of flowers at flowering stage. These parameters provided a
+comprehensive evaluation of the effects of garlic extract and rabbit urine concoction on the tomato plants
+and their potential as a natural aphid control measure. (Diana Kemunto,2022)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+4.0 Objective 1
+4.1 About number of aphids
+Table 1 below shows the means and standard deviations of aphid population and aphid damage
+uunder different treatments. The results showed that there was significant difference in the aphid
+population and aphid damage on the number of damaged leaves per plant, and number of aphids
+per plants.
+From the table below, Treatment (T4) turned out to be the most effective between the aphid
+population and the aphid damage with the least number of damage leaves per plant and number of
+aphids per plant compared to Treatments (T2, T3) and the control which presented the higher
+damaged leaves per plant and more number of aphids per plant.
+Table 5. Means and standard deviation
+Treatmen
+t
+Week
+one
+
+
+Week
+three
+
+T1
+18.44
+0.507
+0.819
+10.5
+1.352
+T2
+16.26
+0.566
+13.55
+0.871
+12.6
+1.536
+T3
+17.47
+1.557
+10.2
+0.802
+10.7
+1.221
+T4
+14.16
+0.668
+10.25
+0.773
+7.2
+1.562
+
+
+
+
+
+
+
+
+
+
+
+Table 6.Aphid Damage
+Rabbit urine
+and garlic
+concentration Week one
+
+
+
+T1
+6.937
+1.1849
+15.805
+0.8676
+21.9
+1.4333
+T2
+4.487
+0.1899
+10.85
+0.7246
+17.5
+1.3271
+T3
+3.638
+0.2664
+9.875
+0.5686
+13.7
+0.9315
+T4
+2.437
+0.6419
+3.35
+0.4811
+2.1
+0.3786
+
+T1
+T2
+T3
+T4
+Number of aphids
+Rabbit and garlic urine concentrations per week
+Week one
+Figure 1.Showing means and standard deviations weekly
+
+
+
+
+Figure 2. A graph showing weekly aphid damage
+
+
+
+
+
+
+
+Table 7. A table showing general means
+T1
+T2
+T3
+T4
+Leaf damage per plant
+Rabbit and garlic urine concentrations per week
+Week one
+Overall means of the Treatments on aphid population
+Treatments
+Number of aphids
+Leaf damage per plant
+(cm)
+T1
+15.89±6.51b
+10.85±10.2c
+T2
+15.13±5.35b
+7.46±5.19b
+T3
+14.72±11.83ab
+6.34±4.58b
+T4
+12.42±6.02a
+2.7±4.85a
+
+
+
+
+Figures donated with different letters were highly significantly different at (P < 0.05)
+
+Table 8.Analysis of variance of leaf damage
+Source of variation
+d.f.
+s.s.
+m.s.
+v.r.
+F pr.
+
+
+
+
+
+
+WEEKS stratum
+5502.95
+2751.47
+82.75
+
+
+
+
+
+
+WEEKS stratum
+
+
+
+
+
+TREATMENTS
+4399.12
+1466.37
+44.1 <.001
+Residual
+514 17090.36
+33.25
+
+
+
+
+
+
+
+Total
+519 26992.43
+
+
+
+
+
+
+
+
+The difference leaf damage per weeks were highly significantly different at (P < 0.001)
+
+4.2 Ojective 2
+From the experiment, very low response was observed at Treatments (T1), with 0.969 number of flowers.
+Whereas for the other treatments T2,T3 and T4 revealed relatively higher responses of 1.292, 1.769 and
+2.631 respectively. The experiment also exhibited higher responses for plant height in plants under
+treatment T4 with 58.36cm and lower responses were observed in other treatments of T1 with the least
+response of 22.27cm as it is highest plant height followed by treatments T2, and T3 respectively.
+Table 5. Tomato growth response by number of flowers
+TREATMENTS Mean
+Variance s.d.
+s.e.mean Pv
+l.s.d
+T1
+0.969
+2.464
+1.57
+0.1377
+0.001
+0.616
+T2
+1.292
+4.286
+2.07
+0.1816
+
+T3
+1.769
+8.055
+2.838
+0.2489
+
+T4
+2.631
+17.677
+4.204
+0.3687
+
+
+
+l.s.d.
+1.782
+1.405
+pValues
+0.009
+0.001
+
+
+Table 6. Tomato growth response on Plant height
+TREATMENTS Mean
+Variance s.d.
+s.e.mean Pvalue
+l.s.d
+T1
+22.27
+830.5
+11.82
+2.528
+0.003
+4.746
+T2
+32.52
+127.1
+15.27
+0.989
+
+T3
+34.62
+182.9
+18.52
+1.186
+
+T4
+58.36
+437.7
+20.92
+1.835
+
+
+
+4.3 Objective 3
+The results exhibit that the "Leaf Damage per Plant" is denoted (-0.256). This indicates that as the number
+of leaves damaged by aphids increases, there's a trend for tomato growth to decrease. However, the table
+shows a statistically significant constant effect on tomato growth (t pr. < .001). This implies there's likely
+a baseline level of growth independent of aphid damage therefore this shows that there is a relationship
+between aphid damage and growth of tomato plants.
+
+Table 7. Relationship between aphid damage and tomato growth
+Estimates of parameters
+
+
+
+
+Correlations between parameter
+estimates
+
+
+
+
+Parameter
+estimate s.e.
+t(518)
+t pr.
+Constant
+26.69
+1.21
+22.07 <.001
+LEAF_DAMAGE_PER_PLANT
+-0.256
+0.122
+-2.1
+0.036
+
+
+4.4 Results and Discussion
+The results of the efficacy assessment of garlic extract as a natural aphid control agent on infected tomato
+plants are presented in Table 6. The measurements taken include plant height, damage to leaves per
+plant, number of flowers per plant, and number of aphids per treatment.
+
+
+
+4.5 Objective 1 (Aphid population & Aphid damage)
+The severity of leaf damage caused by aphids was assessed for each treatment. The control group (T1)
+had the highest damage score, denoted by the mean of 10.85±10.2 since it also exhibited the highest
+number of aphids. However, all treatments with garlic extract and rabbit urine (T2, T3, and T4) exhibited
+lower damage scores, suggesting the potential of garlic extract and rabbit urinein reducing leaf damage
+caused by aphids. In a study conducted by Gravel et al., 2007, it was demonstrated that daily disulphide,
+a component found in the essential oil of garlic, possesses insecticidal characteristics that exhibit efficacy
+against various pests, including the Alternaria Solani species.
+
+4.6 Objective 2 (Plant height & Number of flowers)
+The tomato plants treated with different doses of rabbit urine and garlic extract exhibited varying heights.
+The control group T1 had a plant height of 22.27cm while the plants treated with in T2, T3, and T4 doses
+of garlic extract and rabbit Urine showed heights of 32.52cm, 34.62cm, 58.36cm respectively. The highest
+value was observed in T4, indicating a positive correlation between garlic extract and rabbit urine
+concentration dose and plant height. The control group exhibited the least number of flowers at flowering
+stage with a mean of 0.969±0.1377 while the plants treated with in T2, T3 and T4 doses of garlic and rabbit
+urine showed highest number of flowers according to a study reported by Arora et al. (2014), they found
+that using a combination of garlic is more effective in pest control compared to using only garlic. Garlic
+acts as a natural pesticide, inhibiting the growth of pests and insects, while also improving plant growth
+parameters such as height.
+
+4.7 Objective 3 (Relationship between aphid damage & growth of tomato plants)
+The results exhibit that the "Leaf Damage per Plant" is denoted (-0.256). This indicates that as the number
+of leaves damaged by aphids increases, there's a trend for tomato growth to decrease. However, the table
+
+
+shows a statistically significant constant effect on tomato growth (t pr. < .001). This implies there's likely
+a baseline level of growth independent of aphid damage. Factors like tomato variety, soil nutrients, and
+overall plant health could contribute to this constant effect. According to a study conducted by P., &
+Manicardi, G. C. (2005). Effect of Garlic on Green Peach Aphid (Myzus persicae) on Pepper (Capsicum
+annuum)39, 1968–1977 where they found that using a combination of garlic is more effective in pest
+control compared to using only garlic. Garlic acts as a natural pesticide, inhibiting the growth of pests and
+insects.
+
+
+
+
+
+
+CHAPTER FIVE
+5.0 Conclusions and Recommendations
+5.1 Conclusions.
+In conclusion, the efficacy assessment of garlic extracts and rabbit urine concoction as a natural aphid
+control agent on infested tomato plants revealed promising results. The study examined the effects of
+different doses of garlic extract and rabbit urine concoction on various parameters, including plant
+height, damage to leaves per plant, Number of aphids and number of flowers. The treatments with
+garlic extract and rabbit urine concoction exhibited positive effects on most of parameters, with higher
+doses demonstrating greater efficacy. The results showed the potential of garlic extract and rabbit urine
+concoction in improving tomato crop yield and economic returns for farmers. Based on the findings,
+
+5.2 Recommendations.
+Since this experiment only focused on one dry season, its recommended that the rabbit urine and
+garlic extract concoction can be used for many other seasons because in a rainy season the aphids
+can be washed away. Other parameters such as yield per plant and overall yield can also be taken
+into consideration in order to tell if the concoction affects the yields of these tomatoes in any
+way. The Rabbit urine and Garlic extract concoction should also be tested on other pests rather
+than aphids

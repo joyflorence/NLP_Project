@@ -1,0 +1,1490 @@
+ 
+ASSESSING THE EFFICACY OF CHORAX 72% FUNGICIDE IN THE 
+MANAGEMENT OF LATE BLIGHT (PHYTOPHTHORA INFESTANS) DISEASE 
+ON TOMATOES  
+CAPHER OTHIENO  
+S21B26/006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN 
+PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF 
+AGRICULTURAL SCIENCE AND ENTREPRENEURSHIP  OF UGANDA CHRISTIAN 
+UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+i 
+ 
+ABSTRACT 
+Emergency of fungal diseases can be controlled using chorax72% fungicide however, 
+there is limited information on its effectiveness under Uganda's unique 
+environment. This study evaluated the effectiveness of chorax72% fungicide in 
+controlling late blight disease and its effect on yield of tomatoes. The research 
+was conducted using a randomized complete block design with three replications. 
+The different treatments dosages of Chorax 72% included the recommended 
+(37.5g/10L of water), 25% higher (46.9g/10L) and 25% lower (28.1g/10L), a 
+reference fungicide (mancozeb at 25g/10L) and untreated control. Data was 
+collected on severity, incidence and tomato yield including fruit yield weight and 
+marketable fruits.  The results showed that there was significant difference 
+(p<0.001) among the dosages of chorax72% on the disease severity and incidence. 
+There was also significant effect of Chorax 72% on yield weight (p=0.015) and 
+marketable fruits (p=0.012) of tomatoes. The 25% higher dosage of Chorax 72% 
+showed the lowest disease severity and incidence (1.54 ± 0.60a and 0.20 ± 0.12a 
+respectively) while the untreated control had the highest severity and incidence 
+with 2.97 ± 0.74d and 0.91±0.11d respectively. The recommended dosage produced 
+the highest fruit weight (2574g) and zero treatment had the lowest fruit weight 
+(872g), both the recommended and 25% higher doses resulted in the highest 
+number of marketable fruits(33.0fruits) compared to zero treatment (8.0fruits). 
+This implies that the recommended (37.5g/10L) and 25% higher dosages 
+(46.9g/10l) of Chorax 72% inhibits the pathogen growth on tomatoes leading to 
+increased crop yield.  Therefore, the recommended dosage (37.5g/10L) of 
+chorax72% fungicide is recommended for controlling late blight disease in tomatoes 
+in Uganda.  
+
+ii 
+ 
+DEDICATION  
+I dedicate this report to my beloved family and Aunt Joy Awori, their unweaving 
+support (financially and spiritually) and encouragement have been a source of 
+strength during my study. Your tireless generosity and love have made this 
+endeavor possible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+DECLARATION. 
+I, Othieno Capher, hereby declare that this research dissertation, entitled assessing 
+the efficacy of chorax72% fungicide in the management of late blight disease on 
+tomatoes is an original work carried out by me under the   guidance of the 
+instructor and I affirm that all information and ideas presented in this proposal are 
+the result of my own investigation and intellectual effort, except where otherwise 
+acknowledged. 
+Furthermore, I certify that this report has not been submitted for any other degree 
+or qualification at this or any other institution of learning. 
+ 
+Signature:……………….. 
+DATE        : …………………………… 
+OTHIENO CAPHER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+APPROVAL  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ACKNOWLEDGEMENT  
+Above all, I give all the glory, honor and praises to the almighty God for his 
+unending grace, wisdom and strength throughout this journey. Without His 
+guidance and blessings, this work would not have been possible. 
+I extend my heartful gratitude to my research supervisor Miss. Namutosi Winnie for 
+her academic assistance, guidance and encouragement.  
+Special thanks to Dr. Jennifer Bisikwa and Mr. Ian Benywanira of Makerere 
+University for the opportunity to work with them and provision of all required 
+materials needed to accomplish my research. Their invaluable assistance in the 
+field and encouragement from the start up to the end of the research experiment 
+is highly appreciated.   
+I would like to extend my appreciations to Professor Elizabeth Kizito of Uganda 
+Christian University for the guidance and instruction has been a cornerstone of this 
+research, Special appreciation to my parents Mr., Samuel Ochieng and Mary 
+Namukose, beloved brother Okolong Phillip whose love, sacrifices and belief in me 
+have been my source of inspiration and motivation throughout my academic 
+journey.  May they live long to see the fruits of their hard work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+TABLE OF CONTENTS  
+ABSTRACT ......................................................................................... i 
+DEDICATION ...................................................................................... ii 
+DECLARATION. .................................................................................. iii 
+APPROVAL ....................................................................................... iv 
+ACKNOWLEDGEMENT ........................................................................... v 
+LIST OF TABLES ................................................................................. ix 
+LIST OF FIGURES ................................................................................ x 
+LIST OF APPENDICES ........................................................................... xi 
+ACRONYMES ................................................................................... xii 
+CHAPTER ONE ................................................................................... 1 
+1.0 INTRODUCTION ............................................................................. 1 
+1.1 Back ground. ............................................................................. 1 
+1.2 Problem statement. .................................................................... 2 
+1.3 Research Objectives. ................................................................... 3 
+1.3.1 General objective. ................................................................. 3 
+1.3.2. Specific objectives. ............................................................... 3 
+1.4 Hypothesis. ............................................................................... 3 
+1.5 Justification of the study. ............................................................. 4 
+1.6 Significance. ............................................................................. 4 
+1.7. Conceptual frame work. .............................................................. 5 
+1.8 Scope of the study. ..................................................................... 6 
+CHAPTER TWO .................................................................................. 7 
+2.0. LITERATURE REVIEW. ..................................................................... 7 
+2.1.1. The importance of the Tomato production. .................................. 7 
+
+vii 
+ 
+2.1.2 Late blight. ......................................................................... 7 
+2.1.3. Origin and distribution of P. infestans ......................................... 7 
+2.2. Disease development and lifecycle. ................................................ 8 
+2.3. Economic importance of late blight in the tomato production. ................ 8 
+2.4.1 Biological control/eco-friendly management ................................. 9 
+2.4.3 Host resistance ..................................................................... 9 
+2.4.4. Chemical management; .......................................................... 9 
+2.5. Chorax72% fungicide. ................................................................ 10 
+2.5.1. Mode of action. ................................................................. 10 
+2.5.2. Field trials of cymoxanil + mancozeb combinations. ...................... 10 
+CHAPTER THREE. ............................................................................. 12 
+3.0. Methodology. ............................................................................ 12 
+3.1. Experimental site. ................................................................... 12 
+3.2. Materials and equipments .......................................................... 12 
+3.3. Experimental design. ................................................................ 13 
+3.3.1. Treatment allocation. .......................................................... 13 
+3.4. Fungicide application. ............................................................... 13 
+3.5. Data collection. ...................................................................... 14 
+3.5.1. Data collection For Objective One: .......................................... 14 
+3.5.2 Data collection for Objective Two: ............................................ 14 
+3.6.0. Data analysis. .................................................................... 15 
+CHAPTER FOUR ................................................................................ 16 
+4.0. RESULTS. ................................................................................. 16 
+4.1 Objective one: To assess the effect of chorax72% fungicide on the progress of 
+phytophthora infestans in tomatoes. ................................................... 16 
+
+viii 
+ 
+4.1.1 Effect of chorax72% fungicide on P. infestans progress in tomatoes..... 16 
+4.2. Objective two: To determine the effect of chorax72% fungicide on the yield 
+of tomatoes. ................................................................................ 18 
+4.2.1. To determine the effect of altering the fungicide dosages on the yield of 
+tomatoes. ................................................................................ 18 
+CHAPTER FIVE. ................................................................................ 20 
+5.0 DISCUSSION AND CONCLUSION. ........................................................ 20 
+5.1 For Objective 1: To assess the effect of chorax72% fungicide on the progress 
+of phytophthora infestans in tomatoes ................................................. 20 
+5.2 For objective Two: To determine the effect of altering the fungicide dosages 
+on the yield of tomatoes. ................................................................ 20 
+CHAPTER SIX ................................................................................... 22 
+6.0 CONCLUSION AND RECOMMENDATIONS ............................................... 22 
+6.1 Conclusion. ............................................................................. 22 
+6.2 Recommendations ..................................................................... 22 
+REFERENCES ................................................................................... 23 
+APPENDICES ................................................................................... 28 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+LIST OF TABLES  
+Table 1: The incidence and severity of late blight disease in tomatoes treated with 
+different doses of chorax72%. .............................................................. 17 
+Table 2: The tomato leaves, branches and fruits infected by p. infestans treated by 
+different dosages of chorax72%). .......................................................... 17 
+Table 3: The yield (g) of tomatoes among the dosages of chorax72% . .............. 18 
+Table 4: The number of marketable fruits among the different dosages of 
+chorax72% ..................................................................................... 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+x 
+ 
+LIST OF FIGURES  
+Figure 1: Illustration of conceptual framework............................................ 6 
+Figure 2: Illustration of the field lay out ................................................. 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+LIST OF APPENDICES 
+Appendix 1. Time line ....................................................................... 28 
+Appendix 2 .Data sheet ...................................................................... 29 
+Appendix 3. Field Data collection ......................................................... 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xii 
+ 
+ACRONYMES 
+FAO 
+ 
+-  Food and agriculture organization. 
+MAAIF  
+- 
+Ministry of agriculture, animal, industries and fisheries. 
+P.Infestans _  Phytophthora infesstans. 
+IDM 
+ 
+_  Integrated disease management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE 
+1.0 INTRODUCTION 
+1.1 Back ground. 
+Tomato (solanum lycopersicum) is one of the most widely cultivated and consumed 
+vegetables globally being a staple in many diets dues to its nutritional 
+benefits(Ddamulira et al., 2021) its ranked the third vegetable worldwide (Brief, 
+2022), Currently the global tomato production is at 186 million tones.).The food 
+and agriculture organization (FAO) reported that Uganda’s tomato was estimated 
+at over 800,000 metric tons IN 2020 making significant increase from previous 
+years.( FAO,2020). 
+However, despite of its importance, the tomato production (farmers) in Uganda 
+faces serious hindrances/challenges, which are particularly from biotic stress most 
+notably the diseases which accounts for a substantial portion of yield losses. 
+Among these, late blight caused by the pathogen phytopthora infestans is one of 
+the most devastating leading to severe reductions in crop quality and quantity 
+(Byarugaba et al., 2018). Late blight not only affects tomatoes but also crops like 
+potatoes and its management is pivotal for maintaining productivity. The late 
+blight disease has characteristic  symptoms such as water-soaked, gray-green 
+circular lesions on leaves, as the disease progress ,the spots darkens and a white 
+fungal growth forms underside the leaves eventually colonizing the whole plant 
+(Quesada-Ocampo & Meadows, 2019)). This interrupts the plant’s physiological 
+processes leading to drying off of leaves, fruits with greasy spots hence the death 
+of the whole plant. The   use of a resistant variety is the best option tin the 
+management of this disease, despite that the pathogen is more aggressive and 
+highly adaptive in the environment, and a breakdown of resistance is reported 
+
+2 
+ 
+making measure to often fall short when faced with significant disease pressure 
+(Haverkort et al. 2009). So, the most reliable strategy left is the use of integrated 
+disease management (IDM) for the disease, where fungicides stands as the most 
+effective  over the disease t(DEY et al., 2024). 
+The combination of cymoxanil and mancozeb has gained attention for its 
+effectiveness against late blight. Cymoxanil is a systemic fungicide that can 
+penetrate the plant leaves rapidly and act by preventing sporulation in fungi 
+(Action, n.d) hindering the reproduction of spores from infected plants. While as 
+mancozeb is a protectant fungicide that provides abroad spectrum contact action, 
+disrupting fungal enzyme functions (Gullino et al., 2010). The dual action of the 
+two active ingredients in chorax72% makes it a promising solution for tomato 
+farmers in Uganda facing this threat of late blight. Though its effectiveness is not 
+known yet. The study therefore assessed the effectiveness of chorax72%   fungicide 
+in controlling late blight disease in tomatoes for improved growth and yield.  
+1.2 Problem statement. 
+Despite the benefits of tomatoes, its production is challenged by the devastating 
+pathogen phytophthora infestans (Akello L et al., 2023). The disease is reported to 
+cause losses of about 30-70% (Akello L et al., 2023) studies showed a yield loss of 
+upto 79.47% in susceptible under the favorable conditions for the pathogen.  
+Management of the disease basically relies on synthetic Fungicides that stands out 
+to be the effective strategy under intense disease pressure like Dithane 
+(mancozeb), bravo (chlorothalinil) and indofil M-45(mancozeb) (Haveri et al., 
+2018). The repetitive use of the same type and formulations of the fungicide has 
+led to development of resistance in P. infestans diminishing the long-term 
+efficiency of these chemicals (Cohen et al., 2020). Studies shows that a 
+
+3 
+ 
+combination of cymoxanil+mancozeb fungicides performs best in disease control 
+and also influence the quality of tubers and fruits yield (Debanath S and P.S.Nath 
+,209) Kumar P et al.,2018). These exists on the Asian continent (India) where 
+climatic conditions differ from Uganda's and this which may alter the genetic 
+make-up of the pathogen and support the growth-patterns of crops differently 
+hence affecting the response to the fungicide by the plant and the pathogen. 
+However, for chorax72% fungicide formulation and field applicability, limited 
+information is known on its effectiveness under Uganda's unique environment and 
+the farmers behavior of applying without observing the prescribed dosages. 
+Therefore, this study evaluated the effectiveness of chorax72%   fungicide in 
+controlling late blight disease and its effect on yield of tomatoes.  
+1.3 Research Objectives. 
+1.3.1 General objective. 
+To evaluate the effectiveness of Chorax72%fungicide in controlling the late blight 
+in tomatoes for improved tomato yields.  
+1.3.2. Specific objectives. 
+1. To assess effect of chorax72% fungicide on growth of Phytophthora infestans 
+in tomatoes  
+2. To determine the effect of altering the fungicide dosages on the yield of 
+tomatoes. 
+1.4 Hypothesis. 
+1. Chorax 72% fungicide has no significant effect on the growth of phytopthora 
+infestans in tomatoes. 
+
+4 
+ 
+2. Altering the dosages of chorax72% fungicide will significantly affect the 
+yield of tomatoes. 
+1.5 Justification of the study. 
+Chorax 72%, a fungicide containing 8% cymoxanil and 64% mancozeb has been 
+developed as one of the potential materials that can contribute to the 
+management of late blight disease that causes devastating losses in the world. 
+Based on the studies and applicability of the active ingredients contained in the 
+fungicide, they show positive results when used as a single or mixed with other 
+fungicides in inhibiting the growth and development of the pathogen p. infestans 
+(Ogolla et al., 2021). This combination promises enhanced effectiveness by 
+targeting the pathogen at different stages of its life cycle since the active 
+ingredients in it have different and unique mode of action towards the pathogen. 
+However, for any new chemical introduced in a country its mandatory to go 
+through the ministry of agriculture (MAAIF) for approval and registration under the 
+Agricultural chemical control, Act 2006. This applies to the fungicide in study 
+before its distribution and adoption, its important to assess its efficacy under the 
+agro-ecological conditions of Uganda against the strains of the pathogen present. 
+The research evaluated the effectiveness of chorax 72% in controlling late blight 
+and its impact tomato yield. The study would help the MAAIF stake holders in 
+making informed decisions and recommendations of the dosage for farmers 
+adoption in managing the late-blight disease. 
+1.6 Significance. 
+Tomato (Solanum lycopersicum) is one of the major horticultural crops grown 
+extensively for its nutritious edible fruits  (Akejo & Obbo, 2017).  With over 20,000 
+
+5 
+ 
+small holders farmers particularly for income generation (Sonko et al, 2005), and 
+the sector is dominated by male who do it for purposes of house hold income 
+generation. (Ddamulira et al., 2021). Since the Late blight, caused by 
+Phytophthora infestans, is a devastating disease that can result in significant yield 
+losses to tomato growers, and the active ingredients contained in chorax72 % 
+fungicide have been effective in controlling the P. infestans pathogen, it’s very 
+crucial to evaluate the efficacy of Chorax 72% fungicide compared to the widely-
+used Mancozeb under the Uganda agroecological zone. This study lies in its 
+potential to enhance agricultural productivity and sustainability by providing 
+effective solutions for managing late blight in tomatoes. This will reduce on the 
+economic losses, increase the income of the smallholder farmers and their 
+livelihoods through the increased productivity. 
+1.7. Conceptual frame work. 
+This conceptual frame works serves to summarize how the research was done 
+bringing out the relationship among the components of my investigations (Anfara 
+and Mertz, 2014). The independent variables, the variables that were the major 
+key factors of the experiment study being chorax72%fungicide application the 
+dosage (the recommended dosage,25% higher and lower than recommended 
+dosage) and frequency of application, also the fungicide properties (chemical 
+composition, mode of action). 
+The dependent variables, the assessment depended on the main dependent 
+variables are the disease progress (severity and incidence) after the fungicide 
+application and the yield response in different treatments.  
+Intervening variables, these are factors that controlled the experiment for 
+example, the experiments were also dependent on the environmental factors like 
+
+6 
+ 
+humidity and rainfall patterns affect the pathogen activity and also the susceptible 
+tomato variety which prone to the disease.  
+ 
+Independent variables.                                    Dependent variables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                          
+                                     Control variables 
+Figure 1: Illustration of conceptual framework 
+1.8 Scope of the study. 
+The experiment evaluated the effectiveness of chorax72% fungicide on the 
+management of P. infestans in tomatoes and this was conducted at Makerere 
+agricultural research institute Kabanyolo (MARIK) from December 2024 to 
+february2025. 
+ 
+ 
+ 
+ 
+ 
+Dosages of Chorax 72% 
+Fungicide 
+Late Blight Disease 
+Incidence and Severity. 
+Growth and yield. 
+Environmental factors (humidity and 
+rainfall) Tomato variety (susceptible) 
+Tomato variety (susceptible) 
+
+7 
+ 
+CHAPTER TWO 
+2.0. LITERATURE REVIEW. 
+2.1.1. The importance of the Tomato production. 
+Tomatoes are a crucial component of global diet, with production levels reaching 
+180 million tones per year as of 2019, ranking them as the most important 
+vegetable crop (Hong et al., 2022). They are rich in vitamins phytonutrients and 
+minerals contributing to public health and nutrition (khanh et al., 2020). The 
+economic importance of tomatoes extends beyond their nutritional value, they are 
+an essential source of income for millions of farmers and play a key role in national 
+income particularly in developing countries (Khanh et al., 2020). 
+2.1.2 Late blight. 
+Late blight is devastating disease caused by the oomycete pathogen pytophthora 
+infestans. This pathogen is notorious for causing the Irish potato famine in 1840s 
+that led to death of over million people (Quesada-Ocampo & Meadows, 2019) .it 
+affects tomatoes and other members of the solanaceae family such as potatoes, 
+petunias and nigh shade. With several symptoms on the tomato plant ; irregular 
+water soaked lesions on leaves, often with a lighter halo around them, white 
+cottony growth on the underside of leaves where sporangia forms, brown to gray 
+lesions on the surface of leaves, blighted leaves and stems that curl, shrive and 
+eventually die and rotted fruit with greasy spots that become leathery and 
+chocolate brown ((Nelson, 2008) 
+2.1.3. Origin and distribution of P. infestans 
+Phytophthora infestans originated in America and has since spread globally (fry et 
+al., 2016). As a hemibiotrophic pathogen, it takes nutrients from living tissues and 
+transitions to necrotic phase, decaying its host tissues during infection (Zhang et 
+
+8 
+ 
+al.,2014). The ability of P. infestans to thrive in various environmental conditions 
+has facilitated its widespread distribution and emergence as a major pathogen 
+responsible for substantial crop losses in tomatoes worldwide (fry et al., 2016). 
+2.2. Disease development and lifecycle. 
+The development of late blight disease is influenced by several environment 
+factors including temperature, humidity and leaf wetness duration optimal 
+temperature ranges between 15-25 degrees with relative humidity >90% or 
+prolonged leaf wetness (Gonzalez ,et al .,2021) under these conditions the 
+sporangia produced by p.infestans can germinate rapidily and infect the host 
+tissue. The pathogen can undergo both sexual and asexual life cycle. The asexual 
+life cycle of Phytophthora infestans is characterized by alternating phases of 
+hyphal growth, sporulation, sporangia germination (either through zoospore 
+release or direct germination, i.e. germ tube emergence from the sporangium), 
+and the re-establishment hypha growth.(Nowicki,et al.,2013). 
+2.3. Economic importance of late blight in the tomato production. 
+The economic implications of p.infestans outbreaks are profound, as late blight 
+can lead to catastrophic yield losses, often exceeding 50% in severely affected 
+areas within a short span of time (Duarte c et al., 2018). The pathogen’s rapid 
+reproduction and adaptability through genetic mutations enable it to overcome 
+host resistance through genetic mutations enable it to overcome host resistance 
+and fungicide application, hence this necessitates continuous management efforts 
+(Duarte c et al., 2018). So the fear of late blight prompts farmers to apply 
+fungicides prophylactically and multiple sprays to overcome it which affects the 
+growers economically (Yang et al.,2023). 
+ 
+
+9 
+ 
+2.4.0 Control methods. 
+2.4.1 Biological control/eco-friendly management 
+This method is gaining importance due to the negative impacts of chemicals. A 
+study found that leaf extracts from onions, garlic, Malus toringo revealed positive 
+inhibition of the mycelial growth of P. infestans. Other antagonists such as Bacillus 
+subtilis B5 and Trichoderma viride have also been found to be effective. (Lal et al., 
+2017) 
+2.4.3 Host resistance  
+The use of resistant varieties is among the most effective and environmentally safe 
+tools for late blight management (FAO, 2008).  
+The host plant resistance reduces the incidence of late blight; delays the onset and 
+development of disease and the required number of sprays. Plant resistance for 
+late blight started with the introduction of the resistance gene (R-gene) though it 
+has been broken by virulent strains (Binyam et al., 2014). 
+2.4.4. Chemical management; 
+Fungicides application remains the most prevalent method of managing late blight 
+in tomatoes. There are several fungicides available for late-blight management 
+such as; Mancozeb, Mancozeb+ Metalaxyl, Ridomil Gold, indofila, Mancolaxyl, 
+(Mancozeb and Metalaxy-M), Fungomil, Mancolaxyl 72% among others (Haverkort, 
+et al., 2012). Generally, the fungicide application has been the only reliable 
+management for late blight however, the consistent use has led to the 
+development of systemic fungicide resistance in P. infestans. The genetic diversity 
+complicates management strategies as different strains may respond differently to 
+
+10 
+ 
+control measures tasking for introduction of newer fungicides to divert the 
+pathogen. 
+2.5. Chorax72% fungicide. 
+Chorax72 % fungicide contains cymoxanil8%and mancozeb64%. It has a dual mode 
+of action as both a protective and a curative fungicide as per the properties of its 
+active ingredients making it a valuable tool in the disease management. 
+2.5.1. Mode of action. 
+ Studies indicate that cymoxanil operates through its ability to cause cell death in 
+pathogen its less toxic to beneficial microbial populations (NA & MS, 2016). It 
+controls diseases during the incubation period and prevents the appearance of 
+damage on the crop. ((Safety et al., 2024). Mancozeb, a dithiocarbonate, disrupts 
+the 
+pathogen’s 
+extracellular 
+enzyme 
+production 
+and 
+spore 
+germination 
+mechanisms (fry, 2016). 
+2.5.2. Field trials of cymoxanil + mancozeb combinations. 
+Studies have shown that a combination cymoxanil and mancozeb is highly effective 
+in controlling late blight when applied as a prophylactic measure (before 
+appearance of disease symptom) as well as curative. (Sharma, 2013). Based on the 
+field study comparing different fungicides in the management of late blight in 
+potatoes "}(NA & MS, 2016), Recent studies on the investigation of the efficacy of 
+fungicides in controlling the late blight shows that a combination of cymoxanil and 
+mancozeb fungicides proved to be more effective in controlling the late blight 
+disease of tomatoes and it had a positive impact  on the yield of tomatoes(Das, 
+2022). A study by (Debnath S., et al 2009) also recorded that there was lowest 
+disease severity observed in the treatment with the mixture of sprays of mancozeb 
+
+11 
+ 
+64%+ cymoxanil8%-72%wp@1500g/ha as compared to other sprays like infinity 
+68.75% and metalaxyl8%+mancozeb 64%-72 wp when used in the management of 
+late blight disease. This gives its potential but still this formulation is not adopted 
+in the country by the farmers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+CHAPTER THREE. 
+3.0. Methodology. 
+3.1. Experimental site. 
+The experiment was conducted at Makerere University Agricultural Research 
+Institute Kabanyolo (MUARIK) field. MUARIK is located on spatial coordinates 
+0˚27'60''N, 32˚36'24'' E  at an altitudinal range of 1250m to 1320 m above mean sea 
+level (Yost, D et al., 1990). The study site is within in the administrative 
+boundaries of Nangabo sub county, Wakiso district abou19 kilometers north of 
+Kampala along the Gaya-Zirobwe road, sited on 650 hectares serving as a hub for 
+training, research, outreaches and agricultural production. 
+ Kabanyolo is part of the Lake Victoria basin that receives an average annual 
+precipitation of 1218 mm and slightly drier periods in June to July and December 
+to February. The average annual temperature is 21.5˚C making it suitable for 
+agricultural projects (Komutunga, E.T. et al.,2001). 
+3.2. Materials and equipments 
+ The Ansal f2 tomato variety was used for the study, seedlings were raised and 
+managed using standard nursery practices at MAURIK. Transplanting was done four 
+weeks after seedling emergence with handful of organic manure per plant. Three 
+different concentrations of chorax72% fungicide (recommended dosage, 25% higher 
+and 25% lower than the recommended dosage), mancozeb as a reference fungicide 
+and the untreated were included for comparisons. The agronomic practices that 
+are weeding, pruning and gap filling   were done as recommended. 
+The equipment used included: knapsack sprayer, Data sheets (hard copies), long 
+ruler, disease diagnosis   manuals, tags, pencils, Weighing scale. 
+
+13 
+ 
+3.3. Experimental design. 
+The experimental field was laid out in a randomized complete block design with 
+replications (Olsson, 1978) The plots size were measuring 3m×3 m with 15 plots. 
+Covering the total area of 135 square meters. The seedlings were transplanted at a 
+spacing of 50cm ×50 cm with a total of 36 plants per plot. The experiment relied 
+entirely on natural infection (Gudero et al., 2018). 
+3.3.1. Treatment allocation. 
+Treatments were randomly assigned within each replication and properly tagged 
+before fungicide application. 
+Rep 1 
+Zero 
+treatment 
+25% Lower Dose 
+Chorax72% 
+Recommended 
+Dose 
+Reference 
+Dose 
+25% Higher Dose 
+Rep 2 
+Reference 
+Dose 
+Zero Treatment 
+25% Higher Dose 
+25% Lower 
+Dose 
+Chorax72% 
+Recommended 
+Dose 
+Rep 3 
+25% Higher 
+Dose 
+Chorax72% 
+Recommended 
+Dose 
+Reference Dose 
+25% Lower 
+Dose 
+Zero Treatment 
+Figure 2: Illustration of the field lay out 
+3.4. Fungicide application. 
+The fungicide chorax72% was applied at recommended dosage of 37.5g/10 liters of 
+water, altered the dosage 25% higher the recommended (46.9g/10l), 25% lower the 
+recommended (28.1g/10l) and mancozeb at manufacturers dosage (25g/10l). The 
+spray started at the appearance of the symptoms of the late blight disease at the 
+
+14 
+ 
+interval of 12 days apart from the control that received zero chemical (Gudero et 
+al., 2018). 
+3.5. Data collection. 
+Each plot had six rows but data collection was limited to the middle four rows 
+excluding the boarder plants. Ten plants in each plot were tagged for data 
+collection(Poudel et al., 2020). 
+3.5.1. Data collection For Objective One: 
+ To assess effect of chorax72% fungicide on growth of Phytophthora infestans in 
+tomatoes  
+Disease severity and incidence. 
+To achieve objective one, the whole plant was assessed for severity and incidence. 
+The severity of the disease was scored at the scale of 1-4 (Maerere et al.,2010 and 
+incidence as percentage by formula (n/N)*100 as by Meya et al.,2015 for three 
+times during the experiment. Also, the number of infested leaves, branches and 
+fruits were recorded. 
+3.5.2 Data collection for Objective Two: 
+To determine the effect of altering the fungicide dosages on the yield of tomatoes. 
+Yield performance 
+At maturity the red tomato fruits were harvested, taken to the lab for yield 
+assessment. The tomatoes from each plot were weighed using a weighing scale and 
+recorded in grams, calculated the yield increase(gm) and graded into marketable 
+and unmarketable fruits (Gudero et al., 2018). 
+
+15 
+ 
+3.6.0. Data analysis. 
+Data for both objectives was analyzed using Genstat-12th edition to get the 
+means, standard deviations and standard errors. The p-values and the LSD were 
+got by running the Analysis of variance (A NOVA). A post-hoc test was done using 
+the Bonferroni for the significant difference among the treatments. 
+ 
+ 
+ 
+  
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16 
+ 
+CHAPTER FOUR 
+4.0. RESULTS. 
+4.1 Objective one: To assess the effect of chorax72% fungicide on the progress 
+of phytophthora infestans in tomatoes. 
+4.1.1 Effect of chorax72% fungicide on P. infestans progress in tomatoes. 
+The results in (table:1) presents the mean incidence and severity of late blight 
+caused by phytopthora infestans under different treatments using chorax72% 
+fungicide. The treatments included varying dosages of chorax72% (25% higher, 
+recommended& 25%lower), a reference and zero treatment.  Both the severity and 
+incidence were significantly affected by the treatments (p<0.001). The treatment 
+with no fungicide application (zero) showed the highest severity of 2.97 ± 0.74d, 
+while the treatment with 25% higher than the recommended dosage of chorax72% 
+fungicide showed the lowest severity of 1.54 ± 0.60 a. The results also show the 
+treatment with Zero fungicide application had the highest disease incidence of 
+0.91 ± 0.11d, while the treatment with 25%higher dosage showed the lowest 
+incidence with   0.20 ± 0.12 a. 
+In table 2, showed that there was highest number of leaf infection in the 
+treatment with zero fungicide that is 9.91±5.83c    and the treatment with the 
+25%higher showed the lowest number of leaves infected (2.4±2.77a). The highest 
+number of fruits infected was recorded from the treatment with no fungicide 
+application (1.33±1.71c) while the lowest number of fruit infection was recorded 
+from the treatment with 25% higher dosage of chorax72%(0.1±0.31a ). 
+ 
+ 
+
+17 
+ 
+Table 1: The incidence and severity of late blight disease in tomatoes treated 
+with different doses of chorax72%.  
+Treatment 
+ Severity (Mean ± SD) 
+       Incidence (Mean ± SD) 
+25% Higher 
+1.54± 0.60a 
+0.2018 ± 0.118 a 
+Recommended 
+1.78 ± 0.72ab 
+0.2144 ± 0.10a 
+25% Lower 
+2.00± 0.7495bc 
+0.2650 ± 0.05b 
+Reference 
+2.08 ± 0.84c 
+0.3370 ± 0.099c 
+Zero 
+2.97 ± 0.74d 
+0.91 ± 0.11d 
+p-value 
+< 0.001 
+< 0.001 
+LSD (0.05) 
+0.198 
+0.076 
+P< 0.001 shows the significantly different among treatments. a, ab, bc, c, d, show the 
+differences between the treatments (dosages of chorax72%) use to control late 
+blight in tomatoes.   
+Table 2: The tomato leaves, branches and fruits infected by p. infestans treated 
+by different dosages of chorax72%). 
+Treatment 
+Infected leaves 
+Infected branches 
+Infected         fruits 
+25% higher 
+2.4±2.77a 
+1.100±0.37a 
+0.1±0.31a 
+25% lower 
+4.96±3.88b 
+1.19±0.47b 
+0.63±1.16b 
+Recommended 4.09±4.13ab 
+1.27±0.67b 
+0.37±0.67ab 
+Reference 
+4.34±3.46ab 
+1.44±0.51b 
+0.4±1.00ab 
+Zero 
+9.91±5.83c 
+1.78±0.93c 
+1.33±1.71c 
+P-value 
+<0.001 
+<0.001 
+ 
+<0.001 
+L.s.d 
+0.2148 
+1.215 
+ 
+0.5501 
+
+18 
+ 
+P< 0.001 shows the significantly different among treatments. a, ab, bc, c, d, show the 
+differences between the treatments (dosages of chorax72%) use to control late 
+blight in tomatoes 
+4.2. Objective two: To determine the effect of chorax72% fungicide on the 
+yield of tomatoes. 
+4.2.1. To determine the effect of altering the fungicide dosages on the yield of 
+tomatoes.  
+The application of chorax72% fungicide caused statistically significant effect on the 
+yield of tomatoes both on the yield weight (p=0.015) and marketable fruits 
+(p=0.012). 
+The recommended dose produced the highest fruit weight (2574g) which was 
+significantly higher than the zero treatment with (872g). Both the recommended 
+dosage and 25% higher dose produced the highest number of marketable fruits 
+(33.0 and 33.0 fruits) respectively, all of which were significantly higher than the 
+zero treatment (8.0 fruits) as shown in figure 2.  The error bars that do not overlap 
+one another shows a significant  difference among the treatments . 
+ 
+Table 3: The yield (g) of tomatoes among the dosages of chorax72% . 
+
+19 
+ 
+ 
+Table 4: The number of marketable fruits among the different dosages of 
+chorax72% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20 
+ 
+CHAPTER FIVE. 
+5.0 DISCUSSION AND CONCLUSION. 
+5.1 For Objective 1: To assess the effect of chorax72% fungicide on the progress 
+of phytophthora infestans in tomatoes 
+Results presented in table1, from the experimental trials revealed that all the 
+treatments reduced the disease incidence and severity of late blight disease over 
+the control (zero treatment). The maximum disease severity (2.967±0.7412) was 
+recorded in the control. Among the treatments, lowest was recorded in the 25% 
+higher dosage of chorax72%@46.9/10litre of water (1.778±0.71). The maximum 
+disease incidence (0.91 ± 0.11d) was recorded in the control (zero treatment) 
+whereas the minimal disease incidence (0.2018 ± 0.118 a) recorded from the 25% 
+higher dosage. This implies that increasing the dosage above the recommended 
+slightly improves the control of disease severity and incidence, untreated plants 
+are most vulnerable to the infestation pathogen. Similarly, the findings reinforce 
+that using chorax72 fungicide reduced the disease progress as it was when 
+moximate (cymoxanil8+mancozeb 64%) had the lowest disease intensity among 
+other fungicides (Kumar .P et al., 2018).  
+5.2 For objective Two: To determine the effect of altering the fungicide dosages 
+on the yield of tomatoes. 
+Chorax72% fungicide had a positive effect on the tomato yield of tomatoes which is 
+similarly to the study by (R. Das et al.,2022) (figure 2); where the treatment with 
+combination of cymoxanil8+mancozeb 64% fungicide had the maximum yield of 
+tomatoes as compared to other chemicals. The significant difference in yield 
+weights with chorax72% fungicide especially at recommended dose of suggests that 
+
+21 
+ 
+the fungicide effectively controlled the pathogen impact on the crop that might 
+otherwise limit fruit development and weight gain. This is supported by previous 
+research findings that the fungal infection can significantly reduce the 
+photosynthetic capacity and nutrient allocation with   tomato plants for fruit 
+development (Smith et al.,2018). 
+In the present study, the minimum p. infestans progress and maximum fruit yield 
+was found in the treatment with chorax72% fungicide that is 25%higher dosage and 
+recommended dosage. This could be explained by the fact that higher dosages 
+were efficient enough to inhibit the diseases producing activity of the pathogen in 
+the plant, which resulted into a better overall growth and health of the tomato 
+plants treated as compared to the other treatments ((Sharma, 2013). However, this 
+research did not look at the infestation levels of pathogen at different growth 
+stages of tomato yet its also important to know which the pathogen is most 
+effective for efficient control.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+22 
+ 
+CHAPTER SIX 
+6.0 CONCLUSION AND RECOMMENDATIONS 
+6.1 Conclusion. 
+ For objective one, the hypothesis stated that Chorax72% fungicide has no 
+significant effect on the growth of p. infestans in tomatoes. According to the 
+results, chorax72% had a significant difference (p<0.001) in late blight disease 
+incidence and severity in tomatoes treated with different dosages of chorax72%. 
+With low severity and incidence shown in25%higher dosage (1.54± 0.60and0.20 ± 
+0.12respectively) and high severity and incidence was observed when no 
+chorax72% was applied with (2.97±0.74&0.91 ± 0.11) respectively, therefore with 
+these results, I fail to accept the hypothesis. 
+For objective two, the hypothesis stated that altering the fungicide dosages will 
+have significant effect on the yield of tomatoes and based on the results, there 
+was a significant positive effect on the yield(p=0.012). Therefore, there I fail to 
+reject the hypothesis 
+6.2 Recommendations 
+One season evaluation of the chorax72% fungicide cannot give a conclusive 
+information about its effectiveness thus a need for further assessment. Therefore, 
+further study should be done for over three seasons and on what stage the disease 
+effects on the crop are more severe. 
+ 
+ 
+ 
+ 
+
+23 
+ 
+REFERENCES 
+Ddamulira, G., Isaac, O., Kiryowa, M., Akullo, R., Ajero, M., Logoose, M., Otim, A., 
+Masika, F., Mundingotto, J., Matovu, M., & Ramathani, I. (2021). Practices And 
+Constraints Of Tomato Production Among Smallholder Farmers In Uganda. 
+African Journal of Food, Agriculture, Nutrition and Development, 21(2), 
+17560–17580. 
+Brief, F. A. (2022). Agricultural production statistics 2000–2021. Agricultural 
+Production Statistics 2000–2021. https://doi.org/10.4060/cc3751en 
+Action, M. O. F. (n.d.). KRONIC - Cymoxanil 8%+Mancozeb 64% WP - Gujarat 
+Pesticides https://www.gujaratpesticides.com/products/kronic/. 15–17. 
+Food and Agriculture Organization of the United Nations. FAOSTAT 
+Statistical Database FAO Publications, Rome, Italy. 2020. 
+Nowicki, M., Kozik, E. U., & Foolad, M. R. (2012). Late blight of Tomato. 
+Translational Genomics for Crop Breeding, Volume I: Biotic Stress, October, 
+241–265.  
+Haverkort A J, Struik P C, Visser R G F and Jacobsen E. 2009.Applied biotechnology 
+to combat late blight in potato causedby Phytophthora Infestans. Potato Research 
+52(3): 249–64. 
+TPAL D, SHATABHISA S , MUKESH S , SAIKAT MA ,DURGA P. A,(27-05-224)Management 
+of late blight(Phytophthora infestans) of potato(Solanum tuberosum) through 
+efficient spray schedule of fungicidesin the north-eastern Himalayan region of 
+Indiandian Journal of Agricultural Sciences 94 (8). 
+Akejo, V., & Obbo, C. J. . (2017). Post-harvest losses in tomato market value 
+chain in Namasale Sub County, Amolatar, Uganda. 202(17), 5–6. 
+Brief, F. A. (2022). Agricultural production statistics 2000–2021. Agricultural 
+
+24 
+ 
+Production Statistics 2000–2021. https://doi.org/10.4060/cc3751en 
+Ddamulira, G., Isaac, O., Kiryowa, M., Akullo, R., Ajero, M., Logoose, M., Otim, A., 
+Masika, F., Mundingotto, J., Matovu, M., & Ramathani, I. (2021). Practices And 
+Constraints Of Tomato Production Among Smallholder Farmers In Uganda. 
+African Journal of Food, Agriculture, Nutrition and Development, 21(2), 
+17560–17580. https://doi.org/10.18697/ajfand.97.19905 
+DEY, U., SARKAR, S., SEHGAL, M., MAJUMDAR, S., AWASTHI, D. P., ACHARYA, L. K., 
+DUTTA, P., CHANDER, S., & SAHA, R. K. (2024). Management of late blight 
+(Phytophthora infestans) of potato (Solanum tuberosum) through efficient 
+spray schedule of fungicides in the north-eastern Himalayan region of India. 
+The 
+Indian 
+Journal 
+of 
+Agricultural 
+Sciences, 
+94(8), 
+841–846. 
+https://doi.org/10.56093/ijas.v94i8.147373 
+Gudero, G., Hussien, T., Dejene, M., & Biazin, B. (2018). Integrated Management 
+of Tomato Late Blight [ Phytophthora infestans ( Mont .) de Bary ] Through 
+Host Plant Resistance and Reduced Frequency of Fungicide in Arbaminch Areas 
+, Southern. Journal of Biology, Agriculture and Healthcare, 8(9), 94–109. 
+Lal, M., Yadav, S., & Singh, B. P. (2017). Efficacy of new fungicides against late 
+blight of potato in subtropical plains of India. Journal of Pure and Applied 
+Microbiology, 11(1), 599–603. https://doi.org/10.22207/JPAM.11.1.78 
+Nelson, S. C. (2008). Late Blight of Tomato (Phytophthora infestans). Plant 
+Disease, PD-45, 1–10. 
+Ogolla, F., Nyakinywa, R., Chabari, S., & Onyango, B. (2021). In-vitro Evaluation of 
+Fungicide Sensitivity of Tomato Leaf Blight Pathogens. Jurnal Pertanian 
+Tropik, 8(1), 11–25. https://doi.org/10.32734/jpt.v8i1.5842 
+Olsson, D. M. (1978). Randomized Complete Block Design. Journal of Quality 
+
+25 
+ 
+Technology, 10(1), 40–41. https://doi.org/10.1080/00224065.1978.11980811 
+Poudel, A., Pandey, M., Shah, K., Acharya, B., & Shrestha, J. (2020).  Evaluation of 
+fungicides for management of late blight ( Phytophthora infestans ) of potato . 
+Agrica, 9(1), 10. https://doi.org/10.5958/2394-448x.2020.00004.8 
+Quesada-Ocampo, L., & Meadows, I. (2019). Tomato Late Blight: Vegetable 
+Pathology Factsheets. NC State Extension Publications, 1–8. 
+Byarugaba, A. (2018). Responding to late blight disease pressure and fungicide 
+resistance using multiple fungicide active ingredients and different spraying 
+regimes 
+in 
+uganda. 
+Agriculture 
+Forestry 
+and 
+Fisheries, 
+7(3), 
+82. 
+https://doi.org/10.11648/j.aff.20180703.13 . 
+Akello, LTugume, A.K.1, Athman, S.Y.1, Ibanda, I.2, Dramadri, I.1, 2, Edema, R.2, 
+Tusiime, S.2 & Ozimati, A. . (2023). Distribution of Blight Diseases of Tomato 
+in Selected Agro - ecological Regions of Uganda. 22, 93–98. 
+Nowicki, M., Kozik, E. U., & Foolad, M. R. (2013). Late blight of Tomato. 
+Translational Genomics for Crop Breeding, Volume I: Biotic Stress, October, 
+241–265.  
+Anfara, V. A., & Mertz, N. T. (2014). Setting the stage. In Anfara, V. A.Mertz, N. 
+T. (eds.), Theoretical frameworks in qualitative research (pp. 1–22). Sage.  
+Komutunga, E.T. and Musiitwa, F. (2001) Climate. In: Mukiibi, J.K, Ed., Agriculture 
+in Uganda, Volume 1: General Information, Fountain Publishers, Kampala, 21-32. 
+M, S. K. G., Sriram, S., Laxman, R. H., & Harshita, K. N. (2022). Tomato late blight 
+yield loss assessment and risk aversion with resistant hybrid. 17(2), 411–416. 
+Cohen, Y. (2020). Root treatment with oxathiapiprolin, benthiavalicarb or their 
+mixture provides prolonged systemic protection against oomycete foliar 
+pathogens. Plos One, 15(1), e0227556.  
+
+26 
+ 
+Kumar, P., Singh, H. S., Lal, A. A., & Zacharia, S. (2018). Management of late blight 
+of potato ( Solanum tuberosum L .) through chemical under field conditions 
+Allahabad 
+Uttar 
+Pradesh 
+, 
+India. 
+Journal 
+of 
+Pharmacognosy 
+and 
+Phytochemistry, 7(5), 2497–2499. 
+Muchiri, F., Narla, R., Olanya, O., Nyankanga, R. & Ariga, E. (2009). Efficacy of 
+fungicide mixtures for the management of Phytophthora infestans (US-1) on 
+potato. Phytoprotection, 90(1), 19–29. https://doi.org/10.7202/038983ar 
+  Chakraborty, A. and Banerjee, H. (2016). Effective management strategies against 
+late 
+blight 
+of 
+potato. 
+Saarc 
+Journal 
+of 
+Agriculture, 
+14(1), 
+111-117. 
+https://doi.org/10.3329/sja.v14i1.29581 Chakraborty, A. and Banerjee, H. (2016). 
+Hong, Y., Zhang, Y., Cui, J., Meng, J., Chen, Y., Zhang, C., … & Luan, Y. (2022). The 
+lncrna39896–mir166b–hdzs module affects tomato resistance to phytophthora 
+infestans. Journal of Integrative Plant Biology, 64(10), 1979-1993.  
+Khanh, T. L. V., Tan, L. N., Thi, M. L., Тhi, M. P., & Ly, H. T. (2020). Selecting 
+bacillus spp. antagonist of fungal phytopathogen phytophthora infestans causing 
+tomato late blight. Annual Research &Amp; Review in Biology, 32-40.  
+Quesada-Ocampo, L., & Meadows, I. (2019). Tomato Late Blight: Vegetable 
+Pathology Factsheets. NC State Extension Publications, 1–8.  
+Nelson, S. C. (2008). Late Blight of Tomato (Phytophthora infestans). Plant Disease, 
+PD-45, 1–10. 
+Fry, W. E. (2016). phytophthora infestans: new tools (and old ones) lead to new 
+understanding and precision management. Annual Review of Phytopathology, 54(1), 
+529-547. 
+Lal, M., Yadav, S., & Singh, B. P. (2017). Efficacy of new fungicides against late 
+blight of potato in subtropical plains of India. Journal of Pure and Applied 
+
+27 
+ 
+Microbiology, 11(1), 599–603. 
+Sharma, P. (2013). Management of late blight of potato through chemicals. IOSR 
+Journal of Agriculture and Veterinary Science, 2(2), 23–26.  
+NA, S., & MS, A. (2016). Comparative Efficacy of Different Fungicides against Late 
+Blight Diseases of Potato incited by Phytophthora infestans (Mont.) de Bary and 
+its Management. Journal of Plant Pathology & Microbiology, 7(7).  
+Das, R. (2022). Research Article FUNGICIDAL MANAGEMENT OF LATE BLIGHT 
+DISEASE OF TOMATO IN RED AND LATERITIC ZONE OF WEST BENGAL. 14(3), 
+1992–1994. 
+Sako, A. K., & Demissie, Y. T. (2023). Overview of Management Practices of Tomato 
+Late Blight ( Phytoptera Infestans Mont . ) Disease. 10(4), 52–60. 
+Cowger, C., Smith, J., Boos, D., Bradley, C. A., Ransom, J., & Bergstrom, G. C. 
+(2020). Managing a destructive, episodic crop disease: A national survey of 
+wheat and barley growers’ experience with Fusarium head blight. Plant 
+disease, 104(3), 634-648. 
+Yost, D. and Eswaran, H. (1990) Major Land Resource Areas of Uganda. World Soil 
+Resources, Soil Conservation Service-USDA, Washington DC, 227 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+28 
+ 
+APPENDICES  
+Appendix 1. Time line  
+Activities  
+Sept  
+Oct  
+Nov 
+Dec 
+Jan 
+Feb 
+March  April  
+Cost(ugx)  
+proposal 
+development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25000 
+experimental 
+setup 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50000 
+Data 
+collection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100000 
+Data analysis  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report 
+writing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50000 
+Total 
+cost(ugx) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+225000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+29 
+ 
+Appendix 2 .Data sheet  
+ASSESSING THE EFFICACY OF CHORAX72% FUNGICIDE IN CONTROL OF LATE BLIGHT 
+IN TOMATOES. 
+Researcher Name: ______________________      
+  Site : ___________________________ 
+Week of data collection 
+Date: _________________________________       Replication Number:  
+Treatment 
+code
+Plant number. 
+Height  
+Stem 
+diameter
+No 
+of 
+h 
+Infected 
+leaves
+No ,  branches 
+Infected 
+branches 
+Severity(1-4) 
+Incidence.(%) 
+Yield (gm)t 
+Marketable 
+fruits. 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+30 
+ 
+Appendix 3. Field Data collection 
+ 

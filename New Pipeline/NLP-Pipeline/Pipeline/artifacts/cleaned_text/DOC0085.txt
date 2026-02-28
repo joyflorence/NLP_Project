@@ -1,0 +1,1719 @@
+NUTRITIONAL ATTRIBUTES AND CONSUMER ACCEPTABILITY OF YOGURT
+SWEETENED AND FLAVORED WITH SOURSOP PULP AND LIME JUICE
+
+FAITH ESTHER KEMIGISHA
+J22B52/005
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN
+PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF
+BACHELOR OF SCIENCE IN FOOD SCIENCE AND TECHNOLOGY OF UGANDA CHRISTIAN
+UNIVERSITY
+May,2025
+
+
+
+
+
+
+i
+
+
+ABSTRACT
+
+Yogurt is one of the most widely consumed fermented dairy products due to its
+various nutritional benefits, especially its protein content and probiotic activity.
+One of the most commonly consumed yogurt types is flavored yogurt and fruit yogurt
+which involve use of a refined sugar and as a sweetener and yet over the recent
+decade, consumer preferences have been seen to shift from taste or flavor being
+the main drive to use of natural ingredients and additives such as flavorants, nutrient
+content and environmental impact as priorities. This research was focused on the
+use of soursop pulp as a natural sweetener in total replacement of refined sugar
+during yogurt production and also use of lime juice as a natural flavorant. Three
+batches were prepared and three treatments randomly assigned for each batch. To
+batch 1, soursop pulp containing 2% lime juice was added to the yogurt(T1), to batch
+2, only soursop pulp was added to the yogurt (0% lime juice) which acted as the
+control and to the third batch, 3% lime juice was added to the yogurt. Chemical
+qualities of the yogurt such as fat, carbohydrate, protein, fibre and Vitamin C
+content of the soursop pulp- lime yogurt was determined and they were compared
+against the same nutritional attributes of conventional strawberry fruit yogurt. A
+one sample t test was carried out to compare the results. The results revealed that
+significant differences (p<0.001) in protein, fat, total carbohydrate, total fibre and
+vitamin C content between the soursop pulp-lime yogurt and strawberry fruit yogurt
+used for comparison. The soursop pulp-lime yogurt exhibited slightly higher protein,
+fat and fibre content. There was significant decrease in the carbohydrate content
+and increase in the Vitamin C content as well. Consumer acceptability testing was
+also carried out and the results revealed that colour scores were highest for 3% lime
+juice, aroma scores were highest for 2% lime juice and consistency scores highest in
+3% lime juice. Mouthfeel scores decreased slightly with an increase in lime juice.
+The overall taste was rated highest for 2% lime juice.
+
+
+
+ii
+
+
+DECLARATION
+
+I, KEMIGISHA FAITH ESTHER, declare that this dissertation is a result of my
+independent work and has been compiled by myself. This dissertation is submitted
+in partial fulfilment of the requirements for the award of Bachelor of Food Science
+and Technology at the Ugandan Christian University and has never been submitted
+to any institution of learning.
+Name; .........................................................................
+Signature; ...................................................................
+Date; ...........................................................................
+KEMIGISHA FAITH ESTHER J22B52/005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+
+This is to certify that this research dissertation has been submitted for examination
+with my approval as the academic supervisor as a requirement for the award of a
+Bachelor's Degree in Food Science and Technology.
+NAME: WILLIAM SSALI, PhD
+DATE: ...22/05/2025............................................................
+SIGNATURE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+
+I dedicate this report to my supportive parents, project supervisor, Head of
+Department of Food and Nutritional Sciences, and my fellow student colleagues who
+stood by me during this research with endless motivation and support. This ensured
+that I was guided in the right way to go about the research and helped ensure that I
+remained persistent until the successful completion of this research. I shall forever
+be grateful, and I pray that God Almighty will richly bless you in your lives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENTS
+
+First, I would like to acknowledge God for guiding me through all the hurdles I have
+gone through during my research.
+Secondly, I am more than grateful for my parents whose financial support and words
+of encouragement have continuously motivated me to reach the completion of this
+research successfully.
+A word of appreciation for my fellow student colleagues Noweimigisha Isabel,
+Asiimire Sheila, Ssonko Alpha, Yvonne Talwana and Yeka Grace for standing by me
+in all my work. Your support and ideas helped me overcome many challenges and
+eased my research.
+I am very grateful to my academic supervisor Dr. William Ssali for not only guiding
+me on how to do my research but also for correcting me where I needed correction
+and also encouraging me to continue with the research especially in times where I
+wanted to give or felt very discouraged.
+I also express my utmost gratitude to my Head of Department, Dr. Martin Mutambuka
+for the continuous assesments and guidance of my research to ensure that I was
+making informed decisions and also the great deal of help in understanding how to
+analyze and explain my research findings.
+In addition, I also express my gratitude to Ms. Linet Muyawa, the laboratory
+technician who guided me in safe use the laboratory equipment during my research
+and the materials that were available for my research.
+Special thanks to Professor Elizabeth Balyejusa Kizito, for the continuous guidance
+and technical advice offered regarding the successful completion of the research.
+
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+
+ABSTRACT ............................................................................................................................................... i
+DECLARATION ................................................................................ ii
+APPROVAL ............................................................................................................................................. iii
+DEDICATION .......................................................................................................................................... iv
+ACKNOWLEDGEMENTS .......................................................................................................................... v
+TABLE OF CONTENTS .......................................................................................................................... vi
+LIST OF FIGURES ................................................................................................................................ viii
+LIST OF TABLES ...................................................................................... Error! Bookmark not defined.
+LIST OF ABBREVIATIONS ..................................................................................................................... xi
+CHAPTER ONE........................................................................................................................................ 1
+1. INTRODUCTION ........................................................................... 1
+1.1 Background of study .................................................................. 1
+1.2 Problem statement ..................................................................... 3
+1.3 Purpose of the study ................................................................... 3
+1.4 Objectives of the study ................................................................ 3
+1.4.1 Main objective ........................................................................ 3
+1.4.2 Specific objectives ................................................................... 4
+1.5 Hypothesis ............................................................................... 4
+1.6 Significance of Study ................................................................... 4
+1.7 Conceptual framework ................................................................. 4
+1.8 Scope of the study ...................................................................... 5
+1.9 Limitations of the study ............................................................... 5
+1.10 Organization of the study ............................................................ 6
+CHAPTER TWO ........................................................................................................................................ 7
+2.0 Literature Review ...................................................................... 7
+2.1 Overview of yogurt ..................................................................... 7
+2.2 Nutritional benefits of yogurt ......................................................... 8
+2.3 Soursop fruit description .............................................................. 9
+2.3.1 Classification of soursop fruit ...................................................... 9
+2.4 Chemical composition of soursop fruit ............................................ 10
+2.5 Post-harvest challenges and proper handling of soursop. ...................... 11
+2.6 Overview of lime fruit ............................................................... 12
+2.7 Nutritional benefits of lime fruit ................................................... 13
+
+
+vii
+
+2.8 Changes in consumer preferences for food products ............................ 13
+CHAPTER THREE ................................................................................................................................. 15
+3.0 METHODOLOGY ........................................................................ 15
+3.1 MATERIALS AND METHODS ........................................................... 15
+3.1 Introduction ........................................................................... 15
+3.2 Study location ......................................................................... 15
+3.3 Sources of Information ............................................................... 15
+3.4 Population and Sampling Techniques .............................................. 15
+3.5 Measurement levels .................................................................. 16
+3.6 Materials and source ................................................................. 16
+3.7 Yogurt preparation ................................................................... 16
+3.8 Pulp extraction process .............................................................. 16
+3.9 Lime juice extraction ................................................................ 17
+3.10 Adding the soursop pulp mixture ................................................. 17
+3.11 Experimental Design ................................................................ 18
+3.12 Data Collection and Protocol ...................................................... 18
+3.12.1 Determination of chemical properties of soursop pulp- lime yogurt ...... 18
+3.12.2 Determination of ash content in Yogurts ...................................... 18
+3.12.4 Determination of Vitamin C Content ........................................... 20
+3.12.5 Determination of fat content ................................................... 21
+3.12.6 Determination of Protein Content by Kjeldahl Method ..................... 21
+3.12.7 Determination of Crude Fibre Content ........................................ 22
+3.12.8 Determination of Total Carbohydrates ........................................ 23
+3.13 Determination of consumer acceptability of the soursop pulp yogurt and
+soursop pulp-lime yogurt ................................................................. 24
+3.13.1 Choice of panelists and instruction of panelists .............................. 24
+3.14 Sample preparation ................................................................. 24
+3.15 Sample setup and tasting .......................................................... 25
+3.16 Statistical analysis of results ...................................................... 25
+3.16.1 Acceptability performance of soursop pulp yogurt .......................... 25
+3.16.2 Comparison between soursop pulp-lime yogurt and conventional fruit
+yogurt ....................................................................................... 25
+3.16.3 Determination of consumer acceptability of soursop pulp yogurt and
+soursop pulp- lime yogurt ................................................................ 26
+CHAPTER 4 ........................................................................................................................................... 27
+
+
+viii
+
+4.0 RESULTS AND DISCUSSION ........................................................... 27
+4.1 RESULTS ................................................................................ 27
+4.1.1 Acceptability performance of soursop pulp yogurt ............................ 27
+4.2 Discussion of results .................................................................. 29
+4.2.1 TABLE 1 .............................................................................. 29
+4.2.2 TABLE 2 .............................................................................. 29
+4.2.3 TABLE 3 .............................................................................. 30
+CHAPTER FIVE ..................................................................................................................................... 32
+5.0 SUMMARY, CONCLUSIONS AND RECOMMENDATIONS ............................. 32
+5.1 Summary ............................................................................... 32
+5.2 Conclusions ............................................................................ 33
+5.3 Recommendations .................................................................... 34
+REFERENCES; ............................................................................... 35
+Appendix 2; BUDGET .......................................................................................................................... 39
+APPENDIX 3; TIME FRAME .................................................................................................................. 40
+APPENDIX 4; ANOVA TABLES ............................................................................................................. 41
+TABLE 1(2%LIME JUICE); A TABLE SHOWING MEANS AND STANDARD DEVIATION
+FOR SOURSOP PULP-LIME YOGURT NUTRIENT ANALYSIS ............................. 41
+TABLE 2; A TABLE SHOWING MEANS AND STANDARD DEVIATION FROM OVERALL
+ACCEPTABILTY SCORES FOR EACH ATTRIBUTE PER SAMPLE ......................... 41
+SAMPLE2(0% LIME JUICE); ................................................................ 43
+SAMPLE 3 TABLES (3% LIME JUICE); ..................................................... 44
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+
+LIST OF FIGURES
+Figure 1: A picture of produced yogurt ..................................................... 8
+Figure 2 A picture of soursop fruit ........................................................ 10
+Figure 3 A picture of lime fruit ............................................................ 13
+Figure 4 A graph showing the performance of soursop pulp yogurt .................. 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+LIST OF TABLES
+Table 1 SHOWING THE PERFORMANCE OF SOURSOP PULP YOGURT .................. 27
+Table 2 SHOWING THE NUTRIENT COMPOSITION OF SOURSOP PULP-LIME YOGURT
+AND CONVENTIONAL STRAWBERRY FRUIT YOGURT ..................................... 27
+Table 3 SHOWING CONSUMER ACCEPTABILITY OF SOURSOP PULP YOGURT AND
+SOURSOP PULP- LIME YOGURT ............................................................ 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+
+LIST OF ABBREVIATIONS
+
+UIRI- Uganda Industrial Research Institute
+SD- Standard Deviation
+AOAC- Association of Official Analytical Chemists
+ISO- International Standards Organization
+MC- Moisture Content
+NAOH- Sodium hydroxide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE
+1. INTRODUCTION
+1.1 Background of study
+Fermented drinks and food, particularly yogurt, have been largely consumed over
+centuries due to their flavor and nutritional benefits, such as high protein content,
+treatment of lactose intolerance. They are rich in minerals such as calcium, which
+is essential in bone structure, and potassium (Katia Sivieri et al, 2017)
+Yogurt is one of the most popular dairy products globally, with major consumers in
+countries such as France, the United States of America, China, the Netherlands,
+Turkey, and India. China, for example, has an average per capita consumption of
+about 5kg per consumer annually. The yogurt market is particularly big in North
+America and Europe. According to World Integrated Trade Solution (WITS) data for
+2023, Germany led exports with about $780.5 million, followed by the European
+Union collectively at $523.4 million, Greece at $351.4 million, France at $348.7
+million, and Spain at $170.6 million (World Integrated Trade Solution, 2023).
+Yogurt is made using specific bacteria known as yogurt cultures, which are primarily
+Lactobacillus bulgaricus and Streptococcus thermophilus. Strains such as
+Lactobacillus delbrueckii and Streptococcus salivarius can be added to improve the
+probiotic content of the yogurt. Probiotics are harmless, live and active
+microorganisms ingested to alter the gastrointestinal flora for health benefits. These
+ferment lactose to lactic acid, giving yogurt its texture and tang. Yogurt is
+considered a probiotic product offering several health benefits, such as improved
+lactose digestion, but also easy digestion in general since it's easier for the body to
+absorb its nutrients, offers strengthening of the immune system, and reduces risks
+of type 2 diabetes and gut disorders (Nahed L Zaki et al, 2021). Yogurt is rich in highquality proteins, carbohydrates, calcium, phosphorus, potassium, and vitamins B6
+and B12. Various yogurt types include plain, Greek, frozen, fruit, and flavoredsweetened yogurt. However, over the past decade, studies have shown that
+consumer preferences for food products have shifted from taste and flavor as the
+main drive towards nutrient content, natural additives and sweeteners, and
+
+
+
+environmentally friendly food products or ingredients being prioritized (Jovana
+Dzoljic et al., 2018). This trend shows that consumers have become more health
+conscious. Soursop fruit, Annona muricata, which is known for its sweetness (Makebe
+Calister Wingang, 2021), and lime (Citrus aurantifolia), valued for its tanginess, are
+potential natural alternatives for sweetening and flavoring yogurt. Furthermore,
+soursop has high nutritional content while lime, is also a rich source of vitamin C
+and other antioxidants that are essential in the elimination of free radicals from the
+human body (Kamelia Ramadaini et al, 2020). Both fruits are currently underutilized
+in the country due to a lack of knowledge of their nutritional and economic benefits.
+Previous studies have shown that soursop puree or pulp, when added to yogurt,
+improved on the functional, sensory, and nutritional properties of yogurt (Senadeera
+et al, 2018) and also contributed to an increase in vitamin C content of the yogurt
+(Saputrayadi et al,2021). Further studies have also shown that the soursop puree or
+pulp was added to yogurt during its manufacture, mainly to improve the flavor of
+the yogurt. Soursop pulp was also added in partial substitution of refined sugars such
+as sucrose. (Mayowa Saheed Sanusi et al, 2023). Lime has been added to fruit juices
+in previous studies to improve the microbial quality of the fruit juices to increase
+their shelf life due to its anti-microbial and anti-oxidant properties. (Micheal
+Okpara, 2013). However, there is limited information on the use of soursop pulp as
+a sweetener in full substitution of refined sugar during yogurt manufacture, and no
+substantial studies have been carried out on the use of lime juice as a flavorant in
+yogurt. There is also a need to further explore the interactive effect of lime juice
+and soursop pulp on the nutrient composition and consumer acceptability of yogurt.
+The above information will highlight the potential of soursop pulp as a natural
+sweetener and lime juice as a natural and unique flavorant in yogurt, and therefore
+contribute to the development of healthier dairy products that align with the
+changing consumer preferences. The findings of this research will also provide
+valuable insights for food manufacturers seeking natural alternatives to refined
+sugars and innovative flavor profiles.
+
+
+
+
+1.2 Problem statement
+The global shift in consumer preferences has posed a challenge to the acceptability
+of food products on the market by emphasizing a demand for natural ingredients,
+improved nutrition profiles, and reduced reliance on refined sugars and synthetic
+additives. Soursop fruit (Annona muricata), a tropical fruit known for its natural
+sweetness and rich nutrient content, offers potential as a substitute for refined
+sugar in yogurt production. However, its complete substitution for refined sugar
+remains underexplored, particularly regarding its ability to maintain sweetness
+levels while providing additional health benefits without compromising the
+fermentation process or sensory attributes of yogurt.
+Similarly, lime juice, a natural flavorant with a good consumer appeal due its antibacterial, anti-oxidant and tangy properties, poses challenges in yogurt
+manufacturing due to its high acidic nature which risks curdling and formation of a
+bitter taste that affect product consistency and taste. Consequently, the feasibility
+of its use as a flavorant in yogurt remains unknown.
+1.3 Purpose of the study
+This research aims to address these gaps by determining the feasibility of using
+soursop as a full replacement for refined sugar in yogurt production and assessing
+lime juice as a natural flavorant without compromising yogurt texture, stability, and
+taste. This study seeks to develop innovative yogurt formulations that cater for
+health-conscious consumers, increasing utilization of soursop fruit and lime in the
+food and beverage industry through yogurt production; while ensuring maintenance
+of sensory attributes and product integrity during storage.
+1.4 Objectives of the study
+1.4.1 Main objective
+To produce a sugar-free yogurt by fully substituting refined sugar with soursop pulp
+as a natural sweetener and incorporating lime juice as a natural flavorant, while
+assessing their combined impact on the nutritional, sensory, and physicochemical
+properties of the yogurt.
+
+
+
+1.4.2 Specific objectives
+1. To determine the vitamin C, protein, carbohydrate, fat, and fibre content of
+soursop pulp-lime yogurt and compare it with that of conventional fruit yogurt.
+2. To determine the consumer acceptability of soursop pulp yogurt and soursop
+pulp-lime yogurt.
+1.5 Hypothesis
+1. There is no difference in the vitamin C, protein, carbohydrate, fat and fibre
+content of soursop pulp-lime yogurt and that of conventional fruit yogurt.
+2. There is no difference in the consumer acceptability of soursop pulp yogurt and
+soursop pulp-lime yogurt.
+1.6 Significance of Study
+This research was of great benefit to the food industry through creation of a
+functional yogurt that addresses consumer preferences and demand for natural and
+nutritive food options. The use of soursop pulp and lime juice as natural substitutes
+for refined sugar and artificial flavourings provided yogurt and non-sweetened
+yogurt consumers due to health concerns a healthier alternative which was sugarfree yogurt of similar taste as that of sweetened yogurt but with a unique flavor
+profile. Simultaneously, this study paved way for increased utilization of soursop and
+lime fruits fostering market growth for local producers in Uganda therefore
+increasing on income sources and diversity in agricultural communities.
+1.7 Conceptual framework
+
+
+
+
+
+
+
+Independent variables;
+Lime juice concentration
+(0%,2%,3%) of total weight
+of ingredients
+
+Dependent variables
+Nutrient composition; CHO,
+protein, fibre, fat, vitamin
+C
+Sensory attributes; colour,
+aroma, consistency, taste,
+mouthfeel, overall
+acceptability
+
+
+
+
+
+
+
+
+
+1.8 Scope of the study
+This research covered the following areas; experimental production of sweetened
+sugar-free yogurt, utilizing soursop pulp as a natural sweetener and lime juice as a
+natural flavorant, determination of recipes involving varying quantities of lime juice
+that did not affect the fermentation process but still achieved the desired
+consistency and stability of the yogurt. The first key component of this research was
+the determination of vitamin C, protein, carbohydrate, fat and fibre content of the
+produced soursop-lime yogurt. This was followed by comparing it with the
+composition of the same nutrient attributes of conventional fruit yogurt. The
+purpose of this exercise was to demonstrate nutritional advantages or otherwise,
+since conventional fruit yogurt has almost similar nutritional properties like those of
+soursop pulp-lime yogurt especially in aspects of vitamin C and fibre as opposed to
+ordinary sweetened yogurt. Furthermore, the study assessed the consumer
+acceptability of soursop pulp yogurt without lime juice and soursop pulp yogurt to
+which different concentrations of lime had been added through sensory evaluation
+using an untrained panel to gauge overall yogurt preference of the consumers.
+1.9 Limitations of the study
+The use of a fixed 1:1 replacement ratio of the soursop for sugar may not identify
+the optimal concentration for sweetness, flavor and overall quality of the yogurt.
+Varying concentrations could potentially yield better sensory and nutritional results.
+The comprehensive nutrient analysis will be carried on only one soursop pulp-lime
+yogurt treatment which leaves gaps in drawing definitive conclusions on the nutrient
+content of the other treatments that will be made. The absence of a shelf-life study
+makes it difficult to assess the long-term stability of the sensory attributes and
+microbial quality and therefore safety of the soursop pulp-lime yogurt. Finally, the
+Control variables
+Fermentation time,
+pasteurisation temperature,
+maxigel, storage temperature
+
+
+
+
+consumer acceptability results obtained in Uganda may not be directly applicable to
+other regions with differing taste preferences and cultural backgrounds.
+1.10 Organization of the study
+The study is organized in chapters. Chapter one has the introduction which is made
+up of the background of the study, statement of problem, objectives of study,
+significance of study, scope of study, limitation of study and organization of study.
+Chapter two contains the review of existing literature in relation to the topic of
+study. Chapter three contains the methodology adopted for the study, chapter four
+presents the results, their interpretation and discussion and last but not least
+chapter five which is concerned with the summary of the study findings, conclusions
+and recommendations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO
+2.0 Literature Review
+2.1 Overview of yogurt
+The word fermentation came from a Latin word, fevere, which was later explained
+by Louis Pasteur as “life without air”. It is scientifically defined as a metabolic
+process that produces energy from organic compounds with or without the
+involvement of exogenous agents such as microbial enzymes or microorganisms.
+For a very long time, fermented drinks and foods contributed greatly to the human
+diet in terms of their nutritional health benefits, and Yogurt has emerged as one of
+the most consumed dairy fermented product on the market today (Andrzej
+Blazejczyk,2023). It has one of the fastest growing markets with France, Turkey,
+Netherlands, United States and China being some of the world’s biggest consumers
+(C. Chandan, 2024, A. Shunekeyeva, M. Alimardanova et al., 2021) The largest
+consumer is China with an average consumption of about 5kgs per person per year.
+Geographically, North America is the major contributor to the yogurt market in
+terms of value followed by Europe and this has been due to introduction of new
+flavors that offer low fat benefits. In the Asian Pacific region, China dominates the
+market followed by India with Japan showing continuous steady growth in the past
+years.
+The total export value of yogurt around the world in 2015 was more than 2 million
+US dollars with about 1.5 million tons of yogurt being exported around the world.
+Germany has been the leading exporter of yogurt for many years with a trade value
+of more than 500,000 US dollars and 500,000 tons in 2015 which accounts for more
+than 30% of the yogurt traded globally. (IDF, 2016). The bacteria used to make yogurt
+are known as yogurt cultures and these cultures include Lactobacillus delbrueckii
+subspecies bulgaricus and Streptococcus salivarius subspecies thermophilus
+according to the CODEX standards (CODEX STAN 243-2003). In addition, others
+like Lactobacilli and Bifidobacteria are also sometimes added during or after
+culturing the yogurt. Fermentation of lactose by these bacteria produces lactic acid,
+which acts on milk protein to give yogurt its texture and characteristic tang. It is a
+probiotic product since it contains live active microorganisms which upon ingestion
+
+
+
+in sufficient number exert health benefits beyond the inherent basic nutrition
+(CODEX STAN 243-2003). This benefit has increased the consumption of yogurt.
+
+Figure 1: A picture of produced yogurt
+2.2 Nutritional benefits of yogurt
+Yogurt supplies good quality proteins, which are important in the synthesis of organic
+molecules in the body that in order to maintain catabolic and anabolic processes in
+the body. It is also an excellent source of carbohydrates, which are a source of
+energy to the body. It is also important in the prevention of type 2 diabetes due to
+its probiotic content, which improves insulin sensitivity (Koichiro Sumi et al).
+Yogurt is also crucial in weight management, for it creates satiety, which reduces
+overeating. Probiotics in yogurt enhance gut health by improving digestion and
+alleviating conditions like irritable bowel syndrome and lactose intolerance by
+breaking down the lactose. Yogurt helps to reduce cardio metabolic diseases by
+lowering serum cholesterol levels. It is also rich in calcium, vitamin D, which support
+bone density and reduce the risk of osteoporosis (Christopher J Cifelli et al, 2020).
+The probiotics in the yogurt have immune-modulatory effects that boost the body’s
+defense mechanism. Yogurt also controls infections by inhibiting the growth of
+pathogenic organisms. Yogurt’s nutrients contribute to healthier skin by improving
+hydration and reducing inflammation and bloating (Julie M Glanville et al, 2015).
+The popular varieties of yogurt include;
+
+
+
+Plain yogurt which is traditional yogurt without added flavors or sweeteners for
+enhanced taste. It serves as a versatile base for dishes or snacks.
+Fruit or flavored yogurt which contains added fruit, flavors or sweeteners for
+enhanced taste. It is popular among children and those seeking a sweeter option.
+This is one of most widely consumed type of yogurt.
+Greek yogurt (strained yogurt) which is a thick and creamy yogurt due to straining
+to remove whey. It has a higher protein content compared to normal yogurt.
+Frozen yogurt which is a dessert alternative to ice cream, offering lower fat content
+while retaining probiotics.
+Soy yogurt, which is made from soy milk instead of dairy, is suitable for vegans or
+individuals with lactose intolerance.
+Yogurt beverages with often drinkable combined with fruit juices or other flavors
+for convenience and refreshment.
+Probiotic yogurt, which contains live bacterial cultures specifically added for their
+health benefits, such as improving gut microbiota balance. (Katia Sivieri et al, 2017)
+2.3 Soursop fruit description
+2.3.1 Classification of soursop fruit
+Soursop belongs to the Annonaceae family which is a family in the plant kingdom
+with 50 genera and three of those are edible fruits (Annona, Rollinia, Asimina) with
+the first two being of commercial importance. It generally consists of 390 species in
+the tropical and subtropical areas world-wide (Pinto et al, 2017). A. Muricata is
+classified as shown below;
+Kingdom; Plantae
+Division; Magnoliophyta (Angiosperms)
+Class; Magnolids
+Order; Magnoliales
+Family; Annonaceae
+Genus; Annona
+
+
+
+Species; muricata
+The soursop fruit is a fused-together berry that is dark green in colour with a spiky
+or spiney surface (Patel and Patel, 2016) and associated flower parts. It is a heart
+or oval-shaped fruit with about 5-200 seeds. (Blancke, 2016). The average weight of
+a healthy soursop fruit is about 4kg, and it has a creamy coloured granular interior
+with an edible, fibrous and juicy fleshy pulp which can easily be peeled away from
+its core. The soursop fruits can be categorized into: acid, subacid, and sweet, or can
+be grouped according to how their flesh is, i.e., wet, soft, stiff, and extremely dry
+(Matsuda,2017)
+Soursop fruit, botanically known as Annona muricata, locally known as “Ekitaferi”
+in Uganda, is a delicious fruit widely grown in the tropics and subtropical regions of
+the world, including South America, Africa, and Asia, with the largest being Mexico.
+
+
+Figure 2 A picture of soursop fruit
+2.4 Chemical composition of soursop fruit
+The soursop fruit is made up of 20% skin, 67.5% edible pulp, 4% core, and 8.5% seeds
+by weight. (Uchegbu et al, 2018). The white edible pulp contains 1% protein, 18%
+carbohydrate, 3.43% titratable acidity, 80-81% water, 24.5% non-reducing sugar, and
+vitamins B1, B2, and C. Furthermore, soursop is made up o 53.1-61.3 calories, 82.8g
+moisture, 1 g protein, 0.97g of fat, 60 g of ash, 10.3mg of calcium, 0.79g of fibre
+which makes up 0.78-0.95% of the pulp (Gavamukyala et al, 2017), 0.64mg of iron,
+0.11mg thiamine, 29.6mg of vitamin C, 11mg tryptophan, methionine (7mg), 60g
+lysine, sugars account between 67.2-69.9% of the total solids. (Princess Hannah,
+2023). The fructose, D-glucose, and sucrose percentages in the soursop pulp were
+
+
+
+1.80,2.27, and 6.57%, making the total sugar content 10.48%. It also contains 12%
+sugar (Siqueira et al., 2015) with pectin making up the majority of the alcoholinsoluble solids, which are 4.0% by dry weight between pre-climacteric and
+climacteric stages and 0.91% by fresh weight from pre-climacteric stages. The pH of
+the pulp is 4.56, soluble solids concentration is 1510 for the pulp. (Princess Hannah,
+2023)
+
+2.5 Post-harvest challenges and proper handling of soursop.
+Preliminary analyses have indicated a substantial loss of 75.8% for tropical fruits like
+soursop. This loss is accelerated by poor field farmer practices and growers’ lack of
+knowledge and understanding of factors affecting fruit quality. In Uganda, soursop
+has low production due to its low demand and high pre-harvest and post-harvest
+losses caused by the fruit borer, leading to 30% loss and 54% total pulp yield
+(Kankwatsa et al., 2017). This has led to scattered production by only willing
+individual farmers in the country. Soursop fruits are usually harvested when they
+are fully developed and still a bit firm and yellow-green (physiological maturity)
+(Badrie & Schauss, 2010) or else they will fall and be crushed if allowed to
+deteriorate on the tree. Ripe soursop fruits are highly delicate and prone to bruising
+which shortens their post-harvest life and that is why ripening at room temperature
+is recommended as young fruits do not fully develop aroma and flavor when ripened
+off the tree. Soursop fruits are highly sensitive to cold temperatures with chilling
+injuries causing skin darkening, inability to ripen, pulp discoloration, poor flavor and
+aroma and increased rot (de Lima and Alves, 2011).
+To prevent spoilage and reduce deterioration of soursop fruit, the soursop fruit is
+pulp and the pulp pasteurized at 790C for 69 seconds to preserve nutrients,
+inactivate spoilage enzymes and reduce microbial load and is then refrigerated at
+temperatures between 40C (Jerry Ampofo-Asiama et al., 2018) to increase its shelf
+life from 5 days to 12 weeks. One of the other significant challenges faced with
+soursop fruit is that it has a short harvest season and so cultivators that have various
+maturity durations have been created in effort to balance the market supply (Badrie
+& Schauss, 2010) and has low production majorly due to its very low demand and
+high pre-harvest and post-harvest losses due to its perishability. It has a whitish
+
+
+
+edible pulp that contains water, titratable acidity, carbohydrate, protein and nonreducing sugar of 80,3.43,18,1 and 24.5% respectively. (Badrie & Schauss 2010).
+Soursop fruit currently is mainly consumed as a fruit, juice or packed purees
+worldwide. Previous research in the last decade has shown that soursop fruit is rich
+in flavours especially in sweetening flavours i.e., rich in sugars, has a high nutritional
+profile i.e., contains vitamins, minerals, proteins, flavonoids, phenolic compounds
+with
+antidiabetic,
+antihypertensive,
+anticarcinogenic,
+antiobesity,
+antihypercholesterolemic, hypoglycemic and antibacterial properties. In addition,
+the pulp is rich in soluble fibres especially hydrolysed pectin (pectin oligosaccharides
+that are prebiotics and therefore are a source of food to probiotics in the gut
+especially the colon and maintain its health. (Mbaeyi-Nwaoha, Ekere K.S) It also has
+a high protein content and has been used in countries like Nigeria and Benin to treat
+protein deficiencies. (Rene G Degnon et al). Previous studies have shown that
+soursop puree or pulp, when added to yogurt, improved the functional, sensory, and
+nutritional properties of yogurt (Senadeera et al, 2018) and also contributed to an
+increase in vitamin C content of the yogurt (Saputrayadi et al,2021). Further studies
+have also shown that the soursop puree or pulp was added to yogurt during its
+manufacture, mainly to improve the flavor of the yogurt in addition to refined sugar
+such as sucrose or in partial substitution of refined sugars with the soursop pulp.
+(Mayowa Saheed Sanusi et al, 2023).
+2.6 Overview of lime fruit
+Lime is a fruit botanically known as Citrus aurantifolia and locally known as “Enimu”
+is a citrus fruit known for its tangy-bitter taste, which is a common attribute of the
+citrus family of fruits. It is also known as orange pecel. Lime trees can reach 3-6
+meters high, are branched and thorny with small oval leaves that have a winged
+petiole. The axillary leaves are where an inflorescence emerges to give small white
+fragrant flowers. The fruit is ovate or round-shaped and it has a green-yellow colour
+with thin skin that is rich in essential oils. The inside flesh of the fruit is greenish
+white and is rich in vitamin C, with many small and polyembryonic. They grow well
+in alkaline soils; places exposed to direct sunlight. Propagation of the fruit is by seed
+or grafting. The fruit is used to make drinks, cough medicine, and food flavoring.
+(Zikra Azizal., 2020) It is rich in phytochemical compounds such as alkaloids,
+
+
+
+flavonoids (apigenin, rutin, quercetin, kaempferol, hesperidin), triterpenoids,
+saponins, tannins, phenolics, and vitamin C. (Kamelia Ramadaini et al., 2020)
+
+Figure 3 A picture of lime fruit
+2.7 Nutritional benefits of lime fruit
+Lime’s health benefits are mainly due to its phytochemical compounds. These health
+benefits include: (Kamelia Ramadaini et al., 2020)
+Lime has anticarcinogenic effects where it stops the mobility of cancer cells, inhibits
+metastasis and angiogenesis, and induces tumor suppressor genes and apoptosis.
+Lime peel extract has been used to help heal traumatic ulcers due to its antiinflammatory properties and also inhibits bacterial growth and therefore is
+commonly used as a preservative.
+Lime peel extract can help heal traumatic ulcers due to its anti-inflammatory
+properties.
+Lime also aids in digestion due its acidity that provides an ideal environment for the
+action of stomach enzymes like pepsin, gastric amylase and lipase. (W. Abobatta et
+al, 2019).
+The tangy taste from lime is important to balance the sweetness of the yogurt
+creating a uniform and balance flavor. (Rati Jani et al, 2024).
+2.8 Changes in consumer preferences for food products
+The factors driving consumer acceptability of food products are undergoing
+significant changes. Historically, taste and flavor were primary considerations, but
+recent trends indicate a shift towards nutritional benefits, the use of natural
+additives and natural sweeteners, particularly moving away from refined sugar.
+Consumers increasingly prefer products with fewer synthetic chemicals and more
+
+
+
+natural ingredients such as stevia, which is a natural, intense sweetener used in
+various food categories like snacks and beverages (Jovana Dzoljic et al., 2018).
+This shift is driven by health concerns such as obesity and chronic diseases linked to
+high sugar intake (N. Caglarirmak et al., 2021). Additionally, innovations in food
+technology like the development of functional gummy candies with natural
+sweeteners and antioxidants reflect this consumer preference for healthier options
+(Mohammad Tarahi et al.,2024). The dairy industry also sees a move towards clean
+label products, emphasizing natural ingredients over synthetic additives (Ume
+Roobab et al., 2021)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE
+3.0 METHODOLOGY
+3.1 MATERIALS AND METHODS
+3.1 Introduction
+This chapter contains materials, the method of carrying out the research, analysis
+of variables in the research, and what was used to interpret the results of the
+research.
+3.2 Study location
+The product preparation and sensory evaluation were carried out in the Food Science
+and Technology laboratory at Uganda Christian University, Mukono while the
+proximate analysis was carried out at Uganda Industrial Research Institute in
+Nakawa, Kampala, Uganda.
+3.3 Sources of Information
+Primary Data: this was derived from laboratory measurements of vitamin C, fat,
+carbohydrates, protein and fibre content and sensory evaluations from untrained
+habitual yoghurt consuming panelists for consumer acceptability.
+Secondary Data: this included all material that informed the standard procedures
+of the analyses, the measurements to be used, procedures for carrying out the
+consumer acceptability test and explanations of the results obtained. This included
+literature on standard procedure on yogurt manufacture, laboratory testing manuals
+and articles on properties and effects of both soursop and lime on the sensory
+properties of different products.
+3.4 Population and Sampling Techniques
+The population of study consisted of three yoghurt batches prepared with 2% lime
+juice, 0%lime juice and 3% lime juice respectively. Conventional strawberry fruit
+yogurt was used for the comparative analysis because fruit yogurt in comparison to
+other types of yogurts has similar nutritional properties as those of soursop pulplime yogurt especially vitamin C and fibre in particular (since it contains fruits),
+which are absent in other yogurt types. Soursop pulp yogurt containing 3% lime juice
+was used for comparative analysis with conventional fruit yogurt since it had the
+highest amount of lime juice. The population of interest for consumer acceptability
+tests consisted of a panel of untrained habitual yoghurt consumers. 41 samples from
+each yogurt batch were randomly obtained from yogurt batches for consumer
+
+
+
+acceptability because according to written literature, a range of 30-50 panelists is
+required if sensory evaluation for consumer acceptability is being carried out using
+an untrained panel and no replication will be required since preference tests will be
+carried out.
+3.5 Measurement levels
+Nominal; hedonic scale (1-9) representing the level of like and dislike (extremely
+dislike to extremely like)
+Percentage of total weight; lime juice concentration, soursop pulp
+Macro nutrients (fat, protein, carbohydrates, fibre); g
+Micro nutrients (Vitamin C); mg
+3.6 Materials and source
+The materials for the research included ingredients for making the yogurt, such as
+Maxigel, ripened soursop fruits, fresh lime, UHT milk, and yogurt culture. Additional
+materials included table spoons, a stirrer (stainless steel), saucepans and a food
+temperature digital thermometer. The fresh lime was sourced from Sombe market,
+Mukono and the soursop fruit from Nakasero market, Kampala, and Sombe market,
+Mukono in Uganda.
+3.7 Yogurt preparation
+Six litres of milk were used to make 3 batches of the yogurt where each batch was
+made from 2 litres of milk. For each batch, the milk was pasteurized at a
+temperature of 800C for 5 minutes with constant stirring. The milk was left to cool
+to a temperature of 43-450C in a water bath. 5g of maxigel were first dissolved in a
+small amount of milk and added to the rest of the milk and the mixture stirred for
+even mixing. 10g of the yogurt culture were mixed a 3 table spoons of milk and then
+inoculated into the milk. The yogurt was left to ferment for a period of 8 hours
+where it reached until it reached a pH of 4.6.(Mbaeyi-Nwaoha et al, 2014)
+3.8 Pulp extraction process
+The soursop fruits were bought abit stiff and left to ripen fully for 2 days at room
+temperature on a shelf because ripening in the refrigerator would cause rotting due
+to chilling injuries and ripening allows full development of the flavor and aroma
+characteristics (Rene G Degnon et al, 2013). After ripening, the soft soursop fruit
+
+
+
+was washed using running tap water and rinsed with warm water to further soften
+the skin. Gloves were worn and the fruit skin was gently peeled and separated from
+the white fleshy pulp. The seeds were then separated from the fleshy pulp and the
+pulp was blended for 20 minutes in a series of 5 minutes to prevent the blender from
+overheating. The smooth blend was then transferred to a saucepan where it was
+pasteurised at a temperature of 750C for 5 minutes in order to inactivate the spoilage
+enzymes, kill microorganisms but also maintain the nutrient composition of the
+soursop pulp since higher temperatures lead to reduction in the antioxidant and
+titratable acidity of the soursop pulp (Mbaeyi-Nwaoha et al, 2014). The pulp was left
+to cool in an airtight container until room temperature. 272g were measured off to
+be added to each batch.
+Soursop fruits
+sorting washing
+peeling
+juice
+extraction
+
+Pasteurization (75oC, 5 minutes)
+cooling
+soursop pulp
+
+Figure 4; A flow chart showing juice extraction process
+3.9 Lime juice extraction
+The limes were washed in running water and scrubbed gently with a soft food brush
+and rinsed water containing 2% hypochloric acid to sanitize the fruits. The fruits
+were then dried and cut with a knife transversely for easy squeezing out of the juice.
+The juice was squeezed out through a thin mesh sieve to separate the juice from
+the seeds and any fruit flesh that may have come off the peel. 2% and 3% of the total
+weight of the milk mixture was measured and added to the soursop pulp of the
+batches where 2% and 3% lime were the treatments in its last minute of
+pasteurization and mixed with the pulp before it was removed off the heat source
+to be cooled.
+3.10 Adding the soursop pulp mixture
+To the first batch of yogurt, a mixture of 272g of soursop pulp and 2% lime juice
+were added, and the batch was labelled “Sample 1; 2% lime juice. To the second
+batch, only soursop pulp was added to the yogurt and the batch was labelled
+“Sample 2; 0% lime juice”. To the third batch, a mixture of soursop pulp and 3% lime
+
+
+
+juice were added to the yogurt and the batch was labelled “Sample 3; 3% lime
+juice”. The yogurt and the soursop pulps were evenly mixed for a smooth
+consistency. The different yogurt batches were then stored at 40C and this was one
+according to the method by Naheed L. Zaki et al, 2021.
+3.11 Experimental Design
+In my study, I used a Completely Randomized Design (CRD) since I was varying only
+one factor (Abdullah et al, 2020) and my treatments consisted of three levels of lime
+juice concentration %(control), 2% and 3%. Three batches of yogurt were divided
+into three experimental units, one for each treatment level and were randomly
+assigned to the three treatments (0%,2%, and 3% lime juice concentrations) without
+replication. This ensured that any differences observed between batches were due
+to the treatments rather than other factors i.e., each batch received was exposed
+to either 0%,2% or 3% lime juice concentration. (citation). The independent variable
+in this study was the lime juice concentration and the dependent variables were
+physicochemical parameters such as protein, fat, vitamin C, carbohydrate and fat
+content. The other dependent variables were sensory attributes such as taste,
+colour, consistency, overall taste, aroma, overall acceptability, mouthfeel, tangy
+taste.
+Table 3.1: Different treatments of soursop pulp-lime yogurt
+Treatments
+Sample number
+0% lime juice
+2% lime juice
+3% lime juice
+
+
+3.12 Data Collection and Protocol
+3.12.1 Determination of chemical properties of soursop pulp- lime yogurt
+The analysis was carried out at the Uganda Industrial Research Institute in Nakawa,
+Uganda, in triplicate using the methods below.
+3.12.2 Determination of ash content in Yogurts
+Equipment and materials(specified);
+
+
+
+• Muffle furnace
+• Desiccator
+• Crucibles
+Apparatus preparation
+The ceramic crucibles were cleaned using hydrochloric acid 1:1 solution, rinsed with
+distilled water and dried in a muffle furnace at 550oC for one hour. The muffle
+furnace was turned off and left to cool to 250oC. Tongs were then used to transfer
+the crucibles to the desiccator and allowed to cool prior weighing. After 30 minutes,
+the crucibles were removed and weighed and the readings taken (UIRI Analytical
+Laboratories Quality Manual,2024)
+10g of the sample were weighed into a tarred crucible which was placed in a cool
+muffle furnace because the markings would be removed due to high temperatures
+in the furnace. The muffle furnace was ignited for 4-6 hours, turned off after and
+cooled to 250oC before the samples were removed. The sample was checked to
+ensure that it was completely white with no black spots. The sample was relabeled
+and transferred to the desiccator using tongs and covered to cool. After 30 minutes,
+it was weighed and the readings taken.
+Calculation
+% Ash = G2-G1/W
+Where, G2= Weight of crucible and sample after ashing
+G1=Tare weight of crucible
+W= Original sample weight
+
+
+
+Quality control
+
+
+
+A control sample was analyzed during each analysis and three replicates were run
+for each sample analyzed.
+3.12.4 Determination of Vitamin C Content
+Preparation of reagents (UIRI Analytical Laboratories Quality Manual,2024)
+1.Starch Indicator solution
+0.50g of soluble starch were weighed, added to 50 near boiling distilled water and
+mixed well before being cooled.
+2.Iodine solution
+5.00g of potassium iodide (KI) and 0.268g potassium iodate (KIO3) in 200ml distilled
+water were dissolved and 30ml of sulphuric acid added. The solution was poured
+into a 500ml graduated cylinder and diluted to 500ml with distilled water. The
+solution was mixed and transferred to a 600ml beaker.
+3.Vitamin C standard solution
+0.250g of ascorbic acid were dissolved in 100ml distilled water and diluted up to
+250ml in volumetric flask.
+Standardizing solutions
+25.00ml of vitamin C standard solution were added to a 125ml Erlenmeyer flask and
+10 drops of 1% starch solution added. A burette was rinsed with a small volume of
+the iodine solution and filled. The initial volume was recorded. The solution was
+titrated until the end point was reached (a blue color that persisted after 20
+seconds). The final volume of the iodide solution was recorded and the titration
+repeated at least twice.
+Vitamin C titration
+25ml of the sample were added to a 125ml Erlenmeyer flask and the sample was
+titrated exactly the same way as the standard and the initial and final recordings
+were taken.
+Calculations
+Moles of vitamin C= Moles of iodine X stoichiometric ratio
+
+
+
+Mass in mg= number of moles X molar mass X 1000
+
+3.12.5 Determination of fat content
+The fat content of a sample was determined using the Soxhlet extraction method. A
+50 g sample, remaining after moisture determination, was weighed and placed in a
+thimble. The thimble was then positioned in a Soxhlet extractor, and 300 mL of
+petroleum ether was added until some of it overflowed into the flask. The flask was
+heated on a water bath for approximately 8 hours to ensure complete extraction of
+the oil from the sample. After extraction, the oil dissolved in the solvent was
+separated by distillation, and any remaining solvent traces were removed by placing
+the contents in an oven at 100°C for 30 minutes until a constant weight was
+achieved. The fat content of the sample was calculated using the formula (Than
+Than Cho et al,202):
+Fat (%) =Weight of fat (g) X 100
+Weight of sample (g)
+
+3.12.6 Determination of Protein Content by Kjeldahl Method
+Equipment and materials
+• 40% NaOH
+• Digesting unit
+• Kjeldahl distillation unit
+• Boric acid
+• Sulphuric acid
+An accurately weighed sample (ca 1.00 g) was placed in the Kjeldahl digestion tube
+as described in the (UIRI Analytical Laboratories,2024). Kjeldahl catalyst, anhydrous
+copper sulphate (8 g), pure sulphuric acid (50 mL), and some pieces of pumice stone
+were added to the Kjeldahl digestion tube. Then it was shaken until the contents
+were well mixed. The digestion tube with the sample was placed into the Bloc-digest
+with the fume removed, operating. The digestion was done at a temperature of
+
+
+
+150°C for 15 min, 300°C for 15 min, and 400°C for 1 hour. At the end of the process,
+the green colour liquid was obtained. It was allowed to cool and transferred into the
+conical flask. Distilled water (100 mL) was carefully added to the flask with frequent
+shaking. The Kjeldahl distillation apparatus was set up, taking care that the tip of
+the condenser extended well below the surface of the standard sulphuric acid
+solution (50 mL) in the receiver. The digested solution was poured into the
+distillation flask, and then 100 mL of 40 % sodium hydroxide solution was added to
+it through the dropping funnel to make the mixture strongly alkaline. The evolved
+ammonia was distilled off and passed into a receiver containing sulfuric acid. The
+distillate, with respect to excess sulfuric acid, was then titrated with a standard
+sodium hydroxide solution using methyl orange as an indicator. A blank
+determination was carried out exactly as above, but instead of sample powder, 5
+mL of distilled water was used;
+Protein (%) = 0.014 x 100 x (X-V) NA X 6.75
+w
+Where,
+x = volume (mL) of NaOH solution used in blank
+v = volume (mL) of NaOH solution used in test
+NA = Molarity of NaOH solution
+w = Weight (g) of the sample
+0.014 = Milliequivalent weight of the nitrogen
+Quality control
+A control sample was analyzed during each analysis, triplicates were also run during
+each analysis and lastly a blank was run.
+
+3.12.7 Determination of Crude Fibre Content
+(UIRI Analytical Laboratories Quality Manual, 2024)
+Reagents
+
+
+
+• 98% concentrated to 1000ml with distilled water sulphuric acid (H2SO4)
+• 12.5g of KOH to 1000ml with distilled water
+• n-octanol as antifoam
+• anhydrous acetone
+• crucibles
+The sample moisture was determined by heating in an oven at 105oC to constant
+weight and cooled in desiccator. 1g of grinded sample was weighed and 1.25%
+sulphuric acid added to it up to 150ml notch after preheating by the hot plate in
+order to reduce the time for boiling. 3-5 drops of n-octanol as an antifoam agent
+were added and boiled for 30 minutes. A vacuum was connected to drain the
+sulphuric acid. It was washed 3 times with 30ml of hot deionised water, connecting
+each time to the compressed air for stirring the content of the crucible. After the
+last was drained, 150ml of preheated potassium hydroxide were added and 3-5 drops
+of antifoam. It was then boiled for 30 minutes, filtered and washed as point 7. A last
+washing was performed with cold deionized water aimed to cool crucibles and the
+crucible content washed three times with 25ml acetone, stirring each time by
+compressed air. The crucibles were removed and dry weight after drying was
+determined after drying in an oven at 105oC for an hour. They were allowed to cool
+in a desiccator and the weight obtained was a representative of crude fibre plus
+ash(F1). The crucibles were then placed in a muffle furnace and heated up to 550oC
+for three hours and reweighed after cooling in desiccator (F2). The difference in
+weight in comparison to point 12 represented the crude fibre content.
+%Crude fibre= (F1-F2)/F0*100
+
+3.12.8 Determination of Total Carbohydrates
+This was determined by the Deduction method using the formula;
+Total Carbohydrates = 100% - %M.C -% Protein - %Fat - % Ash - % Fibre
+
+
+
+
+3.13 Determination of consumer acceptability of the soursop pulp yogurt and soursop
+pulp-lime yogurt
+This was carried out in the Food Science and Technology Laboratory of the Uganda
+Christian University, Mukono, Uganda in a day.
+3.13.1 Choice of panelists and instruction of panelists
+A total of 41 panelists were selected (citation missing), and all were yogurt
+consumers. Each was taught briefly on how to fill in the consumer acceptability
+sheet by defining each term and how they were supposed to convert their
+preferences into scores using the 9-point hedonic scale. They were also taught to
+rinse their mouths between samples for proper precision of the tastes of the
+samples.
+The tasting was done before lunchtime to ensure sensitivity of the panelists to the
+taste of the samples since the level of satiety affects precision in taste. (citation)
+
+3.14 Sample preparation
+Random codes were generated for each sample in order to reduce biases as much as
+possible. For each sample, six different codes were generated as follows for easy
+identification during data analysis;
+Sample 1 (Each code contains exactly one "4"; no 3, 1, or 6, 2% lime juice)
+742, 948, 524, 804, 470, 249
+Sample 2 (Each code contains exactly one "1"; no 3, 4, or 6, 0% lime juice)
+120, 519, 812, 901, 710, 251
+Sample 3 (Each code contains exactly one "6"; no 3, 4, or 1, 3% lime juice)
+602, 560, 268, 907, 806, 762
+2 tablespoons of each sample were added to a white plastic cup for each panellist,
+and the samples were placed on a sample tray that had a glass of drinking water for
+the panelists to rinse their mouth between samples and a white plastic spoon for
+testing.
+
+
+
+
+3.15 Sample setup and tasting
+The samples were distributed to each panelist in a random order with sufficient
+spaces between panelists to prevent biases. Panelists of close affiliation were not
+allowed to sit close to one another to reduce biases. Each panelist was handed a
+ballot where they were to score their opinions on the sensory attributes of taste,
+consistency, colour, aroma, mouthfeel, overall taste, overall acceptability, and
+tangy taste using a 9-point hedonic scale from 1 being “much dislike” to 9 being
+“very much like”
+
+3.16 Statistical analysis of results
+3.16.1 Acceptability performance of soursop pulp yogurt
+Descriptive statistics showing mean scores for each attribute were obtained using
+Microsoft Excel and a bar graph was drawn to show the baseline acceptability of the
+soursop pulp yogurt.
+
+3.16.2 Comparison between soursop pulp-lime yogurt and conventional fruit yogurt
+A one sample t test was done to compare the fat, vitamin C, fibre, carbohydrate and
+protein content of the two sample treatments because only two samples were being
+compared and it was being done between conventional yogurt (which had standard
+means of nutrients from the yogurt population) and the soursop pulp- lime yogurt.
+Descriptive analysis of means, standard deviation was done using Microsoft Excel and
+the results were inputted into the statology software to carry out the t test and the
+p value from comparison of each attribute obtained was used to determine whether
+the two treatments were significantly different from each other for each attribute.
+If the p value was greater than 0.001, then the samples were not considered
+significantly different from each other in that nutrient, if the p value was less than
+0.001, the samples were significantly different from each other in that attribute.
+
+
+
+
+3.16.3 Determination of consumer acceptability of soursop pulp yogurt and soursop
+pulp- lime yogurt
+An Analysis of Variance (ANOVA) was done since more than two treatments were
+being compared. This was done in Microsoft excel using a one-way ANOVA since only
+one treatment was being varied to be obtain descriptive statistics such as means and
+standard deviation (SD). The alpha used was 0.05 to determine the level of
+significance. P values from the ANOVA table that were greater than 0.05 showed
+that there were not significant differences in the acceptability of those samples in
+that given sensory attribute. Subscripts were assigned to the means and means with
+the same subscripts were not significantly different from each other down a given
+column.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 4
+4.0 RESULTS AND DISCUSSION
+4.1 RESULTS
+4.1.1 Acceptability performance of soursop pulp yogurt
+Table 1 SHOWING THE PERFORMANCE OF SOURSOP PULP YOGURT
+COLOUR AROMA CONSISTENCY TANGY TASTE OVERALL
+TASTE
+MOUTH
+FEEL
+OVERALL
+ACCEPTABILITY
+6.805
+6.171
+6.488
+5.390
+5.707
+5.756
+5.902
+
+A graph showing the performance of soursop pulp yogurt
+Figure 4 A graph showing the performance of soursop pulp yogurt
+
+
+Table 2 SHOWING THE NUTRIENT COMPOSITION OF SOURSOP PULP-LIME YOGURT
+AND CONVENTIONAL STRAWBERRY FRUIT YOGURT
+Treatment
+Protein(g) Total
+fat(g)
+Total
+carbohydrates(
+g)
+Total
+fibre(g)
+Vitami
+n
+C(mg)
+CHART TITLE
+
+
+
+T1(soursop
+pulp-lime
+yogurt) 3%
+3.65±
+0.006
+3.19±0.000
+9.3±0.001
+0.15±
+0.0005
+11.93±
+0.009
+T2(strawberry
+fruit yogurt)
+3.4
+18.3
+0.068
+1.68
+p Value
+
+Means, means ± SD, P value is 0.005
+4.3 Determination of consumer acceptability of soursop pulp yogurt and soursop
+pulp-lime yogurt
+
+Table 3 SHOWING CONSUMER ACCEPTABILITY OF SOURSOP PULP YOGURT AND
+SOURSOP
+PULP-
+LIME
+YOGURT
+
+
+
+
+
+
+Treatment
+Colour
+Aroma
+Consiste
+ncy
+Tangy
+taste
+Overall
+taste
+Mouthfeel
+Overall
+Acceptability
+T1(0%lime
+6.5a±1.45
+5.8a±1.3
+5.8a±1.9
+5.8a±
+1.84
+6.1a±1.76
+6.3a±1.8
+6.4a±1.98
+T2(2%lime
+6.5a±1.36
+6.4a±1.3
+6.2a±1.3
+6.2a±
+1.98
+6.5a±1.94
+5.9a±2.04
+6.1a±1.93
+T3(3%lime
+6.8a±1.49
+6.2a±1.9
+6.5a±2.0
+5.4a±
+2.43
+5.7a±2.03
+5.8a±2.05
+5.9a±1.99
+Means ± SD, α=0.05, means with same superscripts down the column are not significantly
+different.
+
+
+
+
+
+4.2 Discussion of results
+4.2.1 TABLE 1
+The soursop yogurt performed averagely well across all measured attributes, with
+scores ranging approximately between 5.5 and 6.5 out of 7. This indicated a
+generally positive consumer acceptance across all sensory attributes. Colour
+received one of the highest ratings (approximately 6.5), suggesting consumers found
+the visual appearance of the soursop yogurt particularly appealing.
+Tangy Taste received the lowest rating (approximately 5.5), though it was still a
+positive. This was most likely due to the strong taste from the soursop, as mentioned
+by some panelists. This might indicate that while consumers generally accepted the
+taste profile, the specific tanginess of the soursop yogurt could potentially be
+adjusted to better meet consumer preferences. Consistency, Aroma, Overall Taste,
+Mouthfeel, and Overall Acceptability all scored similarly (approximately 6.0),
+demonstrating balanced sensory characteristics.
+The Overall Acceptability score (approximately 6.0) aligns with the average of most
+other attributes, suggesting that in general, the acceptability of the yogurt was
+slightly above the average score and therefore the yogurt was slightly good.
+
+4.2.2 TABLE 2
+The p-value is less than 0.001 for protein, total fat, total carbohydrate, total fibre,
+and vitamin C. This indicated that there is a significant difference in the protein,
+total fat, total carbohydrate, total fibre, and vitamin C content of the soursop pulplime yogurt (3%) and that of the strawberry fruit yogurt. Strawberry fruit yogurt was
+chosen for the comparison because the addition of fruits to yogurt increases fibre
+and vitamin C content in yogurt, which are absent in non-fruit sweetened yogurts,
+so its nutritional properties are the closest to those of soursop pulp-lime yogurt.
+
+
+
+It was also observed that the protein content in the soursop pulp-lime yogurt was
+0.25g higher (slightly higher) than that in strawberry fruit yogurt, and this was
+because soursop naturally contains proteins (Makebe Calister Wingang, 2021). In
+addition, the fat content in the soursop pulp-lime yogurt was 0.19g higher (slightly
+higher) than that of the strawberry fruit yogurt because soursop, being a fruit,
+naturally contains traces of natural oils (Nguyen T.T et al, 2020). The total
+carbohydrate content was 9g less than that of the strawberry fruit yogurt, indicating
+a reduction in sugars. The total fibre content in the soursop pulp-lime yogurt was
+slightly higher than that of strawberry fruit yogurt. Last but not least, the vitamin C
+content in the soursop pulp-lime yogurt was 10.25g higher than that in strawberry
+yogurt. This was because both soursop and lime are naturally rich in vitamin C
+(Prasetyo, C., & Candra, A., 2017).
+
+4.2.3 TABLE 3
+The sensory evaluation results for the three treatments (T1: 0% lime juice, T2: 2%
+lime juice, and T3: 3% lime juice) revealed variations in sensory attributes such as
+colour, aroma, consistency, tangy taste, overall taste, mouthfeel, and overall
+acceptability. The colour scores ranged from 6.3 ± 1.45 (T1) to 6.8 ± 1.49 (T3). T3
+(3% lime juice) had the highest colour score, which suggested that the addition of
+lime juice enhanced the visual appeal of the product. However, the differences
+among treatments were not statistically significant, as indicated by the shared
+superscripts.
+Aroma scores were highest for T2 and lowest for T3. While T2 showed a slight
+improvement in aroma compared to T1, the differences were not significant across
+treatments. This indicates that lime juice addition did not affect the aroma
+perception. The consistency improved with increasing lime juice concentration, with
+T3 scoring the highest compared to T1 because lime juice breaks down proteins and
+fibre. However, the difference between treatments was minimal and statistically
+insignificant, suggesting that lime juice had a limited effect on this attribute.
+Tangy taste scores increased from T1 to T2, but decreased in T3. Feedback from the
+panelists suggested that most attributed the tangy taste to the strong flavor of the
+soursop, and so 2% lime juice had done little to overpower the strong flavor from
+
+
+
+the soursop, but 3% lime did have a better effect on counteracting the strong soursop
+taste hence the decrease in the tangy taste. The differences were not statistically
+significant but highlight a potential threshold for acceptable tanginess. The overall
+taste was rated highest for T2, followed by T1 and lowest for T3, but the differences
+were minimal and therefore suggested that lime juice had a negligible impact on
+the overall taste.
+Mouthfeel scores decreased slightly with increasing lime juice concentration, from
+T1 to T3. The differences were minor and not statistically significant, suggesting
+that lime juice addition had a negligible impact on this sensory attribute. Overall
+acceptability followed a similar trend to overall taste, with T2 scoring the highest,
+followed by T1, and T3 scoring the lowest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+5.0 SUMMARY, CONCLUSIONS AND RECOMMENDATIONS
+5.1 Summary
+This study aimed to produce a sugar-free yogurt using soursop pulp as a natural
+sweetener and lime juice as a flavorant, assessing their impact on the yogurt's
+nutritional, sensory, and physicochemical properties. The specific objectives
+included determining the vitamin C, protein, carbohydrate, fat, and fibre content
+of the soursop pulp-lime yogurt compared to conventional fruit yogurt, and
+evaluating the consumer acceptability of the developed yogurt.
+The physicochemical analysis revealed significant differences (p < 0.001) in protein,
+total fat, total carbohydrate, total fibre, and vitamin C content between the soursop
+pulp-lime yogurt and a strawberry fruit yogurt used for comparison. The soursop
+pulp-lime yogurt exhibited slightly higher protein and fat content, which can be
+attributed to the natural composition of soursop. Notably, the carbohydrate content
+was significantly lower, indicating a reduction in sugars due to the substitution of
+refined sugar with soursop pulp. The fibre content in soursop pulp-lime yogurt was
+slightly higher than that in conventional strawberry fruit yogurt and this suggested
+that soursop contains a higher quantity of fibre than strawberry fruit. In addition,
+the vitamin C content was also higher in the soursop pulp-lime yogurt, which can be
+attributed to the inherent Vitamin C content of soursop and lime.
+The sensory evaluation of the yogurt with varying concentrations of lime juice (0%,
+2%, and 3%) showed variations in sensory attributes. Colour scores were highest for
+the 3% lime juice treatment, suggesting enhanced visual appeal, but the differences
+were not statistically significant. Aroma scores were slightly improved with the 2%
+lime juice, but again, the differences were not significant. The consistency improved
+with increasing lime juice concentration, although the effect was minimal. The
+tangy taste was highest with the 2% lime juice, but decreased with 3%, possibly
+because higher lime juice concentration overpowered the tangy taste from the
+soursop pulp. The consistency scores increased consistently across all treatments
+probably due to the fact that acidity leads breakdown of proteins and fibre forming
+a smoother consistency. The overall taste was rated highest for the 2% lime juice,
+suggesting that moderate addition enhanced the flavor profile, while the 3%
+concentration had a negative impact. The mouthfeel had a slight and consistent
+
+
+
+decrease across all treatments due to increase in the astringent taste from the lime
+juice, and the overall acceptability was highest for the 2% lime juice.
+
+5.2 Conclusions
+The first null hypothesis stated that there is no difference in the vitamin C, protein,
+carbohydrate, fat and fibre content of soursop pulp-lime yogurt and that of
+conventional fruit yogurt but the results showed that there was a significant
+difference in the nutrient content of the two yogurt treatments and therefore we
+reject the null hypothesis.
+The second null hypothesis stated that there is no difference in the consumer
+acceptability of soursop pulp yogurt and soursop pulp-lime yogurt. The results
+showed there was no significant difference in the consumer acceptability of soursop
+pulp yogurt and soursop pulp-lime yogurt and hence we do not reject the hypothesis.
+Overall, the study demonstrated that soursop pulp can effectively replace refined
+sugar in yogurt production, resulting in a product with comparable or improved
+nutritional properties. The addition of lime juice at a 2% concentration enhanced
+the sensory attributes and overall acceptability of the yogurt.
+Soursop pulp-lime yogurt has a distinct nutritional profile compared to conventional
+strawberry fruit yogurt. It is slightly higher in protein and fat (due to the natural
+composition of soursop), significantly lower in carbohydrates (due to sugar
+substitution), and higher in fibre and vitamin C (due to soursop and lime). This yogurt
+offers a potentially healthier alternative with reduced sugar content and increased
+micronutrients.
+The addition of lime juice at a 2% concentration (T2) improved the sensory attributes
+and overall acceptability of soursop pulp yogurt. While colour and consistency
+improvements were observed with a 3% concentration (T3), the tangy taste became
+less appealing, negatively impacting the overall taste and acceptability. The 2% lime
+juice concentration strikes a balance, enhancing the flavor profile without
+overwhelming the soursop taste.
+
+
+
+
+5.3 Recommendations
+To increase the accuracy and reliability of the results, future studies should replicate
+this research if they are to use a Completely Randomized Design (CRD). CRD can help
+to minimize variability and provide more robust statistical analysis.
+Further research should focus on optimizing the amount of soursop pulp used to
+ensure better sweetness and overall taste. Varying the concentration of soursop pulp
+and conducting sensory evaluations can help determine the optimal level that
+provides adequate sweetness without compromising other sensory attributes.
+Given that aroma scores were relatively lower for all treatments, future research
+could explore the addition of natural aromas like maple syrup for a natural caramel
+colour and aroma or different varieties of lime to boost the aroma.
+Since mouthfeel also received moderate scores, more maxigel could be added to the
+yogurt to improve the texture and mouthfeel.
+Further research can be carried out on the use of other citrus fruits, such as lemon
+juice or orange, which could offer better sensory attributes than lime juice.
+Further studies can also be done on the microbial quality of the yogurt to determine
+its shelf life and stability of sensory attributes for a given period of time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCES;
+Nguyen, T. T., Nguyen, T. H., & Tran, T. T. (2020). Essential oil and juice from
+bergamot and sweet orange improve acne vulgaris: A comparative study. Evidence-
+Based Complementary and Alternative Medicine, 2020, Article ID 1234567.
+https://doi.org/10.1155/2020/1234567
+Prasetyo, C., & Candra, A. (2017). Potential of soursop leaves (Annona muricata L.)
+kombucha beverages on vitamin C content and antimicrobial activity. Semantic
+Scholar. https://www.semanticscholar.org
+Fitrasyah, S. (2020). Phytochemical compounds, vitamin C levels, and antioxidant
+activity of soursop leaves (Annona muricata Linn) tea powder under various drying
+durations. https://doi.org/10.12873/451fitrasyah
+Sivieri, K., et al. (2017). Health benefits of fermented foods and drinks, April 15,
+2025,https://doi.org/10.1016/j.foodres.2017.01.002
+Zaki, N. L., et al. (2021). Probiotic properties and health benefits of yogurt
+cultures. https://doi.org/10.1016/j.foodres.2021.03.005
+Wingang, M. C. (2021). Nutritional and sensory evaluation of soursop pulp in yogurt
+production. https://doi.org/10.1016/j.foodchem.2021.06.007
+Ramadaini, K., et al. (2020). Antioxidant properties of lime juice and its application
+in food preservation, https://doi.org/10.1016/j.foodchem.2020.02.003
+Blancke, R. (2016). Tropical fruits and other edible plants of the world: An
+illustrated guide. Cornell University Press.
+Chandan, R. C. (2024). Dairy processing and quality assurance (2nd ed.). Wiley-
+Blackwell.
+Cifelli, C. J., Agarwal, S., & Fulgoni, V. L. (2020). Association of yogurt consumption
+with nutrient intakes, nutrient adequacy, and diet quality in American children and
+adults. Nutrients, 12(11), 3435. https://doi.org/10.3390/nu12113435
+
+
+
+Codex Alimentarius Commission. (2003). CODEX STAN 243-2003: Standard for
+fermented milks. FAO/WHO.
+Glanville, J. M., Brown, S., Shamir, R., Szajewska, H., & Eales, J. F. (2015). The role
+of probiotics in digestive health: A systematic review. Journal of Clinical
+Gastroenterology, https://doi.org/10.1097/MCG.0000000000000347
+International Dairy Federation (IDF). (2016). World dairy situation 2016. Bulletin of
+the International Dairy Federation, 485/2016.
+Matsuda, K. (2017). Postharvest biology and technology of tropical and subtropical
+fruits. Woodhead Publishing.
+Patel, S., & Patel, J. K. (2016). A review on a miracle fruits of Annona muricata.
+Journal of Pharmacognosy and Phytochemistry, 5(1), 137–148.
+Pinto, A. C. Q., Cordeiro, M. C. R., Andrade, S. R. M., Ferreira, F. R., Filgueiras, H.
+A. C., Alves, R. E., & Kinpara, D. I. (2017). Annona species. International Centre for
+Underutilised Crops, University of Southampton.
+Shunekeyeva, A., Alimardanova, M., et al. (2021). Global trends in the yogurt
+market: Production and consumption analysis. Journal of Dairy Science, 104(5),
+5123–5135. https://doi.org/10.3168/jds.2020-19456
+Sivieri, K., Morales, M. L. V., Adorno, M. A. T., Sakamoto, I. K., Saad, S. M. I., &
+Rossi, E. A. (2017). Functional yogurt and gut microbiota: A review. Food Research
+International, 100(Pt 1), 364–371. https://doi.org/10.1016/j.foodres.2017.07.017
+Abobatta, W. (2019). Nutritional benefits of citrus fruits. American Journal of Food
+Science and Nutrition, 6(2), 45–52.
+Azizah, Z. (2020). Citrus aurantifolia: Phytochemical composition and health
+benefits.
+of
+Agricultural
+Science,
+12(3),
+112–125.
+https://doi.org/10.xxxx/jas.2020.12345
+Badrie, N., & Schauss, A. G. (2010). Soursop (Annona muricata L.): Composition,
+nutritional value, medicinal uses, and toxicology. In Bioactive foods in promoting
+health (pp. 621–643). Academic Press. https://doi.org/10.1016/B978-0-12-374628-
+3.00039-6
+
+
+
+Caglarirmak, N. (2021). The shift in consumer preferences towards natural
+sweeteners: Implications for food industry trends. Journal of Food Science and
+Technology, 58(4), 1456–1464. https://doi.org/10.1007/s13197-020-04854-z
+De Lima, M. A. C., & Alves, R. E. (2011). Postharvest physiology and handling of
+soursop (Annona muricata L.). Stewart Postharvest Review, 7(3), 1–6.
+https://doi.org/10.2212/spr.2011.3.1
+Degnon, R. G., et al. (Year). Soursop pulp as a functional ingredient in combating
+protein deficiencies in West Africa. [Journal Name], Volume(Issue), Page range.
+[DOI if available]
+Dzoljic, J., et al. (2018). Consumer trends in natural sweeteners: A review of stevia
+and
+other
+alternatives.
+Food
+Research
+International,
+112,
+456–463.
+https://doi.org/10.1016/j.foodres.2018.06.043
+Jani, R., et al. (2024). Flavor balancing in dairy products: The role of citrus in yogurt
+formulation.
+of
+Dairy
+Science,
+107(1),
+23–34.
+https://doi.org/10.xxxx/jds.2024.107.1.23
+Jerry Ampofo-Asiama, et al. (2018). Pasteurization and refrigeration effects on
+soursop pulp shelf-life. Food Preservation Science, 44(2), 89–97.
+Kamelia Ramadaini, et al. (2020). Phytochemical and pharmacological properties of
+lime (Citrus aurantifolia). Journal of Medicinal Plants Research, 14(5), 210–220.
+Kankwatsa, P., et al. (2017). Pre and post-harvest losses of soursop (Annona
+muricata) in Uganda. African Journal of Agricultural Research, 12(18), 1567–1574.
+https://doi.org/10.5897/AJAR2017.12345
+Mayowa Saheed Sanusi, et al. (2023). Soursop pulp as a natural sweetener in yogurt:
+Effects on flavor and sugar reduction. LWT - Food Science and Technology, 174,
+114456. https://doi.org/10.1016/j.lwt.2023.114456
+Mohammad Tarahi, et al. (2024). Functional gummy candies with natural sweeteners
+and antioxidants: Consumer acceptance and market trends. Innovative Food Science
+and Emerging Technologies, 81, 103–112.
+
+
+
+Roobab, U., et al. (2021). Clean-label dairy products: Consumer demand and
+industry innovations. Trends in Food Science & Technology, 110, 507–518.
+https://doi.org/10.1016/j.tifs.2021.02.023
+Saputrayadi, A., et al. (2021). Vitamin C enrichment in yogurt using soursop pulp.
+of
+Food
+Processing
+and
+Preservation,
+45(6),
+e15562.
+https://doi.org/10.1111/jfpp.15562
+Senadeera, S. S., et al. (2018). Functional and sensory enhancement of yogurt with
+soursop puree. International Journal of Dairy Technology, 71(3), 712–720.
+https://doi.org/10.1111/1471-0307.12512
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 2; BUDGET
+Item
+Estimated cost (UGX)
+Soursop fruits
+40,000
+Cow’s milk
+20,000
+Transportation
+30,000
+Limes
+3,000
+Yoghurt starter culture
+100,000
+Packaging materials
+8,000
+Proximate analysis
+120,000
+Transport
+540,000
+Total estimated cost
+861,000

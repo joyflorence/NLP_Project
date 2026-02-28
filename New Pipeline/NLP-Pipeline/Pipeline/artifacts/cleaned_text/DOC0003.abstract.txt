@@ -1,0 +1,608 @@
+Lake Victoria, the world’s largest tropical freshwater lake, supports critical
+ecological, economic and social functions across East Africa. However, increasing
+industrial pollution, particularly in Walukuba Masese (Jinja district), poses a serious
+threat. The uncontrolled discharge of untreated effluent especially from the sunbelt
+textile industry has led to elevated phosphorous levels, causing eutrophication,
+harmful algal blooms and aquatic degradation.
+This study investigates the use of iron oxide and silica, as a sustainable method for
+phosphorous removal from industrial waste water. Laboratory experiments assessed
+adsorption efficiency based on parameters such as contact time, adsorbent dosage,
+Ph, and initial phosphorous concentration. The adsorption mechanism relies on Fe-
+O-P bond formation, where phosphates ions interact with hydroxyl groups on iron
+oxide surfaces. Silica enhances this process by increasing surface area structural
+stability.
+Finding reveals that the iron oxide and silica combination offers a cost effective and
+environmentally sustainable alternative to conventional treatment methods.
+Significant reductions in phosphorous levels were observed, demonstrating the
+potential of this system to meet regulatory standards and protect Lake Victoria’s
+aquatic ecosystem. This research highlights the importance of adopting innovative,
+efficient wastewater treatment technologies for long term water resource
+sustainability.
+
+ii
+DECLARATION
+I hereby declare that this research proposal is entirely my own work and has not
+been submitted to any other institution for assessment other than this university
+Signed........................................................................................
+Date: .... /.... /....
+AGABA FAHAD
+S21B32/080.
+
+iii
+APPROVAL
+This research project is submitted in partial fulfillment of the requirements for the
+award of a bachelor's degree in civil and environmental engineering at Uganda
+Christian University. The project has been reviewed, examined, and approved by
+my academic supervisor.
+
+Supervisor: ________________________Date: _________
+
+iv
+ACKNOWLEDGEMENT
+I express my deepest gratitude to my supervisor, Mr. Job Gava, for their invaluable
+guidance, constructive feedback, and continuous support throughout this research.
+I also acknowledge the faculty members and laboratory technicians at Uganda
+Christian University and the central laboratory for their assistance in providing the
+necessary resources and technical expertise. Special thanks to my family and friends
+for their encouragement and unwavering support both financially unemotionally. I
+also appreciate the contributions of researchers whose work has greatly informed
+this study. Lastly, I extend my appreciation to the industry and organizations that
+provided access to their premises, relevant data and research materials.
+
+v
+TABLE OF CONTENTS
+ABSTRACT ............................................................................... i
+DECLARATION ........................................................................... ii
+APPROVAL .............................................................................. iii
+ACKNOWLEDGEMENT ................................................................. iv
+LIST OF FIGURES ....................................................................... x
+LIST OF TABLES ........................................................................ xi
+CHAPTER ONE: INTRODUCTION ...................................................... 1
+1.1. BACKGROUND .................................................................. 1
+1.2. PROBLEM STATEMENT ......................................................... 2
+1.3. OBJECTIVES ..................................................................... 3
+1.3.1. Main Objective ............................................................ 3
+1.3.2. Specific objectives ....................................................... 3
+1.4. RESEARCH QUESTIONS ........................................................ 3
+1.5. GEOGRAPHICAL SCOPE ........................................................ 4
+1.6. JUSTIFICATION ................................................................. 4
+1.7. Adsorption Mechanism of Phosphorus ....................................... 5
+CHAPTER TWO: LITERATURE REVIEW ................................................ 6
+2.0 INTRODUCTION .................................................................. 6
+2.1. Sources of Nutrient Contaminants in Textile Wastewater and Their Impact on
+Water Treatment .................................................................... 6
+
+vi
+2.2. WASTEWATER ................................................................... 8
+2.2.1. COMPOSITION OF WASTE WATER ........................................ 8
+2.2.2. SOURCES AND TYPES OF WASTEWATER ................................. 9
+2.2.2.1. Domestic wastewater .................................................. 9
+2.2.2.2. Industrial wastewater ............................................... 10
+2.2.2.3. Characteristics of constituents of wastewater. .................. 11
+2.2.2.3.1. Physical characteristics ........................................... 11
+2.2.2.3.2. Chemical characteristics ......................................... 12
+2.3. Iron oxide bio-adsorbent ................................................... 14
+2.3.1. Iron Oxide Bio-Adsorbents for Phosphorus Removal ............... 14
+2.3.2. Factors Affecting Phosphorus Adsorption pH Levels ............... 15
+2.3.2.1. Recent Advances in Phosphorus Removal Technologies ......... 16
+2.3. Wastewater Treatment...................................................... 16
+2.3.1. Types of Bio-Adsorbents ............................................... 17
+2.3.2. Factors Affecting Adsorption .......................................... 17
+2.4. LEGISLATION ON WASTEWATER MANAGEMENT ........................... 18
+2.4.1. The United Nations (UN)............................................... 19
+2.4.2. African Union (AU) ...................................................... 19
+2.4.3. East African Standard .................................................. 20
+
+vii
+2.4.4. Uganda at National Level ................................................ 22
+2.4.5. National Environment Act Cap 153. .................................. 22
+2.5. Standards for wastewater discharge according to the water Act, Cap
+152 .................................................................................. 24
+CHAPTER THREE: METHODOLOGY SAMPLE COLLECTION ....................... 25
+3.1. SAMPLING (APHA 1060) ..................................................... 25
+3.2. Laboratory Tests ............................................................. 25
+3.3. DETERMINATION OF THE PHYSICOCHEMICAL PARAMETERS OF THE
+WASTEWATER EFFLUENT .......................................................... 26
+3.3.1. Laboratory Analysis ..................................................... 26
+3.3.2. ASSESSING THE PERFORMANCE OF IRON OXIDE AND SILICA IN
+PHOSPHOROUS REMOVAL FROM WASTEWATER. ............................. 29
+3.3.2.1. Material Acquisition and Preparation ............................. 29
+3.3.2.2. Iron-Oxide Particles .................................................. 29
+3.2.2.3. Preparation of Rice Husk ............................................ 30
+3.2.2.4. Optimum Dose Rate.................................................. 31
+CHAPTER FOUR: RESULTS AND DISCUSSIONS ..................................... 34
+4.1. Preamble ...................................................................... 34
+4.2. Introduction .................................................................. 34
+4.3 Analysis of Physico-chemical parameters of the wastewater effluent.
+....................................................................................... 34
+4.3.1. Chemical oxygen demand ............................................. 36
+
+viii
+4.3.2. Total suspended solids ................................................. 38
+4.3.2. Total phosphates ........................................................ 39
+4.3.3. pH ......................................................................... 40
+4.3.4. Turbidity ................................................................. 41
+4.4 Assessing the performance of iron oxide bio-adsorbent during the
+removal of nutrients from waste. ................................................. 41
+4.4.1. Results and interpretation (Batch Adsorption test) ............... 42
+4.4.1.1. Optimum Dosage ..................................................... 42
+4.5. Results and analysis and interpretation of the results after the use of
+the iron oxide during the adsorption test ..................................... 42
+4.5.1. Chemical oxygen demand ............................................. 42
+4.5.2. Total suspended solids ................................................. 43
+4.5.3. ph ......................................................................... 44
+4.5.4. Total phosphates ........................................................ 45
+4.5.5. Turbidity ................................................................. 46
+4.6. Wastewater Filtration Using Silica Media ................................ 46
+4.7. Results and analysis and interpretation of the results after further use
+silica. ............................................................................... 47
+4.7.1. Total phosphates ........................................................ 47
+4.7.2. Chemical oxygen demand ............................................. 48
+4.7.3. Total suspended solids ................................................. 49
+4.7.4. PH ......................................................................... 50
+
+ix
+4.7.5. Turbidity ................................................................. 51
+4.8. DESIGN OF A WASTEWATER TREATMENT SYSTEM ......................... 52
+4.8.1. Collection chamber .................................................... 53
+4.8.2. Adsorption tank design ................................................ 53
+4.8.3. Filter design ............................................................. 56
+3.2.3.1. Head loss Calculations ............................................... 58
+4.9. TABLE SHOWING INITIAL CONCENTRATION (BEFORE TREATMENT) AND
+AFTER TREATMENT FOR 3 CONSECUTIVE DAYS. ............................... 59
+4.9.1. Total Phosphates (mg/L) ............................................... 60
+4.9.2. Chemical Oxygen Demand (COD) (mg/L) ........................... 61
+4.9.3. Total Suspended Solids (TSS) (mg/L) ................................ 62
+4.9.4. pH ......................................................................... 63
+4.9.5. Turbidity (NTU) ......................................................... 64
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATION .......................... 65
+5.1 Conclusion ..................................................................... 65
+5.2 Recommendations ............................................................ 66
+References ............................................................................ 67
+APPENDICES ........................................................................... 70
+APPENDIX 1: PICTORIAL .......................................................... 70
+APPENDIX 2: LABORATORY RESULTS ............................................. 71
+
+x
+LIST OF FIGURES
+Figure 1 : Prototype design ......................................................... 33
+Figure 2: chemical oxygen demand with time ................................... 36
+Figure 3: total suspended solids variation with time ........................... 38
+Figure 4 : total phosphates variation with time ................................. 39
+Figure 5: Ph variation with time ................................................... 40
+Figure 6: turbidity variation with time ........................................... 41
+Figure 7: chemical oxygen demand variation with dosages ................... 42
+Figure 8: total suspended solids variation with dosages ....................... 43
+Figure 9: Ph variation with dosages ............................................... 44
+Figure 10 : total phosphates variation with dosages ........................... 45
+Figure 11: turbidity variation with dosages ...................................... 46
+Figure 12: total phosphates variation with silica depth ........................ 47
+Figure 13: chemical oxygen demand variation with silica depth ............. 48
+Figure 14: total suspended solids variation with silica depth ................. 49
+Figure 15: Ph variation with silica depth ......................................... 50
+Figure 16: turbidity variation with silica depth ................................. 51
+Figure 17: design of a wastewater treatment system .......................... 52
+Figure 18: total phosphates variation with days ................................ 60
+Figure 19: chemical oxygen demand variation with days ...................... 61
+Figure 20: total suspended solids variation with days .......................... 62
+Figure 21: Ph variation with days .................................................. 63
+Figure 22: turbidity variation with days .......................................... 64
+Figure 23: waste water sample Figure 24: silica extraction .......... 70
+Figure 25: sieve size used for sieving silica Figure 26: silica ......... 70
+
+xi
+Figure 27: burning of silica Figure 28: extraction of silica from rice
+husk ash ............................................................................... 70
+
+LIST OF TABLES
+Table 1: Types of domestic wastewater ............................................ 9
+Table 2: physical and chemical requirements ................................... 22
+Table 3: maximum permissible limits ............................................. 24
+Table 4: Laboratory tests ........................................................... 25
+Table 5: Standard methods for testing ............................................ 29
+Table 6: physical chemical parameters and their concentrations. ........... 35
+
+CHAPTER ONE: INTRODUCTION
+This chapter entails relevant information about the project, problem statement,
+objectives of the study, purpose of the study, justification and the scope of the
+study.
+1.1. BACKGROUND
+Lakes provide essential ecological, social and economic benefits. Lake Victoria, the
+largest tropical fresh water lake plays a key role in supporting industries, fishing,
+agriculture and recreation of East Africa region, contributing to the Gross National
+Product (GNP) of a nation (Ndugga, 2021). The area surrounding Lake Victoria,
+specifically the Walukuba Masese landing site in Jinja District, is highly
+industrialized and densely populated, with a high proportion of the population living
+alongside the lake (Hussein, 2023). The industries in the lake's catchment area
+include fish processing, food and beverage, pharmaceuticals, plastics, mattresses,
+metal fabricating industries and textile industries. Careless disposal of industrial
+effluents and other waste materials has led to significant water pollution,
+particularly increasing the concentration of nutrients in the lake’s waters, primarily
+from sunbelt textile industry.
+Industrial pollution in Uganda is rising, posing a significant environmental risk.
+Pollution emitted by industries is one of the key contributors to the deterioration of
+water quality in the country. The availability and quality of water are directly linked
+to the quality of life, with water quality often reflecting the state of economic
+development. Groundwater and surface water bodies can be contaminated by
+several sources. In urban areas, careless disposal of industrial effluents and other
+wastes significantly contributes to poor water quality (Tariq & Mushtaq, 2023). Most
+
+of the water bodies in developing regions are polluted by untreated effluents
+discharged from industries (Chowdhary, Bhargava, Mishra, & Khan, 2020).
+Parts of Lake Victoria along the areas of walukuba masese in jinja district receive
+untreated effluents from surrounding industries, which have significantly degraded
+the water quality. These industries discharge waste into the lake almost without any
+adequate treatment, resulting in high concentrations of nutrients like phosphorous.
+This poses severe threats to both aquatic life and human health, leading to problems
+such as eutrophication, harmful algal blooms, loss of biodiversity, groundwater
+contamination, and acidification of the water (Taako & Andama, 2024). This
+research aims to assess the use of iron oxide nano bio-adsorbent to remove nutrients
+from waste water.
+1.2. PROBLEM STATEMENT
+Pollution due to increased urban development has taken a toll on the fresh water
+ecosystems especially the proximal fresh water ecosystems, contributing to their
+deterioration, destruction and loss. Parts of Lake Victoria along the areas of
+walukuba masese in jinja district are affected by pollution from human activities
+like industrialization, sewage disposal among others (Marriott and Humphrey ,2023
+). Lake victoria faces a significant challenge from the industrial effluents from
+the sunbelt industry, a leather tanning industry. These have high nutrient
+concentrations especially phosphorous in the water (Walakira and Okot-Okumu,
+2023). Recent studies have revealed that the phosphorous concentration in some
+parts of lake Victoria along the areas of walukuba masese landing sites exceed
+permissible levels with an average concentration of 35.67 mg/L which is way above
+
+the concentration standards of NEMA which are set at 10mg/L (ministry of water and
+environment, 2023).
+High phosphorous concentration in the effluent and subsequent catchment poses
+severe threats to both aquatic life and human health, in terms of eutrophication
+and harmful algal blooms. These impact the biodiversity, ground water
+contamination, acidification of the water, among others. The current situation
+calls for urgent attention to mitigate the adverse impacts of increased nutrient
+concentrations on the ecosystems and safeguard the health and wellbeing of the
+people in the mentioned catchment areas inclusive of those directly benefiting
+from the lake. This research aims at assessing the use of iron oxide and silica in
+industrial wastewater treatment.
+1.3. OBJECTIVES
+1.3.1. Main Objective
+To assess the use of iron oxide and silica in industrial wastewater treatment.
+1.3.2. Specific objectives
+1. To determine the Physicochemical parameters of the wastewater effluent
+2. Assessing the performance of iron oxide and silica in phosphorous removal from
+wastewater.
+3. To design a wastewater treatment system for the wastewater effluent using
+iron oxide and silica.
+1.4. RESEARCH QUESTIONS
+1. What are the Physicochemical parameters of the wastewater effluent?
+2. What is the performance of iron oxide and silica in phosphorous removal from
+wastewater.
+
+3. How will the wastewater treatment system be designed?
+1.5. GEOGRAPHICAL SCOPE
+Sunbelt textile industries located along walukuba and masese landing sites in Jinja
+district.
+1.6. JUSTIFICATION
+The discharge of untreated industrial wastewater into aquatic ecosystems, such as
+lakes like Lake Victoria, poses significant health risks to communities that depend
+on these water sources. Elevated phosphorus levels in such effluents are a primary
+contributor to eutrophication, leading to detrimental effects like algal blooms,
+oxygen depletion, and degradation of water quality. Therefore, it is imperative to
+reduce phosphorus concentrations in wastewater to meet environmental discharge
+standards and protect aquatic ecosystems (Frankel,2022).
+Iron oxide-based bio-adsorbents have emerged as a promising solution for
+phosphorus removal from wastewater. Their high surface area and abundance of
+active sites facilitate effective adsorption of phosphate ions. The mechanism
+involves the formation of hydroxyl groups on the iron oxide surface in aqueous
+environments, which interact with phosphate ions through ligand exchange
+reactions. This process results in the displacement of surface hydroxyl groups by
+phosphate, forming stable Fe–O–P bonds, thereby effectively removing phosphorus
+from the water.
+To enhance the adsorption capacity of iron oxides, it is incorporated with bioadsorbents like silica. Silica increases the overall surface area and reactivity of the
+composite material, providing additional active sites for pollutant binding. This
+
+synergistic effect leads to higher adsorption capacities, making the composite
+material more efficient in removing contaminants from wastewater.
+1.7. Adsorption Mechanism of Phosphorus
+Iron oxides (Fe2O3 or Fe3O4) are known to have a high affinity for phosphate ions
+due to their surface charge and the ability to undergo ligand exchange reactions. In
+the presence of water, iron oxide surfaces become hydroxylated, forming –OH groups
+that can interact with phosphate ions (PO43−) in solution. The phosphate ions
+displace hydroxyl groups on the surface of the iron oxide particles, forming Fe–O–P
+bonds.
+Fe-OHs+ H2PO4−aq→ Fe-O-PO42−s+ H2Ol
+Phosphate ions bond with the iron oxide's hydroxyl groups, leading to the formation
+of inner-sphere complexes:
+Fe(OH)3s+ PO43−aq → FePO4s + 3OH− aq
+This mechanism allows for strong binding of phosphorus onto the iron oxide surface,
+effectively reducing its concentration in wastewater. The silica component of iron
+oxide further enhances this adsorption due to its increased surface area and
+reactivity, leading to higher adsorption capacities.
+
+CHAPTER TWO: LITERATURE REVIEW
+2.0 INTRODUCTION
+Water pollution due to excess nutrients such as phosphorus and nitrogen has become
+a major environmental concern worldwide. These nutrients, when present in
+excessive amounts, can lead to severe water quality degradation, eutrophication,
+harmful algal blooms, and oxygen depletion in aquatic ecosystems. Wastewater from
+industrial, agricultural, and urban activities is often loaded with these nutrients,
+requiring effective treatment methods. Among various strategies, adsorption using
+iron oxide nano bio-adsorbents has emerged as a promising solution for the removal
+of these nutrients, particularly phosphorus, from wastewater.
+2.1. Sources of Nutrient Contaminants in Textile Wastewater and Their Impact
+on Water Treatment
+Textile wastewater contains various pollutants, including dyes, heavy metals,
+surfactants, and organic and inorganic nutrients. The presence of nutrients,
+particularly nitrogen and phosphorus compounds, is a significant concern as it can
+contribute to water pollution and eutrophication if not properly treated.
+One major source of nutrients in textile wastewater is the use of synthetic dyes.
+Many dyes, including reactive, azo, and acid dyes which contain nitrogen-based
+functional groups. During the dyeing process, a considerable portion of these dyes
+remains unbounded to the fabric, and it is subsequently washed off, leading to
+increased nitrogen levels in the effluent. Furthermore, some dyes incorporate
+phosphorus compounds, further elevating the nutrient content in wastewater.
+Similarly, sizing agents and starch-based additives used in the pre-treatment phase
+introduce organic polymers such as starch, polyvinyl alcohol (PVA), and
+
+carboxymethyl cellulose (CMC). When these substances degrade, they release
+ammonia, nitrates, and organic nitrogen into the wastewater, contributing to
+nutrient pollution.
+Detergents and surfactants used in textile processing play a role in introducing
+nutrients into wastewater. Most of the commercial detergents contain phosphatebased compound that act as water softeners and cleaning enhancers. Since
+phosphates are highly soluble, they persist in wastewater and contribute to
+phosphorus pollution. If discharged without adequate treatment, these compounds
+promote excessive algal growth in water bodies, hence leading to eutrophication
+and oxygen depletion. Furthermore, biochemical reactions occurring within effluent
+holding tanks also elevate nutrient levels. As organic matter decomposes under
+microbial activity, nitrogenous compounds such as ammonia and nitrates are
+released, further increasing the nutrient concentration in wastewater, hence calling
+the need for treatment.
+The source of water used in textile industries can also influence nutrient levels in
+the final effluent. If the water is sourced from rivers, lakes, or groundwater already
+containing high concentrations of nitrogen and phosphorus, these nutrients become
+part of the textile wastewater stream. Pre-treatment methods may not effectively
+remove all contaminants, resulting in an accumulation of nutrients in the discharged
+effluent. Furthermore, fabric softeners and finishing chemicals used in the final
+stages of textile production contain nitrogenous and phosphorus-based compounds,
+which dissolve into wastewater during washing and rinsing processes.
+
+2.2. WASTEWATER
+Waste water is used water that has been affected by domestic, commercial and
+industrial use. Waste water is composed of 99.9% water and the remaining 0.1%
+contains organic matter, inorganic compounds and microorganisms (wang, 2021).
+Waste water effluents are released to a variety environment, like lakes, ponds,
+streams, rivers and estuaries.
+2.2.1. COMPOSITION OF WASTE WATER
+Wastewater is a complex mixture of various substances originating from households,
+industries, and commercial activities. It is primarily composed of water, including
+both freshwater and contaminated natural water sources. A significant portion of
+wastewater consists of organic matter such as food waste, human and animal waste,
+oils, fats, proteins, and plant materials, which serve as energy sources for
+microorganisms in treatment processes. Nutrients like nitrogen and phosphorus,
+derived from detergents, human waste, and agricultural runoff, can lead to water
+pollution and eutrophication if untreated. Suspended solids, including sediments,
+soil, food particles, paper, and plastics, are also common in wastewater.
+Additionally, it may contain hazardous chemicals such as heavy metals, pesticides,
+solvents, pharmaceuticals, and industrial toxins, posing environmental and health
+risks. Pathogens, including bacteria, viruses, and parasites from human and animal
+waste, further highlight the need for proper wastewater treatment. The pH and
+temperature of wastewater vary depending on its source and can influence the
+efficiency of treatment processes, with higher temperatures generally enhancing
+microbial activity. Effective treatment is crucial to prevent pollution, protect
+ecosystems, and ensure safe water reuse (wang, 2021).
+
+2.2.2. SOURCES AND TYPES OF WASTEWATER
+Wastewater which also known as raw sewage originates from households, industries,
+commercial or institutional facilities.
+2.2.2.1. Domestic wastewater
+Domestic wastewater includes all water generated by home dwelling, public
+restrooms, public restrooms, schools and other health centers, apartments. They all
+produce high volumes of wastewater.
+Table 1: Types of domestic wastewater
+Type
+of
+Waste
+water
+Source
+Composition
+Characteristics
+Black
+water
+Toilets,
+dishwashers, food
+preparation sinks
+Human waste (feces &
+urine), toilet paper,
+cleaning agents, food
+residues
+Highly contaminated,
+contains pathogens,
+organic matter, and
+dissolved chemicals
+Grey
+water
+Bathroom sinks,
+laundry
+machines,
+bathtubs, spas
+Soap, detergents, skin
+cells, hair, grease, and dirt
+Does not contain human
+waste, lower
+contamination, suitable
+for reuse after
+treatment
+
+Yello
+w
+Water
+Urine collected
+separately from
+toilets
+Pure urine without fecal
+contamination
+Can be used for
+fertilizer production
+due to nutrient content
+(nitrogen & phosphorus)
+
+2.2.2.2. Industrial wastewater
+Industrial wastewater refers to liquid waste generated from industrial
+processes such as manufacturing, food processing, and other production
+activities. The composition and level of contamination in industrial
+wastewater vary depending on the type of industry and the chemicals
+involved in its operations. Industrial wastewater is generally classified based
+on
+its
+physical,
+chemical,
+and
+biological
+properties
+(Łukasz
+Wujcicki,2023).
+There are two main categories of industrial wastewater:
+1. Inorganic Industrial Wastewater – This type originates from
+industries such as steel production, electroplating plants, and coal
+processing facilities. It primarily contains inorganic pollutants,
+including heavy metals, acids, and other non-biodegradable
+substances.
+2. Organic Industrial Wastewater – This is generated from industries
+that heavily rely on organic compounds for their processes, such as
+textile
+manufacturing,
+tannery
+operations,
+and
+chemical
+
+production. The wastewater from these industries contains organic
+pollutants, including dyes, solvents, and biodegradable chemicals
+2.2.2.3. Characteristics of constituents of wastewater.
+Constituents of Waste Water are characterized in terms of their physical, chemical,
+and biological composition.
+2.2.2.3.1. Physical characteristics
+Turbidity is a measure of water clarity, typically caused by suspended particles such
+as organic matter and fine particles like clay. High turbidity in wastewater effluent
+can severely affect aquatic ecosystems by reducing light penetration, hindering
+aquatic plants from performing photosynthesis, and disrupting the natural balance
+of the water body (Walakira & OkotOkumu, 2023). Turbidity is quantified using a
+nephelometric method, which involves passing light through the water sample and
+measuring the light that is scattered by particles. The unit of measurement for
+turbidity is the Nephelometric Turbidity Unit (NTU). According to the National
+Environment Management Authority (NEMA), the acceptable discharge standard for
+wastewater effluent is 300 NTU.
+Total Suspended Solids (TSS)
+Total suspended solids (TSS) refer to particles that are not soluble in water and remain
+suspended due to their density being less than water. These particles can include
+organic and inorganic matter. A common source of TSS is untreated or improperly
+treated wastewater effluent. TSS is a critical parameter in wastewater quality
+
+analysis as it impacts aquatic life by reducing oxygen levels and light penetration,
+creating poor water conditions.
+2.2.2.3.2. Chemical characteristics
+PH
+pH is the measure of the concentration hydrogen ions, indicating whether water is
+acidic (pH < 7), neutral (pH = 7), or alkaline (pH > 7). The pH is an important
+parameter as it affects other water treatment processes. Wastewater effluent
+having a pH value that is not within the NEMA discharge standards will have a
+negative impact on the receiving water bodies when discharged. Effluent with low
+pH levels can cause acidity in the receiving water bodies affecting fish in terms of
+growth and reproductive activities (Aghalari et al,2023). pH in wastewater affects
+the biological reactions and low levels inhibits growth of nitrifying bacteria which
+are essential for removing ammonia and nitrates from wastewater.
+Biochemical Oxygen Demand (BOD)
+Biochemical Oxygen Demand (BOD) is a measure of the amount of dissolved oxygen
+required by aerobic microorganisms to decompose organic matter present in
+wastewater. High BOD levels indicate a high concentration of organic pollutants,
+which can originate from agricultural runoff, industrial effluents, and sewage
+(Zayed, 2023). When wastewater with high BOD is discharged into surface water, it
+depletes the dissolved oxygen levels, threatening aquatic organisms, particularly
+fish, which rely on oxygen for respiration. BOD is measured over five days (BOD5),
+and results are expressed in milligrams per liter (mg/L). BOD testing is essential for
+evaluating the performance of wastewater treatment systems and determining
+effluent quality.
+
+Chemical Oxygen Demand (COD)
+Chemical Oxygen Demand (COD) refers to the amount of oxygen required to
+chemically oxidize organic and inorganic compounds in water. It is a crucial
+parameter for assessing the organic load in wastewater and its impact on receiving
+water bodies (Mensah, 2022). High COD levels in wastewater indicate the presence
+of pollutants, and discharging such effluent can drastically reduce dissolved oxygen
+levels, further stressing aquatic life.
+COD analysis provides a rapid estimate of organic pollution in water samples.
+Total Phosphorus
+Total phosphorus refers to the sum of all phosphorus forms in wastewater, including
+soluble and insoluble forms. Ortho-phosphates are the most easily removed form of
+phosphorus during wastewater treatment. Phosphorus typically enters wastewater
+from domestic sources such as detergents, human waste, and food residues. High
+phosphorus levels in wastewater discharged into water bodies contribute to
+eutrophication, promoting excessive algal growth (Wang, 2021). This algal
+overgrowth leads to oxygen depletion in the water as algae die and decompose,
+resulting in the death of aquatic organisms due to insufficient oxygen levels.
+pH
+pH is a measure of the hydrogen ion concentration, indicating whether water is
+acidic (pH < 7), neutral (pH = 7), or alkaline (pH > 7). The pH of wastewater affects
+many chemical and biological processes, including treatment efficiency. Wastewater
+effluent that falls outside the NEMA discharge standard range for pH can disrupt the
+receiving water bodies. For example, low pH (acidic) wastewater can affect the
+reproductive and growth processes of fish and other aquatic life. pH is commonly
+
+measured using a pH meter, making it an essential parameter for water quality
+assessment.
+2.3. Iron oxide bio-adsorbent
+2.3.1. Iron Oxide Bio-Adsorbents for Phosphorus Removal
+Iron oxide-based materials are particularly effective in removing phosphorus from
+wastewater due to their high affinity for phosphate ions. The silica material
+significantly increases their surface area, allowing for greater adsorption capacity.
+The interaction between iron oxide and phosphate ions typically occurs via
+chemisorption, where phosphate binds to the surface of iron oxide particles, forming
+strong Fe–O–P bonds.
+Adsorption Mechanism and Equations
+The removal of phosphorus using iron oxide nano bio-adsorbents follows a surface
+adsorption process that can be described by the chemical reaction below
+Fe-OH + H2PO4−→ Fe-O-PO42−+ H2O
+This reaction represents the binding of phosphate ions to the surface of iron oxide
+(Fe2O3). The adsorptive capacity of iron oxide is influenced by factors such as pH,
+initial phosphorus concentration, and the presence of competing ions in the water.
+Phosphates typically form inner-sphere complexes with iron hydroxides.
+The high affinity of iron oxides for phosphate ions can be attributed to their ability
+to form stable complexes through surface hydroxyl groups. Various studies have
+demonstrated the efficacy of iron oxide in adsorbing phosphate ions from
+
+wastewater, with significant removal efficiencies across a range of operating
+conditions .Fe(OH)3 + PO43− → FePO4 + 3OH−
+Iron oxide bio-adsorbents are especially useful in tackling phosphorus pollution due
+to their rapid kinetics, high adsorption capacities, and the ability to regenerate and
+reuse the adsorbent. Nanoparticles are also more effective in reaching and
+interacting with target pollutants in complex water matrices, such as those found
+in industrial wastewater.
+2.3.2. Factors Affecting Phosphorus Adsorption pH Levels
+The adsorption of phosphorus is highly pH-dependent, with maximum removal
+typically observed in slightly acidic conditions (pH 4-6). At lower pH, the surface
+charge of iron oxides becomes more positive, enhancing the electrostatic attraction
+between the adsorbent and phosphate anions Presence of Competing Ions
+The presence of other anions, such as sulfates or nitrates, can compete with
+phosphate for adsorption sites, potentially reducing the efficiency of phosphorus
+removal.
+Temperature
+Higher temperatures can increase the adsorption rate but may also reduce the
+equilibrium capacity by affecting the adsorbent's structure and the interaction
+strength between the phosphate ions and iron oxides.
+Adsorbent Dosage
+The amount of nano bio-adsorbent used also plays a crucial role in determining the
+efficiency of phosphorus removal. Higher dosages provide more active sites for
+
+phosphate binding but can lead to aggregation of nanoparticles, reducing surface
+area and effectiveness
+2.3.2.1. Recent Advances in Phosphorus Removal Technologies
+In recent years, there has been considerable progress in developing hybrid and
+composite materials for phosphorus adsorption. Iron oxide nanoparticles, when
+combined with natural polymers such as chitosan or cellulose, offer enhanced
+removal efficiency due to the synergistic effects of the metal oxide and the polymer
+matrix. These materials not only provide high adsorption capacities but also exhibit
+better stability in wastewater conditions.
+Additionally, advances in the synthesis of magnetic iron oxide nanoparticles allow
+for easy separation of the adsorbent from the treated water, making the process
+more efficient. This magnetic property enables the adsorbent to be recovered and
+reused, reducing operational costs in wastewater treatment plants (Łukasz
+Wujcicki,2023).
+2.3. Wastewater Treatment

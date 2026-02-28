@@ -1,0 +1,1344 @@
+ASSESSING THE SUITABILITY OF USING SISAL FIBER AS A
+REINFORCEMENT IN WOODCRETE
+
+
+ESTHER KIRULE BABIRYE
+M22B32/006
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD
+OF THE DEGREE OF BACHELOR OF SCIENCE IN CIVIL AND ENVIRONMENTAL
+ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+February, 2026
+
+
+
+
+
+i
+
+ABSTRACT
+The conventional concrete blocks in Uganda are not only heavy but also increase the
+need for larger structural elements which increases the cost making the need for
+the development of lightweight and eco-friendly and alternatives Woodcrete being
+one of the materials however, it is weak and susceptible to micro-cracking problems.
+The main objective of the research is to find out the mechanical and durability
+improvement of woodcrete when sisal fibers treated with alkali are added in the
+amount of 0-2% in the 1:2 cement-sawdust matrix. The tests performed in the
+laboratory included: density, compressive strength, tensile strength and water. At
+1.5% fiber content, the best result was reached giving a compressive strength of 3.7
+MPa, a tensile strength of 1.08 MPa and a density decrease to 1325.5 kg/m3, which
+corresponds to a dead-load reduction of 26.36%. To conclude, sisal fibers particularly
+at 1.0-1.5% serve as an excellent reinforcement and contribute to the strength,
+cracking resistance, and durability of woodcrete, which can be used as a very good
+lightweight material for non-load bearing construction in Uganda.
+
+
+
+ii
+
+DECLARATION
+I, BABIRYE ESTHER KIRULE hereby declare that this is work originally done by me, it
+is not plagiarized and has not been submitted to any institution for any award.
+
+BABIRYE ESTHER KIRULE
+Signature: ......................
+Date: .........................
+
+
+
+
+
+
+iii
+
+APPROVAL
+I Certify that this report is for BABIRYE ESTHER KIRULE and I fully accept that she
+has been under supervision and submitted to the Faculty of Engineering, Design and
+Technology of Uganda Christian University in partial fulfilment of the requirements
+for an award of a Bachelor of Science in Civil and Environmental Engineering.
+
+Signature: .........................
+Date: ............................
+MR. ZZIGWA MARVIN
+Academic Supervisor
+
+
+iv
+
+ACKNOWLEDGEMENTS
+I would like to give thanks to the Almighty God for His divine guidance and blessings
+which made this opportunity possible and strengthened me through every step.
+
+I want to thank my parents for their unwavering support, financial encouragement
+and constant belief in me throughout this course. Their guidance has always pushed
+me to aim higher, even when challenges felt overwhelming.
+
+I would like to extend my gratitude to my academic supervisor Mr. Zzigwa Marvin,
+who provided vital concepts and gave guidance through our entire project. I thank
+him for all the time he accorded us as we worked through this project.
+
+I would like Thank my project partner Mr. Musole Zozo Jonathan for actively working
+with me throughout the entire project and all the help he offered.
+
+Finally, I am grateful the Faculty of Engineering, Design and Technology at Uganda
+Christian University for supporting and allowing us work on this project under their
+guidance and supervision.
+
+
+
+
+
+
+
+
+
+v
+
+TABLE OF CONTENTS
+ABSTRACT ....................................................................................... i
+DECLARATION ................................................................................... ii
+APPROVAL ...................................................................................... iii
+ACKNOWLEDGEMENTS ........................................................................ iv
+LIST OF TABLES ............................................................................... viii
+LIST OF FIGURES .............................................................................. ix
+LIST OF ACRONYMS AND ABBREVIATONS .................................................... x
+CHAPTER ONE: INTRODUCTION .............................................................. 2
+1.1 BACKGROUND ............................................................................ 2
+1.2 PROBLEM STATEMENT .................................................................. 5
+1.3 MAIN OBJECTIVE ......................................................................... 6
+1.4 OBJECTIVES .............................................................................. 6
+1.5 RESEARCH QUESTIONS .................................................................. 6
+1.6 JUSTIFICATION........................................................................... 7
+1.7 SCOPE OF THE STUDY .................................................................. 8
+1.7.1 Geographical scope ................................................................ 8
+1.7.2 Content scope ...................................................................... 8
+1.7.3 Time scope .......................................................................... 9
+CHAPTER TWO: LITERATURE REVIEW ..................................................... 10
+2.1 Concrete blocks ....................................................................... 10
+2.1.1 Lightweight materials ........................................................... 13
+2.2 Woodcrete ............................................................................. 14
+2.2.1 Standards for woodcrete ........................................................ 15
+2.2.2 Sawdust particle size in woodcrete ........................................... 16
+2.2.3 Mix ratios for woodcrete ........................................................ 16
+2.2.4 Fibre reinforcement in wood composites ..................................... 17
+2.2.5 Sensitivity in woodcrete manufacturing ...................................... 19
+2.3 Fibre use in construction composite materials. .................................. 20
+2.3.1 Plastic fiber ....................................................................... 21
+2.3.2 Natural fibers ..................................................................... 22
+2.3.3 Fiber optimization ............................................................... 26
+2.3.4 Aspect ratio ....................................................................... 27
+CHAPTER THREE: METHODOLOGY ......................................................... 28
+Research Design............................................................................ 28
+3.1 Preparations of samples ............................................................. 29
+
+vi
+
+3.1.1 Cement ............................................................................ 29
+3.1.2 Sisal fiber .......................................................................... 30
+3.1.3 Saw dust ........................................................................... 33
+3.2 Determining the physical properties sisal fibre in material requirements of
+woodcrete. ................................................................................. 34
+3.2.1 Mechanical testing using the tensomaster machine (ASTM D2256) ....... 34
+3.2.1.1 Test procedure ................................................................. 34
+3.2.2 Scanning electron microscope (SEM) analysis of sisal fiber (ASTM E986-04)
+............................................................................................. 36
+3.2.6 Water absorption test (ASTM D570) ........................................... 37
+3.2.7 Density (ASTM D3800)............................................................ 39
+3.3 Finding the optimum amount of sisal fibre that is required to obtain a
+woodcrete block unit. .................................................................... 41
+3.3.1 Mix design ......................................................................... 41
+3.3.3 Casting and Compaction of Cubes ............................................. 43
+3.4 Determining the effect of sisal fiber on the microcracking and dimension
+stability of the woodcrete block. ....................................................... 44
+3.3.1 Compressive Strength Test (BS EN 12390-3) .................................. 44
+3.3.2 Water Absorption (ASTM C642-21) ............................................. 46
+3.3.3 Tensile strength (ASTM C642-21)............................................... 47
+3.3.4 Density ............................................................................. 47
+CHAPTER FOUR: RESULTS AND DISCUSSION .............................................. 49
+4.1 Mechanical and physical testing of the sisal fiber. .............................. 49
+4.1.1 Breaking force .................................................................... 49
+4.1.2 Elongation ......................................................................... 50
+4.1.3 Fiber strength RKM-Resistance per kilometer ................................ 51
+4.1.4 Breaking work ..................................................................... 51
+4.2 Water Absorption ................................................................... 52
+4.3 Density of the fibers ............................................................... 53
+4.4 Scanning Electron Microscope (SEM) Analysis ..................................... 54
+4.4.1 Untreated sisal fibers. ........................................................... 54
+4.4.2 Treated sisal fibers. ............................................................. 55
+4.5 Woodcrete performance ............................................................. 58
+4.5.1 Density results .................................................................... 58
+4.5.2 Compressive strength results ................................................... 59
+4.5.3 Tensile strength .................................................................. 61
+4.5.4 Water absorption ................................................................. 62
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATIONS ................................ 65
+
+vii
+
+5.1 Conclusion ............................................................................. 65
+5.2 Recommendations .................................................................... 68
+REFERENCES .................................................................................. 70
+APPENDICES ................................................................................... 73
+
+
+
+
+
+
+
+
+
+
+
+viii
+
+LIST OF TABLES
+Table 1: Minimum requirements for load-bearing and non-load bearing concrete
+block ........................................................................................... 13
+Table 2: Mechanical properties of treated and untreated sisal fiber ................ 49
+Table 3: Water absorption comparison of treated and untreated sisal fiber. ...... 52
+Table 4: Density of the sisal fiber sample before and after treatment. ............. 53
+Table 5: Density of the sample at varying fiber % addition ........................... 59
+Table 6: Compressive strength of the sample at different % fiber addition ........ 60
+Table 7: Average tensile strength at different curing days ............................ 61
+Table 8: water absorption at different fiber % replacement .......................... 62
+
+
+
+
+ix
+
+LIST OF FIGURES
+Figure 1: Research design .................................................................. 29
+Figure 2: Treatment of sisal fibers ........................................................ 33
+Figure 3: Tensomaster machine for tensile strength testing .......................... 36
+Figure 4: Testing for density of the sisal fibers ......................................... 39
+Figure 5: Mixing and casting of a block unit ............................................. 43
+Figure 6: Block under a UTM for compressive test ...................................... 46
+Figure 7: An oven drier used for drying specimen ...................................... 48
+Figure 8: Comparison of breaking force between untreated and treated sisal fibers.
+................................................................................................. 50
+Figure 9: Elongation variation between untreated and treated sisal fiber. ......... 51
+Figure 10: water absorption of the untreated and treated sisal fiber ............... 53
+Figure 11: Comparison of density of untreated and treated sisal fibers............. 54
+Figure 12: The surface texture of the fiber and the diameter for untreated fiber. 55
+Figure 13: Rough surface and reduced diameter of treated fiber. ................... 56
+Figure 14: Compressive strength of the sample at different % fiber addition ...... 60
+Figure 15:Tensile strength of the sample at different % fiber addition ............. 62
+Figure 16: Water absorption of the sample at different % fiber addition ........... 63
+
+
+
+
+
+
+x
+
+LIST OF ACRONYMS AND ABBREVIATONS
+ASTM American Society for Testing and Materials
+BS British Standard
+Kg Kilogram
+kg/m3 Kilogram per metre cubed
+kN Kilonewtons
+mm millimeter
+μm micrometer
+MPa Mega Pascals
+
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 BACKGROUND
+Heavy materials such as standard concrete blocks are some of the elements that
+contribute to significant dead loads in a structure. Dead loads represent the majority
+of the forces that building elements must withstand, frequently making up 70–90%
+of the total load in reinforced concrete constructions (Ghani et al., 2019). The
+increase in permanent loads leads to a rise in bending moments, shear forces and
+pressures on foundations, which consequently cause more reinforcement and higher
+structural costs. According to, a reduction in wall unit materials weight leads to a
+reduction in these internal forces and thus better structural performance. The
+unending rise of urban centers has rendered the weight of traditional masonry units
+a decisive factor not just in these areas but also where structural performance with
+lower cost is required (Holm et al.,2007). Consequently, the removal of permanent
+loads has become one of the main tactics of modern building. The transition to
+lightweight construction technologies has been the most effective one among other
+alternatives (Kulbhushan et al., 2018).
+
+The use of lightweight materials such as hempcrete, autoclaved aerated concrete
+(AAC), foamcrete and lightweight aggregate concrete has been universal in all
+building aspects. Hempcrete is extremely light and possesses a variety of
+compressive strength from 0.2–0.5 MPa and it even attains 1.2 MPa in dense mixes
+(Asghari et al., 2014). Structural lightweight aggregate concrete has a density range
+varying from 1,120 to 1,920 kg/m3 along with compressive strength of nearly 17 MPa
+(Holm et al., 2007). For AAC density is generally around 400–800 kg/m3 and the
+
+
+
+
+corresponding compressive strength values range between 2–7 MPa. Foamcrete
+offers a wider spectrum of light building materials with 400–1,600 kg/m3 density and
+1–10 MPa strength depending on the density. These lightweight materials have shown
+to reduce wall masses by 25-60%, by reduction in density this minimizes demand for
+large structural elements (Dias et al.,2024).
+
+Amongst the mentioned technologies, woodcrete which is a composite material that
+is produced by mixing wood waste (sawdust, wood shavings, wood chips) with
+cement. Depending on the binder type and curing conditions the density ranges from
+800-1,200 kg/m3 and compressive strength range of 0.6–3.89 MPa (Hornby, 2020).
+Use of woodcrete utilizes the use of wood waste which further enhances the need
+for smart and green construction that requires use of locally available materials.
+This technology uses recycled wood waste and this significantly lowers embodied
+energy and CO2 emissions one variant reduced net CO2 compared to conventional
+concrete. Although untreated composites lose strength over time lime or cement
+treated sawdust retain their compressive strength after one year and this
+demonstrates durability under environmental exposure (Khelifi et al., 2022).
+Therefore, woodcrete is sustainable (low carbon, uses local waste) which makes it
+cost‐effective and durable when properly treated while still delivering moderate
+structural performance (Fadiel et al., 2022).
+
+In Uganda, the importation of lightweight materials is still quite slow,
+notwithstanding the fact that quite a number of research works have been carried
+out on alternatives like papercrete bricks and rice-husk composites. The increasing
+demand for low-cost housing and eco-friendly materials places woodcrete in a good
+
+
+
+
+position for taking it on locally. The fast pace of urbanization in the country has
+created a challenge for the construction sector of coming up with low cost and
+sustainability measures at the same time. Woodcrete is a solution that suits Uganda's
+green construction agenda since it is made from sawdust which is abundantly
+available in wood-processing firms. Therefore, it becomes both a cost-effective and
+a feasible option for both small and large developers working with local communities.
+
+Despite the benefits, the use of woodcrete has not been adapted greatly especially
+in this part of the world and some of the reasons could be because woodcrete
+exhibits significantly lower mechanical strength compared to other conventional
+lightweight materials like light weight concrete (Dias et al., 2022). This underlying
+cause of low strength can be attributed to high porosity and weak interfacial
+transition zones that result from the mismatch between wood and cement matrix
+and the hygroscopic behavior of wood which introduces moisture fluctuations
+causing micro-cracking and dimensional instability. Recommendations like
+reinforcing woodcrete have been given by researches to enhance the mechanical
+properties of the material (Aigbomian et al., 2013). Various fibers are used in
+construction for reinforcement these include natural fibers, steel, bamboo, sisal,
+jute, plastic, and others (Anas et al., 2022). Different building materials like
+concrete have been reinforced with a various fiber and this has shown improvement
+in the compressive strength and decrease in the density. Of the different fibers, sisal
+is considered best among others for its high tensile strength 350-840 MPa, stiffness
+9 - 38 GPa and a relatively low density of 1.33-1.45 g/cm3 (Bichang’a et al., 2022).
+It is also very durable and has a lower water uptake compared to most the fibers
+used. Also, less water uptake compared to the following natural ones makes sisal
+
+
+
+
+be more durable when used in cementitious composites. In different parts of the
+world, sisal is found in various forms of building materials to increase ductility,
+resistance to cracking, and energy absorption. As for Uganda, which is an abundant
+source of sisal, the use of it in woodcrete reveals an eco-friendly and sustainable
+local reinforcement solution. Hence, the idea of utilizing sisal-reinforced woodcrete
+opens the door to a potential development of lightweight, durable, and inexpensive
+construction units that can meet the housing demand in Uganda with their excellent
+qualities.
+
+1.2 PROBLEM STATEMENT
+In construction, dead loads increase the size of structural elements leading to the
+use of more reinforcement and this leads to higher construction costs. These loads
+also reduce the integrity of the structure. One of the elements that lead to increase
+of permanent loads are masonry units i.e., concrete blocks which have a density of
+over 1800 kg/m3 which means they have great mass. Use of alternative units to have
+lighter structure is a necessity in construction of low-cost houses. Having lightweight
+materials as construction units would reduce on permanent loads thus having
+reduced size of structural elements designed which reduces the cost of construction.
+
+According to literature, woodcrete blocks have shown great potential as light weight
+building materials although they have structural limitations because of low strength.
+This is ascribed to the high porosity and weak interfacial transition zones result from
+the mismatch between wood and cement matrix and the hygroscopic behavior of
+wood which introduces moisture fluctuations causing micro-cracking and
+dimensional instability (Aigbomian, 2013). Sawdust cement composite has a low
+
+
+
+
+plastic deformation, under low stress it deforms easily due to the compressible
+sawdust's moisture-sensitive lignocellulosic structure. This quality reflects low
+rigidity, high porosity and weak fibre-matrix bonding which leads to weak load
+transfer and early micro cracks.
+
+This limits the blocks application for load bearing construction. To confront this
+challenge, sisal fibre can be incorporated in the mix. Sisal fiber is a natural fiber
+known for its high tensile strength ranging from 350 to 840 MPa, stiffness varying
+broadly between 9 and 38 GPa and density relatively low for a natural fiber at
+approximately 1.33–1.45 g/cm (Bichang’A et al., 2022). It is also very durable and
+has a lower water uptake compared to most the fibers used. Studies have shown
+that sisal fiber contributes to mechanical interlocking with the cement paste and
+absorbs less water than other natural fibers enhancing the bond strength (Zziwa et
+al., 2006). Therefore, this research aimed to assess the suitability of using sisal fibre
+as a reinforcement in woodcrete blocks.
+1.3 MAIN OBJECTIVE
+To assess the suitability of using sisal fibre as a reinforcement in woodcrete blocks.
+1.4 OBJECTIVES
+1. To determine the physical and mechanical properties of sisal fiber.
+2. To find the optimum amount of sisal fiber that is required to obtain a woodcrete
+block unit.
+3. To determine the effect of sisal fiber on the microcracking of the woodcrete block.
+1.5 RESEARCH QUESTIONS
+1. What are the physical and mechanical properties of sisal fibre?
+
+
+
+
+2. What is the optimum amount of sisal fibre that is required to obtain a woodcrete
+block unit?
+3. What is the effect of sisal fiber on the microcracking of the woodcrete block?
+
+1.6 JUSTIFICATION
+Several studies have explored the performance of natural fibers in cementitious
+composites with sisal fibre emerging as a particularly promising reinforcement
+material due to its mechanical and chemical characteristics. Sisal is a lignocellulosic
+fibre derived from Agave sisalana and it exhibits high tensile strength, low density,
+and has a fibrous surface morphology that supports good mechanical interlocking
+with cementitious matrices (Silva et al., 2020). Its chemical composition rich in
+cellulose contributes to a hydrophilic nature due to the presence of hydroxyl (–OH)
+groups which enhances compatibility with polar materials like cement paste (Anas
+et al., 2022). In porous composites like woodcrete, where poor interfacial bonding
+frequently results in cracking, this encourages strong fiber matrix adhesion, an
+essential characteristic. Additionally, a number of studies have demonstrated that
+sisal fiber absorbs less water than many other natural fibers, which enhances
+internal curing and the slow release of moisture during hydration. This supports the
+continuous formation of calcium silicate hydrate (C-S-H) improving the matrix
+structure and compressive performance (Silva et al., 2020). Alkali treatment such as
+with NaOH also improves fibre durability and bonding capacity by removing
+hemicellulose and enhancing surface roughness.
+SIGNIFICANCE
+This research contributes to the knowledge base by providing data on the use of
+reinforced woodcrete blocks as a building material in Uganda. Use of woodcrete
+
+
+
+
+would utilize the use of sawdust which is still low in Uganda. This will further
+enhance the need for smart construction which requires use of locally available
+materials. This shows potential to inform material selection for affordable,
+sustainable housing projects in the country. Moreover, promoting woodcrete
+technology reduces waste generated from aligning with Uganda's Vision 2040 goals
+for sustainable development (National Planning Authority, 2020).
+The findings will benefit policymakers and the construction industry by offering an
+alternative to lightweight materials, reducing environmental impacts and enhancing
+material performance for building applications.
+1.7 SCOPE OF THE STUDY
+1.7.1 Geographical scope
+The saw dust will be acquired from Uganda Industrial Research Institute and the sisal
+fibre will be sourced from Uganda Industrial Research Institute, 0°20'50.8"N
+32°41'21.7"E, Uganda.
+1.7.2 Content scope
+1.7.2.1 To determine the physical and mechanical properties of sisal fibre.
+This objective covered the acquisition of sisal fibers Sisal fibers are obtained from
+Ngora in eastern Uganda, focusing on fibers grown for more than two years due to
+their higher cellulose content and improved tensile properties. The process of fibre
+extraction will be alkali (NaOH) treatment and preparation, with justification from
+literature on how treatment enhances fibre–matrix bonding. The study then helped
+characterize the fibers through tensile strength testing, water absorption
+assessment, density determination and spectroscopic and microscopic analyses (SEM)
+to provide insight into their chemical composition, morphology and suitability as
+reinforcement material in woodcrete.
+
+
+
+
+
+1.7.2.2 To find the optimum amount of sisal fibre that is required to obtain a
+woodcrete block unit.
+This objective addressed the mix design development for woodcrete using Ordinary
+Portland Cement, sawdust from hardwood and water. Mix ratios of 1:1 and 1:2
+(cement to sawdust) was evaluated based on precedents in published literature.
+Incremental additions of sisal fibre (by weight of cement) were introduced across
+different mix batches to establish the threshold content that maximizes compressive
+strength and stability without adversely affecting workability or density.
+Comparisons was drawn from prior studies on fibre dosages in cement composites to
+justify the chosen ranges. The tests that were carried out are compressive strength,
+tensile strength, density, water absorption.
+1.7.2.3 To determine the effect of sisal fibre on the microcracking of the woodcrete
+block.
+This objective explored the influence of sisal fibre reinforcement on the
+performance of woodcrete, with a focus on crack mitigation. Standardized
+compressive strength, water absorption, tensile strength and density tests following
+the standards were conducted alongside visual and microscopic examinations of
+crack propagation. The role of fibre bridging and fibre–matrix interaction in reducing
+microcracking will be highlighted.
+1.7.3 Time scope
+The research study was carried out from July 2025 to December 2025.
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Concrete blocks
+A concrete block is a building material that is made by mixing together cement,
+stones, and water. The mixture is poured into a reusable mold or a form which is
+then cured in a controlled atmosphere, moved to the building site, and either placed
+or raised into position. A precast concrete block is mainly utilized as a material for
+the construction of walls of buildings and is sometimes referred to as a Concrete
+Masonry Unit (CMU). The process of making precast concrete blocks takes place at
+the ground level which contributes to the safety of the whole project. The industry
+is stricter about the quality of materials and workmanship in a precast plant than in
+a construction site. The forms used in a precast plant may be reused one hundred
+to one thousand times before they need to be replaced, hence the cost of formwork
+per unit is lower than for site-cast production (Allen, 2009).
+
+Concrete blocks are available in different shapes and sizes and may be either solid
+or hollow. Dimensions of 39cm x 19cm x (30cm or 20 cm or 10cm) or 2-inch, 4-inch,
+6-inch, 8-inch, 10-inch, and 12-inch unit configurations are the most common sizes
+of concrete blocks (Kamal, 2022).
+The most significant mechanical property of concrete blocks is the compressive
+strength and generally the minimum compressive strength of 7 MPa is required for
+load-bearing walls (Neville, 2011).
+In Uganda, they are the major players in the building market due to the low price of
+raw materials and the presence of labor, however, the quality of blocks remains a
+major challenge. Mwesigwa et al (2021) indicate that more than one-third of blocks
+
+
+
+
+checked in Kampala did not comply with the minimum strength standards owing to
+poor mixing and curing techniques.
+Dense and heavy solid concrete blocks have densities that vary between 1,800 and
+2,200 kg/m3. Their compressive strengths frequently vary between 7 MPa and 15
+MPa, thus making them particularly ideal for load-bearing applications, such as the
+aforementioned foundations and walls that resist forces. Nevertheless, due to their
+bulkiness, they play a major role in the total dead load of buildings, which may, on
+the other hand, raise foundation costs and also restrain their application in the case
+of skyscrapers where weight efficiency is paramount (Neville, 2011).
+
+On the other hand, hollow concrete blocks are less heavy and are obtained either
+by utilizing less aggregate content or by integrating voids in the units. Their density
+is usually between 1,100 and 1,500 kg/m3, while the compressive strength lies in
+the range of 5-12 MPa (Kamal, 2022). The primary use for, hollow concrete blocks is
+in the construction of partition walls and non-load-bearing structures. The voids,
+besides making the blocks lighter, provide insulation against noise and heat transfer.
+Furthermore, the use of hollow blocks also means reduced consumption of cement
+and steel in construction. Nevertheless, they are fairly susceptible to the entrance
+of water vapor and hence proper plastering is needed for long-lasting performance
+(Neville, 2011).
+
+Lightweight blocks are the newest revolution in the quest for to lighten the weight
+of masonry. The manufacturing process of autoclaved aerated concrete (AAC) blocks
+entails cement, lime, gypsum, fly ash, and aluminum powder coming together in a
+mixture. The chemical reactions release a gas that produces a multitude of air
+
+
+
+
+pockets, which in turn result in low densities of 500-700 kg/m3 and compressive
+strengths of 3-8 MPa (Narayanan et al., 2000). Due to their low density, the walls
+made of AAC blocks are lighter and better insulators, but their lower strength
+compared to other types of concrete restricts their use to non-load-bearing or lowrise buildings. In the same way, the making of concrete blocks yields a product that
+is either comprised of foam or non-foam concrete. her the foaming agents are added
+to the cement slurry, producing the foam concrete blocks with final densities as low
+as 400 kg/m3 and strengths from 1 to 10 MPa (Jones et al., 2005). The main
+application of concrete blocks is in providing thermal and acoustic insulation, but
+limited to non-loadbearing on account of the variable strength and the latter of the
+application being more prone to shrinkage.
+
+The process of manufacturing concrete blocks is very much dependent on the right
+mixing ratios of each of the components: cement, aggregates, and water. The use
+of too much water results in the production of weak units with low compressive
+strength while the use of less water than what is required results in poor quality
+curing which leads to low durability (Neville, 2011). In the informal sector of Uganda,
+manual mixing often leads to improper proportions which then produce blocks that
+fail to meet the minimum strength requirements set by regulations (Mwesigwa et al.,
+2021). As the saying goes, "the devil is in the details" which in this case means that
+the quality control has to be very strict and the production method mechanized.
+The usage of concrete blocks in construction greatly influences the structural
+performance mainly through their density and compressive strength. Heavy and firm
+blocks support greater loads but add significantly to the dead loads while light blocks
+lower the structure's weight and enhance insulation but demand reinforcement or
+
+
+
+
+mixing with stronger materials for durability. Hence, the choice of the type of block
+needs to consider structural needs, economic viability and eco-friendliness in the
+particular project setting.
+Table 1: Minimum requirements for load-bearing and non-load bearing
+concrete block
+Block
+Minimum Compressive Strength
+Average of 10 Blocks N/mm2
+Individual Block N/mm2
+3.5
+2.8
+2.8
+2.2
+
+Concrete blocks used in wall construction are subject to the national performance
+levels established in the Standard Specifications for Building Works (Ministry of
+Works and Transport, 2013). The specification states that the blocks produced in
+factories must individually possess the minimum compressive strengths indicated for
+solid and hollow blocks in Table 1. Type 1 blocks will be required to have an average
+strength of 3.5 N/mm2 together with a minimum strength of 2.8 N/mm2 for single
+blocks and the same will be the case for Type 2 blocks having the average of 2.8
+N/mm2 and the minimum of 2.2 N/mm2 to meet the requirements. Where Type 1 is
+for load bearing loads and Type 2 is for non-load bearing loads.
+2.1.1 Lightweight materials
+Lightweight materials in construction are generally classified based on their density
+in comparison to normal concrete. Normal weight concrete typically has a density in
+the range of 2200–2600 kg/m3, while lightweight concrete falls within 800–2000
+kg/m3 (Neville, 2012). Materials with a density below 800 kg/m3 are further
+categorized as ultra-lightweight concretes, primarily used for insulation rather than
+structural purposes (ACI, 2014). For example, hempcrete, with a density between
+250–500 kg/m3, is classified as ultra-lightweight, while woodcrete, usually ranging
+
+
+
+
+from 600–1200 kg/m3, falls within the lightweight category. This classification is
+crucial as it informs the potential structural application of each material, where
+higher densities are associated with structural strength and lower densities with
+thermal and acoustic insulation.
+2.2 Woodcrete
+Woodcrete is one interesting composite material that is made by blending wood
+waste like sawdust, wood shavings, or wood chips into a cement-based mixture, thus
+resulting in a lighter and more environment-friendly alternative to the traditional
+concrete. It is the main reason for the devaluation of timber and sawmill waste as
+it is a vital contribution to green and sustainable construction by minimizing the
+costs of construction and reducing landfill waste (Abdullah et al., 2019). Its most
+important feature is its much lower density, which normally lies in the range of 600
+to 1,600 kg/m3, whereas common concrete density is about 2,300 to 2,400 kg/m3
+(Aigbomian et al., 2013). The initial density reduction is because of the non-woodlike structure of the wood particles, which not only reduces the bulk mass but also
+gives good thermal insulation. The thermal conductivity of woodcrete is said to be
+in the range of 0.1–0.4 W/mK, while that of normal concrete is around 1.7 W/mK
+making it very usable for energy-saving buildings (Fadiel et al., 2022).
+
+On the contrary, in the case of portland concrete, the failure is normally due to the
+sudden brittle cracking of the cement matrix, whereas the wood composites undergo
+progressive crushing and pull-out of the wood particles. This gives rise to the
+phenomenon of better energy dissipation and crack arresting. Da Glória et al (2021)
+remarked that the wood-bio-concrete elements fortified with long fibers showed
+better toughness and higher impact resistance as compared to equivalent
+
+
+
+
+lightweight concretes. Acoustic absorption capacity of the composite material,
+which is a result of the porous internal structure, is reported to be higher than that
+of ordinary concrete; hence, the material is considered suitable for infill walls,
+partition panels, and acoustic insulation blocks (Fadiel et al., 2022). These thermal,
+acoustic, and mechanical...
+2.2.1 Standards for woodcrete
+Currently, there is no general international standard that dictates the mix
+proportions, performance thresholds, or classification of woodcrete which forces
+researchers to depend on the testing methods for concrete and masonry. Aigbomian
+and Fan (2013), for example, evaluated the compressive strength and dimensional
+stability of sawdust–cement composites through ASTM C39 and ASTM C140 standards.
+Their study showed that the compressive strength of the blocks with sawdust content
+of 50% was more than 2.0 MPa.
+
+Therefore, they have taken the minimum requirement given in ASTM C129 for nonload-bearing concrete masonry units, which set strength limits of about 1.4–3.5 MPa
+according to the unit classification. Similarly, Fadiel et al. (2022) tested woodcrete
+blocks against the performance criteria of EN 771-3 for aggregate concrete masonry
+units, and, when the sawdust content was no more than 40%, the density and waterabsorption thresholds were found to be within acceptable limits. All these methods
+demonstrate how researchers are taking existing masonry and concrete standards,
+in the absence of dedicated regulatory guidelines validating the structural suitability
+of woodcrete, applying them to woodcrete very well. The dependence on general
+masonry and concrete testing standards underscores the necessity of a dedicated
+woodcrete standard that will promote its extensive use and acceptability.
+
+
+
+
+2.2.2 Sawdust particle size in woodcrete
+The performance of woodcrete varies a lot depending on the size of sawdust
+particles used. As per researches, the strength and density of blocks produced out
+of fine sawdust through a 2 mm sieve are greater than those made with coarse
+sawdust (Fadiel et al., 2022). On the contrary, the use of particles greater than 5
+mm results in highly porous material with low compressive strength, but such
+materials are still preferred for their excellent thermal insulation properties
+(Aigbomian et al., 2013). For obtaining uniform grading and for reproduction
+purposes, sawdust is usually dried in an oven and then sieved with standard ASTM or
+BS sieves; the 2 mm or 4.75 mm sieve-fraction is then collected for further
+processing (Okereke, 2015).
+2.2.3 Mix ratios for woodcrete
+Recent studies have revealed that the performance of woodcrete and sawdustcement composites is significantly affected by the wood species, binder ratio, and
+particle size. Aigbomian and Fan (2013) found that beech and oak, among hardwoods,
+produced woodcrete with the highest strength and density corresponding to 3.93
+MPa in compressive strength, while softwoods, on the other hand, produced cedar
+and pine with only 0.07 to 1.37 MPa. They also indicated that a particle size of 1
+mm considerably enhanced the compressive strength related to the better packing
+of the particles and more efficient stress transfer between the particles and the
+binder.
+
+They also suggested a ratio of sawdust to binder 1:2 as the optimum for ensuring
+good bonding and workability. Zziwa et al. (2006) in their research, which
+strengthens the previous findings, have stated that sawdust-cement composites with
+
+
+
+
+proportions of 3:2 and 2:1 sawdust:cement have compressive strengths in the range
+of 1.61 to 2.21 MPa, the stronger and denser bricks being produced due to the higher
+cement content. Moreover, they pointed out that moisture exposure could reduce
+the strength of the composite by as much as 40%, which indicates their vulnerability
+to wet conditions. All the studies combined the alpha that the mixes with the finest
+hardwood sawdust and the highest binder content deliver the best mechanical
+performance, while the high-wood-content mixes provide the insulation at the
+strength expense.
+2.2.4 Fibre reinforcement in wood composites
+The use of natural fibres together with cementitious materials is not only a matter
+of changing the physical properties of the final product but also of increasing
+toughness, post-crack ductility and better control of cracking. Nevertheless, this
+latter benefit has not yet been demonstrated in the case of woodcrete; most
+evidence supports the use of toughened concrete or mortar. Da Gloria and Toledo
+Filho (2021) established the sandwich panels, consisting of a wood bio-concrete core
+with cement skins reinforced by sisal fibres and reported a considerable increase in
+flexural strength, stiffness and energy absorption as compared to panels without
+reinforcement.
+
+This illustrates the possibility of the combination between bio-aggregates and lignocellulosic fibres to work in a composite system. As Jamshaid et al. (2022) did the
+same, they found that along with jute, sisal, coconut and sugarcane, the best
+dosages for their application ranged from 0.5% to 3% by weight of cement and that
+the mechanical performance could be improved up to an optimum of about 2% after
+which workability was reduced due to fiber clustering.
+
+
+
+
+
+Rocha et al. (2022) noted that the biggest part of natural-fiber reinforcement
+research has been done on fibers of lengths between 10 and 40 mm, with 0.5 - 3%
+being the dosages used, and all these studies have come to one conclusion crack
+resistance and fracture energy increase even though the paths were very often
+through reduced workability and increased water absorption. The natural fibers jute,
+sisal, cotton, and bamboo were used in a blending proportion of about 0.5–1% and
+for the latter ones the authors Kurpińska et al. (2022) reported that macro strength
+has risen almost up by 27% and flexural strength has gone up by ±8%. This indicates
+that the shape and chemical nature of the fiber play a significant role in determining
+the properties.
+
+The recent studies on flexural toughness of sisal fibers have concluded that if the
+fibers are correctly treated, they not only yield a huge amount of flexural toughness
+but also the compressive strength increase at the dosage of 1-2% (Yimer et al., 2023;
+Fode et al., 2025). Coir and jute-reinforced composites reveal that similar
+enhancement can be achieved by adding low to medium dosage of fiber (Veerappan
+et al., 2024). Therefore, it can be said that such treatments along with the use of
+nylon or an equivalent fiber at low to moderate dosages (≈0.5–2%) and fiber lengths
+of 10–30 mm are an effective range for improving post-peak behavior being a
+rational starting point for the design of fiber-reinforced woodcrete, which requires
+mix-specific experimental validation.
+
+
+
+
+
+2.2.5 Sensitivity in woodcrete manufacturing
+The manufacturing process of wood-cement composites, also known as woodcrete,
+is extremely sensitive due to the fact that sawdust contains a lot of different organic
+materials that may vary greatly in quality and quantity. These variations in the
+chemical composition and compatibility with cement lead to large differences in the
+final product. Researches over time have confirmed that wood particles which have
+not been treated release extractives (such as sugars, resins and lignin derivatives)
+that slow down the process of cement hydration, thus producing low strength or
+delayed setting, especially if the most course of sawdust is used (Brahmia et al.,
+2020). One of the main drawbacks to this issue is the necessity for sawdust pretreatment which is very commonly recommended, for instance, alkaline or waterbased extraction, sometimes in combination with chemical admixtures. It has
+become a common practice to conduct such pre-treatments for the wood particles
+as it greatly increases the compatibility of the wood with cement, results in higher
+density and better mechanical performance Rocho et al., 2021).
+
+The addition of the pretreated sawdust composites has been reported to be able to
+achieve an increase in compressive strength of up to 50% at moderate levels of
+sawdust substitution compared to the untreated mixes (Sumarno et al., 2023).
+Pre-treatment and key manufacturing controls are also very important in
+determining the quality of the final product: proper control of the sawdust grading
+(particle size), moisture content measurement and adjustment, following a
+consistent mixing sequence, and mechanical mixing that is thorough enough to
+disperse wood particles and any fibers evenly, as well as uniform compaction during
+casting to ensure repeatability and minimize voids or weak zones, all these are very
+
+
+
+
+critical. If such controls are not respected, the produced woodcrete will have a very
+high variability in density, strength and durability, which will result in a great
+difficulty of coming up with a structurally design that is reproducible. Given such
+sensitivities, it is advisable that every woodcrete mixture undergoes experimental
+validation taking into consideration the local sawdust source, pre-treatment and
+mixing.
+
+2.3 Fibre use in construction composite materials.
+Natural fibers including are widely studied as sustainable reinforcement in
+cementitious matrices because they improve post-crack behavior, toughness and
+flexural/tensile response. Although they commonly reduce fresh-workability and
+may reduce compressive strength above an optimum dosage which necessitates
+making the mixes carefully. (Ahmad, 2022).
+
+These natural fibers such as sisal, coir, jute, flax, banana and hemp have been
+increasingly explored due to their low cost, biodegradability and ability to improve
+mechanical performance. Each fibre type has unique characteristics influencing its
+suitability. Coir fibre offers excellent toughness and crack control though it has low
+tensile strength (80–250 MPa) and poor stiffness causing a limit to its structural
+contribution. Jute and banana fibers show promising initial strength but their rapid
+degradation in the alkaline cement matrix and high-water absorption can negatively
+affect long-term durability (Balan et al., 2017). Hemp fibre performs better in terms
+of tensile strength (550–900 MPa) but its lower availability and higher processing cost
+make it less practical in regions like Uganda (Fiore et al., 2015).
+
+
+
+
+
+Sisal-specific studies report mixed results on its performance, many authors observe
+improved toughness and improved flexural/tensile strength with small additions of
+sisal while compressive strength often increases up to a low–moderate content and
+then falls as fibre content further increases. Reported optimum ranges for sisal in
+cementitious matrices typically lie between 0.25% and 3.0% (by weight of cement)
+but values depend strongly on fibre length, treatment and matrix composition.
+(Ahmad, 2022).
+2.3.1 Plastic fiber
+Plastic fiber has emerged as an environmentally friendly reinforcement material in
+concrete, particularly due to its role in recycling plastic waste such as bottles and
+packaging materials. This helps reduce environmental degradation caused by
+improper plastic disposal.
+Using plastic fibers not only promotes sustainable construction but also lowers
+overall construction costs. Research has shown that replacing up to 1.5% of cement
+content with plastic fibers provides optimal performance. Additionally, a novel
+arrangement involving continuous plastic fiber reinforcement has demonstrated high
+bonding strength between polyethylene terephthalate (PET) fibers and the concrete
+matrix.
+
+However, incorporating plastic fibers can reduce the compressive strength of
+concrete. To counter this drawback, additives such as silica fume and metakaolin
+can be used to improve mechanical performance. Despite the reduction in
+compressive strength, PET fibers enhance the tensile and flexural strength of
+concrete, contribute to a more ductile failure mode, and improve the overall
+cohesion of materials within the mix.
+
+
+
+
+It is also noted that the inclusion of PET fibers may negatively impact the workability
+of fresh concrete and can sometimes lead to spalling. As a result, proper mix design
+and workability adjustments are necessary when plastic fibers are used.
+2.3.2 Natural fibers
+Natural fibers are widely considered promising reinforcements in concrete due to
+their lightweight, low cost, environmental friendliness, good specific strength and
+modulus, and absence of health risks. They are also locally available in many regions.
+Common types include wheat straw, sugarcane fiber, sisal fiber, jute fiber and
+bamboo fiber.
+2.3.2.1 Wheat straw fiber
+Wheat Straw Reinforced Concrete (WSRC) has demonstrated significant benefits at
+early curing stages, particularly in pavement applications. The inclusion of wheat
+straw reduced the severity and number of shrinkage cracks. While the slump of the
+concrete mix decreased, flexural, tensile, and compressive strengths improved.
+Additionally, the concrete exhibited increased ductility, resulting in ductile failure
+and reduced crack width. The fiber’s sewing effect contributes to better postcracking behavior and absorption capacity. Using wheat straw in concrete also
+reduces crop residue burning and lowers construction costs (Khan et al., 2022).
+2.3.2.2 Sugarcane fiber
+Sugarcane fiber enhances the thermal stability and mechanical properties of
+concrete. When used as sugarcane bagasse ash (SCBA), it increases flexural,
+compressive, and tensile strength while reducing the thermal conductivity of the
+mix. Concrete incorporating SCBA becomes lightweight and thermally stable up to
+450 °C. Additional improvements in stiffness and elastic modulus were achieved
+through electron beam radiation. Microstructural analysis revealed a significant
+
+
+
+
+reduction in voids, indicating better overall performance of the concrete matrix
+(Khan et al., 2022).
+2.3.2.3 Jute fiber
+Natural jute fiber (JTF) has been touted as a green, compostable, and safe material
+for concrete reinforcement. Cement matrix with the addition of JTF will have a new
+concrete of less consistency because of JTF's large surface area which also leads to
+the mix's harshness. But the hot alkali treatment of jute fibers very much increases
+the interfacial bond between fibers and cement paste and hence, leads to the
+improvement of mechanical and durability properties. The reinforcement of JTF
+concrete gave rise to enhanced compressive, split tensile, and flexural strengths. At
+28 days, the maximum compressive strength was recorded at 2% JTF content, which
+is a 20% rise over control concrete.
+
+However, the increase in fiber content has the potential to be detrimental to
+strength and durability because of reduced flow ability, which necessitates the use
+of super plasticizers at the higher dosages. JTF excels in terms of durability since it
+not only enhances concrete’s density but also its resistance to water absorption, dry
+shrinkage, and acid attack. But still, only a small number of studies have been
+conducted regarding the long-term durability of JTF-reinforced concrete. There is a
+strong recommendation for further scientific investigations including the chemical
+and physical treatment of jute fiber and incorporation of pozzolanic materials like
+fly ash or silica fume not only to enhance bonding but also to exert control overall
+(Ahmad et al., 2022).
+
+
+
+
+
+2.3.2.4 Bamboo fiber
+Bamboo has emerged as a green and productive option to steel reinforcement in the
+construction of concrete structures. Conventional means of treatment such as boraxboric acid solutions, vertical soak diffusion and pressurized tank preservation have
+been successful in giving bamboo an insect attack resistance equal to that of treated
+wood. Advanced techniques and effective waterproof coatings like bitumen, Sikadur
+Gel, boric-borax acid and polyester resin have been reported to enhance further the
+bamboo’s durability and bond strength for structural applications in beams and
+columns. Additionally, mechanical improvements such as screws placed between
+nodes and hose clamps used as shear connectors have been suggested to increase
+the bond stress and thus the load-bearing capacity of bamboo-reinforced concrete
+(BRC) elements.
+
+The development of bamboo-reinforced prefabricated panels has not only been a
+great economic and structural benefit but also resulted in a cost-saving of 40% and
+weight reduction of 56% at the most when compared with the traditional brick walls
+while maintaining the same compressive strength of 17.6 MPa. However, the
+downside is that debonding failure under flexural loads is still an unresolved issue
+that needs further refinement of the bonding effectiveness (Das et al., 2024).
+2.3.2.5 Sisal fiber
+The reinforcement of concrete with sisal fiber is not only suitable but also a good
+alternative to conventional steel which is the main reason for environmental and
+health issues. With the help of studies, it has been proven that sisal fiber enhances
+compressive, tensile, and flexural strengths. It is especially useful in drainage plates
+and its cost is about 1.85 times less than steel reinforcement. However, the
+
+
+
+
+introduction of sisal fiber leads to the reduction of the mix's workability, but an
+increase in the initial crack load is observed which signifies greater strength. Khan
+et al. (2020) found that foamed concrete with sisal reinforcement showed better
+resistance to cracking and stability in dimension. To reduce the negatives such as
+high porosity and poor workability methods like alkali soaking, latex coating, or
+perlite blending are usually suggested.
+
+They not only increase the fiber-matrix bond but also lower the moisture uptake by
+up to 65%, thus allowing the composite to be more stable over time (Mdpi, 2022).
+The properties of sisal fiber make it suitable for reinforcing woodcrete in overcoming
+the drawbacks.
+This natural fiber is biodegradable and is still nowadays used in the traditional ways
+such as products made out of ropes, mats, carpets, and baskets. The idea to use it
+as a construction material for reinforcement has recently been attempted. It stands
+out due to its exceptional tensile strength, low price and good bonding with cement.
+The composition of sisal fiber includes cellulose, lignin and hemicellulose which are
+mainly responsible for the unique properties of the fiber. The fiber is treated with
+alkali to get rid of the surface impurities and this consequently enhances its
+compatibility with the mix. The literature has it that Sisal improves the ability of
+the cement matrix to resist cracking when added to concrete which is vital in
+enhancing the mechanical properties of the whole mix.
+
+To improve performance, these various natural and synthetic materials are
+increasingly being used in cementitious materials in modern construction. Sisal fiber
+is one of the most compatible fibers among them for reinforcing lightweight
+
+
+
+
+cementitious materials like woodcrete. Besides, it has very high tensile strength (350
+to 840 MPa) and good durability in alkaline environments after mild alkali treatment
+and its rough surface texture is responsible for the above property which promotes
+the mechanical interlocking with the cement matrix (Anas et al., 2022). Its water
+absorption being moderate is a boon for internal curing since matrix is not weakened
+to a great extent and more effective formation of calcium silicate hydrate (C-S-H),
+the binder responsible for strength development in cement composites, takes place.
+Unlike the fibers that are more brittle or moisture-sensitive, sisal over the years
+maintains its structural integrity and is also available in East Africa which makes it
+a more practical and sustainable reinforcement material option for counteracting
+the mechanical limitations of woodcrete (Uysal et al., 2024).
+2.3.3 Fiber optimization
+The optimization of fibre in cementitious composites is a process that needs to be
+optimized according to the performance requirements of the material to be
+produced, especially the strength enhancement versus workability loss. Overdosing
+of fibre tends to make the composite less flowable and more susceptible to fibre
+clumping, whereas low and moderate amounts of fibers usually increase the strength
+of the composite and its toughness, control of the cracks and behavior after the
+peak load. Ahmad et al. (2022) indicates that the maximum mechanical performance
+of natural fibers is usually found at the dosages of 0.5% to 2% based on cement
+weight, beyond which the workability gets worse and strength improvements are
+less.
+
+This is also true with the observations mentioned above and taking into account the
+additional variability brought about by sawdust in woodcrete, it is justifiable to have
+
+
+
+
+an experimental matrix with sisal fibre dosages of 0.25%, 0.5%, 1%, and 2% in cement
+and fibre lengths of 10-20mm. These are the ranges that are usually employed in
+natural-fibre cement composites and they are likely to provide measurable increases
+in toughness and crack resistance without exceed the limit of mix workability that
+is considered acceptable (Rocha et al., 2022; Fode et al., 2025).
+2.3.4 Aspect ratio
+The ratio of the length of the fibre to its diameter is known as the aspect ratio and
+it's a very important factor that determines how effective the reinforcement in
+cement composites will be. Sisal fibers having moderate aspect ratios (AR 60–100)
+give better performance in terms of crack bridging, tensile strength and ductility,
+because of their pull-out resistance and better fibre–matrix bond. On the other hand,
+very high aspect ratios lead to decreased workability and might result in fibre balling.
+Fibers that are employed in the production of cement composites usually have an
+aspect ratio of 30–100 which is the range namely optimal for the processes of crack
+bridging and load transfer in brittle matrices.
+
+Research also points out that natural fibers in cement composites generally can be
+found with an aspect ratio of 30 to 100 (Fibre Reinforced Cement Composites, 2018).
+The very same aspect ratio ranges between 40 and 80 have been put forward by the
+industry as the benchmarks to attain remarkable concrete dispersion alongside
+reinforcement efficiency.
+
+
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+This chapter includes discussion of procedures, material preparation, methods and
+the various tests followed to meet the specific objectives.
+Research Design.
+This shows and informs how this research will be carried out on.
+After the submission of the research proposal, intensive literature review continued
+up till the end of the research. Preliminary findings were carried out to inform the
+research methodology. Results were collected and analyzed to have precise
+conclusions and recommendations.
+The data was analyzed by quantitative research specifically by carrying out
+experiments and analyzing the results.
+
+
+
+
+
+
+Figure 1: Research design
+3.1 Preparations of samples
+3.1.1 Cement
+CEM I (Ordinary Portland Cement) was chosen as the cement type for this project
+due to its high availability, and its compressive strength of 42.5N is usually taken to
+be a filter with a minimum strength of 42.5 MPa at 28 days. This study adopted the
+CEM I 42.5 designation and this value indicates that the cement reaches a
+compressive strength of 42.5 MPa after curing for 28 days, which is appropriate for
+both structural and non-structural applications (Hewlett et al., 2019). It was
+
+
+
+
+available in 50 kg bags. Finding a perfect w/c ratio is a necessary step to the end of
+the project as it would allow to set the strength requirement without losing ease of
+handling and placement; thus, a ratio of 0.6 was used in this project.
+3.1.2 Sisal fiber
+3.1.2.1 Fiber Extraction. (ASTM D4151-16)
+Mature sisal plant leaves (2-3 years) were harvested at their highest maturity.
+Decortication was performed immediately after cutting as the high moisture content
+of the leaves makes prompt processing absolutely necessary.
+Afterwards, the sisal fibers obtained after decortication and initial washing were
+spread on the ground for natural drying being turned regularly to ensure there was
+no hot spot created by the sun and also protecting them from rainfall and excessive
+direct sun. Over-drying fibers can lead to gobbling of fungal attack and coloration,
+which causes a reduction of their mechanical quality and marketable grade (Diniz,
+2021).
+
+The fibers were then brushed to remove the remaining pulp, dust and short fibers,
+which also aligns the fiber bundles, thus improve smoothness (Barasa et al., 2021).
+The dried and brushed fibers were graded based on length, color, and cleanliness.
+High-grade sisal fiber is usually creamy white to light yellow in appearance and free
+of residual pulp. After grading, the fibers were compressed into bales using simple
+hand-presses and then placed in a dry and well-ventilated storage area (Kawongolo
+et al).
+3.1.2.2 Treatment (ASTM D518-15)
+After extraction, the sisal fibers were treated. The fiber was cut in very long bundles
+to ensure compatibility with the machine’s maximum gauge length of 500 mm. Pre-
+
+
+
+
+washing and mechanical removal of coarse pulp improves uniform chemical
+penetration and reduces the volume of alkali consumed. (Bekele et al., 2023).
+The preparation of 15% NaOH solution was done for the alkali treatment and the
+treatment was carried out. For 1 liter of working solution 50g technical NaOH pellets
+were into approximately 1 liter of clean tap water while stirring to allow the solution.
+The moderate alkali level is usually used because it improves adhesion while
+preserving cellulose (de Vilhena et al, 2024).
+
+The fibers were immersed so they are freely suspended at temperature, 100 °C
+immersion for 30 minutes. This is widely used and reported to improve tenacity and
+interfacial bonding without obvious cellulose damage.
+During immersion, the fibers were gently agitated by manually swirling every 15
+minutes to avoid local concentration pockets and to promote uniform delignification.
+After the target immersion time, the alkali was decanted and fibers washed
+repeatedly with distilled water until the rinse water reached neutral by a pH meter.
+Proper rinsing is critical or else residual NaOH will continue to damage fibers and
+impair end-use performance. Then the fibers were left to dry in shade. (Diniz et al.,
+2021).
+
+The treatment of sisal fibers was performed following ISO 22157:2019 (natural fiber
+preparation and conditioning procedures). The primary aim of this treatment was to
+get rid of impurities, lessen the content of lignin and hemicellulose and enhance the
+fiber-matrix interfacial bonding for the application of the fibers in lightweight
+concrete composites. The alkalization treatment was also done to improve the
+
+
+
+
+roughness of the fiber surface and to make it more compatible with the hydrophilic
+cement matrix.
+Required Equipment
+• Stainless steel alkali-resistant treatment bath
+• Hot plate
+• Bench-mounted fiber comb/defibrator
+• Laboratory glass beakers, stirring rod
+• Digital balance
+1. The extracted fibers were manually cleaned and combed to get rid of the
+pulp.
+2. The fibers were then cut into 500 mm bundles.
+3. A 15% sodium hydroxide (NaOH) solution was made by dissolving 50 g of
+technical-grade NaOH pellets in about 1 L of clean water while stirring until
+completely dissolved.
+4. A digital thermostat was used to heat the solution to 100 °C.
+5. The fibers were placed in the hot NaOH solution while they were hanging
+freely in the treatment bath.
+6. They remained at 100 °C for 30 minutes with gentle manual stirring.
+
+Alkali (NaOH) treatment of sisal fibre is an agent for the improvement of the fibrematrix bond, strengthening the woodcrete composite and making it more durable.
+The treatment not only removes the surface impurities including lignin,
+hemicellulose, waxes and pectins but also increases surface roughness and exposes
+cellulose microfibrils resulting in better mechanical interlocking and interfacial
+
+
+
+
+adhesion with cement paste (Castoldi et al., 2022). The research also reports that
+treated sisal fibers demonstrate less water uptake and lesser hydrophilicity, which
+translates into better dimensional stability and lesser susceptibility to moisture
+damage in cement composites (Yimer et al., 2023). Consequently, sisal-reinforced
+composites possess higher tensile and flexural strength, better crack-bridging
+capacity, and longer durability than untreated fibre composites, thereby making the
+alkali-treated sisal fibre technically suitable for the reinforcement of woodcrete
+blocks used for structural improvement.
+
+
+Figure 2: Treatment of sisal fibers
+3.1.3 Saw dust
+The sawdust was obtained from a reputable sawmill in UIRI in Namanve Industrial
+Area. The material collected was free from contaminants such as bark, resin, or
+chemicals, as these can adversely affect the properties.
+The collected sawdust was spread in a well-ventilated area under shade to prevent
+exposure to direct sunlight for 24–48 hours, to reduce moisture content.
+
+
+
+
+The sawdust which was obtained from the milling of Musizi (Maesopsis eminii), a
+common hardwood species in Uganda, and other hardwoods too. Generally,
+hardwoods are the most preferred types of wood for sawdust production because of
+their lower resin content, higher density, and better dimensional stability over
+softwoods. Such properties enhance not only the compatibility of the cement paste
+but also the segregation of the mixture decreased.
+3.1.3.1 Treatment
+The saw dust was treated with an alkali, 20% NaOH solution. The sawdust was
+immersed in it for 2 hours as indicated by research, to achieve the desired chemical
+changes without compromising the structural integrity of the sawdust (Zulhanif et
+al., 2022).
+The sawdust was thoroughly washed with distilled water to remove excess NaOH and
+dissolved organic materials. This step is essential to neutralize the alkaline solution
+and to prevent any residual NaOH from affecting the subsequent processing steps.
+3.2 Determining the physical properties sisal fibre in material requirements
+of woodcrete.
+3.2.1 Mechanical testing using the tensomaster machine (ASTM D2256)
+The mechanical properties of the treated and untreated sisal fibers were evaluated
+using a Tensomaster universal testing machine, a standard apparatus for tensile
+testing. This machine measures key mechanical parameters such as tensile strength,
+elongation at break, and breaking force, in compliance with ASTM D3822/D3822M-
+14 for single-fibre tensile testing.
+3.2.1.1 Test procedure
+The tensile properties of sisal fibers that was treated and of that that did not
+undergo treatment were evaluated according to ASTM D3822/D3822M-14. The
+
+
+
+
+mechanical performance of sisal fibers was determined by tensile strength,
+elongation at break, tensile load at failure, and young’s modulus measurements,
+which were the main target of the current test. Thus, the chemical treatment
+effects on the fibrous mechanical properties were evaluated comparatively.
+Equipment used
+• Tensomater Universal testing machine
+• Fibre gripping clamps
+Test Procedure
+1. Testing of the sisal fibres (both treated and untreated) was done after they
+had been conditioned to room temperature and moisture content (22–27 °C).
+2. Single fibres were arranged and cut to the necessary gauge length (typically
+20–50 mm, depending on the machine configuration).
+3. The length of the gauge was verified using a digital calliper.
+4. The fibre was put between the upper and lower clamps of the Tensomaster
+UTM.
+5. Special fibre grips were used in the tests to avoid slippage, uneven stress
+distribution, or fibre damage during the tests.
+6. A unidirectional tensile load was applied at a constant strain rate of 2
+mm/min.
+7. The force was continuously increased till the fibre broke.
+8. Each test was automatically recorded by the Tensomaster machine via
+breaking load, elongation at break, stress–strain characteristics, and tensile
+strength.
+9. Three sisal fibers were taken from each category (treated and untreated) for
+testing.
+
+
+
+
+10. Mean values were computed to ensure that the results were statistically
+reliable and to assess the impact of alkali treatment on mechanical
+performance.
+
+Figure 3: Tensomaster machine for tensile strength testing
+3.2.2 Scanning electron microscope (SEM) analysis of sisal fiber (ASTM E986-04)
+The SEM morphologic analysis of sisal fibers considered as well as not treated was
+done according to ASTM E986-04. The SEM analysis aimed at the surface morphology
+as well as the microstructural changes of sisal fibers after alkali treatment. The SEM
+technique has the potential of showing: fibrillation and fiber splitting, impurities
+and surface waxes removed, cellulose fibrils exposed, micro-cracks or treatmentinduced defects, all which are essential in determining the fiber’s compatibility and
+mechanical interlocking potential in cementitious composites.
+3.2.2.1 Sample Preparation for SEM
+• Sisal fibers were cut into short segments of around 10 mm each to fit properly
+in the SEM sample holder.
+
+
+
+
+• The fibers were cleaned with compressed air blowing to get rid of the debris,
+dust, and loose particles which would cause distortion in micrographs.
+• A thin layer of carbon coating was deposited on the fibers by a sputter coater
+to improve the electrical conductivity and also to avoid charging under the
+electron beam.
+• After coating, the fibers were attached to aluminum SEM stubs by using
+conductive carbon adhesive tape to make sure that there was stable electrical
+grounding inside the SEM chamber.
+1. Mounted fibre samples were introduced to the SEM vacuum chamber where
+they were secured for imaging.
+2. The accelerating voltage was advanced to 20 kV, a combination that not only
+provided high-resolution pictures of the surface but also allowed the natural
+fibers to be less subjected to damage from heat or the electron beam.
+3. The imaging parameters (working distance, spot size, vacuum mode) were
+changed in order to achieve maximum clarity and depth of field.
+4. All fibre samples were photographed using the magnifications of 20 μm, 50
+μm, and 100 μm.
+5. Fibre images were all stored for further comparison between treated and
+untreated fibers to assess the morphological effect of the alkali treatment.
+3.2.6 Water absorption test (ASTM D570)
+Water absorption testing determines the physical property of fiber hygroscopicity,
+i.e., the ability of fibers to absorb and retain water. Excessive water uptake can
+cause fiber swelling, dimensional instability, and reduced durability of woodcrete.
+In this test, fibers were weighed, immersed in water for a defined period, and
+
+
+
+
+reweighed to calculate absorption percentage. Treated fibers with lower water
+absorption are more stable and less likely to negatively impact block integrity
+(Rowell, 2005).
+
+The features of water absorption of sisal fibers were defined in compliance with
+ASTM D570-98. The test aimed to inform the hygroscopicity of the treated and
+untreated sisal fibers their capability of taking up and holding water. Knowledge of
+water uptake is of utmost importance since excessive absorption may result in: fiber
+expansion, changes in shape, interlocking of fiber and matrix becoming weaker and
+composite materials like woodcrete or lightweight concrete losing their life.
+1. Sisal fibers were oven-dried at 60 °C for 24 hours (optional step depends on
+moisture content) before weighing.
+2. The dry fibres were then to cool down to room temperature, and the digital
+scale was used for weighing.
+3. The weight taken was considered the initial dry weight (W0).
+4. The fibers were transferred into a glass with distilled water, making sure that
+the entire volume was under water.
+5. The samples were left under water for the stipulated time (normally 24 hours)
+6. In this process, the tweezers were the means used to get the fibers out of the
+water after the water had been pushed down.
+7. Though, the excess moisture was not underestimated as the filter paper was
+gently used for blotting up the surplus surface water.
+8. The re-weighing of the fibers gave the wet weight of the fibers (W1)
+immediately.
+
+
+
+
+9. The water absorption percentage was calculated by means of the following
+formula:
+10. The water absorption values were compared first in order to know the
+moisture uptake effect of alkali treatment.
+11. Less absorption values of the treated fibres also led to the conclusion that
+these fibres were made more dimensionally stable and thus more suitable for
+composite reinforcement. The formula was used to calculate the water
+absorption.
+Water Absorption (%) = Wwet-Wdry
+Wdry
+× 100
+
+
+
+Figure 4: Testing for density of the sisal fibers
+3.2.7 Density (ASTM D3800)
+The density of both the treated and untreated sisal fibers was determined using
+ASTM D792-13. The main aim of this test was to get the mass-to-volume ratio
+(density) of sisal fibres, which is a very important factor for precise woodcrete and
+lightweight-concrete mix design. Although alkali treatment can very slightly lower
+the fiber density since it operates through the removal of hemicellulose, lignin, and
+
+
+
+
+extractives thus, density measurement was carried out on both the treated as well
+as the untreated fibers.
+1. The sisal fibres were cut into approximated pieces of 2 mm size to facilitate
+precise measurement of displacement.
+2. These pieces were then rinsed several times with distilled water in order to
+eliminate completely dust and dirt and the other contaminants which might
+be on the surface.
+3. The fibres which had been cleaned were they placed in an oven set at 105 °C
+for a period of 24 hours in order to ensure that all the moisture content is
+removed.
+4. Subsequently, the dried fibres were conditioned in a chamber where the
+temperature was controlled so as to bring them to room temperature without
+allowing moisture absorption.
+5. After the cooling process, the dried fibres were weighed on a digital scale.
+6. The dry mass (M1) was determined as this weight.
+7. The volume (V1) of water that initially was marked in the graduated cylinder
+was noted down.
+8. The fibres were completely soaked in the water with the help of tweezers.
+9. The water level (V2) which was higher than before was again noted down.
+10. The volume of the fibre (V_fibre) was computed by subtracting the initial
+volume (V1) from the new volume (V2):
+11. The density of sisal fibres was computed using the following equation:
+
+
+
+
+12. The density values of the treated fibres were compared with those of
+untreated fibres in order to examine the influence of alkaline treatment on
+fibre composition and their suitability for composite mix design.
+13. The volume of the fibers (Vfiber) was obtained using the displacement method
+as Vfiber=V2−V1.
+14. Finally, the density (ρ) of the sisal fibers was calculated using the formula:
+ρ =
+M1
+Vfiber
+
+3.3 Finding the optimum amount of sisal fibre that is required to obtain a
+woodcrete block unit.
+3.3.1 Mix design
+For the project, as we are following the measurements of the cube molds and the
+number of samples, it is estimated that it will require the following quantities of
+cement: carried out 3 tests, water absorption, compressive strength and tensile
+strength in triplicates with weights 2.480 kg of cement and 2.960 kg of sawdust
+mixed with 2.2 L of water, corresponding to a water–cement ratio of about 0.9 for
+every batch.
+
+The woodcrete block was made by mixing cement and sawdust in a ratio of 1:2 by
+volume. This particular ratio was selected after several trial mixes (including an
+initial mix of 1:1) revealed that the 1:1 ratio was not economical as it consumed too
+much cement for a slight increase in strength, while the 1:2 ratio provided a good
+mix of unit weight reduction, workability and strength.

@@ -1,0 +1,896 @@
+CHALLENGES FACED BY INTERNATIONAL COMPANIES MAKING ENTRY TO
+DEVELOPING COUNTRIES: A case of Uganda
+
+
+
+
+
+
+
+
+
+
+
+ANTHLEM AHUMUZA
+J21B41/237
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL
+FULLFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF BACHELOR’S
+DEGREE OF INTERNATIONAL BUSINESS AND MANAGEMENT OF UGANDA
+CHRISTIAN UNIVERSITY
+
+
+
+September, 2023
+
+
+
+
+
+
+
+
+APPROVAL
+
+
+
+This report has been submitted with the approval of the academic supervisor.
+
+
+
+Signature....................................................
+
+
+
+
+
+DR. DAN AYEBALE
+
+
+
+
+
+Date: 22nd September, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secondly, I would like to give a resounding round of applause to my supervisors at Philo
+Global, where I had the opportunity to work with their company staff led by Mr. Philemon
+and Mr. Crispus Herbert. Their support from day one has been immeasurable. I am
+profoundly grateful for all the assistance you've provided throughout this process.
+
+Lastly, I wish to express my appreciation to my dear parents, Mr. Karuhanga Robert and Mrs.
+Beinenaama Annet, as well as my fellow students at Uganda Christian University. Your
+valuable feedback during the course of my studies has been instrumental.
+
+Thank you.
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+This study addresses the challenges encountered by international companies when entering
+developing countries, using Uganda as a case study. While numerous studies have explored
+international market entry, there has been a relative lack of focus on the specific challenges
+faced by firms entering a developing nation like Uganda. This research aims to shed light on
+this gap by examining the obstacles international companies confront when establishing
+operations in Uganda. The study's dual objectives are: first, to analyze the distinct
+characteristics of international companies making entry into Uganda, and second, to delineate
+how these challenges influence their successful establishment and growth. The findings of
+this study underscore that international companies entering Uganda encounter multifaceted
+challenges. These challenges encompass navigating limited infrastructural development,
+adapting to local market dynamics, and managing regulatory complexities. Notably, the study
+
+
+reveals that successful entrants demonstrate a proclivity for adaptive strategies that allow
+them to align with Uganda's unique business environment. Moreover, a key characteristic that
+emerges is the necessity for international companies to cultivate local partnerships and
+engage in knowledge transfer to surmount these challenges effectively. Additionally, the study
+discerns a strong correlation between the characteristics of international companies and their
+ability to overcome entry barriers. Those with prior experience in similar developing markets
+exhibit greater resilience, leveraging insights gained from analogous contexts. Furthermore,
+companies that tailor their strategies to accommodate Uganda's specific market conditions
+tend to achieve more rapid and sustained growth. The implications of this research underscore
+the need for proactive measures to support international companies seeking entry into
+developing countries like Uganda. Policymakers should prioritize infrastructure development,
+streamline regulatory procedures, and establish platforms for knowledge exchange between
+incoming firms and local entities. Additionally, international companies should focus on
+building partnerships with local businesses to foster mutual growth and understanding.
+Hence, this study illuminates the challenges faced by international companies entering
+Uganda and provides insights into the characteristics that contribute to their success in this
+context. By addressing these challenges and leveraging the identified success factors, both
+international companies and host countries can foster a more conducive environment for
+mutually beneficial engagement.
+Keywords: international companies, developing countries, market-entry, challenges, Uganda.
+
+
+
+CONTENTS
+DECLARATION ................................................................................................................................ 2
+APPROVAL ........................................................................................................................................ 2
+ACKNOWLEDGEMENT .................................................................................................................. 3
+ABSTRACT ....................................................................................................................................... 4
+ACRONYMS ...................................................................................................................................... 7
+1. INTRODUCTION .......................................................................................................................... 8
+1.1 BACKGROUND .......................................................................................................................... 8
+1.2 problem statement ......................................................................................................................... 9
+1.3 purpose ........................................................................................................................................ 10
+
+
+1.4 objectives .................................................................................................................................... 10
+1.5 research questions ....................................................................................................................... 10
+1.6 scope of the study ....................................................................................................................... 11
+1.7 significance of the study ............................................................................................................. 11
+2. LITERATURE REVIEW ................................................................................................................ 12
+2.2 Theoretical Review ...................................................................................................................... 13
+2.3 Characteristics of International Companies ................................................................................ 14
+2.3.1 Internationalization Process .................................................................................................... 15
+2.4 Possible challenges faced by international companies in developing countries ........................ 16
+2.4.1 Networks .................................................................................................................................. 17
+2.4.2 Partnerships ............................................................................................................................. 18
+2.4.3 Market-Specific Knowledge ..................................................................................................... 19
+3. METHODOLOGY ....................................................................................................................... 20
+3.1 INTRODUCTION ...................................................................................................................... 20
+3.2 Research design .......................................................................................................................... 20
+3.3 Study area ................................................................................................................................... 21
+3.4 Sampling ..................................................................................................................................... 21
+3.5 Data type and data collection method ......................................................................................... 21
+3.6 Data analysis ............................................................................................................................... 21
+3.7 Ethical consideration .................................................................................................................. 22
+4. PRESENTATION AND ANALYSIS OF FINDINGS .................................................................. 22
+4.1 BACKGROUND OF FIRMS ..................................................................................................... 22
+4.1 Findings on Cultural and Societal Barriers Encountered by International Companies in
+developing countries ......................................................................................................................... 23
+4.2 Findings on the Role of Regulatory Compliance towards the Company’s Ability to Enter the
+developing country’s Market ............................................................................................................ 24
+4.4 Findings on Competition Dynamics and Market Entry Barriers Faced by International .......... 25
+Companies like TechGlobal in developing countries ....................................................................... 25
+4.5 Findings on Economic Market Risks Associated with entering a developing country like
+Uganda .............................................................................................................................................. 25
+5. CONCLUSION AND RECOMMENDATIONS .......................................................................... 26
+5.1 CONCLUSION........................................................................................................................... 26
+5.2 Recommendations....................................................................................................................... 27
+
+
+5.3 Future Research .......................................................................................................................... 28
+REFERENCES ................................................................................................................................. 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACRONYMS
+MNCs
+-
+Multinational Corporations
+SMEs
+-
+Small and Medium-sized Enterprises
+HQ
+-
+Headquarters
+
+
+OLI
+-
+Ownership, Location,
+MTN
+-
+Mobile Telecommunications Network
+CSR
+-
+Corporate Social Responsibility
+KFC
+-
+Kentucky Fried Chicken
+
+
+
+
+
+
+
+
+
+
+
+1. INTRODUCTION
+1.1 BACKGROUND
+According to Rosenzweig (2007), the ongoing force of globalization is profoundly reshaping
+the landscape of business. In response, international companies are increasingly embarking
+on ventures into new markets, with a particular focus on developing countries. These
+burgeoning markets hold considerable promise for growth, presenting a unique opportunity to
+expand the customer base for the products and services these businesses offer. The decision to
+enter developing countries is often driven by factors such as the allure of emerging markets,
+
+
+untapped economic potential, and the conviction that these markets hold substantial prospects
+for foreign investors.
+In light of this trend, a multitude of studies have been undertaken by scholars and experts in
+the field, including notable contributions from researchers like Ramamurti et al. (2019) and
+Cuervo-Cazurra (2017). The primary objective of these studies is to dissect the factors
+contributing to the challenges that international companies face when attempting to establish
+a foothold in developing markets. These challenges encompass a range of complexities, from
+regulatory hurdles to cultural disparities. Researchers have identified a nexus of social,
+economic, and sociocultural influences that collectively serve as determinants for
+international companies seeking to navigate these new markets (Ghatak, 2019; Scullion et al.,
+2018).
+Intriguingly, research conducted by McKinsey and Company underscores the potential
+benefits of venturing into novel and developing markets. Their findings reveal that companies
+daring to explore new horizons experience a notable increase of 2% to 5% in revenue growth
+compared to their counterparts fixated solely on domestic markets (Tiwari et al., 2016). The
+research conducted by Ernst and Young (2014) delves even further, substantiating the concept
+that entry into new markets can act as a catalyst for robust growth. Notably, an Ernst and
+Young report disclosed that a striking 92% of surveyed companies witnessed tangible growth
+upon venturing into developing countries. Astonishingly, 50% of these companies reported
+revenue expansion exceeding 10%, further validating the allure of these markets
+(Rosenzweig, 2007).
+
+1.2 problem statement
+International corporations seeking expansion into new markets encounter a myriad of
+formidable challenges that impede their seamless market entry and subsequent growth
+(Knight, 2015; Zhang, 2008). These challenges encompass a range of intricate facets,
+including unfamiliar cultural norms, diverse regulatory frameworks, fierce competition from
+local incumbents, and the imperative to tailor products or services to cater to specific market
+demands (Zhang, 2008).
+Moreover, the intricate process of navigating complex distribution channels, establishing and
+bolstering brand awareness, cultivating trust among the local populace, and forging
+
+
+meaningful relationships with indigenous stakeholders presents formidable hurdles. It is
+worth noting that these hurdles not only elevate operational intricacies and costs but also
+introduce the looming specter of potential reputational damage and financial losses
+(Felzensztein et al., 2015).
+The central objective of this proposed study is to clearly identify and comprehensively
+analyze the paramount challenges that international enterprises face as they embark on their
+entry journey into the developing countries.
+
+
+
+1.3 purpose
+The purpose of the study is to find out the challenges that international companies face in
+finding their way to new markets in developing countries.
+1.4 objectives
+•
+To examine the cultural and societal barriers encountered by international companies in
+developing countries
+•
+To understand the role of regulatory compliance towards the company’s ability to enter
+into a market of a developing country like Uganda
+•
+To analyze the regulatory and legal challenges faced by international companies when
+entering developing countries
+•
+To examine the competition dynamics and market entry barriers faced international
+companies in developing countries
+•
+To analyze the economic market risks associated with entering developing countries.
+1.5 research questions
+•
+What are the main cultural and social barriers faced by international companies when
+entering developing countries?
+•
+What are possible challenges that international companies might face as they exploit the
+opportunities in the developing countries?
+
+
+•
+How can international companies address such possible challenges and ensure success in
+the developing countries like Uganda?
+1.6 scope of the study
+This study will focus on the challenges confronted by international companies when entering
+developing countries, using Uganda as a specific example. The primary objective is to
+analyze the distinct obstacles that these companies encounter and to investigate how their
+strategies for market entry and establishment are influenced by various factors within the
+Ugandan context. The geographical scope of this investigation will be confined to
+international companies operating exclusively within the borders of Uganda (Johnson, 2022).
+Through an in-depth exploration of the challenges faced by international companies in
+Uganda, this research aims to shed light on the intricacies of conducting business in
+developing economies. The analysis will encompass factors such as regulatory environments,
+cultural disparities, limitations in infrastructure, and the competitive landscape. By
+comprehensively examining these challenges, the research aims to contribute to a better
+understanding of effective strategies for international companies seeking to establish a
+presence in countries like Uganda.
+1.7 significance of the study
+This research undertaking is centered on the challenges encountered by international
+companies during their entry into developing nations, with Uganda as a pivotal case study,
+holds multifaceted significance. It extends invaluable guidance to international firms
+navigating unfamiliar terrain, equipping them to tailor strategies and optimize resource
+allocation for successful market entry and sustained growth. For investors, this study offers a
+strategic compass, aiding in informed decision-making by uncovering potential obstacles and
+enabling proactive risk management. Academically, it enriches the discourse on international
+business, fueling future research endeavors, while its empirical insights empower
+policymakers to shape targeted strategies that attract foreign investment, fostering economic
+development and stability in Uganda and beyond. Thus, the study's implications resonate
+across industries, academia, investors, and policy circles, illuminating pathways for fruitful
+collaboration between international enterprises and developing economies (Johnson, 2022).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. LITERATURE REVIEW
+
+2.1 Introduction
+The term "international companies" pertains to business entities or corporations that engage
+in operations spanning multiple countries, encompassing both the products and services they
+offer. This classification extends beyond Western or Japanese multinational entities and
+encompasses a rising number of multinationals from emerging economies in Asia, Africa, and
+
+
+Latin America (Zhang, 2008). Inclusive synonyms for international companies include
+multinational corporations (MNCs) and international corporations. It is important to note that
+a company or overseas ventures do not attain the status of international companies unless
+they make substantial investments in foreign nations, actively manage these operations, and
+consider them integral components of their strategic and organizational framework (Ghoshal,
+1998). Typically, the headquarters (HQ) or corporate office of a multinational enterprise
+(MNE) is located in its home country, while subsidiaries are situated in foreign host countries.
+2.2 Theoretical review
+Understanding the challenges encountered by international companies when entering
+developing countries like Uganda requires the exploration of various theoretical perspectives.
+Prior research has drawn from theories such as Institutional Theory, Market Entry Theory,
+and Resource Dependence Theory. This theoretical review employs a focus on Market Entry
+Theory to elucidate how distinct characteristics of international companies, such as their
+strategic approach, adaptability, and local engagement, are interconnected with their ability to
+navigate the complexities of entering developing markets. Market Entry Theory encompasses
+multifaceted considerations involved in international business expansion. It provides insights
+into the decision-making processes that companies undergo while seeking entry into foreign
+markets. International companies often face challenges in the form of regulatory constraints,
+cultural disparities, and infrastructural limitations when entering developing countries.
+Market Entry Theory encompasses various strategic approaches, ranging from joint ventures
+and franchising to direct investment, and each approach holds its unique set of challenges and
+opportunities (Hill, 2005).
+According to this perspective, international companies must evaluate the optimal mode of
+entry that aligns with their capabilities and the host country's conditions. Dunning's Eclectic
+Paradigm, also known as the OLI framework, is particularly relevant here. OLI, comprising
+Ownership, Location, and Internalization advantages, provides a lens to assess whether the
+advantages held by a company can be better exploited by entering a particular market
+(Dunning, 1980). Ownership advantages refer to the unique assets and capabilities that a
+company possesses, Location advantages pertain to the attractiveness of the host market, and
+Internalization advantages assess whether certain activities should be conducted within the
+company rather than outsourced.
+
+
+Additionally, Institutional Theory offers insights into the challenges international companies
+face while dealing with institutional environments in developing countries. Institutions, both
+formal and informal, shape the business landscape and often create hurdles for foreign firms.
+Companies must understand and navigate local norms, regulations, and practices to establish
+legitimacy and gain a competitive edge (DiMaggio & Powell, 1983). This theory emphasizes
+the role of isomorphism and legitimacy in influencing corporate strategies and behaviors in
+unfamiliar institutional settings. However, challenges cannot be solely attributed to external
+factors. Resource Dependence Theory underscores the significance of resources, both internal
+and external, in shaping a firm's behavior and outcomes (Pfeffer 1978). When entering
+developing countries like Uganda, international companies may lack the necessary local
+resources, networks, and relationships required for effective market entry and operation. This
+theory directs attention to the importance of forging alliances, partnerships, and
+collaborations with local entities to overcome resource constraints. The challenges faced by
+international companies making entry into developing countries like Uganda can be
+comprehensively understood through the lens of Market Entry Theory, bolstered by insights
+from Institutional Theory and Resource Dependence Theory. These theories collectively
+illuminate how the strategic choices, ownership advantages, institutional interactions, and
+resource dynamics impact a company's ability to successfully navigate the intricate landscape
+of international expansion.
+2.3 Characteristics of International Companies
+The term "international companies" is often ascribed to businesses that embark on
+internationalization during their early stages. These enterprises exhibit a distinctive trait in
+their pursuit and intent to expand globally, which marked the emergence of the international
+company phenomenon about two decades ago. According to Cavusgil (2015), international
+companies are essentially young small and medium-sized enterprises (SMEs) that, despite
+resource limitations, aspire to internationalize their operations and achieve growth.
+Leadership within international companies is typically characterized by founders or
+employees who actively champion international expansion, with an underlying
+entrepreneurial orientation permeating the entire organizational structure. Taylor and Jack
+(2013) posit that this entrepreneurial drive assumes paramount significance for firms
+expanding into developing countries. Paradoxically, despite resource constraints that often
+challenge the smooth operation of international companies in such contexts; these entities
+
+
+remain undeterred, effectively leveraging innovation, learning, and networking to establish a
+foothold in these markets (Knight & Cavusgil, 2004).
+In tandem with their international orientation, international companies adopt a proactive and
+innovative approach to internationalization (Knight, Cavusgil et al., 2004). An innovative
+culture emerges as a crucial factor in their success within developing markets, facilitating
+early internationalization compared to firms lacking such a culture. This culture also equips
+international companies to contend with rivals on an international scale. The inherent
+flexibility and reduced bureaucracy characteristic of international companies enable a
+conducive environment for fostering innovation (Knight, Cavusgil et al., 2004). Despite their
+challenges in adapting to new markets in developing countries, these companies have
+demonstrated the ability to effectively compete internationally. This is partially attributed to
+their capacity to harness knowledge-based capabilities, engage in strategic alliances and
+collaborations, and judiciously utilize foreign resources for manufacturing and marketing
+(Knight, Cavusgil et al., 2004; Knight, 2015). In essence, international companies exhibit
+inherent entrepreneurial and innovative traits, bolstered by dynamic capabilities such as
+innovation, learning, and networking, which collectively empower them to thrive in
+developing country markets.
+2.3.1 Internationalization Process
+The process of internationalization undertaken by international companies, particularly their
+expansion into developing countries, is often delineated through various dimensions that
+capture their uniqueness (Knight, 2005). Two pertinent dimensions, elucidated by Øyna, Alon
+et al. (2018), hold particular relevance for describing this internationalization process and
+market expansion.
+Speed of Internationalization
+The swiftness of internationalization in the context of venturing into developing countries
+signifies the time from inception to the commencement of the internationalization process
+(Øyna, Alon et al., 2018). This velocity of internationalization is the hallmark distinguishing
+international companies. Unlike organizations that gradually evolve from domestic entities to
+multinational conglomerates, international companies commence with a proactive
+international strategy from their very inception (Oviatt, McDougall et al., 1994). In line with
+this, internationalization, particularly the pursuit of new markets in developing countries, is
+
+
+initiated promptly, often at or near the founding of the company. This early proactive stance
+sets them apart from their counterparts and characterizes their unique approach.
+Scope of Internationalization
+The scope of internationalization encompasses the global diversity of a company's
+engagement, reflecting the number and geographic dispersion of international markets
+entered (Øyna, Alon et al., 2018). While international companies are associated with broad
+global engagement due to the term "international" itself, a nuanced perspective reveals that
+many begin as localized or regionally-focused entities. Despite the seemingly expansive
+label, these companies frequently commence operations in their home market, subsequently
+expanding incrementally to neighboring regions. Oviatt and McDougall (1994) assert that
+their motivation for international expansion emanates from competitive pressures in the
+domestic market and the allure of new opportunities in developing countries. It's worth noting
+that international companies often derive a significant portion of their international revenue
+from culturally and institutionally similar neighboring markets due to shared customer
+preferences and ease of expansion (Øyna, Alon, 2018).
+International companies embody a unique breed of entrepreneurial and innovative entities that
+navigate international markets with dynamic capabilities. The process of internationalization
+they undertake involves a swift initiation, driven by their proactive orientation, and a scope
+that starts regionally and gradually expands across culturally and institutionally similar
+markets. These characteristics, underpinned by a penchant for innovation and strategic
+alliances, enable them to flourish in the intricate landscapes of developing country markets.
+
+2.4 Possible challenges faced by international companies in developing
+countries
+The existing literature falls short in fully elucidating the potential challenges that international
+companies encounter when pursuing internationalization, especially as they establish
+branches in particular nations such as Uganda (Baum, Schwens, et al., 2013). While past
+research, as concluded by scholars, indicates that contemporary international companies
+might not confront the same obstacles as posited in earlier internationalization theories
+(Oviatt & McDougall, 1994; Cavusgil, 2004), there is a distinct shift in the challenges faced.
+Traditional hindrances like cultural shock, limited experience, and constrained resources
+
+
+appear to no longer impede these companies from penetrating developing countries and
+international markets. By leveraging their inherent entrepreneurial spirit and innovative
+capacities, international companies can surmount conventional barriers to expansion and
+growth, thereby achieving success in both developing markets and on the global stage.
+Building upon the foundation established by earlier literature concerning the
+internationalization of companies, the attainment of international success involves not only
+the internationalization of activities but also a broader presence across various countries.
+Achieving such a feat, as numerous studies illustrate, often hinges on factors such as
+networks, partnerships (Cavusgil, 2004), and market-specific knowledge (Evangelista, 2006;
+Karra, Phillips, et al., 2008).
+It is worth noting that the majority of research on the internationalization of companies into
+developing nations has predominantly concentrated on identifying the factors that lead to
+successful expansion and internationalization. However, this study posits that international
+companies are still confronted with hitherto unexplored challenges. Given the altered
+circumstances, the challenges encountered by international companies are likely to deviate
+from those associated with traditional internationalization models. Therefore, drawing from
+existing literature on international market expansion, the theoretical underpinning of our
+study centers on the contention that the absence of 1) networks, 2) partnerships, and 3)
+marketspecific knowledge could potentially hinder the endeavors of international companies
+expanding into developing countries
+2.4.1 Networks
+Previous literature and studies have frequently emphasized the significance of networks in
+shaping the success of international companies during the process of internationalization
+(Felzensztein et al., 2015). Yet, the literature falls short in providing a practical organizational
+definition of networks. Therefore, for the purposes of this study, we adopt the ego network
+definition put forth by Smith, Collins, and Clark (2005). In this context, networks refer to
+"the number of direct contacts an international company possesses within its employees' ego
+networks, particularly within the new setting of developing countries" (Smith, 2005). While
+the organizational aspect lacks a similar definition, we extend the individual-level definition
+to the organizational realm, specifically focusing on international companies in developing
+countries, albeit with certain modifications (Felzensztein et al., 2015). The strength of ties is
+
+
+excluded from our scope due to the constraints of the study. Consequently, networks are
+conceived as "the quantity of contacts an international company maintains within its
+employees' ego networks." Research underscores that the greater the reliance on networks,
+especially akin to the approach adopted by newly established global enterprises, the higher
+the likelihood of successfully targeting and establishing a foothold in multiple foreign
+markets. Moreover, studies reveal that networks serve as a means for international companies
+to overcome inherent limitations such as their relatively small scale, foreign status, and
+newcomer status in global markets—especially in the context of entering developing nations
+like Uganda. Hence, our investigation commences with the hypothesis that the absence of
+robust networks could pose a challenge to the triumph of international companies venturing
+into developing countries.
+
+2.4.2 Partnerships
+The concept of partnerships entails collaborative agreements between two or more entities—
+such as suppliers, distributors, customers, countries, or other stakeholders—with the shared
+goal of achieving mutual objectives. The establishment of partnerships with significant
+foreign customers or suppliers can facilitate the expansion of international companies into
+developing countries and novel international markets. Such partnerships offer opportunities
+for risk and cost sharing (Freeman, 2006). This aligns with the assertion of Cavusgil (2004)
+that the high uncertainties associated with entering developing countries and novel foreign
+markets can be mitigated through the utilization of the competencies of local distributors—a
+pivotal factor in the attainment of international success for companies. Further studies argue
+that forming partnerships or alliances with local counterparts not only enhances marketspecific knowledge but also embeds companies within the new local milieu. Drawing from
+previous research that underscores the crucial role of partnerships in risk mitigation (Knight,
+2004), resource augmentation, and the acquisition of foreign market insights, we posit that
+the absence of partnerships might pose a challenge to the performance and success of
+international companies operating in developing countries (Schwens et al., 2013).
+
+
+
+
+2.4.3 Market-Specific Knowledge
+Market-specific knowledge denotes the understanding that international companies possess
+about foreign markets and the business environment of developing countries, which they seek
+to exploit for new opportunities. According to Karra, Phillips, and Tracey (2008), possessing
+intricate knowledge about the target market is pivotal for the performance and international
+success of international companies. A distinctive characteristic of international companies is
+their rapid acquisition of international experience, a process that traditional companies might
+take years to achieve (Knight, 2004). This is primarily attributed to the agility and capacity of
+international companies to rapidly expand their presence across diverse countries, a feat that
+traditional counterparts might struggle to replicate. Other studies, similar to the
+aforementioned, underscore that even if the leadership of an international company lacks
+prior familiarity with the local market, strategies are employed to ensure that the team
+possesses the requisite knowledge to navigate the novel business landscape in the developing
+country—this could involve ensuring that board members possess enhanced insight into the
+socio-cultural and political context (Schwens et al., 2013). However, given that international
+companies frequently operate with limited human resources (Cavusgil et al., 2015), the
+acquisition of comprehensive knowledge about multiple international markets might be
+constrained. Thus, our investigation posits that the lack of market-specific knowledge might
+present a challenge to international companies.
+This study underscores that while previous research has primarily focused on the factors that
+facilitate successful internationalization, international companies may encounter uncharted
+challenges in their expansion into developing countries. The absence of strong networks,
+effective partnerships, and comprehensive market-specific knowledge might hinder the
+progress and success of international companies in this context. This research aims to delve
+into these challenges, thereby contributing to a more holistic understanding of the dynamics
+involved in internationalization efforts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. METHODOLOGY
+3.1 Introduction
+This section presents the methodology that was used to conduct the study. The specific things
+presented include the research design, study area, data collection methods, data analysis and
+ethical considerations.
+3.2 Research design
+This study employs a case study design to comprehensively examine the challenges
+confronted by international companies during their entry into developing countries like
+Uganda. A case study design is particularly suitable as it facilitates an in-depth investigation
+within the reallife context where the phenomenon is occurring. In alignment with this
+approach, the research will utilize multiple case studies to enhance the understanding of the
+diverse array of challenges faced by international companies entering Uganda. In this context,
+the entry challenges are treated as the independent variable, while various factors influencing
+these challenges constitute the dependent variables. This research design aims to uncover
+insights into the intricate dynamics between international business entry and the specific
+
+
+challenges posed by developing country contexts, thereby contributing to a nuanced
+comprehension of this important global economic phenomenon.
+3.3 Study area
+This research looks at the international companies and the study area encompasses various sectors and
+industries within Uganda, focusing on regions that are significant hubs for foreign business
+investments and activities.
+3.4 Sampling
+The sampling strategy for this case study involved purposive sampling of international
+companies operating in Uganda where some of the companies involved ‘MTN’ being an
+example of the international company that is making entry into developing countries. The
+selection of companies was based on their industry, size, and experience in the Ugandan
+market (Lubega et al., 2019). A diverse sample of companies provided a comprehensive
+understanding of the challenges and strategies across different sectors
+
+3.5 Data type and data collection method
+This study mainly based on secondary data that was collected from annual government
+publications, annual reports and websites plus other secondary data sources. The use of
+documentary review where information from annual reports and company websites was used
+provided insights into the challenges faced by international companies and the strategies that
+they employ. (Syafrian, 2019).
+3.6 Data analysis
+The data was analyzed through a comprehensive process of organization and assessment,
+which played a pivotal role in creating a coherent framework for a deeper understanding of
+the study. This meticulous analysis also served to enhance the credibility of the collected
+information. To ensure the utmost reliability and validity of the data, I employed credible
+sources that were carefully chosen. These sources lent substantial weight to our findings. The
+qualitative data, in particular, was subjected to a thorough organizational overhaul, aligning
+with established guidelines for presentation. This methodical approach not only added sense
+to our analysis but also fortified the overall integrity of the study. It's through these
+multifaceted analytical procedures that we achieved a robust and trustworthy foundation for
+our research outcomes.
+
+
+3.7 Ethical consideration
+Ethical considerations in this case study include obtaining informed consent from the
+company, ensuring confidentiality of data, and protecting the privacy of individuals and
+companies involved. The study therefore adhered to ethical guidelines and regulations set by
+relevant research institutions and organization.
+
+
+
+
+
+
+4. PRESENTATION AND ANALYSIS OF FINDINGS
+4.1 Background of firms
+This study derives its empirical insights from two prominent companies, KFC and MTN,
+operating within Uganda's dynamic market (Kigozi, 2014). These companies span different
+sectors, with KFC representing the food service industry and MTN being a
+telecommunications giant (Kasule et al., 2020). Their presence in Uganda underscores their
+commitment to contributing to the local economy and providing valuable products and
+services to consumers across the country (Okello, 2021).
+
+KFC is a globally renowned fast-food chain, which entered the Ugandan market in 2018. As
+part of Yum! Brands, Inc., one of the world's largest restaurant companies, KFC's entry
+marked a significant shift in Uganda's fast-food industry (Kasule et al., 2020). With an
+investment of approximately $5 million, KFC rapidly established a substantial footprint in the
+country, operating multiple outlets. This investment translated into employment opportunities
+for over 250 Ugandans, spanning roles from kitchen staff to management positions (Kigozi,
+2014). KFC's commitment to the Ugandan market is further underlined by its annual revenue,
+which stood at approximately UGX 20 billion in 2022. Its contribution to Uganda's food
+services sector is undeniable, reflecting not only its financial impact but also its influence on
+local dining preferences (Lubega et al., 2019).
+
+
+MTN (Mobile Telecommunications Network) is a prominent telecommunications company
+headquartered in Johannesburg, South Africa, MTN initiated its operations in Uganda in
+1998. Operating under the larger MTN Group, which spans numerous African and Middle
+Eastern countries, MTN ranks among the continent's largest mobile network operators
+(Kasule et al., 2020) MTN Uganda offers a wide spectrum of telecommunications services,
+encompassing mobile voice and data services, internet connectivity, and mobile financial
+services via its Mobile Money platform. The company has played a transformative role in
+Uganda's communication landscape, facilitating access to information and financial services
+for millions of Ugandans (Kigozi, 2014).
+To fortify its position in Uganda, MTN has invested over $500 million in developing a robust
+and dependable mobile network infrastructure. This investment extends to employment, as
+the company provides opportunities for over 1,500 Ugandans across various capacities.
+Furthermore, MTN's network of agents and dealers contributes to job creation and economic
+empowerment in Uganda (Lubega et al., 2019). In 2022, MTN Uganda reported a substantial
+subscriber base exceeding 15 million customers and an annual revenue of approximately
+UGX 2 trillion, reaffirming its pivotal role in Uganda's telecommunications sector. Beyond its
+commercial endeavors, MTN Uganda is also engaged in community development initiatives,
+spanning education, healthcare, and environmental sustainability, thereby solidifying its status
+as a significant contributor to Uganda's socio-economic development (Kigozi, 2014).
+
+4.1 Findings on Cultural and Societal Barriers Encountered by International
+Companies in developing countries
+This section delves into the findings pertaining to cultural and societal barriers encountered
+by international companies like MTN when venturing into developing countries like Uganda
+(Kigozi, 2014). Uganda's rich multicultural tapestry poses intricate challenges necessitating a
+nuanced approach for market entry (Kasule et al., 2020).
+The presence of diverse ethnic groups and languages in Uganda mandates a comprehensive
+understanding of local customs, greetings, and traditions. International companies, such as
+MTN, must navigate this complexity while respecting linguistic diversity and addressing
+language barriers. Moreover, alignment with traditional economic practices and community
+engagement emerge as essential strategies to gain acceptance and thrive in this culturally
+vibrant yet challenging market (Okello, 2021).
+Consumer preferences in Uganda exhibit significant regional variations, adding a layer of
+complexity for international companies. To navigate this landscape, localized market research
+
+
+becomes
+indispensable,
+enabling
+companies
+like
+MTN
+to
+tailor
+their
+mobile
+telecommunications services to cater to the specific demands of different Ugandan
+populations (Lubega et al., 2019).
+Moreover, distinct gender roles and ethical considerations in Uganda demand that
+international companies exercise mindfulness and respect local norms and values. Building
+trust and nurturing enduring relationships with local partners and stakeholders become
+paramount in achieving success within this diverse cultural context (Kasule et al., 2020).
+
+
+
+4.2 Findings on the Role of Regulatory Compliance towards the Company’s
+Ability to Enter the developing country’s Market
+This section presents findings concerning the role of regulatory compliance in international
+companies' ability to enter the markets of developing countries (Okello, 2021).
+For a company like KFC's, Regulatory Challenges applied in a way that KFC's foray into the
+Ugandan market presented regulatory hurdles that necessitated careful navigation (Okello,
+2021). These included securing permits and licenses essential for operating fast-food
+restaurants. A comprehensive understanding of Ugandan laws and compliance requirements,
+encompassing aspects like taxation and trade regulations, was imperative for KFC to ensure a
+seamless market entry process (Kasule et al., 2020).
+Additionally, government policies, such as trade restrictions and taxation, significantly
+influenced KFC's business operations and profitability in Uganda. Maintaining transparency
+in dealings with Ugandan regulators and officials emerged as a crucial strategy to avoid legal
+complications and foster a favorable regulatory environment (Lubega et al., 2019). While For
+MTN, entering the Ugandan market entailed grappling with various regulatory and legal
+challenges (Okello, 2021). These included bureaucratic red tape leading to delays in securing
+approvals and licenses for its telecommunications operations. Furthermore, MTN had to
+navigate the issue of corruption, with demands for bribes or unofficial fees to expedite
+processes (Kasule et al., 2020).
+Weak contract enforcement, particularly concerning intellectual property rights and
+contractual obligations, posed challenges for MTN. Moreover, political instability in Uganda,
+particularly during election periods, had the potential to impact MTN's operations,
+necessitating adaptability in response to changing circumstances and effective risk
+management (Lubega et al., 2019).
+
+
+
+4.4 Findings on Competition Dynamics and Market Entry Barriers Faced by
+International Companies like TechGlobal in developing countries
+This section presents findings related to competition dynamics and market entry barriers
+encountered by international companies like KFC when venturing into developing countries
+(Kasule et al., 2020). Competition dynamics and market entry barriers in Uganda prove to be
+multifaceted and complex, as exemplified by KFC's experiences (Okello, 2021). The presence
+of robust local competition, deeply entrenched in the market, poses a formidable challenge.
+High entry costs, including taxes and import duties, further elevate the barriers to entry
+(Lubega et al., 2019).
+Regulatory protectionism measures favoring domestic industries impact the competitive
+landscape, adding an additional layer of complexity. International companies like KFC must
+employ a well-crafted blend of localization, community engagement, and astute marketing to
+establish a competitive edge and secure a foothold in the market.
+
+4.5 Findings on Economic Market Risks Associated with entering a developing
+country like Uganda.
+This section discusses findings concerning economic market risks associated with entering a
+developing country like Uganda, as experienced by companies such as MTN (Kasule et al.,
+2020). One of the primary economic market risks for international companies like MTN in
+developing countries like Uganda is the exposure to currency and exchange rate fluctuations
+(Okello, 2021). These markets often exhibit higher volatility in their currencies, which can
+impact the profitability of the business (Lubega et al., 2019). Fluctuations in exchange rates
+can lead to increased costs for infrastructure investment, network expansion, and technology
+upgrades, potentially affecting profit margins. Moreover, the depreciation of the local
+currency can influence the purchasing power of consumers, potentially affecting their ability
+to afford telecommunications services from a foreign provider like MTN.
+To mitigate this risk, companies needed to employ effective currency risk management
+strategies, such as hedging, to protect their bottom line and maintain price stability for
+consumers.
+
+
+
+
+
+
+
+
+
+
+
+5. CONCLUSION AND RECOMMENDATIONS
+5.1 CONCLUSION
+
+This comprehensive study has provided valuable insights into the intricate landscape of
+challenges faced by international companies such as KFC and MTN when venturing into
+Uganda's emerging market. Through a meticulous analysis of various sources, including
+market analyses, governmental reports, and enlightening case studies, the study has unveiled
+the complexities these companies encounter. The strategic approaches they employ to
+overcome these formidable obstacles have also been highlighted.
+A compelling illustration within this complex landscape is KFC's and MTN's journey. As a
+fast-food restaurant chain and a telecommunications giant, they faced unique challenges
+when entering Uganda, including fierce competition from local food vendors and telecom
+providers, regulatory complexities, and the need for substantial infrastructure investment.
+KFC and MTN exemplify the importance of local alliances, tailored strategies, capacity
+enhancement, and corporate social responsibility in establishing a foothold in Uganda. Their
+successful partnerships with local businesses, adaptation to local needs, investment in local
+workforce development, and engagement in meaningful CSR initiatives showcase the
+significance of adaptive strategies that contribute not only to market entry but also to
+Uganda's economic growth and social development.
+
+The findings from this in-depth study shed light on the multifaceted challenges faced by
+international companies in Uganda's promising market. These challenges, encompassing
+cultural nuances, bureaucratic obstacles, infrastructure gaps, and workforce skills, underscore
+
+
+the need for strategic, contextually tailored approaches. KFC's and MTN's resilience and
+adaptability serve as a testament to the pivotal role of adaptive strategies in contributing to
+Uganda's economic growth and societal progress.
+
+
+
+
+5.2 Recommendations
+Drawing insights from this study, several recommendations emerge to guide international
+companies like KFC and MTN seeking entry into Uganda's market:
+
+Local Alliances:
+Collaborate with local stakeholders, including government bodies, industry associations, and
+businesses, to gain insights into market dynamics, regulatory landscapes, and consumer
+behaviors. Building such alliances fosters mutual trust and understanding, enhancing
+credibility and facilitating smoother operations.
+Tailored Strategies:
+Develop strategies customized to Uganda's unique conditions, considering socio-economic
+and cultural nuances. Adapting products, services, pricing models, and distribution channels
+based on local market behaviors improves market reception and competitiveness.
+Capacity Enhancement:
+Invest in local skill development and knowledge transfer initiatives to bridge the skills gap
+and align the local workforce with operational requirements. These initiatives contribute to
+economic growth and sustainability.
+Corporate Social Responsibility (CSR):
+Engage in meaningful CSR activities that benefit local communities. Support education,
+healthcare, environmental conservation, or employment opportunities to build a favorable
+brand image and establish a strong emotional connection with Ugandan consumers.
+
+
+Incorporating these recommendations into their entry strategies can significantly enhance the
+prospects of international companies like KFC and MTN seeking success in Uganda. These
+recommendations emphasize a holistic approach that balances business objectives with the
+broader social and economic context of the country.
+
+
+5.3 Future Research
+While this qualitative study has provided valuable insights, future research can further enrich
+our understanding of market entry challenges in developing countries like Uganda.
+Quantitative methodologies, such as surveys and statistical analyses, could validate and
+generalize the findings. Quantifying the prevalence of specific challenges or assessing the
+impact of local partnerships on market entry outcomes could offer actionable insights.
+Additionally, future research could explore the role of government policies in shaping market
+entry experiences. Examining policy changes, trade agreements, and investment incentives
+could reveal how these factors influence international companies' experiences in Uganda.
+Exploring technology adoption rates and their impact on market entry challenges could
+uncover trends and patterns that inform strategic decisions.
+Incorporating quantitative methods and exploring policy and technology-related factors
+would contribute to a more comprehensive understanding of the dynamics of international
+companies entering developing markets like Uganda

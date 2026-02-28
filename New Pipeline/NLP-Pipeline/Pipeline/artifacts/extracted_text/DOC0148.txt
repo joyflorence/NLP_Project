@@ -1,0 +1,1079 @@
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+159 
+ 
+HR Practices and OCB: Mediating Role of Employee Engagement in Soft Drink 
+Firms in Uganda 
+ 
+Joseph Jakisa Owor 
+Senior Teaching Fellow 
+Faculty of Business & Administration 
+Uganda Christian University 
+P. O. Box 4 Mukono 
+Uganda 
+ 
+ 
+ 
+Abstract 
+ 
+The purpose of this study was to investigate the mediating role of employee engagement in the relationship 
+between HR practices and OCB in soft drink firms in Uganda. Quantitative cross-sectional survey design (N = 
+210) examined the relationship between nine HR practices (antecedents), employee engagement and OCB. 
+Hypotheses were tested through correlation and hierarchical regression. All the nine antecedent variables studied 
+were significantly related to employee engagement and employee engagement was significantly related to OCB. 
+The hierarchical regression analysis results shows that five antecedent variables demonstrated a significant 
+relationship with OCB - role clarity, collaboration, job security, compensation fairness, and development. This 
+research has validated the organizational citizenship behaviour model, extended the engagement model and 
+social exchange theory and established that all the nine antecedents studied were related to engagement but only 
+five were significantly related to OCB. 
+ 
+Keywords: employee engagement, antecedents, OCB, HR practices, employee development, job security, 
+compensation fairness, collaboration, Uganda. 
+ 
+Background 
+ 
+Researchers within Human Resource Management (HRM) field have been concerned with how HRM can lead to 
+improved organizational performance (Huselid, 1995; Delbridge and Keenoy, 2010). While early HRM studies 
+tended to propose a direct link between HR practices and firm performance, recent evidence suggests that the 
+relationship is most likely mediated by a range of attitudinal and behavioral variables at the individual level – 
+employee engagement, task performance, and OCB (Guest, Conway, & Dewe, 2004; Kuvaas, 2008; Snape & 
+Redman, 2010). Prior HRM-performance-studies tended to focus on the macro level and proposed a direct 
+relationship between the two, but lacked convincing theoretical explanations (Guest 2011). Recent research has 
+adopted a social exchange framework and quantitative methodologies at the micro level to suggest that the 
+relationship is most likely mediated by attitudinal variables, especially employee engagement which has ushered 
+in a very recent interest in the parallel stream of research linking employee engagement and employee outcomes. 
+Bringing the two streams together suggests that engagement may constitute the mechanism through which HR 
+practices impact individual and organizational outcomes within the framework of social exchange theory. 
+ 
+Uganda’s industrial sector, is dominated by Micro, Small and Medium enterprises (MSEs), and contributes 25 
+percent to the GDP. From early 1990s government of Uganda embarked on the country’s Economic Recovery 
+Programs, aimed at removing structural distortions and imbalances in the economy by providing an enabling 
+environment for industry for sustainable industrial development. Despite the government’s efforts to make 
+Uganda’s private sector more competitive, very little appears to be happening in comparison to other countries 
+(Nyanzi, 2012). The Global Competitiveness Report 2014/15 has ranked Uganda 122 out of 144 economies. 
+Uganda still lags behind Rwanda (62) and South Africa (56) which are the top performers in Africa - while Kenya 
+is ranked 90 (World Economic Forum, 2014). This leads us to propose that the macro-economic policy 
+environment is a necessary but not sufficient condition for firm performance. The solution to the performance 
+problem lies more at how the HR practices are handled at the firm level.  
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+160 
+This is in line with researchers who argue that aggregate outcome variables, such as competitiveness, firm 
+financial performance and effectiveness, are too distal from the micro-level HR interventions, and that more 
+proximal outcome indicators at the individual level would provide a better and more reliable measure of 
+individual HR outcomes (Paauwe, 2004; Purcell & Kinnie, 2007; Wright & Haggerty, 2005). The carbonated soft 
+drink sub-sector in Uganda has attracted a number of players in the last two years including Riham, Fizzy and 
+Azam soda resulting into stiff competition causing the two giant franchises – Coca-Cola and Pepsi to cut prices to 
+remain competitive in the market. Bottled water, which is emerging as the fastest growing in the beverage market 
+has eaten into the carbonated soft drink market (New Vision, 2015: Focus on Manufacturing, June 2). The leading 
+competitor in the bottled water industry is Rwenzori Bottling Company Ltd, a subsidiary of SABMiller. Since 
+there is no empirical data on outcomes, HR or individual attitudinal variables on the sampled firms, it is necessary 
+to bridge the gap by studying the firm level HR factors (antecedents) and employee engagement hypothesized to 
+predict outcomes like OCB which has a bearing on performance and competitiveness. Firms often compete by 
+lowering prices, cutting costs, redesigning business processes and downsizing but all these have limits. New 
+approaches to HRM are supported by numerous scholars who call for a more positive HR approaches, for 
+example, engaging employees rather than focusing on problem-coping strategies as vital for employee retention 
+(Luthans & Avolio, 2009; Bakker et al, 2008; Luthans & Youssef, 2007; Avey et al., 2008; Seligman et al., 2005). 
+ 
+Purpose of the Study 
+ 
+The purpose of the study is to establish the mediating role of employee engagement in the relationship between 
+HR practices (antecedents) and OCB in soft drink industry in Uganda in the context of the social exchange theory. 
+ 
+Hypothesis 
+ 
+H1: HR practices (antecedents) are positively correlated with employee engagement; 
+H2: Employee engagement is significantly positively correlated with OCB; 
+H3: After controlling for HR practices (antecedents), employee engagement will predict unique variance in OCB. 
+ 
+Literature Review 
+ 
+The classical approaches to strategic HRM imply that the role of good HR practices is to maximize the 
+contribution of human assets in order to achieve corporate goals (Huselid, 1995). Discussion of HR outcomes 
+suggests that good HR practices act to improve the self confidence and flexibility of the workforce and contribute 
+to increased motivation, morale and OCB, which in turn are related to individual and business performance 
+(Becker & Huselid, 1998, 2006; Appelbaum, 2002; Tamkin, 2004). Because no exact number of practices in the 
+good HR practices ‘bundle’ are agreed upon (Boxall, & Macky, 2007, Delery, 1998; Becker & Huselid, 1997; 
+MacDuffie, 1996; Thompson, 2000; Batt, 2002), this study looks at nine very common set of good HR practices 
+(antecedents) – Job design characteristics, role clarity, material supplies, collaboration/teamwork, reward & 
+recognition, perceived social support, compensation fairness, job security, employee development, which have 
+been found to have impact on HR outcomes ( Rich et al, 2010; Hackman & Oldham, 1980; Xanthopoulou, et al, 
+2009; Seigts & Crim, 2006; Harter et al, 2002; Demerouti & Bakker, 2011; Kahn 1990; Rhoades & Eisenberger, 
+2002; Ryan & Deci, 2000) and hence to test the model in the context soft drink industry in Uganda . 
+ 
+Good HR practices represent the conceptual dimensions of social exchange that manifest not only the norms of 
+exchange from an employer’s point of view, but also specify the resources of exchange between employers and 
+employees. Certain HR practices (e.g., proper job design, training, pay level, benefits level, and job security) 
+reflect higher levels of rewards offered to employees (Shaw et al., 2009; Tsui et al., 1997). On the other hand, 
+certain HR practices, for example, Individual pay-for-performance systems, employee monitoring, and formal 
+performance appraisals reciprocate employer expectations about employee performance levels (Shaw et al., 
+2009). This presents a fair exchange relationship. Thus, from an exchange theory view, good HR practices will 
+likely increase employees’ perceived obligation to the employer, elicit engagement, as well as high in-role 
+performance (Shaw et al 2009). The concept of organizational citizenship behaviours (OCBs) was introduced to 
+the research literature by Organ (Organ, D. W. & Ryan, K., 1995). OCBs are voluntary contributions at work that 
+include altruistic helping behaviours, compliance with work norms and requirements, courtesy to others to ensure 
+smooth working relationships, sportsmanship to maintain performance under adversity, and civic virtue to 
+contribute constructively to issues that arise in the workplace.  
+
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+161 
+OCB has been shown to have significant relations with employee engagement (for example Saks, 2006). 
+Schaufeli and Bakker (2004) suggest that job resources (good HR practices) are related to engagement and 
+engagement is in turn, related to employee outcomes like turnover intention, OCB, and organizational 
+commitment. Previous research has demonstrated that perceptions of the environment are important in predicting 
+work engagement (Alarcon et al., 2008, Saks, 2006). Given that the job resources are expected to predict 
+engagement and engagement predicts outcomes, it is possible that engagement mediates the relationship between 
+the job resources and the outcomes such as job satisfaction, turnover intentions and OCB. This is consistent with 
+the Maslach et al. (2001) model and is more likely given that most of the job resources (e.g. job characteristics, 
+POS,) have been associated with various outcomes. Furthermore, several studies have found that engagement 
+mediates the relationship between antecedent variables and outcomes (Schaufeli and Bakker, 2004; Sonnentag, 
+2003). 
+ 
+Conceptual Framework 
+ 
+Basing on the various theories, models and concepts reviewed in the literature, a conceptual framework linking 
+employee engagement, antecedents and OCB has been developed and tested in this study (figure 1). Empirical 
+studies in this research are discussed in line with the reciprocity framework of the social exchange theory (SET), 
+which proposes that good HR practices (antecedents) influence engagement through the reciprocal exchange of 
+engagement for motivational HR practices which then influences attitudinal and performance outcomes. The nine 
+engagement antecedents studied in this research are job characteristics, role clarity, material adequacy, teamwork, 
+rewards & recognition, perceived social support, compensation fairness, job security and employee development. 
+These antecedents are assumed to separately but also collectively drive employee engagement and engagement 
+influences OCB.  
+ 
+Figure 1: Conceptual Framework: HR Practices (Antecedents), Employee Engagement and OCB 
+ 
+Antecedents (independent Variables) 
+ 
+Mediator  
+ 
+ 
+OCB (depedent variable) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engagement (Mediator) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Derived from review of Literature 
+   
+Methodology 
+ 
+This study using a quantitative cross-sectional survey design (N = 210) examined the relationship between nine 
+antecedents, employee engagement and OCB. Because of the three-step nature of the study variables a regression 
+analysis of the quantitative data was used. The target population was 1,773 employees from four purposively 
+sampled firms in Kampala, Mukono, and Buikwe districts and a sample of 317 different categories of employees 
+were drawn using Krejcie and Morgan’s (1970) table. Out of the 317 questionnaires distributed, 210 usable ones 
+were collected, giving a response rate of 66%.  The instruments used to measure the three variables were 
+standardized instruments used in several empirical studies elsewhere. The antecedents were determined using 58 
+short questions measuring 9 different antecedents. All antecedents had computed (overall scale) reliability 
+coefficient alpha of 0.91. Employee engagement was determined using the 9-scale University of Utrecht Work 
+engagement scales (UWES-9, - Cronbach alpha, 0.84). The dependent variable – organizational citizenship 
+behavior (OCB) was measured using standardized instruments - (seven items - Cronbach alpha, 0.84).  The 
+responses to the questions were elicited on a 4 point Likert type scales of - Strongly Disagree (1), - Disagree (2) - 
+Agree (3),  - Strongly Agree (4).  
+Antecedents
+ 
+Job characteristics 
+ 
+Role clarity 
+ 
+Material adequacy 
+ 
+Teamwork 
+ 
+Rewards/recognition 
+ 
+Perceived social support 
+ 
+Compensation fairness 
+ 
+Job security  
+
+Employee development
+Employee 
+Engagement 
+ 
+Vigour 
+ 
+Dedication 
+ 
+Absorption 
+OCB 
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+162 
+We assumed the relationships between the variables are linear and used a regression equation with the antecedents 
+as independent variables, employee engagement as mediator and OCB as dependent variable:  
+ 
+OCB = α + β1JobCh + β2RoleC + β3Mat + β4Coll + β5Rew + β6PSS + β7CompF + β8JobSe + β9Dev + β10EE (ABS, 
+DED, VIG) + ε 
+ 
+(Key: ABS – Absorption, DED = Dedication, VIG = Vigour, EE – Employee engagement, ε = error term). 
+ 
+Results 
+ 
+Hypothesis 1: Pearson’s correlation analysis showed that employee engagement is significantly positively related 
+to each of the nine antecedents (table 1) – the coefficients ranging from r = .48 to r = .67. The three dimensions of 
+engagement (vigor, absorption and dedication) are also found to be significantly positively related to the 
+antecedents with the correlation coefficient ranging from r = .37 to r=.65. Eight of the nine antecedents showed 
+large effects correlation coefficients (Cohen, 1988), providing empirical support for H1. Employees who scored 
+highly on employee engagement also reported high levels of all the tested antecedents. 
+ 
+Table 1: Correlation – Employee Engagement (V, A, D) and the nine Engagement Antecedents 
+ 
+EE
+Vigor
+ABS
+DED
+JobCh
+Role
+Mat
+Coll
+Rew
+PSS
+CompF
+JobSe
+Dev
+1.Engag’t
+1.00
+2.Vigor
+0.85*  1.00
+3.Absorpt
+0.84*
+0.646
+1.00
+4.Dedicat
+0.86*  0.57*  0.59*  1.00
+5.Job Char
+0.52*  0.46*  0.45*  0.42*  1.00
+6.Role Clar
+0.55*  0.51*  0.47*  0.42*  0.57*  
+1.00
+7.Mater’l
+0.62*  0.56*  0.54*  0.50*  0.53*  
+0.52*  1.00
+8.Collab
+0.67*  0.63*  0.53*  0.55*  0.49*
+0.63*  0.59*
+1.00
+9. Reward
+0.53*  0.54*  0.48*  0.36*  0.50*  
+0.54*  0.50*
+0.55*  1.00
+10.Support
+0.59*  0.57*  0.50*  0.44*  0.55*  
+0.60*  0.61*
+0.65*  0.70*  1.00
+11.Compen
+0.51*  0.52*  0.44*  0.35*  0.41*  
+0.43*  0.55*
+0.57*  0.65*  0.68*  1.00
+12.Job Sec
+0.48*  0.48*  0.34*  0.40*  0.23*  
+0.32*  0.36*
+0.47*  0.42*  0.48*  0.54*  
+1.00
+13.Dev
+0.63*  0.60*  0.54*  0.48*  0.45*  
+0.48*  0.54*
+0.66*  0.64*  0.72*  0.69*  
+0.55*  
+1.00
+ 
+* Significant at 1% Level of significance. Primary Data, 2012 
+ 
+Hypothesis 2: Employee engagement and OCB 
+ 
+As in table 2 the study showed that engagement is significantly positively correlated with OCB (r=0.61, p=0.00), 
+hence providing empirical support for H2. The three dimensions of engagement – vigor (r=0.49, p=0.00), 
+absorption (r=0.58, p=0.00) and dedication (r=0.50, p=0.00) are also significantly positively correlated with OCB. 
+ 
+Table 2: Correlation – Employee Engagement (V, A & D) and OCB 
+ 
+Engagement
+Vigor
+Absorption
+Dedication
+OCB
+Engagement
+1.00
+Vigor
+0.85*
+1.00
+Absorption
+0.84*
+0.64*
+1.00
+Dedication
+0.86*
+0.57*
+0.59*  
+1.00
+OCB
+0.61*
+0.49*
+0.58*  
+0.50*  
+1.00
+ 
+* Significant at 1% Level of significance.  
+ 
+Hypothesis 3: Engagement antecedents, employee engagement and OCB 
+ 
+As seen in table 3, five of the nine antecedents, role clarity (β = .21, p = .01), collaboration (β = .21, p =.01), 
+compensation fairness (β = -.26, p = .00),   job security (β = -.15, p = .03), and development (β = -.31, p = .00) 
+contributed to the prediction of OCB (adj. R2 = .46, p = .00). After controlling for the antecedents, employee 
+engagement contributed unique variance in OCB (∆R2 = .037, p = .00); thus, H3 was supported in this model. 
+These findings suggest that OCB can be predicted by the role clarity, collaboration, compensation fairness, job 
+security and development and employee engagement. Overall, the regression model explained 49% (adj. R2 = 
+.494, p =.00) of the variance in organizational citizenship behavior (large effect size; Cohen, 1988). 
+
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+163 
+ 
+ 
+Table 3: Summary HRA with antecedents, employee engagement (V, A & D) predicting OCB  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Variable 
+ 
+ 
+ 
+ 
+β 
+ 
+R2 
+ 
+Adj.R2  
+p 
+Step 1 
+Job Characteristics 
+ 
+ 
+ 
+.14 
+Role Clarity 
+ 
+ 
+ 
+ 
+.21* 
+ 
+ 
+ 
+ 
+ 
+.01 
+Material resources 
+ 
+ 
+ 
+.10 
+Collaboration  
+ 
+ 
+ 
+.21* 
+ 
+ 
+ 
+ 
+ 
+.01 
+Reward & recognition  
+ 
+ 
+.11 
+ 
+ 
+ 
+ 
+ 
+ 
+Perceived Organize. Support 
+ 
+ 
+-.06 
+ 
+ 
+ 
+ 
+ 
+Compensation fairness  
+ 
+ 
+-.26**  
+ 
+ 
+ 
+ 
+.00 
+Job security 
+ 
+ 
+ 
+ 
+-.15* 
+ 
+ 
+ 
+ 
+ 
+.03 
+Development 
+ 
+ 
+ 
+ 
+-.31**  
+ 
+ 
+ 
+ 
+.00 
+BLOCK 
+ 1 
+ 
+ 
+ 
+ 
+ 
+.481 
+ 
+.457 
+ 
+.00 
+ 
+ 
+Step 2 
+Engagement 
+ 
+ 
+ 
+ 
+.21*  
+ 
+ 
+ 
+ 
+ 
+.01 
+ 
+Vigor  
+ 
+ 
+ 
+-.11 
+ 
+Absorption 
+ 
+ 
+ 
+ .33**  
+ 
+ 
+ 
+ 
+.00 
+ 
+Dedication 
+ 
+ 
+ 
+.06 
+BLOCK 
+ 2 
+ 
+ 
+ 
+ 
+ 
+.523 
+ 
+.494 
+ 
+.00 
+R2 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+.042 
+ 
+.037 
+ 
+.00 
+ 
+ 
+Note ** p< .01,  * p< .05 
+ 
+Summary and Discussion of Results 
+ 
+Hypothesis 1 was supported by the Pearson’s correlation analysis which showed that employee engagement is 
+significantly positively related to each of the nine antecedents – the coefficients ranging from r = .50 to r=.67 at 
+1% level of significance. The three dimensions of engagement (vigor, absorption and dedication) are also found to 
+be significantly positively related to engagement with the correlation coefficients ranging from r =.34 to r=.65. All 
+the antecedents showed large effects correlation coefficients (Cohen, 1988). Discuss of the results of each 
+antecedent variable and its relation to employee engagement now follows. 
+ 
+Job characteristics: Employees who experienced high degree of job characteristics in their jobs were more likely 
+to be engaged (r=0.52, p=0.00). Xanthopoulou et al (2009) found that job resources, including job autonomy, 
+have a positive effect on daily rates of engagement among fast-food employees (n=42). A study by de Lange, et al 
+(2008), found job autonomy, decision making and job design had potential engagement effects and indeed related 
+to levels of engagement over time. Appraising and giving constructive feedback to employees for good 
+performance helps maintain their motivation (Hackman & Oldham, 1980) and consequently engagement as this 
+signals to them that the employer recognizes them and the principle of reciprocity in social exchange theory is 
+invoked (Cropanzano and Mitchel, 2005). 
+ 
+Role Clarity: Employees who experienced high degree of role clarity in their jobs were more likely to be engaged 
+(r=0.55, p=0.00). Role clarity has been studied by Seigts and Crim (2006) under the idea of “convey” 
+(communicate) where leaders clarify work-related expectations for employees. Similar research appears in 
+Spector’s (1997) Job Satisfaction Survey and House et al. (1983) measure of Role Conflict and Ambiguity. 
+Previous studies found role clarity to be positively related to engagement (Buckingham & Coffman, 1999; Harter 
+et al., (2002). When employees get clear role profiles they feel obliged to respond in kind and “repay” the 
+organization in terms of engagement, hence validating the social exchange theory. 
+ 
+Materials adequacy: Employees who experienced high degree of material adequacy in their jobs were more likely 
+to be engaged (r= 0.62, p=0.00). The findings of this study are consistent with Seigts and Crim (2006) that 
+inadequate resources are likely to lead to stress, frustration, and lack of engagement. Materials have been found to 
+be positively related to engagement by both Buckingham and Coffman (1999) and Harter et al. (2002).  
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+164 
+When employees receive adequate resources to work with they feel obliged to respond in kind and “repay” the 
+organization in form of higher engagement – hence validating the SET theory. 
+ 
+Collaboration/Team Work: Employees who experienced high degree of collaboration in their jobs were more 
+likely to be engaged (r=0.67, p=0.00). Collaborative work environments are often characterized by trust and 
+cooperation and may outperform groups which were lacking in positive relationships (Seigts & Crim, 2003). 
+Employee Opinions as cited by Buckingham and Coffman (1999) and Harter et al. (2002) are positively related to 
+engagement. If an employee’s opinion is considered, the employee will feel valued and important and will 
+therefore be willing to emotionally, cognitively and physically engage the self. This finding is in line with the 
+Schaufeli (2002) and Kahn (1990) model and in the spirit of reciprocity expounded by the social exchange theory. 
+ 
+Recognition and Rewards: Employees who experienced high degree of recognition/rewards in their jobs were 
+more likely to be engaged (r=0.53, p=0.00). The findings of this study are consistent with Seigts and Crim (2006) 
+who emphasize that good leaders frequently recognize their employees by congratulating and by coaching them. 
+Recognition has been found to have a weaker but positive relationship to engagement by Harter et al. (2002). This 
+study found a strong positive relation (r=0.53, p=0.00) - (large effect size; Cohen, 1988). Recognition/reward 
+given by the employer is interpreted as a gesture that has to be reciprocated in terms of higher engagement 
+(Cropanzano and Mitchel, 2005). 
+ 
+Perceived Social Support (PSS): Employees who experienced high degree of PSS in their jobs were more likely to 
+be engaged (r=0.59, p=0.00). An important aspect of psychological safety (Kahn, 1992) stems from the amount of 
+care and support employees’ perceive to be provided by their organization as well as their direct supervisor. 
+Supportive work environments allow members to experiment and to try new things and even fail without fear of 
+the consequences (Kahn, 1990; May et al. (2004). Basing on the Social exchange theory, Rhoades et al., (2001) 
+and Saks (2006) posit that PSS creates a reciprocal obligation on the part of employees to care about the 
+organization’s welfare and to help the organization reach its objectives. This is in line with the Schaufeli/Kahn 
+model and the social exchange theory. 
+ 
+Compensation Fairness: Employees who experienced high degree of compensation fairness in their jobs were 
+more likely to be engaged (r=0.51, p=0.00). Compensation fairness refers to the perceptions that employees have 
+regarding equity in company internal and external compensation and benefits. Researchers have found that when 
+pay is fair in comparison with other’s pay, a worker is more likely to be engaged (Milkovich & Newman, 2005; 
+Vandenberghe & Tremblay, 2008). The perceived fairness will compel them to seek to pay back their employer 
+by engagement. This is consistent with and validates the social exchange theory. 
+ 
+Job security: Employees who experienced high degree of job security in their jobs were more likely to be engaged 
+(r=0.48, p=0.00). Once security is assured employees are more likely to be engaged. This study shows that the 
+relation between job security and engagement is relatively low compared to all the other variables considered here 
+- showing medium effect size (Cohen, 1988). This is not surprising as job security is a major concern of many 
+employees in Uganda.  Assurance of job security given by the employer is interpreted as a goodwill that has to be 
+reciprocated in terms of higher engagement (Cropanzano and Mitchel, 2005). 
+ 
+Employee Development: Employees who experienced high degree of employee development in their jobs were 
+more likely to be engaged (r=0.63, p=0.00). Work settings in which employees have opportunities for 
+development provide opportunities for growth and employee motivation and engagement (Hackman & Oldham, 
+1976; Ryan & Deci, 2000). This study found the development - engagement relation (r=0.63, p=0.00) to be one of 
+large effect size (Cohen, 1988). Opportunities for employee development by the employer are interpreted as a 
+benevolence that has to be reciprocated in terms of higher engagement (Cropanzano and Mitchel, 2005). The 
+study findings validate social exchange theory. 
+ 
+Hypothesis 2: Hypothesis 2 stated that there would be a positive correlation between employee engagement and 
+OCB. The results of this study show that engagement was significantly positively correlated with OCB (r=0.61, 
+p=0.00), hence providing empirical support for H2. The three factor dimensions of engagement – vigor (r=0.49, 
+p=0.00), absorption (r=0.58, p=0.00) and dedication (r=0.50, p=0.00) are also significantly positively correlated 
+with OCB. Other studies have also found positive relationships between employee engagement and OCB 
+(Rurkkhum, 2010). Avey et al. (2008) for example, found that employees with psychological capital and positive 
+emotion were likely to have an employee engagement attitude and performed more OCB.  
+
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+165 
+In addition, the result of this study is similar to the finding of Wang (2009) in which a positive and strong 
+relationship between organizational support and OCB was found.  Research by Ensher et al. (2001) also reported 
+that when employees perceived sincere organization support in terms development opportunities, they experience 
+engagement and are more likely to reciprocate by willingly participating in their organization’s non-mandatory 
+activities. 
+ 
+Predictors of Organizational Citizenship Behaviour (OCB)  
+ 
+Hierarchical regression analyses were performed to test H3 which stated that after controlling for selected 
+engagement antecedents - employee engagement will predict unique variance in OCB. Testing the first regression 
+model, in the first block, five of the nine engagement antecedents, role clarity (β = .21, p = .01), collaboration (β = 
+.21, p =.01), compensation fairness (β = -.26, p = .00),   job security (β = -.15, p = .03), and development (β = -
+.31, p = .00) contributed unique variance to the prediction of OCB (adj. R2 = .46, p = .00) in the regression 
+equation. 
+ 
+Figure 2: Predictors of OCB 
+ 
+  
+ 
+β=.21 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+β=.21  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+β=-.26  
+ 
+  
+ 
+ 
+ 
+β=-.31  
+  
+           
+ 
+ 
+ 
+β=-.15  
+ 
+β= -.31 
+β=.33 
+ 
+ 
+ 
+ 
+ 
+Source: Research data 
+ 
+Contributions to Knowledge 
+ 
+The study contributed to prevailing debate about whether there was a direct link between HR practices 
+(antecedents) and firm performance, or that the relationship is mediated by a range of attitudinal and behavioral 
+variables at the individual level. This study filled that gap by proposing that in the Uganda context the 
+antecedents-engagement-OCB relationship is mediated by attitudinal variable - employee engagement. This study 
+also contributed to the debate that aggregate outcome variables used in the existing management literature, such 
+as competitiveness, firm financial performance and organizational effectiveness, are too distal from the micro-
+level HRM interventions, by proposing a more proximal outcome indicator such as OCB to measure individual 
+HRM outcomes (Wright & Haggerty, 2005; Purcell & Kinnie, 2007; Paauwe, 2004). Besides, most of the studies 
+that have been conducted on the predictors of employee engagement and their outcomes in recent years were 
+mostly centered on the Western world such as the United States (Britt, 2003; May, Gilson, & Harter, 2004), 
+Netherlands (Schaufeli & Bakker, 2004; Xanthopoulou, Bakker, Demerouti, & Schaufeli, 2007), Spain (Salanova, 
+et al., 2005), Finland (Hakanen, Bakker, & Schaufeli, 2006; Mauno, Kinnunen, & Ruokolainen, 2007), Greece 
+(Xanthopoulou, et al., 2009), Norway (Martinussen, Richardsen, & Burke, 2007). This study filled that research 
+gap in the Uganda among employees of soft drink firms. 
+ 
+Conclusions 
+ 
+Variations in OCB in Uganda context can be explained by the changes in employee engagement which in itself is 
+influenced by changes in HR practices. Employee engagement is therefore a significant mediator between the HR 
+practices and OCB.  
+Role clarity
+Collaboration
+Compensation 
+fairness 
+Job security 
+Development 
+ 
+OCB 
+ 
+Engagement 
+(Absorption) 
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+166 
+This research has validated and extended the engagement and social exchange theory by establishing that role 
+clarity, collaboration, compensation fairness, job security, and development are significant predictors of OCB. 
+ 
+Recommendations 
+ 
+Arising from the findings of this research, the following recommendations are made: Hypothesis 1: To enhance 
+employee engagement, practitioners should ensure that each of the nine antecedents in their businesses are 
+nurtured - job characteristics, role clarity, material resources, collaboration, reward & recognition, perceived 
+social support, compensation fairness, job security and development. Hypothesis 2: To reap the benefits of 
+employee engagement and increase OCB it is recommended that business should use the finding of this study to 
+develop interventions and strategies for improvement of employee engagement and OCB among employees. 
+Hypothesis 3: since role clarity, collaboration, compensation fairness, job security, and development as well as 
+employee engagement are significant predictors of OCB, managers need to appreciate role of social exchange in 
+liking these antecedents and OCB. 
+ 
+Limitations of the study 
+ 
+This study used a cross-sectional research design as opposed to a longitudinal research design. Longitudinal and 
+experimental studies are required to provide more definitive conclusions about the causal effects of employee 
+engagement and the extent to which social exchange explains these relationships. In addition, much of the data 
+came from a self-reported questionnaire. This could affect the reliability and validity of the data because 
+respondents may have answered the questions to reflect more socially acceptable responses rather than ones that 
+reflect their real opinions. Although the results of this study might have been affected by method bias, statistical 
+results give us confidence in the results.  
+ 
+Suggestions for future Research 
+ 
+Future research on OCB, engagement and antecedents should not be limited to a quantitative paradigm. 
+Qualitative studies might assist in better understanding the phenomenon under study. To replicate this study, 
+structural equation modelling (SEM) as well as longitudinal studies could be used to capture changes in the 
+variables over periods of time. Future research should examine distant antecedents such as personality variables 
+as well as demographic and culture variables that might influence the development of employee engagement, as 
+well as outcomes like productivity, profitability, and competitiveness. Future researchers should expand the 
+sample to include the entire food and beverage industry. A comparative study could also be done with the service 
+industry. A study could also concentrate of the five antecedents which emerged significant – collaboration, reward 
+& recognition, perceived organizational support, compensation fairness, and development. Instead of the 
+intermediate outcome – OCB, future research should consider final outcomes like productivity, profitability, 
+customer satisfaction, competitiveness. 
+ 
+References 
+ 
+Allen, D.G., Shore, L.M. and Griffeth, R.W. (2003). ‘The Role of Perceived Organizational Support and Supportive 
+Human Resource Practices in the Turnover Process’, Journal of Management, 29(1): 99–118. 
+Allen, N. J., & Meyer, J. P. (1990). The measurement and antecedents of affective, continuance and normative 
+commitment to the organization. Journal of Occupational Psychology, 63, 1-18. 
+Appelbaum, E. (2002). The impact of new forms of work organization on workers. In: Murray, G. (Eds.) Work and 
+employment relations in the high-performance workplace. London: Continuum, 120–149. 
+Avey, J. B., Wernsing, T. S., & Luthans, F. (2008). Can positive employees help positive organizational change?: 
+Impact of psychological capital and emotions on relevant attitudes and behaviors. Journal of Applied 
+Behavioral Science, 44 (1), 48-70. 
+Bakker, A. B. & Schaufeli, W.B. (2008). Positive organizational behavior: Engaged employees in flourishing 
+organizations. 
+Journal 
+of 
+Organizational 
+Behavior. 
+Published 
+online 
+in 
+Wiley 
+InterScience 
+(www.interscience.wiley.com) DOI: 10.1002/job.515 
+Bakker, A. B., Van Veldhoven, M. J. P. M., & Xanthopoulou, D. (2011). Beyond the Demand-Control model: Thriving 
+on high job demands and resources. Journal of Personnel Psychology, 9, 3−16. 
+Becker, B. and Huselid, M. (1998). High performance work systems and firm performance: a synthesis of research and 
+managerial implications. Research in Personnel and Human Resources Management, 16, 53-102. 
+
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+167 
+Becker, B. E. and Huselid, M. A. (2006). Strategic human resources management: where do we go from here? Journal 
+of Management, 32(6), 898-92 
+Blau, P. (1964). Exchange and Power in Social Life. New York: John Wiley & Sons. 
+Bosalie, P. and Dietz, G. (2003). “Commonalities and Contradictions in Research on Human Resource Management 
+and Performance”. Academy of Management Conference, Seattle, August. 
+Boxall, P. and Macky, K. (2007). High-performance work systems and organizational performance: bridging theory 
+and practice. Asia Pacific Journal of Human Resources, 45(3), 261-270. 
+Boxall, P., & Purcell, J. (2008). Strategy and human resource management (2nd ed.). Basingstoke, UK: Palgrave 
+Macmillan. 
+Buckingham, M., & Coffman, C. (1999). First, break all the rules; What the world’s greatest managers do differently. 
+New York: Simon and Schuster. 
+Chalofsky, N., & Krishna, V. (2009). Meaningfulness, Commitment, and Engagement: The Intersection of a deeper 
+Level Intrinsic Motivation. Advances in Developing Human Resources, 11, 189–203. 
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences. San Diego, CA: Academic Press. 
+Combs, J., Liu Y., Hall, A., & Ketchen, D. (2006). How much do high-performance work practices matter? A meta-
+analysis of their effects on organizational performance. Personnel Psychology, 59(3), 501-528. doi: 
+10.1111/j.1744-6570.2006.00045.x 
+Cropanzano, R. and Mitchell, M.S. (2005). “Social exchange theory: an interdisciplinary review”, Journal of 
+Management, Vol. 31, pp. 874-900. 
+Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to work attitudes, job 
+performance, and organizational citizenship behaviors. Journal of Applied Psychology, 88, 160–169. 
+Crown Beverages Ltd (2014). Our history. Retrieved October 15, 2014, from http://www.pepsi-cola.co.ug/ 
+Datta, D. K., Guthrie, J. P., & Wright, P. M. (2005). Human resource management and labor productivity: Does 
+industry matter? Academy ofManagement Journal, 48, 135–145. 
+De Lange, A. H., de Witte, H., & Notelaers, G. (2008). Should I stay or should I go? Examining longitudinal relations 
+among job resources and work engagement for stayers versus movers. Work & Stress, 22(3), 201-223. 
+Delbridge, R., and Keenoy, T. (2010), ‘Beyond Managerialism?’ The International Journal of Human Resource 
+Management, 21, 799–817. 
+Delery, J.E. (1998). “Issues of Fit in Strategic Human Resource Management: Implications for Research”. Human 
+Resource Management Review, 8:3 
+Demerouti, E., & Bakker, A.B. (2011). The Job Demands–Resources model: Challenges for future research. SA 
+Journal of Industrial Psychology, 37(2), Art. #974, 9 pages 
+Demo, G., Neiva, E.R., Nunes, I., Rozzett, K. (2012). Human resource management policies and practices scale: 
+Exploratory and confirmatory factor analysis. Brazilian Administrative Review, BAR, 9: 4, 395-420 
+Emerson, R. M. (1976). Social exchange theory. In A. Inkeles (Ed.), Annual review of sociology, vol. 2: 335– 362. 
+Palo Alto, CA: Annual Reviews. 
+Ezzamel, M., Lilley, S., & Willmott, H (1996). Practices and practicalities in human resource management. Human 
+Resource Management Journal, 6(1), 63-80. doi: 10.1111/j.1748-8583.1996.tb00397.x 
+Field, L.K., & Buitendach, J.H. (2011). Happiness, work engagement and organisational commitment of support staff 
+at a tertiary education institution in South Africa. SA Journal of Industrial Psychology/SA Tydskrif vir 
+Bedryfsielkunde, 37 (1), Art. #946. 
+Frenkel, S., Restubog, S. L. D., & Bednall, T. (2012). How employee perceptions of HR policy and practice influence 
+discretionary work effort and co-worker assistance: evidence from two organizations. The International Journal 
+of Human Resource Management, 23(20), 4193-4210. doi: 10.1080/09585192.2012.667433 
+Gerhart, B., & Rynes, S. L. (2003). Compensation: Theory, evidence, and strategic implications. Thousand Oaks, CA: 
+Sage. 
+Gouldner, A. (1960). The norm of reciprocity. American Sociological Review, 25(2), 161-178. 
+Guest, D. E. (2002). Human resource management, corporate  performance and employee wellbeing: Building the 
+worker into HRM. Journal of Industrial Relations, 44, 335–358. 
+Guest, D. E. & Conway, N. (2004). Employee Well-being and the Psychological Contract. London: The Chartered 
+institute of Personnel Development. 
+Guest, D. E., & Conway, N. (2011). The impact of HR practices, HR effectiveness and a ‘strong HR system’ on 
+organizational outcomes: a stakeholder perspective. The International Journal of Human Resource 
+Management, 22(8), 1686-1702. doi: 10.1080/09585192.2011.565657 
+Guest, D. E. & Hoque, K. (1994). Yes, personnel does make a difference. Personnel Management, 26(11), 40-43. 
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+168 
+Guest, D. E. (2011). ‘Human Resource Management and Performance: Still Searching for Some Answers,’ Human 
+Resource Management Journal, 21, 3–13. 
+Hackman, J. R., & Oldham, G. R. (1976). Motivation through the design of work: Test of a theory. Organizational 
+Behavior and Human Performance, 16, 250−279. 
+Hackman, J. R., & Oldham, G. R. (1980). Work redesign. MA: Addison-Wesley, Reading. 
+Hallberg, U. E., & Schaufeli, W.B. (2006). "Same Same" but different? Can work engagement be discriminated from 
+job involvement and organisational commitment? European Psychologist, 11 (2), 119-127. 
+Harter, J. K., Schmidt, F.L., & Hayes, T.L. (2002). Business-unit-level relationship between employee satisfaction, 
+employee engagement, and business outcomes: a meta-analysis. Journal of Applied Psychology, 87 (2), 268-
+279. 
+Homans, G. C. (1958). Social behavior as exchange. The American Journal of Sociology. 63(6), 597-606. 
+Homans, G. C.(1961). Social Behavior. New York: Harcourt, Brace & World. 
+House, R. J., Schuler, R. S., & Levanoni, E. (1983). Role conflict and ambiguity scales: Reality or artifacts? Journal of 
+Applied Psychology, 68(2), 334-337. 
+Huselid, M., Becker, B. (1997).The impact of high performance work systems, implementation effectiveness, and 
+alignment with strategy on shareholder wealth, Academy of Management Proceedings, 144-148. 
+Huselid, M. A. (1995). The impact of human resource management practices on turnover, productivity, and corporate 
+financial performance. Academy of Management Journal, 38(3), 635-672. 
+Jackson, L.T.B., Rothmann, S., & Van de Vijver, F.J.R. (2006). A model of work-related well-being for educators in 
+South Africa. Stress and Health, 22, 263–274. 
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. The Academy of 
+Management Journal, 33(4), 692-724. 
+Kahn, W.A. (1992), “To be full there: psychological presence at work”, Human Relations, Vol. 45, pp. 321-49. 
+Kanste, O. (2011). Work engagement, work commitment and their association with well-being in health care. Scand J 
+Caring Sci; 25; 754–761 
+Katou, A. A. (2012). Investigating reverse causality between human resource management policies and organizational 
+performance 
+in 
+small 
+firms. 
+Management 
+Research 
+Review, 
+35(2), 
+134-156. 
+doi: 
+10.1108/01409171211195161 
+Kim, A., & Lee, C. (2012). How does HRM enhance strategic capabilities? Evidence from the Korean management 
+consulting industry. The International Journal of Human Resource Management, 23(1), 126-146. doi: 
+10.1080/09585192.2011.561247 
+Kuvaas, B. (2008), ‘An Exploration of How the Employee–Organization Relationship Affects the Linkage Between 
+Perception of Developmental Human Resource Practices and Employee Outcomes,’ Journal of Management 
+Studies, 45, 1–25. 
+Krejcie, R. V. and Morgan, D. W. (1970). Determining Sample Size for Research Activities. Educational and 
+Psychological Measurement, 30, 607 – 610. 
+Locke, E. A. (1976). The nature and causes of job satisfaction. Handbook of industrial and organizational psychology, 
+1319-1328. 
+Luthans, F. & Youssef, C.M. (2007). ‘Emerging positive organisational behaviour’, Journal of Management, 33(3): 
+321–349. 
+Luthans, F. and Avolio, B. J. (2009). The "point" of positive organizational behavior. Journal of Organizational 
+Behavior, 30(2), 291-307. 
+Macey, W. H., & Schneider, B. (2008). The meaning of employee engagement. Industrial and Organisational 
+Psychology, 1, 3-30. 
+MacDuffie, J. P. (1996). “Human Resource Bundles and manufacturing Performance: Organizational logic and flexible 
+production systems in world auto industry”. Industry and Labour relations Review, 48:2 
+Maertz, C. P., Jr., & Griffeth, R. W. (2004). Eight motivational forces and voluntary turnover: A theoretical synthesis 
+with implications for research. Journal of Management, 30: 667–683. 
+Majumder, M. T. H. (2012). HRM practices and employees’ satisfaction towards private banking sector in Bangladesh. 
+International Review of Management and Marketing, 2(1), 52-58. 
+May, D. R., Gilson, R.L., & Harter, L.M. (2004). The psychological conditions of meaningfulness, safety and 
+availability and the engagement of the human spirit at work. Journal of Occupational and Organisational 
+Psychology, 77, 11-37. 
+Milkovich, G. T., & Newman, J. M. (2005). Compensation, 8th ed. Boston, MA: McGraw-Hill. 
+Ministry of Tourism, Trade and Industry (2008). National Industrial Policy; A frame work for Uganda’s 
+Transformation, Competitiveness and Prosperity”, accessed on October 20, 2014 from, http://mtti.go.ug 
+
+International Journal of Business and Social Science                                             Vol. 6, No. 9(1); September 2015 
+ 
+169 
+Ministry of Tourism, Trade and Industry, (2004). Policy Framework for Industrialisation in Uganda, accessed on 
+October 12 2014, from http://mtti.go.ug 
+Ministry of Tourism, Trade and Industry/UNIDO, (2007). Uganda: Integrated Industrial Policy for Sustainable 
+Industrial Development and Competitiveness, accessed on October 15, 2014 from https://www.unido.org  
+New Vision (2015, June 2): Focus on manufacturing business. A New Vision editorial supplement. 
+Nowack, K. (2011).  Employee Engagement, Job Satisfaction, Retention and Stress. Envisia Learning Consulting, 
+accessed on August 15, 2012 from http://www.envisialearning.com. 
+Nyanzi, 
+P. 
+(2012). 
+Uganda 
+drops 
+in 
+competiveness, 
+accessed 
+on 
+October 
+12, 
+2014 
+from, 
+http://www.independent.co.ug/business/business-news/6482-uganda-drops-in-competitiveness-
+#sthash.RYodTCdp.dpuf 
+Organ, D. W., & Ryan, K. (1995). A meta-analytic review of attitudinal and dispositional predictors of organizational 
+citizenship behavior. Personal Psychology, 48 (4), 775-802.  
+Paauwe, J. (2004). HRM and firm performance. Oxford, UK: Oxford University Press. 
+Park, J. & Gursoy D. (2011). “Generation Effect on the Relationship between Work Engagement, Satisfaction, and 
+Turnover Intention among US Hotel Employees”. A research paper of the School of Hospitality Business 
+Management College of Business, Washington State University 86 (3), 493-522. 
+Porter, L.W., Steers, R.M., Mowday, R.T. & Boulian, P.V. (1974). ‘Organizational commitment, job satisfaction, and 
+turnover among psychiatric technicians’, Journal of Applied Psychology, vol. 59, no. 5, pp. 603-609. 
+Purcell, J. (2013), ‘Employee Voice and Engagement,’ in Employee Engagement in Theory and Practice, eds. C. Truss, 
+K. Alfes, R. Delbridge, A. Shantz, and E.C. Soane, London: Routledge. 
+Purcell, J., & Kinnie, N. (2007). HRM and business performance. In P. Boxall, J. Purcell, & P. Wright (Eds.), The 
+Oxford handbook of human resource management (pp. 533–551). Oxford, UK: Oxford University Press. 
+Reio, T. G., Ghosh, R. (2009). Antecedents and outcomes of workplace incivility: Implications for human resource 
+development research and practice. Human Resource Development Quarterly, 20, 237-264. 
+Rhoades, L., & Eisenberger, R. (2002). Perceived organizational support: A review of the literature. Journal of Applied 
+Psychology, 87, 698-714. 
+Rhoades, L., Eisenberger, R., & Armeli, S. (2001). Affective commitment to the organization: The contribution of 
+perceived organizational support. Journal of Applied Psychology, 86, 825-836. 
+Rich, B. L., LePine, J. A., & Crawford, E. R. (2010). Job engagement: Antecedents and effects on job performance. 
+Academy of Management Journal, 53, 617-635. 
+Robinson, D., Perryman, S., & Hayday, S. 2004. The drivers of employment engagement. Brighton. Institute for 
+Employment Studies, UK: report 408. 
+Rothmann, S., & Jordaan, G.M.E. (2006). Job demands, Job Resources and work Engagement if Academic Staff in 
+Southern African Higher Education Institutions. South African Journal of Industrial Psychology, 32, 87–96. 
+Rothmann, S., & Rothmann, S. (2010). Factors associated with employee engagement in South Africa. SA Journal of 
+Industrial 
+Psychology/SA 
+Tydskrif 
+vir 
+Bedryfsielkunde, 
+36(2), 
+Art. 
+#925, 
+12 
+pages, 
+DOI: 
+10.4102/sajip.v36i2.925 
+Rurkkhum, S. (2010). The relationship between employee engagement and Organizational Citizenship Behavior in 
+Thai organizations. PhD Dissertation of the graduate school of the university of Minnesota. 
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social 
+development and well-being. The American Psychologist, 55, 68−78. 
+Saks, A. M. (2006). Antecedents and consequences of employee engagement. Journal of Managerial Psychology, 
+21(7), 600-619. 
+Saks, A.M. (2008). ‘The meaning and bleeding of employee engagement: How muddy is the water?’, Industrial and 
+Organizational Psychology, 1, 2008, 40-43. 
+Salanova, M., & Schaufeli, W.B. (2008). A cross-national study of work engagement as a mediator between job 
+resources and proactive behaviour. The International Journal of Human Resource Management, 19(1), 116-
+131. 
+Schaufeli, W. B. and Bakker A. B. (2003). UWES – Utrecht Work Engagement Scale. Preliminary Manual (Version 1). 
+Utrecht University: Occupational Health Psychology Unit, Utrecht/Valencia. 
+Schaufeli, W. B., Salanova, M., Gonzalez-Roma, V., & Bakker, A. B. (2002). The measurement of engagement and 
+burnout: A two sample confirmatory factor analytic approach. Journal of Happiness Studies, 3, 71-92.  
+Schaufeli, W.B. (2013). What is engagement? In C. Truss, K. Alfes, R. Delbridge, A. Shantz, & E. Soane (Eds.), 
+Employee Engagement in Theory and Practice. London: Routledge. 
+Schneider, B., & Bowen, D. (1985). Employee and customer perceptions of service in banks: replication and extension. 
+Journal of Applied Psychology, 70(3), 423-433. doi: 10.1037/0021-9010.70.3.423 
+
+ISSN 2219-1933 (Print), 2219-6021 (Online)            © Center for Promoting Ideas, USA            www.ijbssnet.com 
+ 
+170 
+Seigts, G. H., & Crim, D. (2006). What engages employees the most or, the ten C’s of employee engagement. Ivey 
+Business Journal, March/April, 1-5. 
+Seligman, M.E.P., Steen, T.A., Park, N. & Peterson, C. (2005). Positive Psychology progress: empirical validation of 
+interventions, American Psychologist, 60, 410–421. 
+Shaw, J. D., Delery, J. E., Jenkins, G. D., Jr., & Gupta, N. (1998). An organizational-level analysis of voluntary and 
+involuntary turnover. Academy of Management Journal, vol. 41, 511–525. 
+Shaw, J.D., Dineen, B.R., Fang, R. and Vellella, R.F. (2009). Employee-Organization Exchange Relationships, HRM 
+Practices, and Quit Rates of Good and Poor Performers. Academy of Management Journal, Vol. 52, No. 5, 
+1016–1033. 
+Shuck, B., & Wollard, K. (2010). Employee engagement and HRD: A seminal review of the foundations. Human 
+Resource Development Review, 9 (1) 89-110. Doi: 10.1177/1534484309353560 
+Snape, E., and Redman, T. (2010), ‘HRM Practices, Organizational Citizenship Behaviour, and Performance: A Multi-
+Level Analysis,’ Journal of Management Studies, 47, 1219–1247. 
+Spector, P. E. (1997). Job satisfaction: Application, assessment, causes, and consequences. Sage Publications, Inc, 
+Thousand Oaks, CA, US.  
+Sun, L.-Y., Aryee, S., & Law, K. S. (2007). High performance human resource practices, citizenship behavior, and 
+organizational performance: A relational perspective. Academy of Management Journal, 50, 558–577. 
+Tamkin, P. (2004). High Performance Work Practices. Institute for Employment Studies. Brighton 
+Teng, C. I., Huang, K. W. and Tsai, I. L. (2007). Effects of personality on service quality in business transactions. 
+Service Industries Journal, 27(7-8), 849-863. 
+Thompson, M. (2000). The competiveness challenge: The bottom line benefits of strategic human resources, DTI. 
+Towers Perrin HR Services. (2003). Working today: Understanding what drives employee engagement. The 2003 
+Towers Perrin Talent Report. 
+Townsend, K., Wilkinson, A., and Burgess, J. (2013), ‘Routes to Partial Success: Collaborative Employment Relations 
+and Employee Engagement,’ The International Journal of Human Resource Management, DOI: 
+10.1080/09585192.2012.743478. 
+Tsui, A. S., Pearce, J. L., Porter, L. W., & Tripoli, A. M. (1997). Alternative approaches to the employee-organization-
+relationship: Does investment in employees pay off? Academy of Management Journal, 40: 1089–1121. 
+Uganda, 
+Government 
+of 
+(2013). 
+Uganda 
+Vision 
+2040, 
+accessed 
+on 
+October 
+18th 
+2014 
+from, 
+http://gov.ug/content/uganda-vision-2040 
+Uysal, G. (2012). For the development of effective HRM systems: inter-relationships between HRM practices using 
+correlation analysis. World Review of Entrepreneurship, Management and Sustainable Development, 8(1), 1-
+12. doi: 10.1504/WREMSD.2012.044483 
+Vandenberghe, C., & Tremblay, M. (2008). The role of pay satisfaction and organizational commitment in turnover 
+intentions: A two-sample study. Journal of Business Psychology, 22, 275-286. 
+Weiss, H. M. & Brief, A. P. (2001). Affect at work: An historical perspective. R. L. Payne and C. L. Cooper (Eds.) The 
+Psychology of Work: Theoretically Based Empirical Research. Hillsdale, NJ: Lawrence Erlbaum.  
+Weiss, H. M. (2002). Deconstructing job satisfaction: Separating evaluations, beliefs and affective experiences. Human 
+Resource Management Review, 12, 173-194. 
+World Economic Forum (2014). The Global Competitiveness Report 2014-2015, accessed on October 5, 2014, from 
+http://www.weforum.org/gcr 
+Wright, P. M., Gardner, T. M., Moynihan, L. M., & Allen, M. R. (2005). The relationship between HR practices and 
+firm performance: Examining causal order. Personnel Psychology, 58, 409–446. 
+Wright, P. M., & Haggerty, J. J. (2005). Missing variables in theories of strategic human resource management: Time, 
+cause, and individuals. Management Revue, 16, 164–173. 
+Xanthopoulou, D., Bakker, A.B., Demerouti, E., & Schaufeli, W.B. (2009). Work engagement and financial returns: A 
+diary study on the role of job and personal resources. Journal of Occupational and Organisational Psychology, 
+82, 183-200. 

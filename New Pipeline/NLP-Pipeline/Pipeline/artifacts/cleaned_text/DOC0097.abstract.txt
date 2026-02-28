@@ -1,0 +1,315 @@
+The issue of access to clean drinking water continues to be a great struggle in various
+rural locations where the sources of groundwater are becoming more and more polluted
+with heavy metals and other inorganic substances. At the same time, heavy metals such
+as lead (Pb2+) and copper (Cu2+) are classified as hazards of the highest order due to their
+toxic nature, persistence, and bioaccumulation (Tchobanoglous et al., 2014). A study on
+water quality in Kyabalogo Village, Nakisunga Sub-county, Mukono District, Uganda,
+indicated the existence of Pb and Cu in the spring water exceeding the tolerable limits
+for drinking water. Therefore, the water cannot be used in households without prior
+purification.
+The current work is focused on the application of natural zeolite as an inexpensive and
+effective adsorbent to purify the spring groundwater by removing Pb2+ and Cu2+ at the
+household level. Previous literature shows that divalent heavy metals can be taken away
+by zeolites by 80–95% via ion-exchange processes, where the ions of the heavy metals
+Pb2+ and Cu2+ in the solution replace the cations (e.g., Na+, K+, Ca2+) that are in the
+zeolite lattice (Misaelides, 2011). The results of this research work are expected to
+provide a cheap and an eco-friendly approach solution for the rural water treatment
+community. (Wang & Peng, 2010).
+
+ii
+
+DECLARATION
+I, LUBULWA IVAN JOSEPH hereby declare that this final year research project entitled;
+Use of modified zeolites in ground water treatment at household level a case study of
+Kyabalogo Village, Nakisunga Sub-County is mine. I personally typed this report on my
+own and it has never been forwarded to any institution or organization for an award of
+any qualification. I therefore strongly confirm without any doubt and in my right state of
+mind, that this is my original work.
+
+Signature: .................................
+Date:
+......................................
+LUBULWA IVAN JOSEPH.
+M22B32/050
+
+iv
+
+APPROVAL
+
+I certify that this report is for LUBULWA IVAN JOSEPH Registration Number M22B32/050.
+I fully accept that he has been under my supervision and so submitted to the Faculty of
+Engineering, Design and Technology in partial fulfillment of a Bachelor of Science
+Degree in Civil and Environmental Engineering from Uganda Christian University.
+
+Mr. Baagala Brian Sempijja
+
+Academic Supervisor (Uganda Christian University)
+
+Signature:.....................................
+
+Date:...........................................
+
+v
+
+ACKNOWLEDGEMENT
+“It is impossible to accomplish anything significant without the tireless input of
+dedicated people” First of all, I acknowledge the lord my heavenly father for bestowing
+upon me a unique combination of gifts, talents as well as resourceful people who have
+enabled me to reach this far. “He lifted me out of miry clay and set my feet upon rocks
+and established my steps in the most troubling time” (psalms 40:2)
+I extend my appreciation to my lecturers at the Department of Engineering and
+Environment for their positive criticism that has constantly helped me refine my project
+concept and most importantly my supervisor Mr. Brian Sempijja for his extensive
+contribution in giving me guidance during all the engagements and works done
+throughout the entire project period.
+I am profoundly grateful to all respondents, especially the local people that use the
+Springs for domestic use and I also cannot forget to thank my Project Partner Mr. Mukizi
+Octave for all his support and guidelines that I needed for the success of this training
+practice. Great appreciation goes to my parents for their financial support, prayers and
+continuous career guidance towards my academic journey.
+Finally I would like to express my utmost and sincere gratitude to the management of
+Uganda Christian University particularly Faculty of Engineering, Design and Technology
+for giving us this opportunity to carry out research and gain more expertise in the
+education field.
+
+MAY GOD BLESS YOU ALL.
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................... i
+DECLARATION ...................................................................... i
+APPROVAL .......................................................................... iv
+ACKNOWLEDGEMENT .............................................................. v
+LIST OF FIGURES .................................................................. ix
+LIST OF TABLES ................................................................... xi
+LIST OF ABBREVIATIONS ........................................................ xii
+CHAPTER ONE: INTRODUCTION .................................................. 1
+1.1 BACKGROUND .................................................................. 1
+1.2 PROBLEM STATEMENT ......................................................... 2
+1.3 OBJECTIVES OF STUDY ........................................................ 3
+1.3.1 Main objective ............................................................ 3
+1.3.2 Specific objectives ....................................................... 3
+1.4
+Research questions ....................................................... 4
+1.5 JUSTIFICATION ................................................................. 4
+1.6 GEOGRAPHICAL SCOPE ....................................................... 5
+1.6.1 CONTENT SCOPE ......................................................... 6
+1.6.2 TIME SCOPE ............................................................... 6
+CHAPTER TWO: LITERATURE REVIEW ........................................... 7
+2.0 Introduction .................................................................... 7
+2.1 Heavy metals .................................................................. 7
+
+vii
+
+2.2 Copper .......................................................................... 7
+2.3 Lead ............................................................................. 9
+2.4 Methods of removing heavy metals from water. ........................ 11
+2.5 Adsorption .................................................................... 14
+2.6 Use of natural zeolite in treatment. ..................................... 15
+2.6.1 Adsorption .............................................................. 16
+2.6.2 Ion Exchange ............................................................ 16
+2.7 Catalytic Oxidation ......................................................... 17
+2.7.1 pH Adjustment ......................................................... 17
+2.8 Modification of natural zeolites for use. ................................. 17
+CHAPTER THREE: METHODOLOGY ............................................. 19
+3.0 Introduction .................................................................. 19
+3.1 Determination of the Physico-Chemical Characteristics of Raw
+Groundwater from Three Selected Springs in Kyabalogo Village, Sub-
+County ............................................................................. 22
+3.1.1 Area of study ........................................................... 19
+3.1.2 Sampling procedure .................................................... 21
+3.1.3 Measuring In-situ Parameters ........................................ 22
+3.2 Determining the concentration of (Cu) and (Fe) in the water samples
+..................................................................................... 23
+3.2.1 Material Preparation ................. Error! Bookmark not defined.
+3.2.2 Preparation and Modification of Zeolite ..... Error! Bookmark not
+defined.
+
+viii
+
+3.3 Determination of removal efficiency of Zeolites. ...................... 24
+3.3.1 Designing an adsorption system ...................................... 26
+3.3.2 Design of simple household treatment system. ................... 27
+CHAPTER FOUR: RESULTS AND DISCUSSION .................................. 28
+4.0 Introduction .................................................................. 28
+4.0.1 pH ........................................................................ 29
+4.1 Electrical Conductivity (EC) ............................................... 30
+4.1.1 Total Dissolved Solids (TDS) .......................................... 31
+4.1.2 Heavy metal concentrations (Cu and Pb) ........................... 32
+4.2 DETERMINATION OF PERCENTAGE REMOVAL FOR ZEOLITES. .......... 35
+4.2.1 Percentage Removals at different depths .......................... 35
+4.2.3 Total Dissolved Solids ................................................. 39
+4.3.1 MAXIMUM ALLOWABLE LEAD CONCENTRATION (Pb2 .............. 45
+4.3.2 MAX ALLOWABLE CONCENTRATION OF COPPER (Cu2+ ............ 45
+4.4 Summary of Column Design for Full-Scale Implementation ........... 49
+SYSTEM DIMENSIONS ............................................................. 50
+5.1 Conclusion ................................................................... 52
+5.2 Recommendations .......................................................... 53
+References ........................................................................ 55
+Appendix A.PICTORIAL........................................................... 66
+Appendix B: laboratory results ................................................ 70
+
+ix
+
+LIST OF FIGURES
+Figure 1 : Research design flow chart ......................................................... 19
+Figure 2 ferric Chloride Figure 3 sieve anaylsis Figure 4 process of sieve analysis
+..................................................................................................... 25
+Figure 5 : Mean pH values for samples of A,B and C n = 3. ................................ 30
+Figure 6: Average values of EC for the three sampling springs points A, B and C ...... 31
+Figure 7: Average values for TDS for the three different springs A, B and C .......... 32
+Figure 8: Average concentration of Copper in Springs A, B and C ........................ 35
+Figure 9 : Average concentration of Lead in Springs A, B and C .......................... 35
+Figure 10 : Mean pH values for samples of A,B and C at different depths n = 3. ...... 37
+Figure 11 : Average values of EC for the three springs at different depths with treated
+and natural zeolite .............................................................................. 38
+Figure 12 : Average values of TDS at different removal depths for the three different
+springs ............................................................................................. 40
+Figure 13 : Percentage removal for Copper at different depths .......................... 42
+Figure 14: Percentage removal for Lead at different depths ............................. 43
+Figure 15: Breakthrough Curve for the Small-Scale Column Test ......................... 49
+Figure 16 : 2mm zeolite particles ............................................................... 67
+Figure 17: Automated system for testing jeavy metals indicators in water .................. 67
+Figure 18 .......................................................................................... 67
+Figure 19 .......................................................................................... 67
+Figure 20 .......................................................................................... 67
+
+x
+
+Figure 19: Different layers of prepared zeolites ............................................ 67
+Figure20: Anaylsing raw data from the heavy metal analysis ............................. 67
+Figure 21: column test experiment ........................................................... 67
+Figure 22: Zeolite rocks obtained from Mbale ............................................... 68
+Figure 22: Testing the automated system I develop during the project ................. 68
+Figure 23: Ferric chloride....................................................................... 68
+Figure 24: Zeolite rocks sorted to obtain the ones with high zeolite concentration .. 68
+Figure 25: Sieve analysis ........................................................................ 68
+
+xi
+
+LIST OF TABLES
+Table 1: Limitations of the conventional methods of heavy metal removal in water
+(Source: Senanu, 2023;Gahrouei, 2024;Wang et al,2025 .................................. 12
+Table 2: Summary of results .................................................................... 28
+Table 3 : Average Heavy Metal Levels at Sampling Points A, B and C ................... 33
+
+xii
+
+LIST OF ABBREVIATIONS
+APHA
+American Public Health Association
+Pb
+Lead
+US/EAS
+Uganda Standard/East African Standard
+Cu
+Copper
+EC
+Electrical Conductivity
+FAAS
+Flame Atomic Absorption Spectroscopy
+CEC
+Cation Exchange Capacity
+AF
+Adsorption Frequency
+FTIR
+Fourier Transforms Infrared Spectroscopy
+MWE
+Ministry of Water and Environment
+NBL
+Nile Breweries Limited
+NWSC
+National Water and Sewerage Corporation
+TDS
+Total Dissolved Solids
+
+xiii
+
+ICP-MS
+Inductively Coupled Plasma–Mass Spectrometry
+UBOS
+Uganda Bureau of Statistics
+UNBS
+Uganda National Bureau of Standards
+US: EAS
+Uganda Standards East Africa Standards
+GIS
+Geographical Information System
+WHO
+World Health Organization
+
+CHAPTER ONE: INTRODUCTION
+This chapter includes the background, problem statement and geographical scope and
+justification of this research project.
+1.1 BACKGROUND
+Pollution from both point and non-point sources still continue to pollute essential water
+resources on a global scale. Major contributors to the pollution of both surface water
+and groundwater are industrial discharges, domestic sewage, agricultural runoff, and
+changes in the environment (WHO, 2024). In many parts of the world that are still
+developing, groundwater that people rely on for drinking purposes is slowly discovered
+to contain harmful inorganic pollutants and especially heavy metals such as lead (Pb),
+copper (Cu), iron (Fe), and cadmium (Cd). These metals are unyielding, nondegradable, and their presence even in minuscule amounts causes a very serious health
+risk (Tchobanoglous et al., 2014).
+
+By the year 2035, the global population increase is estimated to be around 7.9 billion,
+and consequently, the water crisis is to be more severe than it is now, particularly in
+rural areas where the supply of water treatment facilities is limited (WHO, 2024). The
+conventional use of filtration by households such as plain sand filtration, membrane
+filters, and biochar filters has been found to be inadequate as poor adsorption capacity
+and large variation in maintaining the level of metals below that of the drinking water
+standard have been cited as the causes.
+
+Among the various treatment methods available, the one based on adsorption has
+gained recognition as the most efficient and at the same time the least expensive
+solution to heavy metals removal. Natural zeolites in particular are the most popular
+ones, boasting the property of having the highest cation-exchange capacity, micropore
+structure, and strong affinity for the divalent metal ion such as Pb2+ and Cu2+ (Wang &
+Peng, 2010). In this manner, zeolites can swap their cations (Na+, Ca2+, K+) for those of
+toxic metals, significantly reducing the concentration of metals in contaminated water
+within minutes (Misaelides, 2011).
+This research focuses on the purification of Kyabalogo Village, Nakisunga Sub- by using
+modified zeolites as an adsorbent for household drinking water.
+
+1.2 PROBLEM STATEMENT
+The major sources of water in Uganda are underground, and in addition to that, natural
+springs are also used for domestic purposes, drinking water, and small-scale economic
+activities. In Kyabalogo village, Nakisunga sub-county, the spring water is the main
+source of water since it is free, easy to access, and available all year round. However,
+human activities such as improper waste disposal, agricultural runoff, and unregulated
+land use around these water sources have deteriorated the quality of the water
+significantly (WHO, 2024).
+
+Water quality monitoring from community springs in central Uganda indicates the
+presence of heavy metals and pathogenic microorganisms in large quantities (Nzanzu et
+al., 2022) The heavy metals Pb, Cu, and Cd are listed among the ones that are very
+
+toxic and detrimental to the health of living organisms at very low concentrations
+(Tchounwou et al., 2012). Furthermore, with the presence of pathogens in the water,
+the risk to public health is even greater, with fecal coliforms being detected in the range
+of 1000 CFU/100 mL (Nzanzu et al., 2022).
+
+A good number of the Kyabalogo Village residents are elderly or low-income and thus
+cannot afford the piped water from the National Water and Sewerage Corporation
+(NWSC). They, therefore, rely on spring water that is likely to be contaminated by human
+activities and groundwater infiltration of heavy metals. Hence, the need for developing
+inexpensive household-scale treatment systems is very critical.
+
+Popular household filtration systems like sand filters, membrane filters, and cloth
+filtration have not shown high efficiency in the removal of dissolved heavy metals. On
+the other hand, natural zeolites are known for their high cation-exchange capacity and
+great attraction to divalent heavy metals like Pb2+ and Cu2+, which makes the
+1.3 OBJECTIVES OF STUDY
+1.3.1 Main objective
+To use modified zeolites in water treatment at household level a case study of Kyabalogo
+village, Nakisunga Sub-County
+
+1.3.2 Specific objectives
+1. To determine the physicochemical properties of three selected springs in
+Kyabalogo village, Nakisunga Sub-County
+
+2. To determine the removal efficiency of natural zeolites in water treatment
+3. To design a simple household water treatment system.
+
+1.4
+Research questions

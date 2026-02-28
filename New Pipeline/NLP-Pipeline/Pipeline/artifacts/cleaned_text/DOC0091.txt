@@ -1,0 +1,1874 @@
+ELECTRONIC GOVERNMENT PROCUREMENT SYSTEMS IN SOLVING PRECEDENT
+PUBLIC PROCUREMENT PROBLEMS IN UGANDA
+
+
+
+
+
+
+
+
+
+
+KENNETH OLOYA KOMAKECH
+S20B12/227
+
+
+
+
+
+
+A DISSERTATION SUBMITTED IN PARTIAL FULFILLMENT FOR THE AWARD OF A
+BACHELOR’S DEGREE IN PROCUREMENT AND LOGISTICS MANAGEMENT
+SCHOOL OF BUSINESS OF UGANDA CHRISTIAN UNIVERSITY
+
+
+
+
+
+
+August, 2023
+
+
+
+
+i
+
+DECLARATION
+
+I Komakech Kenneth Oloya declare that this dissertation is my original work and affirm that it is
+true and correct to the best of my knowledge and that it has never been submitted to any other
+academic institution of higher learning for the award of a Bachelor’s Degree in Procurement and
+Logistics Management.
+Sign
+Date
+
+
+Komakech Kenneth Oloya
+
+ii
+
+APPROVAL
+
+This research dissertation report drawing empirical evidence from the Ministry of
+Water and Environment titled "Electronic Government Procurement Systems in
+solving precedent Public Procurement Problems in Uganda. "has been written and
+completed under the supervision of.
+
+
+
+
+Signature
+Date
+
+
+Mr. Muloosi Pascal
+(Research Supervisor)
+
+iii
+
+DEDICATION
+
+
+I dedicate this thesis to my family and to all the citizens of Uganda who are aware of the emergence
+and adoption of e-procurement and the Electronic- Government Procurement systems and how it is
+trying to solve the crisis of Public Procurement in Uganda.
+I also dedicate this work to Uganda Christian University for education and tutoring purposes.
+Lastly, I dedicate this work to fellow researchers carrying out studies on e-procurement concerning
+other phenomena.
+
+iv
+
+ACKNOWLEDGMENT
+
+First and foremost, I thank the Almighty God for granting me the gift of life and good health
+throughout my studies. I also want to thank God for giving me the capacity to execute this study
+that will be of enormous help and a great contribution to my family and I, my university, my
+country, and fellow practitioners of Procurement and Logistics Management.
+I would like to thank my family and lecturers for standing by me throughout this journey of study at
+Uganda Christian University in terms of encouragement, prayers, and resources.
+I wish to extend my sincere thanks to the following for their tireless and timely guidance throughout
+this period.
+➢ Mr. Muloosi Pascal my research and academic supervisor. Thank you for your knowledge,
+guidance, motivation, and direction accorded to me in your area of expertise and my line of
+study. Thank you for the job that’s been well done.
+➢ Mr. Arthur Nuwagaba my lecturer for Research Methods. Thank you for sharing your
+knowledge of research methods with me.
+I acknowledge my fellow students for their support and teamwork during this study period.
+Finally, I thank the University for the Research program which has helped several students gain
+skills and learn more about research, working environment problems, and solutions concerning their
+theoretical knowledge and areas of study.
+
+TABLE OF CONTENT
+Declaration... ................................................................................................................................ i
+Approval ......................................................................................................................................... ii
+Dedication... ................................................................................................................................. iii
+Acknowledgment ........................................................................................................................... iv
+Table Of Content ........................................................................................................................... v
+List Of Tables ................................................................................................................................ vi
+List Of Abbreviations .................................................................................................................... vi
+Abstract .......................................................................................................................................... vii
+CHAPTER ONE:
+1.1 Introduction... ........................................................................................................................... 1
+1.2 Background of the study... ........................................................................................................ 1
+1.3 Problem statement and issue of concern... ................................................................................ 2
+1.4 Research objectives ................................................................................................................... 3
+1.4.1 Specific objectives .................................................................................................................... 3
+1.5 Research questions ....................................................................................................................... 3
+1.6 Scope of the study... ...................................................................................................................... 3
+1.6.1 The content scope ....................................................................................................................... 4
+1.6.2 The time scope ............................................................................................................................ 4
+1.6.3 Geographical scope .................................................................................................................... 4
+1.7 Significance of the study... ........................................................................................................... 4
+1.8 Anticipated problems & there solutions ........................................................................................ 5
+1.9 Ope-rationalization of variables .................................................................................................... 5
+CHAPTER TWO:
+2.1 Literature Review ......................................................................................................................... 6
+2.2 Literature Review Of Objective 1... ............................................................................................ 6
+2.3 Literature Review Of Objective 2... ............................................................................................ 9
+2.4 Literature Review Of Objective 3... .......................................................................................... 12
+2.5 Summary Of Literature Review & Identification Of Research Gaps ......................................... 15
+CHAPTER THREE:
+3.1 Introduction... ............................................................................................................................ 16
+3.2 Research Design... ..................................................................................................................... 16
+3.3 Study Population... ................................................................................................................... 16
+3.4 Sampling Design... ................................................................................................................... 16
+
+3.4.1 Sample Size ....................................................................................................................... 17
+3.4.2 Sampling Techniques ......................................................................................................... 17
+3.4.3 Sampling Methods ............................................................................................................. 17
+3.5 Data Sources .......................................................................................................................... 18
+3.6 Data Collection Methods ....................................................................................................... 19
+3.7 Research Instruments............................................................................................................. 20
+3.8 Validity & Reliability Of The Research Instruments .............................................................. 21
+3.9 Research Procedure/Ethics ..................................................................................................... 22
+3.10 Data Analysis ........................................................................................................................ 23
+CHAPTER FOUR:
+4.1 Introduction... ....................................................................................................................... 25
+4.1 Response Rate ....................................................................................................................... 25
+4.3 Findings on Demographic characteristics of the respondents ................................................ 26
+4.4 Presentation of Descriptive Findings..................................................................................... 27
+4.4.1 Transparency and efficiency under the E-GP system in Public Procurement .................... 27
+4.4.1.2 Hypothesis testing one..................................................................................................... 34
+4.4.1.3 Regression Analysis ........................................................................................................ 35
+4.4.2 Contract management under the E-GP system .................................................................... 35
+4.4.2.1 Hypothesis Two Testing... ............................................................................................... 39
+4.4.2.2 Regression Analysis ......................................................................................................... 40
+CHAPTER FIVE:
+5.1 Introduction... ......................................................................................................................... 42
+5.2 Summary of Findings ............................................................................................................... 42
+5.2.1 E-GP system in ensuring transparency and efficiency... ....................................................... 42
+5.2.2 Contract Management under the E-GP system....................................................................... 42
+5.3 Discussions ................................................................................................................................ 43
+5.3.1 E-GP system in ensuring transparency and efficiency... ........................................................ 43
+5.3.2 Contract Management under the E-GP system....................................................................... 43
+5.4 Conclusion... .............................................................................................................................. 44
+5.4.1 E-GP system in ensuring transparency and efficiency... ......................................................... 44
+5.4.2 Contract Management under the E-GP system........................................................................ 44
+5.5 Recommendation... ..................................................................................................................... 45
+5.5.1 E-GP system in ensuring transparency and efficiency... ......................................................... 45
+
+5.5.2 Contract Management under the E-GP system................................................................. 45
+5.6 Limitations of the Study... .................................................................................................... 46
+5.7. Areas For Further Research... ............................................................................................... 46
+References .................................................................................................................................. 47
+Appendices ................................................................................................................................ 49
+
+
+LIST OF TABLES
+Table 4.1: Response Rate ........................................................................................................... 25
+Table 4.2 Age respondents .......................................................................................................... 26
+Table 4.3: Gender of the Respondents ......................................................................................... 26
+Table 4.4: Highest level of education the Respondents .............................................................. 26
+Table 4.5: Descriptive Statistics for Transparency and Efficiency under the E-GP system ......27
+Table 4.6: Correlation matrix for the relationship between the E-GP system in ensuring transparency
+and efficiency... ......................................................................................................................... 34
+Table 4.7: Regression Analysis of the E-GP system, transparency and efficiency.................... 35
+
+
+Table 4.9: Correlation Coefficient matrix between the E-GP system and contract management.35
+
+
+LIST OF ABBREVIATIONS
+
+
+E-GP
+Electronic Government Procurement System
+MoWE
+Ministry of Water and Environment
+PPDA
+Public Procurement and Disposal Authority
+OECD
+Organization for Economic Co-operation and Development
+SDG’s
+Sustainable Development Goals
+EU
+European Union
+ICT
+Information and Communication Technology
+KPIs
+Key Performance Indicators
+
+
+ABSTRACT
+
+
+The study examined the Electronic Government Procurement system(E-GP) on solving
+procurement problems in Public Procurement drawing empirical evidence from the Ministry of
+Water and Environment(MoWE), Luzira Kampala Uganda. The study was based on the following
+study objectives: to investigate transparency under E-GP system, to investigate the efficiency of
+procurement processes under the E-GP system and to analyze contract management under the E-GP
+system in the Ministry of Water and Environment (MoWE), Luzira Kampala, Uganda. The study
+adopted a descriptive cross sectional survey design where both quantitative and qualitative
+approaches where used. In this study, a total number of 74 respondents were expected but 49
+respondents returned the survey instruments representing a response rate of 79.3%. The data was
+collected using questionnaires and interviews and quantitative data analysis was done using Pearson
+correlation coefficients. Qualitative analysis was done using content and thematic analysis. Findings
+revealed that there is a positive significant relationship between the E-GP system and transparency
+in purchasing at the Ministry of Water and Environment(MoWE) at r=271*. There is a positive
+significant relationship between the E-GP system and efficiency in public procurement processes at
+r=.271* and lastly, there is a positive relationship between contract management and the Electronic
+Government Procurement system at r=0.786. Conclusively: The adoption and implementation of the
+E-GP system in the purchasing procedures in the Ministry of Water and Environment(MoWE) has
+significant solved its underlying procurement issues by increasing transparency in procurement
+activities in the entity whereby all the concerned stake holders clearly have visibility of
+procurement information which is availed to them on the E-GP system. The system has notably
+increased the efficiencies of the purchasing activities in the entity as it has significantly reduced
+costs and enhanced the speed of the stages associated with purchasing in the entity. The E-GP
+system has reduced unnecessary administrative reviews hence increasing the rate at which projects
+and purchasing activities are executed in the entity. The E-GP system has also embedded smart
+contracting in the entity as most of the important stages of the contracting process-oriented and
+executed on the E-GP platform.
+
+
+
+
+
+vii
+
+
+CHAPTER ONE
+1.1. INTRODUCTION.
+
+
+This study examined how the E-GP system is solving Public Procurement problems in Uganda
+drawing empirical evidence from MoWE. This chapter introduces and consists of the background of
+the study, statement of the problem, general research objective, specific objectives, research
+questions, research hypothesis, the scope of the study, the significance of the study, anticipated
+problems, solutions, and the ope-rationalization of variables.
+
+1.2 BACKGROUND OF THE STUDY.
+
+
+E-GP System is a web-based tool used to carry out public procurement and disposal of government
+assets. It uses information and communication technology (ICT) to conduct the end-to-end
+government procurement and disposal processes and activities online.
+Procurement refers to the legal acquisition of goods, works, and services in the right quality, and
+quantity at the right price from the right place and to the right place.
+
+Effective, sustainable, and ethical Public Procurement is one of the biggest challenges facing the
+government of Uganda today. The researcher ascertained, gauged and measured the convenience
+and practicability of the E-GP Systems with regard to solving the precedent Public Procurement
+problems in Uganda. The prevalence of underlying procurement problems highlighted the need for
+more effective procurement systems that mitigate the risks associated with the Public Procurement
+
+The independent variable of this study was the E-GP System that was incorporated on the 1st of July,
+2021, and rolled out by the government to eleven selected entities for example the Ministry of
+Water and Environment as a pilot project with hopes of solving various procurement problems and
+vices in the Public Procurement.
+Public Procurement offers the largest business opportunities in Uganda with more than 60% of the
+national budget spent through Public Procurement. Public Procurement like any other Public
+
+Finance management functionalities had undergone several reforms which resulted in the need for
+an electronic Government Procurement System.
+
+
+The dependent variables of this study where the precedent procurement problems and vices in the
+Public sector for-example conflict of interest, lack of transparency, rigged solicitations and bids,
+poor contract management, corruption and embezzlement of public funds, bureaucracy, increased
+lead times, bid rigging, poor distribution and so many more.
+
+The E-GP System was inception-ed to tackle such problems that had held Uganda's Public sector
+captive for a very long time. Through this study, the researcher found out and reported how the E-
+GP System has lived up to its expectations and objectives.
+
+The current situation was that the E-GP System was still undergoing a pilot study and it was very
+crucial that this system was effective per its objectives other wise Public Procurement and Uganda's
+Economy at large were destined for doom which was projected by the underlying Procurement
+problems in the country.
+
+1.3 STATEMENT OF THE PROBLEM;
+
+
+The prevalence of precedent and underlying procurement problems have highlighted the need for
+more effective procurement systems a case in point is the E-GP System which can mitigate the risks
+associated with Public Procurement processes. Even after the incorporation of the E-GP systems in
+the selected government entities, there is still a surge of Procurement problems in the Public sector
+for example the misappropriation and embezzlement of iron sheets scandal that were not distributed
+to the rightful beneficiaries in the Karamoja region which called for reprimand-able action against
+the Minister of Karamoja and her close associates. This showed that there is an existing gap that is
+being exploited and manipulated by unethical stakeholders for personal motives and benefits in
+Public Purchasing entities. This study thus bridges the gap of such issues persisting even after the
+inception of the e-GP systems hence the need to establish a phenomenon study of the relationship
+between the E-GP System on solving precedent Public Procurement problems.
+
+1.4 GENERAL RESEARCH OBJECTIVES;
+The long-term goal of this research was to bring to light how the E-GP System has solved the
+various issues concerning Public Procurement and to also point out the gaps, loopholes that the
+system hasn't fully addressed with regards to Public Procurement and also suggest possible
+solutions to the shortcomings of the system if any is found.
+
+
+1.4.1 SPECIFIC OBJECTIVES.
+The objectives of the study where;
+
+
+1. To investigate how the E-GP system has created transparency in MoWE.
+2. To investigate how the E-GP system has created efficiency in the procurement activities of
+MoWE.
+3. To analyze contract management of Public Procurement under E-GP Systems in MoWE.
+
+
+
+1.5 RESEARCH QUESTIONS.
+The study answered the following research questions
+
+
+a) How has the E-GP System solved precedent Public Procurement problems?
+b) In what ways has the E-GP System amplified transparency and accountability in Public
+Procurement in the MoWE?
+c) What is the analysis of contract management in Public Procurement under the E-GP System
+in the MoWE?
+d) What measures can be undertaken to improve the E-GP System in the MoWE?
+
+
+1.5.1 RESEARCH HYPOTHESIS.
+The study tested the following research hypothesis.
+
+
+The E-GP System has been designed to improve the quality of service delivery to the people of
+Uganda by the government through Public Procurement. The E-GP System is capable of solving the
+underlying Public Procurement issues based on its core objectives and functionalities. Although the
+E-GP System is still undergoing a pilot study in selected government entities, the researcher
+believes that this system has to a greater extent partially solved some of the issues concerning
+Public Procurement despite the fact that there are still some irregularities in Public Procurement
+even with the system in place.
+
+1.6 SCOPE OF THE STUDY.
+This states the limits of the study to ensure that is manageable.
+
+
+1.6.1 CONTENT SCOPE.
+
+
+This study focused on how the E-GP System has solved Public Procurement problems and the
+measures that can be undertaken to improve the system to make sure that it fulfills its core
+objectives and functionalities.
+
+1.6.2 TIME SCOPE.
+The study was limited to a period of four months that is to say from April 2023-July 2023. This
+enabled the researcher to come up with a comparative analysis of how the E-GP System has solved
+precedent Public Procurement problems drawing empirical evidence from the MoWE.
+
+1.6.3 GEOGRAPHICAL SCOPE.
+The study was carried out at the Ministry of Water and Environment headquarters in Kampala.
+Luzira.
+
+1.7.1 SIGNIFICANCE OF THE STUDY.
+With the study of the E-GP System has solved precedent Public Procurement problems, the
+researcher hopes that the study will be of the following benefits;
+i. This study enabled the researcher to acquire skills in data collection, interpretation, and
+analysis that will be of great help to the researcher in the future as a Procurement and
+Logistics management officer.
+ii. This study will also help the government of Uganda to enhance its E-GP Systems to
+adequately execute Public Procurement appropriately.
+iii. The findings of this study will also help fellow researchers from institutions of higher
+learning in the same line of study.
+iv. The findings of this study will also be of great help to the organizations that actively use the
+E-GP Systems. It will enable better decision-making in these organizations concerning
+Public Procurement.
+v. This study will also ensure the delivery of quality services to the people of Uganda through
+effective Public Procurement.
+vi. The findings of this study will improve the spending analysis of the government and also
+ensure value for money by managing resources appropriately.
+
+1.8 ANTICIPATED PROBLEMS AND SOLUTIONS.
+
+
+PROBLEMS.
+
+
+• Data collection was one of the problems that the researcher faced when executing the study
+as some respondents failed to return the instruments used to collect data.
+• Data analysis was another problem that the researcher encountered during the study as
+triangulating both qualitative and quantitative data analysis methods was a bit difficult.
+• Limited time was another problem that the researcher faced especially during the collection
+of data and analysis of contract management in Public Procurement under the E-GP Systems
+since most contracts are long-term.
+
+
+
+SOLUTIONS.
+
+
+• The researcher used efficient data collection techniques and methods to obtain data.
+• The researcher learned how to use S.P.SS software to help him analyzing the findings.
+• The researcher used efficient sampling techniques while executing the study.
+
+1.9 OPE-RATIONALIZATION OF VARIABLES.
+
+
+
+EGP-SYSTEMS
+INDEPENDENT VARIABLE
+SOLVING
+PUBLIC PROCUREMENT
+PROBLEMS
+DEPENDENT VARIABLE
+LACK OF TRANSPARENCY &
+ACCOUNTABILITY.
+POOR CONTRACT
+MANAGEMENT.
+BID RIGGING.
+CORRUPTION AND
+EMBEZZLEMENT.
+LACK OF ETHICS.
+POOR DISTRIBUTION.
+
+
+CHAPTER TWO
+
+
+2.0 Literature review.
+
+
+2.1 Introduction.
+
+
+This chapter explores the role of e-Government Procurement (e-GP) systems in addressing
+procurement problems in Uganda. The review examines a range of scholarly articles, reports, and
+case studies to evaluate the impact of e-GP systems on procurement efficiency, transparency,
+contract management, and overall effectiveness in the Ugandan context. The findings highlight the
+positive outcomes of e-GP implementation, including improved procurement processes, enhanced
+competition, reduced corruption, and increased access to opportunities for suppliers. However,
+challenges related to infrastructure, capacity building, and user adoption are also discussed.
+
+2.2 How the E-GP system has created transparency.
+
+
+This literature review provides an in-depth analysis of how e-GP systems have addressed
+procurement problems in Uganda. It offers valuable insights into the benefits, challenges, and
+lessons learned from e-GP implementation. Policymakers, practitioners, and the researchers can
+utilize these findings to guide the effective adoption and utilization of e-GP systems in Uganda and
+similar contexts to solve various procurement problems.
+Nineteen countries ‟ governments focus on how e-procurement helps to increase competition
+among the bidders and suppliers in public procurement processes. For example, the Republic of
+Bangladesh introduced National e-Government Procurement (e-GP) in public tenders to eliminate
+corruption and collusive bidding practices to ensure transparency and increase competition among
+the bidders (Mahmood, 2010). Mahmood argued that if the government implement e-GP system this
+could save public money and erase the political power in public bidding process. In Nigeria, the e-
+GP system has lead Nigerian public sectors to increase competition among bidders in public
+projects and ultimately government can better select actual bidders. The e-GP system helps the
+Nigerian government to eliminate the associated bottlenecks with existing system (Adebiyi et al.,
+2010). E-procurement technology performance of other countries like Bahrain, Norway, Italy,
+Singapore, Turkey, India, and Malaysia indicate that e-procurement helps to increase competition
+
+
+among bidders in public work and services. As a result, it helps the government to get the actual
+bidders at the right government project.
+Countries have been promoting open government strategies in order to improve transparency,
+accountability and citizens’ trust in the public sector. Open government is defined as “a culture of
+governance that promotes the principles of transparency, integrity, accountability and stakeholder
+participation in support of democracy and inclusive growth” (OECD, 2017[19]).
+
+Two of the pivotal advantages linked to the introduction of e-Procurement are transparency and
+integrity. One of the driving forces creating the necessity for both is the issue of corruption
+(Neupane et al. 2012) given the substantial financial volume of public procurement (See section
+1). Especially the direct human interaction as well as the lack of options for monitoring enabled
+government officials to get bribed or use their power for personal enrichment (Neupane et al.
+2012). Hence, centralizing procurement's within a publicly available electronic platform is hoped
+to create sufficient publicity to discourage contracting authorities from opening unnecessary
+tenders or hiding relevant information due to the elevated likelihood of detection (compare, e.g.,
+Neupane et al. 2012). Beyond fighting corruption, transparency, e.g., in terms of process
+transparency, is also important to keep the public informed about decisions and performance—
+and through this to finally establish trust (Armstrong 2005). While the public as one, if not the
+major stakeholder of public administration has a right to be informed about procurement
+decisions and performance, transparency also simplifies supplier participation and increases
+trust.
+Trust is an important key facilitator of e-commerce (Kartiwi, 2006). Trust builds a good
+atmosphere between government and bidders in the contracting process. The key
+measurement items of trust of public e-procurement are tracking and monitoring bidder’s
+information and documents, security of transactions, fairness in competition, and the user friendly
+nature of the commercial environment. (Evaluating the Anti‐Corruption Capabilities of Public e‐
+Procurement in a Developing Country, (Neupane-2012).
+Access to public information has been the cornerstone of an open and inclusive government,
+because it is a fundamental element to reduce corruption and increase trust among citizens and their
+governments. (OECD, 2016) Access to information is also one of the targets of the Sustainable
+Development Goals (SDGs) adopted by all United Nations Member States in 2015. (United
+Nations, 2015[21]) Proactive disclosure refers to disclosing relevant information without a prior
+public request. This voluntary disclosure of information contributes to enhanced transparency and
+
+
+openness, as well as avoiding the costs associated with the administrative procedures and fees to file
+a request for information (OECD, 2016).
+
+When public sector information is proactively published in open and machine-readable formats and,
+where possible, free of cost, it becomes open government data, facilitating its reuse by anyoneanywhere – without legal or technical limitations (e.g. copyrights, proprietary formats) (OECD,
+2017[22]). The reuse of open government data enables any stakeholder such as citizens, civil
+society, and businesses to better understand and monitor governmental activities.
+
+E-procurement is considered as one of the most important thematic areas of the open government
+strategy, and one of the most popular initiatives is open contracting, or publishing information
+related to public procurement in open and machine-readable formats.
+
+However, in cases where the opportunities for corruption are directly linked to the procurement
+function, e-procurement may be helpless, as in cases of entrenched or systemic corruption. This is a
+much deeper cultural problem and goes beyond opportunistic corruption. In such cases even if the
+rules are followed it does not guarantee there will be no corruption or that e-procurement will be
+conducted well. As a response to these problems the tendency, especially among countries newly
+introducing e-procurement reforms, is to seek to impose very strict regulations, eliminating any
+possibility for the e-procurement agent to exercise his discretion. E-procurement, however, requires
+skill, training and experience.
+The system has strengthened accountability by enhancing transparency and improved access to
+information from a central source. Because transactions are electronic, it is easy to trail, trace and
+access data on the e-GP system for auditing, reporting obligations and accountability requirements.
+
+Most importantly, all tender opportunities are posted on the system and are accessible anywhere any
+time. There has also been a good development for the business community because providers
+registered on the E-GP get automated alerts about any new opportunities posted on the system.
+
+The E-GP is also very secure for the bidders who want to do business with government. The system
+will ensure that only authorized users will be allowed to access given data and information. This is
+because it provides for encryption of providers’ bid documents from the time of submission up to
+the bid opening date and time.
+
+
+2.3 How the E-GP system has created efficiency in Public Procurement.
+
+
+This literature review examines the impact of the Electronic Government Procurement (e-GP)
+system on improving the efficiency of public procurement in Uganda. The review explores various
+scholarly articles, reports, and studies published between 2010 and 2023, focusing on the benefits,
+challenges, and outcomes associated with the adoption and implementation of e-GP in Uganda. The
+findings of this review provide insights into the effectiveness of e-GP in enhancing transparency,
+accountability, competitiveness, and overall efficiency in public procurement processes.
+
+The digital transformation of public procurement, the EU developed a phased nine-year (2014 -
+2023) public procurement reform to introduce a compulsory and fully transactional e-procurement
+tool, including modules on e-invoicing, e-notification, e-access, e-submission and other e-forms, as
+well as a comprehensive reform to public procurement directives. According to the guidelines
+published by the European Commission in 2014, the EU supports the process of rethinking public
+procurement process with digital technologies in mind. This goes beyond simply moving to
+electronic tools; it rethinks various pre-award and post-award phases. The aim is to make them
+simpler for businesses to participate in and for the public sector to manage. It also allows for the
+integration of data-based approaches at various stages of the procurement process.
+
+According to the EU, digital government is one of the key drivers toward the implementation of the
+‘once-only principle’ in public administrations – a cornerstone of the EU’s Digital Single Market
+strategy. And with the adoption of digital tools, public spending should become more transparent,
+evidence-oriented, optimized, streamlined and integrated with market conditions. This puts eprocurement at the heart of other changes introduced to public procurement in new EU directives
+and introduces the notion that in the age of big data, digital procurement is crucial in enabling
+governments to make data-driven decisions about public spending.
+
+E-procurement systems increase efficiency in public procurement by introducing standardization,
+streamlining and integration of processes and result in better value for money in the use of public
+funds. E-procurement can increase competition in the market, thus reducing the prices paid by
+government, which can yield between 5% and 25% in cost savings (The Asian Development Bank,
+2004).
+
+
+Recognizing the benefits of e-procurement in increasing efficiency in public procurement processes,
+countries have gradually been expanding functionalities of e-procurement systems to shift from
+platforms providing procurement information to more transactional systems. The Organization for
+Economic Co-operation and Development (OECD) is a unique forum where the governments of 37
+democracies with market-based economies collaborate to develop policy standards to promote
+sustainable economic growth.
+
+The evolution of functionalities of e-procurement systems in OECD countries from 2012 to 2018.
+according to The Asian Development Bank, 2004), all OECD countries published tender
+announcements as of 2012, provided tender documents as of 2014, and carried out award
+notification as of 2016 in their e-procurement systems. Of all OECD countries, 82% had already put
+e-submission in place in 2012 and this rate increased to 94% in 2018. On the other hand, the
+introduction of e-invoicing has stagnated at around 55% with little progress between 2012 and
+2018.
+Similar to New Haven, the city of Columbia, SC also has a team of dedicated professionals (public
+and private) that took the archaic procurement process and transformed it into the contemporary eprocurement program. Columbia's primary goal is to clarify the procurement process and create an
+effortless site, yet at the same time they hope to make access available to potential bid
+opportunities. Moreover, the city strives to upgrade the level of competition by maximizing the
+involvement of bidders and contractors who aim to supply services to the city residents
+("Columbia's Purchasing Division", 2013). In the case of Savannah, GA, a new e-procurement
+system was developed to streamline the flow of information between the municipal government,
+vendors, and resident users. The new system facilitates the e-procurement process by primarily
+enabling bidders to register online, receive bid notifications, and submit bids and view bid results
+online. The e procurement website also offers an online question/answer session and includes sealed
+bids with lock box and bid encryption for safety and privacy concerns. The city places a great deal
+of emphasis on maintaining privacy and safety through the procurement process, which they argue
+enhances the value of their resident's tax dollars ("E-Procurement", 2013).
+The city of Columbus, OH has established the Columbus Vendor Services, an e-government
+initiative that provides a one stop online portal for potential bidders and vendors through which they
+can register and compete for the city bids. The website provides all relevant information on the
+procurement process and helps conduct business in an open environment that will lead to better
+public trust. Moreover, the online process results in numerous choices of suppliers, lower process
+costs, improved quality and service delivery. The website is user friendly with complete instructions
+
+
+listed throughout the entire process and enables vendors to be notified of current openings, submit
+and view bids online, and keep track of the company's information such as goods, services provided
+and payment invoices ("About Vendor Services", 2013). This narrative suggests that cities are
+working hard not only to gain efficiencies and save money for tax payers, but develop partnerships
+with vendors that establish clear protocols in a user-friendly manner. Similar to the findings that
+high performing private sector firms increase performance for both buyers and suppliers
+(Vaidyanathan and Devaraj, 2008); it seems high performing public organizations seek to
+accomplish a similar goal.
+
+Any organization’s success relies on sound financial management. Due to liquidity problems, public
+projects are either delayed or not implemented as anticipated. Business and people without internet
+access may not participate in the processes of e-procurement (Njihia, 2013).
+
+Eighteen countries‟ governments were obtaining best quality and price ratio after implementing
+public e-procurement technology. This factor has important contribution to reduce corruption in
+public procurement. For example, Turkey introduces e-procurement project in 2002 and its main
+objective was to achieve efficiency and regulate government procurement to obtain the best quality
+and performance among bidders (Bayraktar et al., 2009). Other countries‟ government such as Peru,
+Pakistan, New Zealand, Italy, Fiji, and Hong Kong (China) obtain best quality of governance by
+implementing e-procurement in government level. Consistency in procurement process and
+accessing real time information through e-procurement are important anti-corruption factors. These
+two factors were found in seventeen countries including Australia, Singapore, South Korea, India
+(AP), Indonesia, China, and Ireland. For example, the Singapore government using GeBIZ on-stop
+e-procurement portal which enhance transparency in government procurement, easy access to
+information, increase procurement efficiency, global reach among the bidders and suppliers, and
+increase more competition among bidders (GeBIZ, 2005). The Costa Rican Government adopted
+The Korean online e-procurement system called Mer-Link, which allows public agencies to acquire
+goods and services through an electronic platform. The main implementation benefits of this system
+are to make more consistency in procurement process, more visibility into procurement process, and
+secure document transmission (Guadamuz & Jiménez, 2009). Accessing real time information
+through e-procurement is another important factor to control corruption in government
+procurement. In seventeen countries, governments used real time bidding information through eprocurement. As a result, e-procurement helps to mitigate the asymmetric information problems by
+increasing access to information between government and bidders (Xinzhang & Yonggang, 2011).
+
+
+Efficiency in document transmission and automation of procurement process are key elements to
+reduce corruption in government procurement. Fifteen countries‟ focus on e-procurement helped
+increase efficiency in document transmission and reduce more chances of corruption. Fourteen
+countries were focused on increased automation in the procurement process. Twelve countries‟
+result indicated that government and bidders could monitor and track bidding information through
+e-procurement system. Nine countries‟ government e-procurement implementation benefits result
+indicated that e-procurement helped to reduce human interference in bidding process and avoided
+unnecessary physical threat to the other bidders in tendering process. These similar results were
+investigated by Liao and Cheng (2003). Online bidding procedure helps the companies with fair
+competition opportunities, enhances efficiency in military procurement, and reduces the opportunity
+for human interference in bidding procedure. The study found that five countries‟ governments
+were focused on public e-procurement to increase managerial control and collaboration among
+bidders, to make procurement process faster and easier, and reduce unnecessary hidden cost.
+
+However, there have been challenges with e-procurement system malfunctioning to a case that
+National and County Governments cannot literally pay the suppliers bills, creating problems for the
+firms and in the process causing a confidence crisis which is a gap of the E-GP system that has to be
+addressed for e-procurement to thrive. There are infrastructure issues too required to support
+electronic procurement. This is a barrier against the anti-corruption aspect of the system.
+
+
+2.4 Contract management under the E-GP system.
+
+
+The concept of electronic contract (also known as smart contract) was first introduced to the
+information systems research. It encodes obligation definitions among parties in an electronic form,
+which can be properly used for monitoring and observation. With the development of information
+technologies, electronic contracts were widely used in many different fields. For example, contract
+management, which is used to execute and track an electronic contract via information systems with
+limited human intervention.
+
+Electronic contract is a computer interpret-able technical specification, illustrated as a group of
+obligation definition that are fulfilled among involved parties, refused or waived when future event
+occurs. Electronic contract is becoming a useful approach to organize expected process among parts
+
+
+in a distributed system, which is able to create, execute and communicate among different parties
+without any intervention from human.
+
+According to Prier and Mc Cue (2007), developing monitoring systems that are transparent,
+accountable and independent allow for civil society participation and operate at all levels; from
+contracting decisions and supplier selection, to contract implementation. Monitoring systems
+include an annual external audit to verify the procurement office’s accounting records. Faisol et al
+(2006) defines contract management as a series of administrative procedures and office work, which
+in their majority are performed by the project manager.
+
+In December 2013, the Ministry of Commerce of the People’s Republic of China promulgated the
+Code of Practice for the Online Conclusion of Electric Sub-Contracts. As an industry standard, the
+specification clearly defines the scope of application of electronic contracts, confidentiality, and
+security requirements; and at the same time, provides the contract signing process, inquiry and
+custody norms. China has a series of privacy and security requirements for the electronic contract
+platform. Whether the electronic contract platform will cross the border illegal, depending on the
+management system and its word-of-mouth endorsement, which is also the common disease of the
+central network. Blockchain’s trust endorsement-free nature is ideal for electronic contract
+applications(Lingling Guo, Qingfu Liu, Ke shi, Yao Gao, Jia Luo, and JingJing Chen, 2021).
+
+According to (Lingling Guo, Qingfu Liu, Ke shi, Yao Gao, Jia Luo, and JingJing Chen, 2021).
+Blockchain technology contract management, a process-oriented contract management system
+(BEcontractor) for a Hangzhou-located power grid enterprise X, aiming to solve a series of security
+issues existing in the traditional electronic contract system. By deploying BEcontractor,
+procurement activities could be resumed online among X and its nation-widely commodity
+suppliers during COVID-19 epidemic. Up to September 2020, 6336 electronic contracts have been
+signed, with an accumulated amount of U 6.5 billion. It is showed that the cost for accomplishing
+the contract signing process was significantly reduced, and the payment period was shortened from
+three months to around one month.
+Compared with paper contracts, the advantages of electronic contracts are economy, speedy, safety
+and readily available. China’s legal protection of electronic contracts is found in the General
+Principles of Civil Law, the Contract Law, the Electronic Signature Law and other laws and
+regulations. The Electronic Signature Law adopted on August 28, 2004, which determines the legal
+effect of electronic signatures.
+
+
+In this case, the procurement contract consists of one-to-many parties and the process can be
+described as follows: 1) all parties sign the electronic contract, which includes details regarding the
+procurement value, payment frequency, purchaser, and commodity supplier; 2) contract payments is
+subjected to terms and conditions of the procurement agreement. The smart contract invokes the
+procurement payments from the purchaser to commodity suppliers.
+The outbreak of COVID-19 since 2020 forced the business actives in China postponed or
+suspended, hence it’s difficult to complete the contract signing in the traditional manner. In such
+situation, the smart contract, a unique solution for the contract-related business activities, was
+officially launched on February 21, 2020 to provide the electronic contract service for both
+commodity suppliers and power enterprise X. Up to now, 6336 electronic contracts have been
+signed, and the total contract amount is up to RMB 6.5 billion. Notably, 68% suppliers are from
+Wuhan, Beijing and other areas severely affected by COVID-19. The successful application of
+smart contracts has effectively supported the commodity procurement during the epidemic period.
+Electronic contracts help reduce travel inconvenience and costs, and also effectively improve the
+efficiency of the material supply for power enterprises.
+It is attribute to that traditional signature mode usually requires courier delivery and the traveling to
+sign in person. Because of different meeting places, the trip costs and time varied. Moreover, due to
+the flat fee for an electronic contract is RMB 200, the average expense to accomplish the contract
+signing can be reduced from RMB 2363 to RMB 229 per contract. Although some additional
+information still requires signing in person, the total cost including the out of city trip is
+significantly lower than the traditional mode.
+
+In this paper, we proposed a BCT-driven procurement contract management system – Becontractor,
+which implements the management of contract documents and signing process tracking, and
+provides automatic contract execution services enabled by smart contract. Compared with
+traditional paper-based contract management, BEcontractor overcomes the inefficiencies and high
+labor cost, and significantly reduces the risk of content tampering and signature forgery. Besides, it
+also solves the problem of data loss, which always occurs in the centralized system. Since the
+system was put online in early 2020, it has helped power enterprise X successfully complete 6336
+online signature of electronic contracts with more than RMB 6.5 billion. It is confirmed that 11 days
+can be saved from drafting a contract to finally signing the contract on average when compared with
+the traditional paper contract. The average cost per contract can be reduced as much as RMB 2000,
+and the management efficiency and user experience are significantly improved. In addition, the
+system is integrated with the ERP system of power grid company X, so that all the documents
+
+
+related to the contract existing in the BEcontractor can be directly pumped to the ERP system,
+further speeding up the internal business processes. For example, the payment period can be
+shortened to one month from the previous three months. The power grid industry comprises a large
+and long supply chain, which includes a large number of small and medium-sized enterprises
+(SMEs). In the future, this system will be integrated with the technique of supply chain finance. By
+effectively utilizing the transaction data and contract files in BEcontractor and inviting the financial
+institutions to join in the ecosystem, BEcontractor could help the SMEs in the supply chain to
+improve the financing efficiency and promote the rapid development of SMEs. From the business
+perspective, our study is a successful attempt of Blockchain technology in the power industry,
+where the efficiency of commodity procurement contract management has been significantly
+improved. From the technical perspective, our study provides researchers with a comprehensive
+picture of the design rationale ranging from system architecture to business process.
+
+
+2.5 Summary of literature review.
+
+
+There is no doubt that e-procurement can play an important part in the fight against corruption,
+ensuring transparency, efficiency and good contract management. It has also succeeded in reducing
+the opportunities for corruption by applying procedural and transparency requirements. However, in
+the case of systemic collusion and corruption, its eradication calls for a broader campaign and much
+will depend on the government’s willingness to reform the attitude of civil society towards eprocurement. The situation may be exacerbated when, whatever the good intentions are, regulators
+impose stricter regulations on the procurement officers in the name of anti-corruption. In extreme
+cases, this over-regulation erodes the ability of the procurement officer to exercise his discretion
+and have serious negative effects on public expenditure because it often condemns the government
+to inefficient and expensive purchasing. Care must be taken therefore to identify those opportunities
+in the e-procurement system that may be reduced through regulation and transparency. The systems
+need to address the misuse of discretion and not seek to remove all discretion as procurement agents
+need to be in position to make professional procurement decisions and regulation should not prevent
+the exercise of that judgement.
+
+
+CHAPTER THREE METHODOLOGY
+
+
+3.1 INTRODUCTION.
+
+
+This chapter consists of research paradigms, design, type of measurement, data
+collection methods used, sources of data, sample size and sampling procedures, the
+description of the study area where data was collected, the reliability and validity,
+data management and analysis.
+
+3.2 Research Design.
+
+
+This is the blue print that the researcher followed while undertaking the research study.
+(Kothari, 2004), presented it as a structural conceptual arrangement for collection and
+analysis of data, it constitutes a blueprint for the collection, measurement and
+analysis of data. Research design is a master plan of method, procedures that should
+be used to collect and analyze the data needed for decision making.
+The researcher used a descriptive design as the researcher aimed at providing conclusive
+information from the established particular cause of action.
+A descriptive research design is one that aims at describing or depicting the characteristics,
+behaviors, or phenomena of a particular subject or population. It focused on providing accurate and
+detailed account of existing conditions, rather than investigating causal relationships or making
+predictions. This design involved collecting and analyzing data to summarize, organize, and present
+information in a systematic and objective manner whereby information was collected in order to get
+different opinions of how the E-GP system has solved Public procurement problems, how it has
+created transparency, efficiency and an evaluation of contract management under this system.
+The researcher used Triangulation of both qualitative and quantitative descriptive designs to
+effectively and rigorously execute this study.
+
+
+3.3 Study Population.
+
+
+The target population for this study was government agencies that have had the opportunity to
+access and use the Electronic-Government Procurement system as a pilot study. The system was
+
+
+rolled out to eleven government entities so far. The researcher focused on the Ministry of Water
+&Environment (MoWE) to execute this study.
+
+3.4 Sample size.
+
+
+The researcher used purposive or judgemental sampling among the Government entities. A
+purposive sample refers to selection of units based on personal judgement rather than randomization
+according to Elder (2009). This judgemental sampling was “representative” of the population of
+interest without sampling at random. One of the commonest uses of purposive sampling is in studies
+based on very small numbers of areas or sites. It was more applicable in this study since the
+researcher only targeted Government entities that had adopted e-procurement.
+
+n= N
+
+1+N(e)2
+
+n= Sample size
+N= Population
+e= error terms(0.01-0.10)
+(0.05)
+5%
+The study population was 11 government entities.
+n= 11
+1+11(0.05)2
+
+
+n= 11
+1.0275
+
+
+n= 10.71
+
+
+n= 60 x10.71
+n=58
+
+
+The researcher obtained and collected data from 49 respondents out of the 58 targeted respondents
+in-order to fulfill the research objectives of this study.
+
+
+
+
+
+3.5 Data source.
+
+
+Primary Data source.
+
+
+Primary data refers to the original data that is collected firsthand by the researcher specifically for
+the research study at hand. These are first hand information collected through methods like
+observation and interviews (Krishnashwami, 2003).
+It is collected through various methods, such as surveys, interviews, observations, experiments, or
+measurements, with the purpose of addressing the research questions and objectives.
+
+Primary data is valuable because it will provide direct and tailored information relevant to this
+specific research study, allowing the researcher to gather firsthand insights and analyze data
+according to the research objectives.
+
+Some of the of primary data collection methods the researcher used include:
+
+
+Surveys: The researcher used questionnaires surveys to collect data from participants. These
+surveys where administered in person.
+
+Interviews: The researcher conducted semi-structured interviews to gather information from
+participants. Interviews where face-to-face and conducted via video conferencing tools for example
+Google Meet.
+
+Observations: The researcher directly observed and recorded behaviors, interactions and phenomena
+in their natural setting. The researcher used structured observation protocols to engage in participant
+observation.
+
+Secondary Data.
+
+
+This refers to data that is got from secondary sources, so are data already exist
+(Mugenda, 2003). For the purpose of this study, the researcher collected the available
+information from different sources such as books, internet searching, journals and
+different research materials done by other researchers. The aim was to relate,
+compare and draw conclusion from existing problem.
+
+3.6 Data collection methods.
+
+
+Both primary and secondary data was obtained. In this current study, data was collected using two
+key methods: the questionnaire survey method and the interview method.
+
+3.6.1 Questionnaire Survey method.
+
+
+A questionnaire is a research instrument consisting of a series of questions and other prompts for the
+purpose of gathering information from respondents. A questionnaire was used to collect quantitative
+data, it enabled the researcher to obtain firsthand information and more experience over a short
+period of time (Creswell, 2003). The researcher chose to use the questionnaire survey because it
+was practical, large amounts of information was collected from a large number of people in a short
+period of time. The questionnaire was cheap and fast to administer (Kothari, 2004). Questionnaire
+survey as a method increased the degree of reliability as well as enhanced the chances of getting
+valid data (Amin, 2005). Questionnaires where self-administered to Procurement Professionals, key
+officers in the Ministry of Water and Environment (MoWE) and its designated suppliers and
+service providers.
+
+3.6.2 Interview Method.
+
+
+An interview is a conversation between people where items are asked by the interviewer to extract a
+response or statements from the interviewee (Basheka, Barifaijo and Oonyu, 2010). According to
+Kothari (2004), interviews are an oral interaction between the interviewee and interviewer on a
+particular issue, interviews describe the life events and experiences of the respondents with respect
+to analysis of the significance of the portrayed phenomena. Interviews allowed the researcher to
+collect qualitative data. Person to person interviews where conducted with a selected number of
+respondents. Interviews where used because they have the advantage of ensuring probing for more
+
+
+information, clarification and capturing perceptions of the interviewees according to the study
+(Amin, 2005). Interviews also gave an opportunity to the researcher to revise some of the issues that
+had been an over-sight in other instruments and yet are considered vital for the study. Interviews
+where used to explore in detail the study variables. Sekaran(2003) viewed interviews as one of the
+most essential sources of data. Creswell (2003) further emphasized that “with grounded theory the
+most common form of interviews is the face to face unstructured or more realistically, semi
+structured, open ended, ethnographic, in depth conversational interview.
+
+3.6.3 Documentary Review Analysis.
+
+
+The documentary review checklist involved reviewing documentary data. Documentation cannot be
+underestimated as it provides necessary background and much needed context both of which make
+re-use a more worthwhile and systematic endeavor according to Creswell (2009). Secondary data
+was obtained through the use of published and unpublished documents. According to Amin (2005),
+secondary data is helpful in the research design of subsequent primary research and provides a
+baseline with which the collected primary data results can be compared to other methods. The
+researcher used this method to obtain existing data to measure the variables of this study.
+
+3.7 Data collection instruments.
+
+
+The key data collection instruments used where the questionnaires, interview guide and
+documentary review checklist.
+
+3.7.1 Questionnaire.
+
+
+A questionnaire is a reformulated written set of questions to which respondents record their
+answers, usually within rather closely defined alternatives (Kothari, 2004). Questionnaires allowed
+the researcher to obtain relative information from a large sample, because it gave respondents time
+to answer, allowed respondents to remain anonymous. Self-administered questionnaires where
+embraced by the researcher to collect data from Procurement Professionals and other stakeholders
+that use the E-GP system at the Ministry of Water and Environment and its designated service
+providers. According to Mugenda(1999), the questionnaire is considered the best way of collecting
+data from respondents because it is easy to administer and obtain data within a short time from a
+large number of respondents. In this study, a self-administered questionnaire was used to gather data
+
+
+regarding the study. The researcher used a questionnaire as an instrument because the study is
+virtually descriptive and the tool is an easy method of data collection. The questionnaire consisted
+closed ended questions purely structured in nature whose variables where measured on a 5 point
+Likert scale (5 Strongly Agree, 4 Agree, 3 Not sure, 2 Disagree and 1 Strongly Disagree). The 5
+point Likert scale was the most appropriate way to formulate the different questions for measuring
+different items from different variables in this study.
+
+3.7.2 Interview Guide.
+
+
+An interview guide is an instruments that guides the conversation between people where items are
+asked by the interviewer to elicit a response or statements from the interviewee (Basheka, Barifaijo
+and Oonyu, 2010:34). Interviews where conducted on a face to face basis with key respondents.
+Interviews where conducted with 4 Procurement Professionals, 3 Ministry of Water and
+Environment Officials and 3 Service providers of the Ministry. Interviews have the advantage of
+ensuring probing for more information, clarification, different perceptions and capturing facial
+expression of the interviewees, investigate issues in an in depth way, discover how individuals think
+and feel about a topic and why they hold certain opinions, investigate the use, effectiveness and
+usefulness of particular library collections and services (Amin, 2005). Interviews comprised semistructured and unstructured questions that where written basing on the variables of the study.
+
+
+3.7.3 Documentary Review Check list.
+
+
+The documentary review check list was used for purposes of reviewing documentary data.
+Documentary data was obtained through the use of published and unpublished documents like
+PPDA Reports and Ministry of Water and Environment Procurement Reports. Various publications,
+magazines, newspapers reports, contract documents, historical documents and other sources of
+published information where critically reviewed by the researcher. Amin (2005) stated that
+secondary data is helpful in the research design of subsequent primary research and provides a
+baseline with which the collected primary data results can be compared to other methods.
+
+3.8.1 Validity.
+
+
+Validity refers to the extent to which a research instrument accurately measures what it intends to
+measure. In other words, a valid instrument should assess the specific concept or construct it is
+designed to assess. The validity of the instrument quantitatively was established using the Content
+Validity Index (C.V.I). This involved the researcher scoring of the relevance of the questions in the
+instrument in relation to the study variables. Basing on Amin (2005), a C.V.I of more than 0.7
+implies that the tool is valid; this ensured that all items used to measure each variable where
+relevant in measuring what they where supposed to measure hence the instruments where valid as
+the coefficient of determination was above 0.7.
+
+To be more specific, the instruments where discussed with the supervisor to ensure construct and
+content validity. The construct validity of the instrument focused on ensuring that the
+respondents found the questions simple to understand and answer with regards to the study.
+To establish validity qualitatively, the instruments where given to an expert (supervisor) to
+evaluate the relevance of each item in the instrument to the objectives and rate each item on the
+scale of very relevant (4), quite relevant (3), somewhat relevant (2), and not relevant (1).
+
+3.8.2 Reliability.
+
+
+Qualitatively, reliability of the instruments was established through a pilot test of the
+questionnaire to ensure consistency and dependability and its ability to extract data that
+answered the objectives of the study. The results of the findings where subjected to a reliability
+analysis there after.
+
+Quantitatively, reliability was established using the Cronbach’s Alpha Reliability Coefficient
+test. Upon performing the test, the values 0.7 and above, showed that the items in the instrument
+where reliable. Based on Cronbach’s Alpha Coefficient, the scales for the variables were
+reliable. In the case of psychometric tests, must fall within the range of 0.7 above for the test to
+be reliable (Katebire, 2007).
+
+
+
+
+3.9 Data Collection Procedure.
+
+
+The researcher through proper channels obtained an introductory letter from Uganda
+
+
+Christian University which he used for purposes of introduction before the participants when
+Collecting data from the field. A close ended questionnaire was administered in a period of a week
+to all categories of respondents and after the instruments where collected and the data was analyzed
+both quantitatively and qualitatively. Interviews were also conducted in a period of two weeks with
+a few selected respondents to obtain primary data from the designated respondents.
+
+3.10 Data Analysis Techniques.
+
+
+The researcher used both qualitative and quantitative methods of data analysis. Data Analysis
+followed an inductive content analysis that permits identification of themes and patterns of
+explicit word used in raw data and literature reviews (Ragin, 2007:99).
+
+3.10.1 Quantitative Data Analysis.
+
+
+Data was analyzed using the Statistical Package for Social Sciences (SPSS) method. This study
+adopted descriptive and inferential statistics to analyze data. The quantitative data was obtained
+from the questionnaires, computed frequencies, percentages, standard deviation and mean was
+obtained. The researcher adopted inferential statistics that enabled the use of bi-variate analysis
+techniques in analyzing data. The techniques adopted where Pearson Correlations
+Coefficients, and Regression analysis. According to Sekaran (2003), a correlation study is most
+appropriate to conduct the study in the natural environment of an organization with minimum
+interference by the researcher and no manipulation.
+
+3.10.2 Qualitative Data Analysis.
+
+
+This study embraced content and thematic analysis to analyze qualitative data. Thematic analysis
+was the most common form of analysis in qualitative research of this study as it emphasized
+pinpointing,
+examining, and recording patterns (or "themes") within data. Themes are patterns across data sets
+that are important to the description of a phenomenon and are associated to a specific research
+question. The themes become the categories for analysis. Thematic analysis is performed through
+the process of coding in six phases to create established, meaningful patterns (Creswell, 2003).
+These phases are: familiarization with data, generating initial codes, searching for themes among
+codes, reviewing themes, defining and naming themes, and producing the final report. Thematic
+
+
+analysis goes beyond simply counting phrases or words in a text and moves on to identifying
+implicit and explicit ideas within the data (Kothari, 2004). The interpretation of these codes can
+include comparing theme frequencies, identifying theme co-occurrence, and graphically
+displaying relationships between different themes. Data was coded to undertake thematic
+development and analytical categorization, the researcher also had to reduce the data to small and
+manageable levels by use of coding and later transcribing.
+
+
+CHAPTER FOUR
+DATA PRESENTATION, ANALYSIS AND INTERPRETATION
+
+
+4.1 Introduction
+
+
+This Chapter presents the response rate, a description of the background variables, the relationship
+of the findings with the study objectives, data analysis, and interpretation of the findings. The study
+examined how the Electronic Government Procurement system is solving precedent procurement
+problems of public procurement in Uganda drawing empirical evidence from the Ministry of Water
+and Environment (MoWE), Luzira Kampala, Uganda. The objectives of this study were: to
+investigate transparency under the E-GP system in Public procurement, to investigate efficiency
+under the E-GP system in Public Procurement and to analyze contract management under the E-GP
+system in Public procurement with case of the Ministry of Water and Environment (MoWE),
+Uganda.
+
+4.1 Response Rate
+Presentation of tabulated data according respondents’ response rate.
+Table 4.1: Response Rate
+
+Instrument
+Target response
+Actual response
+Response rate
+Questionnaire
+79.3%
+Interview
+56.2%
+Total
+
+From Table 4.2 above, out of the 16 respondents who were expected to be interviewed, actually 9
+were finally interviewed making a response rate of 56.2%. Out of the 58 questionnaires that were
+distributed, 46 were returned making 79.3% response rate. This response rate was considered
+sufficient since according to Mugenda (1999), a response rate of 50% and above is good enough for
+a study.
+
+4.3 Findings on Demographic characteristics of the respondents
+The background characteristics of respondents included age, gender and education. The findings
+are presented in the next sub-sections:
+
+
+4.3.1 Age of respondents
+The age distribution of respondents was observed and findings are presented in Table 4.2 below
+Table.4.2 Age respondents
+
+Age
+20-30 years
+22.4%
+30-40 years
+42.8%
+Above 40 years
+34.6%
+Total
+100%
+
+From the above table, all the respondents that took part in the study were above the age of 20. A
+total percentage of 22.4% were between the age of 20-30 years, 42.8% were between the age of 30-
+40 years, above 40 years 34.6%. This indicated that all categories of respondents in reference to
+different age groups were represented in this study.
+
+4.3.2 Gender characteristics
+
+
+Gender was investigated for this study, and related data presented in Table 4.3.
+
+
+Table 4.3: Gender of the Respondents
+
+
+Gender
+Male
+67.3%
+Female
+32.6%
+Total
+100%
+
+
+
+Table 4.3 shows that the majority of the respondents (33) were males (67.3%) and (16) of them
+were females (32.6%). Although results show gender variation between the males and females, the
+study was representative since both males and females provided their views on the objectives of the
+study. These results indicated the study was representative of all sexes since both males and female
+were included in the study.
+
+Table 4.4: Highest level of education the Respondents
+
+
+The table below presents the summary of statistics on the education level of the respondents
+
+
+
+
+Highest level of education
+
+
+Education
+Certificate
+6.1%
+Diploma
+14.2%
+Degree
+55.1%
+Others
+24.4%
+Total
+100%
+
+Majority of the respondents were degree holders (55.1%) compared to (24.4%) that belong to the
+category of others, (14.2%) diploma holders and (6.1%) certificate holders. These results indicate
+that the respondents had reasonably good education qualifications and the desired skills and
+knowledge to deliver the desired data for the study. On the basis of the education levels, the
+respondents were able to read, understand the questionnaire and gave appropriate responses.
+
+4.4 Presentation of Descriptive Findings
+This section gives an insight on the three objectives of the study as laid down in chapter one. The
+study tools were made up of four sections respectively. These responses ranged from Strongly
+Agree (SA), Agree (A), Disagree (D), Strongly Disagree (SD), to Neutral (N) ,and the respondents
+were required to indicate the extent to which they agree or disagree with the statements. The
+questions were assigned weight on a 5-point scale rated 1 to 5 as follows: Strongly Agree (1), Agree
+(2), Neutral (5), Disagree (3) and Strongly Disagree (4).The findings were presented on the basis of
+the study objectives.
+
+4.4.1 Transparency and efficiency under the E-GP system in Public Procurement.
+The first objective investigated the level of transparency and efficiency under the Electronic
+Government Procurement system. The findings to address this objective were obtained using
+questionnaire surveys and interviews. The self administered questionnaire measured transparency
+and efficiency under E-GP using ten items on a five point Likert scale. The ten items on
+transparency and efficiency are presented in Table 4.5. The items were scaled using the five-point
+
+
+Likert scale where code 1 = Strongly Agreed, 2 = Agreed, 3 = Disagreed, 4 = Strongly Disagreed
+and 5 = Neutral. For each of the above items, descriptive statistics that include frequencies,
+percentages and means are presented in table 4.5 below.
+
+
+
+
+Table 4.5: Descriptive Statistics for Transparency and Efficiency under the E-GP system.
+
+
+Item measures for Transparency and Efficiency
+Mean
+Standard
+Deviation
+SA/A
+SD/D
+Procurement policies, guidelines, and procedures are
+easily accessible to all relevant stakeholders.
+4.448
+.756
+90.6%
+9.4%
+Stakeholders
+have
+visibility
+into
+the
+factors
+influencing procurement decisions.
+3.888
+.666
+73%
+27%
+The organization has a clear process for managing and
+disclosing conflicts of interest in procurement
+1.995
+.3775
+19.5%
+80.5%
+The e-procurement processes are monitored and
+audited for transparency and compliance.
+4.223
+.567
+77.3%
+22.7%
+Audit reports and findings are shared with relevant
+stakeholders.
+3.779
+.779
+71.1%
+18.9%
+Procurement
+decisions
+and
+outcomes
+are
+communicated effectively to relevant parties.
+4.563
+.9305
+94.0%
+6.0%
+The organization ensures confidentiality for relevant
+information about suppliers/vendors participating in
+procurement processes.
+1.97
+.453
+25.5%
+74.5%
+The organization provides avenues for stakeholders to
+provide feedback on procurement processes.
+3.888
+.666
+73%
+27%
+The E-GP system has led to a cost reduction in
+procurement processes of the organization.
+4.448
+.756
+90.6%
+9.4%
+The E-GP system has increased competition among
+bidders in procurement processes of the organization.
+4.855
+.797
+97.4%
+2.6%
+Source: Field data, 2023
+N=49
+
+
+Generally, the results as presented in the above table 4.5 indicate a high degree of rating of
+almost all the items that measured the level of transparency and efficiency under the E-GP
+system based on the mean scores which were all above 3 on the basis of a maximum score of 5
+since the survey instrument had a 5 point Likert scale. This position is supported by the high
+
+
+percentage scores on those who agreed with each of the statements. The quantitative results
+presented above reflect the perception of the respondents. On the other hand, there are findings
+from interviews and documentary reviews that give the status of the E-GP system in driving
+transparency and efficiency whereby the respondents were asked if procurement policies,
+guidelines, and procedures are easily accessible to all relevant stakeholders. The trend of
+responses which was more inclined to agreement was further reflected through the mean of 4.448
+that indicated that the majority agreed with the item.
+
+On conditions of anonymity, a senior procurement officer noted that:
+
+
+" Even the least concerned citizens of Uganda can easily access policies and guidelines that govern
+procedural activities of public purchasing by simply navigating through the official website of the
+PPDA where almost all information on the E-GP system is availed to the people of Uganda."
+
+This implies that all the required policies and guidelines of Public procurement are available on the
+E-GP system to enable the relevant stakeholders to execute their procurement activities efficiently
+and transparently while following the set regulations.
+
+The findings of the study further revealed that 73% of the respondents agreed with the item that
+stated that the stakeholders have visibility into the factors influencing procurement decisions. The
+computed test figures reveal that the mean 3.888 indicated that stakeholders have an insight into the
+drivers of decision making in the procurement activities on this system for example: cost, quality,
+supplier reputation, regulatory compliance, sustainability and strategic alignment with
+organizational goals.
+
+Survey findings further revealed that the majority 80.5% disagreed with the item that stated that the
+organization has a clear process for managing and disclosing conflicts of interest in procurement
+processes. The computed test figures reveal that the mean 1.995 indicated that the majority of the
+respondents disagreed with the item implying that disclosing conflicts of interest among individuals
+involved in the procurement processes is still difficult.
+
+A procurement officer noted that:
+
+
+" Since most of the procurement activities are carried out online, relevant stakeholders initiate and
+carry out procurement activities at different stages of the procurement process making it a challenge
+to identify the relationship between the bidders being evaluated and the evaluators. It is very
+difficult to know when an individual is subject to two coexisting interests that are in direct conflict
+with each other."
+
+This implies that a person is capable of deriving some advantage for personal benefit or to avoid a
+personal disadvantage if a decision made in their official capacity has a particular outcome hence
+this study showed that identifying conflicts of interests is still a major gap in the E-GP system in
+ensuring transparency in public purchasing procedural activities and needs to be addressed. This
+also makes it difficult to mitigate collusive vices and behaviors in public procurement.
+
+The findings of the study further revealed that 77.3% of the respondents agreed with the item that
+stated that e-procurement processes are monitored and audited for transparency and compliance.
+The computed test figures reveal that the mean 4.223 indicated that majority of the respondents
+agreed with the item implying that there are effective metrics that have been put in place to measure
+and monitor the performance, compliance and transparency in the procurement processes which
+leads to efficiency and management of audit trails in the E-GP system.
+
+On conditions of anonymity, one of the commissioners noted that:
+
+
+" the E-GP system generates electronic trails of all procurement-related activities, providing a
+transparent record of the entire process, right from the point of requisition to the point of payment."
+
+This implies that user access controls on the E-GP system limit who can access and modify
+procurement data, ensuring that only authorized personnel can perform specific actions and multitier approval workflows ensure that procurement decisions are reviewed by relevant parties,
+preventing unauthorized personnel can access specific parts of the system, reducing the risk of
+unauthorized actions for-example manipulating the data and decisions. The E-GP system also
+generates real-time reports that provide insights into the procurement process. These reports enable
+stakeholders to identify any deviations from established protocols. The study also discovered that
+the E-GP system incorporates document management systems that securely store and manage
+procurement-related document. This ensure that all necessary documents are available for audit and
+
+
+review hence ensuring transparency and compliance is maintained throughout the procurement
+
+The respondents were asked whether audit reports and findings are shared with relevant
+stakeholders. The trend of responses which was more inclined to agreement was further reflected
+through the mean of 3.779 that indicated that the majority agreed with the item.
+
+
+
+
+One of the Human Resource officers noted that:
+
+
+" the E-GP system is comprised of transparency and accountability measures, which include
+sharing audit reports with relevant stakeholders. These reports help to ensure that the procurement
+process is fair, efficient, and in compliance with regulations."
+
+The study also discovered that the E-GP system supports feedback and reviews from different
+stakeholders for-example suppliers as they are able to access the complaints platform on the
+supplier guide assistant portal which gives them the opportunity to air out their grievances and
+suggestions about procurement issues at different stages of the procurement process, the systems
+functionality and the general user experience on the system.
+
+On conditions of anonymity, a manager of one of the suppliers of MoWE confirmed that:
+
+
+"on different occasions, emails from the E-GP system administrators where issued to service
+providers requesting feedback and inviting them to participate in surveys to gather insights about
+their experience with this system."
+
+The findings of the study further revealed that 94.0% of the respondents agreed with the item which
+stated that procurement decisions and outcomes are communicated effectively to relevant parties.
+The computed test figures reveal that the mean 4.563 indicated that majority of the respondents
+agreed with the item implying that stakeholders are notified about various decisions made at
+different stages of the procurement process on the system. The voluntary disclosure of information
+contributes to enhanced transparency and openness, as well as avoiding the costs associated with
+the administrative reviews, procedures and fees to file requests for information by relevant
+
+
+stakeholders. The E-GP system often maintains audit trails of the procurement process, including
+decisions made at various stages. These audit trails can be accessed by authorized stakeholders to
+understand the rationale behind the decisions. The system also issues automated email notifications
+to stake holders when procurement decisions are made. These email contain details about awarded
+suppliers, contract terms and other relevant information. The study further revealed that the E-GP
+system provides real-time notifications to stakeholders for-example suppliers, government entities
+and other relevant people about updates on bid evaluations, contract awards and other important
+decisions hence ensuring transparency and efficiency through streamlining procurement activities
+and processes.
+
+The respondents were asked whether the organization ensures confidentiality for relevant
+information about suppliers/vendors participating in procurement processes. The trend of responses
+which was more inclined to disagreement which was further reflected through the mean of 1.97 that
+indicated that the majority disagreed with the item. This implied that the E-GP system focuses on
+transparency and leaves little to no room for the organization to maintain discretion and
+confidentiality about its suppliers because information about the awarded suppliers is made public
+on the system.
+In contradiction to the trend of response of this item. The researcher discovered that the E-GP
+system implements access controls which ensure that only authorized individuals for-example
+procurement officials have access to sensitive supplier information. During the bidding processes,
+suppliers’ identities and bid details are kept confidential until the evaluation process is completed to
+ensure a fair competition. Therefore, sensitive information about suppliers participation in
+procurement processes is kept confidential up to particular later stages in the process where such
+information is mandatory to be shared with the public on the E-GP system.
+
+The findings of the study further revealed that 90.6% of the respondents agreed with the item
+which stated that the E-GP system has led to a cost reduction in procurement processes of the
+organization. This implied that the E-GP system provides data analytics that can help procurement
+officials make more informed decisions for-example analyzing suppliers performance and historical
+pricing trends of suppliers. The system enforces standardized procurement procedures and
+documentation which reduces the potential for unnecessary expenses resulting from non-standard
+practices.
+
+
+A Records officer stated:
+" By adopting a digital platform for procurement operations, there has been a significant reduction
+in paper based documentation and printing costs because digital documents are easier to manage
+and store in the organization."
+
+An administrator additionally stated:
+" the E-GP system automates various procurement tasks for-example bid submission, evaluation,
+and contract award. This has reduced the need for manual processes, minimizing administrative
+costs and the associated possible human errors thus leading to a reduction in costs and enhancing
+efficiency in the procurement activities of the Ministry of Water and Environment."
+
+The investigation confirmed that the E-GP systems audit trail enables clear tracking of all
+procurement activities, making it easier to identify inefficiencies and areas of improvement. The
+study further revealed the systems online bid submissions and communication minimizes the need
+for suppliers and officials to travel for physical submissions or meetings. Faster communication and
+streamlined processes in the E-GP system leads to shorter procurement cycles, reducing the time
+and effort involved thus resulting into operational cost savings.
+
+The respondents were asked whether the E-GP system has increased competition among bidders in
+procurement processes of the organization. The trend of responses which was more inclined to
+agreement was further reflected through the mean of 4.855 that indicated that the majority agreed
+with the item. The response to this item had the highest mean in this study which implied that the E-
+GP system has widened the pool of potential suppliers, promoting healthy competition. The study
+further reveals that the increase in competition has significantly drove down prices thus leading to
+more cost-effective procurement decisions in the organization.
+
+An accounting officer noted that:
+" the E-GP system enables suppliers from various geographical locations to participate in
+procurement processes. This widens the pool of potential bidders, increasing competition."
+
+Survey findings revealed that the E-GP platform provides equal access to procurement
+opportunities, preventing favoritism or bias. This encourages new and diverse suppliers to
+participate and compete on a level playing field. The on-line nature of the E-GP system eliminates
+barriers related to physical presence which has allowed more suppliers to easily submit bids without
+
+
+the need for travel, reducing costs and time constraints. The transparent processes involved in the E-
+GP system builds trust among suppliers. This confidence in fair evaluation and award processes
+encourages more suppliers to participate and compete.
+
+4.4.1.2 Hypothesis testing one(1):
+The hypothesis stated that: there is a significant influence of the E-GP system ensuring transparency
+and efficiency in public procurement processes in the MoWE. The hypothesis was tested using
+Pearson Correlation Coefficient and Regression analysis.
+Table 4.6: Correlation matrix for the relationship between the E-GP system in ensuring
+transparency and efficiency.
+
+
+
+Correlations
+Transparency&Eff
+.271*
+.000
+Transparency&Efficiency
+N
+.271*
+.000
+Correlation is significant at the 0.01 level (2-tailed)
+Source: primary data (2023)
+N=49
+
+
+
+The findings of the survey show that the correlation coefficient is .271* and its significance level
+0.000, was positive with a probability value (p = 0.000) that is less than α = 0.01 level of
+significance portrayed a positive significant relationship between the E-GP system and ensuring
+transparency and efficiency in the procurement processes in the MoWE. Transparency and
+efficiency in the Ministry of Water and Environment is significantly influenced by the E-GP system.
+Therefore, an improvement and development of the E-GP system will lead to a significant
+improvement in the transparency and efficiency of the procurement activities in the Ministry of
+Water and Environment. The results of the hypothesis that stated that there is a positive significant
+relationship between the E-GP system in ensuring transparency and efficiency in the procurement
+processes in the Ministry of Water and Environment is upheld. Correlation coefficient is a
+numerical way to quantify the relationship between two variables, that is to say the independent and
+
+
+dependent and it is denoted by the symbol R. The correlation coefficient is mostly between -1 and 1,
+thus -1 < R < 1. The hypothesis is rejected if the earlier hypothesis was alternate and the finally
+tested hypothesis is null and the vice versa. Example if the calculated value is greater than the P
+value we accept the hypothesis.
+
+4.4.1.3 Regression Analysis
+Analysis using regression analysis technique was made to check for the level of influence the E-GP
+system in ensuring transparency and efficiency in the Ministry of Water and Environment and
+results are portrayed in the table 4.7 below
+Model Summary
+
+Model
+R
+R Square
+Adjusted R
+Square
+Std. Error of the Estimate
+.271a
+.511
+.521
+10.98772
+a:
+(Constant),
+E-GP
+Source primary data (2023)
+
+The Adjusted R square value is 0.521; this implied that the E-GP system explained only 52.1% of
+transparency and efficiency in the procurement activities in the MoWE. Therefore the E-GP system
+drives transparency and efficiency in the MoWE by 52.1%. From all the results, the hypothesis
+earlier suggested and stated that there is a positive significant relationship between the E-GP system
+in ensuring transparency and efficiency is therefore upheld.
+
+4.4.2 Contract management under the E-GP system.
+
+
+This objective of the study looked at how contracts are managed under the E-GP system in the
+MoWE. Survey findings to address this objective were obtained using a variety of methods
+including questionnaire surveys, interviews and document analysis. The self-administered
+questionnaire measured contract management under the E-GP system using 8 items on a Likert
+scale. The 8 items measuring contract management are presented in Table 4.8. The items were
+scaled using the five-point Likert scale where code 1 = Strongly Agreed, 2 = Agreed, 3 = Disagreed,
+4 = Strongly Disagreed and 5 = Neutral. For each of the above items, descriptive statistics that
+include frequencies, percentages and means are presented in table 4.8 below.
+
+
+Table 4.8: Descriptive Statistics for contract management under the E-GP system.
+
+
+CONTRACT
+MANAGEMENT
+UNDER
+THE
+E-GP
+SYSTEM
+Mean
+S.
+Devia
+tion
+S.A/A
+S.D/
+D
+Contracts are typically generated by the E-GP system in your
+organization (e.g., automated templates).
+4.520
+.3012 90.3%
+9.7%
+Contract information is accessible to relevant participants when
+needed. (e.g., digital repository, physical files).
+4.801
+.7032 91.1%
+8.9%
+The organization monitors contract milestones, such as renewal
+dates or deliverables.
+4.009
+.432
+80.0%
+20.0
+%
+The organization has a way to send automated notifications for
+critical contract events on the E-GP system. (e.g start, closure,
+handover).
+4.855
+.797
+97.4%
+2.6%
+Contract terms are never misunderstood or misinterpreted under
+the E-GP system.
+3.896
+.6780 69.1%
+31.9
+%
+Contracts can be modified under the E-GP system due to
+performance issues.
+4.710
+.5012 88.2%
+11.8
+%
+Risks can be identified and addressed within contracts under the
+E-GP system.
+2.201
+.6071 22.3%
+77.7
+%
+The organization seeks feedback from vendors/suppliers on
+contract-related processes on the E-GP system.
+4.201
+.7098 75.2%
+24.8
+%
+
+
+
+The general results as presented in the above table 4.8 show a high degree of rating of almost all the
+items that measured contract management under the E-GP system based on the mean scores which
+were all above 2 on the basis of a maximum score of 5 since the survey instrument had a 5 Likert
+scale. This position is further supported by the high percentage scores on those who agreed with
+each of the statements. The quantitative results presented above reflect the perception of the
+respondents. However there are findings from interviews that provide the status of how contracts
+are managed under the E-GP system.
+Survey findings revealed that the majority 90.3% agreed with the item that stated that contracts are
+typically generated by the E-GP system in your organization (e.g, automated templates). The
+computed test figures reveal that the 4.520 mean indicating that the majority of the respondents
+agreed with the item implying that the E-GP system plays a big role in generating contracts for
+
+
+procurement processes of the organization enabling contracts to managed easily on this system.
+Once the evaluation is complete, the system facilitates the contract award process electronically,
+notifying the successful bidder and generating contract documents.
+As a result of this, cost savings can be obtained through lower transaction costs, increased
+procurement process accuracy and quality, shorter procurement cycle times while relationships with
+contractors is enhanced, risk is better controlled and strategic sourcing is exploited (Neff, 2001).
+
+It was established from the respondents that 91.1% the majority of the respondents agreed with the
+item that stated that contract information is accessible to relevant participants when needed. (e.g.,
+digital repository, physical files). The statistical tabulation shows a mean of 0.7032 which indicated
+that contracts are typically created and sorted electronically, making them easily accessible to all
+relevant parties. This includes terms and conditions, specifications, and other contract details that
+are availed to the relevant participants in a contract. Parties are able to digitally sign contracts and
+issue digital time stamps which provide authentication and security during contract execution.
+
+Basing on survey findings, it was established from the respondents in relation to the third item that
+the organization monitors contract milestones, such as renewal dates or deliverables.. The majority
+80.0% agreed with the statement scoring a mean of 4.009 corresponding which implies the
+organization is able to monitor contracts and manage them effectively. The E-GP system uses a
+combination of digital tools and processes to ensure compliance, track performance and manage
+issues that arise.
+A Senior Procurement officer noted that:
+" the Key Performance Indicators are always defined in the contract, specific KPI’s and milestones
+that must be met are clearly stated in the contract terms. The KPI’s are tracked electronically to
+measure contractor performance."
+This means that the Electronic Government Procurement system has tools for monitoring contract
+performance including milestones, deliverables and payments. This helps to ensure that contracts
+are executed as per the contract terms. This implies that contract management on the E-GP system
+is reliable ensuring that procurement activities run smoothly in the MoWE.
+
+It was established the majority of the respondents 97.4% agreed with the item that stated that the
+organization has a way to send automated notifications for critical contract events on the E-GP
+system. (e.g start, closure, handover). The statistics revealed a mean of 4.855 indicating that the E-
+GP system uses predefined notification templates that specify the content and format of the
+
+
+notifications. The relevant parties in the organization are able to trigger notifications in real time
+for-example if the contractor submits a request for a contract amendment that requires immediate
+attention, the system is able to send an instant notification to the relevant parties.
+
+In connection to the item which stated that the contract terms are never misunderstood or
+misinterpreted under the E-GP system., the majority 69.1% agreed with the statement. A mean value
+of 3.896 and a standard deviation of 0.6780 was observed. This implied that contract terms, KPI’s
+and specific milestones are fairly understood on the E-PG system.
+
+A secretary to the administrative office noted that:
+" in some cases especially for complex contracts, legal experts are involved to ensure that all
+parties fully understand the legal implications and obligations outlined in the contract."
+
+The study further discovered that contracts within the E-GP system are usually drafted with clarity
+and precision. The contracts include detailed terms and conditions, specifications, performance
+metrics and other information that is relevant to minimize ambiguities. It should also be noted
+proper user training and on-boarding for different stakeholders of the E-GP system improves their
+understanding of how to navigate and interpret contract documents. However, whether contract
+terms are always understood heavily depends on various factors, including the complexity of the
+contract, the communication among stakeholders and the usability of the E-GP system.
+
+Basing on the survey findings, it was established from the respondents in relation to the item that
+Contracts can be modified under the E-GP system due to performance issues. The majority 88.2%
+agreed with the statement hence a mean of 4.710 implied that contracts can be modified on the
+A Records Officer noted that:
+" whenever there are changes to the contract during its execution, these changes are documented
+within the system, along with approvals to ensure proper management of modifications."
+This implies that necessary amendments to the contract can be documented and managed digitally
+through the system with appropriate approvals. Whenever performance issues or non-compliance
+with the contract terms and specifications is identified, the concerned parties in the MoWE forexample contract managers are able to initiate the contract modification process on this system. As
+the issues and proposed modifications are documented within the E-GP system whereby, the
+documentation contains clear description of the problem, the desired changes and the reasons for
+
+
+the modifications. In most cases where the amendments affect contract terms for-example scope,
+schedule and pricing, negotiations between the parties may be necessary to reach a mutually
+acceptable agreement. The E-GP system is able to facilitate this negotiation process by providing a
+platform for communication and documentation.
+
+It was established that the majority of the respondents 77.7% disagreed with the question that
+stated that Risks can be identified and addressed within contracts under the E-GP system. The
+statistical tabulation revealed a mean of 2.201 where the majority of the respondents disagreed with
+the item.
+Management of one of the service providers of the MoWE noted that:
+" we have not exploited the option of identifying and assessing risks om the E-GP system."
+
+
+This implies the most of the suppliers and service providers of the MoWE have not explored and
+exploited the risk management options on the E-GP system.
+
+In contradiction to the trend of responses for this item. The study investigated and discovered that
+the E-GP system allows stakeholders to identify potential risks associated with various contracts
+during the procurement process for-example delays, budget over runs, quality issues and legal
+compliance issues.
+Upon identification of the risks, the E-GP system facilitates the assessment of these risks by
+quantifying their potential impact and likelihood. This helps to prioritize which which risks should
+actively be managed.
+A procurement officer noted that:
+" when a risk event occurs, for-example a delay or quality issue, the E-GP system is able to
+document the event, including its impact and any action that may be taken to mitigate the risk."
+
+4.4.2.1 Hypothesis Two Testing: There is a positive significant influence of the E-GP system on
+contract management at the MoWE.
+The hypothesis was tested using Pearson correlation coefficient and the regression analysis, the
+results of the hypothesis are given table 4.9 below.
+
+
+Table 4.9: Correlation Coefficient matrix between the E-GP system and contract
+management.
+
+Correlations
+Contract mgt
+.786*
+.000
+Contract Management
+N
+.786*
+.000
+Correlation is significant at the 0.01 level (2-tailed)
+Source: primary data (2023)
+N=49
+
+The results show that the correlation coefficient is 0.786* and its significance level 0.000, which
+was positive with probability value (p = 0.000) that is less than α = 0.01 level of significance
+showing a positive significant relationship between the E-GP system and Contract management in
+the Ministry of Water and Environment. Therefore an improvement in the performance of the E-GP
+system will lead to a significant improvement in Contract Management in the procurement
+processes in the Ministry of Water and Environment. From all the results the alternate hypothesis
+that stated that there is a positive significant relationship between the E-GP system and Contract
+Management in the Ministry of Water and Environment is upheld. The correlation coefficient is a
+numerical way to quantify the relationship between two variables, i.e the independent and
+dependent and it is denoted by the symbol R. The correlation coefficient is mostly between -1 and 1,
+thus -1 < R < 1. The hypothesis is rejected if the earlier hypothesis was alternate and the finally
+tested hypothesis is null and the vice versa. Example if the calculated value is greater than the P
+value we accept the hypothesis.
+
+4.4.2.2 Regression Analysis
+Further analysis using regression analysis technique was made to analyze how contracts are
+managed under the E-GP system in the MoWE and results are shown in the table 4.10 below.
+
+Table 410: Regression analyzing the relationship between the E-GP system and Contract
+Management in the MoWE.
+
+
+Model Summary
+
+Model
+R
+R Square
+Adjusted R
+Square
+Std. Error of the Estimate
+.786a
+.684
+.662
+9.69201
+a:
+(Constant),
+E-GP
+Source primary data (2023)
+The coefficient of determination (Adjusted R square) value is 0.662; this implied that the E-GP
+system explained only 66.2% of contract management pf procurement processes in the MoWE.
+Therefore infrastructure and general performance of the E-GP system determines how contracts are
+managed in procurement processes in the MoWE by 66.2%. From all the results above, the alternate
+hypothesis earlier stated in chapter four that there is a significant relationship between the E-GP
+system and contract management of procurement processes in the MoWE is therefore upheld.
+
+
+CHAPTER FIVE
+
+
+SUMMARY OF FINDINGS,
+CONCLUSION AND RECOMMENDATIONS.
+
+5.1 Introduction
+This chapter presents the summary of findings, discussion of the study findings as presented in
+chapter four, conclusions and recommendations and areas for further research.
+
+5.2 Summary of Findings
+
+
+5.2.1 E-GP system in ensuring transparency and efficiency.
+
+
+Pearson’s Correlation Coefficient for the E-GP system in driving efficiency and transparency
+is .271* indicating a positive significant relationship between E-GP system and transparency and
+efficiency in the MoWE at the 52.1 % level of significance. Therefore, transparency and efficiency
+in the procurement processes at the MoWE is significantly influenced by the Electronic
+Government Procurement system. In addition, the regression analysis results portray that there is a
+positive relationship between the E-GP system in ensuring transparency and efficiency in
+procurement activities at the MoWE. Therefore, it should be noted that the E-GP system highly
+influences and drives transparency and efficiency in procurement activities at the MoWE. The
+alternative hypothesis earlier suggested in chapter one was upheld.
+
+5.2.2 Contract Management under the E-GP system.
+
+
+Pearson’s Correlation Coefficient for the E-GP system and Contract management of procurement
+processes is .786* showing a positive significant relationship between the E-GP system and contract
+management of procurement processes at a one percent level of significance. This therefore implies
+that, contract management of procurement processes is significantly influenced by the E-GP
+systems performance. In addition, the regression analysis results portrayed that there is a positive
+relationship between the E-GP system and contract management of procurement processes at the

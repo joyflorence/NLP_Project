@@ -1,0 +1,717 @@
+ 
+Available online at http://www.ifgdg.org 
+ 
+Int. J. Biol. Chem. Sci. 15(7): 82-89, December 2021 
+ 
+ISSN 1997-342X (Online), ISSN 1991-8631 (Print) 
+ 
+ 
+ 
+© 2021 International Formulae Group. All rights reserved.                                                          8686-IJBCS 
+DOI : https://dx.doi.org/10.4314/ijbcs.v15i7.9S                                                       Special issue; AfWA congress 
+Original Paper         http://ajol.info/index.php/ijbcs            http://indexmedicus.afro.who.int 
+ 
+Household-level Fluoride reduction from drinking water using crushed fired 
+clay – proof of concept 
+ 
+E. WOZEI*, B. NASASIRA and B. KUGONZA 
+ 
+Department of Engineering and Environment; Faculty of Engineering, Design and Technology, Uganda 
+Christian University; PO Box 4, Mukono, Uganda. 
+* Corresponding author; E-mail: ewozei@ucu.ac.ug; Tel: +256-312-350-232;  
+ORCID: 0000-0001-9726-5053 
+ 
+Received: 11-08-2020 
+Accepted: 03-09-2021 
+Published: 30-12-2021 
+ 
+ABSTRACT 
+ 
+Residents of Bunyangabu District in Uganda have reportedly suffered from cases of dental fluorosis 
+due to consumption of water with high levels of Fluoride from Ntabago Stream. A household-level sand filter 
+incorporating crushed fired clay as an adsorbent was designed for a household to reduce the Fluoride 
+concentration in their drinking water from the natural raw water levels (2-3 mgF/L) to permissible, healthy 
+levels (0.5-1.0 mg/L). Pieces of fired clay bricks were crushed, and particles of 150 µm to 300 µm in size were 
+selectively obtained by sieving. Stream water was filtered through replicate model layered filter columns of the 
+prepared clay, sand (fine sand of 150 µm-2 mm; coarse sand of 2-5 mm), and gravel (6-15 mm). It was found 
+out that fired clay layers of 2.5 and 5 cm thick reduce the concentration of Fluoride in water by up to 74%, to 
+less than 1.0 mg/L. This was deduced by evaluating Fluoride concentration in both the clay and water before 
+and after filtration, using the SPADNS Colorimetric method. Use of crushed fired clay for reduction in 
+Fluoride concentration in drinking water is the focus of this paper. Additional work will optimise filter design 
+to improve overall water quality.  
+© 2021 International Formulae Group. All rights reserved. 
+ 
+Keywords: Defluoridation, filter column, household-level water treatment. 
+ 
+ 
+INTRODUCTION 
+Fluoride is found in all natural waters 
+at varying concentrations (Djossou et al., 
+2015; Hisseien et al., 2015). Seawater 
+generally contains about 1.0 mg/L, while 
+rivers and lakes mostly exhibit concentrations 
+of less than 0.5 mg/L. In groundwater 
+however, low and high concentration of 
+Fluorides can occur, depending on the nature 
+of the rocks and the occurrence of Fluoride-
+bearing rocks (Djossou et al., 2015). Many of 
+the lakes of the African Rift Valley especially 
+the soda lakes, have extremely high Fluoride 
+concentration. 
+Geographical areas around the world 
+that have concentrations of Fluoride include 
+Syria, Jordan, Egypt, Libya, Algeria and 
+Morocco. It also includes the rift valley area 
+in Africa from Sudan through Kenya to 
+Tanzania and Malawi. Another geographical 
+area extends from Turkey through Iraq, Iran 
+and Afghanistan to India, northern Thailand 
+and China. The most affected areas by 
+Fluoride include India, China and Rift Valley 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+83 
+countries in Africa (Demelash et al., 2019; 
+Mosonik, 2015).  
+In Uganda, 6.45% of the water sources 
+exceed the standard value of Fluoride in 
+drinking water. The maximum value of 
+Fluoride in these waters is reported to be 3.31 
+mg/L and the most affected areas include 
+volcanic areas of Elgon, Mbale, Moroto and 
+the Rift Valley of western Uganda (Malago et 
+al., 2017). 
+Preliminary tests carried out in October 
+2018 on water from Ntabago Stream in 
+Western Uganda showed concentrations of 
+Fluoride between 2 mg/L to 3 mg/L, which 
+has led to fluorosis and discolouration of teeth 
+for the residents consuming the water (Figure 
+1). According to the Ugandan Standard 
+(UNBS, 2008), this range is greater than the 
+permissible levels (0.5 mg/L to 1.0 mg/L for 
+potable treated water, and 1.5 mg/L for 
+potable untreated water). This has made the 
+water unsafe for human consumption due to 
+high concentration of Fluoride in water (Das 
+and Mondal, 2016). 
+The National Water and Sewerage 
+Corporation (NWSC) has provided piped 
+water, but because of the cost attached, the 
+residents prefer free water from this stream to 
+piped water, which makes them susceptible to 
+health 
+risks 
+associated 
+with 
+Fluoride 
+contamination 
+(Table 
+1). 
+34% 
+of 
+the 
+population in Rwimi Town Council have 
+access to safe and clean water (MWE, 2018). 
+This implies that the bigger percentage (66%) 
+of the population have no access to safe and 
+clean water. The focus of this study is mainly 
+on the potential for defluoridation of water 
+from Ntabago Stream to permissible levels 
+using crushed fired clay as an adsorbent. 
+Crushed fired clay was chosen as it is 
+readily available to households in Uganda 
+where small scale industries involved in firing 
+of clay bricks for construction, firing of 
+pottery, and charcoal stove linings are 
+common. Other adsorbents have been studied 
+for fluoride reduction including bone char, 
+ceramics, and oxides (Djousse Kanouo et al., 
+2020; Yadav et al., 2018; Habuda-Stanić et 
+al., 2014; Madhukar et al., 2014; Loganathan 
+et al., 2013), but these may not be available at 
+household level. 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Affected residents of the study area showing teeth discolouration. 
+ 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+84 
+Table 1: Health impacts of Fluoride in drinking water. 
+ 
+Fluoride (mg/L) 
+Health Impact 
+< 0.5 
+Dental caries  
+0.5–1.5 
+Optimum dental health, works against dental caries  
+1.5–3 
+Dental fluorosis, blackening and pitting of enamel and teeth from long-term 
+exposure, mottled enamel, Roentgenographic bone changes, polydipsia  
+3–8 
+Skeletal fluorosis, damages foetus, increase in F-concentration in milk, infant 
+mortality due to calcification of blood vessels, lack of intelligence quotient in 
+children, osteosclerosis, renal diseases, elevated serum alkaline phosphatase, 
+stiffness of knees and hips, increased bone mineral density, bone and joint 
+pains.  
+10–100 
+Gastroenteritis, skin irritation, deformation of bones and other skeletal 
+abnormalities, thyroid changes, growth retardation, kidney damage, crippling 
+fluorosis.  
+Compiled from Madhukar et al. (2014) 
+ 
+ 
+MATERIALS AND METHODS 
+Raw water quality 
+Grab samples of stream water were 
+collected from three locations along the 
+Ntabago Stream (Figure 2) for raw water 
+Fluoride concentration analysis. 
+ 
+Defluoridation model filters 
+Model 
+filters 
+were 
+prepared 
+for 
+defluoridation filter test runs as follows: 
+Pieces of fired clay bricks were 
+crushed and sieved to obtain the particles that 
+pass through a 300 µm sieve and are retained 
+on a 75 µm sieve. After sieving, the clay was 
+washed to eliminate very fine particles (dust 
+of less than 75 µm). Clays reportedly have a 
+Fluoride adsorption capacity of 84-95 mg/g; 
+and over 85% adsorption for clays with high 
+Al and Fe content. Heat treatment (firing) 
+increases adsorption capacity (Madhukar et 
+al., 2014). 
+Sand was washed using clean water 
+until clean water from it was observed. The 
+sand was sun dried for two days, and fine sand 
+and coarse sand portions were obtained after 
+sieving.  Coarse sand and fine sand of 2 mm 
+to 5 mm, and 150 µm to 2 mm, respectively, 
+were used. 
+The gravel to be used was thoroughly 
+washed with clean water to eliminate dust and 
+then sun dried, after which gravel of size 6 
+mm to 15 mm obtained by sieving. 
+The model filter layers were arranged 
+with the gravel at the bottom, followed by 
+coarse sand, then fine sand, and crushed fired 
+clay at the top. The gravel and sand layers had 
+a constant thicknesses (5 cm) while the 
+crushed fired clay had varying layer thickness 
+(2.5 cm, 5 cm, 7.5 cm) in each of the three 
+model filters. 
+A 3 mgF/L solution comprised of 
+distilled water and Sodium Fluoride (NaF) 
+was prepared for the model filter test runs. 
+After stock preparation, the solution was 
+analyzed to confirm the concentration of 
+Fluoride ions using SPADNS Colorimetric 
+Method (APHA/AWWA/WEF, 1999). 750 
+mL of the 3 mgF/L solution was passed 
+through the model filter in each test run, and 
+the filtrate 
+was analysed for Fluoride 
+concentration. 
+The SPADNS Colorimetric Method 
+was used to determine the concentration of 
+fluoride in the water before and after 
+filtration. This Method is based on the 
+reaction between fluoride and a zirconium-dye 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+85 
+and relies on the fact that when Fluoride 
+reacts 
+with 
+certain 
+zirconium 
+dyes, 
+a 
+colourless complex anion and a dye are 
+formed. The complex, which is proportional 
+to the fluoride concentration, tends to bleach 
+the 
+dye 
+which 
+therefore 
+becomes 
+progressively 
+lighter 
+as 
+the 
+Fluoride 
+concentration increases. In the case of the 
+Fluoride ion reaction with Zr-SPADNS 
+(sodium 
+2-(parasulphophenylazo-)-1,8-
+dihydroxy-3,6-naphthalene disulphonate), the 
+resulting coloured complex is measured in a 
+spectrophotometer 
+at 
+570 
+nm 
+(APHA/AWWA/WEF, 1999; HP, 2000). 
+To determine the clay-adsorbed portion 
+of Fluoride, the clay was removed from the 
+filter and a homogenized sample washed 
+using 250 mL of 1 M of hydrochloric acid for 
+1-hour in order to extract Fluoride ions in a 
+solution. The acid enabled the detaching of 
+the Fluoride ions from clay particles into the 
+washing solution (Moon et al., 2015). 
+After one hour, the suspension was 
+filtered using a 0.45 µm micropore filter and 
+the filtrate was then analysed for Fluoride 
+concentration according to the SPADNS 
+Colorimetric Method as described above.  
+ 
+ 
+Adsorption capacity and effect of adsorbent 
+layer thickness 
+Fluoride reduction with tests with 
+model filters were carried to determined layer 
+thickness of the adsorbent and the initial 
+Fluoride ion concentration in the solution was 
+determined at ambient temperature (~25 °C). 
+The Fluoride concentration in the filtrate and 
+fired crushed clay from the filter was 
+determined using SPADNS Colorimetric 
+Method. Three model filter setup experiments 
+were used, and three test runs carried out on 
+each.  
+The effect of the adsorbent layer was 
+investigated by varying the crushed fired clay 
+layer thicknesses, and spiking the water to be 
+filtered with 3 mgF/L. The fired clay 
+thickness in the filters was varied from 
+between 2 cm to 10 cm (2.5 cm, 5 cm, and 7.5 
+cm). The concentrations of Fluoride in the 
+filtrate were determined after each test 
+(Motora 
+and 
+Tesema, 
+2017). 
+The 
+concentration of Fluoride retained in the clay 
+layer was determined in one of the three test 
+runs. 
+ 
+ 
+ 
+Figure 2: A sketch map showing location of sampling points along Ntabago Stream. 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+86 
+RESULTS  
+Defluoridation test runs 
+The 2.5 cm and 5 cm crushed fired clay 
+layer filters were able to reduce to the 
+Fluoride concentration in the filtered water by 
+71% and 74% respectively to within the 
+optimum range for dental health (0.5-1.5 
+mgF/L), which meets the Uganda National 
+Standard maximum limit of 1.5 mgF/L 
+(Figure 3). Other studies with fired clay show 
+similar reduction levels (Mottora and Tesema, 
+2017). 
+The 7.5 cm clay layer filter reduced the 
+Fluoride levels by 95% to below 0.5 mgF/L 
+(Figure 3), which is a risk factor for dental 
+caries. Reduction in the clay-free control was 
+about 10%. Therefore, the 5 cm clay layer 
+filter was chosen as a conservative option for 
+further study. 
+ 
+ 
+ 
+ 
+Figure 3: Defluoridation test runs show reduction of Fluoride to within and below the optimum 
+range for dental health in filtrate from model filters with a crushed fired clay layer receiving water 
+spiked with 3 mgF/L. 
+ 
+ 
+ 
+ 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+87 
+DISCUSSION 
+With the 7.5 cm clay layer, 95% of the 
+Fluoride could be accounted for in the filtered 
+water and HCl acid-washed clay, which 
+compares favourably with the findings of 
+Moon et al., (2015). However, with the 5 cm 
+and 7.5 cm clay layers only about 70% of the 
+spiked Fluoride was accounted for at the end 
+of the test run. It is therefore important to 
+carry out more tests to account for the 
+remaining 30% in order to understand the 
+defluoridation process better, and to determine 
+how long the clay layer can remain effective 
+before needing to be replaced. 
+ 
+Filtered water quality 
+Raw water quality improvement in 
+other parameters of interest was therefore 
+checked with a 5 cm clay layer test filter 
+(Table 2). 
+While the 5 cm clay layer model filter 
+reduces Fluoride levels to optimum, and 
+improves other physicochemical parameters 
+(Electrical Conductivity), it produces water 
+which needs still improvement in Apparent 
+colour, Turbidity and Total Suspended Solids 
+levels (Table 2). Further optimization of the 
+sand filter layer thickness is needed for overall 
+physicochemical and biological water quality 
+improvement for household level drinking 
+water treatment. An adaptation of the HACCP 
+(Hazard Analysis Critical Control Point) 
+methodology outlined by Gokpeya et al. 
+(2019) for household level clay water filters 
+shall form the basis for this assessment. 
+ 
+ 
+ 
+Table 2: Raw water quality before and after filtration. 
+ 
+Parameters 
+Units 
+Initial 
+quality 
+Filtrate 
+quality 
+Uganda National 
+Standards for 
+potable water 
+Filtered 
+water 
+compliance 
+pH 
+ 
+7.11 
+7.32 
+6.5 – 8.5 
+OK 
+Electrical Conductivity 
+µS/cm 
+980 
+348 
+≤ 1500 
+OK 
+Colour (apparent) 
+PtCo 
+207 
+74 
+≤ 15 
+High 
+Turbidity 
+NTU 
+39 
+9 
+≤ 5.0 
+High 
+Total Suspended Solids 
+mg/L 
+44 
+9 
+0.0 
+High 
+ 
+ 
+Conclusion 
+Ntabago Stream has between 2-3 mg 
+F/L, which is above the National Standard and 
+above the optimum range for dental health 
+(0.5-1.5 mgF/L). A crushed fired clay layer of 
+5 cm thickness in a model filter was adequate 
+for reducing Fluoride by 74% to the 
+permissible levels. The filter system was also 
+effective 
+at 
+reducing 
+water 
+Turbidity, 
+Electrical Conductivity, Apparent colour and 
+Suspended Solids. 
+Further studies will be done on 
+optimization of the defluoridation model filter 
+and process. This would aid in determining 
+the contact time for optimum Fluoride 
+reduction, 
+the 
+period 
+after 
+which 
+the 
+adsorption sites are fully saturated, potential 
+for adsorbent regeneration, maintenance best 
+practice for the filter system, and the filter 
+layer requirements for achieving overall safe 
+drinking water quality at household level. 
+ 
+ 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+88 
+COMPETING INTERESTS  
+The authors declare that they have no 
+competing interests. 
+ 
+AUTHORS’ CONTRIBUTIONS  
+All 
+authors 
+contributed 
+to 
+the 
+conception and design, and analysis. EW was 
+the principal investigator. BN and BK 
+contributed to material preparation and data 
+collection. EW led the manuscript writing and 
+made revisions. 
+ 
+ACKNOWLEDGMENTS  
+The authors thank F. Okot of the UCU 
+Environmental 
+Quality 
+Laboratory 
+for 
+technical assistance and advice. 
+ 
+REFERENCES 
+APHA/AWWA/WEF. 
+1999. 
+Standard 
+Methods for the Examination of Water 
+and 
+Wastewater. 
+Method 
+4500-F- 
+Fluoride D. SPADNS Method. American 
+Public 
+Health 
+Association/American 
+Water 
+Works 
+Association/Water 
+Environment Federation: Washington 
+DC, USA. 
+Das K, Mondal NK. 2016. Dental fluorosis 
+and urinary fluoride concentration as a 
+reflection of fluoride exposure and its 
+impact on IQ level and BMI of children 
+of Laxmisagar, Simlapal Block of 
+Bankura 
+District, 
+W.B., 
+India. 
+Environmental 
+Monitoring 
+and 
+Assessment, 188(4) Article 218. DOI: 
+https://doi.org/10.1007/s10661-016-
+5219-1 
+Demelash H, Beyene A, Abebe Z, Melese A. 
+2019. Fluoride concentration in ground 
+water and prevalence of dental fluorosis 
+in Ethiopian Rift Valley: systematic 
+review and meta-analysis. BMC Public 
+Health, 
+19: 
+1298, 
+9pp. 
+DOI: 
+https://doi.org/10.1186/s12889-019-
+7646-8 
+Djousse Kanouo BM, Fru Fonteh M, Pindjou 
+Ngambo S. 2020. Development of a low 
+cost household bone-char defluoridation 
+filter. International Journal of Biological 
+and Chemical Sciences, 14(5): 1921-
+1927. 
+DOI: 
+https://doi.org/10.4314/ijbcs.v14i5.33 
+Djossou D, Adechina A, Kelome N, Houinato 
+D, Pili Pili CM. 2015. Analysis of the 
+chemical quality of underground waters 
+in the municipality of Dassa-zoumè. 
+International Journal of Biological and 
+Chemical Sciences, 9(5): 2735-2742. 
+DOI: 
+http://dx.doi.org/10.4314/ijbcs.v9i5.42 
+Gokpeya MB, Sackou JK, Claon JS, Oka 
+BMC, Kouadio LK. 2019. Analyse des 
+risques sanitaires dans la production de 
+filtres à eau en céramique à Abidjan, 
+Côte d’Ivoire. International Journal of 
+Biological 
+and 
+Chemical 
+Sciences, 
+13(2): 
+1210-1221. 
+DOI: 
+https://dx.doi.org/10.4314/ijbcs.v13i2.49 
+Habuda-Stanić M, Ravančić ME, Flanagan A. 
+2014. A Review on Adsorption of 
+Fluoride 
+from 
+Aqueous 
+Solution. 
+Materials (Basel, Switzerland), 7(9): 
+6317-6366. 
+DOI: 
+https://doi.org/10.3390/ma7096317 
+Hisseien Aa-T, Kamga R, Mahamat TN. 
+2015. 
+Physico-chemical 
+analysis 
+of 
+Logone River water at Moundou City in 
+Southern Chad. International Journal of 
+Biological and Chemical Sciences, 9(3): 
+1654-1664. 
+DOI: 
+http://dx.doi.org/10.4314/ijbcs.v9i3.44 
+HP. 
+2000. 
+Hydrology 
+Project 
+Training 
+Module # WQ – 36 How to measure 
+Fluoride: SPADNS Spectrophotometric 
+Method. DHV Consultants BV and Delft 
+Hydraulics: New Delhi. 
+Loganathan P, Vigneswaran S, Kandasamy J, 
+Naidu 
+R. 
+2013. 
+Defluoridation 
+of 
+drinking 
+water 
+using 
+adsorption 
+processes. 
+Journal 
+of 
+Hazardous 
+Materials, 
+248–249: 
+1-19. 
+DOI: 
+https://doi.org/10.1016/j.jhazmat.2012.1
+2.043 
+Yadav KK, Gupta N, Kumar V, Khan SA, 
+Kumar A. 2018. A review of emerging 
+adsorbents and current demand for 
+defluoridation of water: Bright future in 
+water 
+sustainability. 
+Environment 
+International, 
+111: 
+80-108. 
+DOI: 
+
+E. WOZEI et al. / Int. J. Biol. Chem. Sci. 15(7): 82-89, 2021 
+ 
+89 
+https://doi.org/10.1016/j.envint.2017.11.
+014 
+Madhukar M, Sadashiya M, Udayashankara 
+TH. 2014. A Review on Conventional 
+and 
+Alternative 
+Methods 
+for 
+Defluoridation of Water. Journal of 
+Water 
+Pollution 
+and 
+Purification 
+Research, 
+1(2): 
+1-12. 
+DOI: 
+https://doi.org/10.37591/jowppr.v1i2.534 
+Malago J, Makoba E, Muzuka ANN. 2017. 
+Fluoride levels in surface and ground 
+water in Africa: A Review. American 
+Journal 
+of 
+Water 
+Science 
+and 
+Engineering, 
+ 
+3(1): 
+1-17. 
+DOI: 
+https://doi.org/10.11648/j.ajwse.2017030
+1.11 
+Moon DH, Jo R, Koutsospyros A, Cheong 
+KH, Park JH. 2015. Soil Washing of 
+Fluorine 
+Contaminated 
+Soil 
+Using 
+Various Washing Solutions. Bulletin of 
+Environmental 
+Contamination 
+and 
+Toxicology, 
+94(3): 
+334-339. 
+DOI: 
+http://dx.doi.org/10.1007/s00128-014-
+1449-5 
+Mosonik BC. 2015. Assessment of Fluoride 
+Levels in Drinking Water Sources in 
+Lower Region of Bomet County, Kenya 
+and Remediation Using Moringa oleifera 
+Seed Cake. MSc Dissertation. Jomo 
+Kenyatta University of Agriculture and 
+Technology (JKUAT), Kenya. 
+Motora KG, Tesema DA. 2017. Removal of 
+Fluoride from Aqueous Solution Using 
+Fired Clay Soil Pillared with Tea Leaf 
+Ash 
+Components. 
+Indo 
+American 
+Journal of Pharmaceutical Research, 
+7(09): 
+424-435. 
+DOI: 
+https://doi.org/10.5281/zenodo.1036319 
+MWE. 2018. Uganda Water Supply Atlas, 
+Kampala. 
+Minstry 
+of 
+Water 
+and 
+Environment (MWE). 
+UNBS. 2008. US 201: Drinking (Potable) 
+Water (2nd Edn). Uganda National 
+Bureau of Standads (UNBS). 
+ 
+ 
+ 
+  
+ 

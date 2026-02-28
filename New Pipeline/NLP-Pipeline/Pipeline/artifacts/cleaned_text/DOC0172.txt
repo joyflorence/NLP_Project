@@ -1,0 +1,1482 @@
+THE IMPACT OF TAXATION ON THE FINANCIAL PERFORMANCE OF SMALL BUSINESS
+ENTERPRISES: A case study of Mbarara Central Market, Mbarara City
+
+
+
+
+
+
+
+WOL MANGAR
+S19B33/026
+
+
+A RESEARCH DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF BACHELOR OF SCIENCE IN
+ACCOUNTING AND FINANCE OF UGANDA CHRISTIAN UNIVERSITY
+
+
+
+August, 2023
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+
+I dedicate this work to my family for the enormous support and understanding during the
+times I was not available for them while undertaking this course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENTS
+
+To successfully complete this work has been the effort of a number of people and making
+mention of everyone here may not be possible but the omission of any name(s) is not to
+mean they are not Acknowledged. I am grateful beyond mention to my supervisors
+Madam Lorraine Akinyi for the professional and timely responses whenever I submitted
+my work for guidance.
+To all my lecturers at Uganda Christian University, I say thank you for the knowledge and
+skills that have enabled me to put together this piece of work
+To all my BSAF course mates, friends at Bachelors and the rest of Mbarara Staff, a big
+thank you for the encouragement and support.
+Above all to the almighty God that has seen me through every single day of my life and
+brought me thus far. To him be the Glory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+
+
+LIST OF TABLES
+DECLARATION ..................................................................................................................................... ii
+APPROVAL........................................................................................................................................... iii
+ACKNOWLEDGEMENTS ....................................................................................................................... v
+LIST OF TABLES .................................................................................................................................. vi
+LIST OF FIGURES ............................................................................................................................... xi
+LIST OF ABBREVIATIONS .................................................................................................................. xii
+ABSTRACT ........................................................................................................................................ xiii
+CHAPTER ONE: INTRODUCTION ....................................................................................................... 0
+1.0 Introduction ................................................................................................................................. 0
+1.2 Statement of the problem ........................................................................................................ 2
+1.3 General objective ....................................................................................................................... 3
+1.4 Specific objectives ..................................................................................................................... 3
+1.6 Hypotheses of the study ............................................................................................................ 3
+1.7 scope of the study ...................................................................................................................... 4
+1.7.1 Geographical scope ............................................................................................................ 4
+1.7.2 Time scope ........................................................................................................................... 4
+1.7.3 Content scope ...................................................................................................................... 4
+1.8 Significance of the study ........................................................................................................... 5
+CHAPTER TWO .................................................................................................................................... 6
+LITERATURE REVIEW .......................................................................................................................... 6
+2.0 Introduction ................................................................................................................................. 6
+2.1 Definition ..................................................................................................................................... 6
+2.2 Tax compliance and financial performance of SMEs ............................................................ 7
+2.3 Tax rates and financial performance of SMEs ........................................................................ 9
+2.4 Tax incentives and financial performance of SMEs ............................................................ 12
+2.5 Summary of literature review ................................................................................................ 14
+CHAPTER THREE ............................................................................................................................... 15
+
+vii
+
+METHODOLOGY ................................................................................................................................ 15
+3.1 Introduction ............................................................................................................................... 15
+3.2 Research Design ........................................................................................................................ 15
+3.3 Study Population ....................................................................................................................... 15
+3.4 Sample size and selection ....................................................................................................... 16
+Table 1: Population, sample size, and technique ...................................................................... 16
+3.5. Sampling Techniques and Procedures. ................................................................................ 16
+3.6 Data Collection Methods ......................................................................................................... 17
+3.6.1 Questionnaire Survey Method ......................................................................................... 17
+3.6.2 Interview Method .............................................................................................................. 18
+3.7 Data Collection Instruments ................................................................................................... 18
+3.7.1 Questionnaires ................................................................................................................... 18
+3.7.2 Interview Guide ................................................................................................................. 19
+3.8 Validity and Reliability ............................................................................................................ 19
+3.8.1 Validity ................................................................................................................................ 19
+3.8.2. Reliability of the instruments ....................................................................................... 20
+Table 2: Reliability Statistics using Cronbach's alpha formula ................................................ 20
+3.9 Data Collection Procedures .................................................................................................... 21
+3.10 Data Analysis ........................................................................................................................... 21
+3.11 Measurement of variables ..................................................................................................... 22
+3.12 Ethical Considerations ........................................................................................................... 23
+CHAPTER FOUR ................................................................................................................................ 24
+DATA PRESENTATION, ANALYSIS, AND INTERPRETATION OF FINDINGS ..................................... 24
+4.0 Introduction ............................................................................................................................... 24
+Table 3: Response rate ............................................................................................................... 24
+Source: Primary data .................................................................................................................. 24
+4.2 Background characteristics ..................................................................................................... 25
+4.2.1 Age of respondents ........................................................................................................... 25
+Figure 1: Age of respondents ........................................................................................................ 25
+4.2.2 Sex of respondents ........................................................................................................... 25
+Table 4: Gender of respondents ................................................................................................... 26
+
+viii
+
+Source: Primary data .................................................................................................................. 26
+4.2.3 Age of the SME business ............................................................................................... 26
+Figure 2: Age of SME business ....................................................................................................... 27
+4.2.4 Legal status of business ....................................................................................................... 27
+Table 5: Legal status of SME business .......................................................................................... 27
+Source: Primary data .................................................................................................................. 27
+4.2.5 Nature of the business ......................................................................................................... 28
+Table 6: Nature of the business .................................................................................................... 28
+Source: Primary data .................................................................................................................. 28
+Figure 3: Education level of respondents (%) ............................................................................. 29
+4.3 Empirical findings based on objectives of the study ......................................................... 29
+........................................................................................................................................................ 29
+Mbarara central market ............................................................................................................. 29
+Table 7: Responses on tax compliance ........................................................................................ 29
+Source: Primary data .................................................................................................................. 30
+4.3. 2 Correlation results of tax compliance and the performance of SMEs .................... 32
+Table 8: Correlation matrix for tax compliance and the performance of SMEs ................... 32
+4.3.3 To establish the effect of tax rates on the performance of SMEs in Mbarara
+central market ............................................................................................................................. 34
+Source: Primary data .................................................................................................................. 35
+4.3.3.1 Correlation results of tax rates and the performance of SMEs ............................. 37
+4.3.4 To assess the effect of tax incentives on the performance of SMEs in Mbarara
+central market. .............................................................................................................................. 39
+Table 11: Responses on tax incentives ........................................................................................ 39
+Source: Primary data .................................................................................................................. 40
+4.3.4.1 Correlation results of tax incentives on the performance of SMEs ...................... 42
+Table 12: Correlation matrix for tax incentives on the performance of SMEs ..................... 42
+4.4 Performance of SMEs in Mbarara central market ............................................................... 43
+Table 13: Responses to performance of SMEs............................................................................. 43
+Source: Primary data .................................................................................................................. 44
+4.4.1 Regression analysis of the study variables ................................................................... 45
+
+ix
+
+Table 14: Regression analysis of the study variables ................................................................ 45
+Source: Primary data .................................................................................................................. 45
+CHAPTER FIVE .................................................................................................................................. 47
+SUMMARY, DISCUSSIONS, CONCLUSION, AND RECOMMENDATIONS........................................... 47
+5.0 Introduction ............................................................................................................................... 47
+5.1 Summary of findings ................................................................................................................ 47
+5.1.1 Tax compliance and the performance of SMEs. ........................................................... 47
+5.1.2 Tax rates and the performance of SMEs ........................................................................ 48
+5.1.3 Tax incentives and the performance of SMEs .............................................................. 48
+5.2 Discussion of findings ............................................................................................................... 49
+5.2.1 Tax compliance and the performance of SMEs ............................................................ 49
+5.2.2 Tax rates and the performance of SMEs ........................................................................ 50
+5.2.3 Tax incentives and the performance of SMEs .............................................................. 50
+5.3 Conclusions ................................................................................................................................ 51
+5.3.1 Tax compliance and the performance of SMEs ............................................................ 51
+5.3.2 Tax rates and the performance of SMEs ........................................................................ 52
+5.3.3 Tax incentives and the performance of SMEs .............................................................. 52
+5.4.1 Tax compliance and the performance of SMEs ............................................................ 52
+5.4.2 Tax rates and the performance of SMEs ........................................................................ 53
+5.4.3 Tax incentives and the performance of SMEs .............................................................. 53
+5.5 Contributions to the study ...................................................................................................... 53
+5.6 Limitations of the study .......................................................................................................... 54
+5.7 Areas for further study ............................................................................................................ 54
+REFERENCES ..................................................................................................................................... 55
+APPENDICES ...................................................................................................................................... 59
+APPENDIX 1: QUESTIONNAIRE ........................................................................................................ 59
+Please tick where appropriate .................................................................................................. 59
+1.1 Gender of the respondent .............................................................................................. 59
+1.2 Age group ........................................................................................................................... 59
+1.3 Category of the respondent ............................................................................................ 59
+1.4 Education ........................................................................................................................... 60
+
+x
+
+1.5 Nature of the business ..................................................................................................... 60
+1.6 Length of service .............................................................................................................. 60
+1.7Legal form ............................................................................................................................... 60
+SECTION 2: TAX COMPLIANCE & PERFORMANCE (Please tick the most suitable response)
+........................................................................................................................................................ 60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+LIST OF FIGURES
+Figure 1: Age of respondents ...................................................................... 25
+
+Figure 2:Age of SME business ...................................................................... 27
+
+Figure 3: Education level of respondents (%) ................................................... 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xii
+
+LIST OF ABBREVIATIONS
+
+
+BDS
+Business Development Services
+DV
+
+Dependent Variable
+EAC-CMA
+East African Community Customs Management Act
+FSD
+Financial Sector Deepening
+FY
+
+Financial Year
+IMF
+
+International Monetary Fund
+IV
+
+Independent Variable
+KACITA
+Kampala City Traders Association
+MFPED
+Ministry of Finance, Planning, and Economic Development
+OECD
+Organization for Economic Cooperation Development
+RPED
+Regional Program on Enterprise Development
+SEATINI
+Southern and Eastern African Trade Information and Negotiations
+Institute
+SMEs
+Small and Medium Enterprises
+UIA
+
+Uganda Investment Authority
+URA
+Uganda Revenue Authority
+UMA
+Uganda Manufacturers Association
+BSAF: Bachelor of Science in Accounting and Finance
+UCU:
+Uganda Christian University
+
+
+
+
+
+xiii
+
+ABSTRACT
+This study aimed at examining “the effect of the taxation on the performance of Small
+and
+Medium Enterprises in Uganda.” To achieve this purpose, specific objectives of the study
+were developed to: determine the extent to which tax compliance influences the
+performance of SMEs; establish the influence of tax rates on the performance of SMEs;
+and determine the effect of tax incentives affect the performance of SMEs. The study
+adopted the descriptive study design based on the quantitative and qualitative
+approaches. The study population of 100 registered SMEs in Mbarara was used to select a
+sample size of 50 SMEs using simple random sampling. Data were collected using the
+self-administered questionnaire and interview guide. The Statistical Package for Social
+Sciences (SPSS), was used to analyze quantitative data while qualitative data were
+analyzed using thematic analysis. The study findings showed that tax compliance has a
+statistically significantly moderate positive effect on the performance of SMEs since p -
+value (.000) is less that the significance level and the correlation coefficient (0.689). Tax
+rates have a statistically significant strong positive effect on the performance of SMEs
+since p – value (.000) is less that the significance level and the correlation coefficient
+(0.689). Tax incentives have a significant strong positive effect on the performance of
+SMEs, since the p – value (.000) is less than the significance level and the correlation
+coefficient (0.776).The study concluded that tax compliance, tax rates, and tax
+incentives have a statistically significant positive influence on the performance of SMEs.
+The study recommended that; strengthening the system of taxation through having a
+simplified system of taxation that can support SME tax payers to meet their tax duties;
+designing effective tax rates that are not based on the taxable profits as demarcated in
+the law but on an economic measure which includes the impact of the tax base;
+strengthening tax incentives to support infant small and medium firms so as to stimulate
+the performance of SMEs in the economy.
+
+xiv
+
+Table of Contents
+DECLARATION .......................................................................................... ii
+APPROVAL ............................................................................................. iii
+ACKNOWLEDGEMENTS ................................................................................ v
+LIST OF TABLES ....................................................................................... vi
+LIST OF FIGURES...................................................................................... xi
+LIST OF ABBREVIATIONS ............................................................................ xii
+ABSTRACT ............................................................................................ xii
+CHAPTER ONE: INTRODUCTION ..................................................................... 0
+1.0 Introduction ....................................................................................... 0
+1.2 Statement of the problem ...................................................................... 2
+1.3 General objective ................................................................................ 3
+1.4 Specific objectives ............................................................................... 3
+1.6 Hypotheses of the study ......................................................................... 3
+1.7 scope of the study................................................................................ 4
+1.7.1 Geographical scope ......................................................................... 4
+1.7.2 Time scope ................................................................................... 4
+1.7.3 Content scope ............................................................................... 4
+1.8 Significance of the study ........................................................................ 5
+CHAPTER TWO ......................................................................................... 6
+LITERATURE REVIEW .................................................................................. 6
+2.0 Introduction ....................................................................................... 6
+2.1 Definition .......................................................................................... 6
+2.2 Tax compliance and financial performance of SMEs......................................... 7
+2.3 Tax rates and financial performance of SMEs ................................................ 9
+
+xv
+
+2.4 Tax incentives and financial performance of SMEs ........................................ 12
+2.5 Summary of literature review ................................................................ 14
+CHAPTER THREE ..................................................................................... 15
+METHODOLOGY ...................................................................................... 15
+3.1 Introduction ..................................................................................... 15
+3.2 Research Design ................................................................................ 15
+3.3 Study Population ............................................................................... 15
+3.4 Sample size and selection ..................................................................... 16
+3.5. Sampling Techniques and Procedures....................................................... 16
+3.6 Data Collection Methods ...................................................................... 17
+3.6.1 Questionnaire Survey Method ........................................................... 17
+3.6.2 Interview Method.......................................................................... 18
+3.7 Data Collection Instruments .................................................................. 18
+3.7.1 Questionnaires ............................................................................. 18
+3.7.2 Interview Guide ........................................................................... 19
+3.8 Validity and Reliability ........................................................................ 19
+3.8.1 Validity ...................................................................................... 19
+3.8.2. Reliability of the instruments .......................................................... 20
+3.9 Data Collection Procedures ................................................................... 21
+3.10 Data Analysis ................................................................................... 21
+3.11 Measurement of variables ................................................................... 22
+3.12 Ethical Considerations ....................................................................... 23
+CHAPTER FOUR ...................................................................................... 24
+DATA PRESENTATION, ANALYSIS, AND INTERPRETATION OF FINDINGS ........................ 24
+4.0 Introduction ..................................................................................... 24
+
+xvi
+
+4.2 Background characteristics ................................................................... 25
+4.2.1 Age of respondents ........................................................................ 25
+4.2.2 Sex of respondents ........................................................................ 25
+4.2.3 Age of the SME business ................................................................. 26
+4.2.4 Legal status of business ..................................................................... 27
+4.2.5 Nature of the business ...................................................................... 28
+4.3 Empirical findings based on objectives of the study ...................................... 29
+...................................................................................................... 29
+4.3. 2 Correlation results of tax compliance and the performance of SMEs ............. 32
+4.3.3 To establish the effect of tax rates on the performance of SMEs in Mbarara
+central market .................................................................................... 34
+4.3.3.1 Correlation results of tax rates and the performance of SMEs ................... 37
+4.3.4 To assess the effect of tax incentives on the performance of SMEs in Mbarara
+central market. .................................................................................... 39
+4.3.4.1 Correlation results of tax incentives on the performance of SMEs .............. 42
+4.4 Performance of SMEs in Mbarara central market .......................................... 43
+4.4.1 Regression analysis of the study variables ............................................. 45
+CHAPTER FIVE ....................................................................................... 47
+SUMMARY, DISCUSSIONS, CONCLUSION, AND RECOMMENDATIONS ............................ 47
+5.0 Introduction ..................................................................................... 47
+5.1 Summary of findings ........................................................................... 47
+5.1.1 Tax compliance and the performance of SMEs. ....................................... 47
+5.1.2 Tax rates and the performance of SMEs ................................................ 48
+5.1.3 Tax incentives and the performance of SMEs ......................................... 48
+
+xvii
+
+5.2 Discussion of findings .......................................................................... 49
+5.2.1 Tax compliance and the performance of SMEs ........................................ 49
+5.2.2 Tax rates and the performance of SMEs ................................................ 50
+5.2.3 Tax incentives and the performance of SMEs ......................................... 50
+5.3 Conclusions ...................................................................................... 51
+5.3.1 Tax compliance and the performance of SMEs ........................................ 51
+5.3.2 Tax rates and the performance of SMEs ................................................ 52
+5.3.3 Tax incentives and the performance of SMEs ......................................... 52
+5.4 Recommendations of the study .............................................................. 52
+5.4.1 Tax compliance and the performance of SMEs ........................................ 52
+5.4.2 Tax rates and the performance of SMEs ................................................ 53
+5.4.3 Tax incentives and the performance of SMEs ......................................... 53
+5.5 Contributions to the study .................................................................... 53
+5.6 Limitations of the study ....................................................................... 54
+5.7 Areas for further study ........................................................................ 54
+REFERENCES ......................................................................................... 55
+APPENDICES .......................................................................................... 59
+APPENDIX 1: QUESTIONNAIRE ..................................................................... 59
+APPENDIX 2: INTERVIEW GUIDE ................................. Error! Bookmark not defined.
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.0 Introduction
+This chapter covers the background to the study, statement of the problem, research
+question, general and specific objectives, significance of the study, scope of the study,
+and conceptual frame work.
+
+1.1 Background of the study
+This unit provides the “historical, theoretical, conceptual and contextual background”
+as indicated in the sub-sections below;
+Globally, taxation is a field that has gone through continuous advancement which has
+influenced many aspects of the economy, which has also forced businesses to react to
+these changes in taxation (Vintila, 2013).The study was guided by two concepts namely
+taxation and the performance of SMEs. The concepts are described based on scholarly
+definitions, for instance, Omagor&Mubiru, (2008) define taxation as “legally compulsory
+transfer of money from the public to the government mainly as a source of government
+revenue.”Balunywa et al. (2011) further argue that payment of taxes is obligatory and
+“quid pro-quo” whereby the taxpayer does not expect direct gain for the taxes paid. The
+system of taxation used in any country determines the performance of businesses
+whereby countries with auspicious and progressive tax rates have propagated successful
+businesses.
+
+The 6 scholar further asserts that successful businesses have influenced the growth of
+economies by ensuring equitable distribution of income and investments in the country.
+In essence, businesses and taxation are interdependent for survival in that when the
+performance of businesses is affected, also the growth of the economy is equally
+affected (Ocheni, 2015). Ibrahim &Muritala, (2015)argue that taxes levied from
+individuals/ business organizations that are not proportionate to the income/wealth of
+
+
+the business organizations can be a demotivating factor that forces business people to
+transfer their capital to another sector. Equally, tax incentives enacted in favor of a
+given sector attracts more investments since the business people find it favorable and
+profitable.
+
+This means that the ability of government to develop and implement appropriate tax
+policies does not only improve the performance of SMEs but also promotes economic
+growth in Uganda. According to the “Ministry of Finance, Planning and Economic
+Development,”(MFPED), describes Small and Medium Enterprises as a “Small Enterprise
+as an enterprise employing between 5 and 50 people, with an annual sales/revenue
+turnover total asset of up to Uganda Shillings (USH.) 360 million, and a ‘Medium
+Enterprise’ as an enterprise that employs more than 50 people with an annual sales
+turnover or assets of between (USH.) 360 million and 30 billion”(FSD, 2015). However,
+there is no globally adopted definition for SMEs since these enterprises vary from
+country to country for instance the European Union refers to Small enterprises as
+“enterprises that employ 10 to 50 employees, and annual turnover and/or balance sheet
+total of less than EUR 10m while medium enterprises as enterprises that employ 20-250
+employees and turnover and/or annual balance sheet of EUR 10-50m” (IMF, 2007). 7
+Several scholars have studied performance using various measures which can be
+abridged into financial and nonfinancial performance measures (Amran, 2011; Dele,
+2012; Radipere and Dhliwayo, 2014).
+
+For purposes of this study, the financial performance methods adopted for this study
+consisted of; “cash flow, return on assets, and return on equity “used to determine the
+progress of SMEs. Similarly, the non-financial performance methods to be used comprise
+of traits such as “marketing effectiveness, human capital, strategy achievement,
+innovation, employee satisfaction, and corporate culture” (Dele, 2012). Audretsch and
+Klepper, (2000) affirm that academicians and business managers have used non-financial
+data to evaluate performance since this data can be used to generate proxy indicators of
+the business’s imperceptible assets. Dele (2012), recommends the use of non-financial
+measures during the evaluation of performance especially among small firms due to
+
+
+limitations of financial data. This is supported by Rooks et al. (2009) where they pointed
+out that small businesses have poor financial records, while others are hesitant to share
+financial information because of their motives to evade taxes.
+1.2 Statement of the problem
+According to “the Regional Program on Enterprise Development (RPED, 2003) survey on
+Investment Climate in Uganda”, taxation was highlighted as a key impediment to the
+performance of SMEs. The survey also revealed that high tax rates were a major feature
+that 9 influenced the performance of SMEs in Uganda. This was further affirmed by
+Sebikari, (2014) who noted that the poor taxation policies and high taxes levied have
+generally affected the financial and non-financial performance of SMEs in Uganda.
+Balunywa et al., (2010) highlighted that the Uganda government, through its efforts to
+promote the small and medium businesses, enacted a tax policy to support and promote
+the performance of SMEs. This tax policy focused on harmonizing tax rates and
+establishing new tax incentives to promote the small businesses (Ddumba-Ssentamu,
+2004). Despite efforts by the government of Uganda to enhance the growth and
+performance of SMEs, taxation still remains a major obstacle to the growth of SMEs in
+Uganda since it has continuously affected the performance of SMEs (FSD Uganda, 2015).
+In addition, most SMEs in Uganda do not survive past their fifth year birthday after
+inauguration which shows poor performance in the SME sector (Sebikari, 2014;MFPED
+2012).The deficiencies in the performance of SMEs associated with the poor tax policies
+in Uganda may affect the ability of these enterprises to mobilize the required financial
+and non-financial resources. In addition, the poor performance of SMEs if not
+immediately addressed may affect the economic growth and development of Uganda
+since these enterprises contribute to 90% of the “private sector production” in the
+economy. This, therefore, prompted the researcher to examine the effect of the
+taxation on the performance of SMEs in Uganda.
+
+
+1.3 General objective
+To examine the impact of taxation on the financial performance of small business
+enterprises at Mbarara central market, Mbarara city.
+1.4 Specific objectives
+1) To determine the extent to which tax compliance affects the performance of SMEs in
+Mbarara central market, Mbarara.
+2) To establish the effect of tax rates on the performance of SMEs in Mbarara central
+market, Mbarara.
+3) To determine the effect of tax incentives on the performance of SMEs in Mbarara
+central market, Mbarara.
+
+
+1.5 Research questions
+The research questions below were answered namely:
+1) How does tax compliance affect the performance of SMEs in Mbarara central market,
+Mbarara?
+2) How do tax rates affect the performance of SMEs in Mbarara central market,
+Mbarara?
+3) What is the effect of tax incentives on the performance of SMEs in Mbarara central
+market, Mbarara?
+1.6 Hypotheses of the study
+The hypothesis statements below were answered namely:
+1) Tax compliance significantly affects the performance of SMEs in Mbarara central
+market, Mbarara.
+2) Tax rates significantly affect the performance of SMEs in Mbarara central market,
+Mbarara.
+
+
+3) Tax incentives significantly affect the performance of SMEs in Mbarara central market,
+Mbarara.
+1.7 scope of the study
+The scope of the study comprises of geographical scope, subject scope and time scope.
+1.7.1 Geographical scope
+The research was done at Mbarara central market, Mbarara city Uganda since the
+majority of the SMEs are located in urban areas. In addition Uganda is a country located
+in; “Eastern Africa, west of Kenya, south of South Sudan, east of the Democratic
+Republic of the Congo, and north of Rwanda and Tanzania. It is in the heart of the Great
+Lakes region, and is surrounded by three of them; Lake Edward, Lake Albert, and Lake
+Victoria.”
+1.7.2 Time scope
+The research was conducted considering three Financial Years (FYs) namely “FY 2019/20,
+FY 2020/21, & FY 2022/23.” The reason for this study period is the turmoil in the SMEs
+where the government has continuously revised tax policies and fees that guide their
+operation (MFPED, 2015).
+1.7.3 Content scope
+This scope covered information on taxation (independent variable) and specifically tax
+compliance, tax rates and tax incentives on one side, while on the other hand, the
+performance of SMEs (dependent variable) was considered. Key tax compliance
+processes that drive the performance of SMEs were considered, namely; a simplified
+system of taxation, tax planning, and functional expertise as well as interpretation of
+tax laws and regulations, while tax rates involved in SME performance, including clarity
+of taxation rates, correct level of taxation and fair taxation rates were included. Factors
+concerning tax incentives that support SME performance include investment deductions
+and allowances, tax holidays and special tax regimes SME performance constitutes
+“financial and non-financial measures. “Financial performance includes; “cash flow,
+
+
+return on assets, and return on equity “while non-financial performance includes
+aspects such as “customer service, marketing effectiveness, human capital, strategy
+achievement, innovation, employee satisfaction, financial practice, processes, and
+corporate culture “were also be highlighted by the study.
+1.8 Significance of the study
+1. Small businesses: the findings will benefit small business owners under
+study to know the effects of taxation and help to lobby with the
+government to reduce the burden of tax on them.
+2. The findings will assist the Ministry of Finance and Economic Development
+to agree with the government to amend the income tax law so as to make
+it friendly for small business enterprises.
+3. The tax authority (URA): the research will guide them in adjusting tax
+policies so that they suit requirements of small business enterprises.
+4. Researcher: the findings of the study explored the potential impacts of
+taxation on the survival of small business enterprises. These findings will
+also be used by future researchers.
+
+
+
+
+
+
+
+
+CHAPTER TWO
+LITERATURE REVIEW
+2.0 Introduction
+This part highlights literature on taxation and performance of SMEs. The section is based
+on a documentary review of literature related to the study variables aimed at
+enlightening the readers about the current gaps and how to close the gaps. The section
+is organized as an introduction, the literature on study objectives and the summary of
+the literature.
+2.1 Definition
+Taxation is a means by which governments finance their expenditures by imposing
+charges on citizens and corporate entities.
+According to collinsdictionary.com taxation refers to the practice of government
+collecting money from its citizens to pay for public services. Collins dictionary also
+defines taxation as the act or principle of levying taxes or the condition of being taxed.
+Investopidia refers to taxation as the compulsory or coercive collection of money by a
+levying authority, usually government. The term “taxation” applies to all types of
+involuntary levies, from income to capital gains to estate taxes.
+
+According to mindmason.com, taxation is there act by citizens, of paying a percentage
+of their cash flow to the government to provide services that are shared by the
+community. People live countries which have a government that is there to set laws and
+provide services but this costs money to the government. Therefore since money is a
+medium of people’s effort, it cannot be automatically printed (which leads to inflation)
+so, governments take a portion of everyone’s effort to pay for shared services like roads,
+hospitals and schools among other services.
+
+
+According to Mulooki&Mugisha (2012:4) a tax is an involuntary payment by a person
+referred to as a tax payer therefore taxes are distinguished by their compulsory nature
+and by lack of relationships between the amount paid and the values of the basic
+services received by the tax payers. Taxes are essential (World Bank, 2014:66)
+2.2 Tax compliance and financial performance of SMEs
+Tax compliance is a complex term to be explicitly defined (Marti, 2010). Otherwise, it
+can be construed “as the willingness of individuals and other taxable entities to act in
+accordance within the spirit as well as the letter of the tax law and administration
+without the application of enforcement activities” (James and Alley, 2002) Pope &
+Abdul-Jabbar, (2008) pointed out that SMEs are facing tax burdens due to the nature and
+size of these enterprises which has inhibited the performance of SMEs .Tax compliance
+costs among SMEs in developing countries, are high due to the narrow resource envelope
+of these 18 small and medium enterprises to fully meet their tax obligations; in addition
+to the limited expertise in taxation to conform per the complex tax laws(Boadi, Opoku,
+Firm, & WY, 2016).
+
+Similarly, Kiwanuka, (2004) reports that the majority of the small and medium business
+proprietors in Uganda have insufficient tax knowledge where most proprietors have
+resorted to hiring unqualified relatives to manage their financial data. This has
+increased the operational costs of SMEs to meet their tax obligations and thus affecting
+the SMEs’ performance. Related to the above position, Bozdoğanoğlu, (2016) observed
+that on top of the direct costs incurred by tax payers especially the SMEs towards
+meeting their tax compliance costs, they face an extra tax burden associated to the
+diverse and complicated tax system. The scholar further maintains that tax compliance
+costs have continuously become a fixed cost element that has imposed a relatively
+higher burden on the small and medium enterprises compared to the large enterprises
+that accrue benefits from returns to scale due to prompt compliance.
+
+
+
+These high tax compliance costs inhibit the financial prosperity of both the proprietor
+and the employees in the SMEs (Bozdoğanoğlu, 2016) Terkper, (2003) equally found out
+that some tax methods used on SMEs have put small firms under extreme “liquidity
+pressure “which has endlessly narrowed the small capital base of these firms coercing
+them to the informal sector. The issue of tax compliance as noted by Bozdoğanoğlu,
+(2016) although well explored its influence; it fell short of providing empirical evidence
+on how considerations of tax compliance affect the performance of SMEs. This research,
+therefore, attempts to cover this literature gap by determining the extent to which tax
+compliance is affecting the performance of SMEs and to help cover the literature gaps.
+In complement, Oberholzer, (2008) also believes that tax compliance is still a challenge
+in developing countries due to the complex systems of taxation used yet there are only a
+few tax experts who can comprehend them. This has resulted in additional costs
+incurred by the tax payers including SMEs to hire tax professionals that can file tax
+returns on their behalf. Bozdoğanoğlu, (2016) noted that a simplified system of taxation
+could support SME tax payers to meet their tax duties and thus reduce the burden of tax
+compliance among SMEs.
+
+He further emphasizes that such a system can only be achieved if tax administrators can
+ease compliance by providing tax education. A streamlined tax administration strategy is
+fundamental in addressing the tax compliance costs faced by SMEs (Bozdoğanoğlu,
+2016). Caroline, (2015) in her study concluded that small businesses should employ the
+services of tax experts to aid them in tax planning and compliance in order to reduce
+the net tax payment involved in fulfilling their tax duties and thus increase their
+financial performance. Jousten, (2007) also concludes by emphasizing the importance of
+having fixed costs relating to tax compliance and administration where he recommends
+the mandate of having a simplified tax structure to accommodate all tax payers
+including the SME sector so as to lower the presence and magnitude associated to these
+fixed costs.
+
+Furthermore, a study on Uganda’s Taxation Policy recommended that in order to have
+an effective tax system, the following elements should be taken into consideration:
+
+
+“Taxpayers can easily calculate their liabilities; taxpayers can easily follow instructions
+and tax rate tables in order to determine their tax base, their marginal tax rate, and
+their tax liability to the government; taxpayers grasp the logic behind tax laws and tax
+rates taxpayers can look at a tax form or a tax rate schedule and understand the
+lawmakers’ reasoning; taxpayers know their own tax burden and the tax burden of
+others: irrespective of who actually writes a cheque to the government, 20 taxpayers
+can identify who actually bears the burden of a tax; and taxpayers are aware of the
+extent of compliance by others”(Growth, 2008). The literature on tax compliance of
+SMEs although insightful, it lacks adequate experiences on the influence of tax
+compliance on SME performance. To address this literature, void, this research
+determined the extent to which tax compliance affects the performance of SMEs.
+
+The study found out that having; “a simplified system of taxation, tax planning and
+functional expertise, interpretation of tax laws and regulations” plays a fundamental
+role in enhancing the performance of SMEs through supporting SME tax payers to meet
+their tax requirements and thus reduce the burden of taxes among the small and
+medium enterprises.
+2.3 Tax rates and financial performance of SMEs
+Effective tax rates are an important instrument for businesses that demand abridged but
+refined information on effective tax burdens. Consequently, business owners take keen
+interest in assessing the effect of post-tax measures on their performance (Lammersen,
+2007) Vicari, (2015)construes that an effective tax rate can be designed in such a way
+that it is not based on the taxable profits as demarcated in the law but on an economic
+measure which includes the impact of the tax base. The SMEs in a regular tax system are
+discriminated against since the tax rate for the small and large firms is the same which
+increases the costs of the small enterprises. This has distorted the growth of SMEs where
+most small firms have transformed into firms that are levied fewer taxes or no taxes at
+all (Masato, 2009). Atawodi&Ojeka (2012)Opine that the choice of the tax rate should
+depend on the tax preference accorded to small businesses to promote the growth of
+
+
+small enterprises which can be done by lowering tax rates, offering tax holidays as well
+as reliefs to the small businesses.
+
+The fundamental objective is to ensure that tax income is successfully increased
+through methods that suit the country’s environment and administrative ability
+(Atawodi&Ojeka, 2012). According to the “Regional Program on Enterprise Development
+(RPED, 2003) survey in Uganda,” it indicated that taxation was one of the major
+impediments to the growth and development of SMEs since the high tax rates inversely
+affected the performance of small firms. Among other obstacles to SME growth were;
+initial firm size, human capital, sources of finance to start up, nature of firm’s
+acquisition and government fiscal policy. This validates the importance of tax rates to
+wards elevating the performance of SMEs in Uganda. Mungaya, Mbwambo, &Tripathi,
+(2012) in their research on “The impact of the tax system on the growth of Small and
+Medium Enterprises (SMEs)” found out that high tax rates increase the cost of production
+within the small and medium enterprises which greatly affects performance of these
+firms and therefore should not be ignored. In complement, Oludele and Emilie, (2012)
+also highlighted that high tax rates coupled with complex tax systems have negatively
+affected performance within the SMEs sector. In their 2015 report on the National Small
+Businesses Survey of Uganda, FSD Uganda, (2015) reported that most small businesses in
+Uganda had not paid their tax dues because their businesses could not afford the high
+tax rates being levied.
+
+In addition, Baurer, (2005) observed that it is rare not to find complaints among small
+businesses about the complicated tax structure involving vague tax laws and high tax
+rates that have hampered the growth of these small businesses. Amongst other reasons
+for not paying taxes highlighted were: the payment of local service taxes. Ignorance
+about the tax requirements, failure of the tax body to collect taxes from them, the
+business did not earn enough to require them to do so, etc.
+
+Furthermore, Gordon, (2010) asserts that when the tax rates imposed on businesses are
+high, they distort supply and demand for labor among other aspects which diminishes
+
+
+productivity and performance since the owners and workers in the SME sector have to
+relinquish leisure for work. The performance of SMEs is continuously troubled by the high
+tax rates and ambiguous tax system. Economist identified taxation as an important
+aspect of the economy since it affects numerous economic activities including the
+establishment and development of SMEs.
+
+“Taxes increase the cost of production of goods and services which eventually cause
+prices of goods. “Taxes escalate the production costs which results in upsurge of the
+prices of goods and services thus affecting the final consumers. However, revenue
+mobilized from taxes represents major funding for government expenditure. Creating
+favorable conditions for SME prosperity at the same time upholding tax compliance is
+still a challenge in most countries (Sophia, 2016).
+
+According to the OECD survey report, (2015) on the Taxation of SMEs, the findings
+indicated that fourteen countries had adopted the reduced corporate tax rates for the
+small and medium enterprises. This is complemented with various tactics to support the
+SMEs corporate tax rates that include: “lower tax rate on first tranche(s) profits,
+regardless of total income level, withdrawal of tax relief at higher profit levels, reduced
+CIT (corporate income tax) rates for corporations with income below a certain level,
+eligibility for small-business rates determined by non-income criteria instead of or in
+addition to income criteria”(OECD, 2015) Lammersen, (2007) in his study on The
+Measurement of Effective Tax Rates reported that effective tax rates are ordinal in
+nature whereby higher (lower) effective tax rates depict less (more) preferred
+alternatives yet equal effective tax rates portray indifference.
+
+Therefore, if such a situation is not taken into consideration, then the effective tax rate
+cannot adequately predict result behavior. In addition, Caroline, (2015) recommends
+that the tax bodies should devise means of lowering the tax rates as well as penalties
+inflicted on SMEs among others to help small businesses enhance their performance and
+consequently stimulate economic growth. The literature on tax rates of small and
+
+
+medium enterprises was not only scant but also failed to show pragmatic evidence on
+the influence of tax rates on the performance of SMEs.
+2.4 Tax incentives and financial performance of SMEs
+“Tax incentives are special provisions of the tax code granting preferential treatment to
+certain activities, investments or taxpayers” (Martin &Theresia, 2017). According to
+European Commission, SME tax incentive is referred to as; “the special tax treatment
+that is enjoyed by the enterprises in the SME sector” (European Commission, 2003).
+Consequently, it is essential to highlight that special tax treatment “does not
+automatically suggest SME “preferential tax treatment although political leaders and the
+citizens agree that there is a need for SMEs to be given special treatment regarding tax
+laws and regulation (Jousten, 2007).
+
+Globally, tax incentives have been implemented by governments to attract and retain
+private investors within their economies. The prime objective of these incentives is to
+counterbalance the actual/ perceived operational costs associated with the payment of
+taxes. These incentives have become a catalyst for an enriched performance seen within
+the SME sector (Philips, 2010). Since 1991, the Uganda government through the
+Investment Code has been employing various tax incentives to new and expanding firms
+so as to expand the private sector in the economy.
+
+Various tax incentives were implemented like tax holidays, initial capital allowances,
+withholding tax exemption, Value Added Tax (VAT) reductions, income tax rates
+reductions, and preferential tax rates, carry forward losses and import duty exemptions
+among others (Mayende, 2013). Feyitimi, et al., (2016) note that tax holiday is one of
+the most frequently adopted government tax incentives which exempts firms from their
+tax liability and also relieves some businesses certain tax deductions over the tax
+holiday. These tax incentives are observed to stimulate the growth and expansion of
+SMEs due to the perception that these incentives lower the tax compliance burden
+inflicted on the small and medium enterprises In line with above, Borgarello, Marignani,
+
+
+&Sande, (2004) assert that investments continue to flourish if the gross return on
+investment is more than the tax-adjusted cost of capital, i.e., the corporation tax rate,
+as well as the tax on dividends, should be within the tax incentive platform.
+
+Equally, Jousten, (2007) emphasizes that the primary objective of providing special tax
+regimes to small taxpayers is to lower compliance costs associated with taxation which
+enhances the growth of the SMEs. Providing special tax regimes to SMEs is important
+because it reduces the operations of the SMEs in the informal sector in terms of having a
+well-regulated business sector. In research conducted on the impact of tax incentives on
+the growth of small and medium scale enterprises in developing economy, the study
+results revealed that tax incentives are a vital aspect to the growth and development of
+the SME sector (Feyitimi, Temitope, Akeem, &Oladele, 2016) UNCTAD, (2000) reported
+that tax incentives are effective in protecting and stimulating infant firms.
+
+The report further points out that the infant firms are unable to meet their tax
+obligations in their early years of operation due to the small capital base and lack access
+to financial loans. Therefore, the tax incentives implemented by the government to
+support these small firms determine their performance in the economy. Tax incentives
+implemented by the government are as result of numerous goals the government may
+consider necessary for the country. These goals may include correction of market
+imperfections faced by firms, reductions of transaction costs of firms, regional
+development, and prioritized investments, etc. This substantiates that tax incentives
+influence the performance of SMEs (Mayende, 2013).
+
+Feyitimi, Temitope, Akeem, &Oladele, (2016) highlight that due to the classifications
+associated with the definition of SMEs, it was revealed that some small and medium
+enterprises miss out on the tax incentives from the government. However, the scholars
+recommended that such problems can be circumvented when the government uses these
+tax incentives to create a supporting atmosphere for all SMEs.
+
+
+
+The literature reviewed on tax incentives focuses on the business unit in the SME sector
+and thus ignores to scrutinize the effect of the ownership arrangement on taxation of
+SMEs, which entails a clear linkage with the final recipient of business income. For
+instance, some arguments in favor of special tax treatment of SMEs rely on the specific
+ownership structure and the behavioral characteristics of the owners rather than the
+SME itself. “Based on the above, this study investigated how tax incentives implemented
+by the government have affected the performance of SMEs.
+This research found out that tax incentives are keys in reducing the operational costs
+associated with the payment of taxes for SMEs by lowering the tax compliance burden
+inflicted on the SMEs which stimulates the progress and expansion of SMEs in Uganda.
+Therefore, the performance of SMEs is highly dependent on the tax incentives in the
+form of investment deductions and allowances, tax holidays and special tax regimes
+according to the small and medium businesses.
+2.5 Summary of literature review
+A review of the related literature suggested that simplified system of taxation should
+support SME tax payers to meet their tax duties and thus reduce the burden of tax
+compliance within SMEs. A streamlined tax administration strategy through providing tax
+education is fundamental in addressing the tax compliance costs faces by SMEs.
+However, the empirical evidence on tax compliance of SMEs although insightful, it
+ignores satisfactory experiences on the influence of tax compliance of SMEs on SME
+performance. Similarly, the literature review revealed that the choice of the tax rate
+should depend on the tax preference accorded to small businesses to promote the
+growth of SMEs which can be done by lowering tax rates, offering tax holidays as well as
+relieves to the small businesses. However, the literature on tax rates of small and
+medium enterprises was not only scant but also failed to offer pragmatic proof on the
+influence of tax rates on the growth of SMEs. This research strived to cover the raised
+literature gaps by examining “the effect of the taxation on the financial performance of
+Small and Medium Enterprises in Mbarara” to cover the information gap.
+
+
+
+CHAPTER THREE
+METHODOLOGY
+3.1 Introduction
+This section presents; “the research design, study population, sample size and selection,
+data collection methods, validity and reliability of findings, research instruments, data
+analysis and measurement of variables.
+3.2 Research Design
+“A research design is a strategy for conducting the research that specifies the
+procedures necessary to obtain the information needed to structure and solve the
+research problems” (Cooper and Schindler, 2003). The descriptive design was adopted,
+which aimed at examining “the effect of taxation on the performance of small and
+medium scale enterprises in Uganda.” The descriptive research design refers to the
+systematic process of gathering descriptions of existing phenomena in order to describe
+or explain what is going on (Ololube, 2009). A descriptive research design was adopted
+for the study since it focuses on the people as well as their attributes which enable the
+investigator to understand and examine the influence of taxation on SME performance.
+This was achieved using a survey questionnaire, observation schedule, and document
+analysis. In addition, the descriptive design empowered the respondents to reply to
+questions administered through interviews or questionnaires and describe the responses
+given. Thus, it was used to assess thoughts, opinions, and feelings of the respondents
+(Zechmeister & Jeanne, 2011).
+3.3 Study Population
+The study population concentrated on SME owners within Kakoba Division, Mbarara. The
+study area was limited to Kakoba division since the majority of the SMEs are established
+
+
+in urban areas. Kakoba division has an estimated population size of 100 people with 50
+registered SMEs (Ntayi, Mutebi, Kamanyi, & Byangwa, 2013).
+
+3.4 Sample size and selection
+“A sample size refers to the number of subjects in a sample (symbolized by n) or a
+subset of a population” (Creswell, 2013). Based on the “Krecjie and Morgan (1970)
+sampling table” (See Appendix 3), the researcher selected a sample size of 50 SME
+respondents from a population of 100 registered SMEs with the help of convenient
+sampling (Chuan, 2006).
+Table 1: Population, sample size, and technique
+SME Category
+Population
+Sample size
+Sampling Techniques
+Retail
+and
+wholesale Trade
+Hotel
+and
+Restaurant
+Entertainments
+joints and bars
+Manufacturing
+Food Processing
+Total
+100 50
+
+
+Source: Study population accessed from Ntayi et al., (2013) and sample size determined
+using the Krejcie& Morgan model (1970).
+3.5. Sampling Techniques and Procedures.
+The study employed both “probability and non-probability sampling techniques. “The
+author used the probability sample since the research is focused on the entire SME
+
+
+population. Employees employed in the SME sector in Mbarara central market were
+eligible to participate in the research that was conducted by the author. “The
+probability sampling approach involves selecting a sample in such a way that all the
+elements in the population have same chances of being selected” (Amin, 2005). The
+simple random sampling technique was also used such that all population elements are
+accorded a proportionate likelihood of being nominated within the sample. In the nonprobability approach, the items in the population do not have a well-defined chance of
+being selected (Amin, 2005).
+Purposive sampling was used whereby the researcher used his own decision and
+experience to determine which SMEs have in-depth information to take part in the study.
+Thus the selection of the respondents was based on the researchers understanding with
+the respondents’ possession of the required information. Therefore, purposive sampling
+was conducted for the owners and top management staff within the SMEs.
+3.6 Data Collection Methods
+Both quantitative and qualitative methods of data collection were employed during the
+study. The questionnaire survey method was used to pool quantitative statistics, while
+the interview and documentary review method were employed to gather qualitative
+information. The researcher chose a data collection method that better suited the
+intended purposes.
+3.6.1 Questionnaire Survey Method
+The questionnaire survey method is a set of questions used to obtain information from a
+large group of people in a given study (Amin, 2005).The questionnaire is an effective
+method of data collection due to the following advantages: it is standardized since the
+same wording is used each time it’s administered; it ensures confidentiality through use
+of a coding system. Thus it can cover embarrassing, socially undesirable or illegal topics;
+it is cheaper to administer among others (Barker et al., 2002).The method was used to
+collect data from middle-level staff and other lower level staff within the SMEs because
+they are directly involved in the operations of the SMEs.
+
+
+3.6.2 Interview Method
+“An interview is a data-collection technique that involves oral questioning of
+respondents, either individually or as a group” (Chaleunvong, 2009).The responses to the
+interview questions were written down and also recorded on tape during the interview.
+In-depth interviews were used to obtain data from key informants such as the
+proprietors and top management staff who were purposively selected because of the
+information they hold. Interviews are of great advantage since they can enable the
+researcher to establish rapport with the respondent which enables the interviewer to:
+“ask follow-up questions, in order to clarify the respondent’s meaning, probe for
+material that the respondent does not mention spontaneously and get beyond superficial
+responses; ensure that the respondent answers all the questions; give more complicated
+instructions and check that they are understood; vary the order of the questions” among
+others (Barker, et al., 2002). The interviews were structured comprising a set of issues
+on tax compliance, tax rates, and tax incentives. This interview method was used to
+gather information from the SME proprietors, and other top management staff in these
+enterprises since these people has in-depth information concerning taxation policies and
+how they are influencing the performance of SMEs.
+3.7 Data Collection Instruments
+3.7.1 Questionnaires
+Self-Administered Questionnaires (SAQ) were employed to gather data from the study
+elements in a structured manner. SAQs with one open ended question per section were
+designed for SME employees to give additional or express their mind while the rest were
+close ended aimed at testing perception using “a five-point like scale measuring from
+Strongly Disagree as response 1, Disagree as response 2, Not sure as response 3 Agree as
+response 4 and Strongly Agree as response 5”for easy measurements of variables
+(Jackson, 2009). (See Appendix 1).
+
+
+3.7.2 Interview Guide
+An interview refers to a data collection technique that involves face-to-face, telephone
+or focus group discussions between the researcher and the interviewee(s) (Creswell,
+2013). The guide involved unstructured and generally open-ended questions that allowed
+probing for in-depth information from participants (see Appendix 2). This guide enabled
+the gathering off acts from the SME proprietors, and other top management officers in
+these enterprises since these people have in-depth information concerning taxation
+policies and the performance of SMEs
+3.8 Validity and Reliability
+3.8.1 Validity
+“Validity refers to whether one can draw meaningful and useful inferences from scores
+on particular instruments” (Creswell, 2013). The questionnaires were verified, and
+modifications were made based on my UMI supervisors’ recommendations for validity
+and relevancy to the study. In addition, an expert judgment which is effective for survey
+tools were used (Gay &Airasian, 2003). Pre-testing of the instrument is necessary to
+reduce ambiguity, ensure proper editing, wording, and good measurement (Sekaran,
+2004). The research instrument is valid when the CVI computed is above 0.7
+CVI = Number of Questions Declared Valid in the Questionnaires
+Total numbers of questions
+CVI = 47 /49
+CVI = 0.959
+Since the CVI was 0.959, which is above the 0.7 recommended by Amin (2005), it was
+inferred that the instrument was relevant in measuring the influence of taxation on the
+performance of SMEs.
+
+
+
+3.8.2. Reliability of the instruments
+“Reliability refers to whether scores to items on an instrument are internally consistent
+(i.e., are the item responses consistent across constructs?), stable over time (test-retest
+correlations), and whether there was consistency in test administration and scoring”
+(Creswell, 2013). The consistency and trustworthiness of the qualitative instruments
+were upheld by the researcher through checking the tools to ensure that they are free
+from errors that may have been made in transcription (Gibbs, 2007). Internal
+consistency method was used where a single pre-test cluster is assessed. This method
+told us the extent to which the aspects of the questionnaire are interrelated. This was
+done with the aid of the “Cronbach Co-efficient Alpha,” which evaluated the
+dependability of the quantitative research tool. The Alpha varies; “from 0 to 1 and a
+value of 0.6 or less generally indicates unsatisfactory internal consistency or reliability”
+(Malhotra, 2010), while Cooper & Schindler (2008) indicated that a coefficient of 0.7
+shows a consistent research tool. The Cronbach’s coefficient alpha (α) was computed as
+follows:
+
+α = k 1- ∑σ2k
+(k−1) σ2
+Where ∑σ2k = “the sum of variances of the k parts (usual items) of the test.”
+α = Cronbach’s coefficient alpha.
+k = Standard deviation of the test
+Table 2: Reliability Statistics using Cronbach's alpha formula
+Cronbach's Alpha
+Cronbach's Alpha Based on
+Standardized Items
+N of Items
+0.934
+0.937
+
+
+Table 2 above includes results for all questionnaire items and indicated that the
+reliability coefficient (alpha score) for the questions was greater than 0.7. Therefore,
+the questionnaires collected reliable data for this study. Alpha was preferred because
+the questions had choices to be made, to which different weights were attached. A
+reliability coefficient 0.937 was considered acceptable since it was greater than the
+target value of 0.7. For the qualitative instruments, the researcher ensured reliability by
+checking the instruments to make sure that they are free from errors that may have
+been made in transcription.
+3.9 Data Collection Procedures
+An introductory letter from UCU was be obtained after defending the research proposal
+to enable the researcher to collect data from the field. Upon establishing the validity
+and reliability of instruments to be used, the researcher gathered raw information from
+the field. Data collection, processing, and analysis were undertaken by the researcher
+himself.
+3.10 Data Analysis
+“This is the process of bringing order, structure, and meaning to the mass of raw
+information gathered for purposes of getting a feel for reliability and testing the
+hypotheses” (Sekaran, 2004). Initially, data was entered into MS Excel computer program
+for cleaning. The data was also imported to SPSS version statistical software for
+investigation. Quantitative data analysis entailed descriptive statistics and inferential
+statistics. Descriptive statistics involved analysis using frequencies, percentages, mean,
+charts, and standard deviation.
+The Analysis of central tendency and dispersion based on; “a 5-point likert scale ranging
+from strong agree to strong disagree.” Similarly, inferential statistics were done based
+on the Pearson’s correlation coefficient and linear regression analysis.
+Quantitative data was analyzed by reporting of summary results in numerical terms and
+was presented using a percentage distribution technique but maintaining a specified
+
+
+degree of confidence (Creswell, 2013). While Qualitative data was analyzed in the form
+of texts and themes, yet impressions were examined and presented using descriptive
+methods for in depth analysis to be generated from views of the respondents and to
+allow the reader to make their opinions freely (Bryman& Bell, 2003). In addition,
+qualitative data is flexible, “needs more checking and auditing at all steps of the
+analysis as well as careful archiving of each step of the analysis for later checking.”
+
+Conversely, qualitative research offers an overall approach that provides “the backbone
+for the analysis” (Strauss & Corbin, 1998). Closed-ended questions were recorded and
+then the answers to each question were checked by the respondent as deemed suitable.
+This was done to all the questionnaires, after which the mean, standard deviation, and
+percentages were computed from the responses given. Thematic analysis was done for
+the open ended questions whereby the participants’ responses were organized in themes
+based on the study objectives (Free body, 2003). For individual interviews, these were
+used to produce data in the form of notes to develop a summary of the findings. The
+summaries were done by capturing the participants’ responses in their own words for all
+the questions that were asked (Free body, 2003).
+3.11 Measurement of variables
+Weiner (2007) defines “measurement as a systematic, replicable process by which
+objects or events are quantified and or classified with respect to a particular dimension.
+“The proposed variables were measured using both the categorical and continuous level
+of measurements, where the categorical measurements were used because they provide
+for categories and numbers are assigned to categories. These were based on a Likert
+scale of five items namely: “Strongly Agree (5), Agree (4), Not Sure (3), Disagree (2) and
+Strongly Disagree (1)” for easy measurements of variables as supported by Van Selst
+(2012). With the nature of sample population and the choice of sampling methods, the
+categorical scale was the most appropriate for institutional processes, staff attributes,
+and ICT. On the other hand, a continuous scale was used on respondents’ demographic
+information, for instance, age, as it is simple and less manipulative.
+
+
+3.12 Ethical Considerations
+Ethics in this proposal mean to be open, accountable, avoid conflict of interest, be
+responsible, honest, objective, careful, and maintain privacy, dissemination of the
+research findings to the respondents, avoiding duplication, not being deceitful and
+seeking the consent and permission of the respondents. The researcher also maintained
+a high level of confidentiality by coding questionnaires rather than use respondents’
+names and using the findings only for the purposes of the study (Robert & Sari, 1998).
+The “research design, the study population, sample size, sample techniques and
+procedures, data collection methods and instruments are determinants of good validity
+and reliability, data analysis, measurement of variables if ethical considerations “were
+considered. According to the anti-plagiarism requirements, the researcher acknowledged
+all sources of literature used in the study, by referencing or citation. A final copy of the
+dissertation was run on the Turnitin software, and a similarity index of 12% was
+obtained, which was within the acceptable score of 15% and below;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+DATA PRESENTATION, ANALYSIS, AND INTERPRETATION OF FINDINGS
+4.0 Introduction
+This unit indicates;“the response rate, background characteristics of the respondents
+according to age, gender, level of education, nature of the business, the age of SME
+business and legal status of SMEs in Mbarara central market of Mbarara.” The chapter
+further presents study findings, analysis, and interpretation of study findings basing
+on objectives of the study.
+4.1 Response rate
+Table 3: Response rate
+Research
+instrument
+Targeted
+number
+Actually
+conducted
+Questionnaires
+Interviews
+Total
+
+Table 3 above displays that from the 50 questionnaires distributed, 40 filled
+questionnaires were returned giving a percentage response rate of 80%. In addition,
+out of the 5 planned interviews, 4 interviews were conducted giving a percentage
+response rate of 80%. The overall response rate was 90%. This response rate was above
+the recommended two-thirds (67%) response rate (Amin, 2005; Mugenda & Mugenda,
+1999). This indicates that researcher was able to obtain enough data for a
+comprehensive report.
+
+
+
+4.2 Background characteristics
+4.2.1 Age of respondents
+
+
+Figure 1: Age of respondents
+Figure 1 above indicates that a bigger proportion of respondents (31%) were aged
+between 40-49 years. These were followed by respondents 50 years and above with
+(29%) while those aged 30-39 years were 24% and lastly those aged 20–29 years
+constituted 16%. The above statistics indicate that all respondents were mature and
+able to provide reliable data.
+4.2.2 Sex of respondents
+The sex of the respondents was assessed which enabled the researcher to have
+proportionate representation of both the females and males.
+
+
+
+
+
+Table 4: Gender of respondents
+Gender
+Male
+Female
+Total
+Table 4 indicates that a bigger percentage of respondents 51% were females while the
+males constituted 49% of the total responses. This means that the females dominate
+the SME sector and the findings were obtained from gender balanced respondents with
+representation from both the males and females.
+4.2.3 Age of the SME business
+The study examined “how long SME businesses have been in existence.”This enabled
+the researcher to understand the duration of operation for the SMEs and in-depth
+information of how taxation influences the performance of SMEs in Mbarara central
+market.
+
+
+
+
+Figure 2: Age of SME business
+
+Figure 2 above highlights that over 50% of the SMEs studied have been in operation for
+a period of 1-5 years. These businesses that have been in existence for 6-10 years with
+23.5% and those with 11-15 years accounted for 15.9%. Very few SME businesses (8.4%)
+have been in existence for over 15 years. The findings revealed that most of the SMEs
+studied have been in operation for a long period of time and therefore were more
+knowledgeable about how taxation affects the performance of “small and medium
+enterprises” in MBARARA. Therefore, the respondents provided reliable data for the
+study.
+4.2.4 Legal status of business
+Table 5: Legal status of SME business
+Status
+Sole proprietor
+Partnership
+Limited Company
+Total
+100.0
+
+Table 5showed that a bigger proportion of the SME owners registered their businesses
+as a sole proprietorship and these accounted for (freq. 60, 60%). These were trailed
+by businesses registered as a partnership with (freq. 30, 30%) while businesses
+registered as a limited company accounted for (freq.10, 10%).
+
+
+
+4.2.5 Nature of the business
+Table 6: Nature of the business
+Nature of business
+Trade
+Service
+Manufacturing
+Total
+100.0
+Table 6 pointed out that a bigger proportion of SMEs studied was engaged in trade,
+and these accounted for (freq. 50, 50%) of the total responses while businesses
+engaged in service constituted (freq. 45, 45%), and very few businesses (freq. 5,
+5%)were engaged in manufacturing. This implies that the study was well distributed
+among the SMEs in MBARARA central market and thus provided reliable findings.
+4.2.6 Education level of respondents
+
+
+
+Figure 3: Education level of respondents (%)
+Results in fig. 4 showed that a bigger percentage of respondents had secondary school
+level of education and these accounted for 26.3% of the total responses. These were
+followed by those with a bachelor’s degree (23.3%), 18.4% with a tertiary level of
+education (college) and 14.8% with primary school level. Respondents with a post
+graduate level (Masters and higher qualifications) constituted 10.4%, and very few
+respondents (6.4%) had other qualifications. This indicates that all the respondents
+were educated and able to understand and interpret research questions to provide
+valid and reliable data.
+4.3 Empirical findings based on objectives of the study
+Mbarara central market
+During the study, a set of statements regarding tax compliance were presented to
+respondents in order to establish their opinion on the performance of SMEs in Mbarara
+market, Mbarara. A likert scale of “Strongly Agree (SA) = 5, Agree (A) = 4, Not Sure
+(NS) = 3, Disagree (D) =2 and Strongly Disagree (SD) =1” quantified the responses.
+Table 7: Responses on tax compliance
+Item
+Mean
+Std.
+Deviation
+Simplified system of taxation
+
+
+I understand the Ugandan tax system
+2.32
+.766
+I can compute the income tax liability of our business with ease
+2.31
+.684
+I always attend taxation seminars and workshops on behalf of the
+business to update myself on the tax system
+4.31
+.667
+Payment of levies is straight forward hence the business does not
+2.35
+.950
+
+
+hire professional consultancy services
+Interpretation of tax laws and regulations
+
+
+I am aware of most tax laws and guidelines about taxation of
+incomes for SMEs
+4.44
+.641
+I understand the tax laws and regulations in Uganda
+2.24
+.711
+I can interpret tax laws and compute tax liabilities
+2.45
+.710
+I always file tax returns with URA on a timely basis as requires by
+law
+4.34
+.856
+Tax planning and functional expertise
+
+
+I know how to treat the expenses incurred in relation to income
+tax in Uganda.
+4.19
+.856
+I always advise management on income tax planning issues
+4.02
+.857
+I am sure of the incomes /turnover on which we pay income
+taxes as a firm
+4.15
+.766
+I am always part of the team that carries out budgeting process
+of my employer especially on income tax matters
+4.24
+.643
+Table 7 above highlights that the majority of the respondents within the SME sector
+cannot understand the Ugandan tax system as indicated by the average score of 2.32
+(SD = 0.766). This means that these respondents cannot interpret what the various tax
+laws stipulate and the other tax compliance requirements.
+Most of the respondents revealed that they could not compute the income tax liability
+of their businesses with ease. This is confirmed by the mean score of 2.31 (SD = 0.684)
+which shows that the majority of the respondents need assistance to understand how
+much to pay when to pay according to the size and capital of their businesses.
+A bigger proportion of the respondents agreed that they always attend taxation
+seminars and workshops on behalf of their business to update themselves with the tax
+
+
+system as noted by the mean 4.31 (SD = 0.667). The above findings were supported by
+a respondent during face to face interviews who reported that;
+“URA through the umbrella body KACITA engages the traders to ease provision
+of taxpayer services, which include tax advice and intensive taxpayer
+education (seminars/ workshops) on the rights and obligations of tax payers in
+the designated blocks are among the benefits to taxpayers. For example we
+able to learn how to avoid making mistakes which could result in penalties
+which are avoidable. This is because taxes are costly to businesses; therefore,
+managing penalties would significantly reduce business costs.”
+This means that the traders and other employees within the SME sector have attended
+taxation seminars and workshops which has improved their knowledge of tax policies
+and also enabled them to avoid tax penalties associated with tax evasion. This has
+reduced the tax compliance costs for the SMEs and thus boosted their performance.
+The payment of levies is not straight forward hence the business has to hire
+professional consultancy services. This was confirmed by the majority of the
+respondents (mean = 2.35; SD = 0.950) who revealed that they usually hire someone
+to file their tax returns for them.
+In addition, most of the respondents agreed (mean = 4.44; SD = 0.641) that they are
+aware of most tax laws and guidelines about taxation of incomes for SMEs. This means
+that the majority of the respondents can comprehend their tax acquiescence as noted
+by tax authorities. The above findings were supported by a respondent who said;
+“Recently, Uganda Manufacturers Association (UMA) conducted a seminar on
+Tax Legislation, Tax Compliance and the impact of company tax practices on
+business performance where I was able to know the rights and obligations of
+my business regarding tax, know the various taxes to which my business may
+be subjected, application of tax planning techniques without evading tax and
+breaking the law, and learning the best techniques of tax computation.”
+This implies that the respondents have received tax education through seminars which
+have improved their awareness concerning tax laws, tax planning and compliance for
+small and medium businesses. This has also enabled them to know their rights and
+obligations of their businesses regarding taxes.
+
+
+The study findings revealed that members of the small and medium enterprises could
+not understand the tax laws and regulations in Uganda which is represented by the
+mean score of
+2.24 and standard deviation of 0.711. Furthermore, most of the respondents disagreed
+(mean = 2.45; SD = 0.710) that they can interpret tax laws and compute tax liabilities.
+This shows that the majority of the respondents do not have sufficient tax knowledge
+regarding the when to pay taxes and in what proportions.
+On whether the small and medium enterprises always file tax returns with URA on a
+timely basis as required by law, the majority of the respondents mean = 4.34; SD =
+0.856) agreed that they always file their tax returns on time. The study findings
+further revealed that most of the respondents know how to treat the expenses
+incurred in relation to income tax in Uganda which was confirmed by a high average
+score of 4.19 and standard deviation of 0.856.
+On average, most of the respondents in the SME sector agreed (mean = 4.02; SD =
+0.857) that they always advise management on income tax planning issues. The
+majority of the respondents noted that they are sure of the incomes /turnover on
+which they pay income taxes as a firm which is represented by the mean score of 4.15
+and relatively low standard deviation of 0.766.
+The findings also show that the majority of the respondents with an average score of
+4.24 (SD = .643) agreed that they are always part of the team that carries out the
+budgeting process of their employers especially on income tax matters.
+4.3. 2 Correlation results of tax compliance and the performance of SMEs
+Pearson correlation coefficient established the extent to which tax compliance
+influences the performance of SME’s in Mbarara central market, Mbarara, and the
+results are shown in table 6 below.
+Table 8: Correlation matrix for tax compliance and the performance of SMEs
+
+
+Tax
+compliance
+Performance of
+SMEs
+
+
+Tax compliance Pearson Correlation
+.595**
+Sig. (2-tailed)
+
+.000
+N
+Performance of
+SMEs
+Pearson Correlation
+.595**
+Sig. (2-tailed)
+.000
+
+N
+**. Correlation is significant at the 0.01 level (2-tailed).
+
+The study findings table 8 above show that tax compliance significantly affects the
+performance of SMEs in Mbarara central market since p- value (.000) is less that the
+significance level. The correlation coefficient is (0.595) which implies that there is a
+moderate positive relationship between tax compliance and the performance of SMEs.
+Therefore, according to the results, tax compliance has a statistically significant
+moderate positive effect on the performance of SMEs.
+Thus the hypothesis: “Tax compliance significantly affects the performance of SME’s
+in Mbarara central market.” is accepted. So, in order to enhance the performance of
+SMEs in Uganda, the government needs to ensure that there is a proper mechanism to
+ease tax compliance through having a simplified system of taxation, proper tax
+planning, and functional expertise as well as the ease with the interpretation of tax
+laws and regulations.
+This has benefitted the traders by equipping them with practical knowledge of tax
+compliance and best practices.
+In summary, the study found that tax compliance contributes to the performance of
+SMEs in Mbarara central market, Mbarara.

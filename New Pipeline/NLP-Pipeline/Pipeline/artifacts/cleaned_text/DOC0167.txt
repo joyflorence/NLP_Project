@@ -1,0 +1,1075 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rajs20
+African Journal of Science, Technology, Innovation and
+Development
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rajs20
+Understanding ICT adoption amongst SMEs in
+Uganda: Towards a participatory design model to
+enhance technology diffusion
+Stephen Kyakulumbye & Shaun Pather
+To cite this article: Stephen Kyakulumbye & Shaun Pather (2021): Understanding ICT
+adoption amongst SMEs in Uganda: Towards a participatory design model to enhance
+technology diffusion, African Journal of Science, Technology, Innovation and Development, DOI:
+10.1080/20421338.2020.1802843
+To link to this article: https://doi.org/10.1080/20421338.2020.1802843
+Published online: 19 Jan 2021.
+Submit your article to this journal
+View related articles
+View Crossmark data
+
+Understanding ICT adoption amongst SMEs in Uganda: Towards a participatory design model
+to enhance technology diffusion
+Stephen Kyakulumbye
+and Shaun Pather
+*
+Department of Information Systems, University of the Western Cape, South Africa
+*Corresponding author. Email: spather@uwc.ac.za
+Policy statements by the United Nations, the African Union and most African countries boldly pronounce on the anticipated
+benefits of the internetworked world and associated ICT to society in general and to the world of business specifically. In
+terms of the latter, Small and Medium Enterprises (SMEs) are recognized as being critical to the growth of developing
+economies. There is consensus that this sector has considerable potential for improved business outcomes through the
+harnessing of Information and Communication Technologies (ICTs). However, a problem of low adoption of ICT in this
+sector still prevails in Africa and there is a gap in our understanding of the reasons for this. In light of this problem, this
+paper reports on a survey of Ugandan SME owners in which their ICT pre-usage beliefs and attitudes are explored. The
+study identified four pre-use factors that are correlated with ICT use. The pre-usage beliefs which significantly influence
+decisions to adopt and use ICT include Benefit expectation, ICT learnability, User-confidence, and User-friendliness.
+These are found to be key determinants of ICT adoption. ICT support and ease-of-use on the other hand were factors
+that did not correlate with decisions to use ICT. However, it is found that there is a low predictive capability (17.7%) of
+pre-usage beliefs and attitudes in respect of prior use or non-use of ICT among SMEs. As such, this study found that
+other contextual factors constitute a greater (82.3%) predictive percentage. In light of this, the paper concludes by
+recommending an ICT participatory design process to mitigate ICT pre-use scepticism among SMEs owners.
+Key words: ICT adoption, antecedents, scepticism, technophobia, ICT pre-usage beliefs and attitudes
+Introduction
+The role of Small and Medium Enterprises (SMEs) in
+shaping the World’s economy is very fundamental and
+well documented (Ndiaye et al. 2018). For instance,
+amongst OECD countries, SMEs are the predominant
+form of enterprise, accounting for approximately 99% of
+all firms (ILO 2012; OECD 2017). They provide the
+main source of employment, accounting for about 70%
+of jobs on average, are major contributors to value creation, generating between 50% and 60% of value added
+on average, and comprise 45% of total employment and
+33% of GDP (IFC 2010; Perkins 2019). Micro-enterprises
+alone are reported to employ an estimated 80% of the
+working population of Sub-Saharan Africa (Biekpe
+2004; Stein, Ardic, and Hommes 2013; Abisuga-Oyekunle, Patra, and Muchie 2020).
+The increasing penetration of the internet and associated ICTs in Africa has led several commentators to
+argue
+that
+these
+technologies
+are
+creating
+a
+new
+economy –an information economy –in which information
+is the critical resource and basis for competition in all
+sectors including SMEs (Pather and Abiodun 2017).
+However, it has been observed that users in the SME
+sector have perceived the adoption of ICT with ‘scepticism,’ with some scholars ascribing the phenomena to
+‘technophobia’ (Gilbert, Lee-Kelley, and Barton 2003;
+Gray 2006; Ion and Andreea 2008; Labrianidis 2017;
+Rahman et al. 2017; Lew et al. 2019; Panas, Vasiliadou,
+and Halkiopoulos 2020). This is especially true amongst
+the smallest category of SME business, commonly
+known
+as
+micro-enterprises
+(Cataldo,
+Pino,
+and
+McQueen 2020). It has further been observed that such
+technophobia in relation to ICT use is influenced by
+users’ pre-usage beliefs and attitudes (Chakraborty and
+Al Rashdi 2018).
+In light of the prevailing technophobia, this paper
+examines the underlying beliefs and attitudes among
+SMEs owners in Uganda, which to date comprise low
+adopters. The underlying objective of the paper is firstly
+to deepen our understanding of the root causes of ‘scepticism’ of ICTs amongst SME owners in a typical developing country context. Secondly, the paper assesses the
+influence of SME owners’ demographic variables on
+SME owners’ perceptions of ICT and examines how the
+demographic variables and perceptions influence use or
+non-use of ICTs. Finally, the findings are used as a basis
+to recommend a participatory design approach as a
+means of mitigating technophobia that prevails amongst
+SME owners.
+Literature review
+Level of ICT adoption among SMEs
+In this study, the term ICTs refers to the use of internet
+enabled applications via desktop or mobile computing
+devices to boost business performance (Francis and
+Willard 2016). Information and communication technologies (ICTs), particularly the use of internet to conduct
+online business, have been changing the conventional
+way of doing business among brick and mortar companies
+(Beynon-Davies 2018). In the SME sector several proponents suggest there is need for early adoption if business
+sustainability is to be achieved (Beynon-Davies 2018).
+The problem of low adoption of ICT amongst this
+sector is well documented in the literature (e.g. Nguyen
+2009; Mramba et al. 2016; Pather and Abiodun 2017).
+This problem is further compounded in practice wherein
+SMEs fail to make the connection between ICT adoption
+and their profit-motive on the one hand and their personal
+motive gain expectations on the other. However, there is a
+widely accepted consensus that if SMEs harness ICTs, it is
+African Journal of Science, Technology, Innovation and Development is co-published by NISC Pty (Ltd) and Informa Limited (trading as Taylor & Francis Group)
+African Journal of Science, Technology, Innovation and Development, 2021
+https://doi.org/10.1080/20421338.2020.1802843
+© 2021 African Journal of Science, Technology, Innovation and Development
+
+likely to improve performance, growth and sustainability
+for more inclusive employment, increased mobility,
+ability to organize customer information and improved
+inter-connectedness to other microenterprises (Francis
+and Willard 2016). It is further observed that the low adoption and use of ICTs among SMEs in developing contexts
+is due to demographic antecedents and beliefs and attitudes of users in the sector (Pustovrh et al. 2017).
+Technology acceptance model (TAM)
+Over several years various models and theorizes have been
+developed to explain the vexing problem of ICT adoption.
+In this section we briefly assess one of the seminal adoption theories with a view to examine the usage and nonusage contexts of ICT among SMEs in a developing
+country context.
+From an adoption perspective, a widely used theory is
+the Technology Acceptance Model (Davis 1985, 1993). In
+the original model Davis (1985), posits that a potential
+user’s overall attitude towards using a given system is
+assumed to be a major determinant of whether one will
+or will not use it. Attitude towards use is a cognitive
+issue for which Davis (ibid.) highlights two dimensions,
+viz., perceived usefulness and perceived ease-of-use.
+Moreover, a cognitive response results into affective
+response (attitude towards using) which later predicts
+actual use (Davis 1985, 1993). However, inherent in
+ease-of-use and usefulness is the concept of perception
+which is behavioural and attitudinal in nature (Kyakulumbye, Muhenda, and Anaclet 2012; Verma and Sinha 2018;
+Scherer, Siddiq, and Tondeur 2019). Over the years there
+have been several studies that render the original TAM
+variables insignificant. For instance, Sin Tan et al.
+(2009) found that relative advantage, compatibility, complexity, observability, and security are significant factors
+influencing internet-based ICT adoption. Other studies
+have correlated adoption and diffusion challenges among
+SMEs to ICT design issues (Aleke, Ojiako, and Wainwright 2011). Namankani (2019) has argued that to
+ensure successful diffusion of innovation, a balance
+must be maintained between the amount of effort
+expended in the design of ICT and social factors such as
+language and traditional life.
+Given the foregoing, and taking into account the low
+explanatory prediction by the originator of TAM that
+‘Only 36% of variance in the adoption of ICTs is explained
+by TAM constructs, implying that 64% comprises other
+cognitive and contextual issues,’ (Davis 1993, 475),
+further extensions have been made to the model. One
+such extension of TAM, which serves to understand preusage issues, is the two-stage information systems continuance model (Venkatesh et al. 2011) and Unified
+Theory
+of
+Use
+and
+Acceptance
+of
+Technology
+(UTUAT); (Chakraborty and Al Rashdi 2018). The following section deals with one of the pertinent extensions
+of pre-usage beliefs and pre-usage attitudes.
+Pre-usage beliefs and pre-usage attitudes
+Venkatesh et al. (2011), build upon TAM and UTUAT to
+take into account the contextual nature of ICT use and
+user expectations. They advance two other pre-usage
+constructs, viz., pre-usage beliefs and pre-usage attitudes
+(Yasmin and Grundmann 2019).
+Such extensions to the TAM have improved the explanatory power of ICT diffusion in developing contexts
+(Chakraborty and Al Rashdi 2018). For example, there
+are several versions of the frequently cited unified theory
+of acceptance and use of technology (UTAUT) (Venkatesh, Thong, and Xu 2012) among others used in different
+contexts. A literature review of 174 articles based on
+UTAUT has revealed, from the weight analysis of independent variables that variables such as performance
+expectancy and behavioural intention qualified as the
+best predictor category (Williams, Rana, and Dwivedi
+2015; Chakraborty and Al Rashdi 2018). This supports
+our argument in this paper, that pre-usage attitudes, preusage beliefs and performance related expectations are
+important
+elements
+in
+understanding
+ICT adoption
+amongst SMEs. Such expectations can be in form of tangible or intangible elements (Gomez and Pather 2012;
+Jawed and Siddiqui 2019).
+Tangible and intangible perceived impacts of ICTs
+Pre-usage beliefs and attitudes are comprised of both tangible and intangible elements. Effective ICT diffusion
+among SMEs should result in impacts that transcend tangible benefits and impacts (Consoli 2012; Jawed and Siddiqui 2019). Various studies which reveal the low levels of
+adoption among the SME sector, have endeavoured to
+make recommendations in respect of tangible components
+of ICT adoption. For instance, Arendt (2008) reveals that
+in Malaysia, despite efforts to improve technology
+accumulation through education and skills development,
+SMEs remain on the wrong side of the digital divide.
+Others have argued that further research is necessary in
+order to develop a real understanding of the ICT adoption
+processes in small firms (Martin and Matlay 2001;
+Hartono and Herman 2019).
+Other studies have advocated for increasing awareness
+among SMEs on the benefits of ICT adoption. For
+example, Almazroa and Gulliver (2018) argue the need
+for more ICT training facilities for SMEs, measures to
+provide ICT products and services at an affordable cost,
+and free professional advice and consulting. Some critiques
+have
+referred
+to
+such
+recommendations
+as
+‘Blanket’
+approaches
+to
+promoting
+ICT
+adoption
+amongst SMEs which regretfully have not made significant differences to the sector (Eze et al. 2019; Cataldo,
+Pino, and McQueen 2020). Others such as Gomez and
+Pather (2012) recommend a fundamental paradigm shift
+in understanding how ICT might have development
+impacts, by focusing on intangible aspects in relation to
+usage outcomes, instead of only tangible ones.
+Several scholars conceptualize tangible impacts in a
+manner whereby they are viewed as quantifiable returns
+to the implementation of ICTs in organizations and
+among individuals (Jawed and Siddiqui 2019). Other
+studies have perceived tangibility and intangibility in
+terms of delivering direct and indirect benefits respectively
+(Jones 2008; Jawed and Siddiqui 2019).
+This study postulates that it is crucial to assess the
+anticipated tangible and intangible benefits and impacts
+
+of ICTs to the SMEs sector prior to design and deployment
+of technology. Prior to any intervention to address low ICT
+adoption, there is a need to understand the underlying perceptual beliefs, attitudes and expectations about ICTs
+amongst SME owners. This forms the underlying focus
+of this paper.
+Model construction
+From TAM, UTAUT, and an extension of TAM which
+highlights pre-usage beliefs and pre-usage attitudes
+which can be predominantly be both tangible and intangible elements, the following model is developed:
+The model posits that demographic characteristics like
+age, education level, gender can influence actual ICT use
+among SMEs. Beliefs and attitudes can be either positive
+or negative. Furthermore, pre-usage beliefs and attitudes
+of ICT could influence and determine use of ICTs
+(Ceresia and Mendola 2019). For instance, when assessing
+usage of mobile based payments, Almazroa and Gulliver
+(2018) reveal that personal characteristics have a positive
+influence on actual ICT use. Similarly, Alruwaie, El-Haddadeh, and Weerakkody (2020) also found that demographic characteristics are crucial in influencing citizens’
+continuous use of e-government services. Moreover,
+such expectation beliefs and attitudes may be likened to
+tangible and intangible elements from technology-based
+innovations (Jawed and Siddiqui 2019). In terms of negative and positive beliefs influencing ICT usage, Gholami
+et al. (2013) found a significant positive effect. On the
+other hand, Verma and Sinha (2018) did not find a significant influence of ICT pre-usage attitudes and beliefs on
+perceived wellbeing.
+Such contradictions in the extant literature were
+explored in the research that is reported in this paper. In
+particular we explored why in some studies, the influence
+is strongly significant while in others, it is not. Consequently, the following objectives formed the focus of the
+paper:
+(a) To identify the underlying factors that determine the
+negative and positive beliefs among SMEs which in
+turn influence ICT use.
+(b) To establish the relationship between the identified
+factors and ICT use among SMEs in Uganda.
+(c) To assess whether there are any significant differences
+in ICT use among SMEs in Uganda as influenced by
+the underlying factors.
+Methods
+The primary aim of the paper was to ascertain the antecedents and determinants of ICT usage amongst owners of
+Ugandan Small and Medium Enterprises (SMEs). The
+objective was to understand the latter so as to inform
+future interventions that may improve adoption levels
+amongst SMEs in a resource constrained environment.
+The study utilized a quantitative cross section survey to
+test the research hypotheses derived from literature and
+ICT adoption theoretical underpinnings.
+Population and sample size selection
+The study sampled SMEs from Mukono Municipality,
+Uganda. SMEs in this municipality have characteristics
+of both urbanity and rural. A sample target of 385 respondents was set, based on sampling norms of (Krejcie and
+Morgan 1970).
+Mukono Municipality Register has approximately
+20,000 SMEs when stratified according to type of business
+(National Population and Housing Census 2014). To cater
+for non-response, we enhanced the sample size by 10%
+and a total of 425 participants were considered. The unit
+of analysis was SMEs owners (managers) while the type
+of business was used for respondent stratification. Stratified convenience sampling (Neneh and Van Zyl 2012)
+was used to collect the data. Twenty-five research assistants traversed the Municipal zones to collect the data.
+The businesses which were targeted have diverse operations due to the zones where they belong. Thus, stratifying and zoning them enabled business representation
+based on location and nature of business.
+Survey method
+The survey approach utilized a structured questionnaire
+for collecting perception quantitative (negative and positive pre-usage beliefs and attitudes) data, demographics
+data and prior use of ICT based on a dichotomous scale
+of YES/NO. The objective of the survey approach was
+to obtain a ‘snap-shot’ of the situation amongst SMEs
+which in turn would provide a basis for quantification of
+ICT pre-usage beliefs and attitudes.
+Instrument development and analysis processes
+The development of the survey tool was informed by the
+model (Figure 1). The instrument comprised a section to
+collect demographic data, followed by a section which
+ascertained use experience, and finally the core of the
+instrument comprised statements regarding pre-usage attitudes as guided by the literature and the model. The constructs in the tool comprised cognitive response items.
+Therefore, questions in relation to pre-usage beliefs and
+pre-usage attitudes provided for an understanding of the
+context of ICT use which follows on Venkatesh et al.
+(2011). The instrument further provided for an assessment
+of such beliefs and attitudes in terms of both tangible and
+intangible perceptions of ICT benefits could have influenced prior use or non-use of ICTs.
+The items in the instrument included a measure of
+negative and positive ICT pre-usage beliefs and attitudes
+with a total of 14 items (7 negative and 7 positive preusage expectations). For all constructs, the authors asked
+respondents to rate their ICT usage attitudes and beliefs,
+using a Likert scale of 1–5 (1=strongly disagree and
+5=strongly agree).
+Results and discussions
+This section reports the demographic antecedents of the
+SME owners as they were deemed to be critical for
+usage attitudes and beliefs. A total of 425 usable responses
+were received. This implies that study had an acceptable
+response given that it was over the recommended statistical threshold of 377 for a population of ≥20,000 (Krejcie
+and Morgan 1970, 608) and 392 (Israel 1992) for the same
+population at a 5% level of precision.
+
+SME category and demographics of respondents
+The Table 2 reveals the SME business type and demographic data. This provides the basis to examine variations
+in beliefs and attitudes among the different SME business
+sector types (Table 1).
+The results reveal that SMEs in Mukono Municipality
+comprise small businesses ranging from those that deal
+with health-related products and services, pre-schools, to
+artisanal type businesses such as welding. The next table
+presents the demographics of the SMEs participants that
+responded to the survey in Table 2.
+After accounting for missing data, it was excluded from
+the analysis. Female respondents represented 43.5%, while
+male respondents accounted for 56.5%. This suggests male
+Figure 1: ICT pre-usage beliefs and attitudes and Actual Use of ICTs.
+Table 1: SME category.
+SME category
+Carpentry
+7.1
+Medical Centre
+16.5
+Drug shop
+3.5
+Pharmacy
+15.3
+Restaurant
+11.8
+Retail shop
+11.8
+School
+14.1
+Veterinary shop
+4.7
+Welding
+15.3
+Total
+100.0
+Table 2: Demographics of respondents.
+Gender
+Female
+43.5
+Male
+56.5
+Total
+100.0
+Marital status
+Single
+30.6
+Married
+62.4
+Divorced
+4.7
+Widowed
+1.2
+Total
+98.8
+System
+1.2
+Total
+100.0
+Age category
+Age <35 years
+56.4
+>35
+43.6
+Total
+100.0
+Education level
+less than primary
+2.4
+Completed O-level
+7.1
+Completed A-level
+9.4
+Completed tertiary education certificate
+12.9
+Ordinary diploma
+12.9
+Advanced diploma
+12.9
+Bachelor’s degree
+28.2
+Postgraduate diploma
+4.7
+Master’s degree
+8.2
+Total
+98.8
+Non-response (dropped)
+1.2
+Total
+
+dominance in SMEs, and this may hold true since, culturally in Central Uganda, men are regarded as the breadwinners and must find alternative means of survival in the
+absence of formal employment (Svensson and Wamala
+Larsson 2016). Based on the model guiding the study, the
+study hypothesizes that demographics are linked to use or
+non-use of ICTs among SME sector owners.
+Use of ICTs among SMEs
+We assessed the extent of use of ICT by SME owners in
+the business itself or for any other purpose.
+The data in Table 3 reflects the low levels of use of computers amongst SMEs. Of the participants, 68.2% of SME
+owners have never used a computer in their business and
+76.5% have never used a computer in any other nonbusiness context. This supports the premise of the paper in
+respect of the low levels of ICT diffusion in this sector
+that underlying pre-usage beliefs and attitudes regarding
+ICT use therefore need further investigation. This result
+renders support to the diffusion of innovations as it
+affirms that most SMEs constitute late majority and
+laggards (Rogers 1971, 2010; Meyoki and Kavindah 2019).
+SMEs owners’ pre-usage beliefs and attitudes of ICTs
+The
+results
+from
+the
+fourteen
+items
+in
+the
+preusage questionnaire were sub-divided into negative and
+positive beliefs and attitudes which constitute behavioural
+expectations from ICTs. The results are presented in
+Table 4.
+In Table 4, missing data was sifted out and the mean
+results provided are for the responses recorded from 380
+study participants. The mean results tending towards one
+(1) reveal a strong disagreement, whereas those towards
+five (5) reveal a strong agreement. The result indicates
+that respondents have positive perceptions about most
+constructs. For instance, they strongly disagree that computer use is a waste of time. However, they do not
+believe that most people can learn how to use a computer
+system, which tallies with their other belief that they are
+not confident using the computer system. To establish
+what these factors were, a factor analysis was undertaken.
+Factor analysis to examine the pre-usage beliefs and
+attitudes of ICTs use among SMEs
+To understand the factors that influence ICTs use among
+SMEs in Mukono, Uganda, the items in the tool were subjected to exploratory factor analysis to assess the extent of
+their loading. The results are presented in Table 5.
+Table 5 depicts the rotated Eigen values. This indicates
+that there are six (6) significant factors for this study. The
+results in Table 5 imply that the fourteen (14) items which
+comprised in the instrument are categorized into six (6)
+Table 3: Use of ICT in the SME business or for any other purpose.
+Have you ever used a desktop or laptop
+computer in your business?
+Valid
+No
+68.2
+Yes
+31.8
+Total
+100.0
+Have you ever used a desktop or laptop
+computer for any other purpose other than
+business?
+Valid
+No
+76.5
+Yes
+8.2
+Total
+84.7
+Table 4: Descriptive statistics on the pre-system usability issues.
+Negative
+perception
+Positive
+perception
+Mean
+Std.
+Dev.
+Analysis
+N
+I think using system can improve my business
+✓
+3.89
+1.178
+Use of a computer system can improve my well being
+✓
+3.74
+1.057
+Computer use is not a mere wastage of time
+✓
+4.04
+.967
+I think the computer system is not so complex
+✓
+2.71
+1.308
+I think I would like to use a computer system frequently
+✓
+3.50
+1.166
+I think I can gain something from the use of computers
+✓
+3.91
+.977
+I imagine that most people can learn to use the computer
+✓
+4.01
+.981
+I do not feel very confident using the computer system
+✓
+3.46
+1.411
+I think the computer system is not easy to use
+✓
+3.38
+.726
+I need support from another person to use a computer
+✓
+4.00
+1.090
+I need to work with somebody technical before use
+✓
+4.26
+.993
+There might be too much inconsistencies in a computer
+✓
+1.95
+1.257
+I think the functions of the computer system are not well
+integrated
+✓
+1.71
+1.158
+I guess the computer system is very cumbersome to use
+✓
+3.21
+1.372
+
+factors. The rotated factor matrix which aids factor
+naming is presented in Table 6.
+From the above factor loadings and matching, the next
+section provides the rationale of naming of the factors
+taking into account their context in relation to the reality
+of ICT pre-use expectations.
+Factors that that are associated with the pre-usage
+beliefs and attitudes of ICTs among SMEs owners
+Some scholars advocate that the naming of factors is more
+of an ‘art’ as there are no rules for naming, except to give
+names that best represent the variables within the factors
+(Costello and Osborne 2005). Other scholars suggest
+that naming can come from the from the investigator’s
+prior theoretical understanding of the phenomenon under
+study (an a priori approach) as the factors get loaded to
+a component (Ryan and Bernard 2003). Following on a
+combination of such suggestions, the naming of the
+factors was based on the above factor loadings, labelling
+used in common practice, the research context and
+theoretical lenses that were used in the background to
+this
+study
+and
+joint
+combined
+knowledge
+of
+the
+researchers.
+Factor 1: Benefit expectation
+The first factor has three items which relate to an expectation that using computers can improve business that it
+does not constitute a wastage of time, and that traders
+would like to use a computer more frequently.
+These issues align well with the notion of business
+benefit expectations. The other issues seem to relate to
+personal benefit expectations from use of computers,
+which include the notion that the use of computers
+would improve well-being. We therefore cast both these
+into benefit expectation. However, we note from the communalities table, that well-being expectations were more
+prominent.
+Factor 2: ICT learnability
+The second set of three items comprising Factor 2, are
+related the perceived ability of individuals to learn to use
+Table 5: Total variance explained.
+Component
+Initial eigenvalues
+Extraction sums of squared loadings
+Rotation sums of squared loadings
+Total
+% of
+Total
+% of
+Total
+% of
+3.830
+3.830
+3.239
+23.133
+23.133
+1.764
+12.598
+39.952
+1.764
+12.598
+39.952
+1.508
+10.768
+33.902
+1.284
+9.171
+49.123
+1.284
+9.171
+49.123
+1.440
+10.289
+44.190
+1.173
+8.381
+57.504
+1.173
+8.381
+57.504
+1.405
+10.039
+54.229
+1.118
+7.986
+65.490
+1.118
+7.986
+65.490
+1.349
+9.638
+63.867
+1.071
+7.652
+1.071
+7.652
+1.298
+9.275
+.892
+6.370
+79.512
+.680
+4.855
+84.367
+.617
+4.404
+88.771
+.460
+3.289
+92.060
+.349
+2.492
+94.552
+.307
+2.194
+96.746
+.264
+1.884
+98.630
+.192
+1.370
+100.000
+Extraction method: Principal Component Analysis
+Table 6: Rotated factor matrix
+Rotated component matrixa
+Component
+I think using system can improve my business
+.815
+Use of computer system can improve my well being
+.787
+.322
+Computer use is not a mere wastage of time
+.720
+−.360
+I do not feel very confident using the computer system
+.712
+−.401
+I think I can gain something from the use of computers
+.644
+−.354
+I think the computer system is not easy to use
+.448
+.457
+I think the computer system is not so complex
+.858
+I think I would like to use a computer system frequently
+.464
+.688
+I need support from another person to use a computer system
+.815
+I do need to work with somebody technical before use
+.745
+I imagine that most people can learn to use the computer system
+.826
+There might be too much inconsistencies in a computer system
+.740
+.318
+I think the functions of the computer system are not well integrated
+.652
+.889
+I guess the computer system is very cumbersome to use
+.860
+Extraction Method: Principal Component Analysis
+Rotation method: Varimax with Kaiser Normalization.
+a Rotation converged in 8 iterations.
+
+ICT. These are associated with latent variables in respect
+of feeling an aptitude to learn something of value
+through ICT use, perceiving computers as not being
+complex and the need to use computers frequently.
+Factor 3: ICT support
+For factor three, we consider two key items since one of
+the variables loaded highly on to the first factor. These
+are: needing support from another person to use a computer system and not needing somebody technical before use,
+thereby implying any peer who can offer support can
+enhance usability. These are issues related to anticipated
+ICT support as an expectation before use.
+Factor 4: Ease-of-use
+The fourth factor comprised of latent variables in relation
+to the ease of which a trader is able to learn to use computers, and that during use there is an expectation of inconsistencies in the system. These are system design related
+issues, and are therefore labelled as Ease-of-use.
+Factor 5: User-friendliness
+The latent variables associated with this factor appear to be
+closely related to Factor 4. These include an expectation of
+inconsistencies in the system (which also loaded in Factor
+4) and the expectation of computer systems to be well integrated. These appear to be premised on notions of usercentred design. The researchers labelled this factor userfriendliness.
+Factor 6: User-confidence
+Finally, the sixth factor relates to a perception that ICT is
+cumbersome to use as revealed with one of the variables
+loading highly with 0.86. This is coupled with a perception of not being easy to use and issues related to lack of
+confidence. We label this factor as User-confidence.
+Correlation of identified factors with ICT use
+After naming the factors, the underlying constructs that
+were inherent in each factor were aggregated into an
+average index measure. For ICT use, the averaged
+measures ranged from 1 (low or no use), 1.5 (moderate
+use) and 2 (high use) of ICTs among the SMEs. The correlation results are shown in Table 7.
+The above results show that apart from ICT support
+(sig=0.932) and ease-of-use (sig. = 0.169), the other four
+factors were significantly correlated to the use of ICTs
+among SMEs. The correlation results contradict the
+TAM model which espouses that ease-of-use is a very
+strong positive significant predictor of actual use. Based
+on the correlation results, we reconfigure our model of
+ICT use among SMEs as follows (Figure 2).
+Regression results of the pre-usage beliefs and attitudes
+and ICT use
+The next section presents ordinary least squares regression
+results to examine the predictive power of the pre-usage
+factors to ICT use (Table 8).
+Table 7: Factor correlation table and use of ICTs among SMEs.
+Correlations
+Benefit
+expectations
+ICT
+learnability
+ICT
+support
+Ease-ofuse
+Usercentredness
+Userconfidence
+Actual
+Use
+Benefit
+expectation
+N
+ICT
+Learnability
+.762**
+.000
+N
+ICT Support
+.467**
+.104*
+.000
+.042
+N
+Ease-of-use
+.425**
+.178**
+−.108*
+.000
+.000
+.036
+N
+Usercentredness
+.636**
+.256**
+.036
+.748**
+.000
+.000
+.479
+.000
+N
+Userconfidence
+.245**
+.118*
+−.130*
+.507**
+.516**
+.000
+.016
+.011
+.000
+.000
+N
+Actual use
+−.266**
+−.365**
+.005
+−.075
+−.134*
+−.126*
+.000
+.000
+.932
+.169
+.014
+.018
+N
+** Correlation is significant at the 0.01 level (2-tailed).
+* Correlation is significant at the 0.05 level (2-tailed).
+
+From the model summary in Table 8, the results show
+that the identified factors significantly predict use of ICTs
+among SMEs. However, the coefficient of determination
+R-squared is only 13%. This implies that actual use of
+ICTs among SME owners studied is explained by only
+13% of the six (6) factors. The rest of the usage expectations is explained by 87% of other factors which could
+be contextual factors. This implies that other methods
+are needed to thoroughly understand SME expectations
+of ICTs. We therefore posit that such factors could be
+revealed during a participatory design process, which
+involves SME users. This is supported by others, such
+as Aleke, Ojiako, and Wainwright (2011) who argue that
+to ensure successful diffusion of an innovation, a
+balance must be maintained between the amount of
+effort expended in the design of ICT and that of other
+social factors.
+Analysis of variance identified factors and ICT use
+among
+In this section we probe the identified factors (pre-usage
+beliefs and attitudes) to ascertain whether there are differences between the two main groups of respondents in the
+study, viz., users and non-users of ICT. The results of the
+One-way ANOVA are given in Table 9.
+From the results, there is a statistically significant
+difference between the two groups in relation to the following factors: Benefit expectations (One-way ANOVA
+(F(2,337) = 13.357,
+p = 0.000);
+ICT
+learnability
+(One-way
+ANOVA
+(F(2,352) = 27.647,
+p = 0.000);
+Ease-of-use (One-way ANOVA (F(2,332) = 3.393, p =
+0.035); and User-friendliness (One-way ANOVA (F
+(2,337) = 3.442, p = 0.033). There were no statistically significant differences in respect of the factors related to ICT
+support and User-confidence. This reveals that SME
+owners, in the main, are influenced by their use experience
+in terms of their perceptions of ICTs as there were significant differences in respect of four of the six factors. The
+data here also indicates, that regardless of ICT use experience, SME owners have similar perceptions about the
+level of support they need, and also in their own level of
+confidence to use ICTs.
+Towards a participatory design model to mitigate
+negative beliefs and attitudes towards ICTs among
+SMEs
+This study renders support to several other scholars who
+recommend that there is need for participatory design
+mechanisms in order to influence user acceptance within
+applied contexts (Davis 1993; Aleke, Ojiako, and Wainwright 2011; Gumbi and Mnkandla 2015). For instance,
+the community informatics literature reveals that with
+the design of applications, projects and activities within
+a community informatics framework that would be most
+supportive of local ‘effective use’ would be ‘participatory
+design’ (Gurstein 2003). Participatory design is a well
+cited recommended strategy (Porter 1991; Qureshil,
+Kamal, and Wolcott 2009; Wyche 2015) and several
+fruits have been documented to date in respect of its application. It is a methodological approach that recognizes that
+Figure 2: ICT pre-usage beliefs and attitudes and Actual Use of ICTs.
+Table 8: Regression results
+Model summary
+Model
+R
+R square
+Adjusted R square
+Std. error of the estimate
+.361a
+.130
+.113
+.28956
+a Predictors: (Constant), USER_CONFIDENCE, LEANABLE, SUPPORT, EASE_OF_USE, USER_FRIENDLINESS, BENEXP
+
+ideas develop slowly over time, can help discover confounding demi-regularities (Lawson 1997; Lee, Olson,
+and Trimi 2012) called contextual factors. It could also
+mitigates pre-usage beliefs and attitudinal expectations
+and helps to clearly understand generative mechanisms
+(Van Aken 2005; Andriessen 2006; Jagosh et al. 2012).
+In light of the foregoing we recommend the need to
+harness a participatory design paradigm to overcome
+negative perceptions of ICTs, and at the same time to
+consolidate positive perceptions which prevail. This
+would involve, as a first step, the development of a framework that incorporates the pre-usage findings to foster
+an environment for undertaking participatory design of
+ICT applications with SMEs. The ultimate goal of undertaking
+participatory
+design
+when
+developing
+ICT
+artefacts would be to confirm or disconfirm SMEs’
+pre-usage ICT expectations and to reinforce benefits
+and any other determinants for use as presented in the
+figure below (Figure 3).
+The results of this study identified several pre-usage
+beliefs and attitudes, viz., Benefit expectations, Learnability, ICT support, Ease-of-use, User-friendliness, User-confidence and other contextual and social factors. The green
+diamond implies that during an artifact participatory
+design process, the expectations can be confirmed or disconfirmed through collaborative working. It is anticipated
+that the mental convergence of ICT designers and systems
+users would lead to improved adoption and better usage
+outcomes.
+The rationale for participatory design is premised on
+an assumption that there is a need for carefully planned
+interventions to convince the SME population to infuse
+technology in their businesses. The literature indicates
+that lived experiences such as financial insecurity, social
+insecurity, unstable future will lead to scepticism and
+phobia of ICT (Gumbi and Mnkandla 2015). Further
+there is evidence that according to Rogers’ diffusion of
+innovation theory a combination of external and internal
+Table 9: One-way ANOVA: Assessment of differences among SMEs based on factors.
+df
+F
+Sig.
+Benefit expectations
+13.357
+.000
+Total
+ICT learnability
+27.647
+.000
+Total
+ICT support
+.008
+.992
+Total
+Ease-of-use
+3.393
+.035
+Total
+User-friendliness
+3.442
+.033
+Total
+User-confidence
+2.811
+.061
+Total
+Figure 3: Towards ICT pre-usage expectations through participatory design.
+
+influences of a system much work in a dialectical manner
+in order to influence the diffusion process (Lundvall 1988;
+Zenko and Mulej 2011; Cajaiba-Santana 2014). This study
+postulates that to aid effective decision-making of technological acceptance, co-creation can be of potential value of
+creating such social and behavioural change.
+Conclusion
+This paper, in recognizing the critical role of SMEs in
+developing economies, has responded to the problem of
+the relatively low levels of uptake of ICTs. This study
+builds upon prior findings in the extant literature, which
+have demonstrated the value proposition of ICT to
+SMEs in terms of improved business operations and efficiencies. The findings provide insight into the attitudes
+of SME owners towards ICTs. The study has shown that
+perceptions of ICTs are both positive and negative.
+Further the study identified four pre-use factors that are
+correlated with ICT use. The pre-usage beliefs which significantly influence decisions to adopt and use ICT include
+Benefit expectation, ICT learnability, User-confidence,
+and User-friendliness. These are found to be key determinants of ICT adoption. ICT support and ease-of-use on the
+other hand were factors that did not correlate with
+decisions to use ICT.
+However, the study also found that other factors such
+as social and contextual factors also affect ICT adoption.
+As such the study proposes a strategy to mitigate negative
+ICT pre-usage beliefs which are responsible for low ICT
+adoption in the sector. Our proposed co-design recommendation responds to scholars of similar thought that have
+argued that ‘there has been a bias to action, not a bias
+to knowledge. We are changing the world without interpreting or understanding it,’ (Heeks 2010, 625). Similarly,
+Gomez and Pather (2012) seem to wonder whether evaluators and designers of ICT4D ask the right questions. Based
+on the findings of this study, we envisage that participatory
+design of ICT applications has the ability to orchestrate
+this mutual interpretation, ask the right questions, create
+mutual understanding, and ensure improved adoption of
+ICTs.
+Through a co-design process, we envision that the
+negative factors identified in this study together with
+other myths, beliefs, attitudes and expectations shall be
+mitigated during the process. Once those issues are disconfirmed from a participatory design perspective, we
+anticipate user satisfaction, improved post-usage beliefs
+and attitudes and hence usability and continuance for
+use of designed systems amongst SMEs.
+In terms of theoretical implication, this study contributes to the need to integrate demographic antecedents
+when planning ICT applications for the SME sector.
+During the design of such systems, there is need to understand the inherent variables that are not observable and
+measurable through a participatory design process. Other
+theoretical implications of this study relate to developing
+further underlying understandings of the principles that
+must inform the development of ICT design approaches
+that are appropriate for the African continent. This paper
+takes a first step in this regard.
+In terms of policy, we advocate that public-private
+partnerships must be fostered to catalyze the endeavour
+to produce user centric systems for SMEs. Most governments in the African continent have SME development
+foremost on their development agenda. However, much
+more needs to be done to ensure that both emergent and
+established SMEs benefit from the digital revolution that
+is replete in statements of the African Union and most
+African governments. Such work needs to promote technology diffusion among SMES, and thereby ensure that
+they are able to access and successfully use ICTs
+towards improved business outcomes. The results of this
+study provide a basis to understand low ICT adoption.
+As such policy interventions may take these findings
+into account in the development of interventions to
+support the SME sector.
+Finally, future research should entail action research
+that will entail working dialectically with SMEs sector
+to disconfirm the negative pre-usage beliefs and attitudes
+while at the same time consolidating the positive beliefs
+towards ICTs. To this end the participatory design model
+proposed herein, and which draws primarily upon Kyakulumbye (2020), must be subjected to further testing such
+that the African continent begins to understand the
+reality of implementing true bottom-up processes to
+ensure enhanced technology diffusion into the SME
+sector.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This work was supported by the National Research Foundation
+of South Africa: [Grant Number SFH170624244332].
+ORCID
+Stephen
+Kyakulumbye
+http://orcid.org/0000-0002-
+4275-9483
+Shaun Pather
+http://orcid.org/0000-0002-4667-222X

@@ -1,0 +1,552 @@
+Dampness in sandcrete blocks can lead deterioration of a structure, reduce durability
+and increase maintenance issues. This study assessed the use of waste engine oil (WEO)
+as an additive to reduce water absorption in sandcrete blocks. Laboratory experiments
+determined the physical and chemical properties of WEO and assessed its effect on the
+compressive strength and water absorption of sandcrete blocks. The results showed
+that WEO exhibits hydrophobic properties that help limit moisture penetration. The
+optimum proportion of WEO was found to be 0.5% by weight of cement which effectively
+reduced the water absorption by 20% and increased the compressive strength by 8%.
+However, higher concentrations of WEO (≥1.0%) weakened the blocks due to
+interference with cement hydration process. These results suggest that incorporating
+WEO in sandcrete block production offers a sustainable and eco-friendly solution for
+reducing dampness while promoting waste recycling in construction.
+
+ii
+
+DECLARATION
+I hereby declare that this is entirely my own original work, is not plagiarised and has
+not been submitted to any other institution for assessment other than this University.
+Signature: ...................................................................
+RWOTBER RAYMOND
+S21B32/062
+
+iii
+
+APPROVAL
+This is to certify that this report was compiled under my supervision and is ready to be
+handed in to the Faculty of Engineering, Design and Technology as one of the
+requirements for the degree of Bachelor of Science in Civil and Environmental
+Engineering at Uganda Christian University.
+MR. KENNETH ECONI
+Academic Supervisor
+Signature: ................................................ Date: ....................................
+
+iv
+
+DEDICATION
+I dedicate this report to my parents for their tireless effort they have placed in my
+education, comfort and support.
+
+v
+
+ACKNOWLEDGEMENT
+I thank the Almighty God for enabling me to carry out this research project and guiding
+me through this entire research duration. I would also like to thank my parents for their
+continued support financially since their unwavering support allowed me to focus on
+this research project and it would not have been possible without this support.
+I would like to extend my gratitude to Mr. Kenneth Econi, my research supervisor for
+the guidance, advice and assistance that he dedicated to this research project.
+Appreciation also goes to my project partner for being collaborative and active
+throughout this research process.
+Finally, I would like to thank the Faculty of Engineering, Design and Technology at
+Uganda Christian University for supporting us and allowing us to do this research under
+their guidance and supervision.
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+DEDICATION ........................................................................................ iv
+ACKNOWLEDGEMENT .............................................................................. v
+LIST OF TABLES ..................................................................................... x
+LIST OF FIGURES ................................................................................... x
+LIST OF APPENDICES .............................................................................. xi
+LIST OF ACRONYMS .............................................................................. xii
+CHAPTER ONE: INTRODUCTION .................................................................. 1
+1.1 Background .................................................................................. 1
+1.2 Problem Statement ......................................................................... 2
+1.3 Main Objective .............................................................................. 3
+1.4 Specific Objectives ......................................................................... 3
+1.5 Research Questions ......................................................................... 3
+1.6 Justification ................................................................................. 3
+1.7 Significance .................................................................................. 5
+1.8 Scope of study ............................................................................... 5
+1.9 Time scope .................................................................................. 5
+
+vii
+
+CHAPTER TWO: LITERATURE REVIEW ........................................................... 6
+2.1 Blocks ......................................................................................... 6
+2.2 Classification of blocks .................................................................... 6
+2.2.1 Solid blocks ............................................................................. 6
+2.2.2 Hollow blocks ........................................................................... 7
+2.2.3 Common sizes of sandcrete blocks .................................................. 7
+2.3 Raw materials ............................................................................... 8
+2.3.1 Cement .................................................................................. 8
+2.3.2 Sand ...................................................................................... 8
+2.3.3 Gravel ................................................................................... 9
+2.4 Benefits of sandcrete blocks ............................................................ 10
+2.5 Limitations of sandcrete blocks ........................................................ 11
+2.6 Dampness in blocks ....................................................................... 11
+2.7 Waste motor oil ........................................................................... 12
+2.8 Chemical composition of waste motor oil ............................................. 13
+2.9 Infiltration of oil into concrete ......................................................... 14
+2.10 Reaction between waste motor oil and cement .................................... 15
+2.11 Knowledge gap ........................................................................... 16
+CHAPTER THREE: METHODOLOGY ............................................................. 17
+3.1 Material collection and preparation ................................................... 17
+
+viii
+
+3.2 Determining the physical and chemical properties of WEO ........................ 18
+3.2.1 Contaminant analysis (ICP test) ................................................... 18
+3.2.2 Viscosity test (ASTM D445) ......................................................... 19
+3.2.3 Density test (ASTM D1298-99) ...................................................... 20
+3.2.4 pH test (BS 1377: Part 3) ........................................................... 20
+3.2.5 Total Acid Number (TAN) (ASTM D664) ........................................... 21
+3.3 Determining the optimum proportion of WEO needed to minimise dampness .. 21
+3.3.1 Grading of the sand (BS 1377-2:1990) ............................................ 22
+3.3.2 Preparation, mixing and casting of sandcrete blocks .......................... 22
+3.3.3 Compressive strength test on sandcrete blocks (BS EN 772-1:2011) ......... 23
+3.3.4 Water absorption test on the sandcrete block (BS EN 772-11:2011) ......... 23
+3.3.5 Capillary action (BS EN 772-11:2011) ............................................. 24
+CHAPTER FOUR: RESULTS AND ANALYSIS ..................................................... 25
+4.1 Physical and chemical properties of WEO ............................................. 25
+4.1.1 Contaminant analysis (ICP test) ................................................... 25
+4.1.2 Viscosity (ASTM D445) ............................................................... 27
+4.1.3 Density (ASTM D1298-99) ........................................................... 27
+4.1.4 pH (BS 1377: Part 3) ................................................................. 28
+4.1.5 Total Acid Number (TAN) (ASTM D 664) .......................................... 29
+4.2 Optimum proportion of WEO required to minimise dampness ..................... 30
+
+ix
+
+4.2.1 Particle size distribution of sand .................................................. 30
+4.2.2 Compressive strength ............................................................... 32
+4.2.3 Water Absorption .................................................................... 34
+4.2.4 Capillary action ...................................................................... 38
+4.3 Findings .................................................................................... 40
+4.4 Research Design ........................................................................... 41
+4.4.1 Optimum mix design ................................................................ 41
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATIONS .................................... 43
+5.1 Conclusions ................................................................................ 43
+5.2 Recommendations ........................................................................ 43
+REFERENCES ...................................................................................... 44
+APPENDIX .......................................................................................... 51
+APPENDIX A: PICTORIAL ...................................................................... 51
+APPENDIX B: LABORATORY RESULTS ........................................................ 53
+
+x
+
+LIST OF TABLES
+Table 2.1 Common sizes of block used ......................................................... 7
+Table 2.2 Waste motor oil hydrocarbon composition ...................................... 14
+Table 3.1 Mix Design Ratios .................................................................... 22
+Table 4.1 Concentrations of contaminants in the WEO .................................... 25
+Table 4.2 Viscosity of WEO ..................................................................... 27
+Table 4.3 TAN value standards ................................................................ 29
+Table 4.4 Mix design for sandcrete blocks ................................................... 41
+Table 4.5 Optimum mix design for the sandcrete blocks .................................. 42
+Table 4.6 Optimum mix ratio for the sandcrete blocks .................................... 42
+
+LIST OF FIGURES
+Figure 4.1 Heavy metal concentrations vs. EPA standard guidelines .................... 26
+Figure 4.2 Gradation of sand ................................................................... 31
+Figure 4.3 Compressive strength at 7 and 28 days .......................................... 32
+Figure 4.4 Water absorption Capacity of sandcrete blocks at 7 and 28 days ........... 35
+Figure 4.5 Capillary rise through the blocks ................................................. 38
+
+xi
+
+LIST OF APPENDICES
+Figure 6.1 Sandcrete blocks made with WEO ................................................ 51
+Figure 6.2 Sandcrete block mold .............................................................. 51
+Figure 6.3 Prototype wall made with sandcrete blocks having 0.5% WEO ............... 51
+Figure 6.4 Compressive strength test ......................................................... 52
+Figure 6.5 Sandcrete blocks made without WEO ............................................ 52
+Figure 6.6 Oven used to dry Sandcrete blocks before the water absorption test ...... 52
+Figure 6.7 Prototype wall made with sandcrete blocks having 0% WEO ................. 52
+
+xii
+
+LIST OF ACRONYMS
+WEO
+Waste Engine Oil
+TAN
+
+Total Acid Number
+WMO
+Waste Motor Oil
+ASTM
+American Standards of Testing Materials
+BS
+
+British Standard
+WCO
+Waste Cooking Oil
+UNBS
+Uganda National Bureau of Standards
+PCB
+Polychlorinated Biphenyls
+ISO
+
+International Organisation for Standards
+MW
+
+Molecular weight
+BP
+
+Boiling points
+
+CHAPTER ONE: INTRODUCTION
+1.1 Background
+Dampness will cause secondary damage to a building. It can even lead to problems like
+mortar fall from the affected areas, failure of affected building components and also
+causes serious health effects to the humans (Vidyakar, 2019). Flooding, leakages, water
+penetration and construction water are major causes of dampness in a building. Surface
+efflorescence just above skirting/floor, dampness at the base of walls up to 1.5m in
+horizontal band, softening and deterioration of plaster and blistering and flaking of
+paint are main symptoms associated with dampness (Delgado et al 2016). This not only
+compromises the aesthetics of a building but also structural integrity.
+Traditional methods for minimising dampness involve the use of synthetic chemicals,
+silicone sealants, and bitumen coatings. While effective, these solutions may have
+negative environmental implications, raising concerns about sustainability in building
+practices. As the construction industry increasingly prioritizes eco-friendly solutions,
+alternative materials and methods.
+In Uganda, sandcrete blocks are favoured for their affordability, ease of manufacture,
+and versatility (Acayo, 2020). They are commonly used in walls, fences, partitions, and
+various structural elements across residential, commercial, and industrial applications.
+However, their porous nature leads to a relatively high-water absorption capacity,
+making them susceptible to dampness. To solve this problem, incorporating waste
+motor oil into the sandcrete block mixture can help to reduce the levels of absorption
+of water by the sandcrete blocks. Waste motor oil is hydrophobic due to its non-polar
+
+composition, allowing it to interact effectively with the cement in the mixture. This
+lowers the overall water absorption capacity of the sandcrete blocks but also provides
+a way for recycling waste products, contributing to environmental sustainability.
+The incorporation of waste motor oil could also enhance the durability and longevity of
+sandcrete blocks, making them a more viable option in regions prone to moisturerelated issues. This research proposes the use of waste motor oil in sandcrete block
+production as a sustainable and environmentally friendly solution to minimize dampness
+in sandcrete blocks hence contributing to both sustainable construction practices and
+waste management efforts.
+1.2 Problem Statement
+In Kawempe division, the sandcrete blocks made by local manufacturers have a highwater absorption capacity which makes them more susceptible to dampness (Ahumuza,
+2020). Sandcrete blocks also known as concrete blocks which are used for masonry have
+a water absorption capacity of 18.7% which is higher than the required capacity of 12%
+set by UNBS (US 596:2017) and the average compressive strength of 2.396 Nmm2 was
+below the 3.5 Nmm2 value considered in practice (Acayo, 2021). This dampness may
+cause structural failure and mortar deterioration hence compromising on the durability
+and structural integrity of the block. The area under study is a low-lying area hence has
+a high-water content in the soil so use of these blocks can reduce the durability of the
+structure. Different methods to combat the dampness levels in sandcrete blocks are
+being used today like use of bitumen coating, synthetic chemicals like Dr. Fixit, silicon
+sealants and these may be harmful to the environment. This research therefore
+
+proposes to assess the feasibility of incorporating waste motor oil into sandcrete block
+production as a sustainable and environmentally friendly solution to minimize dampness
+in sandcrete blocks hence contributing to both sustainable construction practices and
+waste management efforts.
+1.3 Main Objective
+To assess the use of waste motor oil to minimize dampness in sandcrete blocks
+1.4 Specific Objectives
+1. To determine the physical and chemical properties of the waste motor oil
+2. To determine the optimum proportion of waste motor oil required to minimize
+dampness in sandcrete block
+3. To assess the performance of the sandcrete blocks with waste motor oil
+1.5 Research Questions
+1. What are the physical and chemical properties of waste motor oil?
+2. What is the optimum proportion of waste motor oil required to minimize
+dampness in sandcrete blocks?
+3. What are the properties of sandcrete blocks with waste motor oil?
+1.6 Justification
+Sandcrete blocks made of cement, sand, gravel and water have high water absorption
+due to the porous nature of the blocks, as the particles of sand create voids within the
+material. Waste motor oil is known to have a higher viscosity, small density as well as
+a low emulsifying ability making it easy to be absorbed into sandcrete, affecting the
+
+permeability and porosity of the sandcrete block (Kipkorir et al. 2021). Incorporating
+waste motor oil into sandcrete blocks can help address the issue of high-water
+absorption. Therefore, mixing petrol and diesel engine oil together for use in sandcrete
+helps to optimize the viscosity of the oil ensuring that there is even distribution of the
+oil in the sandcrete as well as enhancing the hydrophobic effect to minimize dampness
+(Hamad et al., 2003). Used diesel engine oil is thicker and can provide long-lasting
+waterproofing while used petrol engine oil is lighter and is better in absorption. When
+mixed together, they balance distribution and durability. Waste motor oil is
+hydrophobic, meaning it repels water. This hydrophobic nature is attributed to the fact
+that waste motor oil does not contain any charge and is non-polar (Warden, 2017).
+When waste motor oil is mixed with the cement used to produce sandcrete blocks, it
+reacts with the cement physically through adsorption to form a gel-like substance
+(Chen, Qin & Lau 2021). The incorporation of waste motor oil into concrete results in
+the formation of air bubbles due to the similarity with air entraining agents (Yaphary
+et al., 2020). These voids of air reduce internal pressure within the concrete by creating
+interconnected chambers that lead to the volumetric expansion of the water molecules
+during freezing (Sun et al., 2020). This gel-like substance coats around the particles of
+sand in the sandcrete mixture, effectively sealing the pores and reducing the
+permeability of the blocks to water. As a result, the water absorption capacity of the
+sandcrete blocks is significantly reduced.
+
+1.7 Significance
+The importance of this research is to address dampness in sandcrete blocks which is
+mainly caused by their high-water absorption capacity making them to absorb a lot of
+water which can compromise on their durability and structural integrity especially when
+used in areas where the damp proof course has proven to be inefficient or has worn out
+as well as low lying areas. This is by using waste motor oil which is a waste from motor
+vehicles and has adverse effects on the environment when disposed of improperly that
+is mixed in the sand and cement mixture to make them be able to have the required
+water absorption capacity as stated by the UNBS.
+1.8 Scope of study
+Kawempe division is located in the northern part of Kampala, the capital city of Uganda.
+It includes various neighbourhoods and suburbs such as Bwaise, Komamboga, Kawempe
+town, Kisaasi, among others. The area of study is 0.3741880N, 32.5910370E in Kisaasi.
+1.9 Time scope
+This research is expected to be carried out from October 2024 to March 2025.
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Blocks
+Blocks are rectangular elements used in construction for building walls, making
+pavements as well as other structures for masonry works. A block is typically a unit
+composed of materials such as concrete, cement or other aggregates (Campbell, 2024).
+Blocks can be assembled using mortar, adhesives or even by interlocking mechanisms.
+Their production is classified according to different types and sizes which may differ
+depending on the time and region, and are often manufactured in bulk quantity.
+A block can also be defined as a fundamental building material typically available in a
+rectangular shape and manufactured from materials like concrete or cement (Singh,
+2022). Blocks serve as essential components in construction projects, offering
+versatility and structural support.
+2.2 Classification of blocks
+Classification of blocks based on type and size. They can be classified as below;
+2.2.1 Solid blocks
+These are blocks made of solid concrete only and are typically used in load-bearing
+walls where structural strength is required (Smith, 2018). Fully solid blocks are often
+used for projects like paving where stability and durability are crucial. Solid blocks are
+more stable than hollow blocks and are suitable for load-bearing applications (JK
+Cement, 2024).
+
+2.2.2 Hollow blocks
+These blocks have hollow cores which reduce weight and material usage while still
+providing structural support. They are commonly used in non-load-bearing walls and
+partitions (Jones, 2019). They are further classified in grade depending on their density;
+1. Grade A: These blocks have a minimum density of 1500 kg/m3 and are used
+in load-bearing walls (BigRentz, 2021).
+2. Grade B: These blocks have a density of less than 1500 kg/m3 and they are blocks
+are also used in load-bearing walls.
+3. Grade C: These have a density greater than 1000 kg/m3 and are used in nonload-bearing walls. They are lighter due to the holes and can be useful when
+running wiring or piping.
+2.2.3 Common sizes of sandcrete blocks
+Different blocks have different sizes and these sizes determined by their grade most of
+the time. They vary since different wall sizes are needed for different purposes like
+load bearing walls, partitioning walls and retaining walls among others. Table 2.1 shows
+the different common sizes of concrete blocks used.
+Table 2.1 Common sizes of block used
+Length(mm)
+Width(mm)
+Height(mm)
+Source: (Alpha Sand, 2024)
+
+2.3 Raw materials
+2.3.1 Cement
+Cement is a binding agent used to bind many different construction materials. It is an
+essential ingredient of concrete and mortar due to its adhesive and cohesive properties.
+It is mixed with water to form a paste that binds aggregates or crushed rocks with sand
+(Hasan, 2010). Calcium, silicon, iron and aluminium compounds are closely ground to
+form a fine powdered product called cement. Different types of cement used in
+construction today;
+1. Non-Hydraulic cement. It is formed through the reaction of powdered cement
+with water and can be used in all types of construction even underwater
+construction projects since it sets and becomes adhesive due to carbonation.
+2. Hydraulic cement. This is the most common and used cement. Hydraulic cement
+like Portland cement has always been a preferred choice for architects,
+engineers and constructors majorly due to its ability to harden quickly.
+2.3.2 Sand
+Sand is a granular material made of finely divided mineral particles. It has different
+compositions but it is defined by its grain size. Sand grains are smaller than gravel and
+coarser than silt. Sand can also be referred to as a textural class of soil or soil type i.e.
+soil containing more than 85 percent sand-sized particles by mass (Plant and Soil
+Sciences eLibrary, 2022).
+
+The composition of sand varies depending on the local sources of rock and conditions
+but the most common component of sand in continental inlands and nontropical coastal areas is silica (silicon dioxide SiO2) mostly in form of quartz.
+In construction, sand is a very crucial material used primarily in concrete, mortar and
+plaster. The type of sand used in building construction is typically referred to as
+construction sand or building sand. There are different types of sand used in
+construction;
+1. River Sand: This is naturally occurring sand collected from beds of rivers. It is
+fine, rounded and has a smooth texture hence making it ideal for concrete and
+plastering (Deloney, 2023).
+2. Pit Sand: It is found in deep pits. It is coarse and angular and is often used in
+concrete due to its binding properties.
+3. Manufactured Sand (M-Sand): It is made by crushing hard granite stones, M-sand
+is a substitute for river sand. It has a rough texture and angular which helps in
+bonding in concrete (Admin, 2021).
+2.3.3 Gravel
+Gravel is a loose collection of small rock fragments formed through the natural
+processes of weathering and erosion or produced in quarries where larger rocks like
+sandstone, limestone and basalt are crushed (Charles 2024). With particle sizes ranging
+from 2 mm to 60 mm, gravel has various colours, textures, and types. It has a vital role
+in construction being essential for concrete production and asphalt mixing in road
+construction.
+
+2.4 Benefits of sandcrete blocks
+Sandcrete blocks are known for their compressive strength, providing excellent
+structural integrity to buildings. They are resistant to fire and pests making them
+durable and long-lasting (Homes, 2016).
+Sandcrete blocks have various sizes, shapes and finishes hence offering flexibility in
+design and construction. They are used in load-bearing and non-load-bearing walls,
+partitioning walls, retaining walls and other structural elements.
+Sandcrete blocks are pre-casted and readily available allowing for fast and efficient
+construction. They are easy to handle, transport and install hence reducing labour costs
+and construction time.
+Some sandcrete blocks are designed with built-in insulation improving thermal
+efficiency and reducing energy costs for heating and cooling buildings. Additionally,
+concrete has inherent thermal mass properties that help to regulate indoor
+temperatures.
+Sandcrete blocks provide excellent sound insulation reducing noise transfer between
+rooms and entrance from external sources. This is beneficial in residential and
+commercial buildings where acoustic comfort is very important.
+Sandcrete blocks have inherent fire-resistant properties offering protection against fire
+spread and minimizing damage in the event of a fire. This makes them suitable for use
+in fire-rated walls and structures (The Concrete Centre, 2019).
+
+2.5 Limitations of sandcrete blocks
+Due to their porous nature, sandcrete blocks absorb water easily which can weaken
+them over time. This moisture can cause issues such as mould growth, efflorescence
+and deterioration thereby reducing the durability of the structure.
+Sandcrete blocks are more brittle compared to other building materials making them
+prone to cracking during transportation or construction. This brittleness increases the
+risk of wastage during handling.
+Sandcrete blocks may offer substandard thermal and sound insulation properties. This
+results in higher energy consumption for heating or cooling the interior and less
+soundproofing which is less desirable for residential applications.
+In areas with high moisture or flooding, sandcrete blocks can erode over time if not
+adequately waterproofed leading to reduced durability and a need for frequent repairs.
+Sandcrete blocks often vary in quality due to inconsistent manufacturing processes
+particularly where they are made by hand. Differences in the sand-cement ratio and
+improper curing can lead to weak and non-durable blocks
+2.6 Dampness in blocks
+When building a concrete structure, moisture is among the most important factors since
+it hydrates the cement and helps in the curing process. However, once the building is
+constructed and inhabited, moisture can be harmful to the walls and the occupants
+(Administrator, 2024). Building defects like leaking gutters, damaged roofs as well as
+defective seals around windows and doors are all causes of penetrating damp in a
+
+structure (Administrator, 2024). Any building defects should be fixed as soon as possible
+as they can provide a constant source of dampness which can ruin internal décor.
+2.7 Waste motor oil
+Modern automobile engines require engine oil to function. These automobile engines
+cannot run on just any oil and “current design philosophies largely owe their feasibility
+to engine oils tailored to the demands of advanced engine design”.
+Waste motor oil refers to “petroleum-based or synthetic oil” that has been used and no
+longer fit for its original use due to the presence of impurities like dirt, metal scrapings,
+water or chemicals (US EPA, OLEM, 2018). These impurities accumulate during normal
+use rendering the oil ineffective. As a result, this used oil must be replaced with new
+oil to ensure proper functioning of engines and machinery.
+This used oil is considered hazardous waste due to its dangerous properties. A single
+litre of waste motor oil can contaminate up to one million litres of water hence posing
+a significant threat to aquatic life and water quality. Moreover, if disposed of
+improperly such as being left on the ground, waste motor oil can lead to severe soil
+contamination (US EPA, OLEM, 2016).
+The potential environmental impact of WEO in construction materials requires careful
+consideration. Although the enclosure of WEO in concrete may reduce immediate
+leaching risks, long term studies are limited on the stability of PAHs within the cement
+matrix. Research by Omoregie et al. (2024) shows that some additives could assist in
+immobilising heavy metals from oil contaminated construction materials. However,
+
+their effectiveness in block making is yet to be tested. While WEO poses environmental
+risks, its enclosure in the sandcrete blocks could offer a containment solution provided
+long-term stability is confirmed.
+2.8 Chemical composition of waste motor oil
+Used motor oil comprises of both high and low molecular weight hydrocarbons, various
+additives, metals and other compounds. It consists of hydrocarbons in different
+quantities i.e. 73-80% Aliphatic Hydrocarbons, 11-15% Monoaromatics, 2-5% Diaromatics
+and 4-8% Polyaromatic Hydrocarbons. Lubrication additives make up about 20% of the
+oil including Zinc Diaryl, Molybdenum oils Disulfide and Zinc Dithiophosphate (Cvengroš
+et al. 2017). Notably, PCBs which have been linked to health risks and environmental
+concerns, were historically used in transmission fluids but are no longer utilized in new
+motor due to their potential to form dioxins (Cvengroš et al. 2017).
+Used motor oil is notably rich in Polycyclic Aromatic Hydrocarbons (PAHs), with
+concentrations significantly higher than those found in new motor oil because of the
+accumulation of PAHs during engine operation (Akintunde et al., 2015). The
+Polyaromatic Hydrocarbons content in used motor oil can also be modelled basing on
+the common PAH compounds each contributing equally to the overall composition. The
+impact of PAHs on the environment and human health is well-documented emphasizing
+the importance of proper management and disposal of used motor oil to mitigate
+potential risks (Armioni et al., 2024). Table 2.2 shows the composition of different
+hydrocarbons in WEO.
+
+Table 2.2 Waste motor oil hydrocarbon composition
+Source: (Pollution Direct, 2020)
+2.9 Infiltration of oil into concrete
+Published research on the infiltration of oil into concrete is relatively scarce. The
+significance of these studies arises from the construction of substantial concrete
+infrastructures for oil-related activities where the impact of crude oil on concrete's
+characteristics remains largely unexplored. It is known that mineral and fuel oils do not
+compromise mature concrete as they lack components that chemically interact with
+set cement (Creaney, 2022). However, vegetable and animal oils pose a greater threat
+through chemical reactions with cement hydration products hence leading to expansive
+soap formation and matrix degradation (Staroń, 2023) and this presence of vegetable
+or animal oils can actively deteriorate concrete with documented instances of
+structural damage. The degree of harm oil inflicts on concrete is influenced by its
+viscosity oils with higher viscosity pose less risk to concrete integrity. Conversely, oils
+with lower viscosity such as diesel and kerosene have viscosity less than 6cP at 21°C
+and are prone to seep through concrete potentially leading to significant leakage from
+storage tanks (Pradena and César, 2021). The long-term effects of oil exposure include
+PAH Components
+Formula
+MW
+BP (0C)
+Napthalene
+C10H8
+128.17
+Acenaphthene
+C12H10
+145.21
+Anthracene
+C14H10
+178.23
+Pyrene
+C16H10
+202.25
+Benz(a)anthracene
+C18H12
+228.29
+
+reduced tensile strength, increased chloride permeability and accelerated carbonation
+compromising structural durability (Abdeliazim et al., 2024).
+2.10 Reaction between waste motor oil and cement
+Previous works suggest that waste motor oil can be incorporated into concrete since
+waste motor oil can function similarly to chemical additives like water-reducing agents
+and air-entraining admixtures (Shafiq et al., 2006). “Waste motor oil has similar
+features to the ASTM C393 type A water-reducing admixture in concrete” (Yaphary et
+al., 2020). Introduction of waste motor oil into concrete leads to formation of many air
+bubbles due to its likeness to air-entraining admixtures. These air bubbles reduce the
+internal pressure in the concrete by providing “interconnected chambers for the
+volumetric expansion of water molecules during freezing” (Sun et al., 2020). The
+concrete containing waste motor oil will improve significantly under freezing-thaw
+cycles hence more durable. When waste engine oil is compared together with new
+engine oil, waste motor oil contains very little amount of dirt which has impurities that
+are inactive and react with the cement physically by adsorption to coat the sand and
+hence fill the free pores in the concrete mixture leading to increase in the strength of
+the concrete (Poon and Chan, 2007). These effects of waste motor oil in concrete
+account for the improved performance of concrete when the proper dosage levels of
+waste motor oil are used.
+
+2.11 Knowledge gap
+Prior investigations have explored the utilization of used cooking oil in concrete showing
+that it increases the slump value of concrete (Salmia et al., 2013). Incorporating waste
+materials like “oil drill cuttings” treated by thermal desorption has been shown to
+produce sandcrete with reduced levels of water absorption, increased density and
+comparable compressive strength to control samples demonstrating the potential for
+reuse of waste materials in improving sandcrete properties (Khedaywi et al., 2022).
+Initially the blocks have been dipped into the waste motor oil but this causes the block
+not to bond with the mortar easily when used due to its oily surface. This therefore
+prompted the incorporation of waste motor oil into the sandcrete mix so that the final
+product can easily bond with the mortar during construction.
+The practical aspects of incorporating WEO in block production is not yet largely
+explored and the difference in oils from different sources is expected to yield different
+results in field applications. Compatibility of such blocks with standard mortars and
+finishes should be established as the hydrophobic characteristics of oil could further
+compromise the bonding strength and surface treatments (Bamigboye et al., 2023)
+
+CHAPTER THREE: METHODOLOGY

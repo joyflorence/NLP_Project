@@ -1,0 +1,1220 @@
+ASSESSING THE USE OF POLYETHYLENE TEREPHTHALATE FIBRE IN THE
+REINFORCEMENT OF LIME-STABILISED EXPANSIVE SOILS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MARK MANANA
+S20B32/220
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT OF
+THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE IN
+CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+
+
+April, 2024
+
+
+
+
+i
+
+ABSTRACT
+Expansive soils are soils associated with constant volumetric change due to alternations
+in the moisture present in such soils, and such volume variations can lead to the
+expansive soils being unsuitable for use as subgrade material. The research was focused
+on the use of Polyethylene Terephthalate fibre in the reinforcement of hydrated limestabilised expansive soils to improve the properties of these soils. The research had
+specific objectives which were achieved by following a methodology that had
+implemented laboratory tests such as Sieve analysis, Atterberg Limits, California
+Bearing Ratio, Unconfined Compressive Strength, Free Swell Index, and Proctor
+Compaction on the neat soil along with other samples with a constant 6% content of
+Lime and varying percentages of fibre from 0 % to 2 %. There was a Tensile strength test
+done on the fibre. The tests were done following a given set of standards, after which
+the results on the neat sample found the soil to be expansive clayey soils and the fibrereinforced soil that was lime stabilised had the optimum mix ratio of 6% lime and 1.5 %
+fibre. The optimum mix ratio had a California Bearing Ratio of 54 % and an Unconfined
+Compressive Strength of 0.59 MPa. The results of the soil mixed with 1.5 % fibre and 6
+% lime all matched the standards of subgrade material according to the Ministry of
+Works and Transport, General Specifications for Road and Bridge Works, 2005 manual.
+This implied that hydrated lime and Polyethylene Terephthalate fibre can be
+implemented in the improvement of properties of expansive soils to acceptable
+standards for subgrade material. There is a need for more research into the use of other
+fibres in the reinforcement of lime-stabilised soils.
+
+
+
+ii
+
+DECLARATION
+I, MANANA MARK, declare that this Research and Design Project Report is my original
+work and has never been submitted to any institution of higher learning for an award
+of academic qualification.
+Signature:............................ Date:.......................................
+MANANA MARK S20B32/220
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+This is to endorse that MANANA MARK has finalised his final year research and design
+project under the supervision of the project supervisor and that the report has been
+submitted with the approval of the academic supervisor.
+Signature:.................................. Date:.......................................
+MR. KENNETH ECONI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+I dedicate this report to my lovely parents, project supervisor and colleagues along with
+other people who constantly showered me with endless motivation and support. The
+continuous love and care bestowed ensured that I remained focused and persistent to
+allow for the successful completion of the research. I shall forever remain grateful for
+the support showcased to me, and I pray that God continues to bless and watch over
+your lives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENTS
+First, I would like to acknowledge God for guiding me through the various tribulations I
+faced while doing the research.
+I am very grateful to my parents, whose continuous love and motivation along with
+financial support ensured that I was able to complete this research successfully.
+A word for appreciation for my project partner, Asiimwe Caleb for the constant days of
+offering ideas along with toiling with me during the struggle to overcome the multiple
+hurdles faced when doing the research.
+I am grateful to my academic supervisor, Mr Kenneth Econi, for offering constructive
+criticism, and guidance that ensured the research was done when following a path of
+informed decision-making.
+I also express my utmost gratitude to the staff at Stirling Laboratory and Teclab for the
+technical and informative assistance offered during the carrying out of the various
+laboratory tests performed.
+Special thanks to Mr Rodgers Tayebwa, Mr Marvin Zzigwa and Ms Josephine Nakyeyune
+for the guidance and technical advice offered regarding the successful completion of
+the research.
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT .......................................................................................... i
+DECLARATION ..................................................................................... ii
+APPROVAL ......................................................................................... iii
+DEDICATION ....................................................................................... iv
+ACKNOWLEDGEMENTS ............................................................................ v
+LIST OF FIGURES .................................................................................. x
+LIST OF TABLES ................................................................................... xi
+LIST OF ABBREVIATIONS ........................................................................ xii
+CHAPTER ONE: INTRODUCTION ................................................................. 1
+1.1 Background ........................................................................................ 1
+1.2 Problem Statement ............................................................................. 2
+1.3 Objectives and Research Questions ....................................................... 3
+1.3.1 Main Objective ........................................................................ 3
+1.3.2 Specific Objectives ................................................................... 3
+1.3.3 Research Questions .................................................................. 3
+1.4 Scope of Work .................................................................................... 4
+1.4.1 Geographical scope .................................................................. 4
+1.4.2 Time Scope ............................................................................ 4
+1.4.3 Content Scope ........................................................................ 4
+
+
+vii
+
+1.5 Justification ....................................................................................... 4
+1.6 Significance ....................................................................................... 5
+CHAPTER TWO: LITERATURE REVIEW .......................................................... 6
+2.1 Expansive Soils ................................................................................... 6
+2.2 Soil Stabilisation ................................................................................. 6
+2.2.1 Selection of a suitable Soil chemical stabiliser ................................. 7
+2.2.2 Hydrated Lime ........................................................................ 9
+2.2.3 Lime in Soil Stabilisation .......................................................... 10
+2.3 Soil reinforcement ............................................................................. 11
+2.3.1 Fibre-reinforced soil ............................................................... 12
+2.3.2 PET fibre reinforcement in soil .................................................. 14
+CHAPTER THREE: METHODOLOGY ........................................................... 16
+3.0 Introduction ...................................................................................... 16
+3.1 Summary of the Methodology ............................................................... 16
+3.1.1 Physical properties of the neat soil sample ................................... 16
+3.1.2 Mechanical properties of the Polyethylene Terephthalate fibre and
+chemical properties of hydrated lime ................................................. 17
+3.1.3 Mix ratios of Polyethylene Terephthalate fibre, hydrated lime, and
+expansive soils to achieve the desired strength properties ....................... 17
+
+
+viii
+
+3.1.4 Strength properties of the soil stabilised with hydrated lime while
+reinforced with varying Polyethylene Terephthalate fibre in the appropriate mix
+ratios. ........................................................................................ 18
+3.2 Materials and Methods ........................................................................ 18
+3.2.1 Materials ............................................................................. 18
+3.2.2 Methods .............................................................................. 20
+CHAPTER FOUR: RESULTS AND DISCUSSION ................................................ 22
+4.0 Introduction ...................................................................................... 22
+4.1 Physical Properties of the Neat Soil Sample ........................................... 22
+4.1.1 Particle Size Distribution ......................................................... 22
+4.1.2 Atterberg Limits .................................................................... 23
+4.1.3 Proctor ............................................................................... 27
+4.1.4 California Bearing Ratio ........................................................... 28
+4.2 Tensile Strength Test of the Polyethylene Terephthalate Fibre .................. 29
+4.3 Effect of PET fibre Reinforcement and Lime stabilisation on the soil properties
+............................................................................................................ 31
+4.3.1 Particle Size Distribution ......................................................... 31
+4.3.2 MDD and OMC........................................................................ 32
+4.3.3 Atterberg Limits .................................................................... 35
+4.3.4 California Bearing Ratio ........................................................... 36
+
+
+ix
+
+4.3.5 Unconfined Compressive Strength .............................................. 38
+4.3.6 Free Swell Index .................................................................... 40
+4.4 Project Design ................................................................................... 42
+CHAPTER FIVE: FINDINGS, CONCLUSION AND RECOMMENDATIONS .................... 44
+5.1 Findings ........................................................................................... 44
+5.2 Conclusions and Recommendations ....................................................... 45
+5.2.1 Conclusions .......................................................................... 45
+5.2.2 Recommendations .................................................................. 46
+REFERENCES ..................................................................................... 47
+APPENDIX ......................................................................................... 53
+
+
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1:Classification and illustration of Fibre reinforcement mechanism of soil.Source
+( Gowthaman, et al., 2018). ................................................................... 12
+Figure 2: Schematic representation of a randomly distributed fibre unit at (a) initial
+stage and (b) deformation stage due to loading, where the effect of interlocking,
+friction and interface bonding induces mobilisation of the tensile stress on the fibre
+unit. Source ( Gowthaman, et al., 2018). .................................................... 14
+Figure 3: Mixing of 6% hydrated lime and 94% dry weight of expansive soil. Source
+(Manana, 2024). .................................................................................. 19
+Figure 4: Particle Size Distribution graph of the neat soil sample........................ 23
+Figure 5: Liquid Limit graph for the neat soil sample ...................................... 24
+Figure 6:Plasticity chart for classification of fine-grained soils. Source (Mishra, n.d.).
+..................................................................................................... 26
+Figure 7: MDD and OMC chart of the neat soil sample ..................................... 27
+Figure 8: CBR graph of the neat soil sample ................................................. 28
+Figure 9: Percentage passing against sieve size ............................................. 31
+Figure 10: MDD against Composition .......................................................... 32
+Figure 11: Moisture Content against Composition .......................................... 33
+Figure 12: Plasticity Index against Composition ............................................. 35
+Figure 13: CBR against Composition .......................................................... 36
+Figure 14: UCS against Composition .......................................................... 38
+Figure 15: Swell against Composition ......................................................... 40
+
+
+
+xi
+
+LIST OF TABLES
+Table 1: Guide to the selection of stabiliser. Source (SERIES 3000- EARTHWORKS AND
+PAVEMENT LAYERS OF GRAVEL OR CR) ........................................................... 8
+Table 2: Chemical properties of the hydrated lime. Source (Calik & Sadoglu, 2014). ... 9
+Table 3:Summary of the Atterberg Limits results of the neat soil sample............... 25
+Table 4: Tensile strength results of the PET Fibre .......................................... 29
+Table 5: Project Design ......................................................................... 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xii
+
+LIST OF ABBREVIATIONS
+AASHTO - American Association of State Highway and Transportation Officials
+CBR - California Bearing Ratio
+LL - Liquid Limit
+MDD - Maximum Dry Density
+MoWT - Ministry of Works and Transport
+ODFS - Oriented Distributed Fibre-reinforced Soil
+OMC - Optimum Moisture Content
+PET - Polyethylene Terephthalate
+PI - Plasticity Index
+PL - Plastic Limit
+RDFS - Randomly Distributed Fibre-reinforced Soil
+UCS - Unconfined Compressive Strength
+UNRA - Uganda National Roads Authority
+USCS - Unified Soil Classification System
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 Background
+Expansive soils, prone to large volume changes with moisture fluctuations, pose major
+engineering challenges globally. These "swell-shrink" soils, as they're sometimes called,
+cause billions in damage annually to pavements and structures. Expansive soils undergo
+notable volume alterations due to fluctuations in moisture levels. These changes can
+result in either swelling or shrinkage, which is why they are also referred to as
+swell/shrink soils (Jones & Jefferson, 2012). The shrink-swell phenomenon in soils is
+attributed to their mineral composition. Clay soils containing specific mineral types like
+montmorillonite, smectite, or vermiculite are especially susceptible to this shrink-swell
+behaviour (Lees, 2021). The expansive soils are found particularly in the Eastern and
+Northern parts of Uganda in districts such as Nakapiripirit and, such areas require
+suitable subgrade material for road construction.
+Lime-stabilised soil exhibits superior strength enhancement properties. However, it
+suffers from low tensile strength and tends to develop significant cracking because the
+lime-stabilised soil becomes brittle. To address this limitation and further enhance the
+mechanical properties of the stabilised soil, there is a need to use PET fibres to
+reinforce such soil. This reinforcement aims to minimise both vertical and lateral
+deformation within the lime-stabilised soil (Wei, et al., 2018).
+
+
+
+
+
+
+1.2 Problem Statement
+Engineers come across a range of problematic soils, such as expansive soils, during road
+construction projects that pose significant obstacles. Because highly flexible clay
+minerals like aluminium and iron, which alternately expand and contract with variable
+moisture concentrations, are present in expansive soils, the roadways get cracked and
+collapse (Jones & Jefferson, 2012) . Expansive soils along the chainages of 47+800 km
+of the Muyembe-Nakapiripirit road were found to have expansive soils which have issues
+of experiencing constant volumetric changes due to moisture content variations in the
+subgrade resulting in pavement damage, and this has led to disruption of normal traffic
+flow on the road according to UNRA.
+The issue of heaving was found to disrupt the normal movement of vehicles along the
+road section with the expansive soils. Lime stabilisation is a technique that has been
+applied in the controlling of the swell-shrink characteristics of the expansive soil.
+However, the sulphate present in the expansive soils leads to the lime stabilisation
+being ineffective. The experimental research showed that sulphate contamination had
+a substantial outcome on the soil profile, and the index properties of lime-stabilised
+soil which led to brittle failure of soil and a reduction in strength properties (Raja &
+Thyagaraj, 2021).
+The response to the problem is to use the Polyethylene Terephthalate fibre to reinforce
+the lime-stabilised soils to improve the strength properties of such soils.
+
+
+
+1.3 Objectives and Research Questions
+1.3.1 Main Objective
+To assess the use of Polyethylene Terephthalate fibre in the reinforcement of limestabilised expansive soils.
+1.3.2 Specific Objectives
+1. To ascertain the physical properties of the neat soil sample.
+2. To determine the mechanical properties of the Polyethylene Terephthalate fibre
+and chemical properties of hydrated lime.
+3. To ascertain the mix ratios of Polyethylene Terephthalate fibre, hydrated lime,
+and expansive soils to achieve the desired strength properties.
+4. To determine the strength properties of the soil stabilised with hydrated lime
+while reinforced with varying Polyethylene Terephthalate fibre in the
+appropriate mix ratios.
+1.3.3 Research Questions
+1. What are the physical properties of the neat soil sample?
+2. What are the mechanical properties of the Polyethylene Terephthalate fibre and
+the chemical properties of hydrated lime?
+3. What are the mix ratios of Polyethylene Terephthalate fibre, hydrated lime, and
+expansive soils to achieve the desired strength properties?
+4. What are the strength properties of the soil stabilised with hydrated lime while
+reinforced with varying Polyethylene Terephthalate fibre in the appropriate mix
+ratios?
+
+
+
+1.4 Scope of Work
+1.4.1 Geographical scope
+The study was to be carried out along the Muyembe-Nakapiripirit road section along the
+chainages of 47+800 km, and this was where the expansive soils were obtained.
+1.4.2 Time Scope
+The study was conducted from September 2023 to April 2024.
+1.4.3 Content Scope
+The study scope focused on assessing the application of Polyethylene Terephthalate
+fibre in the reinforcement of lime-stabilised expansive soils.
+1.5 Justification
+The use of Polyethylene Terephthalate fibre and lime in the stabilisation of expansive
+soils aims to improve soil strength. Lime has been widely used in stabilisation, despite
+being associated with cases of low strength properties, failing to carry the loading of
+the structure in some cases influenced by different factors such as sulphate attack,
+carbonation, and so on. Normally 2 to 8 % of lime may be required for coarse-grained
+soils and 5 to 8 % of lime may be required for plastic soils. (Lone & Sachar, 2022).
+Combining PET fibre with lime affirms that lime stabilisation has a more pronounced
+positive impact on strength. Additionally, the optimal strength for clayey soil
+reinforcement occurs with a 1.5 % fibre. Typically, reinforcement with strips results in
+higher strength, as indicated by the point load strength index, and greater flexibility
+under applied impact loads. (Koohmishi & Palassi, 2022).
+
+
+
+Plastic pollution is a massive problem. Every year, hundreds of millions of tons of plastic
+trash are produced, and a huge portion ends up in our environment where it can last
+for many years. Millions of tons also wind up in our oceans each year. If no action is
+taken, this plastic pollution will keep growing at an alarming rate. Thus there is the
+need to find ways to either get rid of plastic waste entirely or develop environmentally
+friendly methods to reuse it (Urian, et al., 2023). The Polyethylene Terephthalate waste
+can be used to get the fibre to be used in the reinforcement of the expansive soils
+stabilised with lime.
+1.6 Significance
+The project will advance the knowledge of soil stabilisation and develop a method for
+implementing the Polyethylene Terephthalate fibre in the reinforcement of limestabilised expansive soils. This is significant because there will be no need for merely
+excavating and dumping such soils, resulting in cost savings as well as time saved in
+procuring labour and machinery to remove the given expansive soils. Furthermore, the
+project will provide the opportunity to use the good strength properties of Polyethylene
+Terephthalate fibre in improving the strength properties of lime-stabilised expansive
+soils.
+
+
+
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Expansive Soils
+Expansive soils pose significant challenges due to their tendency to undergo substantial
+volumetric changes with seasonal moisture fluctuations, particularly in arid and semiarid regions. These fluctuations, characterized by drying and wetting cycles, lead to
+shrinkage and swelling, causing considerable differential movements in building
+foundations and highway pavements. Such movements, influenced by changes in water
+content and tension, are most severe in fine-grained soils with high plasticity. Expansive
+soils are responsible for common types of cracks and distress observed in pavement
+infrastructure, with longitudinal cracking indicative of volumetric changes in the
+pavement subgrade. These differential movements significantly impact pavement
+performance, reducing its service life. Engineering practitioners are currently seeking
+feasible and implementable solutions to mitigate the effects of seasonal pavement
+surface movements on both the functional and structural aspects of pavement
+structures (Sarker & Wang, 2022).
+Furthermore, the shrinking and swelling are seen to be partly irreversible processes,
+and this implies that the damage to structures particularly road pavements and
+buildings can be a continuous occurrence (King, n.d.).
+2.2 Soil Stabilisation
+Soil stabilisation is the use of biological, chemical, or mechanical methods to improve
+the engineering properties of soil to increase its workability. Such properties include
+shear strength, permeability, compressibility, durability, and plasticity. The procedure
+of improving the grading of the particle size can be accomplished through binder
+
+
+
+addition to the weak soils. Soil stabilisation can be accomplished by several methods.
+All these methods fall into two broad categories namely;
+1. Mechanical stabilisation
+Under this category, soil stabilisation can be achieved through a physical process by
+altering the physical nature of native soil particles by either induced vibration or
+compaction or by incorporating other physical properties.
+2. Chemical stabilisation
+Soil stabilisation depends mainly on chemical reactions between the stabiliser
+(cementitious material) and soil minerals to achieve the desired results. By adding these
+stabilisers, loose soil particles become bound together, creating a stronger and more
+stable material. Compared to natural soil, stabilised soil is less likely to absorb water
+(lower permeability), resists compression better, and is generally stronger. The specific
+type of stabiliser used depends on which weaknesses of the natural soil need to be
+addressed. In the world of engineering, the key soil properties of concern are how much
+the soil shrinks or swells (volume stability), its strength, how much it compresses under
+pressure, and how easily water can pass through it (THE CONSTRUCTOR, n.d.).
+2.2.1 Selection of a suitable Soil chemical stabiliser
+There are predominantly two common chemicals used as soil stabilisers, and these are
+lime and cement in particular. However, the decision on what chemical stabiliser to use
+came from the guidance of the Ministry of Works and Transport General specifications
+for Roads and Bridges 2010 manual (SERIES 3000) as illustrated below.
+
+
+
+
+% passing the 0.075
+mm sieve
+BS 1377-2
+BS 1377: Part 2
+Best suited stabiliser
+Less than 25%
+PI is less than 6
+or PI x (% passing 0.075 mm) is
+less than 60
+Cement only 1)
+6 – 10
+Cement preferred
+More than 10
+Cement and/or lime
+More than 25%
+Less than 10
+Cement preferred
+10 – 20
+Cement and/or lime
+More than 20
+Lime preferred 2)
+
+Table 1: Guide to the selection of stabiliser. Source (SERIES 3000- EARTHWORKS AND
+PAVEMENT LAYERS OF GRAVEL OR CR)
+The above table guided the selection of the chemical stabiliser to use based on the
+percentage passing of soil through the 0.075 mm sieve along with the obtained Plasticity
+Index. The two parameters were utilised in unison, and this was in that the given
+Plasticity Index obtained had to correlate with the percentage passing to communicate
+the chemical stabiliser to be used on the expansive soils.
+
+
+
+2.2.2 Hydrated Lime
+Hydrated lime is also known as calcium hydroxide. Hydrated lime can either be a white
+powder or a white putty-like material. It can be used in various applications, including
+construction, and chemical manufacturing. It is commonly used as a building material,
+particularly as a mortar for bricklaying and plastering. Hydrated lime has several
+advantages over other types of lime. It is easy to handle and store as a wet putty or dry
+powder. It is also less caustic than Quicklime, making it safer to handle. Additionally,
+it has a longer shelf life than quicklime, as it does not react with air as quickly
+(LimePlanet, 2023). The chemical properties of the hydrated lime tend to vary though
+based on what specific application of such lime. The hydrated lime has the following
+composition as stated below (Calik & Sadoglu, 2014).
+Parameter
+Value (%)
+Ca(OH)2
+85.80
+CaO
+65%
+MgO
+1.40
+SiO
+0.23
+
+Table 2: Chemical properties of the hydrated lime. Source (Calik & Sadoglu, 2014).
+
+
+
+Hydrated lime can be applied to enhance soil stability and compaction on construction
+sites, thereby improving the long-term strength of the soil. Lime with a high
+composition of Calcium Hydroxide is taken to be of high purity (MINTEK RESOURCES,
+n.d.).
+2.2.3 Lime in Soil Stabilisation
+Lime soil stabilisation involves enhancing soil properties such as density and bearing
+capacity by adding lime. The factors influencing this process include soil and lime types,
+lime content, compaction, and curing duration. When lime is introduced to the soil, a
+pozzolanic reaction occurs, where pozzolana materials react with lime in the presence
+of water to generate cementitious compounds. The fundamental mechanism behind
+lime-soil stabilisation is the ion exchange between lime and soil. Treating clayey soil
+with lime facilitates cation exchange, leading to increased plastic limit and reduced
+plasticity index, thereby enhancing soil stability. Lime also acts as a binding agent for
+clayey gravel when clay contains gravel within it. The addition of lime to pozzolanic
+soil in water results in a reaction where calcium hydroxide from the lime reacts with
+siliceous and aluminous materials in the soil, creating a mixture with cementitious
+properties, known as the pozzolanic reaction. This reaction boosts the strength of the
+lime-soil mixture, with strength gradually increasing over time as the pozzolanic
+reaction continues for extended periods (THE CONSTRUCTOR, n.d.).
+Normally 2 to 8 % of lime may be required for coarse-grained soils and 5 to 8 % of lime
+may be required for plastic soils. (Lone & Sachar, 2022).However, the reaction between
+sulphate and alumina in soils and the calcium of excess lime can lead to soil swelling
+
+
+
+that may contribute to expansion by hydration, and this swelling can lead to the
+weakening of the soil strength of the expansive soils (Wang, et al., 2019).
+2.3 Soil reinforcement
+Soil reinforcement is a method employed to enhance the strength and rigidity of soil.
+Various engineering methods, such as geogrid and geotextile, are utilized to bolster soil
+strength. This involves integrating earth fill with reinforcing strips, capable of
+withstanding significant tensile forces. Soil reinforcement represents a contemporary
+approach utilized across diverse projects to avert soil slope failures and enhance soilbearing capacity (Civil Wale, n.d.).
+Fibre-reinforced soil is characterized as a soil mixture containing randomly dispersed
+discrete elements, namely fibres, which enhance the mechanical properties of the soil
+composite. This type of soil acts as a composite material, with high-tensile-strength
+fibres embedded within a soil matrix. When subjected to shear stresses, the soil
+activates tensile resistance within the fibres, thereby augmenting the overall strength
+of the soil (Hejazi, et al., 2012).
+Soil reinforcement stands out as a dependable and practical approach for enhancing
+the properties of fine-grained soil. Various technologies such as metallic strips, bars,
+geogrids, geotextiles, and fibres are widely recognized for this purpose. Utilizing
+metallic strips, geogrids, or geotextiles reinforces soil by enhancing its tensile strength
+in a specific direction. Despite the significance of tensile stresses, there's a possibility
+of weak planes existing at the interface between soil and reinforcement. Alternatively,
+the random integration of fibres into the soil is considered an efficient method akin to
+
+
+
+stabilising with additives. Fibres are simply blended into the soil, similar to other agents
+like lime or cement. This approach mimics the activity of plant roots, maintaining
+strength isotropy and minimizing the formation of weak planes in the reinforcement
+direction. Moreover, these fibre additives solely modify the physical properties of the
+soil without any adverse environmental impact. Compared to untreated soils, those
+reinforced with fibres demonstrate enhanced ductility and no decrease in post-peak
+strength. Synthetic fibres, owing to their consistent material properties and
+repeatability, are deemed suitable for reinforcement purposes (Zafar, et al., 2023).
+2.3.1 Fibre-reinforced soil
+Fibres rooted in the soil can vary in form, texture, stiffness, content, length or aspect
+ratio, orientation and so on among which content, length and orientation of fibres are
+the most practical concerns in geotechnical applications. Fibre-reinforced soil can be
+grouped into two categories according to their method of application: Oriented
+Distributed Fibre-reinforced Soil and Randomly Distributed Fibre-reinforced Soil.
+
+Figure 1:Classification and illustration of Fibre reinforcement mechanism of
+soil.Source ( Gowthaman, et al., 2018).
+
+
+
+ODFS is a commonly acknowledged method of soil reinforcement, involving the
+integration of natural fibres into planner systems in vertical, horizontal, or combined
+orientations. Its operational principle mirrors the geosynthetic methods, wherein
+materials such as geo-grids, geo-mats, and geo-textiles are utilized to reinforce weaker
+soil layers. By introducing fibres, ODFS boosts the frictional strength along the
+reinforced planes, while the un-reinforced sections depend solely on their inherent
+strength. This approach may result in the formation of potential failure planes in
+weaker, unreinforced zones. Alternatively, RDFS is a widely accepted method for
+enhancing soil quality, where fibres with desired characteristics and quantities are
+randomly mixed and compacted in situ. The adoption of RDFS has gained traction
+recently due to its simplicity: short discrete fibres can be easily blended with soil, akin
+to adding cement, lime, or other additives. This approach offers a uniform increase in
+the strength of the soil composite without introducing continuous weak planes. The
+RDFS technique capitalizes on the natural behaviour of plant roots, which reinforce soil
+by adding friction and interlocking. Initially, when the soil particles undergo stress, they
+compact and cause fibre deformation. Subsequently, as soil particles rotate and directly
+impact the fibres, they generate direct forces during the fibre-soil interlocking phase.
+At the same time, soil particles in contact with the fibres induce frictional forces in
+addition to interlocking forces. Eventually, these interlocking and frictional forces work
+together to activate tensile stress on the fibre material. Additionally, the random
+arrangement of fibres promotes adhesive bonding between the fibres and soil,
+enhancing composite strength. The interaction of the flexible fibres acts as a structural
+mesh, effectively binding the soil together and improving its structural integrity. The
+
+
+
+RDFS mechanism was found to be the more applicable method when doing fibre
+reinforcement within soils ( Gowthaman, et al., 2018).
+
+Figure 2: Schematic representation of a randomly distributed fibre unit at (a) initial
+stage and (b) deformation stage due to loading, where the effect of interlocking,
+friction and interface bonding induces mobilisation of the tensile stress on the fibre
+unit. Source ( Gowthaman, et al., 2018).
+2.3.2 PET fibre reinforcement in soil
+Geosynthetics, composed of synthetic or natural polymers, are materials utilized in
+conjunction with soil, rock, or other geotechnical substances. They encompass a range
+of products like geotextiles, geogrids, geocells, geomembranes, erosion control mats,
+and geo-composites. Geotextiles, the most prevalent among these, trace their earliest
+known application back to sand-filled nylon bags used in the Dutch Delta Works in 1956.
+Over the past six decades, geotextiles have become integral to geotechnical
+engineering, serving purposes such as filtration, drainage, reinforcement, and erosion
+protection ( Wu, et al., 2020).
+
+
+
+Geosynthetics, specifically geotextiles crafted from synthetic polymers like PP and PET,
+are produced abundantly due to cost-effectiveness and the ease of obtaining fibres
+through melt-spinning technology. Their impressive mechanical strength, durability,
+and hydrophobicity make them ideal for various geotechnical engineering tasks, such
+as enhancing the load-bearing capacity of soil for construction site preparation such as
+road works (Tanasă, et al., 2022).
+In recent years, the utilization of randomly dispersed fibres in clayey soil for soil
+improvement applications has gained considerable attention in geotechnical
+engineering research. Incorporating these fibres into the soil has been observed to
+enhance shear strength, soil soil-bearing capacity, diminish settlements, and restrict
+lateral deformations. Both natural and synthetic fibres offer significant advantages,
+including cost-effectiveness and the potential for synthetic fibre production through
+plastic waste recycling. Recycling polyethene terephthalate (PET) presents two main
+approaches: mechanical and chemical methods. Mechanical recycling involves
+techniques such as PET shredding using specialized machinery, which alters the physical
+form of PET without changing its chemical composition. (Kalkan, et al., 2020).
+Furthermore, the fibres enhance shear strength by establishing an interlocking matrix
+between the fibres and the soil. Fibres play a role in restraining soil movement under
+external stresses. Moreover, the formation of a gel within the stabilised soil matrix binds
+soil particles together, augmenting the strength of lime-stabilised soil with fibre
+reinforcements as compared to untreated soil (Tamassoki, et al., 2022).
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.0 Introduction
+This chapter encompasses the content of the materials used during the conduction of
+the research, and the methods implemented to achieve the objectives of the given
+research when incorporating the given materials in the project design. The section on
+materials looked at how the various components of the project design such as the fibre,
+lime and the expansive soils were obtained and managed till transportation to the
+testing laboratory then part of the methods looked at the various tests carried out using
+the obtained materials along with how they were applied in the mix ratio design.
+3.1 Summary of the Methodology
+The methodology looked at the various tests carried out to achieve the specific
+objectives of the research. The following specific objectives were meant to be
+achieved through the conduction of the given tests according to the standards.
+3.1.1 Physical properties of the neat soil sample
+The neat soil sample had the following tests carried out on it as stated below.
+1. Particle size distribution with reference to BS 1377: Part 2 1990.
+2. Atterberg Limit tests with respect to BS 1377: Part 2 1990.
+3. Proctor test with respect to BS 1377: Part 1990.
+4. CBR with respect to BS 1377: Part 4 1990.
+5. Free Swell Index with reference to IS:2720 (Part 40) 1997.
+
+
+
+3.1.2 Mechanical properties of the Polyethylene Terephthalate fibre and chemical
+properties of hydrated lime
+The mechanical properties of the PET fibre in particular the tensile strength were
+obtained through carrying out a tensile strength test with reference to ASTM D638-14.
+The hydrated lime meant to be used for the research was purchased from the market
+hence it was found to have standard chemical properties.
+3.1.3 Mix ratios of Polyethylene Terephthalate fibre, hydrated lime, and expansive
+soils to achieve the desired strength properties
+The mix ratios of the project design were to incorporate varying portions of the
+expansive soils while maintaining a standard hydrated lime composition of 6 %, meant
+for soil stabilisation, which was identified to correspond to the optimum lime content
+range according to previous scholars. The PET fibre composition for reinforcement was
+to be added from 0 % to 2 % in intervals of 0.5% based on the literature. The total
+percentage for each mix ratio was to be 100 %, and the tests for each mix ratio were
+as stated below.
+1. Particle size distribution with reference to BS 1377: Part 2 1990.
+2. Atterberg limit tests with respect to BS 1377: Part 2 1990.
+3. Proctor test with respect to BS 1377: Part 1990.
+4. CBR with respect to BS 1377: Part 4 1990.
+5. Free Swell Index with reference to IS:2720 (Part 40) 1997.
+6. UCS with reference to BS 1924: Part 2: 1990.
+
+
+
+3.1.4 Strength properties of the soil stabilised with hydrated lime while reinforced
+with varying Polyethylene Terephthalate fibre in the appropriate mix ratios.
+The fourth specific objective was done in correlation with the third specific objective
+hence it was found that the tests conducted while using the suitable mix ratios were
+as stated below.
+1. Proctor test with respect to BS 1377: Part 1990.
+2. CBR with respect to BS 1377: Part 4 1990.
+3. UCS with reference to BS 1924: Part 2: 1990.
+3.2 Materials and Methods
+3.2.1 Materials
+a) Expansive soil
+The soil samples of the expansive soil were obtained along the Muyembe-Nakapiripirit
+road stretch along the chainage of 47+800 km. There were two trial pits dug to an
+average depth of 0.5m along one pathway which was offset from the road stretch. The
+digging was done using a pickaxe and spades, and the dug soil samples were placed in
+eight tightly closed sacks with each sack carrying fifty kilograms of soil. Some soil
+samples were packed in two airtight bags each with a capacity of one kilogram. The
+packed soil samples were then all loaded onto a vehicle to be transported to the
+laboratory where the soil tests were to be conducted. The soil was air-dried for two
+days.
+b) Hydrated Lime
+The hydrated lime was purchased from a hardware store in Mukono District in Uganda.
+
+
+
+c) Polyethylene Terephthalate Fibre
+The PET material makes a variety of plastic bottles used by beverage companies for
+drinks like water and soda in particular. Hence the first step was to acquire an amount
+of around five kilograms of PET plastic waste bottles. The bottles were then washed
+with water and soap to remove any dirt. The clean plastic waste bottles were taken for
+cutting using a pair of scissors to remove the top part of the bottle and the lower part
+to allow for the acquisition of a sheet of plastic to be cut. The plastic sheets were then
+selectively chopped to a given size of 2mm in diameter and length of 20 mm. There was
+the application of the fibres in compositions of 0.5 %,1.0 %, 1.5 % and 2.0 % in the
+project mix design.
+
+Figure 3: Mixing of 6% hydrated lime and 94% dry weight of expansive soil. Source
+(Manana, 2024).
+
+
+
+3.2.2 Methods
+The tests carried out were done in reference to set standards to achieve the set
+objectives of the research project. The tests were conducted in relation to the
+chronological order of the specific objectives of the research.
+3.2.2.1 Particle Size Distribution
+Particle size distribution was a critical factor in soil classification. Soil texture, which
+was determined by the proportion of sand, silt, and clay particles, was a fundamental
+property used to classify soils. The size ranges are likely to control the engineering
+properties of the soil. The test was done with reference to BS1377: part 2:1990.
+3.2.2.2 Atterberg Limit tests
+The tests were done to determine the Plastic Limit, Liquid Limit, and Plasticity Index.
+The tests were done with reference to the BS 1377: Part 2 1990. The Liquid Limit was
+the water content for which the soil altered from a liquid to a plastic state, and the
+Plastic Limit referred to the moisture concentration at which the soil can no longer
+change shape without cracking. The Plasticity Index is the difference between the
+Liquid Limit and Plastic Limit, PI= LL-PL.
+3.2.2.3 Proctor Test
+The test was used to determine the Maximum Dry Density and Optimum Moisture
+Content of the soil. The test was performed with reference to BS 1377: Part 4: 1990.
+The desired OMC was obtained at the highest point along the curve of Dry Density values
+against moisture content.
+
+
+
+3.2.2.4 California Bearing Ratio
+The Objective of the test was to measure the potential load-bearing capacity of soil
+and its resistance to deformation under load. The test was done with reference to BS
+1377: Part 4 1990. The One-point method was deployed when carrying out the test.
+3.2.2.5 Tensile Strength
+The main objective of carrying out this test was to determine the mechanical properties
+of the Polyethylene Terephthalate fibres. The property in particular was the tensile
+strength of the PET fibre. The test was done in reference to ASTM D638-14.
+3.2.2.6 Unconfined Compressive Strength
+The main objective of this test was to determine the Unconfined Compressive Strength
+(UCS) of the stabilised soil sample. This test was done with reference to BS 1924: Part
+2: 1990.
+3.2.2.7 Free Swell Index Test
+Free swell or differential free swell, also termed as “free swell index”, is the increase
+in the volume of soil without any external constraint when subjected to submergence
+in water. The objective of the test was to get the percentage change of volume of soil
+with no external loading subjected to the soil once submerged in water. The test was
+done with reference to IS:2720 (Part 40) 1997.
+
+
+
+
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.0 Introduction
+This chapter involved the critical analysis of the results from the soil tests done with
+regards to Chapter Three, and some of the tests done included the Atterberg Limits,
+Proctor, Sieve Analysis, Unconfined Compressive Strength, Tensile Strength and
+California Bearing Ratio and so on. The chapter further dealt with the breakdown of
+the results and graphical representation of the data of the tests on the soil along with
+the PET fibre. There was further interpretation and analysis of the test conducted on
+the material in particular the Polyethylene Terephthalate fibre along with the tests
+done on the soil stabilised with the hydrated lime and varying percentages of the
+Polyethylene Terephthalate fibre.
+4.1 Physical Properties of the Neat Soil Sample
+The aspect of the physical properties of the neat soil sample dealt with the first specific
+objective of the project. The physical properties of the soil were obtained through the
+various tests associated with specific objective one, and the various tests done to get
+such physical properties of the neat soil sample were as mentioned below
+4.1.1 Particle Size Distribution
+Particle Size Distribution involved the use of Sieve analysis with reference to BS 1377
+Part 2:1990. Sieve analysis was done to determine the grading of a given soil sample.
+The result was a particle size distribution curve which represents the grading of the soil
+sample. It was done for coarse soils as the particles can be differentiated by passing
+through different sieve sizes. This gave the relative portions of various particle sizes
+that are contained in the soil sample which are gravel, silt, sand, or clay, and which
+
+
+
+one was predominant and hence capable of controlling the engineering properties of
+the soil.
+
+Figure 4: Particle Size Distribution graph of the neat soil sample
+The Particle size distribution graph indicated that the percentage passing through the
+0.075 mm sieve was 81 % which was greater than 50 %, which implied that the given
+soils were poorly graded along with the fact that most of the soil particles were lying
+within the fine grain range. The indication of poorly graded soils likely to be clayey
+implied that there was a need for stabilisation.
+4.1.2 Atterberg Limits
+The Atterberg limits were needed to classify soils for engineering purposes. Two
+samples were taken to determine the Atterberg Limits.
+0.01
+0.1
+Total Percentage passing (%)
+Sieve size (mm)
+
+
+
+
+Figure 5: Liquid Limit graph for the neat soil sample
+4.1.2.1 Liquid Limit
+The maximum value of the Liquid Limit for neat sample-1 was 81.2 % while the minimum
+value was 69.4 %. The average value for the liquid limit for neat sample-1 was 75.6 %.
+The maximum value for the LL for neat sample-2 was 80.5 % at a depth of 0.5m and the
+minimum value was 70.7 % at 0.5m. The average value for the Liquid Limit for neat
+sample-2 was 76.0 %. The average value for the LL for all samples was taken as 75.8 %.
+4.1.2.2 Plastic Limit
+The average value for the Plastic Limit of neat sample 1 was 37.5 % at depths of 0.5m.
+The average value for the Plastic Limit for neat sample-2 was taken as 37.6 %. The
+average value for Plastic Limits for all samples was 37.6 %.
+Cone pentration (mm)
+Moisture content (%)
+
+
+
+4.1.2.3 Plasticity Index
+The Plasticity Index for neat sample-1 was 38.1 % and neat sample-2 was 38.4 %. The
+average was 38.2 %. The PI of 38.2 % was found to be high and this implied that the
+given soil could easily have discrepancies in volume when the soil moisture content is
+varied.
+4.1.2.4 Linear Shrinkage
+The linear shrinkage limit for neat sample-1 was 20% for neat sample-2 was 20% at a
+depth of 0.5m. The average value for all the samples was 20%. Linear Shrinkage is the
+phenomenon that refers to the transition of soil from a partial to a full solid state,
+during which no additional volume change takes place. It's important to highlight that
+soil shrinkage during this process leads to the formation of cracks within the soil mass.
+These cracks not only increase the soil's permeability to water but also pose potential
+risks of damage to geotechnical structures ( Pratama, et al., 2021).
+
+Liquid Limit (%)
+Plastic Limit (%)
+Neat Sample 1
+75.6
+37.5
+38.1
+Neat Sample 2
+76.0
+37.6
+38.4
+75.8
+37.6
+38.2
+
+Table 3:Summary of the Atterberg Limits results of the neat soil sample
+Applying the use of the Plasticity chart based on the Unified Soil Classification System
+found the soils to be classified as inorganic clays of high plasticity, CH. The soils were
+fine-grained high plasticity inorganic clay soils (Mishra, n.d.).
+
+
+
+The AASHTO soil classification system found the soils to be Clayey soils of Group
+classification A-7, A-7-5, and A-7-6 (Jamal, 2019). The given soil classification meant
+that such soils are poor subgrade materials having a high plasticity and likely low
+bearing capacity hence implying that to make such soils viable for subgrade use in road
+construction, there shall be an aim to use hydrated lime and PET fibre to improve the
+strength properties and plasticity of such soils to the allowed standards of subgrade
+materials.
+
+Figure 6:Plasticity chart for classification of fine-grained soils. Source (Mishra, n.d.).
+• Highly plastic soils clay soils tend to shrink with a loss of moisture and swell with
+the increase of moisture content. The swelling and shrinking cause volumetric
+changes and cracking that affect the structures (buildings and roads) that may
+be constructed on such soils. The research was targeted to reduce the plasticity
+of the soils and increase the soil strength to avoid the effects that are associated
+with clay soils of high plasticity.
+
+
+
+4.1.3 Proctor
+
+Figure 7: MDD and OMC chart of the neat soil sample
+The MDD of the neat soil sample was discovered to be 1.495 gm/ cm3 when the OMC of
+the given soil was 25.5 %. MDD was interconnected to OMC as it was found that this
+was the highest value of dry density of soil obtained when the ideal moisture content
+is added to such soil and then compacted with the utmost ease. Soil compaction
+performance is essential for evaluating its suitability in construction projects like
+roads, bridges, and buildings, ensuring stability and durability ( Li , et al., 2024).
+1.320
+1.360
+1.400
+1.440
+1.480
+1.520
+20.0
+21.0
+22.0
+23.0
+24.0
+25.0
+26.0
+27.0
+28.0
+29.0
+30.0
+Dry Density(gm/cm3)
+Moisture content (%)
+
+
+
+4.1.4 California Bearing Ratio
+
+Figure 8: CBR graph of the neat soil sample
+The results from the tests carried out on the sample gave the CBR value of 8.0% and
+7.0% for neat samples 1 and 2 respectively, the average CBR was 7.5 %. A CBR of 7.5%
+in the soil analysis of a subgrade suggested that the soil has relatively low strength and
+may be considered weak for load-bearing purposes. Furthermore, there was the aim to
+achieve a CBR value that corresponds to the minimum UCS value of 0.50MPa limestabilised subgrade material, CM according to the SERIES 3000 manual. As the CBR of
+7.5% was below the minimum value of 30% required to meet the standards of limestabilised material, CM, there was the need to stabilise the expansive soils using lime
+while also applying fibre reinforcement.
+Force (Kn)
+Penetration (mm)
+
+
+
+4.2 Tensile Strength Test of the Polyethylene Terephthalate Fibre
+Sample Ref.
+PET 1
+PET 2
+PET 3
+PET 4
+PET 5
+Strip
+size
+Width
+(mm)
+11.5
+8.4
+11.1
+11.5
+7.1
+Thickness
+(mm)
+0.3
+0.3
+0.3
+0.3
+0.3
+Cross-Sectional
+Area (mm2)
+3.45
+2.52
+3.33
+3.45
+2.13
+Force at Breaking
+(kN)
+0.750
+0.500
+0.800
+0.800
+0.500
+Tensile
+Strength (MPa)
+Strength (MPa)
+224.6
+Elongation (%)
+Elongation (%)
+63.6
+
+Table 4: Tensile strength results of the PET Fibre
+Tensile strength and elongation are key properties of fibres that affect their
+reinforcement capability. Elongation is believed to be connected to the tensile strength
+of a fibre (Aishwarya & Rachel, 2023). The degree to which the tensile strength of the
+
+
+
+fibre is utilised was thought to depend on the extent of fibre elongation during shearing,
+hence the substantial elongation value of 63.6 % led to a high tensile strength value of
+224.6 MPa. Additionally, it was essential to have assumed a particular distribution of
+tensile stress along the fibre length. The elongation and tensile strength were noted to
+vary depending on the cross-sectional area of the fibre (Shukla, 2017). With a tensile
+strength of 224.6 MPa, the PET fibre was able to resist the minimal tensile stresses
+dispersed within the fibre-reinforcement structure without jeopardising the integrity
+of the PET fibre (PolyGlobal, 2018).
+Elongation has been noted to have had a strong correlation with the strength of
+individual fibres. Additionally, the influence of artificial weak-link effects introduced
+during testing also affected the breaking elongation (Bunsell, 2018). The distributed
+tension caused by fibres depended on both the content and the ultimate tensile
+strength of each fibre when the major mode of failure was fibre breakage (Palmeira,
+et al., 2008). The elongation of the PET fibre was found to be 63.6 %. The 63.6 %
+quantified the extent to which the fibre could stretch, represented as a percentage of
+its original size, before reaching the point of rupture. It reflected the capacity of the
+fibre to undergo substantial deformation before failure. Fibres exhibiting a greater
+percentage of elongation at break demonstrated increased ductility. This high ductility
+suggested that the fibres are inclined to deform rather than fracture, particularly when
+employed to reinforce lime-stabilised soil (PolyGlobal, 2018).
+
+
+
+4.3 Effect of PET fibre Reinforcement and Lime stabilisation on the soil properties
+4.3.1 Particle Size Distribution
+
+Figure 9: Percentage passing against sieve size
+The addition of the constant 6 % lime and PET fibre affected the amount of the soil
+passing through the 75 μm sieve from 82% to an average of 75 %. This was due to the
+increased amount of solid PET fibres which bound the soil particles (Tamassoki, et al.,
+2022). The cohesion effect of the 6 % hydrated lime on the soil led to the formation of
+bigger particles (Firoozi, et al., 2017). The result was a decrease in the percentage of
+fines with the addition of the fibres and lime making the soil a better distribution of
+the various soil particles.
+0.01
+0.1
+Percentage passing (%)
+Sieve size (mm)
+6% lime only
+6% lime and
+0.5% PET
+6% lime and 1%
+PET
+6% lime and
+1.5% PET
+6% lime and 2%
+PET
+
+
+
+4.3.2 MDD and OMC
+4.3.2.1 MDD
+
+Figure 10: MDD against Composition
+The pozzolanic reactions between the 6% lime and the expansive soils resulted in the
+reduction of MDD and the increase in OMC of the mixtures investigated. The decrease
+in MDD was attributed to the immediate formation of cementitious reaction products
+at particle contact points, which increased the porosity and thus reduced the MDD of
+the mixture ( Abdi , et al., 2021). The addition of plastic fibres of 0.5 %, 1.0 % and 1.5
+% into the soil decreased the number of voids thus improving effective compaction and
+1.4
+1.42
+1.44
+1.46
+1.48
+1.5
+1.52
+1.54
+1.56
+1.58
+MDD (g/cm3)
+
+
+
+cohesion hence leading to an increase in the MDD of the plastic-soil mixture ( Kalliyath,
+et al., 2016).
+However, with the addition of 2 % of PET fibre to the lime-stabilised, it was seen that
+the MDD of the soil decreased. An excessive amount of fibres acted like a lubricant,
+reducing the friction between soil particles and hindering the interlocking mechanisms,
+and that compromised the soil strength. This drop in the MDD was attributed to the
+properties of the fibre-reinforced soil due to a weaker soil structure with voids to allow
+for greater water movement and retention (Aishwarya & Rachel, 2023).
+4.3.2.2 OMC
+
+Figure 11: Moisture Content against Composition
+Moisture Content (%)
+
+
+
+Initially, the Optimum Moisture Content rose following the introduction of 6 % hydrated
+Lime, attributed to the reaction between lime and expansive soils, prompting a higher
+moisture requirement for soil compaction. Following the addition of 6 % hydrated Lime,
+the cation exchange and flocculation process ensued, causing an increase in grain size,
+subsequent expansion of void ratio, and consequently, a decrease in maximum dry
+density accompanied by an elevation in optimum moisture content. The compaction
+curve flattening post-lime treatment allows for achieving the prescribed density across
+a broader moisture content range. Jan and Mir associated these alterations with the
+reduction in diffuse double-layer thickness due to heightened cation concentration
+(Manzoor & Yousuf, 2020).
+Generally, the OMC values for fibre contents of 0.5 %, 1.0 %, and 1.5 % indicated that
+adding plastic waste materials to soil reduced the OMC. This occurred because the
+plastics lack absorbent properties compared to clay soil replaced by plastic fibres,
+which have a strong attraction to water due to their surface tension ( Hassan, et al.,
+2021).
+When 2 % PET fibre was added, the OMC of the soil increased, but it led to failure in
+the reinforced samples due to cracking. The cracks initiated diagonally from the top
+and bottom of the sample, extending gradually towards the middle. This caused some
+surface blocks of the reinforced soil to detach. Eventually, these cracks merged to form
+a predominant shear plane at failure. As the fibre content increased, the failure pattern
+shifted from ductile to brittle in the reinforced soil. The cracks meant that paths were
+created which allowed for the movement of water within the soil matrix hence
+increasing the moisture content within this soil (Lawer, et al., 2021).
+
+
+
+4.3.3 Atterberg Limits
+4.3.3.1 Plasticity Index
+
+Figure 12: Plasticity Index against Composition
+The inclusion of 6 % hydrated lime caused drying primarily through chemical alterations
+in the soil, reducing its water retention capacity and enhancing stability. Upon initial
+mixing, Calcium ions (Ca2+) from the hydrated lime migrated to the surface of clay
+particles, displacing water and other ions. Consequently, the soil became more crumbly
+and granular, facilitating easier manipulation and compaction. This led to a further
+decrease in the Plasticity Index and reduced the tendency of the soil to undergo
+
+
+
+swelling and shrinkage. This process, known as "flocculation and agglomeration,"
+typically occured within a few hours (Firoozi, et al., 2017).
+The PI values increased when compared to the PI initially got for the soil stabilised with
+6% lime only. The given trend for the PI illustrated a reduction of the soil reinforced
+with fibre contents ranging from 0.5 % to 2 %. This occurred because the fibres lack
+absorbent properties compared to clay soil replaced by plastic fibres, which have a
+strong attraction to water due to their surface tension ( Hassan, et al., 2021).
+4.3.4 California Bearing Ratio
+
+
+Figure 13: CBR against Composition
+CBR (%)
+
+
+
+The CBR of the soil stabilised with 6 % hydrated lime was observed to have increased
+to 44% from the initial CBR value of 7.5 % of the neat soil sample. When water and lime
+are added to clayey soil, lime breaks down into Ca2+ and OH- ions. The Ca2+ ions then
+replace monovalent ions such as Na+ and Li+ that are adsorbed to the surface of clay
+minerals. This binding of Ca2+ ions to the clay mineral surface led to a reduction in
+repulsive forces and a decrease in the thickness of the diffuse water layer. As a result,
+soil particles drew closer together, a process commonly referred to as flocculation, and
+the process of flocculation allowed for the formation of large soil particles that are
+interlocked and able to withstand greater loadings applied to them (Manzoor & Yousuf,
+2020).
+A noticeable stiffer response with increasing penetration was observed with the
+addition of fibre content from 0.5 to 1.5 % in intervals of 0.5 %. This improvement in
+soil properties was due to the fibre addition. The fibre addition meant that the
+randomly distributed discrete fibres reinforced the soft soil subgrade under heavy loads
+leading to improved strength for the soil which may suffer excessive deformation when
+left unreinforced (Hasrajani, et al., 2015). The rise in CBR of lime-stabilised fibrereinforced soil was credited to the considerable improvement in the bearing capacity
+facilitated by the addition of discrete fibres. With an increase in the plastic content
+within the soil bed, the load-bearing capacity of the footing escalated up to a certain
+threshold, beyond which it diminished ( Iravanian & Haider, 2020).
+A decrease was noted after reinforcing the soil with 2 % PET fibre. The decrease of the
+CBR due to the further addition of plastic to the soil was because more plastic fibres
+into the soil sample led to the segregation of the soil-plastic matrix during compaction
+
+
+
+hence causing poor bonding between the materials (Raghu, 2018). An excessive amount
+of fibres acted like a lubricant, reducing the friction between soil particles and
+hindering the interlocking mechanisms, and that led to a weaker overall soil structure.
+This decline might have been due to the abundance of waste plastics, which could have
+compromised the strength of the soil. Consequently, this resulted in reduced strength
+and a less robust soil structure overall ( Niyomukiza, et al., 2021).
+4.3.5 Unconfined Compressive Strength
+
+Figure 14: UCS against Composition
+The trend of the results of the UCS was that there was a continuous increment from the
+point where there was a composition of 0 % fibre to 1.5 % fibre with a constant mix of
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+UCS (MPa)

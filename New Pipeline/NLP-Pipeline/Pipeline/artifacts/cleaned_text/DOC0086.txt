@@ -1,0 +1,1400 @@
+ASSESSING THE USE OF WOOD CHIPS-ACTIVATED CARBON IN THE
+TREATMENT OF WASTEWATER EFFLUENT
+
+MARY NORINE KHARONO
+S21B32/111
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+
+i
+
+ABSTRACT
+Waste water effluent from sewage treatment process contains organic matter
+and other inorganic compounds which are harmful to the environment if not
+treated properly. In particular high levels of BOD5 and COD in the waste water
+effluent pose significant risk on aquatic life through the depletion of dissolved
+oxygen, therefore treating the effluent to the acceptable permissible limits
+is essential for the health of the ecosystems. The study involved assessing the
+use of wood chips activated carbon in the treatment of the waste water
+effluent from the Doko waste stabilization pond and the research involved
+characterization of the waste water effluent in both the wet and dry seasons
+and the mean values of BOD5 and COD in the effluent for the dry season were
+found to be 172.3mg/l and 269.7mg/l and 129.1mg/l and 217.8mg/l for the
+wet season and these were higher than the recommended NEMA standards of
+50mg/l for BOD5 and 100mg/l for COD, the study also evaluated the
+effectiveness of activated carbon in waste water effluent treatment where
+its adsorption behavior was described by the Langmuir and Freundlich models
+and the Freundlich model was the best fit for the adsorption of BOD5 and COD
+by activated carbon. The adsorption process demonstrated maximum
+percentage reductions of 75.6% for BOD5 and 72.4% for COD in the dry season
+and 80.3% for COD, 82% for BOD5 for the wet season bringing the BOD5 and
+COD values to the NEMA acceptable discharge standards demonstrating the
+potential of wood chips activated carbon in waste water effluent treatment.
+
+
+
+ii
+
+DECLARATION
+I, KHARONO MARY NORINE, hereby declare that the content of this report is
+original and has not been submitted either wholly or in part for the
+attainment of any academic qualification at any institution or university. The
+findings and discussions presented are based on my personal research,
+consultations and knowledge gained throughout the course.
+Signature: ........................................
+
+Date: ........./................../..................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+This is to certify that this report has been done by KHARONO MARY NORINE,
+and is ready for submission.
+Project supervisor:
+PROFESSOR ELEANOR WOZEI
+Signature........................................
+Date........./................../............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+I wholeheartedly dedicate this report to my parents, brother, grandmother,
+siblings and aunt, whose unwavering support, guidance and encouragement
+have been a cornerstone in the successful completion of this work.
+I also extend a special dedication to my supervisor, professor Eleanor Wozei,
+whose commitment and dedication played a vital role in making this journey
+both insightful and enriching.
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENT
+My sincere and heartfelt appreciation goes to the almighty God who blessed
+me with knowledge, guidance and necessary resources that enabled me to go
+through this final year journey, it has not been an easy one but special
+appreciation goes to our supervisor Prof. Eleanor Wozei who endeavored to
+give us all the guidance throughout the research period, this journey would
+have been a more tough one without her, I also thank my project partner
+Ruhingira Johnson who had been a supportive partner towards our final year
+project research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ............................................................................... i
+DECLARATION........................................................................... ii
+APPROVAL .............................................................................. iii
+DEDICATION ............................................................................ iv
+ACKNOWLEDGEMENT .................................................................. v
+LIST OF TABLES ......................................................................... x
+LIST OF FIGURES ...................................................................... xi
+LIST OF ABBREVIATIONS ............................................................. xiii
+CHAPTER ONE: INTRODUCTION ...................................................... 1
+1.1 PROJECT BACKGROUND ........................................................ 1
+1.2 PROBLEM STATEMENT .......................................................... 3
+1.3 STUDY OBJECTIVES ............................................................. 4
+1.3.1 Main objective ............................................................. 4
+1.3.2 Specific objectives ........................................................ 4
+1.4 RESEARCH QUESTIONS ......................................................... 4
+1.5 JUSTIFICATION .................................................................. 5
+1.6 SIGNIFICANCE OF THE STUDY ................................................. 6
+1.7 SCOPE OF THE STUDY .......................................................... 7
+CHAPTER TWO: LITERATURE REVIEW ............................................... 8
+2.0 Introduction ..................................................................... 8
+
+
+vii
+
+2.1 Characteristics of waste water ............................................... 9
+2.1.1 Types and Sources of waste water ...................................... 9
+2.2 Waste water treatment techniques ........................................ 10
+2.2.1 Non-conventional waste water treatment techniques ............. 10
+I.
+Anaerobic ponds ................................................. 11
+III.
+Maturation Ponds .............................................. 12
+2.2.2 Conventional waste water treatment ................................ 14
+2.3 Adsorption ..................................................................... 16
+2.3.1 Types of adsorbents used .............................................. 16
+2.4 Adsorption isotherms ......................................................... 19
+CHAPTER THREE: METHODOLOGY ................................................. 20
+3.1 Introduction ................................................................... 20
+3.2 Research design ............................................................... 20
+3.3 Sample collection ............................................................. 21
+3.4 Determination of physiochemical quality of the waste water effluent21
+3.5 Determination of the reduction of BOD and COD from the waste water
+effluent ............................................................................. 27
+3.4.1 Wood chips collection and preparation .............................. 27
+3.4.2 Production of the wood chips activated carbon .................... 27
+3.4.3 The reduction of BOD and COD from the waste water effluent . 28
+
+
+viii
+
+3.4.4 Batch adsorption experiment. ......................................... 28
+3.4.5 Breakthrough curve experiment ...................................... 29
+3.5 Design of a waste water effluent treatment unit ........................ 30
+CHAPTER FOUR: RESULTS AND DISCUSSION ...................................... 31
+4.0 Introduction ................................................................... 31
+4.1 Determination of the physicochemical quality of the waste water
+effluent. ............................................................................ 31
+4.1.1 Physicochemical quality of the effluent in the dry season ........... 31
+4.1.2 Physicochemical quality of the effluent in the wet season .......... 35
+4.2 Determination of the reduction of BOD and COD from the waste water
+effluent ............................................................................. 40
+4.2.1 Determination of the reduction of BOD and COD for the dry season
+.................................................................................... 40
+4.2.2 Determination of the reduction of BOD and COD for the wet season
+.................................................................................... 45
+4.2.3 Adsorption isotherms ................................................... 49
+4.3 Design of the waste water effluent treatment unit ..................... 57
+CHAPTER FIVE: CONCLUSIONS AND RECOMMENDATIONS ....................... 67
+5.1 Conclusions .................................................................... 67
+5.2 Recommendations ............................................................ 69
+REFERENCES .......................................................................... 70
+
+
+ix
+
+APPENDIX C: DRAWING ................................................................ 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF TABLES
+Table 1: Effluent discharge permissible standards (National Environment
+Management Authority., 2020) .................................................... 16
+Table 2: waste water effluent quality results for the dry season ............ 31
+Table 3: waste water effluent quality results for the wet season ............ 35
+Table 4: BOD reduction at the different activated carbon lengths for the dry
+season ................................................................................. 40
+Table 5: COD reduction at the different activated carbon lengths .......... 43
+Table 6: BOD reduction at the different activated carbon lengths for the wet
+season ................................................................................. 45
+Table 7: COD reduction at the different activated carbon lengths for the wet
+season ................................................................................. 47
+Table 8: Freundlich adsorption data for COD and BOD ......................... 49
+Table 9: Langmuir adsorption data for BOD and COD .......................... 52
+Table 10: Breakthrough curve results for BOD and COD ....................... 54
+Table 11: Design calculation for full-scale design .............................. 58
+Table 12: Evaluation of the current and existing conditions of the ponds and
+the original design ................................................................... 79
+
+
+
+
+
+
+
+xi
+
+LIST OF FIGURES
+Figure 1: BOD concentration variation with time ............................... 32
+Figure 2: COD concentration variation with time ............................... 33
+Figure 3: pH variation with time .................................................. 33
+Figure 4: TSS concentration variation with time ................................ 34
+Figure 5: EC variation with time................................................... 35
+Figure 6: BOD concentration variation with time ............................... 36
+Figure 7: COD concentration variation with time ............................... 37
+Figure 8: TSS concentration variation with time ................................ 37
+Figure 9: EC variation with time................................................... 38
+Figure 10: pH variation with time ................................................. 39
+Figure 11: BOD concentration at different activated carbon lengths ........ 41
+Figure 12: COD concentration at the different activated carbon lengths ... 43
+Figure 13: BOD5 concentration variation with activated carbon length ..... 46
+Figure 14: COD concentration at the different activated carbon lengths ... 48
+Figure 15: Freundlich adsorption isotherm for BOD ............................ 51
+Figure 16: Freundlich adsorption isotherm for COD ............................ 51
+Figure 17: Langmuir adsorption isotherm for BOD .............................. 53
+Figure 18: Langmuir adsorption isotherm for COD .............................. 53
+Figure 19: Breakthrough curves for BOD and COD .............................. 55
+Figure 20: Anaerobic pond at the Doko waste stabilization pond ............ 74
+Figure 21: Nashibiso stream ........................................................ 74
+Figure 22: the Doko waste stabilization point discharge point ............... 74
+Figure 23: layout of the Doko waste stabilization ponds ...................... 75
+Figure 24: Waste water effluent sample collection ............................ 75
+
+
+xii
+
+Figure 25: collected Waste water effluent samples ............................ 76
+Figure 26: Lab analysis .............................................................. 76
+Figure 27: Batch test ................................................................ 77
+Figure 28: breakthrough column experiment .................................... 77
+Figure 29: Trial runs with the wood chips activated carbon .................. 78
+Figure 30: performance of lab tests .............................................. 78
+Figure 31: the yellow part represents the proposed area of placing the
+activated carbon treatment unit .................................................. 79
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xiii
+
+LIST OF ABBREVIATIONS
+BOD- Biochemical oxygen demand
+COD- Chemical oxygen demand
+TSS- Total suspended solids
+pH- Potential of hydrogen
+NWSC- National water and Sewerage Corporation
+NEMA- National Environment Management Authority
+EC- Electrical conductivity
+TSS- Total suspended solids
+DO- Dissolved oxygen
+m- meters
+mm- millimeters
+s- seconds
+l- liters
+mg/l- milligrams per liter
+Kg/m3- Kilograms per meter cubed
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 PROJECT BACKGROUND
+Waste water effluent refers to treated or untreated waste water discharged
+from a treatment facility or from an industry. Effluents are released into
+surface waters but if inadequately treated, they introduce microbial and
+chemical contaminants into public water ways negatively impacting river
+ecosystems and overall water quality (Bessong et al.,2009). Therefore, it is
+essential for wastewater treatment systems to ensure the release of highquality effluents into the environment. In many developing countries, waste
+water treatment is often inadequate due to rapid urbanization and population
+growth that results into high hydraulic loadings affecting the capacity of the
+system and the overall design retention time (US EPA., 2009). This is one of
+the challenges experienced here in Uganda in regards to waste water
+treatment as some of the effluents discharged do not meet the NEMA
+standards for discharge of effluent on land or into water.
+In Mbale, there two separate sewer networks, one discharges into the
+Namatala waste stabilization Pond and the other discharges into the Doko
+waste stabilization pond. The waste water from Republic Street, police
+barracks, NWSC offices is treated at the Doko waste stabilization pond and its
+effluent is discharged into the Nashibiso stream. This accounts for the high
+levels of pollution into the stream as it’s the immediate point source of
+pollution (Wolukawu., 2023). Pollution of the Nashibiso stream as a result of
+effluent discharge from the Doko waste stabilization pond has been a major
+concern (Mafabi., 2023) as the people within the neighborhood areas rely on
+
+
+
+the stream to obtain water for domestic use, the overall water quality of the
+stream is affected by the waste water effluent from the pond.
+The waste water effluent samples from the pond were collected both in the
+dry and wet season and in both the season the values of BOD and COD were
+172.3mg/l, 269.7mg/l for the dry season and 129.1mg/l for BOD and
+217.8mg/l for COD in the wet season which were above the NEMA set
+standards, high BOD and COD in waste water effluents poses severe impacts
+in the environment and ecological systems, excessive BOD and COD levels lead
+to the depletion of dissolved oxygen in receiving waters leading to hypoxic or
+anoxic conditions that harm aquatic life (Metcalf and Eddy., 2014).
+Therefore, it is very key to ensure that the effluent is properly treated before
+it is discharged to ensure the health of the ecosystems and also public health.
+Therefore, the study aims at assessing the use of wood chips activated carbon
+in waste water effluent treatment to act as a polishing unit to the effluent
+before it is discharged to ensure environmental and ecosystem health.
+Wood chips activated carbon is an excellent choice for waste water effluent
+treatment as it’s a highly porous material with a large surface area and the
+pores are made of different shapes and sizes which provides active binding
+sites for BOD and COD adsorption.
+
+
+
+
+
+1.2 PROBLEM STATEMENT
+Referring to the preliminary results obtained from the effluent in both the
+dry and wet season, some of the parameters of the effluent that was
+discharged from the Doko waste stabilization pond did not meet the standards
+for discharge of effluent into water or land, which were set by NEMA, 1999.
+The mean results on the effluent from the pond for BOD5 and COD were
+172.3mg/l, and 269.7 mg/l respectively for the dry season and 129.1mg/l for
+BOD5 and 217.8mg/l for COD for the wet season and this shows that these
+parameters were higher than the recommended NEMA standards of 50mg/l,
+100mg/l for BOD and COD respectively. The effluent is discharged into the
+Nashibiso stream and this accounts for the high levels of contamination to the
+river (Wolukawu., 2023), and this overtime affects the water quality and the
+aquatic life. The BOD5 and COD values of the water from the stream during
+the dry season were found to be 116mg/l, 170mg/l respectively, this affects
+the quality of the water and also possess risk on aquatic life (Mafabi., 2023).
+High BOD5 and COD levels indicate a significant presence of organic loads, this
+affects the receiving ecosystems through the depletion of dissolved oxygen
+(Sharma., 2021). The purpose of this study is to assess the use of activated
+carbon from wood chips in the reduction of BOD and COD from wastewater
+effluent, wood chips activated carbon has a large surface area, is highly
+porous, the pores on the surface of the activated carbon are of different
+shapes and sizes and this helps to create numerous active binding sites and
+this helps in reducing BOD5 and COD in the waste water effluent.
+
+
+
+1.3 STUDY OBJECTIVES
+1.3.1 Main objective
+To assess the use of wood chips activated carbon in the treatment of the
+waste water effluent from the Doko waste stabilization pond
+
+1.3.2 Specific objectives
+1. To determine the physicochemical quality of the waste water effluent
+2. To determine the reduction of BOD and COD in the wastewater
+3. To design a waste water effluent treatment unit
+1.4 RESEARCH QUESTIONS
+1. What is the physicochemical quality of the wastewater effluent?
+2. What is the reduction of BOD and COD from the wastewater effluent?
+3. What is the ideal design for the treatment of the wastewater effluent?
+
+
+
+
+
+
+
+
+
+
+1.5 JUSTIFICATION
+Wood chips activated carbon is an excellent choice for waste water effluent
+treatment to reduce BOD and COD due to its large surface area and the pore
+structure produced during the process of carbonization and activation, which
+provide excellent adsorptive properties, the activation process significantly
+enhances the number of micro pores and enlarges the meso pores making it
+highly effective in adsorbing the organic matter. The availability of cavities
+or spaces and pores on the activated carbon are vital for the adsorption
+process (Danish and Ahmad., 2018), the pores formed are of different sizes
+and shapes which help to form numerous active binding sites which are free
+for binding with the incoming atoms and molecules, these active binding sites
+increase the adsorption capacity for the organic molecules present in the
+waste water effluent because as the organic molecules are sticking and
+binding onto the wood chips activated carbon their concentration in the
+effluent decreases and this results into a reduction in BOD and COD
+concentration ( Alsubhi et al., 2020).
+The use of wood chips activated carbon demonstrated the potential of
+treating the waste water effluent to reduce the BOD and COD levels from the
+waste water effluent as a percentage reduction of BOD and COD for the dry
+season were 75.6% and 72.4% and for the wet season a percentage reduction
+of 82% and 80.3% for BOD and COD was achieved which shows the potential
+of wood chips activated carbon in the treatment of the waste water effluent.
+
+
+
+
+1.6 SIGNIFICANCE OF THE STUDY
+Wastewater treatment works and discharge of effluent affects the people
+downstream of the Nashibiso River in terms of water quality and also affects
+the aquatic life, the presence of the organic loads in water leads to the
+depletion of dissolved oxygen leading to aquatic stress since during
+decomposition of organic matter dissolved oxygen levels reduce and this
+threatens the aquatic life. The study aimed at how to treat the wastewater
+effluent from the Doko waste stabilization pond to reduce on the COD and
+BOD concentration and ensure the effluent meets the set standards of 50mg/
+and 100mg/l for BOD and COD respectively before it's discharged to ensure
+safety of aquatic life (Farhadian et al., 2019). Wood chips are one of the
+wastes generated daily from various wood work operations like making chairs,
+beds, cupboards, doors, windows, these wood chips in large quantities their
+disposal may become problematic (Mallakpour et al., 2021). Therefore, the
+study looked at how to ensure the health of the public and that of the aquatic
+life through the use of activated carbon from wood chips to reduce BOD and
+COD from the effluent to improve on the quality of the water in the Nashibiso
+stream, to make it safe for use and to also restore the aquatic ecosystem.
+
+
+
+
+
+
+
+
+1.7 SCOPE OF THE STUDY
+Geographical scope
+The Doko waste stabilization ponds are located in Mbale city south of
+Kampala road. The coordinates of the pond are 10 04’ 50’’ N, 340 10’ 30’’ E.
+Time of scope
+The study was conducted from September 2024 - April 2025
+Content of scope
+The study involved assessing the use of wood chips activated carbon in the
+treatment of the waste water effluent, the physicochemical quality of the
+effluent from the Doko waste stabilization pond were obtained both in the
+wet and dry season to account for the seasonal variations, the values of COD
+and BOD5 from both seasons served as baseline data to assess the
+effectiveness of the wood chips activated carbon in waste water effluent
+treatment to reduce the BOD5 and COD concentrations in the final effluent
+before it is discharged into the Nashibiso stream.
+The study also looked at the design of the waste water effluent treatment
+unit under the comprehensive guidance by the Metcalf and Eddy design
+manual, where a proposed polishing unit to the final effluent was designed
+to ensure the effluent from the pond is further treated in order to meet the
+NEMA effluent discharge standards before its discharged because in both the
+seasons the mean results for BOD5 and COD were above the permissible limits
+of 100mg/l and 500mg/l.
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.0 Introduction
+Waste water is composed primarily of water but it also contains a variety of
+pollutants. Its main components include suspended solids, biodegradable
+dissolved organic matter, inorganic substances, nutrients, heavy metals and
+harmful pathogens. The organic fraction typically consists of substances such
+as detergents, proteins, carbohydrates, fats and soaps. Inorganic elements
+include toxic heavy metals like cadmium and mercury. If these contaminants
+are not properly treated, they pose serious threats to the environment and
+public health.
+Wastewater treatment is done as a way of ensuring environmental health,
+however, the discharge of sewage effluent which does not meet the effluent
+discharge standards has increased over the years due the increase in
+urbanization and industrialization and this slows down the objective of
+ensuring environmental health (Shon et al., 2006).
+Globally, recent studies provide an estimate of waste water production and
+management and (Jones et al., 2021) provides an approximation of about
+359.5 billion m3 annually, where about 63% of the waste water is collected
+and 52% of the waste water is treated and this shows that 48% of the
+wastewater is untreated and this calls for more technologies and ways on
+how the waste water is treated and effluents properly discharged (Jones,
+Vliet and Bierkens., 2020). For the waste water that is treated there exist
+standards at which the final effluent from the treatment should meet before
+it is discharged, in Uganda much as wastewater effluent discharge
+permissible limits exist, ensuring compliance to the standards is not done
+
+
+
+efficiently and this often leads to discharge of effluents which do not meet
+effluent discharge standards.
+2.1 Characteristics of waste water
+Knowing the characteristics of waste water is crucial because it guides the
+effective management, treatment and design of a treatment system. The
+characteristics vary based on its source for example municipal, industrial
+(Welch and Naczk, 1992). The most used characteristic parameters are,
+1. Chemical oxygen demand and biochemical oxygen demand, they provide
+an understanding on the quantity of organic matter present, BOD
+represents the biodegradable organic matter and COD represents total
+organic matter.
+2. pH and electrical conductivity are indicators of ions in the waste water.
+3. Heavy metals and Inorganic salts which are indicators of Industrial
+pollution.
+4. Nitrogen and phosphorus, these are nutrients when discharged cause
+eutrophication.
+2.1.1 Types and Sources of waste water
+1. Domestic waste water, this is waste water that is discharged due to
+human activities, waste water from toilets essentially consists of organic
+matter, domestic waste water from kitchens, bathrooms and the daily
+discharge varies depending on for example the hygiene conditions and
+these waste waters contain organic matter and also products such as
+detergents and phosphate.
+
+
+
+
+Types of domestic waste water
+Grey water or sullage is the domestic waste water exclusive of toilet waste,
+water from the kitchen and involves waste water from sinks, bathrooms.
+Black water, contains excreta, flush water and cleansing materials. It
+contains both fecal matter and urine.
+Brown water, contains fecal matter, flush water minus urine, this mainly
+applies to urine diverting toilets.
+2. Industrial waste water, this includes discharges from industrial processes
+and the composition depends on the processes in an industry and the
+waste water maybe from a tannery industry, textile industry, breweries
+industry, chemical industry and all these produce waste waters of
+different composition and treatment is required to ensure environmental
+health.
+2.2 Waste water treatment techniques
+2.2.1 Non-conventional waste water treatment techniques
+Biological treatment relies on microorganisms to break down organic matter,
+it is a natural process and may take a couple of days. Under biological
+treatment,
+stabilization
+ponds,
+trickling
+filters,
+activated
+sludge,
+constructed wetlands are the techniques used to treat the waste water
+1. Waste stabilization ponds
+Stabilization ponds are open flow through basins especially designed and
+constructed to aid in the treatment of sewage and biodegradable industrial
+
+
+
+wastes. Since they rely on biological processes, use long retention time
+usually a number of days to treat the waste water.
+Waste stabilization ponds are one of the cost-effective methods of municipal
+waste water treatment, they are not used in the treatment of toxic waste
+water as it kills the microorganisms, the ponds rely on microbial activity.
+Waste stabilization ponds are mainly used in hot climates, since they rely on
+the microorganisms to break down the organic matter and the degradation is
+intense when the temperature is high.
+Waste stabilization ponds are arranged and series, the first pond which is the
+anaerobic pond, this is followed by the facultative pond and then the
+maturation pond.
+Operation of the ponds
+I. Anaerobic ponds
+Anaerobic ponds are normally 2-5m deep and receive raw waste water and
+they store solids which settle at the bottom as sludge. Anaerobic ponds do
+not have dissolved oxygen and the microbial population consist of anaerobic
+microorganisms. The organic matter in the influent is broken down through
+fermentation. The anaerobic fermentation process breaks down the organic
+matter into methane and carbon dioxide when molecular oxygen is not
+present.
+The process starts with the organic substrates being hydrolyzed producing
+simpler compounds through the enzymes produced by fermentative bacteria.
+
+
+
+The next stage is acidogenesis which results into the formation of hydrogen,
+carbon dioxide, acetate and organic acids.
+In the next stage, acetogenesis takes place and the organic acids produced
+are converted into hydrogen, carbon dioxide, and acetate by the acetogenic
+bacteria. And in the last stage methanogenic bacteria reduce carbon dioxide
+to methane by hydrogen utilizing methane bacteria, the gaseous end products
+resulting from the reactions escape to the atmosphere and this way BOD is
+removed from the waste water. Well-designed anaerobic pond provides about
+a 60% removal of BOD5 (Dwivedi., 2022).
+II. Facultative ponds
+Facultative ponds are normally 1-2 m deep. In the facultative ponds,
+treatment occurs in different zones that's to say, the anaerobic zone, the
+aerobic zone.
+An aerobic zone is present at the upper layers of the pond because of the
+availability of oxygen from the photosynthesis of algae and wind aeration, in
+this zone organic matter is broken down aerobically, the aerobic portion of
+the pond helps to guard against the release of odors and enables break down
+of the pollutants by the aerobic bacteria. Deeper in the layers the oxygen is
+not present and this constitutes the anaerobic zone where the at the bottom
+the settled suspended organic matter is broken down anaerobically (Dwivedi.,
+2022).
+III. Maturation Ponds
+Maturation ponds come in the waste stabilization pond arrangement. They
+Influent from the facultative ponds flows to the maturation ponds. Maturation
+
+
+
+ponds are generally shallower than facultative ponds with depth ranging from
+0.5 to 1.5 meters. Their primary purpose is to remove pathogens and they
+also play a notable role in removing nitrogen and phosphorus although they
+contribute to some extent to BOD reduction.
+The ponds maintain good oxygen levels throughout their depth due to the fact
+that they receive lower organic loads than anaerobic and facultative ponds
+(Dwivedi., 2022).
+The final effluent comes from the maturation pond and it's discharged into
+the Nashibiso stream.
+2. Constructed wetlands
+Constructed wetlands are engineered systems designed to mimic the natural
+functions of wetlands for the purpose of treating wastewater. They are
+typically shallow basins filled with soil and planted with water tolerant plants
+like reeds, these plants play a key role in the treatment process by enhancing
+microbial activity and facilitating the transfer of oxygen to the root zone.
+In the context of wastewater treatment, constructed wetlands are often
+used after preliminary treatment stages like from septic tanks, waste water
+treatment facility as the pretreated wastewater flows slowly through the
+root zone and this way the pollutants are removed from the waste water
+effluent (Stanbury et al., 2017).
+3. Activated sludge
+Activated sludge is a mixture of sewage and flocculated activated sludge. In
+the aeration and oxygen is supplied to enable microorganisms break down
+
+
+
+organic matter, some microorganisms flow to the sedimentation tank and are
+settled out, they clog to the suspended particles and settle down as activated
+sludge. The activated sludge portion is continuously returned to the process
+which increases on the microbial population and activity and in this way the
+waste water becomes treated.
+4. Trickling filters
+Trickling filters biological treatment systems sometimes called percolation
+filters. The filter consists of a rotating distribution system that runs by
+gravity, here the microorganisms are not suspended in the mixed liquid but
+they attach themselves on the fixed bed surface and form a layer of
+biological slime that absorbs and consumes the waste, the slime consist of
+bacteria and the accumulating slime slides off the Individual rocks and is
+collected at the bottom along with treated waste water.
+2.2.2 Conventional waste water treatment
+This incorporates a number of processes for example, pre-treatment, primary
+treatment, biological treatment, secondary treatment and disinfection.
+a) Pre-treatment
+As the waste water enters the treatment plants the large floating objects are
+removed by the screens. The screens can be coarse of fine, the materials that
+are trapped are then removed and disposed off safely either in a landfill,
+incinerated or disposed off in areas designated to receive such wastes.
+b) Primary treatment
+The screened waste water then flows to the primary clarifiers where the
+suspended solids and floating objects are removed. what settles at the bottom
+
+
+
+is called primary sludge, there are other types of waste other than the
+suspended solids for example soaps, oils, grease and these float on top to
+form scum which can be removed by the help of a skimmer.
+c) Biological treatment
+Under biological treatment, the wastes are broken down biologically and here
+trickling filters, activated sludge systems can be utilized, and waste is broken
+down aerobically.
+d) Secondary treatment
+The waste water then flows to the secondary sedimentation tanks where the
+activated sludge settles at the bottom of the tank, the activated sludge can
+be recycled back to the aeration chamber to increase the microbial activity
+and population, it can be used in biogas production or sent to the sludge
+drying beds.
+Disinfection and discharge
+The waste water produced contains pathogens and disinfection is done to kill
+the pathogens present and mainly chlorine is used and after disinfection the
+waste water effluent is then discharged. NEMA has set the maximum
+permissible limits for the discharge of effluent and that waste water
+treatment plants, waste stabilization ponds and industries discharging
+effluent must meet.
+
+
+
+
+
+Table 1: Effluent discharge permissible standards (National Environment
+Management Authority., 2020)
+Quality
+Standards
+for
+discharge
+Units
+BOD
+mg/l
+COD
+mg/l
+pH
+6.0-8.0
+
+Turbidity
+NTU
+Total phosphorus
+mg/l
+Total nitrogen
+mg/l
+2.3 Adsorption
+Adsorption is the concentration of a solute which maybe molecules dissolved
+or suspended in the liquid phase on the surface of a solid. During adsorption
+molecules bind onto the solid surface or are held of the solid surface by the
+weak intermolecular forces of attraction.
+2.3.1 Types of adsorbents used
+Activated carbon, clay minerals, zeolites and these have proved to be
+efficient in waste water effluent treatment.
+2.3.1.1 Activated carbon
+Activated carbon refers to carbon rich substances characterized by a highly
+developed internal pore structure. It its extensive surface area along with an
+organized network of micropores and meso pores contribute to its exceptional
+
+
+
+ability to adsorb contaminants from the waste water effluent. Recognized
+worldwide as one the earliest and most extensively utilized adsorbent,
+activated carbon is commonly employed in the treatment of both municipal
+and industrial waste water to reduce color, various organic and inorganic
+pollutants (Liu et al., 2020).
+2.3.1.2 Types of activated carbon
+The most common forms by which activated can be found include:
+Granular activated carbon, which is mainly used in fixed bed adsorption
+columns. Granular activated carbon can be prepared from hard materials like
+wood, coconut shell and granular activated carbon is mainly used in column
+adsorption units and they can be regenerated after use.
+Powdered activated carbon, this is mainly used when the pollutant
+concentration in waste water is low as they can be clogged easily though they
+have a high surface area for waste waters with high pollution loads for
+example high levels of suspended solids, granular activated carbon is suitable
+as it reduces on the frequency of clogging and for waste waters with low
+contaminants then powdered activated carbon is suitable (Tariq et al., 2022).
+2.3.1.3 Methods activation
+1. Physical activation
+Physical activation is also referred to as thermal activation, it is widely used
+in the production of activated carbon. The first stage involves carbonization
+where the biomass such as wood chips undergo thermal decomposition at
+temperatures between 400-600 ̊C, using the wood chips or any other material
+without treatment, it leads to the increase in organic matter after they
+decompose, carbonization removes volatile compounds yielding a carbon rich
+
+
+
+char. This method yields activated carbon with well-developed porous
+structure and is considered more environmentally friendly than the chemical
+activation
+2. Chemical activation
+Chemical activation involves treating the carbonaceous precursors with
+chemical activating agents such as phosphoric acid, potassium chloride, zinc
+chloride prior to thermal treatment. The method is particularly effective for
+biomass rich in cellulose and lignin (Sumangala et al., 2021).
+2.3.1.4 wood chips activated carbon
+In the selection of the type of tree species to be used for production of
+activated carbon, it depends on its carbon content and cellular structure
+hardwood like eucalyptus have a complex cellular structure which produces a
+porous material as compared to soft woods. The wastes from the wood
+industry are cheaper and available in large quantities. Besides Eucalyptus
+wood chips having a good cellular structure, the waste is plentiful by product
+of the wood industry. According to approximate analysis, raw eucalyptus
+wood chips have a fixed carbon content of 51.99% making it an excellent
+biomass for the production of activated carbon (Moрoung.,2021).
+Carbonization and activation are key steps for activated carbon production;
+they help in the determination of the surface properties and porosity of the
+adsorbent.
+
+
+
+
+2.4 Adsorption isotherms
+Adsorption is the mass transfer process characterized by the accumulation of
+substances on the surface of the adsorbate. The equilibrium relationship
+between the adsorbent and the adsorbate is typically described by the
+adsorption isotherms at a constant temperature. Accurately fitting
+experimental data to various isotherm models is essential for identifying the
+most suitable model for adsorption design.
+Equilibrium adsorption isotherms are critical in designing adsorption systems
+as they help assess the adsorption potential of activated carbon for specific
+contaminants. A wide range of isotherm models exist and the most widely
+used adsorption isotherms used are Langmuir and Freundlich adsorption
+isotherms. The Freundlich adsorption isotherm assumes that adsorption takes
+place in the multilayer while Langmuir adsorption isotherm assumes
+adsorption takes place in a monolayer (Rani et al., 2021).
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.1 Introduction
+This chapter presents the methodology employed in the study providing a
+detail of the procedures used to achieve the research objectives and provides
+an understanding on how the various tests were systematically performed to
+achieve the set objectives.
+3.2 Research design
+The methodological research for this project was based on the quantitative
+research design to determine the potential of wood chips activated carbon
+in the reduction of BOD and COD from the waste water effluent. To answer
+the research questions of the study, the following systematic methods were
+followed and used to collect, analyze and interpret the data.
+
+
+
+
+
+
+
+
+
+Proposal
+preparation
+and
+submission
+Literature
+review
+Preliminary
+findings
+Laboratory
+tests
+Statistical
+analysis
+Conclusions and
+recommendations
+Development of
+methodology
+
+
+
+3.3 Sample collection
+The sampling bottles were clearly labeled with the date and time of
+collection and the wastewater effluent samples were collected from the
+Doko waste stabilization pond discharge point and from the Nashibiso stream,
+a clean bottle was triple rinsed with the effluent to avoid contamination and
+it was used to collect and transfer the samples into the clean sampling
+bottles which were filled to the mark to allow for proper sealing, grab
+samples in field triplicates were collected to obtain representative sample.
+The samples were collected in the morning, afternoon and evening to
+account for the variations in the effluent composition and the samples were
+collected in the wet and dry seasons to account for the seasonal variations.
+Grab sampling was employed to collect the samples both in the wet and dry
+seasons, clean sampling bottles were first rinsed with the waste water
+effluent sample to avoid contamination.
+Since the lab was not within the same locality with where the waste water
+effluent samples were collected, the samples were placed in the cooler box
+containing ice packs for preservation during transportation to the laboratory
+for analysis (U.S. Environmental Protection Agency, EPA).
+3.4 Determination of physiochemical quality of the waste water effluent
+Determination of the biochemical oxygen demand BOD (APHA 5210B)
+This was determined using the Azide modification of Winkler method (oxygen
+electrode method)
+Materials and equipment
+ BOD test bottles
+
+
+
+ DO meter
+ Incubator
+ Dilution water
+ Graduated cylinder
+ Pipette
+Reagents used
+ Phosphate buffer solution
+ Magnesium sulphate solution
+ Calcium chloride solution
+ Ferric chloride solution
+I. The dilution water was prepared by adding water to a bottle and
+saturating it with dissolved oxygen by aerating with organic free
+filtered air, and this was followed by the addition of the nutrient stock
+solution of phosphate buffer, calcium chloride, Ferric chloride, and
+magnesium sulfate 1ml each per a liter of saturated water. The
+nutrients are added to ensure that the microorganisms have sufficient
+inorganic nutrients while decomposing the organic matter and the
+nutrients do not contribute to the consumption of dissolved oxygen in
+the waste water sample solution.
+II. 5ml of the sample were added to a 300ml beaker and the dilution water
+added up to the 300ml mark and stirred.
+III. The initial DO of the samples was measured using an already calibrated
+DO meter. The samples were then added to the 300ml BOD bottles and
+
+
+
+filled to the brim and closed with a stopper to prevent the penetration
+of oxygen.
+IV. The BOD bottles were amber in color to prevent light penetration
+which promotes photosynthesis.
+V. The BOD bottles are then placed in an incubator at a temperature of
+20°C for 5 days. The final dissolved oxygen of the samples was then
+obtained.
+VI. The initial dissolved oxygen (D1) was subtracted from the final
+dissolved oxygen (D2) and multiplied by the dilution factor which is the
+ratio of the volume of the BOD bottle to the sample volume. The
+biochemical oxygen demand is then obtained from;
+BOD (mg/l) = (D1 −D2) × dilution factor
+Determination of the chemical oxygen demand COD (APHA 520D)
+Chemical oxygen demand (COD) determination was achieved using the closed
+reflux method.
+The principle is that under acidic conditions a strong oxidizing agent will
+oxidize the organic compounds to carbon.
+Preparation of the reagents
+The reagents required for the experiment were;
+ Concentrated sulfuric acid
+ Potassium dichromate (K2Cr2O7).
+ Waste water samples
+Apparatus required
+ Thermal reactor
+ Spectrophotometer
+
+
+
+ Test tubes or vials
+ Pipette
+I. 2ml of the wastewater effluent sample were placed in a test tube or vial
+II. 2ml of potassium dichromate were then added to the waste water
+effluent sample as a strong oxidizing agent.
+III. 2ml of concentrated sulfuric acid followed, this was to provide an acidic
+environment so that complete and better oxidation of organic matter can
+be done due to potassium dichromate.
+IV. The vials or test tubes were closed tightly and shaken lightly as it may
+explode, care is taken because it becomes hot due to the exothermic
+reaction of sulfuric acid.
+V. The test tubes were then placed in a thermal reactor at a temperature of
+150°C for 2 hours, after the two hours the digestor is switched off, and
+the test tubes are removed and left to cool to room temperature for about
+one hour.
+VI. The test tubes were then placed in the spectrophotometer set at a wave
+length of 620nm and the COD values read. This change in absorbance from
+the dichromate solution is directly proportional to the COD of the sample
+in mg/L.
+COD as mg O/l =
+mg O2 in final volume ∗1000ml
+ml sample
+
+Determination of pH (APHA 4500-H)
+I. The pH meter was calibrated against the pH buffer 4 and buffer 7
+solution. The pH meter is turned on and the protective cap is removed
+
+
+
+from the electrode, the electrode is stored in a potassium chloride buffer
+and is never allowed to dry.
+II. The probe was then rinsed with distilled water and dried with tissue, the
+calibration button on the pH meter was pressed and the probe inserted
+into a pH buffer 7 first, and when the pH was adjusted up to 7 the probe
+was removed from the buffer 7 solution, rinsed and dried, the probe was
+then placed in the pH buffer 4, and when the pH was adjusted to 4 the
+probe was removed rinsed and dried. The wasted water Effluent samples
+were shake well to obtain a uniform mixture and placed in a beaker rinsed
+using waste water and the pH values for the samples were taken.
+Determination of electrical conductivity EC
+Equipment /Apparatus
+Conductivity meter (probe / sensor), Soft tissue
+Beaker, (50 ml)
+Reagents
+ Standard Potassium chloride solution (0.01N):
+ Distilled water
+I. The conductivity cell was rinsed with 3 portions of 0.01 N KCl solution.
+II. The temperature of a 4th portion was adjusted to 25.0 ±0.1 °C.
+III. The cell was rinsed with distilled water followed by a portion of the
+waste water effluent sample
+IV. The probe was immersed in a beaker containing the waste water
+effluent sample.
+
+
+
+V. The probe was then agitated agitate to free any bubbles from the
+electrode area.
+VI. The EC value of the waste water effluent sample was then read off in
+μS/cm
+Determination of total suspended solids TSS (APHA 2540C)
+Reagent
+Distilled water
+Apparatus / Equipment
+ DR 3900 at 630 nm
+ Sample Cell
+ Beaker
+ Measuring cylinder
+i.
+The samples were shake thoroughly so as to obtain a homogenous a
+mixture.
+ii.
+25 ml of distilled water (blank) and 25 ml of sample were taken and
+placed in different sample cells.
+iii.
+The spectrophotometer was zeroed with the blank
+iv.
+The concentration in mg/l of the sample was read and recorded at a
+wave length of 630nm from the spectrophotometer.
+
+
+
+3.5 Determination of the reduction of BOD and COD from the waste water
+3.4.1 Wood chips collection and preparation
+The wood chips were obtained from lucky star workshop in Mbale city,
+washed with clean water to remove any impurities like sand and wood dust.
+After washing, the wood chips were dried under the sun for four days to
+lower the moisture content.
+3.4.2 Production of the wood chips activated carbon
+I. The dried wood chips were then transported to a furnace in katosi
+where they were burnt at a temperature of 500°C for 3 hours, at this
+temperature the properties of the char are not distorted and the ash
+content is low compared to the carbon content.
+II. The produced char was crushed where the different particle sizes
+were obtained and sieve analysis was performed to enable us obtain
+the effective particle size of the activated carbon.
+III. A number of 8 sieves were staked placed on the electrical shaker and
+left to run for five minutes
+IV. The mass retained on each sieve was noted and recorded and a graph
+of percentage passing against sieve size was plotted and the effective
+grain size was obtained which is the D10 from the graph, an effective
+grain size of 0.6mm was obtained with was in the recommended range
+of 0.6-0.9mm (Metcalf and Eddy.,2003).
+
+
+
+V. The 0.6mm wood chips particles were washed to remove any dust and
+activated with phosphoric acid and this was aimed at increasing the
+surface area and porosity of the produced activated carbon.
+3.4.3 The reduction of BOD and COD from the waste water effluent
+1. The waste water effluent was passed through the prepared activated
+carbon at different column lengths, the first column was the control,
+no activated carbon was added and the control acted as the base line
+condition to determine how much of the organic matter has been
+reduced from the effluent.
+2. Four bottles were prepared and packed with activated carbon at the
+lengths of 100mm, 140mm, 180mm, 220mm. cotton as a support
+material was placed at the bottom of the bottle to prevent carbon loss
+during the experiment, a flow rate of 7ml/min was established for all
+the columns, and this was determined by placing a hole at the bottle
+cover using the nail, and then determining how long it takes for the
+effluent in the bottle to flow out. The initial and final BOD5 and COD
+values were obtained following the APHA standards and the reduction
+was calculated by getting the difference in initial and final
+concentrations divided by the initial concentration.
+3.4.4 Batch adsorption experiment.
+1. A fixed amount of waste water effluent, 1000ml was added to the
+different jars and different amounts of activated carbon were added
+for example 0g, 10g, 20g, 30g and 40g, the first jar no activated carbon
+was added and this was used as a blank.
+
+
+
+2. A stirrer was used to mix the samples thoroughly in a rotary sequence
+until equilibrium was achieved. Equilibrium occurs when the further
+adsorption does not occur. The experiment was carried out in the
+laboratory at a room temperature of 23 ̊C.
+3. The concentration after equilibrium Ce was obtained, the minimum
+amount of time allowed for the samples to achieve adsorption
+equilibrium was 4hours.
+4. After the end of the test period following the APHA standards the final
+BOD5 and COD concentrations were obtained and the results were
+analyzed and then plotted to get the adsorption isotherms.(Wegmann
+et al. 2011).
+3.4.5 Breakthrough curve experiment
+1. A column test was carried out to obtain the design parameters. A feed
+with a constant concentration Co of the waste water effluent was
+passed through the fresh activated carbon bed at a constant flow rate
+of 7ml/min, the waste water effluent was allowed flow through the
+column packed with activated carbon continuously.
+2. The samples were collected at the bottom at different intervals of time
+and the samples were analyzed to obtain the concentration of BOD5
+and COD. The initial concentration and final concentrations at the
+different time intervals were obtained and a graph of concentration
+ratio against time was plotted to give the breakthrough curve which
+was used to obtain the breakthrough and exhaustion time (Chang et al.,
+2006).
+
+
+
+3.5 Design of a waste water effluent treatment unit
+This was achieved under comprehensive guidance by the Metcalf and Eddy
+design manual.
+The design considerations included,
+Empty bed contact time, the time the waste water effluent remains in
+contact with the activated carbon.
+Bed depth, an adequate bed depth ensures sufficient contact between the
+waste water and the carbon bed, the bed depth is very crucial as it affects
+the exhaustion time and the breakthrough time, increase in the bed length
+increases the exhaustion time as it takes a long time for the mass transfer
+zone to reach the bottom of the bed, this in turn reduces the time needed
+the frequently replace the activated carbon or subject it to regeneration.
+But also, when scaling up the bed length should not exceed the
+recommended range of 1.8-4m as at higher depths it would result into
+overlapping of the active binding sites which reduces the efficiency of the
+bed.
+Flow rate, the flow rate affects the contact time, adsorption capacity and a
+low flow rate allows for longer contact time between the activated carbon
+and the effluent leading do better adsorption capacities.
+
+
+
+
+
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.0 Introduction
+This chapter presents the findings obtained from the various experiments
+done on the effluent samples. Grab samples of the waste water effluent from
+the Doko waste stabilization pond both in the wet and dry seasons were used
+as the baseline data which was used to assess the effectiveness of the
+activated carbon in waste water effluent treatment.
+4.1 Determination of the physicochemical quality of the waste water
+effluent.
+4.1.1 Physicochemical quality of the effluent in the dry season
+Table 2: waste water effluent quality results for the dry season
+Parameter Units
+Morning Afternoon Evening Mean SD
+Waste water Effluent
+discharge standards
+BOD5
+mg/l
+169.6
+167.3
+172.3 3.6
+<50
+COD
+mg/l
+278.7
+267.3
+263.2
+269.7 4.2
+<100
+PH
+
+8.3
+8.7
+8.6
+8.5
+0.1
+5.5 - 8.5
+TSS
+mg/l
+83.4
+93.0
+87.3
+87.9
+2.4
+<100
+EC
+μS/cm 860.2
+900.2
+895.3
+885.2 11.8 <1500
+
+The wastewater effluent quality results from the Doko waste stabilization
+pond were compared with the NEMA standards for discharge of effluent on
+land or water and the results show a significant deviation from the permissible
+limit particularly the BOD5 and COD.
+
+
+
+
+
+Figure 1: BOD concentration variation with time
+An average BOD5 value of 172.3±3.6mg/l which was above the NEMA set
+standard of 50mg/l was discharged into the stream.
+The high BOD5 values in the effluent are mainly due to the reduction in the
+retention time in the anaerobic and Facultative ponds yet most of the BOD is
+removed them, reducing the time the waste water spends in ponds, reduces
+the breakdown of organic matter leading to the rise in BOD5 values. From the
+analysis it was observed that much as the pond design meets the design
+standards for designing waste stabilization ponds, it was observed that there
+was a considerable reduction in the retention time in the anaerobic and
+facultative ponds and this affects the breakdown of BOD. A well-functioning
+anaerobic pond removes 60% of BOD, reduction in retention time affects
+sedimentation and degradation of the organic matter in the ponds affecting
+the breakdown of organic matter in the ponds. The BOD5 value deviations
+throughout the day are mainly due to the increase in microbial activity which
+increases the breakdown organic thus reducing the BOD5 (Badre et al., 2023).
+morning
+afternoon
+evening
+BOD (mg/l)
+Time
+A graph of BOD against time
+BOD
+
+
+
+
+Figure 2: COD concentration variation with time
+An average COD value of 269.7±4.2mg/l in the effluent was discharged into
+the Nashibiso stream which was beyond the NEMA set standard of 100mg/l
+and this high COD value is mainly attributed to the reduction in the retention
+time of the ponds this could be due to the increase in the hydraulic loading
+of the ponds affecting their design capacity and the design retention time
+thus reducing the efficiency of the ponds in effectively treating the waste
+water effluent to the required COD values.
+
+
+Figure 3: pH variation with time
+COD (mg/l)
+Time
+A graph of COD against time
+COD
+8.2
+8.4
+8.6
+8.8
+pH
+Time
+A graph of pH against time
+pH
+
+
+
+
+A pH range of the effluent from the pond was between 8.3-8.7±0.1, the rise
+in the pH in effluent is mainly due to the dissociation of carbonate and bi
+carbonate ions in the ponds which leads to the release of hydroxyl ions which
+leads to a rise in the pH values in the effluent.
+
+
+
+
+Figure 4: TSS concentration variation with time
+
+On average, TSS value of 87.9±2.4mg/l which was within the recommended
+NEMA permissible limit for effluent of 100mg/l was discharged into the
+Nashibiso stream, this means the suspended solids in the effluent actually
+have enough time to settle out of suspension, the solids which settle out
+become sludge and desludging of the ponds is done annually to ensure their
+efficiency in waste water effluent treatment.
+morning
+afternoon
+evening
+TSS (mg/l)
+Time
+A graph of TSS against time
+TSS
+
+
+
+
+
+Figure 5: EC variation with time
+The EC range in the final effluent was between 860.2-900.2±11.8μS/cm, the
+electrical conductivity of the effluent was within the recommended NEMA
+permissible limit of 1500μS/cm. Increase in the EC values is mainly due to
+evaporation which leaves the dissolved salts and ions that do not evaporate
+and these contribute to the rise in EC values.
+4.1.2 Physicochemical quality of the effluent in the wet season
+Table 3: waste water effluent quality results for the wet season
+Parameter Units
+Morning Afternoon Evening Mean SD
+Waste water Effluent
+discharge standards
+BOD5
+mg/l
+135.6
+127.4
+124.2
+129.1 3.5
+<50
+COD
+mg/l
+221.5
+216.6
+215.2
+217.8 2.43 <100
+PH
+
+7.6
+7.9
+7.7
+7.7
+0.1
+5.5 - 8.5
+TSS
+mg/l
+100.2
+111.5
+105.8
+105.8 4.6
+<100
+EC
+μS/cm 480.1
+510.0
+506.8
+499.0 13.4 <1500
+
+EC (s/cm)
+Time
+A graph of EC against time
+EC
+
+
+
+The higher the concentration of organic matter in the waste water the
+stronger it is said to be. Waste water strength is often judged by its BOD and
+the strength of the waste water is governed by the water consumption, in
+developing countries like Uganda the water consumption is low usually an
+estimate of 40-100l per person which makes the waste water strong.
+
+
+Figure 6: BOD concentration variation with time
+An average BOD value of 129.1±3.5 was discharged from the pond in the wet
+season which was higher than the NEMA effluent discharge standard, the BOD
+value for the wet season were lower than that of the dry season because the
+waste stabilization ponds operate in the open therefore when it rains the rain
+water helps to dilute the waste water present in the ponds, reducing its
+strength, and this makes the BOD values in the effluent to be lower than the
+ones for the dry season, therefore the reduction is primarily because of the
+dilution effect from the rain.
+BOD (mg/l)
+Time
+A graph of BOD against time
+BOD
+
+
+
+
+Figure 7: COD concentration variation with time
+An average COD value of 217.8±2.43 was, discharged from the pond, the COD
+values in the wet season were lower than the ones recorded in the dry season,
+this reduction is primarily due to the dilution effect from the rainfall and this
+reduces the concentration of COD in the waste water effluent.
+
+
+Figure 8: TSS concentration variation with time
+
+
+
+COD (mg/l)
+Time
+A graph of COD against Time
+COD
+TSS (mg/l)
+Time
+A graph of TSS against Time
+TSS

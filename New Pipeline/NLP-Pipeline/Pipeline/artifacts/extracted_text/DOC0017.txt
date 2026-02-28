@@ -1,0 +1,1549 @@
+ 
+ACCESSING THE USE OF CALCINED QUARTZITE DUST AS A FILLER TO 
+ENHANCE RUT RESISTANCE IN ASPHALT CONCRETE   
+ 
+MOISE LOKORTO AMULE   
+S21B32/036 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR PROJECT REPORT SUBMITTED TO THE FACULTY OF ENGINEERING, 
+DESIGN AND TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR 
+THE AWARD OF A BACHELOR OF SCIENCE DEGREE IN CIVIL AND ENVIRONMENTAL 
+ENGINEERING AT UGANDA CHRISTIAN UNIVERSITY  
+April, 2025 
+ 
+ 
+ 
+ 
+
+I
+ABSTRACT
+Worldwide flexible pavements are mainly constructed with aggregates,
+bitumen and filler. This study aims to assess the use of Calcined quarzite
+dust (CQD) to enhance rut resistance in the asphalt concrete. The methods
+used were mechanical,physical, chemical to determine the engineering
+properties of aggregate, bitumen and filler used in this study; also Marshall
+test was conducted, as well as the Indirect tensile Strength (ITS) in relation
+with the Wheel Tracking Tests (WTT) to assess the performance on the
+asphalt mixture. Various tests were done during the study, various factors
+such as stability, flow, air voids,voids filled with binder (VFB), and voids in
+the mineral aggregate (VMA) were evaluated. The study was conducted with
+CDQ percentage variation of 2%, 4% and 6% and 4.4% optimum bitumen
+content was obtained from the neat asphalt.
+The results of the study showed that the use of Calcined quarzite dust led
+to an increase in Marshall stability from 15kN to 21.1 kN, increased Indirect
+Tensile Strength Strength ratio from 82% to 88%, ITS dry from 900.2kPa to
+1,130.6kPa and ITS wet from 740kPa to 990kPa. With relation to wheel
+tracking tests the ITS value greater than 800kPa expect less than 10mm
+rutting depth for a 20,000 cycles passes. This study therefore shows that
+asphalt mixes with 4.5% CQD in the asphalt mixture can be used as a means
+to enhance the stability and stiffness.
+
+II
+DECLARATION
+I, AMULE LOKORTO MOISE REG NO: S21B32/036, hereby declare that this is
+my original work, is not plagiarized and has not been submitted to any other
+institution for any award.
+AMULE LOKORTO MOISE
+
+III
+APPROVAL
+This research and design project report has been submitted for examination
+with my Approval as the university supervisor.
+NAME: Dr. MORRIS OLENG
+DATE:………………………………………..
+SIGNATURE:………………………………..
+
+IV
+ACKNOWLEDGEMENTS
+Appreciation is extended to the Lord for His guidance throughout my
+academic years at the university and during research process. I would like to
+thank my parents for their support and all the lecturers in the department
+of Civil Engineering and Environment for sharing knowledge and skills to us
+which have enabled me to submit this research successfully. Special thanks
+go to my supervisor, Dr. Moris Oleng for his guidance and encouragement
+throughout this research project and report writing. I would like to thank
+my project partner Gonza Edgar for his support throughout this process. May
+the Lord continue to bless each of you.
+
+V
+TABLE OF CONTENTS
+ABSTRACT ................................................................................ I
+DECLARATION ........................................................................... II
+APPROVAL .............................................................................. III
+ACKNOWLEDGEMENTS ................................................................ IV
+LIST OF ACRONYMS AND ABBREVIATIONS .........................................XIV
+CHAPTER ONE: INTRODUCTION .......................................................1
+1.1 BACKGROUND ................................................................. 1
+1.2 PROBLEM STATEMENT ........................................................3
+1.3 MAIN OBJECTIVE .............................................................. 3
+1.4 SPECIFIC OBJECTIVES ........................................................ 3
+1.5 RESEARCH QUESTIONS ....................................................... 4
+1.6 JUSTIFICATION ................................................................ 4
+1.7 GEOGRAPHICAL SCOPE OF STUDY .......................................... 5
+CHAPTER TWO: LITERATURE REVIEW ................................................6
+2.1 Introduction ................................................................... 6
+2.2 Types of Road Pavements ................................................... 6
+a) Rigid Pavement ............................................................6
+b) Flexible Pavement ........................................................ 6
+2.3 TYPES OF ASPHALT CONCRETE ............................................. 7
+
+VI
+1. Hot Mix Asphalt (HMA) ................................................... 7
+2. Warm Mix Asphalt (WMA) ................................................ 7
+3. Cold Mix Asphalt (CMA) ...................................................7
+2.4 Types of failure in the flexible asphalt ................................... 8
+2.5 Components of Flexible Pavement .........................................8
+2.6 Process of flexible pavement design ......................................9
+1. Estimating design traffic loading ....................................... 9
+1. Determining subgrade strength ......................................... 9
+2.7 Construction Materials used in the Surfacing Layer ................... 10
+2.7.1. Bitumen .............................................................. 10
+Test references: ASTM D 5-86. ............................................11
+2.7.2 Aggregate ............................................................. 12
+2.7.3 FILLER .................................................................15
+A. Function of Filler ........................................................ 15
+B. Chemical testing of filler material ....................................16
+2.7.4 Marshall Test..........................................................16
+2.7.6 Indirect Tensile Strength Test ......................................17
+CHAPTER THREE: METHODOLOGY .................................................. 18
+3.1 INTRODUCTION .............................................................. 18
+3.2 Material acquisition and preparation .................................... 18
+
+VII
+3.2 Testes required ..............................................................18
+1. Aggregate Crushing Value (ACV) ....................................... 18
+2. Aggregate Impact Value (AIV) .......................................... 20
+3. Ten Percent Fine Value (TFV) ......................................... 21
+4. Flakiness Index (FI) ......................................................22
+5. Los Angeles Abrasion test value (LAAV) ............................... 23
+6. Soundness of Aggregates by use of Sodium Sulphate ...............24
+7. Marshall Mix Design ......................................................24
+8. Indirect Tensile Strength Test ..........................................26
+CHAPTER FOUR: RESULTS AND DISCUSSION .......................................28
+4.1 Introduction ..................................................................28
+4.2 Chemical Composition of Filler ........................................... 28
+4.3 Specific Gravity of the Filler .............................................. 30
+4.4 Aggregate Crushing Value Test Results (ACV) .......................... 31
+4.5 Aggregate Impact Value Test Results (AIV) ............................. 31
+4.6 Los angels abrasion value .................................................. 32
+4.7 Ten Percent Fine Value Test Results .....................................34
+4.8 Combined specific gravity of aggregates and water absoption results36
+4.9 Flakiness Index result .......................................................37
+4. 10 Bitumen Tests results ....................................................38
+
+VIII
+4.11 Job Mix Formula Test Results ............................................ 40
+4.12 Marshall Mix design to Determine Optimum Bitumen Content ..... 42
+4.13 Asphalt Design Mix Proportion for AC 20 ............................... 44
+4.14 Performance Tests for Asphalt .......................................... 45
+4.15 Indirect Tensile Strength (ITS) ...........................................49
+4.16 Wheel Tracking Test. ..................................................... 50
+1. The Relationship Between Wheel Tracking Performance and ITS 50
+2. Practical Implications and Research Gaps ........................... 50
+3. Conclusion. ............................................................... 51
+4. Engineering drawing of typical flexible pavement ................. 52
+5. Road layer design ........................................................53
+CHAPTER FIVE : CONCLUSION AND RECOMMENDATIONS ........................ 59
+5.1. Conclusion ...................................................................59
+5.2 Recommendations ...........................................................60
+5.2.1 Recommendations based on Conclusion ..........................60
+5.2.2 Recommendations for Future Studies ............................ 60
+REFERENCE .............................................................................62
+APPENDICES ............................................................................66
+APPENDIX ...............................................................................70
+
+IX
+APPENDIX A: Physical and mechanical properties of Bitumen and
+Aggregates. ....................................................................... 70
+APPENDIX B: X-ray fluorescence (XRF) test results of quartzite dust. ...77
+APPENDIX C: Marshall and Indirect tensile strength test results (ITS) ...79
+
+X
+LIST OF TABLES
+Table 1 Subgrade Class Designation (MoWT, 2010). ....................... 10
+Table 2 Penetration variation (ASTM,2019). ................................11
+Table 3 Test precision (ASTM,2019). .........................................11
+Table 4 Test precision (ASTM,2019). .........................................12
+Table 5 Standard limit for aggregate test according to BS ...............15
+Table 6 Specific Gravity of Filler ............................................. 30
+Table 7 Aggregate Crushing Value Test result. .............................31
+Table 8 Aggregate Impact Value Test Results .............................. 31
+Table 9 Los Angeles abrasion value result. ................................. 33
+Table 10
+TFV results. .......................................................... 34
+Table 11 TFV soaked result. ...................................................35
+Table 12 Combined specific gravity of aggregates and water absorption
+results ........................................................................ 36
+Table 13 Flakiness Index result ............................................... 37
+Table 14 Bitumen Tests results ............................................... 38
+Table 15 AC 20 individual gradation ......................................... 40
+Table 16 Performance of different bitumen percentages ................ 42
+
+XI
+Table 17 Asphalt design mix. for AC 20 ..................................... 44
+Table 18 Summary of Marshall Mix Results ..................................45
+Table 19 The Relationship Between Wheel Tracking Performance and
+ITS. ........................................................................... 51
+Table 20 Given road surveying data ..........................................53
+Table 21 Axle load distribution ............................................... 53
+Table 22 Traffic class obtained ............................................... 54
+Table 23 Table of the calculated required masses for each component57
+
+XII
+LIST OF FIGURES
+Figure 1 Chemical composition of Quartzite dust before calcination. . 28
+Figure 2 Chemical composition of Quartzite dust after calcination. ... 29
+Figure 3 Penetration test result .............................................. 38
+Figure 4 Softening point result. ...............................................39
+Figure 5 Specific Gravity of Bitumen ........................................ 39
+Figure 6 Combined Graduation Curve. .......................................41
+Figure 7 Marshall Stability and Density ...................................... 42
+Figure 8 Marshall Flow and Voids .............................................43
+Figure 9 Bitumen content achieved ..........................................43
+Figure 10 Marshall Stability ....................................................46
+Figure 11 Marshall Flow result ................................................ 46
+Figure 12 Air voids test result .................................................47
+Figure 13 VMA test result ...................................................... 48
+Figure 14 VFB test result .......................................................48
+Figure 15 ITS analysis ...........................................................49
+Figure 16 Typical Road Cross Section - ASPHALT CONCRETE-Size Layout53
+
+XIII
+LIST OF APPENDICES
+Image 1 Wet sieving for grading ............................................. 66
+Image 2 Quartzite filler sieving ...............................................66
+Image 3 Marshall Mix preparation ............................................ 67
+Image 4 The Marshall sample mixed homogeneously .................... 67
+Image 5 Bitumen Penetration test ........................................... 67
+Image 6 Sample preparation for compaction .............................. 67
+Image 7 Temperature monitoring before compaction .................... 68
+Image 8 Sample after compaction ............................................68
+Image 9 Maximum Specific Gravity test (Gmm) ............................ 68
+Image 10 Stability and Flow tests ............................................ 69
+
+XIV
+LIST OF ACRONYMS AND ABBREVIATIONS
+ACV
+Aggregate Crushing Value
+AASHTO
+American Association of the State Highway and
+Transportation Officials
+AIV
+Aggregate Impact Value
+ASTM
+American Society for Testing Materials
+BS
+British Standard
+CQD
+Calcined Quarzite Dust
+CMA
+VMA
+Cold Mix Asphalt
+Voids in Mineral Aggregate
+CML
+Central Material Laboratory
+Gmm
+Theoretical Maximum Specific Gravity
+MoWT
+Ministry of Works and Transport
+OBC
+Optimum Bitumen Content
+ITS
+Indirect Tensile Strength
+HMA
+Hot mix asphalt
+WMA
+Warm Mix Asphalt
+WTT
+Wheel Tracking Tests
+XRF
+X-Ray Fluorescence
+
+1
+CHAPTER ONE: INTRODUCTION
+1.1 BACKGROUND
+As the traffic in the country increases, the demands for major improvement in
+road construction and infrastructure because of the increasing findings. Road
+pavements
+are
+divided
+into
+two
+categories
+in
+the
+world
+of
+highway
+engineering: flexible pavements and rigid pavements. The use of Portland
+cement is for making rigid pavements, while bitumen and aggregates are used
+to create flexible pavements. A mixture of bitumen, aggregates, mineral
+fillers, and additives forms asphalt concrete. Because of its flexibility and
+capacity to function in various applications, asphalt concrete is frequently
+used in road pavement construction (Asphalt Institute, 2021).
+Asphalt concrete is prepared in three known methods, including Hot Mix
+Asphalt (HMA), Warm Mix Asphalt, and Cold Mix Asphalt, with the choice often
+influenced by geographical and climatic factors. For instance, HMA is the most
+used, providing a safe, durable, and comfortable surface for road users.
+Flexible pavement roads are primary constructed in Uganda due to their
+ability
+to
+deform
+and
+move
+slightly
+under
+heavy
+traffic
+loads
+and
+environmental changes. However, flexible pavements with asphalt concrete
+can experience several types of challenges such as rutting, cracking, shoving,
+thermal fatigue, distresses or failure over time.
+Pavement is a conglomeration of materials. These materials, their associated
+properties, and their interactions determine the strength of the pavement,
+therefore their properties should meet the specifications. Material properties
+such as aggregate gradation, binder grade, binder content, and air void
+content are mainly concerned. Specifics of loading include tire pressure,
+contact area, load magnitude, and surrounding factors like temperature. To
+achieve the desired pavement performance, these parameters must be
+
+2
+properly incorporated into the design of the asphalt mixture (Pavement
+Interactive, 2021).
+A few years after the reconstruction of the Kampala - Jinja road in
+Bweyogerere at chainage 5+820, rutting reoccurred, which can result in higher
+maintenance
+costs
+and
+financial
+strains.
+Because
+maintenance
+and
+reconstruction before its design life becomes expensive, these crises can have
+a major effect on a country's economy (IMF, 2024).
+Several research have been focused on assessing the performance of the
+flexible pavement by replacing or partially replacing its mixtures to overcome
+these problems. To enhance the qualities of bitumen and aggregates, a
+variety of fillers such as granite powder, limestone powder, Ordinary Portland
+Cement, and numerous agricultural byproducts like Rice Husk Ash and Coconut
+Shell Ash, have been explored (Zhang et al., 2020). Furthermore, adding
+plastic elements like polyvinyl chloride and low-density polyethylene has
+shown improving the mechanistic properties of asphalt mixtures. Particularly,
+calcined quartzite dust has been recognized for its capacity for enhancing
+overall durability, improve heat resistance, and improve moisture resistance
+(Smith et al., 2021).
+The purpose of this study is to evaluate how calcined quartzite dust can
+increase flexible pavement’s resistance to rutting.
+
+3
+1.2 PROBLEM STATEMENT
+Rutting is one of the common problems with flexible pavements, especially in
+area with slow traffic flow, such climbing lanes and intersections (Chilukwa,
+2019). This happens when the bituminous binder softens as a result of the
+pavement's high temperature, making it less able to withstand the shear stress
+from the traffic load.
+Rutting is the results from rapid shear displacement
+along the wheel path, this caused
+by a various factors, such as poor mix
+design with avoid less than 3% of air voids reducing contact surface area,
+inadequate compaction and large axle loads in high traffic volumes; rutting is
+also caused by incompatibility or use of expired filler material case of
+hydrated lime.
+For
+instance,
+rutting
+was
+observed
+along
+Kampala-Jinja
+highway
+in
+Bweyogerere at chainage 5+820. (Kyamuwendo, 2021). Despite that in 2022
+the reconstruction of the road by Energo Projekt company, early deformation
+reoccurred.
+The objective of this study is to improve the asphalt properties and its
+performance by employing calcined quartzite dust as a filler. This method
+attempts to mitigate the pavement's resistance to rutting by improving its
+thermal stability and shear deformation from traffic load.
+1.3 MAIN OBJECTIVE
+To Assess the use of calcined quartzite dust as a filler to enhance rutting
+resistance in asphalt concrete.
+1.4 SPECIFIC OBJECTIVES
+1. To determine the physical and mechanical and chemical properties of
+calcined quartzite dust, aggregates and bitumen.
+2. To determine the optimum filler and bitumen content mix design of the
+asphalt concrete.
+
+4
+3. To determine the performance of asphalt concrete incorporated with
+calcined quartzite dust.
+1.5 RESEARCH QUESTIONS
+1. What
+are
+the
+properties
+of
+Calcined
+Quartzite
+dust,
+bitumen
+and
+aggregates?
+2. What is the Optimum Bitumen Content of Asphalt Concrete to achieve the
+desired performance?
+3. What are the properties of Asphalt Concrete incorporated with Calcined
+Quartzite dust compared to asphalt concrete without calcined quartzite dust.
+1.6 JUSTIFICATION
+Calcined Quartzite dust (CQD) is a by-product generated from the processing
+of the quartzite rock dust, consisting mainly of silica content with about 85-
+95% of Silicon dioxide (SiO2) content and other minerals such as Aluminum
+oxide (Al2O3) 2-5%, Iron oxide (Fe2O3) 1-3% and Calcium oxide (Sun, Y., Zhao,
+Y., Qiu, J. et al. 2022). research have demonstrated that silica content in the
+aspahalt
+concrete
+can
+improves
+bitumen
+and
+aggregate
+adhesion,
+this
+increases rutting resistance and fatigue cracks in the pavement by lowering
+the asphalt binder's temperature weakness.
+Furthermore, due to its larger specific surface area, CQD filler improve the
+interaction of aggregate particles and asphalt binder. These properties are
+vital for the pavement's overall performance and longevity since they improve
+the load distribution and decreased deformation under traffic loads (Smith et
+al. 2021).
+Furthermore, calcined quartzite dust’s thermal stability makes it a better
+alternative to conventional fillers because it tolerates rising of temperatures
+without compromising the integrity of the pavement; which is useful in areas
+
+5
+or
+regions
+with
+significant
+temperature
+fluctuations
+where
+pavement
+performance is essential (Johnson and Lee, 2019). Therefore, the exploration
+of CQD as a filler in asphalt concrete mixtures presents a promising future for
+enhancing the performance and sustainability of flexible pavements.
+1.7 GEOGRAPHICAL SCOPE OF STUDY
+The area of study is in Bweyogerere chainage 5+820, reference marked on the
+road along the Kampala - jinja highway.
+
+6
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Introduction
+Roads provide various services for moving people and goods from one place to
+another. Road pavement is that mixture of aggregate, binder ( bitumen or
+cement), and filler to make concrete which is laid on the road surface. In
+Highway Engineering, there are two types of road pavements commonly
+recognized; flexible pavements and rigid pavements.
+Flexible pavements are constructed with bitumious materials like asphalt
+concrete. Portland Cement Concrete is used in rigid pavement making . In
+Uganda most roads are surfaced using flexible pavement.
+2.2 Types of Road Pavements
+a) Rigid Pavement
+These pavements are made of Portland Cement Concrete, Compared to
+flexible pavement rigid pavements rely on their sufficient flexural strength to
+transfer the wheel load, functions as stiff slab (Papagiannakis and Masad,
+2024). They are placed either directly on the prepared sub-grade or on a
+single layer of granular or stabilized material. Since there is only one layer of
+material between the concrete and the sub-grade, this layer can be called as
+base or sub-base course (Tom & Rao, 2007). the rigid pavement is the most
+preferred in high traffic regions such as major highways, due to their
+durability and resistance to deformation (Mallick and Tahar El-Korchi, 2008).
+b) Flexible Pavement
+These pavements are rather flexible in their structural action under loading.
+Consist of asphalt concrete, flexible pavements
+are composed of layered
+systems, including surface, base and subbase layer. The flexible pavements
+are the most constructed type of road in the word (Qiao, Y., Dawson,et all,
+
+7
+2020),due to their ability to varying subgrade conditions, and throughout
+theirs service life, they are design to withstand high traffic loads, changing
+environmental conditions and deteriorate.
+2.3 TYPES OF ASPHALT CONCRETE
+1. Hot Mix Asphalt (HMA)
+This type of mix is composed of aggregate and a viscous binding agent, and is
+produced at a temperature range of about 149 - 177°C.
+There are typically
+three subcategories of HMA: Dense-graded mixes, stone matrix asphalt, and
+open-grade mixes. Dense-graded mixes are often used in high traffic road due
+to their durability. This mix contains more asphalt cement, while also adding
+binders and fibers to the mix (Wolf, Sean. 2014).
+2. Warm Mix Asphalt (WMA)
+This mix is produced at a temperature range from 10-38°C less than a batch of
+HMA. There are multiple WMA technologies used in the United States, which
+include foaming effect, organic additive, and chemical package. The foaming
+effect
+is
+used
+to
+increase
+workability.
+Water
+is
+added
+to
+lower
+the
+temperature and causes the volume of the asphalt binder to expand, which
+results in the foam. The organic additive improves the flow by reducing the
+asphalt viscosity and is used to avoid permanent deformation (Wolf, Sean.
+2014).
+3. Cold Mix Asphalt (CMA)
+It is generally a blend mix with emulsified or cutback asphalt. Emulsified
+asphalts may be anionic or cationic, available in MS or SS grades. The
+aggregate component can rage from a dense-graded crushed aggregate to a
+granular soil having a relatively high percentage of dust.
+
+8
+2.4 Types of failure in the flexible asphalt
+The the primary issues with flexible pavement failures include:
+Fatigue cracking: results from horizontal tensile strain at the pavement
+bottom.
+Rutting: is the indicator of permanent deformation or rut depth along wheel
+load path.
+Thermal cracking: includes both low-temperature cracking and thermal
+fatigue cracking.
+2.5 Components of Flexible Pavement
+Typically, flexible pavement includes a seal coat, surface course, tack coat,
+binder course, prime coat, base course, sub-base course, compacted sub-
+grade, and natural Subgrade (Aalim M, 2020).
+Seal Coat: is a thin surface treatment used to water-proof the surface and to
+provide skid resistance to a pavement.
+Prime coat: is an application of viscous cutback bitumen to an absorbent
+surface like granular bases on which the asphalt concrete layer is placed. It
+provides bonding between two layers. prime coat penetrates into the layer
+below the treated layer, filling the voids, and water-proof surface.
+Surface course: is the directly layer in contact with traffic loads, they are
+usually constructed with dense graded asphalt concrete(AC). It provides
+friction, smoothness, safe driving surface to the users, etc. Also it will prevent
+water infiltration into the underlying layers. It must be tough to resist the
+distortion under traffic and provide a smooth and skid resistant riding surface,
+and must be waterproof to protect the entire base and subgrade from the
+weakening effect of water (Nouman, M., Maqbool, Z., Ali, S., & Saleem, A.
+2021).
+
+9
+Binder course: is a layer below surface course, helps to distribute load to the
+base course.
+Base course:
+is the road layer of material immediately below the binder
+course and it provides additional load distribution and contributes to the sub-
+surface drainage It may be composed of crushed stone, crushed slag, treated
+and untreated or stabilized materials.
+SubBase: This is the layer below the base course, it provides structural
+support, improve drainage, and reduce the intrusion of fines from the sub-
+grade.
+Subgrade: this is a layer below subbase consist of natural soil prepared and
+compacted to stand the stresses from the layers above. It is essential that the
+soil sub-grade is not over stressed. The compaction is done to the desirable
+density, near the optimum moisture content.
+2.6 Process of flexible pavement design
+1. Estimating design traffic loading
+The design life is the period during which the road is expected to carry traffic
+at a satisfactory level of service, without requiring major rehabilitation or
+repair work. It is implicit, however, that certain maintenance work will be
+carried out throughout this period in order to meet the expected design life.
+This process involves: Design traffic loading, design traffic class, probability
+distribution of traffic, axle and wheel load distribution (MoWT, 2010).
+1. Determining subgrade strength
+The subgrade strength is the other most important factor, apart from traffic
+loading, which governs the pavement structural configuration. It is assumed in
+this guide that the first stages of determining nominally uniform sections in
+terms of subgrade condition will have been undertaken. This can be based on
+geological and soil property assessments,
+the subgrade of the soil can be
+
+10
+assessed by insitu test of Dynamic Cone Penetrometer (DCP) test or laboratory
+testing for CBR. The DCP testing accordance to the BS 1377 : Part 4 : 1990 to
+determine the Califoria Bearing Ration (CBR) of the soil. Therefore
+helps to
+determine the subgrade class (MoWT, 2010).
+Subgrade Class Designation
+Subgrade
+CBR
+ranges (%)
+S1
+S2
+S3
+S4
+S5
+S6
+2
+3-4
+5-7
+8-14
+15-29
+30+
+Table 1 Subgrade Class Designation (MoWT, 2010).
+2.7 Construction Materials used in the Surfacing Layer
+The surfacing layer comprises of two different layers, which are the wearing
+course and binder course having different gradation characteristics and
+thicknesses respectively. They are constructed with Asphalt Concrete.
+Asphalt concrete (AC) is a heterogeneous material that consists of bitumen
+(binder), natural or artificial aggregate, mineral filler, additives and air voids.
+Asphalt concrete is widely used as a pavement construction material (Hunter,
+2014).
+2.7.1. Bitumen
+The American Society for Testing and Materials (ASTM) defines bitumen as a
+generic class of amorphous, dark colored, cementitious substances, natural or
+manufactured, composed principally of high molecular mass hydrocarbons,
+soluble in carbon di-sulphide (ASTM D8-83, 1984).
+
+11
+The bitumen is derived from two sources from petroleum crude oil and the
+second
+category
+from
+the
+natural
+asphalt
+deposits
+(Bag).
+bitumen
+is
+characterized by:
+1. Penetration of Bituminous Materials
+Test references: ASTM D 5-86.
+The penetration test is used to measure consistency of bituminous materials
+expressed as the distance in tenths of a millimeter that a standard needle
+vertically penetrates a sample of the material under known conditions of
+loading, loading time and temperature (ASTM,2019).
+Table 2 Penetration variation (ASTM,2019).
+2. Softening Point Test
+Test references: ASTM D 36-70
+The softening point test is used to measure and specify the temperature
+at which bituminous binders begin to show fluidity. The softening point is
+also helps in evaluating the uniformity of shipments and sources of supply.
+The softening point is also an indicative of the tendency of the material to
+flow at elevated temperatures encountered in service (ASTM,2019).
+One operator
+Two laboratories
+1.1°C
+2.0°C
+Table 3 Test precision (ASTM,2019).
+
+12
+3. Density of Bituminous Binders
+Test references: ASTM D70-97
+The objective of this method is to determine the relative density and density of
+semi-solid bituminous materials such as bitumen (ASTM,2019).
+Test precision
+Duplicate determinations of relative density shall not be considered suspect
+only if they differ by more than the limits given in table.
+One operator
+Two laboratories
+Relative
+density
+0.002
+0.005
+Table 4 Test precision (ASTM,2019).
+2.7.2 Aggregate
+Aggregates are granular materials such as, gravel and crushed stone that are
+used in construction to produce concrete or for flexible pavement mixture.we
+have many types of aggregate such as grinite, marble, etc.
+For the flexible pavement mixture the selection of aggregate plays a key role
+in its performance, specific tests such as Aggregate Crushing Value (ACV),
+Aggregate Impact Value (AIV), Ten Percent Fines Value (TFV), Soundness,
+Flakiness
+Index
+are
+required,
+following
+the
+required
+standards
+and
+specifications according to the (MoWT 2010). in Uganda.
+1. Aggregate Crushing Value (ACV)
+Test reference: BS 812: Part 110: 1990
+ACV is a measure of the resistance of an aggregate to crushing under gradually
+applied compressive load (CML, 2000).
+
+13
+Objective
+To measure the resistance of aggregates to crushing under a gradually applied
+load. Weak aggregates could potentially compromise the integrity of the
+pavement structure.
+2. Aggregate Impact Value (AIV)
+Test reference: BS812: Part 112: 1990.
+Aggregate Impact Value is a measure of the resistance of an aggregate to
+sudden sock or impact. It is used in the construction and civil engineering
+industry to assess the quality and suitability of aggregates for use in road
+construction and other structural applications (CML, 2000).
+Objective
+To measure the resistance of aggregates to a sudden impact or shock. This is
+crucial for aggregates used in road construction as they are constantly
+subjected to impacts from moving vehicles.
+3. Ten Percent Fine Value (TFV)
+Test reference: BS 812: Part 111: 1990.
+To
+measure
+the
+resistance
+of
+aggregates
+against
+a
+gradually
+applied
+compressive load. This test provides a measure of the strength of the
+aggregate and is particularly useful for evaluating the suitability of aggregates
+for use in road construction and other structural applications. The TFV was
+intended to determine the load necessary to crush a prepared aggregate
+sample to yield 10% of material passing a specified sieve after crushing (CML,
+2000).
+
+14
+4. Flakiness Index
+Test reference: BS 812-P105:1-1989
+The Flakiness Index of a an aggregate sample is found by separating the flaky
+particles and expressing their mass as a percentage of the mass of the sample.
+The test is applicable to material passing a 63 mm sieve and retained on a 6.3
+mm sieve (CML, 2000).
+The Flaky particles were considered undesirable since they could be weak by
+nature and break easily under strong loads, especially when used as base
+course and in coarse aggregates. When an aggregate's thickness was less than
+60% of the average sieve size, it was categorized as flaky.
+5. Los angeles abrasion test
+Test reference: BS 812: Part 111:1990.
+To measure the resistance of aggregates to wearing or abrasion. It can also be
+to determine the hardness of the aggregates. It evaluates the toughness and
+abrasion resistance of aggregate materials which is crucial for determining
+their suitability for use in road in constructions particularly in wearing
+surfaces where high resistance to wear and tear is required (CML, 2000).
+6. Soundness of Aggregates by use of Sodium Sulphate
+Test references: ASTM C 88 - 90
+The objective of this test is to provide a preliminary estimate of the
+soundness of aggregates subject to weathering action for use in concrete
+and road pavements. The Soundness test by use of Sodium Sulphate
+covers the testing of aggregates to estimate their soundness when
+subjected to weathering (ASTM,2019).
+
+15
+The following is the standard required for theses tests
+ACV
+< 45%
+AIV
+< 25%
+TFV DRY AND WET
+> 110 KN
+FLAKINESS INDEX
+< 25%
+LAAV
+< 30%
+SOUNDNESS
+< 12%
+SPECIFIC GRAVITY
+2.5-2.9
+Table 5 Standard limit for aggregate test according to BS
+2.7.3 FILLER
+Fillers are fine materials with particle sizes under 0.075mm. They can come
+from natural sources, like crushed rock fines, or be added materials such as
+cement, lime, or ground rock. Natural fillers come from crushed rocks, while
+manufactured fillers include hydrated lime, cement, ash, or slag. Higher filler
+content increases brittleness and the likelihood of cracking during use.
+A. Function of Filler
+As a result, the asphalt mixture pavement should be resistant to water and
+frost, pavement deformations, fatigue cracks and and temperature resistance
+so the filler help in the
+Filling the voids in the aggregate to create a denser mixture increasing in the
+resistance and durability,also facilitate asphalt binder to interact with
+aggregates and the stability of the mixture.
+
+16
+B. Chemical testing of filler material
+B.1 X-Ray Fluorescence
+Test reference: ASTM E1621-22
+This method is suitable for providing data on the chemical composition of
+filler
+material.
+It
+is
+intended
+for
+routine
+production
+control
+and
+for
+determination of chemical composition for the purpose of certifying material
+specification compliance (ASTM,2019). The method aimed to determine the
+chemical composition of the Lime Kiln Dust mineral filler.
+B.2 sieve analysis
+Test reference: ASTM D546-1
+The method is used to determine compliance of mineral fillers with the
+grading requirements of Specification D242 (ASTM,2019).
+2.7.4 Marshall Test
+References: ASTM D 1559-89
+The Marshall test is use to evaluate the physical properties of asphalt
+specimens related to plastic deformation properties of asphalt mixes.
+Main principles
+The Marshall test is used with bitumen or bitumen cutback where the
+maximum aggregate size is 25.4 mm or less. Asphalt specimens are
+loaded on their cylindrical side-edges with a Marshall loading head at
+specified loading rate and temperature. The resistance against plastic
+flow is measured (CML, 2000).
+
+17
+2.7.6 Indirect Tensile Strength Test
+Test references: ASTM D3967
+The test procedure is used to determine the indirect tensile strength and
+E- modulus of asphalt concrete. The results can be used to evaluate the
+relative quality/strength of materials as well as in pavement design,
+evaluation and analysis.
+Required equipment
+Testing machine, typically Marshall type test apparatus (loading speed
+of 2” / minute), an indirect tensile stress loading frame, water bath
+accurate to 1.0 °C
+In the middle of each plate is a loading strip. These should be at least be
+of the same length as the test specimen height. The width of the loading
+strips should be 12.7 mm, with the same curvature as the test specimen.
+
+18
+CHAPTER THREE: METHODOLOGY
+3.1 INTRODUCTION
+This chapter details the different experiments and techniques that were
+carried out while tackling the different objectives of this study that is to say
+chemical composition of CQD, its performance in asphalt concrete and
+carrying out a mix design for the optimum percentage usage of CQD filler
+material.
+It
+constitutes
+detailed
+information
+about
+sample
+collection,
+preparation,
+mix
+design
+and
+different
+tests
+that
+were
+carried
+out.
+Experimental Research was carried out at stirling Civil engineering Limited
+and Makerere Geology department to achieve the desired specific objectives
+of this research study.
+3.2 Material acquisition and preparation
+The Quartzite rock Dust used in this research was obtained from Jomayi
+Stones Limited located in Seeta. The Quartzite Rock Dust was then placed in 2
+sacks and transported to Stirling Civil Engineering Ltd where it was crushed to
+powder using a LAAV machine to obtain smaller sizes passing throught sieve
+600 and 300 micrometer. The quartzite rock dust was then taken to Makerere
+University Department of Geology and Petrolium studies to be calcined. The
+dust was placed in an electric kiln at temperatures ranging between 8000C to
+10000C for two hours to obtain CQD. The XFR test was carried on non calcined
+and calcined material.
+3.2 Testes required
+1. Aggregate Crushing Value (ACV)
+I.
+Main principals
+ACV is determined by measuring the material passing a specified
+sieve, then crushed under a load of 400 kN. The test is suitable to
+
+19
+fraction aggregates passing a 14 mm sieve and retained on a 10 mm
+sieve. The method is not suitable for testing soft aggregates expected
+with ACV higher than 30 (CML, 2000).
+II.
+Test Procedure
+The cylinder of the test apparatus is placed in position on the base-
+plate,place a third of test specimen, each third being compacted by 25
+strokes of the tamping rod evenly distributed over the surface of the
+layer. The apparatus with the specimen and plunger were placed in
+position, between the platens of the compression testing machine.; an
+applied force of 400kN at a uniform rate for about 10 min.
+Weigh the tray and the aggregate and record the mass of
+aggregate used (M1) to the nearest 1 g.
+The whole specimen were Sieved on the 2.36 mm sieve until no
+further significant amount passes. Weigh and record the masses of the
+fraction passing and retained on the sieve to the nearest 1 g (M2 + M3
+respectively). If the total mass (M2 + M3) differs from the initial mass
+(M1) by more than 10 g, the it requested to discard the result and test a
+further specimen.
+III. Calculations
+To calculate the ACV expressed as a percentage to the first decimal
+place for each test specimen from the following equation:
+���=
+��
+��× �00
+Where
+M1is the mass of the test specimen (in g)
+M2 is the mass of the material passing the 2.36 mm sieve (in g)
+
+20
+2. Aggregate Impact Value (AIV)
+I.
+Main Principles
+The test can be performed in either in dry or in a soaked condition. The test is
+applicable to a standard fraction aggregates passing a 14 mm sieve and
+retained on a 10 mm sieve (CML, 2000).
+II.
+Test Procedures
+Dry condition
+Fix the cup of the specimen in position and place the test specimen in
+it and compact by 25 strokes of the tamping rod, the sample is place
+under the hammer which fall freely on to the aggregate to achieve a
+total of 15 blows.
+The crushed aggregate were removed and poured on a tray, the
+weighing of the tray and the aggregate specimen and record the mass
+of aggregate used (Ml) to the nearest 0.1 g.
+Sieve the whole specimen in the tray on the 2.36 mm sieve until no
+further significant amount passes. Weigh and record the masses of the
+fraction passing and retained on the sieve to the nearest 0.1 g (M2 +
+M3 respectively). If the total mass (M2 + M3) differs from the initial
+mass Ml by more than 1 g, the sample is also discard and requist for
+further tests.
+Soaked Condition
+Same apply as in dry condition, except that the number of blows of the
+hammer is the number of blows that yield between 5 % and 20 % fines, and 15
+blows were also used.
+
+21
+The crushed specimen is removed from the cup and dry in the oven at a
+temperature of 105 ± 5oC for at least 12 hours. Allow the material to cool and
+weigh to the nearest 0.1 g and record the mass of the test specimen (Ml), the
+the procedure for recording the masses same as applied for dry condition.
+III. Calculations
+To calculate the AIV expressed as a percentage to the first decimal place
+for each test specimen from the following equation:
+���=
+��
+��× �00
+Where
+Ml is the mass of aggregates or mass of the oven-dried test specimen (in g)
+M2 is the mass of aggregates or mass of the oven-dried material passing the
+2.36 mm sieve (in g).
+3. Ten Percent Fine Value (TFV)
+I.
+Main Principles
+The 10 % Fines Value (TFV) is determined by measuring the load
+required to crush a prepared aggregate sample to give 10 % material
+passing a specified sieve after crushing usually sieve 14/10mm. The test
+is also known as the 10% Fines Aggregate Crushing Test 10 %. The test
+can be performed in both a dry condition and in a soaked condition (CML,
+2000).
+The test is applicable to both weak and strong aggregates. The TFV
+test resembles the determination of the ACV, which requires a force
+equal to 400 kN to be applied on the test sample.
+
+22
+II.
+Calculations
+To calculate the force F (in kN), to the nearest whole number, required
+to produce 10 % fines for each test specimen, from the following
+equation:
+���= ���
+�+ �
+Calculate the mean of the two results to the nearest 10 kN for forces of 100 kN
+or more, or to the nearest 5 kN for forces less than 100 kN.
+4. Flakiness Index (FI)
+I.
+Main Principles
+The Flakiness Index of an aggregate sample is found by separating the
+flaky particles and expressing their mass as a percentage of the mass of
+the sample. The test is applicable to material passing a 63 mm sieve
+and retained on a 6.3 mm sieve (CML, 2000).
+II.
+Test Procedure
+The first step is to carry out a sieve analysis using the sieves given in the CML, it
+is required to discard all aggregates retained on the 63 mm sieve and all
+aggregate passing the 6.3 mm sieve.
+Weigh each of the individual size-fractions retained on the sieves,
+and store them in trays with their size marked on the trays, from the
+sums of masses of the fractions in the trays (M1), then calculate the
+individual percentage retained on each of the various sieves. It is also
+required to discard any fraction whose mass is 5 % or less of mass M1
+record the mass remaining (M2). Combine and weigh all the particles
+passing each of the gauges. (M3)
+
+23
+III. Calculations
+The value of the Flakiness Index is calculated from the expression:
+��=
+��
+��× �00
+5. Los Angeles Abrasion test value (LAAV)
+I.
+Main Principles
+The Los Angeles test is a measures
+the degradation of mineral
+aggregates from a combination of actions including abrasion, impact
+and grinding in a rotating steel drum containing a specified number of
+steel spheres. As the drum rotates, a shelf plate picks up the sample
+and the steel spheres, carrying them around until they are dropped to
+the opposite side of the drum, creating an impact or crushing effect.
+The contents then roll within the drum with an abrading and grinding
+action until the shelf plate impacts and the cycle is repeated (CML,
+2000).
+After the prescribed revolution of 500 revolutions, with a speed of 30 to
+33 rpm; the contents are removed from the drum and the aggregate is
+sieved through 1.70mm sieve to measure the degradation as a percent
+loss.
+II.
+Calculations
+Express the loss which is difference between the original mass (m1) and
+the final mass (m2) of the test sample as a percentage of the original
+mass of the test sample, from the equation:
+LAA value =
+��−��
+��
+× 1 0 0 ( % )
+
+24
+6. Soundness of Aggregates by use of Sodium Sulphate
+I.
+Main Principles
+The Soundness test by use Sodium Sulphate to cover the testing of
+aggregates
+helps
+to
+estimate
+their
+soundness
+when
+subjected
+to
+weathering. This was done by repeated immersion in saturated solutions
+of sodium sulphate followed completely dehydrate the salt precipitated
+in permeable pore spaces. This test method provides information helping
+in judging the soundness of aggregates when adequate information is not
+available from service records of the material exposed to actual
+weathering conditions (CML, 2000).
+7. Marshall Mix Design
+I.
+Main priciples
+The results from Marshall Mix Design are often used to set up asphalt
+mix formulation and specifications (CML, 2000).
+The binder content is varied in steps of typically 0.5% around an assumed
+optimum binder content, for example it can vary from 2%, 2.5%, 3%,… etc.
+The optimum binder content is determined by which best complies with
+Marshall stability, flow, void content, voids filled with binder and density
+requirements for the mix being investigated (Asphalt Institute, 2015).
+The Marshall stability and flow test provides the performance prediction
+measure for the Marshall mix design method. The stability portion of the test
+measures the maximum load supported by the test specimen at a loading rate
+of 50.8 mm/minute. Load is applied to the specimen till failure, and the
+maximum load is designated as stability (ASTM,2019). During the loading, an
+attached dial gauge measures the specimen’s plastic flow (deformation) due
+to the loading. The flow value is recorded in 0.25 mm or 0.01¨ increments at
+
+25
+the same time when the maximum load is recorded (Transportation Research
+board, 2017).
+II.
+Test procedures
+A. Specimen preparation: Approximately 18,000g of bitumen, aggregates and
+filler is heated to a temperature of 175 −190oC but bitumen was heated to a
+temperature of 121 −125oC with the first trial percentage of bitumen (from
+3% to 5% by weight of the mineral aggregates). The heated aggregates and
+bitumen are thoroughly at a temperature for homogeneous mixture. The mix
+is placed in a preheated mould and compacted with rammer with 70 blows on
+either side at temperature of 138oC to 149oC.
+B. Bulk specific gravity of mix (Gm): is the specific gravity while considering
+the air voids in the mixture is find by: Gm =
+��
+��−��
+where, Wm is the weight of mix in air, Ww is the weight of mix in water, Note
+that Wm −Ww gives the volume of the mix.
+C. Air voids percent (Vv): Vv is the percent of air voids by volume in the
+specimen and is given by: Vv =
+(��−��)×���
+��
+where Gt is the theoretical specific gravity of the mix, and Gm is the bulk or
+actual specific gravity of the mix.
+D. Percent volume of bitumen (Vb): is the percent of volume of bitumen to
+the total volume and given by: Vb =
+��
+��
+��+��+��+��
+��
+where, W1 is the weight of coarse aggregate in the total mix, W2 is the weight
+of fine aggregate in the total mix, W3 is the weight of filler in the total mix,
+Wb is the weight of bitumen in the total mix, Gb is the apparent specific
+gravity of bitumen, and Gm is the bulk specific gravity.
+
+26
+E. Voids in mineral aggregate (VMA): is the volume of voids in the aggregates,
+and is the sum of air voids and volume of bitumen, and is calculated by
+VMA = Vv+Vb
+where, Vv is the percent air voids in the mix, and Vb is percent bitumen
+content in the mix.
+F. Voids filled with bitumen (VFB): is the voids in the mineral aggregate
+frame work filled with the bitumen, and is calculated as: VFB =
+��×���
+���
+where, Vb is percent bitumen content in the mix and VMA is the percent voids
+in the mineral aggregate.
+G. Determine Marshall stability and flow Marshall stability refers to the
+maximum load required to produce failure when the specimen is preheated to
+a prescribed temperature placed in a special test head and the load is applied
+at a constant strain (50mm per minute). While the stability test is in progress
+dial gauge is used to measure the vertical deformation of the specimen. The
+deformation at the failure point expressed in units mm is called the Marshall
+flow value of the specimen (Dr. Tom V. Mathew, 2009).
+8. Indirect Tensile Strength Test
+I.
+Main principles
+A load is applied on two diametrically opposite sides. This induces a
+tensile stress in the test specimen. The test is performed with a constant
+deformation speed until failure occurs,the test is done in dry and wet
+condition; the maximum load is recorded and is used to calculate the
+indirect tensile strength(CML, 2000).
+
+27
+II.
+Results
+Maximum load is recorded Newton, for the Calculations the indirect tensile
+strength is calculated by equation:
+Sₜ
+=
+(���.��× �ₐₓ
+(�× �)
+)
+Where:
+Sₜ
+= indirect tensile strength (kPa)
+Pmax = maximum load at failure (N)
+t = height of the specimen (mm)
+D = diameter of the specimen (mm)
+And the material’s E-modulus is calculated using the formula:
+Emod = 6.1 × S + 100 (MPa)
+Additional Calculation
+Calculate the specimen’s dry bulk density based on the registered dry mass
+and height/diameter measurements (mass/volume).
+
+28
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.1 Introduction
+This chapter presents in detail the results obtained from each of the tests
+carried out on the materials used for the experimental investigation, including
+quality control tests on the materials and the specimen. The results will be in
+the graphical representations and analysis showing relationship between the
+variables for each test objective carried out.
+Also covers discussion on the
+materials findings including the material behaviour under each test.
+4.2 Chemical Composition of Filler
+Various tests were conducted to examine the chemical and physical properties
+of Calcined Quartzite Dust.
+The chemical properties were determiner from
+XREF-Spectrometer analysis. The Department received sample to be analyzed
+for Al203, SiO2 and Fe2O. During analysis the sample was ground to fine powder
+(< 0.063mm), from which a pressed powder pellet was prepared and scanned
+using an XRF spectrometer (Epsilon 1) for Al203, SiO2 and Fe203, determination.
+The content is expressed in weight percentages (wt%) as shown in the figure 2 .
+Figure 1 Chemical composition of Quartzite dust before calcination.
+
+29
+Figure 2 Chemical composition of Quartzite dust after calcination.
+iron Increase: Fe203 rose from 0.57% to 1.1%, due to calcination concentrating
+iron by removing volatile components.
+Aluminum Decrease: Al20, dropped from 0.15% to 0.1%, due to their change in
+structure. And other elements or impurities such as SM203, CaO, and TiO2,
+were removed, during the calcination process; these impurities are removed
+to ensure the material stability is not compromised as they react with
+components such as water in nature.
+The chemical composition of the CQD shows about 98.8 % of SiO2, which has
+been shown to improve the adhesion and bonding between aggregates and
+bitumen in the asphalt as
+its increases the rutting
+resistance of asphalt
+mixture (None V. Udaya Bhanu and Rao, 2016).
+
+30
+4.3 Specific Gravity of the Filler
+Table 6 Specific Gravity of Filler
+The average value of specific gravity was 2.546 as shown in Table 6 which lies
+within the required standard range of 2.4 to 3.0 according to AASHTO T100-
+95(1995). This implied that this filler material was suitable to be used in the
+study.
+(A)
+Wt.
+OVEN
+dry
+sample
+(gm)
+484.32
+364.73
+(B) Wt. of Pycnometer containing
+water
+alone
+(gm)
+1805.22
+1769.65
+(C) Wt of Pyconometer
+containing Sample
+and water (gm)
+2095.58
+1993.87
+SPECIFIC
+GRAVITY
+OF
+FILLER
+)
+(
+C
+B
+A
+A
+
+
+2.497
+2.596
+AVERAGE
+2.546
+
+31
+4.4 Aggregate Crushing Value Test Results (ACV)
+Table 7 Aggregate Crushing Value Test result.
+The Aggregate Crushing Value In accordance with
+BS PART 110:1990
+which
+state that the A.C.V percent should be less than 30%. Table 12 shows an
+average percentage of 17.1%; this implies that the aggregates is strong enough
+to resist under crush or compressive loading making it suitable to be used in
+the asphalt mixture.
+4.5 Aggregate Impact Value Test Results (AIV)
+A.I.V
+(A) WT BEFORE TEST (gm)
+353
+345.5
+353.4
+(B) WT AFTER TEST (gm)
+352.5
+345.5
+353.4
+(C) WT RETAINED AFTER TEST (gm)
+297.3
+290.4
+295.9
+(D) WT PASSING SIEVE 2.36 mm
+55.2
+55.1
+57.5
+A.I.V(%) (D/B)*100
+15.7
+15.9
+16.3
+AVERAGE %
+16.0
+Table 8 Aggregate Impact Value Test Results
+A.C.V
+(A) WT BEFORE CRUSHING (gm)
+2756.4
+2754.5
+(B) WT AFTER CRUSHING (gm)
+2755.6
+2754.4
+(C) WT RETAINED AFTER CRUSHING (gm)
+2291.1
+2278.1
+(D) WT PASSING SIEVE 2.36 mm
+464.5
+476.3
+A.C.V(%) (D/B)*100
+16.9
+17.3
+AVERAGE RESULTS %
+17.1
+
+32
+As for the A.C.V, the A.I.V also should ranger with a percentage less than 30%
+according to BS 812PART 110:1990 specification. As shown in the table 13 the
+aggregate passed the test and implies that have strong resistance to the
+sudden shock therefore it is suitable to be used in the this study.
+4.6 Los angels abrasion value
+SIEVE SIZE
+Mass
+of
+indicated
+Sizes,g
+Grading
+Passing
+Retained
+on
+A
+12 balls
+B
+11balls
+C
+8 balls
+D
+6balls
+mm
+20
+10
+37.5 (1 1/2in)
+25.0
+(1
+in)
+1250
++
+25
+……
+……
+……
+25.0 (1 in)
+19.0 (3/4
+in)
+1250
++
+25
+……
+……
+……
+19.0 (3/4 in)
+12.5 (1/2
+in)
+1250
++
+10
+2500
++
+10
+……
+……
+12.5 (1/2 in)
+9.5
+(3/8
+in)
+1250
++
+10
+2500
++
+10
+……
+……
+9.5 (3/8 in)
+6.3
+(3/4
+in)
+…..
+…..
+2500 + 10
+……
+6.3 (3/4 in)
+4.75 (No.
+4)
+…..
+…..
+2501 + 10
+……
+4.75 (No. 4)
+2.36 (No.
+8)
+…..
+…..
+……
+5000 + 10
+
+33
+Table 9 Los Angeles abrasion value result.
+From the table above the value of ACV was 18.9 % which is below the required
+value of 30% this indicates that the aggregates are satisfactorily strong to
+resist wearing. The Los Angeles abrasion value evaluates aggregate hardness
+and resistance to wear; lower values indicate durable aggregates.
+TOTAL:……………………
+5000
++
+10
+5000
++
+10
+5000 + 10
+5000 + 10
+Speed
+of
+Rotation:
+33Rev/min. Max. 500 Rev.
+Max.Duration
+15 min
+Wt after crushing
+4,955.0
+GRADING USED FOR TEST:
+Wt of Mat. Retained on 1.7mm sieve :
+gm
+4,010.0
+Average:
+%
+18.9
+Wt
+of
+fine
+material
+_
+gm
+945.0
+Percentage
+of
+wear_
+%
+18.9
+Spec Req
+%
+
+34
+4.7 Ten Percent Fine Value Test Results
+Table 10 TFV results.
+10% FINE VALUE DRY
+Test no
+1
+2
+3
+crushing force (kn)
+250.6
+250.6
+wt. of aggreg (gm)after
+crushing (m1)
+2778.9
+2792.5
+wt. of aggreg. retained
+on sieve 2.36 mm (m3)
+2461.2
+2490.1
+wt.aggreg.(gm)
+passing
+sieve 2.36 mm (m2)
+317.7
+302.4
+ten
+%
+fine
+value
+(m=m2/m1*100)
+11.4
+10.8
+average results %
+(m)
+11.1
+average
+crushing
+force
+(f)
+250.6
+F=
+4
+14
+
+M
+F
+231.9
+DRY
+231.9
+KN
+
+35
+Table 11 TFV soaked result.
+The TFV Dry obtained was 231.9KN and the TFV Soaked was 210.1KN as shown
+in Table 15 and 16 with the maximum force applied to the aggregates of 250.5
+KN According to BS 812: Part 111:1990 specification, force of Ten Percent
+Fines Value wet/dry is greater than 75% , as it is indicate in the table the
+percent obtain was 91% which is greater than 75% required. Therefore, the
+aggregate was suitable to be use for this study.
+10% FINE VALUE SOAKED
+TEST NO
+1
+2
+3
+crushing force (kn)
+250.6
+250.6
+wt.
+of
+aggreg
+(gm)after
+crushing (m1)
+2767.7
+2743.5
+wt.
+of
+aggreg.
+retained
+on
+sieve 2.36 mm (m3)
+2425.6
+2385.9
+wt.aggreg.(gm) passing sieve
+2.36 mm (m2)
+342.1
+357.6
+ten
+%
+fine
+value
+(m=m2/m1*100)
+12.4
+13.0
+average results %
+(m)
+12.7
+average crushing force
+(f)
+250.6
+F =
+4
+14
+
+M
+F
+210.1 KN
+SOACKED
+WET/DRY(%)=
+91%
+SPEC >110
+SPEC >75%
+
+36
+4.8 Combined specific gravity of aggregates and water absoption results
+Table 12 Combined specific gravity of aggregates and water absorption results
+Aggregate size :
+20-14
+14-10
+10-6.0
+6.0-
+0
+filler
+GS bulk :
+2.620
+18.31
+3
+2.597
+2.61
+6
+2.546
+PROPORTIONS:
+25
+12
+8
+53
+2
+COMBINED SG :
+2.914
+WATER ABSOPTION
+0.4
+0.6
+0.7
+0.1
+COMBINED WATER ABSOPTION
+0.2

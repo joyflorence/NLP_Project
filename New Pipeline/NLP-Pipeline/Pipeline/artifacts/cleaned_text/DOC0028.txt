@@ -1,0 +1,1492 @@
+CRITICAL ANALYSIS OF THE INSURANCE REGULATORY FRAMEWORK IN UGANDA;
+WARRANTIES AND THE PRINCIPLE OF UTMOST GOOD FAITH, LEGAL IMPLICATIONS,
+CHALLENGES AND PROPOSALS FOR REFORMS
+
+
+
+
+
+
+
+
+
+
+
+RACHEAL ASIIMIRE
+BS20B11/1092
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF LAW, IN PARTIAL FULFILLMENT OF
+THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF LAWS OF
+UGANDA CHRISTIAN UNIVERSITY
+
+May, 2024
+
+
+
+ii
+
+DECLARATION
+I ASIIMIRE RACHEAL do hereby declare that I am the original author of this research and
+that it has never been submitted to Uganda Christian University or any other academic
+institution for any kind of award, and that where the information was obtained from other
+sources, references have been used.
+
+Signed...............................................................
+ASIIMIRE RACHEAL
+DATE.................................................................
+
+
+
+iii
+
+CERTIFICATION
+This is to certify that I have supervised and read through Asiimire Racheal’s research report
+and it conforms to the acceptable standards of scholarly presentation in fulfillment of the
+requirements for the award of a degree of Bachelor of Laws of Uganda at Uganda Christian
+University, Mukono.
+
+Signed............................................
+Ms Dinah Mukasa (SUPERVISOR)
+Date.................................................
+
+
+iv
+
+DEDICATION
+I dedicate this research to my father, Dr. Mwesigye Edward, my mother Mrs. Kamusiime
+Harriet, and to also my siblings
+
+
+v
+
+ACKNOWLEDGEMENT
+My Sincere gratitude to God who enabled me to carry on this research within the given time in
+good health and to my parents who continuously supported me during this research.
+I appreciate the legal team at the Insurance Regulatory Authority, that participated in providing
+the necessary information moral support, and encouragement throughout this research
+proposal.
+Especially, I appreciate Mrs. Dinah Mukasa for her tireless efforts, time, ideas, and guidance
+supervision of this research. Thank you.
+Lastly, I appreciate the agents from Jubilee Insurance Company, Sanlam Insurance Company,
+and Mr. Safali Emmanuel for their time and guidance.
+May God bless you abundantly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+LIST OF ABBREVIATIONS
+AC- Appeal Cases
+ASIC- Australian Securities and Investments Commission
+EWHC- England and Wales High Court
+IRA- Insurance Regulatory Authority
+KB- Kings Bench
+KFD - key Facts Documents
+KYC - Know Your Client
+UK- United Kingdom
+WLR- Weekly Law Reports
+
+
+
+vii
+
+LIST OF STATUTES
+1. Cambodian Law on Insurance 2014
+2. Insurance Act 2017
+3. Insurance Contracts Act (Australia) 1984 as amended.
+4. Insurance Contracts Amendment Act 2013 of (Australia) 2013
+5. Marine Insurance Act 1906
+6. Marine Insurance Act 2002
+7. New Zealand Insurance Law Reform Act 1977
+8. Nigeria Insurance Act 2003
+9. UK Insurance Act 2015
+
+
+
+viii
+
+TABLE OF CASES
+1. Babatsikos V Car Owner’s Mutual Insurance Co. [1970] 2 Lloyds Rep 314
+2. Bank of Nova Scotia v Hellenic Mutual War Risks Association [1991] 2 W.L.R 1279
+3. Berger and Light Diffusers Pty Ltd V Pollock (1973) 2 Lloyds Rep 442
+4. Brownlie V Campbell (1880) 5 App Cas 925
+5. Carter V Boehm (1766) 3 Burr 1905
+6. Container Transport International Inc v Oceanus Mutual Underwriting Association
+[1984] 1 Lloyds Rep. 476
+7. Dalecroft Properties Ltd V Underwriters [2017] EWHC 1263
+8. De Hahn V Hartley (1986) 1 T.R 343
+9. Guardian Assurance Co. Ltd V Osei (1966) GLR 762
+10. Hajji Kavuma Haroon V First Insurance Company Ltd Civil Suit No.442 of 2013
+11. Joel V Law Union and Crown Insurance Co. (1908) 99 LT 712
+12. Lambert v Co-operative Insurance Society [1975] 2 Lloyd’s Rep 485
+13. Longway Suitcase Manufacturing Co. Ltd V UAP Insurance (U) Ltd Civil Suit No.
+417 of 2010
+14. Lucy Kabege T/A Ideal Surveyors Valuers and Real Estate Management V Niko
+Insurance (Uganda) Ltd Civil Suit No. 319 of 2012
+15. Motor Union Insurance Co. Ltd V AK Ddamba [1963] 1 EA 271
+16. National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+17. Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1993] 1 Lloyd's Rep 49
+18. Provincial Insurance Co v Morgan [1933] AC 240
+19. Re Etherington & Lancashire & Yorkshire Accident [1909] 1 KB 156
+20. Scotbeef Ltd V D& S Storage Ltd and Anor [2024] EWHC 341
+21. The Star Sea [2003] 1 AC 469
+
+
+
+
+
+
+ix
+
+ABSTRACT
+The law of insurance is based on the principle of utmost good faith which requires the
+contracting party to make full and true disclosure of any material facts and also ensure that the
+representations made are true. In this research, I also compare the duty of utmost good faith in
+Uganda and its application in other jurisdictions to identify gaps (if any) in the insurance laws
+of Uganda and propose amendments.
+On the other side, a Warranty means a promissory Warranty namely a Warranty by which the
+insured undertakes that some particular thing shall or shall not be done, or that some condition
+shall be fulfilled, or by which he or she affirms or negatives the existence of a particular state
+of facts as per Section 33(1) of the Marine Insurance Act 2002. Where the Warranty is not
+complied with, the Insurer is automatically discharged from liability as per Section 33(3) of the
+Marine Insurance Act 2002. Thus, this research analyses the law relating to Warranties in
+Uganda, compares it with other jurisdictions, and proposes the need for reforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+Contents
+DECLARATION..................................................................................................................................... ii
+CERTIFICATION .................................................................................................................................. iii
+DEDICATION ....................................................................................................................................... iv
+ACKNOWLEDGEMENT ...................................................................................................................... v
+LIST OF ABBREVIATIONS ................................................................................................................. vi
+LIST OF STATUTES ............................................................................................................................ vii
+TABLE OF CASES ............................................................................................................................. viii
+ABSTRACT ........................................................................................................................................... ix
+CHAPTER 1 ........................................................................................................................................... 1
+Introduction ............................................................................................................................................. 1
+Background of the study ......................................................................................................................... 1
+Statement of the problem ........................................................................................................................ 5
+Objectives of the study ............................................................................................................................ 6
+Research Questions ................................................................................................................................. 6
+Justification of the study ......................................................................................................................... 6
+Significance of the study ......................................................................................................................... 6
+Scope of the study .................................................................................................................................. 7
+LITERATURE REVIEW ........................................................................................................................ 7
+METHODOLOGY ............................................................................................................................... 10
+CHAPTER 2; THE PRINCIPLE OF UTMOST GOOD FAITH AND THE LAW RELATING TO
+WARRANTIES IN UGANDA. ............................................................................................................ 11
+Introduction ........................................................................................................................................... 11
+Utmost good faith in the insurance industry ......................................................................................... 11
+Warranties in the insurance industry ..................................................................................................... 14
+Conclusion ............................................................................................................................................ 17
+Chapter 3; WARRANTIES AND UTMOST GOOD FAITH IN OTHER JURISDICTIONS .............. 18
+Introduction ........................................................................................................................................... 18
+
+xi
+
+UTMOST GOOD FAITH IN OTHER JURISDICTIONS ................................................................... 19
+United Kingdom.................................................................................................................................... 19
+Australia ................................................................................................................................................ 22
+Cambodia .............................................................................................................................................. 23
+WARRANTIES IN OTHER JURISDICTIONS ................................................................................... 24
+United Kingdom.................................................................................................................................... 24
+Australia ................................................................................................................................................ 26
+Nigeria .................................................................................................................................................. 27
+New Zealand ......................................................................................................................................... 28
+Conclusion ............................................................................................................................................ 29
+CHAPTER 4; SUMMARY OF FINDINGS, PROPOSALS FOR REFORMS, RECOMMENDATIONS,
+AND CONCLUSION. .......................................................................................................................... 30
+Introduction ........................................................................................................................................... 30
+SUMMARY OF FINDINGS................................................................................................................. 30
+PROPOSALS FOR REFORMS ........................................................................................................... 32
+RECOMMENDATIONS ...................................................................................................................... 36
+Conclusion ............................................................................................................................................ 38
+BIBLIOGRAPHY ...................................................................................................................................... 39
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 1
+The law of insurance revolves around the duty of utmost good faith thus the Latin expression
+uberrimaefidei1 which requires the contracting party to make full and true disclosure of any
+material facts which could guide a prudent insurer in determining whether to assume or take
+the risk and, if so at what premium and on what condition2.
+On the other side, a Warranty means a promissory Warranty namely a Warranty by which the
+insured undertakes that some particular thing shall or shall not be done, or that some condition
+shall be fulfilled, or by which he or she affirms or negatives the existence of a particular state
+of facts as per Section 33(1)3. Section 33(3)4 stipulates that where a Warranty is not complied
+with, the insurer is discharged from liability as from the date of the breach of the Warranty and
+without prejudice to any liability incurred by the insurer before the date.
+Thus, this research analyses the principle of utmost good faith and Warranties; the applicability
+in Uganda, compares the provisions in Uganda with other jurisdictions, identifies the areas for
+enhancement, and proposes actionable statutory reforms that promote fairness and
+transparency in insurance transactions.
+Chapter 1 will seek to examine the duty of utmost good faith and Warranties, Chapter 2 will
+cover Uganda’s application of the principle of utmost good faith, Warranties, and examination
+of how the principles have been applied, Chapter 3 will cover the application of utmost good
+faith and Warranties in other jurisdictions, Chapter 4 will cover proposals for reforms, a
+summary of findings, Recommendations, and conclusion.
+Background of the study
+The Insurance contracts are largely based on the principle of utmost good faith that must be
+observed by both the insured and the insurer5. Good faith means a state of mind consisting of
+honesty in belief or purpose, faithfulness to one’s duty or obligation, and observance of
+reasonable commercial standards of fair dealing in a given trade or business6. Insurance
+contracts are contracts of Uberrimae fidei which means a contract in which the parties owe
+
+1 Birds Modern Insurance Law 9th edition 2012 at page 119
+2 Guardian Assurance Co. Ltd V Osei (1966) GLR 762
+3 Marine Insurance Act 2002
+4 Marine Insurance Act 2002
+5 Sections 18,19, and 20 of the Marine Insurance Act 2002
+6 Black’s Law Dictionary by Bryan A. Garner 8th Edition page 2038
+
+
+each other duties with utmost good faith7. Section 178 provides that a contract of marine
+insurance is based upon the utmost good faith and if this duty is not observed by either party,
+the contract may be avoided by the other party. Thus, the principle of utmost good faith reflects
+the openness and fair dealing required of the parties in the various stages of their relationship9.
+Historically, the leading case on utmost good faith in insurance is Carter v Boehm10, Lord
+Mansfield stated that; “Insurance is a contract upon speculation. The special facts, upon which
+the contingent chance is to be computed, lie most commonly in the knowledge of the insured
+only: the under-writer trusts to his representation, and proceeds upon the confidence that he
+does not keep back any circumstance in his knowledge, to mislead the underwriter into a belief
+that the circumstance does not exist, and to induce him to estimate the risk as if it did not exist”
+and further held that the rationale for adopting the duty of utmost good faith is that when the
+insured conceals material facts, the insurer agrees to insure on the false estimate of the risk.
+Thus, in the 19th Century, the cases referred to the duty of utmost good faith to express the precontractual duty of disclosure and the duty not to misrepresent material facts as per Brownlie
+V Campbell11.
+Initially the law that provided for the principle of utmost good faith in the UK was the Marine
+Insurance Act 1906. Section 1712 provided that a contract of insurance is based upon the
+principle of utmost good faith, and, if the principle of utmost good faith is not observed, the
+contract may be avoided by the other party. The agent’s duty of disclosure provided under
+Section 1913, the duty of the insured not to make any misrepresentations and if he or she does,
+the insurer may avoid the contract as referred to under Section 2014, the duty on the insured to
+disclose all material facts as referred to under Section 1815.
+It must be noted that all the above provisions on Utmost good faith are also reflected in the
+Marine Insurance Act 2002 Laws of Uganda. Section 1716 provides that a contract of marine
+insurance is based upon the utmost good faith and if not observed, the contract may be avoided
+
+7 Black’s Law Dictionary by Bryan A. Garner 8th Edition page 975
+8 Marine Insurance Act of 2002
+9 The Star Sea [2003] 1 AC 469
+10 Carter V Boehm (1766) 3 Burr 1905
+11 Brownlie V Campbell (1880) 5 App Cas 925
+12 Section 17 of the United Kingdom Marine Insurance Act 1906
+13 Marine Insurance Act 1906
+14 Marine Insurance Act 1906
+15 Marine Insurance Act 1906
+16 Marine Insurance Act 2002
+
+
+by the other party. Section 1917 stipulates that where a contract is effected for the insured by an
+agent or broker, then the agent or broker must disclose every material fact that is known to
+himself or herself and is deemed to know every circumstance which in the ordinary course of
+business ought to be known by, or to have been communicated to him or her and every material
+circumstances which the insured is bound to disclose unless it comes to his or her knowledge
+too late to communicate it to the agent or broker.
+Section 1818 provides that the assured must disclose to the insurer every material circumstance
+which is known to the assured and if the insured fails to make that disclosure before the contract
+is concluded, the insurer may avoid the contract. And Section 2019 provides for the duty of the
+insured not to make any misrepresentations and that if they do, the insurer may avoid the
+contract.
+The above different sections have been applied by courts for example in Hajji Kavuma Haroon
+V First Insurance Company Ltd20 court noted that the non-disclosure and misrepresentation
+alleged and proved by the defendant went to the root of the contract and thus the insured was
+in breach of the principle of utmost good faith thus the insurer was entitled to avoid the contract
+due to the dishonesty of the plaintiff.
+In Uganda, there have been incidents where the duty of utmost good faith has been considered
+to be unfair regarding its applicability in the insurance industry in Uganda, and as a result, there
+have been proposals for reform in this area of insurance law. For example Justice Stephen
+Musota National Insurance Corporation V Sylvan Kakugu21 stated that the duty is unfair
+because; the insured can be unaware of their duty to disclose information, the only remedy for
+breach of utmost good faith is avoiding the entire contract, and the insurer is not required to
+show that the none disclosure or misrepresentation had any causal link to the claim to avoid
+the contract and also the insured is required to provide material information that would
+influence the judgment of a prudent insurer, this favours insurers to escape liability for a loss
+by reference to the standard of underwriting diligence and prudence of the prudent insurer even
+though the non-disclosed facts might not affect their willingness to write the risk22.
+
+17 Marine Insurance Act 2002
+18 Marine Insurance Act 2002
+19 Marine Insurance Act 2002
+20 Hajji Kavuma Haroon V First Insurance Company ltd Civil Suit No.442 of 2013
+21 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+22 Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1993] 1 Lloyd's Rep 49
+
+
+As earlier noted, the United Kingdom in 1906 and Uganda had the same provisions on the duty
+of utmost good faith however the United Kingdom Insurance Act 2015 introduces new aspects
+to the principle the Act introduces the following changes/requirements to the duty it states that;
+an insured ought to make a fair presentation and this means that one that discloses in a manner
+which would be reasonably clear and accessible to a prudent insurer and every material
+representation as to matter of fact is substantially23, different remedies as provided for in the
+schedule to the Act for example if the insurer would have entered into the contract whether the
+terms relating to matters other than the premium would have been the same or different, but
+would have charged a higher premium, the insurer may reduce proportionately the amount to
+be paid on a claim. and also examples of what may be considered a material circumstance for
+instance special or unusual facts relating to the risk, any particular concerns which led the
+insured to seek insurance cover for the risk, anything which those concerned with the class of
+insurance and field of activity in question would generally understand as being something that
+should be dealt with in a fair presentation of risks of the type in question24. However, Uganda
+has not had any amendment in the Marine Insurance Act 2002 on the principle of utmost good
+faith.
+On the other hand, Section 33(1)25 provides that a Warranty means a promissory Warranty
+namely a Warranty by which the insured undertakes that some particular thing shall or shall not
+be done, or that some condition shall be fulfilled, or by which he or she affirms or negatives
+the existence of a particular state of facts. Section 33(3)26 provides that a Warranty is a
+condition that must be complied with, whether it is material to the risk or not, and if it is not
+complied with, then subject to any express provision in the policy, the insurer is discharged
+from liability as from the date of the breach of the Warranty and without prejudice to any
+liability incurred y the insurer before the date.
+Also, the UK Marine Insurance Act 1906, Section 33(3) of the Marine Insurance Act 1906
+provided that upon breach of a Warranty, the insurer was discharged from all liability as from
+the date of the breach. However, the UK Insurance Act 2015 under Section 10(1)27 abolishes
+the rule of automatic discharge
+
+23 Section 3 of the UK Insurance Act 2015
+24 Section 7(4) of the UK insurance Act 2015
+25 Marine Insurance Act 2002
+26 Marine Insurance Act 2002
+27 UK Insurance Act 2015
+
+
+Thus, the importance of this research is to point out the need to reform these areas of law in
+line with some of the challenges currently faced with its implementation, it will compare the
+duty of utmost good faith and Warranties in other jurisdictions to identify gaps if any and also
+assess on the need for an amendment of the current Marine Insurance Act 2002 and insurance
+laws to promote fairness and transparency in insurance transactions.
+Statement of the problem
+The principle of utmost good faith is important in the insurance industry and is provided for
+under Sections 17,18,19,20 and 21 of the Marine Insurance Act 2002. However, Justice Stephen
+Musota28 noted that the duty as provided for in our laws is unfair because; the insured can be
+unaware of their duty to disclose information, the only remedy for breach of utmost good faith
+is avoiding the entire contract, and the insurer is not required to show that the none disclosure
+or misrepresentation had any causal link to the claim to avoid the contract and also the insured
+is required to provide material information that would influence the judgement of a prudent
+insurer, which is unfair for an ordinary insured.
+It was also noted that one of the reasons why some people were not insured is because some of
+the insurance companies do not pay insurance claims as they are presented, and also the breach
+of the duty of utmost good faith leads to the avoidance of the contract by the insurer.29 it was
+also observed that some of the insurers change service providers without informing their clients
+in regards to their medical insurance and this is also a problem for the insurance industry since
+this will discourage other people from opting for insurance that will cover their expenses in
+case of any uncertain risk.30, thus, there are unfair aspects of the duty of utmost good faith in
+the Ugandan Insurance laws and also challenges faced in promoting this principle both to the
+insured and insurer in insurance contracts, if these challenges are not addressed with immediate
+effect for instance loopholes in the existing law, ignorance of the law then it may lead to some
+people not taking insurance.
+Section 33(3) of the UK Marine Insurance Act 1906 provided that upon breach of a Warranty,
+the insurer was discharged from all liability as from the date of the breach. However, the UK
+
+28 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+29 The study Report, The Uninsured Market November 2022
+30 Forma Medical Insurance in Uganda study report March 2023 by the Insurance Regulatory Authority
+
+
+Insurance Act 2015 under Section 10(1)31 abolishes the rule of automatic discharge. Thus, a
+need to assess current laws on insurance in Uganda.
+Objectives of the study
+1. To analyze the principle of utmost good faith; the law relating to Warranties and the
+applicability of both in Ugandan insurance law.
+2. To analyze and compare the law governing the principle of utmost good faith and
+Warranties in other jurisdictions
+3. To find out the proposals for reforms in promoting fairness and transparency in
+insurance industry.
+4. To find out the recommendations for the gaps identified in the existing legal framework
+Research Questions
+1. What is the principle of utmost good faith and Warranties in the Insurance Industry in
+Uganda?
+2. What is the law governing the principle of utmost good faith and Warranties in other
+jurisdictions?
+3. What are the proposals for reforms in promoting fairness and transparency in insurance
+industry?
+4. What are the recommendations for the gaps identified in the existing legal framework?
+Justification of the study
+The duty of utmost good faith and the law relating to Warranties are important in the insurance
+industry and as noted the provisions on the principle of utmost good faith and the law relating
+to Warranties are replica of the 1906 UK Marine Insurance Act. However, with the UK
+Insurance Act 2015, the UK has since changed the provisions on the principle of utmost good
+faith and the law relating to Warranties. Uganda still has the old provisions as stipulated in the
+1906 Marine Insurance Act and thus the justification for this research to push for amendments
+of the current laws on the principle of utmost good faith in insurance law.
+Significance of the study
+The research on Warranties and utmost good faith in the insurance industry benefits both the
+prospective insureds, the insurers and make the public aware of this principle, applicability and
+
+31 UK Insurance Act 2015
+
+
+the consequences upon breach. This study also provides several recommendations for the
+challenges and gaps identified.
+Scope of the study
+The scope of the study was limited to the insurance industry in Uganda. It examined the
+significance of the principle of utmost good faith and the law relating to Warranties. The study
+made jurisdictional comparisons and thus made recommendations necessary for statutory
+reforms to streamline the Insurance industry in Uganda.
+The study focussed on Kampala and Metropolitan Areas since most insurance companies and
+the IRA are situated in Kampala.
+LITERATURE REVIEW
+A circumstance is material if it would influence the judgment of a prudent insurer in fixing the
+premium, or determining whether he or she would take the risk.32 This is a difficult situation
+for the insured as Malcolm Clarkes33 stated that the duty of utmost good faith is tested based
+on the judgment of a ‘prudent insurer’ thus the proposer is required to think in a way an insurer
+in the market does, which is unfair to the insured34 Furthermore, in National Insurance
+Corporation V Sylvan Kakugu court noted that the test of materiality assesses the insured by
+reference to the professional knowledge of the insurer which is unfair, and thus proposed the
+need for the amendment of the Insurance Law in regards to the principle of utmost good faith
+in Uganda.
+Further, on the point that every piece of information will be considered material if it would
+influence the judgment of the prudent insurer at the time of contract or renewal. Hasson R35
+proposed that an insurer’s failure to ask questions at the time of taking out the policy about
+losses ought to be regarded as a waiver of this information, as should the insurer’s acceptance
+of blank replies to questions in the proposal form regardless of the form of the question and on
+the other side Merkin R36 proposed that the test that ought to be used is that of a reasonable
+insured, thus in this research, we will look at which position should Uganda adopt.
+
+32 Section 18(2) of the Marine Insurance Act 2002, Laws of Uganda
+33 Clarke, Malcolm. (1997). Policies and Perceptions of Insurance: An Introduction to Insurance Law. Clarendon
+Law Series
+34 National Insurance Corporation V Sylvan Kakugu Civil Appeal N0. 040 of 2015
+35 Hasson, R, ‘The doctrine of uberrima fides in insurance law – a critical evaluation’ (1969) 32 MLR 615
+36 Merkin, R, ‘Uberrima fides strikes again’ (1976) 39 MLR 478
+
+
+Hasson, R.37 also states that an insurer should not be allowed to take advantage of ambiguous
+questions in the proposal form. In Uganda, one of the unfair aspects of the principle of Utmost
+good faith is that the insured can still be in breach even if the error was reasonable in
+circumstances for example if a question was unclear or required specific technical knowledge
+that they did not have.38 Thus, a need for an amendment of the insurance laws in Uganda which
+is the main purpose of this research.
+The Insurance Institute of Uganda39 stated that the insured knows or ought to know all about
+the risk being proposed for insurance as the insurer relies largely on information disclosed by
+the insured/assured thus most of the facts relating to health, habits, personal history, family
+history, etc., which form the basis of the Life Insurance contract, are known only to the insured.
+However, Hasson, R40 stated that the doctrine of Utmost good faith assumes that the insured is
+in a stronger position than the insurer because the insured has more knowledge than the insurer,
+however submitted that this puts the insured at a disadvantage since the insured does not know
+which parts of that information the insurer wishes to have. Thus proposes some reforms that
+statute should state in the clearest possible language that any failure by an insurer to ask of an
+insured information customarily sought by insurers in the type of policy in question should be
+deemed a waiver of such information. Thus, this research will critically assess the principle of
+good faith and the applicability of the reforms proposed.
+The Law Commission41 stated that some of the reforms that should be adopted are that the
+insured should not be under an obligation to disclose some information for example classified
+information could include an applicant’s race or nationality; further, the insured should be
+deemed to be under no obligation to reveal that he has previously been refused thus proposed
+that about the disclosure of the insured should be penalized only if he acted in bad faith that is
+if he knew, or had very good cause to believe that a particular piece of information would be
+material to the insurer and that the burden of showing bad faith should again be placed on the
+insurer.
+
+37 Hasson, R, ‘The doctrine of uberrima fides in insurance law – a critical evaluation’ (1969) 32 MLR 615
+38 National Insurance Corporation V Sylvan Kakugu Civil Appeal N0. 040 of 2015
+39 The Insurance Institute of Uganda (Fundamentals of Insurance COP 101 at page 52
+40 Hasson, R, ‘The doctrine of uberrima fides in insurance law – a critical evaluation’ (1969) 32 MLR 615
+41 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+
+
+Justice Stephen Musota in National Insurance Corporation V Sylvan Kakugu 42 noted that the
+insured may be unaware of their duty to volunteer information not specifically asked for by the
+insured on the proposal form and thus stated that good faith duties are more onerous for the
+insured than that the insurer and may require a review of the Ugandan Insurance law to do
+away with the unfair aspects. Further, the Law Commission43 pointed out that many laymen
+are not aware that a duty of disclosure exists and that it may be very difficult for those who are
+aware of the duty to know what information would be regarded as material by a prudent insurer
+and since specific questions are not asked in proposal forms, it is hard for the insurer to tell and
+may also have the effect of creating a trap for the insured under the present law since some of
+them do not know about the disclosure and what is to be disclosed thus proposed that this is
+mischief which requires reform for the protection of the insured and that no general questions
+in addition to specific questions should be permitted, such as a question whether there were
+any other facts which might influence the judgment of a prudent insurer in accepting the risk
+and fixing the premium ought to be avoided.
+The other unfair aspect of the duty of utmost good faith in insurance law is that the only remedy
+for breach of good faith duties is retrospective avoidance of the entire contract.44. Justice
+Stephen Musota 45 noted that this is also unfair to the insured thus proposing the need for
+reform.
+The Insured is not required to show that non disclosure or misrepresentation had any causal
+link to the claim to avoid the contract as per the case of Justice Stephen Musota 46 where he
+noted that this is unfair to the insured that proposed the need for amendments in the current
+Insurance law of Uganda. The Law Commission provisionally recommended that the law of
+warranties should be reformed so that there ought to be a rejection of a claim for breach only
+if there is no connection of some kind between the insured’s breach and the loss. Thus, it
+proposed that the further protection that the insured needs should be provided by legislation as
+per the words of Lawton LJ47 who stated that such injustices as there are must now be dealt
+
+42 National Insurance Corporation V Sylvan Kakugu Civil Appeal N0. 040 of 2015
+43 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+44 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+45 National Insurance Corporation V Sylvan Kakugu Civil Appeal N0. 040 of 2015
+46 National Insurance Corporation V Sylvan Kakugu Civil Appeal N0. 040 of 2015
+47 Lambert v Co-operative Insurance Society [1975] 2 Lloyd’s Rep 485
+
+
+with by Parliament if they are to be got rid of at all. Thus, the emphasis on the statutory reforms
+as it is the same position in Uganda.
+Andre Farrugia48 stated that there is an obligation on the insurer to inform the insured about
+the exclusions, limitations, and restrictions under the insurance policy to be issued and also to
+fairly assess the proposal form submitted by the prospective insured and to reveal any
+information pertinent to the risk. The Law Commission Report49 pointed out that an insured
+would have no legal remedy if an insurer fails to act by them. Also, in Uganda, the Marine
+Insurance Act 2002 does not provide for the standard to be used in case of a breach on the side
+of the insurer, thus the need for the amendment.
+METHODOLOGY
+The Researcher used both qualitative methods of data collection. Primary data was collected
+using questionnaires and interviews and respondents were chosen based on their perceived
+knowledge and credibility on the matter. Secondary data was collected through intensive
+desktop and library research to enable a deeper understanding of the extent to which the laws
+on the principle of utmost good faith are followed and also assess the need for reform in the
+law relating to Warranties.
+
+
+
+
+
+
+
+
+
+
+48 The Insurance Utmost Good Faith Principle: The Case of Malta Volume 24, Special Issue 1, 2021
+49 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+
+
+CHAPTER 2; THE PRINCIPLE OF UTMOST GOOD FAITH AND THE LAW RELATING
+TO WARRANTIES IN UGANDA.
+Uganda’s application of the principle of utmost good faith and the law relating to Warranties;
+examination of how the principles have been applied in Uganda
+Insurance contracts are contracts of Uberrimae fidei which means a contract in which the
+parties owe each other duties with utmost good faith50.Thus, it requires the contracting party to
+make full and true disclosure of any material facts that could guide a prudent insurer in
+determining whether to assume or take the risk and, if so at what premium and on what
+condition51. In Carter v Boehm52 the court held that the rationale for adopting the duty of
+utmost good faith is that when the insured conceals material facts, the insurer agrees to insure
+on the false estimate of the risk.
+The law that governs the duty of utmost good faith in Uganda is the Marine Insurance Act
+2002.The Court in National Insurance Corporation V Sylvan Kakugu53 noted that the duty of
+good faith provided for in the Marine Insurance Act 2002 under Sections 17,18,19 and 20
+applies to all sectors of insurance and not just marine insurance. In Uganda, the law governing
+Warranties in insurance is part VIII of the Marine Insurance Act 2002.
+Utmost good faith in the insurance industry
+Section 1754 provides that a contract of marine insurance is based upon the utmost good faith,
+and if the utmost good faith is not observed by either party, the contract may be avoided. The
+court in National Insurance Corporation Ltd V Kakugu Sylvan55 noted that the general duty of
+utmost good faith manifests itself in at least two important respects and that is; a duty to
+disclose material facts and a duty not to misrepresent material facts
+The duty to disclose by the assured is provided for under Section 18 of the Marine Insurance
+Act, 200256. Section 18(1)57 provides that;
+
+50 Black’s Law Dictionary by Bryan A. Garner 8th Edition page 975
+51 Guardian Assurance Co. Ltd V Osei (1966) GLR 762
+52 Carter V Boehm (1766) 3 Burr 1905
+53 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+54 The Marine Insurance Act 2002
+55 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+56 The Marine Insurance Act 2002
+57 The Marine Insurance Act 2002
+
+
+“ the assured must disclose to the insurer before the contract is concluded, every material
+substance which is known to the assured, and the assured is deemed to know in every
+circumstance which, in the ordinary course of business, ought to be known by him or her,
+and if the assured fails to make that disclosure, the insurer may avoid the contract”58.
+It must be noted that the insured is not bound to disclose what he or she does not know as per
+Section 18(1)59. Thus, the court in Joel V Law Union and Crown Insurance60 noted that since
+the insured did not know that she was suffering from acute depression, she owed no duty to
+disclose.
+A duty not to make any misrepresentation is provided under Section 20(1)61 which states that;
+“ every representation made by the insured or his or her agent, to the insurer during the
+negotiations for a contract of marine insurance, and before the contract is concluded must
+be true, and if any such representation is untrue, the insurer may avoid the contract62”.
+Section 18(2)63 provides that;
+“A circumstance is material if it would influence the judgment of a prudent insurer in fixing
+the premium, or determining whether he or she will take the risk. And Section 20(2)64
+provides that a representation is material if it would influence the judgment of a prudent
+insurer in fixing premiums or determining whether he or she will take the risk65”.
+In Container Transport International Inc v Oceanus Mutual Underwriting Association66 noted
+that the standard test of materiality should be determined by reference to what a reasonable
+insurer would expect to be material and thus held that the plaintiff had made representations
+that were both material and untrue and the defendant was free to avoid liability. In Pan Atlantic
+Insurance Co. Ltd V Pine Top Insurance Co. Ltd67, the court held that regarding disclosure and
+misrepresentation, the relevant test was whether the information not disclosed or
+misrepresented would have influenced the mind of a prudent insurer in assessing the risk and
+
+58 Section 18 of the Marine Insurance Act, 2002
+59 Marine Insurance Act 2002
+60 Joel V Law Union and Crown Insurance Co. (1908) 99 LT 712
+61 Marine Insurance Act 2002
+62 Section 20(1) of the Marine Insurance Act, 2002
+63 Marine Insurance Act 2002
+64 Marine Insurance Act 2002
+
+65 Section 18 (2) Marine Insurance Act, 2002
+66 Container Transport International Inc v Oceanus Mutual Underwriting Association [1984] 1 Lloyds Rep. 476
+67 Pan Atlantic Insurance Co. Ltd V Pine Top Insurance Co. Ltd [1995] 1 AC 501
+
+
+that information would therefore be material if it would affect the premium charged or any
+other terms.
+Furthermore, the court in National Insurance Corporation Ltd V Kakugu Sylvan68 observed
+that the test of materiality which underlies the rules of disclosure and misrepresentation
+assesses the insured by reference to the professional knowledge of the insurer and thus relying
+on Pan Atlantic Insurance Co. Ltd V Pine Top Insurance Co. Ltd69 held that no non-disclosure
+or misrepresentation would have influenced the insurer's judgment.
+Thus, the non-disclosed fact must have also induced the actual insurer to enter into the contract
+as per Berger Light Diffusers Pty Ltd v Pollock70 furthermore, the court in Babatsikos V Car
+Owner’s Mutual Insurance Co.71 noted that because the test of materiality depends initially on
+the opinion of a reasonable insurer, the courts are prepared to accept the opinion of other
+insurers as evidence of whether or not particular facts are material.
+Different courts in Uganda have discussed and applied the principle of utmost good faith in
+Uganda, For example, Justice Christopher Madrama discussed the principle of utmost good
+faith in Longway Suitcase Manufacturing Co. Ltd V UAP Insurance (U) Ltd72 and stated that
+the principle includes a duty of a promise to communicate to the promisor every fact and
+circumstance that may influence him in deciding to enter the contract or not and stated that the
+duty of utmost good faith survives the making of a contract, thus where the assured makes a
+fraudulent claim (this includes where a claimant suffered no loss, claim is supported by false
+evidence and where there are deliberately exaggerated figures in the claim), then it is in breach
+of the principle of utmost good faith.
+In Hajji Kavuma Haroon V First Insurance Company Ltd73 court observed that the nondisclosure of adjustments of vehicles insured greatly changed several things such as the
+valuation done thus, noted that the non-disclosure and misrepresentation alleged and proved
+by the defendant go to the root of the contract as they were in breach of utmost good faith, thus
+held that the breach of this duty renders the contract voidable and that there was no breach of
+
+68 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+69 Pan Atlantic Insurance Co. Ltd V Pine Top Insurance Co. Ltd [1995] 1 AC 501
+70 Berger and Light Diffusers Pty Ltd V Pollock (1973) 2 Lloyds Rep 442
+71 Babatsikos V Car Owner’s Mutual Insurance Co. [1970] 2 Lloyds Rep 314
+72 Longway Suitcase Manufacturing Co. Ltd V UAP Insurance (U) Ltd Civil Suit No. 417 of 2010
+73 Hajji Kavuma Haroon V First Insurance Company ltd Civil Suit No.442 of 2013
+
+
+contract done by the defendant as it exercised its right to terminate the contract because of the
+dishonesty of the plaintiff.
+However, it must be noted that there are circumstances that need not be disclosed for example
+any circumstance; that diminishes the risk, known or is presumed to be known to the insurer,
+and the insurer is deemed to know matters of common notoriety or knowledge and matters
+which an insurer in the ordinary course of his or her business as such ought to know and any
+circumstance to which information is waived by the insurer as per Section 18(3)74
+Section 19(1)75 provides that where the contract is affected for the assured by an agent or a
+broker, the agent or broker must disclose to the insurer; every material circumstance which is
+known to himself or herself, and an agent or broker to insure is deemed to know every
+circumstance which is in the ordinary course of business ought to be known by, or to have been
+communicated to, him or her and every circumstance which the assured is bound to disclose,
+unless it comes to his or her knowledge too late to communicate it to the agent or broker.
+In Motor Union Insurance Company Ltd V AK Ddamba76 the court held that the agent of the
+insurers was acting as an amanuensis of the proposer in the completion of the form and that his
+knowledge could not be imputed to the insurers.
+Warranties in the insurance industry
+Warranties on the other hand are promises made by the insured and must be a term of the
+policy77 In other words, they are promises made by insureds relating to facts or to things that
+they undertake to do or not to do, as the case may be78.
+They include warranties as to present or past facts as at the date they are made which often
+arise as a result of a completed proposal form that was declared to be the basis of the contract79;
+Warranties as to the future which are also known as continuing or promissory Warranties which
+mean continuing promises by the insured that facts will or will not exist in the future or will or
+will not continue to exist for the future80 and Warranties of opinion where the insured warrants
+
+74 Marine Insurance Act 2002
+75 Marine Insurance Act 2002
+76 Motor Union Insurance Co. Ltd V AK Ddamba [1963] 1 EA 271
+77 Birds’ modern insurance 11th Edition page 169
+78 Birds’ modern insurance 11th Edition page 169
+79 Birds’ modern insurance 11th Edition page 170
+80 Birds’ modern insurance 11th Edition page 170
+
+
+
+that facts are or will be true to the best of their knowledge and belief, there will be a breach of
+warranty only if they dishonestly or recklessly supply an incorrect answer81.
+In Uganda, the law governing Warranties in insurance is part VIII of the Marine Insurance Act
+2002. Section 33(1)82 provides that;
+“A Warranty means a promissory warranty namely a warranty by which the insured
+undertakes that some particular thing shall or shall not be done, or that some condition shall
+be fulfilled, or by which he or she affirms or negatives the existence of a particular state of
+facts83”.
+Section 33(3)84 of the Marine Insurance Act 2002 provides that;
+“ A Warranty is a condition that must be complied with, whether it is material to the risk or
+not, and if it is not complied with, then subject to any express provision in the policy, the
+insurer is discharged from liability as from the date of the breach of the warranty and
+without prejudice to any liability incurred y the insurer before the date85”.
+Initially the UK Marine Insurance Act 1906, under Section 33(3) provided that upon breach of
+a warranty, the insurer was discharged from all liability as from the date of the breach. Thus,
+in De Hahn v Hartley86 was held that the insurer could avoid all liability for breach of warranty,
+even though it was obvious that the breach had no connection with the loss that subsequently
+occurred when the ship was lost in the Atlantic Ocean. The House of Lords in Bank of Nova
+Scotia v Hellenic Mutual War Risks Association87the court stated that the breach of warranty
+would put the risk to an end automatically from the time of the breach and that the club was
+therefore in breach of its obligation to notify the bank.
+However, there was an amendment to the law relating to Warranties in the UK thus, Section
+10(1)88of the UK Insurance Act, 2015 abolishes the rule of automatic discharge Section.10(2)89
+provides that;
+
+81 Birds’ modern insurance 11th Edition page 171
+82 Marine Insurance Act 2002
+83 ibid
+84 Marine Insurance Act 2002
+85 Section 33(3) of the Marine Insurance Act 2002
+86 De Hahn V Hartley (1986) 1 T.R 343
+87 Bank of Nova Scotia v Hellenic Mutual War Risks Association [1991] 2 W.L.R 1279
+88 UK Insurance Act 2015
+89 UK Insurance Act 2015
+
+
+“An insurer has no liability in respect of any loss occurring, or attributable to something
+happening, after a warranty has been breached but before the breach has been remedied90”.
+However, under s.10(3) of the UK Insurance Act 2015, the insurer will not be discharged from
+liability if because of a change of circumstances, the warranty ceases to apply to the
+circumstances of the contract, compliance with the warranty is rendered unlawful by any
+subsequent law, or if the insurer waives the breach of warranty.
+In addition, under s.10(4)91, the insurer will be liable in respect of losses occurring, or
+attributable to something happening, before the breach of warranty or, if the breach can be
+remedied, after it has been remedied. A breach is regarded as remedied in two situations.
+Section 10(6)92 provides that where a warranty requires something to be done or not done, or a
+condition is to be fulfilled, or something is or is not to be the case and that requirement is not
+complied with, but the risk to which the warranty relates later becomes essentially the same as
+that originally contemplated by the parties.
+Section 1193 provides that if a loss occurs, and the term has not been complied with, the insurer
+may not rely on the non-compliance to exclude, limit, or discharge its liability under the
+contract for the loss. thus, if the non-compliance with the term could not have increased the
+risk of the loss that occurred in the circumstances in which it occurred then the insured satisfies
+this provision
+In Uganda, if a Warranty is not complied with, then subject to any express provision in the
+policy, the insurer is discharged from liability as from the date of the breach of the warranty
+and without prejudice to any liability incurred on the insurer before the date as per Section
+33(3)94
+It must be noted that if the insurance contract is ambiguous, it is construed against the insurer
+as was noted by the court in Provincial Insurance Co v Morgan95which observed that it is the
+insurer who formulates the wording, in the event of any ambiguity, the warranty will be
+construed contra proferentem hence benefitting the insured Thus, the Ugandan court in Lucy
+Kabege T/A Ideal Surveyors Valuers and Real Estate Management V Niko Insurance(Uganda)
+
+90 Marine Insurance Act 2002
+91 UK Insurance Act 2015
+92 UK Insurance Act 2015
+93 UK Insurance Act 2015
+94 Marine Insurance Act 2002
+95 Provincial Insurance Co v Morgan [1933] AC 240
+
+
+Ltd96 relied on Re Etherington & Lancashire & Yorkshire Accident97 which stated that where
+the policy is ambiguous, the court will apply the contra proferentem rule and interpret the
+document against the insurer thus the commercial court of Uganda observed that the defendant
+drew a policy in which they incorporated a clause on fidelity and in the policy schedule, they
+mentioned libel and slander and mentioned nothing on the fidelity clause and thus stated that
+such inconclusive provisions can only be dealt with as per the contra proferentem rule, hence
+held that they incorporated the fidelity clause through the operative clause and that the parties
+intended to operationalize the clause when need arose.
+The law that governs the duty of utmost good faith in Uganda is the Marine Insurance Act 2002
+and the duty includes a duty to disclose material facts and a duty not to misrepresent material
+facts and Warranties where the insurer is discharged of their liability upon breach of the
+Warranty as also governed by part VIII of the Marine Insurance Act 2002.
+
+
+
+96 Lucy Kabege T/A Ideal Surveyors Valuers and Real Estate Management V Niko Insurance (Uganda) Ltd Civil
+Suit No. 319 of 2012
+97 Re Etherington & Lancashire & Yorkshire Accident [1909] 1 KB 156
+
+
+Chapter 3; WARRANTIES AND UTMOST GOOD FAITH IN OTHER JURISDICTIONS
+In most countries, both the insured and the insurer must comply with the principle of utmost
+good faith in insurance, thus most of the countries made laws on this principle as provided
+under the Common law provisions under Sections 17, 18, 19, and 20 of the 1906 Marine
+Insurance Act. These provisions are similar to what is provided under the Marine Insurance Act
+2002, which is the current law in Uganda. However, it must be noted that most countries have
+since changed their provisions on the principle of utmost good faith UK inclusive.
+In Uganda, the law governing Warranties in insurance is part VIII of the Marine Insurance Act
+2002. Section 33 of the UK Marine Insurance Act 1906 provided that upon breach of a
+Warranty, the insurer was discharged from all liability as from the date of the breach. This is
+similar to Uganda’s current position under Section 33(3)98 which provides that where a
+Warranty is not complied with, whether it is material to the risk or not, the insurer is discharged
+from liability as from the date of the breach of the Warranty and without prejudice to any
+liability incurred y the insurer before the date.
+One of the Respondents at IRA noted that for example where a policy requires one to have a
+fire sprinkler system as a continuing warranty, and there is a loss as a result of a fire, if the
+insured did not have the fire sprinkler system in place, then the insurance company will not be
+held liable. In other words, the insurer is discharged from liability. Another example is the
+requirement of an active alarm system for a specified property (as a Warranty in the policy), if
+any theft occurs and there is no alarm system or a defective alarm system, then the insurance
+company will not be held liable
+However, there was an amendment to the law relating to Warranties in the UK thus, Section
+10(1) UK Insurance Act 2015 abolishes the rule of automatic discharge and most countries
+have changed their laws on Warranties including other countries as will be discussed in this
+chapter.
+
+98 Marine Insurance Act 2002
+
+
+UTMOST GOOD FAITH IN OTHER JURISDICTIONS
+United Kingdom
+Initially, the law governing the principle of utmost good faith in the UK was the 1906 Marine
+Insurance Act, however, this was later amended by the UK Insurance Act 2015.
+Section 3(1) of the UK Insurance Act 2015 states that;
+“Before a contract of insurance is entered into, the insured must make to the insurer a fair
+presentation of the risk99”
+This amends the duties regarding disclosure and representations that are contained in the
+Marine Insurance Act 1906. Section 3(3) of the UK Insurance Act 2015 states that;
+“Fair presentation of the risk makes that disclosure in a manner which would be reasonably
+clear and accessible to a prudent insurer and in which every material representation as to a
+matter of fact is substantially correct, and every material representation as to a matter of
+expectation or belief is made in good faith100”.
+Section 7(3) of the UK Insurance Act 2015 states that;
+“A circumstance or representation is material if it would influence the judgment of a prudent
+insurer in determining whether to take the risk and, if so, on what terms101”.
+Section 7(4) of the UK Insurance Act 2015 provides examples of things that may be material
+circumstances which include unusual facts relating to the risk, any particular concerns that led
+the insured to seek insurance cover for the risk, anything that those concerned with the class of
+insurance and field of activity in question would generally understand as being something that
+should be dealt with in a fair presentation of risks of the type in question
+Section 4 of the UK Insurance Act 2015 limits the knowledge of the insured regarding the
+material circumstances that he or she ought to disclose; an insured who is an individual knows
+only what is known to the individual and what is known to the individual who is responsible
+for the insured’s insurance.
+Section 4(8) of the UK Insurance Act 2015 states that;
+
+99 UK Insurance Act 2015
+100 UK Insurance Act 2015
+101 UK Insurance Act 2015
+
+
+“An individual is responsible for the insured’s insurance if the individual participates on
+behalf of the insured in the process of procuring the insured’s insurance102”.
+However, Section 4(6) of the UK Insurance Act 2015 introduces the reasonableness test and
+demands that the prospective insured should know what should have been revealed by a
+reasonable search of information.
+Section 14 of the UK Insurance Act 2015 provides that any rule of law which provides for a
+party to a contract of insurance to avoid the contract on the ground of breach of the principle
+of utmost good faith by the other party is abolished.
+To have a remedy for a breach of the duty of fair presentation, Section 8(1) of the UK Insurance
+Act 2015 requires the insurer to demonstrate that it would have acted differently if the insured
+had made a fair presentation of the risk for example that it would not have accepted the risk at
+all or would have done so only on and the remedies, set out in the Schedule to the Act.
+The above provision was applied by The High Court in Dalecroft Properties Ltd V
+Underwriters103 where the claimant insured their property with the defendants under a property
+owner policy in July 2007 and renewed it in August 2008. In May 2009, there was a fire which
+led to severe damage to the property and the claimant made a claim however the defendants
+denied it on the grounds of misrepresentation and non-disclosure of the description and
+condition of the property at the renewal of the contract. The issue was whether the
+misrepresentation and non-disclosure by Dalecroft at the time of renewal entitled the
+Underwriters to avoid the policy. The court applied the 1906 Marine Insurance Act because at
+the time the parties signed the policy it was the Act in place, however, the court also considered
+the duty of fair representation under Section 3 of the UK Insurance Act of 2015 and noted that
+Dalecroft did not make an effort at the time of the renewal of the policy to comply with the
+commercial unoccupancy terms of the policy for the residential property to be in a proper state,
+the court further held that the property was not in a good state of repair where it had also been
+subject to acts of vandalism and also held that the Underwriters would have not entered into
+the contract on any of the terms of a fair representation had been made my Dalecroft at renewal
+and thus held that Dalecroft’s claim would also fail under the UK Insurance Act 2015.
+
+102 UK Insurance Act 2015
+103[2017] EWHC 1263
+
+
+Section 8(3) of the UK Insurance Act 2015 provides that a qualifying breach is where the
+insurer has a remedy against the insured for the breach, and a qualifying breach is deliberate or
+reckless where the insured knew that it was a breach of the duty of fair representation or where
+the insured did not care about whether it was a breach of that duty as per Section 8(5) of the
+UK Insurance Act 2015. Schedule 1 of the UK Insurance Act 2015 provides that if the
+qualifying breach was deliberate or reckless, then the insurer may avoid the policy and refuse
+to pay the claims and they do not have to return the premium.
+Paragraph 4 of the First Schedule UK Insurance Act 2015 states that;
+“In the absence of a qualifying breach, if the insurer would not have entered into the
+contract, the insurer may avoid the contract and refuse to pay all claims however must return
+the premium104”.
+Paragraph 5 of the First Schedule of the UK Insurance Act 2015 states that;
+“Where the insurer would have entered the contract on different terms, then the contract is
+to be treated as if the contract had been entered on those different terms if the insurer
+requires105”.
+The High Court of Justice Chancery Division applied the above provisions in the case of
+Scotbeef Ltd V D& S Storage Ltd and Anor106 where the 1st defendant agreed to freeze and
+store meat for the claimant, however, the six pallets of meat that were transferred to the
+claimant by the 1st defendant were discovered to have mold, the claimant claimed 395,588
+pounds from the defendant due to the breach of the contract in regards to the storage of meat
+since it was discovered to have mold and also unfit for human consumption, the defendant
+denied liability and stated that the mold was not as a result of the refrigeration services provided
+by them and further stated that the contract incorporated the Food Storage & Distribution
+Federations (FSDF) terms and conditions which provided that the claimant was time-barred
+from bringing legal proceedings against the defendant by 3rd July 2020 and that if not timebarred the breach was limited to 250 per metric ton. The issue was whether the FSDF terms
+and conditions were incorporated into the contract between the parties. In dealing with the
+claim, the court considered both the duty of fair representation and Warranties and noted that
+the duty of fair representation is provided for under Section 3 of the UK Insurance Act 2015
+
+104 UK Insurance Act 2015
+105 UK Insurance Act 2015
+106 Scotbeef Ltd V D& S Storage Ltd and Anor [2024] EWHC 341
+
+
+and that Section 8 and Schedule 1 provide for the remedies in case of any breach of the duty of
+fair presentation thus observed that the failure of complying with the FSDF terms was a
+qualifying breach however noted that the breach was neither deliberate nor reckless sine the
+insured thought they were trading on FSDF terms thus court held that the insurers did not show
+that they would not have entered into the contract with the insured on any terms, hence relied
+on paragraphs 4 and 5 of Schedule 1 of the UK Insurance Act 2015 that provide for innocent
+misrepresentation and held that there was a possibility for the contract to be amended to the
+terms sought by the insurer.
+Australia
+The Marine Insurance Act of 1906 was largely adopted by Australia for its Marine Insurance
+Act 1909. Several changes were introduced to the Insurance Contracts Amendment Act 2013
+of (Australia) which was passed into law in 2013. Thus Sections 12 to 15 of the Insurance
+Amendment Act (Australia) made significant changes in the principle of utmost good faith
+under common law.
+Section 13(2) of the Insurance Contracts Act (Australia) 1984 as amended states that;
+“A contract of insurance is based on the principle of utmost good faith and that there is an
+implied term in such a contract a provision requiring each party to it to act towards the other
+party, in respect of any matter arising under or about it and the failure by a party to a contract
+of insurance to comply with the provision implied in the contract then it is a breach of the
+requirements of this Act107”.
+Section 13(4) of the Insurance Contracts Act (Australia) 1984 as amended provides that a
+reference in this section to a party to a contract of insurance includes a reference to a thirdparty beneficiary under the contract however this applies only after the contract is entered into.
+Section 11 of the Insurance Contracts Act (Australia) 1984 as amended
+“A third party under a contract of insurance means a person who is not a party to the contract
+but is specified or referred to in the contract, whether by name or otherwise, as a person to
+whom the benefit of the insurance cover provided by the contract extends108”.
+
+107 Insurance Contracts Act (Australia) 1984 as amended
+108 Insurance Contracts Act (Australia) 1984 as amended
+
+
+Thus, the Insurance Contracts Amendment Act 2013 of (Australia) introduces the duty of
+utmost good faith to include third-party beneficiaries of the contract and also provides for the
+Australian Securities and Investments Commission (ASIC) to address breaches of the duty of
+utmost good faith and enforce measures to ensure compliance with the duty as per Section 14A
+of the Insurance Contracts Act (Australia) 1984 as amended.
+In Australia, the insured’s duty of disclosure is provided for under Sections 21 and 22 of the
+Insurance Contracts Act (Australia) 1984 as amended.
+Section 21 of the Insurance Contracts Act (Australia) 1984 as amended states that;
+“An insured must disclose to the insurer, before the relevant contract of insurance is entered
+into, every matter that is known to the insured, being a matter that the insured knows to be
+a matter relevant to the decision of the insurer whether to accept the risk and, if so, on what
+terms or a reasonable person in the circumstances could be expected to know to be a matter
+so relevant109”.
+Section 22 of the Insurance Contracts Act (Australia) 1984 as amended stipulates that the
+insurer has a duty before the contract of insurance is concluded to inform the insured in writing
+of the general nature and effect of the duty of disclosure. Section 29 of The Insurance Contracts
+Act (Australia) 1984 as amended introduces eligible contracts of insurance that require the
+insurer to ask specific types of questions and if the insurer does not, the insurer will be taken
+to have waived the disclosure requirement.
+Thus, it must be noted that unlike the Marine Insurance Act 2002, the Insurance Contracts Act
+(Australia) 1984 as amended imposes a duty on the insurer to inform the insured in writing
+before the contract is concluded about the principle of utmost good faith as per Section 21A of
+the Insurance Contracts Act (Australia) 1984 as amended, to also notify the insured of the
+unusual terms for policies that are not eligible contracts and if they do not do so, they cannot
+rely on any remedies for nondisclosure unless there was fraud by the insured still as per Section
+21A of the Insurance Contracts Act (Australia) 1984 as amended.
+Cambodia
+The first Cambodian Law on Insurance was enacted in 2000 and later revised in 2014 which
+made a clear reference to the principle of utmost good faith.
+
+109 Insurance Contracts Act (Australia) 1984 as amended
+
+
+Article 9 of the Cambodian Law on Insurance 2014 states that;
+“In making insurance contracts, the insured and insured shall respect the principle of
+utmost good faith, mutual benefit, and unanimity through negotiation and shall not harm
+the public interests110”.
+Article 10 of the Cambodia Law on Insurance states that;
+“The insurance company must clearly explain to the insured about conditions of the
+insurance contract and the meaning of the attached insurance application, certificate, and
+other related documents111”.
+Article 19(1) of the Cambodia Law on Insurance stipulates that where the insurance company
+finds out that the insured concealed the truth or intentionally misrepresented the material facts
+which led to any change in the risk of the insured subject matter, the insurance contract shall
+be voidable. However, it must be noted that the insurer is barred from voiding the contract
+while the insured’s misrepresentation or non-disclosure is unintentional or made under the
+circumstances of forgetfulness as per Article 19(2) of the Cambodian Law on Insurance.
+WARRANTIES IN OTHER JURISDICTIONS
+United Kingdom
+Section 33(3) of the Marine Insurance Act 1906 provided that when a Warranty is breached,
+the insurer is automatically discharged from liability from the date of the breach.
+Section 10 of the UK Insurance Act 2015 states that;
+“Any rule of law that breach of a Warranty in a contract of insurance results in the
+discharge of the insurer’s liability under the contract is abolished112”.
+Section 10(7) of the UK Insurance Act 2015 amends Section 33(3) of the Marine Insurance
+Act 1906 by removing the clause that “if it is not complied with, then subject to any express
+provision in the policy, the insurer is discharged from liability as from the date of the breach of
+the Warranty, but without prejudice to any liability incurred by him before that date.
+Thus, Section 10(7) of the UK Insurance Act 2015 states that;
+
+110 Cambodia Law on Insurance 2014
+111 Cambodia Law on Insurance 2014
+112 UK Insurance Act 2015
+
+
+“ A Warranty is a condition which must be exactly complied with, whether it be material to
+the risk or not113”.
+Section 10 (2) of the UK Insurance Act 2015 further provides that an insurer has no liability
+under a contract of insurance in respect of any loss occurring or attributable to something
+happening after a Warranty has been breached and before it is remedied. However, it must be
+noted that the liability of the insurer is not affected concerning losses occurring before the
+breach of the warranty or where the breach can be remedied after it has been remedied as per
+Section 10(4) of the UK Insurance Act 2015. This amends Section 34(2) of the Marine
+Insurance Act 1906 which provides that when a Warranty is broken, the insured cannot avail
+himself or herself of the defence that the breach had been remedied and that the Warranty was
+complied with before the loss.
+Section 11(1) of the UK Insurance Act 2015 provides that in a contract of insurance, other than
+a term defining the risk as a whole, if compliance with a term would lead to loss of a particular
+kind, loss at a particular location and loss at a particular time and if a loss occurs, and the term
+has not been complied with, the insurer may not rely on the non-compliance to exclude, limit
+or discharge its liability under the contract for the loss as per Section 11(2) of the UK Insurance
+Act 2015. The insured ought to show that the non-compliance with the term could not have
+increased the risk of the loss which occurred in the circumstances in which it occurred as per
+Section 11(3) of the UK Insurance Act 2015
+The High Court of Justice Chancery Division applied the above provisions in the case of
+Scotbeef Ltd V D& S Storage Ltd and Anor114 where the 1st defendant agreed to freeze and
+store meat for the claimant, however, the six pallets of meat that were transferred to the
+claimant by the 1st defendant were discovered to have mold, the claimant claimed 395,588
+pounds from the defendant due to the breach of the contract in regards to the storage of meat
+since it was discovered to have mold and also unfit for human consumption, the defendant
+denied liability and stated that the mold was not as a result of the refrigeration services provided
+by them and further stated that the contract incorporated the Food Storage & Distribution
+Federations(FSDF) terms and conditions which provided that the claimant was time-barred
+from bringing legal proceedings against the defendant by 3rd July 2020 and that if not timebarred the breach was limited to 250 per metric ton. The issue was whether the FSDF terms
+
+113 UK Insurance Act 2015
+114 Scotbeef Ltd V D& S Storage Ltd and Anor [2024] EWHC 341
+
+
+and conditions were incorporated into the contract between the parties. In dealing with the
+claim, the court considered both the duty of fair representation and Warranties, and on the law
+relating to Warranties court held that the statement made by the assured that it was trading on
+FSDF was a representation and thus was not a warranty as per Section 9 of the UK Insurance
+Act 2015.
+Section 9 of the UK Insurance Act 2015 states that;
+“Representations made in connection with a proposed non-consumer insurance contract or
+proposed variation to a non-consumer insurance contract is not capable of being treated as
+a warranty using any provision115”.
+Australia
+Section 24 of the Insurance Contracts Act (Australia) 1984 as amended states that:
+“A statement made in or in connection with a contract of insurance, being a statement made
+by or attributable to the insured, concerning the existence of a state of affairs does not have
+effect as a Warranty but has effect as though it were a statement made to the insurer by the
+insured during the negotiations for the contract but before it was entered into116”.
+In other words, the above Section treats every statement before the contract is concluded, as a
+representation rather than a warranty, so that the beach does not lead to the automatic discharge
+but rather the rules and laws governing misrepresentations apply.
+Section 54(1) of the Insurance Contracts Act (Australia) 1984 as amended states that;
+“Where the effect of a contract would be that the insurer refuses to pay a claim, either in
+whole or in part, because of some act of the insured or some other person, being an act that
+occurred after the contract was entered into, the insurer may not refuse to pay the claim by
+reason only of that act but the insurer’s liability in respect of the claim is reduced by the
+amount that fairly represents the extent to which the insurer’s interests were prejudiced117”.
+On establishing casual link upon breach of the Warranty. Section 54(2) of the Insurance
+Contracts Act (Australia) 1984 as amended provides that where the act could reasonably be
+regarded as being capable of causing or contributing to a loss in respect of which insurance
+cover is provided by the contract, the insurer may refuse to pay the claim. However, where the
+
+115 UK Insurance Act 2015
+116 Insurance Contracts Act (Australia) 1984 as amended
+117 Insurance Contracts Act (Australia) 1984 as amended
+
+
+insured proves that no part of the loss that gave rise to the claim was caused by the act, the
+insured may not refuse to pay the claim based on that fact as per Section 54(3) of the Insurance
+Contracts Act (Australia) 1984 as amended.
+Thus, Section 54 of the Insurance Contracts Act (Australia) 1984 as amended stipulates the
+amendment of the common law principles concerning Warranties and abolishes the automatic
+discharge of the insurer’s liability as the remedy is to pay the amount that is proportionate to
+the extent to which the insurer’s interests have been prejudiced.
+Nigeria
+The laws governing warranties in Nigeria are the Nigeria Insurance Act 2003 under Section 55
+and the Marine Insurance Act 1962 (Nigeria) where Sections 34-42 are the replica of the 1906
+Marine Insurance Act Section 33.
+Section 55(1) of the Nigeria Insurance Act 2003 provides that in a contract of insurance, a
+breach of a Warranty does not give rise to any right by or afford a defense to the insurer against
+the insured unless the term is material and relevant to the risk or loss insured against.
+And section 55(2) of the Nigeria Insurance Act 2003 states that;
+“Where there is a breach of a contract of insurance, the insurer shall not be entitled to
+repudiate the whole or part of the contract or a claim brought on the grounds of breach
+unless the breach amounts to breach or the breach was a fundamental term of the
+contract118”.
+However, it must be noted that where there is a breach of a material term of a contract of
+insurance and the insured makes a claim against the insurer and the insurer is not entitled to
+repudiate the whole or any part of the contract, the insurer shall be liable to indemnify the
+insured only to the extent of the loss which would have been suffered if there was no breach of
+the term as per Section 55(3) of the Nigeria Insurance Act 2003.
+Thus, the provisions in the Nigeria Insurance Act 2003 abolish the automatic discharge of the
+insurer’s liability in Nigeria and also provide for a causal link connection between the breach
+and the loss, a similar position in the UK Insurance Act 2015
+
+118 Nigeria Insurance Act 2003
+
+
+New Zealand
+The Marine Insurance Act 1908 of New Zealand was similar to the 1906 UK Marine Insurance
+Act. However, the New Zealand Insurance Law Reform Act 1977(ILRA) made some reforms
+also relating to the law of Warranties in the insurance industry.
+Section 5 of the New Zealand Insurance Law Reform Act 1977 states that;
+“A contract of insurance shall not be avoided by reason only of any statement made in any
+proposal or other document on faith of which the contract was entered into, reinstated or
+renewed by the insurer unless the statement was substantially incorrect and was material119”.
+Section 11(a) of the New Zealand Insurance Law Reform Act 1977 provides that whereby the
+provisions of a contract of insurance, the circumstances in which the insurer is bound to
+indemnify the insured against loss are so defined as to exclude or limit the liability of the insurer
+to indemnify the insured on the happening of certain events or the existence of certain
+circumstances.
+Section 11(b) of the New Zealand Insurance Law Reform Act 1977states that;
+“Where in the view of the court or arbitrator in determining the claim of the insured, the
+liability of the insurer has been so defined because the happening of such events or the
+existence of such circumstances was in the view of the insurer likely to increase the risk of
+such loss occurring, the insured shall not be disentitled to be indemnified by the insurer by
+reason only of such provisions of the contract of insurance if the insured proves on the
+balance of probability that the loss in respect of which the insured seeks to be indemnified
+was not caused or contributed to by happening of such events or the existence of such
+circumstances120”.
+In other words, Section 11 of the New Zealand Insurance Law Reform Act 1977 abolishes the
+automatic discharge of the insurer’s liability in case of breach of a Warranty and requires a
+limitation and exclusion or any other binding contractual obligation on the insured to deny him
+his expected benefits under the insurance contract and also requires that the breach must be
+connected to the loss and also for the court/ arbitrator to define the circumstances of the
+insurer’s liability.
+
+119 New Zealand Insurance Law Reform Act 1977
+120 New Zealand Insurance Law Reform Act 1977
+
+
+The principle of utmost good faith, law governing the principle of utmost good faith in the UK
+was the 1906 Marine Insurance Act which is similar to the position in Uganda, however, the
+position in the UK was later amended by the UK Insurance Act 2015 which introduces aspects
+of fair representations, provide for different remedies depending on the kind of breach and this
+is also provided for in countries like Cambodia, Australia.
+On the law relating to Warranties in the insurance industry, both the UK, Australia, Nigeria,
+and New Zealand, which had similar provisions as the 1906 Marine Insurance Act, amended
+their laws on the law relating to Warranties thus a shift from the traditional common law
+approach where the insurer was automatically discharged from liability upon breach of a
+warranty and also on the need to establish a causal link between the breach and the loss among
+others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 4; SUMMARY OF FINDINGS, PROPOSALS FOR REFORMS,
+RECOMMENDATIONS, AND CONCLUSION.
+The Marine Insurance Act 2002 is the law that governs the principle of utmost good faith and
+the law relating to Warranties in Uganda. the different provisions are the replica of the Marine
+Insurance Act 1906. The Law Commission later noted unfair aspects of the provisions in the
+Marine Insurance Act 1906, thus proposed the need for amendment which led to the enactment
+of the UK Insurance Act 2015.
+This chapter summarizes research findings, analyses the need for reforms in the current law
+relating to Warranties and the principle of utmost good faith in the Insurance Industry,
+recommendations, and conclusions.
+SUMMARY OF FINDINGS
+Insurance contracts are based on the principle of utmost good faith as per Section 17 of the
+Marine Insurance Act 2002. Breach of the principle of utmost good faith entitles any of the
+parties to the insurance contract to avoid the contract as per Section 17 of the Marine Insurance
+Act 2002
+The agent at Sanlam Insurance Company and the Respondents at the Insurance Regulatory
+Authority noted that the law (theory) on the principle of utmost good faith stipulated under the
+Marine Insurance Act 2002 is not different from what is in practice, thus once there is a breach
+of the principle of utmost good faith, any of the parties to the insurance contract may avoid the
+contract.
+The provisions of the principle of utmost good faith in the Marine Insurance Act 2002 are a
+replica of the Marine Insurance Act 1906 of the United Kingdom. However, the UK has since
+changed its provisions on the principle of utmost good faith with the enactment of the UK
+Insurance Act 2015 which introduces the duty of fair presentation which means the duty to
+disclose in a manner that is reasonably clear and accessible to a prudent insurer as per Section
+3(1) of the UK Insurance Act 2015.
+Section 7(4) of the UK Insurance Act 2015 provides for examples of material circumstances to
+be disclosed by the insured regarding the principle of utmost good faith like; unusual facts that
+relate to the risk
+
+
+In case of a breach of this duty, the insurer has more than one remedy as it depends on whether
+the breach was deliberate or reckless as per the 1st Schedule of the UK Insurance Act 2015.
+Furthermore, the UK Insurance Act 2015 introduces a duty on the insurer to inform the insured
+about the principle of Utmost good faith in the industry.
+Due to the unfair aspects of the principle of utmost good faith, countries that had the same
+provision as stipulated in the 1906 Marine Insurance, like Australia, Cambodia have since
+changed their provisions on the principle of Utmost good faith to provide for the duty of the
+insurer to inform the insured about the principle of utmost good faith.
+Also, some other countries have also amended their laws for example Australia as discussed in
+Chapter 3, The Insurance Contracts Amendment Act 2013 of (Australia) provides for the duty
+of utmost good faith and extends this duty to third-party beneficiaries, also provides that the
+insurer must inform the insured about the duty of utmost good faith.
+It was also noted that with the enactment of the UK Insurance Act 2015, most countries like
+Malta, Saudi Arabia, and Nigeria have advocated for a change of their principle of utmost good
+faith to include in their Acts the provisions under the Insurance Contracts Amendment Act
+2013 of (Australia) and the UK Insurance Act 2015.
+Some of the Respondents at IRA noted that the UK has fair provisions when it comes to the
+duty of utmost good faith and thus stated that codification of these provisions into the Marine
+Insurance Act 2002 is an advantage to the insurance industry.
+Warranties in the Insurance Industry
+Warranties are governed by the Marine Insurance Act 2002. Where the Warranties are not
+complied with, the insurer is automatically discharged from liability as of the date of the breach.
+The general rule is that Warranties require strict compliance and it does not matter whether the
+breach is connected to the risk or loss suffered. However, practice in the Ugandan Insurance
+industry is that where the breach is not connected to the loss/risk suffered, the insurer and the
+insured come to a round table and negotiate, but this is at the option of the insurer as noted by
+the Insurance agent at Sanlam Insurance Company.
+The provisions in the Marine Insurance Act 2002 are a replica of the Marine Insurance Act
+1906, however, the UK has since changed its provisions in the UK Insurance Act 2015 which
+abolishes the automatic discharge of the insurer’s liability and also provides that where the
+
+
+breach of a Warranty is remedied before a risk/loss occurs, the insurer is not discharged from
+liability.
+If an insured who is in breach of a Warranty shows that the non-compliance with the Warranty
+did not increase the risk of the loss, the circumstances in which it occurred, the insurer cannot
+rely on this breach to discharge its liability as per Section 11 of the UK Insurance Act 2015
+Also, some countries for example Australia have changed their laws relating to Warranties
+where the Insurance Contracts Amendment Act 2013 of (Australia) abolishes the automatic
+discharge of the insurers liability upon breach and also establishes the need to show a causal
+link between the breach and the loss. All the Respondents noted that is a good position in the
+Insurance industry in Uganda, and adopting the same would be advantageous to the industry.
+The Respondent at IRA noted that in practice because most insureds do not read the policy and
+the insurers do not have an obligation to read the policy to the insured, the IRA has introduced
+the KFD (key Facts Documents) which requires the Insurer to summarize the key facts in the
+documents on the first page and also KYC (Know Your Client) which is to protect the insured
+and also for the insurer to know the client they are dealing with and the policy they want.
+PROPOSALS FOR REFORMS
+The principle of Utmost good faith
+In this chapter, the challenges noted by Justice Stephen Musota in National Insurance
+Corporation V Sylvan Kakugu121 are considered to assess the need for statutory reforms on the
+duty of utmost good faith; where he stated that the duty of utmost good faith provided for under
+Sections 17,18,19,20 and 21 of the Marine Insurance Act 2002 is unfair because; the insured
+can be unaware of their duty to disclose information, the only remedy for breach of utmost
+good faith is avoiding the entire contract, the insurer is not required to show that the none
+disclosure or misrepresentation had any causal link to the claim to avoid the contract and also
+the insured is required to provide material information that would influence the judgment of a
+prudent insurer and that the insured is held responsible even if the error was reasonable in the
+circumstances.
+
+121 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+
+
+The insured can be unaware of their duty to disclose information; Section 18 of the Marine
+Insurance Act 2002 provides that the insured must disclose every material circumstance that is
+deemed to be known by the insured before the contract is concluded.
+One of the Respondents at Sanlam Insurance Company stated that the practice in Uganda is
+similar to the position stipulated under Sections 17,18,19 and 20 of the Marine Insurance Act
+2002, thus requiring the insured to disclose every material circumstance to the insurer and if
+not disclosed the insurer may avoid the contract.
+One of the reasons for the proposals for reforms by the Law Commission122 was that most
+laymen are unaware of the duty to disclose certain information and it is difficult for these people
+to also tell which information is material and which information is not material. Hasson, R123
+noted that the doctrine of utmost good faith assumes that the insured is in a stronger position
+and thus requires the insured to disclose all the information, however, noted that this is unfair
+especially where the insurer asks general questions. The Law Commission124 also noted that
+there is a need for reform to cure the unfairness thus proposing that general questions after
+specific questions have been asked ought to be avoided.
+Section 18 of the Marine Insurance Act 2002 does not provide for a duty on the insurer to
+inform the insured about the duty of utmost good faith, thus this research proposes the need for
+reform of Section 18 of the Marine Insurance Act 2002 to provide for a duty on the insurer to
+inform the insured about the principle of utmost good faith.
+The insurer is not required to show that the nondisclosure or misrepresentation had any
+causal link to the claim. Justice Stephen Musota in National Insurance Corporation V Sylvan
+Kakugu125noted that for example if a claim related to flood damage is submitted, if it is
+discovered that the insured failed to disclose that their alarm system was not working as
+required by the contract, the insurer could avoid the contract.
+However as noted by one of the insurance agents at Sanlam and the Respondents at the
+Insurance Regulatory Authority, in practice, the insurer has to show a causal link between the
+loss and the breach to avoid the policy, thus where there is no causal link, the insurer is under
+
+122 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+123 Hasson, R, ‘The doctrine of uberrima fides in insurance law – a critical evaluation’ (1969) 32 MLR 615
+124 Law Commission Report, Insurance Law: Non-Disclosure and Breach of Warranty, Cmnd 8064, Law Comm
+125 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+
+
+an obligation to pay the claim. The respondent at the Insurance Regulatory Authority stated
+that much as this is not what is provided under the Insurance laws of Uganda, they also look at
+common law when dealing with these issues, however noted that codification of such provision
+into the laws of Uganda would be of great advantage. Thus stated the need for reform in this
+area and the Insurance laws in Uganda.
+The only remedy for breach of the duty of utmost good faith is avoidance of the contract
+as per Section 17 of the Marine Insurance Act 2002. Justice Stephen Musota in National
+Insurance Corporation V Sylvan Kakugu126noted that this is one of the unfair aspects of the
+principle of utmost good faith in Uganda, thus advocating for reforms. The law Commission
+before the enactment of the UK Insurance Act 2015 noted that the Marine Insurance Act 1906
+provided for only one remedy in case of breach of the principle of utmost good faith, thus noted
+that it was unfair to the insured thus proposed the need for statutory amendments thus the
+different remedies under the UK Insurance Act 2015 depending on whether there was a
+qualifying breach or innocent misrepresentation.
+Schedule 1 of the UK Insurance Act 2015 provides that if the qualifying breach was deliberate
+or reckless, then the insurer may avoid the policy and refuse to pay the claims and they do not
+have to return the premium.
+Paragraph 4 of the First Schedule UK Insurance Act 2015 states that;
+“In the absence of a qualifying breach, if the insurer would not have entered into the
+contract, the insurer may avoid the contract and refuse to pay all claims however must return
+the premium127”.
+Paragraph 5 of the First Schedule of the UK Insurance Act 2015 states that;
+“Where the insurer would have entered the contract on different terms, then the contract is
+to be treated as if the contract had been entered on those different terms if the insurer
+requires128”.
+In Uganda, the Marine Insurance Act 2002 provides for only one remedy upon breach of the
+principle of utmost good faith which is avoidance of the contract, thus as noted by Justice
+Stephen Musota in National Insurance Corporation V Sylvan Kakugu129, this is unfair thus the
+
+126 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+127 UK Insurance Act 2015
+128 UK Insurance Act 2015
+129 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+
+
+need for reform to provide for more than one remedy upon breach of the principle of utmost
+good faith.
+The insured is held responsible even if the breach was reasonable in the circumstances.
+Justice Stephen Musota in National Insurance Corporation V Sylvan Kakugu130noted that even
+when the question was unclear or required specific knowledge that the insured did not have,
+the insured is still held to be in breach of the duty of the principle of utmost good faith, which
+is unfair to the insured. It must be noted that some of the writers for example Hasson, R131
+noted that the insurer should not be allowed to advantage of the ambiguous situations in the
+proposal form thus proposing the need for reforms.
+The Marine Insurance Act 2002 is silent on who is held liable if the breach is reasonable in the
+circumstances, however as noted by Justice Stephen Musota in National Insurance Corporation
+V Sylvan Kakugu132, the practice is that the insured is held liable if the breach was reasonable
+in the circumstances which is unfair in the circumstances thus advocating the need for reform
+The Law relating to Warranties
+On the other hand, Section 33(3) of the Marine Insurance Act 2002 states that;
+“A Warranty must be strictly complied with whether it is material or not and if it is not
+complied with, the insurer is discharged from liability as from the date of the breach of the
+Warranty, without prejudice to any liability incurred by the insurer before the breach133.”
+Warranties require strict compliance as per this provision. One of the Respondents at Sanlam
+Insurance Company noted that one of the most crucial Warranty is the continuing Warranty
+which requires the policyholder to refrain or do something and the insurance companies
+consider whether one has been obliging with the Warranty also noted however that in practice,
+the breach ought to be connected to the breach, thus where the breach is not connected to the
+loss, the insurer and the insured come to a round table and negotiate but this is still at the option
+of the insurer.
+Section 34(2) of the Marine Insurance Act 2002 states that;
+
+130 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+131 Hasson, R, ‘The doctrine of uberrima fides in insurance law – a critical evaluation’ (1969) 32 MLR 615
+132 National Insurance Corporation V Sylvan Kakugu Civil Appeal No. 040 of 2015
+133 Marine Insurance Act 2002
+
+
+“Where a warranty is breached, the insured cannot rely on the defence that the breach has
+been remedied and that the warranty was complied with before the loss134”.
+One of the Respondents at the Insurance Regulatory Authority noted that the recent UK
+Insurance Act 2015 protects the insured as there is no automatic discharge of the insurer’s
+liability in case of breach of a Warranty as per Section 10 of the UK Insurance Act 2015 which
+abolishes the automatic discharge of the insurer. Also noted that the insurer has no liability
+where there is a breach of a Warranty and before it is remedied, however where the breach is
+remedied before the loss, the Insurer is not discharged from liability as per Section 10(4) of the
+UK Insurance Act 2015. And further noted that this is better compared to the position in Uganda
+thus stating that codification of these provisions would be better for the Ugandan Insurance
+Industry. Thus, proposals for reform of the provisions of the law relating to warranties in
+Uganda.
+RECOMMENDATIONS
+Certain recommendations are supposed to be put into consideration to improve the law relating
+to Warranties and the principle of utmost good faith in the Ugandan Insurance Industry. These
+are;
+Principle of Utmost good faith
+Amendment of the Marine Insurance Act 2002
+The current law governing the principle of Utmost good faith in the Insurance Industry in
+Uganda is the Marine Insurance Act 2002 under Sections 17,18,19,20 and 21.
+There is a need to amend the Act to provide for the duty of fair representation which means
+that the disclosure ought to be made in a reasonably clear and accessible manner and this is
+mainly to prevent the insured from bombarding the insurer with a lot of information as provided
+by the UK Insurance Act 2015
+The Marine Insurance Act 2002 does not impose a duty on the insurer to inform the Insured
+about the principle of utmost of utmost good faith. This is similar to the amendment provided
+for by the Insurance Contracts Amendment Act 2013 of (Australia) where the rationale is to
+ensure that the insured is informed about what is to be disclosed and also the fact that Insurance
+contracts are governed by the principle of utmost good faith.
+
+134 Marine Insurance Act 2002
+
+
+Furthermore, currently, the Act provides for only one remedy in case of a breach which is
+avoidance of the insurance contract, thus there is a need for the Parliament to amend the Act to
+provide for various remedies for example remedies for qualifying breach (where it is deliberate
+or reckless and where it is neither) and also remedies for breach in cases for innocent
+misrepresentation.
+Amendment of the Insurance Act 2017
+One of the respondents on the legal team at IRA noted that much as different case law has
+stated that the provisions on the principle of utmost good faith in the Marine Insurance Act
+2002 apply to all aspects of insurance, there is a need for the amendment of the Insurance Act
+2017, to provide for general provisions on the law relating to the principle of utmost good faith
+in insurance instead of relying on the Marine Insurance Act 2002.
+The law relating to Warranties
+The law governing Warranties in the Insurance Industry is the Marine Insurance Act 2002
+Amendment of the Marine Insurance Act 2002
+Currently, the Marine Insurance Act 2002 under Section 33(3) provides that the insurer is
+automatically discharged from liability upon breach of a Warranty. However, as the Law
+Commission noted before the enactment of the UK Insurance Act 2015, this is unfair to the
+insured and favours the insurer to a large extent, since upon breach the Insured does not have
+any other remedy. Thus, a need for proposals for reform of the law relating to Warranties so
+that the insured is not automatically discharged from liability.
+Furthermore, the current Marine Insurance Act 2002 under Section 34(2) provides that the
+insured cannot rely on the defence that the breach of the Warranty was remedied before the
+loss/ risk. This means that where there is a breach of a Warranty, it does not matter where the
+breach has been remedied before the loss/ risk, the insurer is still discharged from liability. As
+noted by the Law Commission before the enactment of the UK Insurance Act 2015, such a
+provision is also unfair to the insured since some of the Warranty(breach) can be remedied,
+thus the insurer being discharged from liability is unfair to the insured. Thus, the a need for
+amendment of Section 34(2) of the Marine Insurance Act 2002.
+
+
+Also, one of the Respondents at Sanlam Insurance Company noted that in practice, in case of
+a breach of a Warranty, the insurer is supposed to show a causal link between the loss and the
+breach and further noted that codification of such a provision would also protect the insured.
+Amendment of the Insurance Act 2017
+One of the respondents on the legal team at the Insurance Regulatory Authority (IRA) noted
+that much as different case law has stated that the law relating to Warranties in the Marine
+Insurance Act 2002 applies to all aspects of insurance, there is a need for the amendment of the
+Insurance Act 2017, to provide for general provisions on the law relating to Warranties instead
+of relying on the Marine Insurance Act 2002.
+Sensitization of the masses
+This was noted by one of the respondents at IRA that sensitization of the masses about the need
+to read the insurance industry will improve the relations in the insurance industry in Uganda.
+This also includes making the different people aware of the IRA, where they can submit their
+complaints in case of any, and also the KFD (key Facts Documents) which requires the Insurer
+to summarize the key facts in the documents on the first page and also KYC (Know Your Client)
+which is to protect the insured and also for the insurer to know the client they are dealing with
+and the policy they want.
+The general objective of this research was to analyse the need for amendment of the principle
+of utmost good faith and the law relating to Warranties. From the research conducted and
+feedback from the different respondents, and different desktop research conducted, there is a
+need for an amendment of the law relating to the principle of utmost good faith to provide that
+any rule that a contract of insurance can be avoided on the ground of breach of the principle of
+utmost good faith by the other party is abolished and to include the duty of fair presentation
+whose rationale is to prevent the insured from bombarding the insurer with a lot of information,
+the duty on the insurer to inform the insured about this duty and also to provide for different
+remedies upon breach of the principle of utmost good faith.
+On the other hand, there is a need to amend the law relating to Warranties, to abolish the
+automatic discharge of the insurer’s liability upon breach of the Warranty, to abolish the
+provision that the breach of a Warranty cannot be remedied before a loss occurs and also to
+need the need to establish a causal link upon breach by the insurer among others.

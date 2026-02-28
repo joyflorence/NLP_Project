@@ -1,0 +1,1346 @@
+ 
+THE USE OF A BIO-ENZYME AND PINEAPPLE LEAF FIBER AS A STABILIZER 
+IN CLAY BRICKS  
+ 
+MIKE COLLIN OCHOLLA    
+S21B32/128 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+i  
+  
+ABSTRACT  
+This paper investigated the potential of the bio-enzyme and pineapple leaf fiber 
+combination as stabilizers for the clay bricks to decrease the carbon emission firewood 
+the usual material used in the firing process. We present a study covering the 
+effectiveness of the hybrid bio-enzyme (Terrazyme) mixtures with Pineapple Leaf Fiber 
+(PALF) in clay bricks as a detailed description. The results of the field tests performed 
+in Siron clay bricks provided evidence that the use of the new material not only 
+decreases the environmental impact but also improves the strength and water 
+absorption of the brick itself. Which in turn contributes to the construction of the eco-
+friendly and sustainable building brick.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii  
+  
+DECLARATION 
+I, Ocholla Collin Mike, declare that this research report titled "Assessing the Use of A 
+Bio-Enzyme and Pineapple Leaf Fiber as a Stabilizer of Clay Bricks" is my original work 
+and has not been submitted for any other degree or qualification. All sources and 
+references have been appropriately acknowledged. 
+ 
+SIGNED…………………………………………. 
+ 
+Date: ………………………………………………. 
+ 
+OCHOLLA COLLIN MIKE 
+S21B32/128 
+ 
+ 
+ 
+ 
+
+iii  
+  
+APPROVAL 
+I hereby certify that OCHOALLA COLLIN MIKE, registration number S21B32/128, 
+successfully undertook her research project at Uganda Christian University during the 
+period of September 2024 to April 2025. Therefore, the work that he was able to 
+complete under my supervision is accurately recorded in this report and is ready for 
+submission for assessment purposes to the department of engineering and environment 
+at Uganda Christian University.  
+Signed: …………………………………………… 
+ 
+ Date: ……………………………………………. 
+Eng. Dr. MORRIS OLENG 
+(Academic Supervisor) 
+ 
+ 
+
+iv  
+  
+DEDICATION 
+This work is dedicated to my family for their unwavering support and encouragement 
+throughout my academic journey. It is also dedicated to my Project supervisor, Eng. Dr. 
+Morris Oleng for uniquely inspiring me. I dedicate this research to the countless 
+individuals and communities affected by environmental degradation, with the hope 
+that this research contributes to sustainable practices in construction. 
+ 
+ 
+
+v  
+  
+ACKNOWLEDGEMENTS 
+I would like to express my deepest gratitude to my supervisor, Eng. Dr. Morris Oleng, 
+for his invaluable guidance and support throughout this research project. I also thank 
+my colleagues at Uganda Christian University for their collaboration and 
+encouragement. Special thanks to the local communities in Siron for their participation 
+in this study and to the Ministry of Water and Environment for their insights into 
+traditional brick production practices. Finally, I acknowledge the funding and resources 
+provided by my parents that made this research possible. 
+ 
+
+vi  
+  
+TABLE OF CONTENTS 
+ABSTRACT ........................................................................................... i 
+DECLARATION ...................................................................................... ii 
+APPROVAL .......................................................................................... iii 
+DEDICATION ........................................................................................ iv 
+ACKNOWLEDGEMENTS ............................................................................. v 
+LIST OF ACRONYMS AND ABBREVIATIONS ....................................................... ix 
+CHAPTER ONE..................................................................................... 10 
+1.1 
+INTRODUCTION ....................................................................... 10 
+1.2 
+BACKGROUND ......................................................................... 11 
+1.3 
+PROBLEM STATEMENT ............................................................... 13 
+1.4 
+MAIN OBJECTIVE OF THE STUDY .................................................. 14 
+1.5 
+SPECIFIC OBJECTIVES ................................................................ 14 
+1.6 
+RESEARCH QUESTIONS ............................................................... 14 
+1.7 
+JUSTIFICATION ........................................................................ 14 
+1.8 
+SCOPE .................................................................................. 15 
+CHAPTER TWO: LITERATURE REVIEW .......................................................... 16 
+2.1 
+CLAY SOILS ............................................................................. 16 
+2.2 
+PROPERTIES OF SMECITE ............................................................. 16 
+2.3 
+CLAY BRICKS ............................................................................ 17 
+2.4 
+STABILIZATION ......................................................................... 17 
+2.4.1 
+Chemical Stabilization .......................................................... 17 
+2.4.2 
+Mechanical Stabilization ........................................................ 18 
+
+vii  
+  
+2.5 
+BIO-ENZYMES........................................................................... 18 
+2.6 
+Terrazyme as one of the bio enzymes for stabilization.......................... 18 
+2.6.1 
+Mechanism of bio-enzyme stabilization ...................................... 20 
+2.6.2 
+Promote cation exchange ...................................................... 21 
+2.6.3 
+Reduce plasticity ................................................................ 21 
+2.7 
+Natural fibers (Pineapple Leaf Fiber) .............................................. 21 
+CHAPTER THREE: METHODOLOGY ............................................................. 22 
+3.1 
+To determine the soil properties of the clay bric ................................ 22 
+3.1.1 
+Particle Size Distribution ....................................................... 22 
+3.1.2 
+Atterberg Limits Test (Plastic Limit, Liquid Limit, and Plasticity Index) 23 
+3.1.3 
+The X-ray Fluorescence (XRF) ................................................. 26 
+3.1.4 
+Free Swell Index (FSI) Test ..................................................... 27 
+3.1.5 
+Compressive Strength Test BS EN 772-1:2011 ............................... 27 
+3.1.6 
+Water Absorption Test BS EN 772-11:2011 ................................... 29 
+3.2 
+Determining Physical Properties of Pineapple Leaf Fiber ....................... 30 
+3.2.1 
+Tensile Strength Test (ASTM D2256). .......................................... 31 
+3.2.2 
+Fiber Diameter Measurement. ................................................. 32 
+3.3 
+To evaluate the engineering properties of stabilized clay bricks and identify 
+the optimal ratio for the mix. ............................................................... 32 
+3.3.1 
+Bio-Enzyme ratios ............................................................... 32 
+3.3.2 
+Pineapple Leaf Fiber (PALF) Proportions ..................................... 33 
+3.3.3 
+1. Compressive Strength Standard Test. ..................................... 34 
+3.3.4 
+2. Water Absorption Test Standard. ........................................... 34 
+CHAPTER FOUR: RESULTS AND DISCUSSION ................................................... 35 
+
+viii  
+  
+4.1 
+Objective one: Determining the soil properties of the clay brick. ............ 35 
+4.1.1 
+Particle Size Distribution ....................................................... 35 
+4.1.2 
+Atterberg Limits test on the clay soil sample ............................... 36 
+4.1.3 
+XRF test of the clay soil ........................................................ 40 
+4.1.4 
+Free Swell Index (FSI) Test (BS 1377-2:1990) ................................ 44 
+4.1.5 
+The compressive strength test................................................. 45 
+4.1.6 
+Water Absorption Test ........................................................... 47 
+4.2 
+Objective two: To determine the physical properties of pineapple leaf 
+fibers. 50 
+4.3 
+Objective Three: Evaluating the engineering properties of stabilized clay 
+bricks and identify the optimal ratio for the mix. ....................................... 54 
+4.3.1 
+4.3.1 Water Absorption Test .................................................... 60 
+4.4 
+DESIGN OF STABLIZED BRICK ......................................................... 65 
+4.4.1 
+DESIGN OF CLAY BRICK AND WOODEN MOULD ............................... 67 
+CONCLUSIONS AND RECOMMENDATIONS ....................................................... 68 
+5.1 
+Conclusions ............................................................................ 68 
+5.2 
+Recommendations ..................................................................... 69 
+REFERENCES ...................................................................................... 70 
+APPENDIX .......................................................................................... 75 
+ 
+ 
+ 
+ 
+ 
+
+ix  
+  
+LIST OF ACRONYMS AND ABBREVIATIONS 
+• 
+CBR: California Bearing Ratio 
+• 
+CSH: Calcium Silicate Hydrate 
+• 
+PALF: Pineapple Leaf Fiber 
+• 
+UCU: Uganda Christian University 
+ 
+ 
+ 
+ 
+
+10 
+ 
+CHAPTER ONE 
+1.1 
+INTRODUCTION 
+The construction sector is an economic stimulant but is no less a source of ecological 
+degradation. The extensive application of firewood in Ugandan bricks is directly 
+responsible for carbon accumulation and deforestation. As demands for green building 
+materials rise, innovative ways to stabilizing bricks have to do to lessen the effects on 
+the environment by regular bricks. 
+Clay bricks, in Uganda, omnipresent for their strength and insulating ability, can 
+completely be exploited by subjecting them to stabilization treatments to convert them 
+to mechanically reinforced and environment-safe bricks. Studies in recent decades 
+have revealed extensive opportunities for application of bio-enzyme technology in 
+quality improvement of clay bricks. In their natural forms, bio-enzymes, microbially 
+produced catalysts, have revealed opportunities to catalyze reactions to improve 
+bonding quality of clay in combinations with traditional stabilizers such as cement and 
+lime. 
+In addition, fibers such as natural fibers made of pineapple leaf fibers (PALF) have found 
+attention for their ability to strengthen construction materials. PALF is widely available 
+in Uganda, and its utilization in clay bricks would be a sustainable alternative to the 
+limitations provided by traditional stabilization techniques. This study seeks to explore 
+the synergetic effects of pineapple leaf fiber and bio-enzyme on the stabilization of 
+clay bricks in terms of their mechanical strengths, durability, and eco-sustainability. 
+ 
+
+11  
+  
+1.2 
+BACKGROUND  
+Uganda, like most developing nations, is faced with an acute shortage of housing 
+resulting from urbanization and population growth. Clay bricks are among the most 
+widely used construction materials for building in both urban and rural areas because 
+they are readily available and affordable. In regions like Kapchorwa, production of clay 
+bricks is normally on a small scale from locally available clay of high plasticity that 
+requires stabilization to enhance strength and durability. Nevertheless, the 
+conventional technique of clay brick firing using firewood is not just energy-consuming 
+but also causing serious environmental concerns. The practice is leading to 
+deforestation, which is resulting in biodiversity loss, soil erosion, and carbon dioxide 
+emission in the environment. Research indicated that the forest cover in Uganda is 
+diminishing at a rate of 1.8% per year, and the majority of the loss is due to fuelwood 
+harvesting for brick kilns (Bodipo-Memba et al., 2022). High plasticity clays, which 
+occur in districts like Kapchorwa, pose further problems. These soils, which have a high 
+montmorillonite content, swell when wet and shrink when dry, making structures 
+constructed from them without stabilization vulnerable to instability. While fired 
+bricks, by making available better compressive strength, alleviate this challenge, they 
+are high in environmental as well as economic kiln cost. Other types of stabilization, 
+and especially those minimizing the use of firewood, are thus sorely required. 
+Pineapple leaf fiber (PALF) is an abundant agricultural residue in Uganda, particularly 
+in areas where the cultivation of pineapple is widespread like Kayunga, Luwero and 
+Mukono. 
+
+12  
+  
+Pineapple leaves are presently disposed of as waste during pruning. Nevertheless, the 
+study reveals that PALF has superior tensile strength and binding qualities and can be 
+utilized as reinforcement material in building construction (Razman et al., 2024). By 
+integrating bio-enzyme stabilization techniques with PALF, the present research seeks 
+to investigate an eco-friendly alternative that not only mitigates the issues of plasticity 
+in clay soil but also minimizes environmental degradation linked to conventional brick-
+making processes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13  
+  
+1.3 PROBLEM STATEMENT  
+The traditional clay brick production in Uganda relies heavily on firewood, and as such, 
+it results in tremendous deforestation and greenhouse emissions. Firewood fuels over 
+70% of the energy used in the brick kiln and results in the burning of approximately 
+92,000 hectares of forest cover annually (Bodipo-Memba et al., 2022). The process is 
+unsustainable and poses a risk to Uganda's natural resources and environmental well-
+being. 
+In eastern Uganda, Budadiri, Chelel, Mutufu, and Siron are also affected by expansive 
+smectite clays (Wasajja-Navoyojo et al., 2016; Mukasa-Tebandeke et al., 2015). The 
+clays are highly acidic (0.1-1.85 mol/g) relative to kaolinite clays from central Uganda 
+(Mukasa-Tebandeke et al., 2014). The characteristics, such as enormous chemically 
+active surface areas, influence water absorption and liquid flow behavior (Odom, 1984). 
+Cement and lime are being widely utilized as stabilizers but are energy-intensive, thus 
+causing greenhouse gas emissions. Environmentally friendly alternatives are urgently 
+needed. Bio-enzymes, i.e., Terrazyme, have the potential to enhance compressive 
+strength and reduce permeability via stable clay aggregates formation (Saini & 
+Vaishnava, 2015). This study suggests mixing bio-enzymes with pineapple leaf fibers for 
+the development of a hybrid stabilization method that reduces the environmental 
+impact of brick manufacturing. 
+ 
+ 
+
+14  
+  
+1.4 MAIN OBJECTIVE OF THE STUDY  
+To assess the use of a bio-enzyme and pineapple leaf fibers as a stabilizer in clay bricks.  
+1.5 SPECIFIC OBJECTIVES  
+1. To determine the soil properties of the clay brick.  
+2. To determine the physical properties of pineapple leaf fibers.  
+3. To evaluate the engineering properties of stabilized clay bricks and identify the 
+optimal ratio for the mix.  
+1.6 RESEARCH QUESTIONS  
+1. What are the soil properties of the clay brick?  
+2. What are the physical properties of pineapple leaf fibers?  
+3. What are the engineering properties of a bio-enzyme and pineapple leaf fiber-
+stabilized clay bricks and the optimal ratio for the mix?  
+1.7 JUSTIFICATION  
+In Siron Village, located in Kirwoko Parish, Kaptanya Subcounty, Kapchorwa District, 
+clay soils primarily consist of Montmorillonite, which has a high cation exchange 
+capacity. This leads to significant swelling as the clay absorbs large amounts of water, 
+increasing its volume. 
+Bio-enzymes like Terrazyme, an organic and non-toxic formulation derived from the 
+fermentation of fruit and vegetable waste, enhance soil engineering properties. 
+Terrazyme catalyzes reactions between clay particles and organic cations, reducing 
+water absorption and increasing compaction (Shah, 2017; Suresh, 2017). Studies 
+
+15  
+  
+indicate improvements in the California Bearing Ratio (CBR) values of treated soil, with 
+optimal results typically at 0.5 ml per 100 ml of water (Suresh, 2017; Panchal, 2017). 
+This treatment enhances soil strength and can reduce pavement thickness, potentially 
+saving up to 30% in road construction costs (Suresh, 2017). 
+Pineapple leaf fibers (PALF) also show promise as reinforcement in clay and earth 
+bricks, demonstrating tensile strength ranging from 16.71 MPa to 76.47 MPa, with 
+optimal fiber loading (Kasim et al., 2015; Odusote & Kumar, 2016; Susilowati & 
+Sumardiyanto, 2018). 
+ 
+ 
+1.8 SCOPE  
+This research will focus on the clay found in Siron Village, in Kirwoko Parish, Kaptanya 
+Subcounty, Kapchorwa District, Uganda. It will focus on assessing the physical 
+properties of the pineapple leaf fibers, determining their optimal mix for brick 
+stabilization, and evaluating the resulting bricks' engineering properties. The study will 
+involve laboratory testing of bricks stabilized with varying ratios of bio-enzyme and 
+pineapple leaf fiber.  
+ 
+ 
+ 
+ 
+
+16  
+  
+CHAPTER TWO: LITERATURE REVIEW 
+2.1 CLAY SOILS 
+Clay soils comprise fine grains composed of clay minerals whose grain is below 2 
+micrometers. The soils exhibit good plasticity, cation exchange ability (CEC), and 
+holding of water and thus their application is vital in agricultural, civil engineering, and 
+in environment application in Mukono and in Ugandans' eastern regions. 
+Clay soils have three classes, such as illite, smectite, and kaolinite. Smectite soils have 
+good swelling and good cation-exchanging property, but good for agricultural moisture 
+and bad for building, in case of ground instability. The illite soils have average shrink-
+shrink and in building, while for low plasticity and strength, kaolinite is valued and 
+good for bricks and for ceramic industry (Belghazdis & Hachem, 2022; Mukasa-
+Tebandeke et al., 2022). 
+2.2  PROPERTIES OF SMECITE 
+Smectite clays have good cation-exchanging capacities, and such capacities are 
+desirable for agricultural application in water scarcity soils (Keren, 2021). Such 
+capacities are desirable for agricultural application in water scarcity. The plasticity is, 
+however, challenging to handle in construction. The illite clays, however, have average 
+plasticity and low shrink-swelling, and such is desirable for application in building, for 
+example, in bricks' manufacture. Kaolinite is desirable for strength and stability under 
+high-temperature, something desirable in strong bricks' and tiles' manufacture (Dixon, 
+2022). 
+
+17  
+  
+2.3 CLAY BRICKS 
+Clay bricks are materials for construction made through molding clay and subjecting 
+them to kilning. In Uganda, their standard measurement is 200mm in length, 100mm in 
+breadth, and 75mm in thickness. The bricks have various applications, including load 
+walls and foundations. The locally produced clay bricks have been used for housing and 
+building on a large scale, and offered an inexpensive and renewable source, in most 
+rural societies where there is adequate clay (Ifurueze et al., 2018). 
+2.4 STABILIZATION 
+Stabilization refers to any treatment to improve physical quality of building materials, 
+for instance, soils like clay, to make them resistant and to ensure them to function 
+properly. Stabilization is made up of addition of stabilizers like cement, cement, or bio-
+enzymes, to which stabilizers have to undergo chemical reaction to soils or materials, 
+to limit their plasticity, to strengthen them, and to protect them against deformation 
+under impact of such natural components such as water and shrinkage. 
+2.4.1 Chemical Stabilization 
+Chemical stabilization is made possible through stabilizers such as cement and lime in 
+clay soils to improve their engineering behavior. Stabilizers cement and cement in 
+Uganda have been largely employed. Stabilizer's calcium ions bind to clay minerals to 
+form cementitious compounds, thus increased compressive strength and durability in 
+clay bricks (Riza et al., 2011). Fly ash, combustion residue of coal, is also discovered 
+to be used in stabilizing in various regions, posing an available low-impact solution. 
+
+18  
+  
+2.4.2 Mechanical Stabilization 
+Mechanical stabilization compresses the mixture of clay to compact void space and to 
+ensure optimal density. The process strengthens and makes bricks moisture and natural 
+effects resistant. Mechanism is oftentimes employed in Ugandan commercial bricks to 
+ensure standard shapes and dimensions (Firoozi et al., 2017). 
+2.5 BIO-ENZYMES 
+Bio-enzymes are natural, organic compounds produced by fermenting plant materials 
+including fruit, vegetable, or cane. In their role as stabilizers, bio-enzymes in stabilizing 
+soils modify physical and chemical states of soils, stabilizing, compacting, and 
+strengthening them to sustain load. As an organic, green cement or lime stabilizers' 
+substitute, bio-enzymes have low carbon footprints and low ecological impact (Sathish 
+et al., 2021). 
+2.6 Terrazyme as one of the bio enzymes for stabilization 
+Terrazyme is a commonly used organic liquid enzyme in soil stabilization and soil 
+improvement, made of different vegetable and fruit extracts. Terrazyme positively 
+changes the California Bearing Ratio (CBR) and enhances soil strength while decreasing 
+the Optimum Moisture Content (OMC) and plasticity index (Ikeagwuani, & Nwonu, 
+2019).  
+As the water is removed from the soil, the soil particles (mostly clay) have a greater 
+capacity to exchange cations, resulting in increased friction (Agarwal & Kaur, 2018). 
+The Terrazyme coats the clay particles to make them moisture resistant, which 
+
+19  
+  
+ultimately results in a higher long-term stabilizing effect and biodegradability (Jain & 
+Sharma, 2020).  
+Terrazyme is a dark brown liquid that dissolves in water and has a sweet molasses smell. 
+It is not an eye irritant, and personal protective equipment (i.e. masks and gloves) is 
+not required (Kumar et al., 2021).  
+Terrazyme must be dosed correctly; under-dosing will have ineffective stabilization, 
+and over-dosing is an unwanted expense without added benefit (Onah et al., 2022). 
+Terrazyme can be dosed appropriately by performing a California Bearing Ratio (CBR) 
+test with soil samples mixed with varying concentrations of Terrazyme to conclude the 
+optimal dosage for stabilization (Ikeagwuani & Nwonu 2019). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20  
+  
+Properties of Terrazyme 
+Table 1 Terrazyme Properties (Navale et al., n.d.) 
+Property 
+Value 
+Boiling Point 
+Same as water 
+Solubility in water 
+Same as water 
+PH value 
+3.50 
+Appearance/ odor 
+Dark Brown, Non-Obnoxious 
+Total Dissolved Solids 
+19.7ppm 
+Cation Exchange Capacity 
+3.87 
+Hazardous Content 
+None 
+Melting Point 
+Liquid 
+Reactivity Data 
+Stable 
+Materials to Avoid 
+Caustics and Strong Bases. 
+Specific Gravity 
+1.05 
+ 
+2.6.1 Mechanism of bio-enzyme stabilization 
+Bio-enzymes can have a positive impact on the stability of soil through the alteration 
+in soil grain arrangements. In soils with a high clay content, the enzymes can assist in 
+re-aggregation of clay particles from de-aggregation of organic matter, allowing certain 
+chemical reactions to occur that facilitate the decomposition of water-clay bonds 
+
+21  
+  
+(Ikeagwuani & Nwonu, 2019). The outcome of these actions reduces the swelling-
+shrinkage behavior of expansive clays and enhances solidification of the soil (Agarwal 
+& Kaur, 2018). The stabilization process includes: Cation exchange reducing clays 
+plasticity through the replacement of the absorbable water molecule with stabilizing 
+ions (Jain & Sharma, 2020). 
+2.6.2 Promote cation exchange 
+Bio-enzymes facilitate cation replacement between clay minerals in such a manner in 
+which calcium and magnesium ions replace sodium ions in clay structure. The cation 
+replacement lowers electrostatic repellency between clay materials, and thus, forms 
+denser and stable structure in soils (Narain et al., 2020). 
+2.6.3 Reduce plasticity 
+Bio-enzymes significantly constrain plasticity index of the soil, and swelling and water-
+absorbing ability is compromised. The consequence is to render the soil impermeable 
+to water deterioration and, therefore, wet durability is enhanced (Sathish et al., 2021). 
+2.7 Natural fibers (Pineapple Leaf Fiber) 
+Pineapple leaf fibers consist of plant leaves Ananas comosus. The plant is renewable 
+resource and green in accordance to their degradable and renewable property and their 
+available by-product in agricultural industry (Behera et al., 2019). The pine leaf fibers 
+have good extension strength resistance and good strength in building materials, in 
+composites and earth stabilizers. 
+ 
+ 
+
+22  
+  
+CHAPTER THREE: METHODOLOGY 
+3.1 To determine the soil properties of the clay bric 
+3.1.1 Particle Size Distribution 
+3.1.1.1 Sieve Analysis  
+This method evaluated soils with particle sizes ranging from gravel to fine sand. The 
+detailed procedure was as follows. 
+Materials required. 
+• 
+A set of sieves with appropriate aperture sizes, typically ranging from 63 mm to 
+63 µm, depending on the soil sample. 
+• 
+Mechanical sieve shaker to facilitate consistent sieving. 
+• 
+Balance readable to 0.01 g for precise measurements. 
+• 
+Drying oven capable of maintaining temperatures between 105°C and 110°C. 
+• 
+Metal trays for handling soil samples. 
+• 
+Sieve brushes for cleaning sieves. 
+• 
+Sieve analysis worksheet for recording data. 
+Sample Preparation. The soil sample was Placed in a dried to remove moisture. After 
+drying, it was weighed accurately, m0. 
+The sieves were arranged in descending order of aperture size, from largest to smallest, 
+ensuring each sieve was clean and undamaged. And place the dried soil sample onto 
+the top sieve of 63mm. 
+
+23  
+  
+Secured the sieve stack in the mechanical sieve shaker and operated it for a standard 
+duration, typically 10 to 15 minutes, to ensure thorough separation of particle sizes. 
+After sieving, carefully removed each sieve, starting from the top, and weighed the soil 
+retained on each sieve separately. 
+Noted the mass of soil retained on each sieve and calculated the percentage retained 
+relative to the total sample mass. 
+Determined the cumulative percentage passing each sieve size by subtracting the 
+cumulative percentage retained from 100%. 
+Plotted the cumulative percentage passing against the corresponding sieve sizes on 
+semi-logarithmic graph paper to produce the particle size distribution curve, which aids 
+in soil classification and assessment. 
+ 
+3.1.2 Atterberg Limits Test (Plastic Limit, Liquid Limit, and Plasticity Index) 
+The Atterberg Limits (Liquid Limit, Plastic Limit, and Plasticity Index) were determined 
+in accordance with British Standard BS 1377-2:1990. These tests classify fine-grained 
+soils based on their consistency and plasticity. ‘ 
+Liquid Limit (LL) – Cone Penetrometer Method (BS 1377-2:1990, Clause 4.3) 
+This method determined the moisture content at which a soil transitions from a liquid 
+to a plastic state. 
+Materials Required: 
+• Cone penetrometer (30° cone, 80g ± 0.5g total mass). 
+
+24  
+  
+• Penetration measurement device. 
+• Mixing tools (spatula, glass plate). 
+• 425 µm sieve. 
+• Moisture content containers. 
+• Oven and balance (readable to 0.01 g). 
+• Distilled water. 
+Procedure 
+The soil sample was air-dried and sieved through a 425 µm sieve. 
+The sieved soil was mixed with distilled water to form a smooth, homogeneous paste. 
+The soil paste was placed in the penetrometer cup, and the surface was leveled. 
+The cone was lowered until it just touched the soil surface, and it was then released 
+for 5 seconds. 
+The penetration depth of the cone into the soil was measured. 
+The moisture content of the soil was adjusted, and the process was repeated to obtain 
+at least four penetration readings bracketing 20 mm. 
+The penetration depth (mm) was plotted against the moisture content (%) on a graph. 
+The Liquid Limit (LL) was the moisture content corresponding to 20 mm penetration, 
+interpolated from the flow curve. 
+ 
+ 
+
+25  
+  
+Plastic Limit (PL) (BS 1377-2:1990, Clause 5.3) 
+This method determined the moisture content at which a soil transitions from a plastic 
+to a semi-solid state. 
+Materials Required: 
+Glass plate. 
+3 mm rolling rods. 
+425 µm sieve. 
+Moisture content containers. 
+Oven and balance (readable to 0.01 g). 
+Distilled water. 
+Procedure 
+Use approximately 20 g of soil that had passed through a 425 µm sieve. 
+The soil was mixed with distilled water to form a stiff, plastic paste. 
+The soil paste was rolled into a 3 mm diameter thread on the glass plate. 
+If the thread crumbled at 3 mm diameter, the crumbled soil was collected for moisture 
+content determination. 
+The process was repeated until consistent crumbling occurred at 3 mm diameter. 
+The moisture content of the crumbled soil was determined. 
+The results of two trials were averaged to obtain the Plastic Limit (PL). 
+
+26  
+  
+Plasticity index (PI) 
+The difference between the liquid limit and the plastic limit was calculated as the 
+plasticity index. 
+PI = LL – PL (as a percentage) 
+ 
+3.1.3 The X-ray Fluorescence (XRF) 
+This test was performed to evaluate the chemical composition of clay soil in accordance 
+with ASTM D5381-93 (2021). The clay soil sample was left to air dry, ground to pass 
+through a 75-micron sieve, and weighed (15g), then placed in a plastic sample cup with 
+a support film to establish a flat surface for scanning. 
+The sample was compacted and area crushed for homogeneous distribution. 
+Standardized reference materials were utilized to calibrate the XRF spectrometer. 
+The sample was placed into the spectrometer, and an X-ray beam was directed at the 
+surface of the sample while the fluorescence emissions were recorded and analyzed. 
+The XRF assessment provided quantitative data on the percent archaeometric 
+compositions of the significant oxides of SiO₂, Al₂O₃, Fe₂O₃, CaO, MgO, Na₂O and K₂O 
+oxides found in the clay soil. The reported values could then be used to evaluate the 
+soil material for engineering purposes.  
+The protocols for preparation were strictly followed so accurate results would be 
+obtained. The X-ray fluorescence test will display reliable results for chemical analysis 
+of clay soil. Proper sample preparation, calibration, and positioning provided accurate 
+
+27  
+  
+results in support of decisions such as: soil stabilization, construction material 
+selection, and geotechnical applications. 
+ 
+3.1.4 Free Swell Index (FSI) Test 
+The free swell test, using the USBR (United States Bureau of Reclamation) method, 
+determined the potential for a soil to swell when exposed to water by measuring the 
+increase in volume of a soil sample after it was immersed in water. This method was 
+developed by Holtz and Gibbs (1956) and was used to assess soil expansivity. 
+Free swell ratio was defined as the ratio of the equilibrium sediment volume of a 10 g 
+oven-dried soil sample that had passed through a 425 μm sieve and was placed in a 100 
+ml graduated measuring jar containing distilled water, to that in kerosene, after an 
+equilibration period of a minimum of 24 hours. 
+This test was used to check volume expansion in water in soils, which was crucial in 
+identifying swelling soils. The swelling property was significant in testing stabilization 
+treatments. 
+ 
+3.1.5 Compressive Strength Test BS EN 772-1:2011 
+This test was conducted to determine the maximum compressive load that a masonry 
+unit can withstand before failure, crucial for evaluating its structural integrity. 
+Materials and Apparatus Required:  
+
+28  
+  
+• Compression testing machine, compliant with BS EN 772-1:2011, 
+capable of applying a controlled compressive load. 
+• Measuring devices (e.g., calipers, rulers) for accurate measurement of 
+specimen dimensions. 
+• Appropriate packing materials (e.g., plywood or steel plates) to ensure 
+uniform load distribution. 
+• Test specimens conforming to the dimensions specified in the 
+standard. 
+Procedure:  
+The test specimens were prepared according to the standard, ensuring that the loading 
+surfaces were flat and parallel. 
+The dimensions of each test specimen were measured and recorded. 
+The specimen was centered between the platens of the compression testing machine. 
+If necessary, packing materials were used to ensure uniform load distribution and to 
+prevent premature failure due to uneven surfaces. 
+The compressive load was applied at a controlled rate, as specified in BS EN 772-1:2011. 
+The load was continuously applied until the specimen failed, and the maximum load 
+achieved was recorded. 
+The compressive strength was calculated by dividing the maximum load by the cross-
+sectional area of the specimen. 
+The compressive strength and failure mode for each test specimen were recorded. 
+
+29  
+  
+The average compressive strength of the tested specimens was calculated. 
+The results were reported in accordance with the standard. 
+ 
+3.1.6 Water Absorption Test BS EN 772-11:2011 
+This test was performed to determine the amount of water absorbed by a masonry unit, 
+indicating its resistance to moisture and porosity. 
+Materials and Apparatus Required. 
+• Water tank or container of sufficient size to fully immerse the masonry units. 
+• Oven capable of maintaining a constant temperature (typically 105°C ± 5°C). 
+• Balance, readable to 0.1% of the specimen's mass. 
+• Clean, dry cloth. 
+• Distilled or deionized water. 
+Procedure: 
+Dried the masonry units in an oven at 105°C ± 5°C until a constant mass was achieved. 
+Allowed the dried units to cool to room temperature. 
+Measured and recorded the dry mass (Mdry) of each unit. 
+Immersed the units completely in water at a specified temperature (typically room 
+temperature). 
+Soaked the units for a specified period (e.g., 24 hours), as required by the application 
+or standard. 
+
+30  
+  
+Removed the units from the water and allowed excess water to drain off. 
+Wiped the surface of each unit with a damp cloth to remove surface water. 
+Measured and recorded the saturated mass (Msat) of each unit. 
+Calculated the water absorption (Wa) as a percentage of the dry mass using the 
+formula: Wa = 
+(𝑀𝑠𝑎𝑡 − 𝑀𝑑𝑟𝑦) 
+ 𝑀𝑑𝑟𝑦
+×  100 
+Recorded the results for each unit and calculated the average water absorption for the 
+sample. 
+3.2 Determining Physical Properties of Pineapple Leaf Fiber 
+Production of Pineapple Leaf Fiber (PALF) 
+The production of pineapples fibres was achieved by plucking green leaves of 
+pineapples, scratching them by blunt knife to expose the fibers. 
+The fibers are then treated in alkaline solution inform of Wood Ash treatment for 
+suitability for a rural setting. 
+The fibres are dried in 24-48 hours in aerated atmosphere until dry. The dry fibres, last, 
+keep in closed, moisture proof packages to maintain them in good quality and free 
+moisture, for testing their physical and chemical characters. 
+ 
+ 
+ 
+ 
+
+31  
+  
+Physical Properties Evaluation of PPLA 
+3.2.1 Tensile Strength Test (ASTM D2256).  
+This test, performed according to ASTM D2256, measured the following properties: 
+o Breaking Force (gf) 
+o Elongation (mm) 
+o Fiber Strength (RKM - breaking length, g/tex) 
+o Breaking Work (gf*cm) 
+o Time to Break (s) 
+• 
+Materials and Apparatus Required: 
+o Tenso aster Tester (Tensile Testing Machine / Universal Testing Machine) 
+o PPLA fiber samples 
+o ASTM D2256 standard document 
+• 
+Procedure: 
+Prepared fiber samples according to the specifications outlined in ASTM D2256. 
+Measured and recorded the initial dimensions of each fiber sample. 
+Securely clamped the fiber sample between the grips of the Tenso Aster Tester. 
+Applied a tensile load at a controlled rate, as specified in the standard. 
+Recorded the force and elongation during the test. 
+
+32  
+  
+Continued applying the load until the fiber broke, recording the breaking force, 
+breaking work, and time to break. 
+Calculated the tensile strength, elongation, and fiber strength (RKM). 
+Recorded the results for each fiber sample and calculated the average values. 
+Reported the results in accordance with ASTM D2256. 
+3.2.2 Fiber Diameter Measurement.  
+Tool: Vernier Caliper 
+To accurately measure an object with a Vernier caliper, first ensured clean jaws and 
+proper zeroing. Then, gently placed the object between the jaws, gripped it securely, 
+and aligned the Vernier scale. Read the whole unit from the main scale and the 
+fractional part from the Vernier scale by identifying the aligned lines. Finally, added 
+these values together to obtain the total measurement. 
+ 
+3.3 To evaluate the engineering properties of stabilized clay bricks and identify the 
+optimal ratio for the mix. 
+3.3.1 Bio-Enzyme ratios 
+The bio-enzyme Terrazyme used in this study was sourced from Nature Plus, Inc., a 
+recognized supplier of soil stabilization products, and obtained through a local 
+distributor Ultra chemis Co. Ltd, plot 45, Mulwana road, Bugolobi industrial area, K'la, 
+opposite Uganda Baati. Terrazyme was mixed with water in varying proportions prior to 
+
+33  
+  
+application, facilitating an enzymatic reaction upon contact with the soil. The specific 
+properties of Terrazyme utilized in this study are detailed in Chapter 2, Table. 
+The bio-enzyme was mixed in different ratios of 0 ml/m³, 50 ml/m³, 100 ml/m³, and 
+150 ml/m³ of soil, with the Terrazyme first diluted in water before being incorporated 
+into the clay-compost mixture. 
+The bio-enzyme was mixed in different ratios of 0 ml/m³, 50 ml/m³, 100 ml/m³, and 
+150 ml/m³ of soil, but was first mixed in water. 
+3.3.2 Pineapple Leaf Fiber (PALF) Proportions 
+PALF ratio used is 0%, 1%, 2% and 3% by weight of soil. and their impact on strength and 
+shrink resistance in materials made of clay-compost. 
+ Mix Proportions 
+Various mixtures proportions have to be tried, using bio-enzyme and PALF in ranges 
+ 
+Pineapple Leaf Fiber (%) 
+0% 
+1%  
+2% 
+Bio-Enzyme  
+(ml/m³) 
+0 ml/m³ 
+0 ml/m³, 0% 
+0 ml/m³, 1% 
+0 ml/m³, 2% 
+50 ml/m³ 
+50 ml/m³, 0% 
+50 ml/m³, 1% 
+50 ml/m³, 2% 
+100 ml/m³ 
+100 ml/m³, 0% 
+100 ml/m³, 1% 
+100 ml/m³, 2% 
+150 ml/m³ 
+150 ml/m³, 0% 
+150 ml/m³, 1% 
+150 ml/m³, 2% 
+ 
+
+34  
+  
+Each combination was mixed in their totality in earth to yield an equivalent quantity of 
+both bio-enzyme and PALF. 
+Considering the final test being the strength test and water absorption test, all done in 
+triplicates, the total number of bricks made was 96 clay bricks. 
+3.3.3 1. 
+Compressive Strength Standard Test. 
+Standard: BS EN 772-1:2011 - Test for masonry units. Compressive strength. 
+This was to test stabilized clay load-baring strength. The greater compressive strength 
+is evidence for greater stabilization and hence strength. 
+3.3.4 2. 
+Water Absorption Test Standard. 
+Standard: BS EN 772-11:2011 - Test for masonry components. Part 11: Water absorption. 
+This test was to verify volume of water absorbed by the brick in 24 hours under soaking 
+in water. Water absorption rate is to be determined by before and after soaking in 
+water. Water absorption values, if low, will illustrate good moisture resistance and 
+durability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+35  
+  
+CHAPTER FOUR: RESULTS AND DISCUSSION 
+This chapter discusses and examines the findings from several test results of the 
+materials tested and compared to the existing requirements. These tests included those 
+carried out on the existing bricks and soils and the stabilized bricks. The tests include; 
+strength test, water absorption test, the Atterberg limits test and the free swell index 
+test. 
+ 
+4.1 Objective one: Determining the soil properties of the clay brick. 
+The soils were analyzed at the Stirling Laboratory in Malaba, Mukono, after being 
+collected from Siron village, Kapchorwa District. The soil was greyish in color and 
+several tests were carried out on it and these include; particle size distribution, 
+Atterberg tests, free swell Index. The strength and water absorption of the site bricks 
+were also tested and these were carried out on both the fired and unfired bricks. 
+4.1.1 Particle Size Distribution 
+1. Sieve analysis  
+Sieve Size (mm) 
+Passing (%) 
+4.750 
+99.0 
+2.360 
+97.0 
+1.180 
+94.0 
+0.425 
+90.0 
+0.075 
+80.0 
+
+36  
+  
+ 
+Figure 1 Particle size Distribution 
+ 
+The results indicated that the coarser fractions (sand-sized particles) are minimal, with 
+only 1% retained on the 4.75 mm sieve while, a large portion (80%) of the sample is 
+finer than 0.075 mm, which means the sample is mostly fine-grained material and based 
+on BS 1377-2:1990, soils with a high percentage of fine particles are typically clayey 
+silts or clays. This confirms that the soil is predominantly a fine-grained material, likely 
+clayey soil, which aligns with the project’s focus on stabilizing clay bricks. 
+ 
+4.1.2 Atterberg Limits test on the clay soil sample 
+The Atterberg Limits—Liquid Limit (LL), Plastic Limit (PL), and Plasticity Index (PI)—are 
+critical indicators of the engineering behavior of fine-grained soils, particularly their 
+response to moisture changes. The results for the clay soil from Siron Village, Uganda, 
+are as follows: 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.01
+0.10
+1.00
+10.00
+% Passing
+Diameter(mm)
+
+37  
+  
+Liquid Limit (LL): 57.6% 
+Plastic Limit (PL): 27.6% 
+Plasticity Index (PI): 30.0% 
+ 
+Liquid Limit (LL) 
+The LL of 57.6% signifies the soil’s high water-holding capacity, characteristic of 
+montmorillonite-rich clays. At this moisture content, the soil transitions from a plastic 
+to a liquid state. Such a high LL suggests that the soil is prone to significant volume 
+expansion when saturated, making it unsuitable for construction without stabilization. 
+Montmorillonite’s layered structure and high cation exchange capacity (CEC) 
+exacerbate this behavior, as water molecules infiltrate the mineral layers, causing 
+swelling. 
+Plastic Limit (PL): 
+The PL of 27.6% represents the moisture content below which the soil becomes brittle 
+and cracks under stress. While this value is moderate compared to highly organic soils, 
+it underscores the soil’s sensitivity to drying. During brick production, maintaining 
+moisture slightly above the PL is essential to ensure workability. However, exceeding 
+this threshold risks deformation, while under-drying leads to brittleness. 
+Plasticity Index (PI): 
+The PI (LL − PL = 30.0%) categorizes the soil as highly plastic (PI > 25%). According to 
+the Unified Soil Classification System (USCS), this soil falls under CH (high-plasticity 
+
+38  
+  
+clay). High PI soils exhibit pronounced shrink-swell behavior, expanding when wet and 
+contracting when dry. The PI (30%) aligns with studies on Ugandan montmorillonite 
+clays, which report PI values of 25–35% (Mukasa-Tebandeke et al., 2022). 
+ 
+USCS classification Chart 
+The Unified Soil Classification System (USCS) classifies soils based on their particle size 
+distribution and plasticity characteristics. Based on the results archieved, the soil 
+sample can be classified as follows: 
+ 
+ 
+Figure 2 USCS classification Chart (California Department of Transportation (Caltrans)) 
+
+39  
+  
+Grain Size Distribution Analysis: 
+o 80% of the soil passes through the 0.075 mm sieve, indicating that it is a 
+fine-grained soil. 
+o According to the USCS, soils with more than 50% passing through the 0.075 
+mm sieve are classified as fine-grained soils (silts or clays). 
+Plasticity Analysis: 
+o Liquid Limit (LL) = 57.6% 
+o Plasticity Index (PI) = 30.0% 
+o According to the USCS classification: 
+▪ 
+If LL > 50%, the soil is classified as high plasticity. 
+▪ 
+A PI of 30% confirms that the soil exhibits high plasticity, meaning 
+it undergoes significant volume changes with moisture variation. 
+ 
+USCS Plasticity Chart provided below in fig 2. along with the test results, we can 
+visually and logically confirm the soil classification. 
+▪ 
+LL = 57.6 on the x-axis of the chart. 
+▪ 
+PI = 30.0 on the y-axis. 
+▪ 
+Plotted the point (57.6, 30.0) on the graph. 
+ 
+
+40  
+  
+ 
+Figure 3 Plasticity Chart for USCS 
+From the chart: 
+▪ The plotted point lies above the A-line. 
+▪ It is located in the CH zone, which stands for Clay of High Plasticity 
+4.1.3 XRF test of the clay soil 
+The X-Ray Fluorescence (XRF) analysis provides a chemical composition of Siron clay, 
+which is compared with Illite and Montmorillonite clay standards. This comparison helps 
+in classifying the soil type and understanding its behavior in engineering applications. 
+ 
+
+41  
+  
+Table 2 XRF test Results of siron soil. 
+Oxide (%) 
+Siron Clay 
+Illite  
+Montmorillonite  
+SiO₂ (Silicon Dioxide) 
+48.27 
+50–60 
+55–65 
+Al₂O₃ (Aluminum Oxide) 
+20.53 
+15–25 
+20–30 
+Fe₂O₃ (Ferric Oxide) 
+10.18 
+4–8 
+2–5 
+CaO (Calcium Oxide) 
+7.32 
+0–3 
+1–5 
+MgO (Magnesium Oxide) 
+4.22 
+1–3 
+3–10 
+K₂O (Potassium Oxide) 
+3.56 
+3–7 
+0.5–3 
+Na₂O (Sodium Oxide) 
+2.87 
+0.5–2 
+1–4 
+TiO₂ (Titanium Dioxide) 
+1.23 
+0.5–1.5 
+0.2–1 
+MnO (Manganese Oxide) 
+0.85 
+<0.5 
+<0.5 
+CuO (Copper Oxide) 
+0.29 
+Trace 
+Trace 
+ 
+Comparison of Siron Clay (XRF Results) to Illite and Montmorillonite Clay Standards 
+To assess the characteristics of the clay soil from Siron, Kapchorwa District, a 
+comparison on its chemical composition was made to the standard compositions of Illite 
+and Montmorillonite clays. This helped determine which category it closely aligns with 
+and how it influences the stabilization and engineering behavior of the soil. 
+Key Observations & Comparisons 
+1. Silica (SiO₂) Content 
+Siron Clay: 48.27% 
+Illite Range: 50–60% 
+
+42  
+  
+Montmorillonite Range: 55–65%  
+▪ Siron clay has slightly lower silica content than Illite and Montmorillonite, 
+meaning it may have lower resistance to shrinkage and expansion. 
+2. Aluminum Oxide (Al₂O₃) Content 
+Siron Clay: 20.53% 
+Illite Range: 15–25% 
+Montmorillonite Range: 20–30% 
+▪ Siron clay matches closely with Montmorillonite in Al₂O₃ content, suggesting it 
+has good plasticity but potential shrink-swell issues. 
+3. Iron Oxide (Fe₂O₃) Content 
+Siron Clay: 10.18% 
+Illite Range: 4–8% 
+Montmorillonite Range: 2–5% 
+▪ Siron clay has much higher Fe₂O₃ than both Illite and Montmorillonite. This 
+means it will produce reddish bricks when fired but may also be more brittle 
+than Montmorillonite clays. 
+4. Calcium Oxide (CaO) Content 
+Siron Clay: 7.32% 
+Illite Range: 0–3% 
+Montmorillonite Range: 1–5% 
+
+43  
+  
+▪ Siron clay has significantly higher CaO, closer to Montmorillonite, making it 
+more self-stabilizing but prone to lime popping (expansion issues). 
+5. Magnesium Oxide (MgO) Content 
+Siron Clay: 4.22% 
+Illite Range: 1–3% 
+Montmorillonite Range: 3–10% 
+▪ Siron clay has MgO within the Montmorillonite range, meaning it has some self-
+hardening properties but not as much as high-MgO Montmorillonite. And  also 
+contributes to the swelling potential of the clay. 
+6. Potassium Oxide (K₂O) Content 
+Siron Clay: 3.56% 
+Illite Range: 3–7% 
+Montmorillonite Range: 0.5–3% 
+▪ Siron clay is similar to Illite in K₂O content, meaning it may have some 
+resistance to chemical weathering and high-temperature durability. 
+7. Sodium Oxide (Na₂O) Content 
+Siron Clay: 2.87% 
+Illite Range: 0.5–2% 
+Montmorillonite Range: 1–4% 
+▪ The Na₂O content in Siron clay is greater than that in Montmorillonite, 
+meaning it is responsible for the swelling potential in this clay. 
+
+44  
+  
+4.1.4 Free Swell Index (FSI) Test (BS 1377-2:1990)  
+FSI = 85.41% which was quite high and it occurs due to high presence of sodium ions, 
+Magnesium ions primarily. This means the clay soil swells when wet and shrinks when 
+dry. 
+How swelling occurs; 
+• 
+Montmorillonite has weak Van der Waals forces and cation exchange sites (Na⁺, 
+and Mg²⁺) that attract water molecules, leading to interlayer expansion. 
+• 
+Illite swells moderately because its interlayers contain K⁺ ions, which hold the 
+structure but allow slight expansion. 
+Thus, high FSI values suggest the presence of Montmorillonite, while low values indicate 
+Kaolinite-dominant soil. 
+Table 3 Standard Classification of Swelling Potential (as per IS 1498-1970 & Literature Studies) 
+FSI (%) 
+Swelling Potential 
+Reference 
+<50% 
+Low Swelling 
+IS 1498-1970, Seed et al. (1962) 
+50-100% 
+Moderate to High Swelling 
+Holtz & Kovacs (1981) 
+>100% 
+Very High Swelling 
+Sridharan & Prakash (2000) 
+ 
+The value of 85.41% is high and could have adverse effects if the caly soil is utilized 
+without a form of stabilization. 
+ 
+
+45  
+  
+4.1.5 The compressive strength test 
+The compressive strength test evaluates the ability of bricks to withstand axial loads, 
+which is crucial in determining their structural applicability. The results for the Siron 
+clay bricks are compared against the BS EN 772-1:2011 and BS EN 771-1 standards, as 
+shown in the table below: 
+Table 4 Siron bricks compressive test results. 
+Brick Type 
+Tested Siron brick 
+Strength (MPa) 
+BS Minimum Standard 
+(MPa) 
+Meets 
+Standard? 
+Fired Bricks 
+3.9  
+≥5 MPa 
+ 
+(BS EN 772-1:2011) 
+No 
+Unfired 
+Bricks 
+1.7 
+≥2 MPa 
+ 
+(BS EN 771-1) 
+No 
+ 
+Fired bricks (3.9 MPa vs. 5 MPa Standard) 
+The fired bricks from the case study had an average compressive strength of 3.9 MPa, 
+which is considerably lower than the 5MPa compressive strength set as a threshold by 
+BS EN 772-1:2011 for loadbearing walls.  
+Fired bricks from the case study could be appropriate for a non-load bearing application 
+(e.g., partition walls), but in other applications for load-bearing mortar with a gross 
+
+46  
+  
+over-design will raise the safe load-bearing capacities of these bricks, possibly 
+rendering them suitable with other allowances of safety values.  
+Fired bricks that do not structurally qualify as load bearing can be acceptable for walls 
+or foundations with reinforcement, but the lack of strength for broader or unlimited 
+use must be established for any particular circumstance.  
+The lower strength may have multiple sources, such as: 
+• Clay mineral composition: Higher proportions of smectite or montmorillonite 
+may yield higher shrinkage and cracking when fired too thoroughly. 
+• Firing conditions: If the kiln temperature to not achieve a high enough 
+temperature (850 to 1100°C for fired bricks), then the dissipation of heat may 
+leave the bricks incompletely sintered with badly weak inter-particle bonding. 
+• Pore structure: If the clay is not adequately compacted before firing they may 
+have too much porosity leading to lower strength. 
+Unfired bricks (1.7 MPa versus a 2 MPa standard) 
+The unfired bricks registered an average compressive strength of 1.7 MPa which is lower 
+than the 2 MPa minimum required by British Standards, BS EN 771-1, for non-fired load-
+bearing units, meaning that unfired bricks are structurally weak for any load-bearing 
+applications without additional stabilization. 
+The expected low strength of the unfired bricks is due to: 
+• Lack of sintering: Unlike fired bricks, unfired bricks are air-dried, 
+which leads to a higher level of porosity and weak particle cohesion. 
+
+47  
+  
+• Plasticity of clay: The high plasticity index (30%) indicates that the 
+clay has a high shrink-swell potential that is detrimental to strength. 
+• No stabilizers: Lime, cement or bio-enzymes could help improve the 
+compressive strength of the unfired bricks. The Siron fired bricks (3.9 
+MPa) and unfired bricks (1.7 MPa) tested are not representative of the 
+minimum for BS EN 772-1:2011 and BS EN 771-1 (non-fired) standards 
+respectively.  
+Further improvements to firing conditions, stabilization of the clay, and compaction of 
+the bricks are necessary to improve the quality of the material for structural 
+applications. 
+ 
+4.1.6 Water Absorption Test 
+The Water Absorption Test is an important measure of the durability, porosity and 
+resistance to moisture penetration of a brick. It simply measures the amount of water 
+a brick can absorb when immersed in water for a period of time (normally 24 hours) 
+expressed as a percentage of its dry weight. Water Absorption Test results against BS 
+standards. 
+ 
+ 
+
+48  
+  
+Table 5 Water Absorption Test Results vs. BS Standards 
+Brick Type 
+Tested 
+Siron 
+Brick 
+Water Absorption (%) 
+BS Minimum Standard (%) Meets 
+Standard? 
+Fired Bricks 
+7.6 
+≤15% 
+ 
+(BS EN 772-11:2011) 
+Yes 
+Unfired Bricks 
+-14.0 
+(Mass loss due to 
+disintegration) 
+≤20% 
+ 
+(BS EN 771-1) 
+No 
+(Structural 
+collapse) 
+ 
+Fired Bricks (7.6) % - Meets BS Standard 
+The fired bricks' water absorption of 7.6% is below the BS EN 772-11:2011 standard 
+limit of ≤15% therefore, these bricks can be classified as suitable and are sufficiently 
+resistant to water for construction purposes. 
+The minimal absorption demonstrates a level of sintering took place during the firing 
+process, which leads to: 
+• Reduced porosity due to fusion of clay particles. 
+• Stronger interparticle bonding that reduces water absorption. It falls in line with 
+common Ugandan fired bricks, which usually have a water absorption rate of 8–12%.  
+
+49  
+  
+The Fired Bricks (7.6% water absorption rate), can meet BS EN 772-11:2011 and are 
+considered suitable for structural use, however, from a sustainability perspective, we 
+need to consider alternate methods of stabilization, as the firing process raises 
+environmental concerns: 
+• A result of firewood use resulting in deforestation in Uganda (Bodipo-Memba et al., 
+2022). 
+• Carbon emissions released from the kiln discharge into the environment, thus 
+affecting sustainability.  
+• Additional methods of stabilization such as bio-enzyme stabilization or 
+improvements to the industrial kilns could produce a more environmentally friendly 
+policy. 
+Unfired Bricks (-14.0%) - Fails BS Standard 
+The negative absorption value (-14.0%) reflects the mass lost from the clay brick due 
+to structural collapse as opposed to absorption. The brick suffered mass loss due to: 
+• Montmorillonite-rich clay swells upwards of 85% in volume due to absorption 
+of water into the interlayer spaces, which caused disintegration of the 
+compact clay brick after 24 hours. 
+• High plasticity index (PI = 30%), indicating high sensitivity to moisture. 
+Unfired Bricks (-14.0%) failed BS EN 771-1 entirely due to swelling and disintegration. 
+They will require further stabilization with bio-enzymes, lime or cement before they 
+can be used practically. 
+
+50  
+  
+4.2 Objective two: To determine the physical properties of pineapple leaf fibers. 
+The Pineapple Leaf Fiber (PALF) Tensile Properties Test evaluated the mechanical 
+behavior of the fiber subject to tensile stress. This test examined key properties of the 
+fiber, including breaking force, elongation, resistance per kilometer (RKM), breaking 
+work, and breaking time, which will determine suitability of the fiber for reinforcement 
+materials, composites, and textile uses. 
+Table 6 PALF Properties test 
+Tests 
+Breaking 
+force(gf) 
+Elongation(mm) RKM(g/tex) 
+Breaking 
+work(gf*cm) 
+Time 
+to 
+break(s) 
+average 169.40 
+6.00 
+7.95 
+52.86 
+0.72 
+ 
+Tensile Testing 
+The test was conducted utilizing a Tensotester, a precise tensile instrument utilized to 
+measure tensile strength and elongation of fibers. The system measures important 
+parameters during the test, which include maximum force at break (breaking force), 
+elongation at break, and energy absorbed (breaking work). 
+Table 7 PALF Tensile Properties vs. Natural Fiber Standards 
+Property 
+Tested PALF 
+Value 
+Typical Range for Natural 
+Fibers 
+Meets 
+Standard? 
+Breaking Force (gf) 
+169.40 
+150 – 500 
+Yes 

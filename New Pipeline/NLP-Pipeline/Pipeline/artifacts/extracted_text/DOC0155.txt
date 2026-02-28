@@ -1,0 +1,1246 @@
+ 
+THE USE OF A BIO-ENZYME AND PINEAPPLE LEAF FIBRE IN THE 
+STABILIZATION OF CLAY BRICKS :A CASE STUDY OF SIRON CLAY 
+LOCATED IN SIRON VILLAGE IN KIRWOKO PARISH OF KAPTANYA 
+SUBCOUNTY, KAPCHORWA DISTRICT UGANDA 
+ 
+BRIAN SERIONI   
+S21B32/074  
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+2  
+  
+ABSTRACT 
+The growing demand for affordable and sustainable building materials in Uganda, 
+coupled with increasing environmental concerns, has prompted the need to explore 
+alternative methods of clay brick stabilization. Conventional clay bricks are 
+typically fired using firewood, a practice that contributes heavily to deforestation, 
+carbon emissions, and other forms of environmental degradation. This research 
+investigates the feasibility of using a hybrid stabilization method involving a bio-
+enzyme (Terrazyme) and pineapple leaf fiber (PALF) to improve the engineering 
+properties of clay bricks while minimizing ecological impact.  
+  
+The study was conducted using high plasticity clay obtained from Siron Village, 
+Kirwoko Parish in Kaptanya Subcounty, Kapchorwa District. The clay soil underwent 
+a series of laboratory tests, including particle size distribution, Atterberg limits, 
+compaction, compressive strength, shrinkage, and water absorption tests in 
+accordance with British Standards. PALF was extracted from agricultural waste, 
+characterized through tensile strength analysis, and evaluated for reinforcement 
+suitability. Terrazyme was produced through a controlled fermentation process and 
+tested for pH, viscosity, and concentration.  
+Experimental brick samples were prepared using varying proportions of PALF (2%–
+6%) and Terrazyme (0%–5%) by weight and volume respectively. Among all the 
+combinations, the optimal mix—2% PALF and 100 ml/m³ of Terrazyme—produced 
+unfired bricks with the best performance. These bricks achieved a compressive 
+strength of 2.7 MPa, which is significantly higher than that of untreated bricks, and 
+
+3  
+  
+showed a 15% reduction in water absorption and 30% reduction in linear shrinkage. 
+The hybrid stabilization not only enhanced strength and dimensional stability but 
+also improved durability by reducing moisture susceptibility and potential for 
+cracking.  
+The results of this research confirm that hybrid stabilization using bio-enzymes and 
+natural fibers can produce structurally sound, cost-effective, and environmentally 
+sustainable clay bricks without the need for high-temperature firing. This technique 
+holds great potential for application in rural housing, eco-construction, and 
+lowincome settlements across Uganda. Moreover, the use of locally available 
+materials such as pineapple leaves promotes circular economy practices and 
+reduces agricultural waste. The study concludes by recommending further field 
+trials, scaleup studies, and long-term performance evaluations under various 
+climatic conditions to establish the method as a mainstream construction practice.  
+ 
+ 
+
+4  
+  
+ 
+DECLARATION 
+I  Serioni Brian hereby declare that this research proposal is my original work and has never 
+been submitted to any institution  for any award. Any other sources of information referred 
+to are herein duty acknowlwdged. 
+ Sign………………………….. Date……………………… 
+ 
+ 
+
+5  
+  
+ 
+APPROVAL 
+This is to certify that this research titled, Use of a bio-enzyme and pineapple leaf   
+fiber as a stabilizer of clay bricks was carried out under my supervision as the 
+academic supervisor and is now ready for submission for examination.   
+Eng. Dr. Oleng Morris  
+Signature: ………………………                                                 Date: …………………………………… 
+Supervisor.  
+ 
+ 
+
+6  
+  
+ACKNOWLEDGEMENT 
+First and foremost, I give thanks to the Almighty God for the gift of life, strength, 
+and wisdom that has seen me through the successful completion of this final year 
+project.  
+ 
+I extend my deepest gratitude to Eng. Dr. Oleng Morris, my supervisor, for his 
+unwavering support, professional guidance, and constructive feedback throughout 
+this research journey. His mentorship has been instrumental in shaping the quality 
+and depth of this work.  
+I sincerely appreciate the collaborative efforts and dedication of my project 
+partner, Mike Ocholla, whose teamwork, shared insights, and commitment played 
+a crucial role in the success of this study.  
+  
+My heartfelt thanks go to the Uganda Industrial Research Institute (UIRI), Stirling 
+Construction Laboratories, and the Government Analytical Laboratories, where 
+essential experimental tests were conducted. The access to testing equipment and 
+technical expertise provided by these institutions was vital to achieving accurate 
+and reliable results.  
+  
+I am also grateful to the Department of Engineering and Environment at Uganda 
+Christian University for the academic environment, resources, and support that 
+enabled this project.  
+  
+
+7  
+  
+A special thank you goes to my parents for their unconditional love, 
+encouragement, and financial support throughout this journey. Your sacrifices 
+made this work possible, and I am forever grateful.  
+  
+Lastly, I thank my friends and everyone who supported me morally, spiritually, and 
+emotionally throughout the course of this research. Your encouragement made all 
+the difference.  
+  
+This accomplishment is a reflection of the collective support and efforts of many. 
+Thank you all.   
+  
+ 
+ 
+
+8  
+  
+Table of Contents 
+ABSTRACT ................................................................................................................................. 2 
+DECLARATION ........................................................................................................................... 4 
+APPROVAL ................................................................................................................................. 5 
+ACKNOWLEDGEMENT .............................................................................................................. 6 
+CHAPTER I: INTRODUCTION .......................................................................................... 14 
+1.1 
+Background and Introduction .............................................................................. 14 
+1.2 
+Problem Statement ................................................................................................ 16 
+1.3 
+Main Objective of the Study ................................................................................ 18 
+1.3.1 
+Specific Objectives ......................................................................................... 18 
+1.3.2 
+Investigative Questions ..................................................................................... 18 
+1.4 
+Justification ............................................................................................................. 19 
+1.5 
+Significance of the Study ..................................................................................... 21 
+1.6 
+Scope ......................................................................................................................... 22 
+ CHAPTER  II: Literature Review ........................................................................................ 24 
+2.1 
+Literature Review .................................................................................................. 24 
+2.1.1 
+Environmental Impact of Burning Conventional Clay Bricks ................ 24 
+2.1.2 
+Clayey Soil Characteristics and Challenges of Stabilization ................. 26 
+2.1.3 
+Bio-enzyme treatment of clayey soils....................................................... 29 
+2.1.4 
+Utilization of Pineapple Leaf Fiber (PALF) as Reinforcement Material
+ 
+32 
+2.1.5 
+Stabilization by Concurrent Application of Bio-Enzyme and PALF .... 35 
+2.1.6 
+Conclusion ........................................................................................................ 37 
+CHAPTER III :Methodology ................................................................................................... 38 
+3.1 
+Methodology ............................................................................................................ 38 
+3.1.1 
+Evaluation of Clay Brick Soil Properties .................................................... 38 
+
+9  
+  
+3.2 
+Determining Chemical and Physical Properties of Bio-Enzyme and 
+Pineapple Leaf Fiber ........................................................................................................ 40 
+3.2.1 
+Production of Bio-Enzyme (Terrazyme) .................................................... 40 
+3.3 
+Production of Pineapple Leaf Fiber (PALF) ..................................................... 40 
+3.3.1 
+Assessment of PALF Physical and Chemical Properties ........................ 40 
+3.3.2 
+Determination of the Most Effective Proportion for Stabilization ..... 41 
+3.4 
+Evaluating the Engineering Properties of Stabilized Clay Bricks ............... 42 
+3.4.1 
+Compressive Strength Test........................................................................... 42 
+3.4.2 
+Water Absorption Test .................................................................................. 42 
+3.4.3 
+Shrinkage Test ................................................................................................. 42 
+3.4.4 
+1. Particle Size Distribution (Sieve Analysis and Hydrometer Test) .. 42 
+3.4.5 
+Hydrometer Test: ............................................................................................. 43 
+3.4.6 
+Atterberg Limits Test (Liquid Limit, Plastic Limit, and Plasticity 
+Index) 44 
+3.4.7 
+Detailed Step-by-Step Procedure to Achieve Stabilization of Clay Soil 
+Using Bio-Enzyme and Pineapple Leaf Fiber (PALF) ............................................ 48 
+3.4.8 
+Physical Properties Evaluation of PALF Tensile Strength Test: .......... 51 
+3.5 
+Experimental Design for Stabilization Mixes ................................................... 51 
+3.6 
+Expected Outcome and Graphical Analysis ..................................................... 56 
+3.6.1 
+Compressive Strength vs. Bio-Enzyme and PALF Proportion .................... 56 
+3.6.2 
+Water Absorption vs. Bio-Enzyme and PALF Proportion ...................... 56 
+CHAPTER IV: Results and Discussion ................................................................................ 58 
+4.1 
+Results and Discussion .......................................................................................... 58 
+4.1.1 
+Atterberg Limits (Plasticity and Shrinkage Tests) .................................. 58 
+4.1.2 
+Water Absorption Test (Fired vs. Unfired Bricks) .................................. 59 
+4.1.3 
+Free Swell Index (FSI) Test .......................................................................... 59 
+4.2 
+Design and Preliminary Design ........................................................................... 63 
+
+10  
+  
+4.2.1 
+Design Criteria ................................................................................................. 63 
+4.3 
+Preliminary Design Analysis ................................................................................. 66 
+4.4 
+Experiments .............................................................................................................. 68 
+4.4.1 
+Optimization of Mix Proportions: .................................................................. 68 
+4.4.2 
+Final Engineering Tests: .................................................................................. 68 
+4.4.3 
+Evaluating the engineering properties of stabilized clay bricks and 
+identify the optimal ratio for the mix. ...................................................................... 68 
+4.5 
+DESIGN OF STABLIZED BRICK ................................................................................. 72 
+4.6 
+DESIGN OF CLAY BRICK AND WOODEN MOULD .................................................... 73 
+CHAPTER V: CONCLUSIONS AND RECOMMENDATIONS ...................................... 74 
+5.1 
+Conclusions .............................................................................................................. 74 
+5.2 
+Recommendations .................................................................................................. 76 
+REFERENCES ........................................................................................................................... 77 
+ APPENDIX ............................................................................................................................... 81 
+ 
+
+11  
+  
+  
+LIST OF FIGURES 
+ 
+Figure 4A 14-day strength, showing how the material holds up mid-cure ............................ 68 
+Figure 5 4B 28-day strength, confirming the best-performing mix for long-term stability ... 69 
+Figure 6 Challenges and Mitigation ....................................................................................... 71 
+Figure 7 DESIGN OF CLAY BRICK AND WOODEN MOULD ........................................ 73 
+Figure 8 XRF Test of the Clay sample ................................................................................... 85 
+Figure 9 Free Swwll Index Test results Figure....................................................................... 88 
+Figure 10 Compressive Strengths of a fired and an fired clay brick ...................................... 88 
+Figure 11 Lab Analysis Report for PALF .............................................................................. 89 
+Figure 12 Single Yarn Test ..................................................................................................... 91 
+Figure 13 COMPRESSIVE STRENGTH TEST RESULTS ................................................. 94 
+Figure 14 Clay extraction site in Siron village ........................................................................... 
+Figure 15 Tests on the Pineapple leaf fiber .......................................................................... 102 
+Figure 16 Bio enzyme and proportioning containers ........................................................... 103 
+Figure 17 Compressive Strength Test .................................................................................. 104 
+Figure 18 Failed Unfired clay bricks in water absorption test ............................................. 104 
+Figure 19 clay soil Preparation for Sieve Analysis .............................................................. 105 
+Figure 20 PALF extraction ................................................................................................... 106 
+Figure 21 Extracted PALF .................................................................................................... 107 
+Figure 22 COMPRESSIVE STRENGTH TEST .................................................................. 108 
+Figure 23 aTTERBERG LIMIT TEST RESULTS .............................................................. 109 
+Figure 24 CLAY EXTRACTION SITE ............................................................................... 109 
+Figure 25 BIO ENZYME ..................................................................................................... 109 
+Figure 26 MEASUREMENT OF THE TENSILE STRENGTHS OF THE FIBRE ............ 110 
+Figure 27 WEIGHT OF THE SAMPLE .............................................................................. 110 
+  
+ 
+ 
+
+12  
+  
+ 
+LIST OF TABLES 
+Table 1 Atterberg Limits and Shrinkage Test Results Interpretation ..................................... 58 
+Table 2 Water Absorption Test Results – Fired vs. Unfired Bricks ....................................... 59 
+Table 3 Free Swell Index (FSI) Test Results .......................................................................... 59 
+Table 4 Single Yarn Tensile Test Result ................................................................................ 61 
+Table 5 Compressive Strength of Bricks ................................................................................ 62 
+Table 6 DESIGN PARAMETERS ......................................................................................... 72 
+Table 7 Standard dimensions by UNBS ................................................................................. 72 
+ 
+ 
+ 
+
+13  
+  
+LIST OF ABBREVIATIONS 
+PALF – Pineapple Leaf Fiber  
+FSI – Free Swell Index  
+MDD – Maximum Dry Density  
+OMC – Optimum Moisture Content  
+MPa – Megapascal  
+% – Percentage  
+BS – British Standard  
+PLA – Polylactic Acid  
+UIRI – Uganda Industrial Research Institute  
+SCL – Stirling Construction Laboratories  
+GAL – Government Analytical Laboratories  
+LL – Liquid Limit  
+PL – Plastic Limit  
+PI – Plasticity Index  
+TBC – Terminal Brick Compressive Strength  
+CBR – California Bearing Ratio  
+PVC – Polyvinyl Chloride  
+RKM – Strength per Tex (Relative Tenacity) 
+B-Force – Breaking Force  
+B-Work – Breaking Work  
+T-Break – Break Time  
+  
+ 
+ 
+
+14  
+  
+CHAPTER I: INTRODUCTION 
+1.1 
+Background and Introduction   
+Like most developing countries, Uganda has a large housing deficit contributed by 
+its rapid growth in population and urbanization. Clay bricks remain among the most 
+widely applied building materials within both rural and urban areas, mostly because 
+of their comparatively lower costs and higher accessibility. Most of this production 
+is at a small scale and in places like Siron, where high plasticity clay is locally 
+available. Such clay must be stabilized to enhance its strength and durability. 
+These are typically fired with firewood, which is very energy-intensive and 
+destructive to the environment. Relating to this, it contributes to deforestation, 
+which means loss of biodiversity, soil erosion, and also causes a high rate of carbon 
+dioxide emission. According to a report by Bodipo-Memba et al., 2022, it is stated 
+that Uganda loses its forests annually by 1.8%, proportionately with a higher part 
+of this deforestation mainly belongs to the collection of fuelwood for brick kilns. If 
+that wasn't enough, high-plasticity clays rich in montmorillonite, such as in Mukono 
+for example, bring additional troubles: these soils swell with increase in water 
+content and shrink with decrease, thus they do not present structural stability 
+unless better stabilized. As said, increased firing resolves this, but the 
+environmental and financial costs of brick kilns are very high. Application of 
+firewood-saving alternative stabilization methods thus stands as a pressing need. 
+The application of bio-enzyme technology, alongside the utilization of agricultural 
+byproducts such as pineapple leaf fiber, is gaining recognition as a sustainable 
+
+15  
+  
+method to improve the resilience and structural integrity of clay bricks, 
+concurrently reducing environmental repercussions (Saini & Vaishnava, 2015). 
+Although it populates the places with intensive pineapple culture, pineapple leaf 
+fiber is regarded as a waste product. While it has very good tensile strength and 
+binding properties, using it as reinforcement material in the construction industries 
+is worth the result it has shown in tests. Razman et al., 2024 The current work 
+represents an ecologically friendly method of using a bio-enzyme coupled with 
+stabilisation, which is the use of PALF for solving problems with plasticity in clay 
+soil, reduction in various environmental crises connected with traditional 
+production methods of bricks. 
+ 
+ 
+
+16  
+  
+1.2 
+Problem Statement     
+The Ugandan manufacturing of clay bricks is so dependent on firewood; this 
+enhances deforestation and environmental degradation. According to the  
+Ministry of Water and Environment of Uganda as cited by Bodipo-Memba et al. 2022, 
+it is estimated that about 70% of energy that is used in brick kilns is firewood, 
+costing about 92,000 hectares of forest loss annually.    
+Besides just accelerating this process of deforestation, it also emits a lot of carbon 
+dioxide into the atmosphere, hence contributing to the climate crisis. With 
+increased expansion in the brick-making industry, Uganda is getting increasingly 
+unsustainable and inching closer to an ecological disaster. In addition, conventional 
+clay bricks, specifically made from smectite clays found in eastern Uganda, 
+precisely in Budadiri, Chelel, Mutufu, and Siron areas, have insufficient mechanical 
+strength. Smectite clays, having high acidities with values between 0.1 and 1.85 
+mol/g, with compositions of 40-50% smectite, 2030% being the feldspars 
+component, and other element makeups like iron, aluminum, and silicon being 11%, 
+18%, and 60%, respectively, perform moderately, with high absorption of water to 
+yield bricks that are weak and brittle (Wasajja-Navoyojo et al., 2016; Mukasa-
+Tebandeke et al., 2015).    
+The mean compressive strength for these conventional bricks range between 0.36 
+and 1.2 MPa, a measure below the standards in global construction standards 
+according to MukasaTebandeke et al. 2014.    
+
+17  
+  
+Lime and cement have conventionally been used as additives to improve brick 
+standards; however, their production is highly energy-intensive and one of the 
+major contributors to green house gases. For instance, cement industries alone 
+contribute about 8% to global carbon emissions (Andrew, 2019). There thus is an 
+urgent need for environmentally friendly products that will help in stabilizing clay 
+bricks without reliance on high-energy materials like cement and lime.    
+The bio-enzymatic treatments may increase the cohesion in soils, decrease the 
+permeability, and enhance compressive strength of clays by ion exchange reaction 
+mechanisms which favored the development of stable aggregates. According to 
+Saini & Vaishnava, 2015, bioenzyme-treated bricks demonstrated better 
+compressive strength of as high as 4 MPa compared with conventional bricks. 
+Addition of PALF, a full natural resource in Uganda, improves significantly the 
+mechanical properties of the clay bricks. Presence of PALF improves the tensile 
+strength and durability in the composites hence an ideal material for reinforcement 
+in bricks. This paper tries to integrate the use of bio-enzymes and PALF in the 
+production of bricks with the aim of attaining environmental sustainable 
+stabilization methods that reduce reliance on kiln firing, environmental 
+degradation and enhances the mechanical efficiency of the fired clay bricks.    
+Bricks with increased compressive strength and improved on water absorption, and 
+with an increased life compared to the traditional method, are expected.    
+This work, therefore, investigates the application of bio-enzyme and pineapple leaf 
+fibers as additives for stabilization in clay bricks.    
+
+18  
+  
+1.3 
+Main Objective of the Study    
+To assess the use of a bio-enzyme and pineapple leaf fibers as a stabilizer in clay 
+bricks.    
+1.3.1 Specific Objectives    
+1. 
+To determine the soil properties of the clay brick.    
+2. 
+To determine the chemical properties of the bio-enzyme and physical 
+properties of pineapple leaf fibers.    
+3. 
+To identify the optimal ratio of bio-enzyme and pineapple leaf fiber for 
+effective clay brick stabilization.    
+4. 
+To evaluate the engineering properties of stabilized clay bricks.    
+1.3.2  Investigative Questions    
+1. 
+What soil characteristics are most closely related to clay bricks?    
+2. 
+What is the biochemical nature of bio-enzymes, and what is the physical 
+property of pineapple leaf fibers?    
+3. 
+What is the best ratio between the bio-enzyme and pineapple leaf fiber to 
+stabilize clay bricks?    
+4. 
+What are the engineering properties of pineapple leaf fibers-added clay 
+bricks treated with bio-enzyme?    
+
+19  
+  
+1.4 
+Justification     
+The soils mainly consist of Montmorillonites in the Siron Village of Kirwoko Parish, 
+Kaptanya Subcounty, Kapchorwa District. These clay soils are clayey in nature and 
+have similar mechanical properties to those of the Kaolinite group in regards to 
+swelling. It means that they have ability of exchange cations so cations are well 
+bonded to water which is the reason why these clays increase and expand following 
+the adsorbed water content increase.    
+Bioenzymes particularly terrazyme, which is any organic, non-toxic formulation 
+resulting from the fermentation of fruits and vegetables residues, have the capacity 
+to enhance the engineering properties of soil improvements by mobilising enormous 
+quantities of soil and cation structure on a particlebasis in the soil, reducing 
+hydration and increasing definable strength (Shah,  
+2017; Suresh, 2017). Some studies on the effect of Terrazyme on the California 
+Bearing Ratio of the soil at different Terrazyme dosages have shown very good 
+improvement in the strength of the soil, with 0.5 ml solution per 100 ml of water 
+as the best dose (Suresh, 2017; Panchal, 2017). Treatment with chemicals helps 
+increase the strength of the soil, reduce the thickness of the pavement and allows 
+a 30% reduction on the cost of building roads (Suresh, 2017). This method is an 
+efficient way of stabilizing the soil without damaging the nature and is extending 
+to all activities especially in the geo-technical applications.    
+The fiber of pineapple leaf (PALF) has also been used to good results in the 
+reinforcement of clay and earth bricks. Encouraging mechanical properties have 
+
+20  
+  
+also been realized with pineapple leaf fiber (PLF) and for a range of applications. 
+Composites based on PLF/PLA showed good strength, which varies from 16.71 MPa 
+to 76.47 MPa depending on the matrix and fiber content. The optimum amount of 
+fibers required for the mechanical properties is usually in the order of 30-40% 
+(Susilowati & Sumardiyanto, 2018; Odusote & Kumar, 2016).    
+ 
+ 
+
+21  
+  
+1.5 
+Significance of the Study    
+This study holds great significance for both the local community in Siron Village, 
+Kirwoko Parish, and the broader construction and environmental sectors. The clay 
+soils in this region, rich in Montmorillonites, exhibit characteristics such as swelling 
+due to their high cation exchange capacity and water retention properties. These 
+traits often lead to structural challenges in traditional clay bricks, reducing their 
+durability and reliability. Therefore, there is a pressing need for a more sustainable 
+and robust method of clay brick stabilization to improve the quality of construction 
+materials.    
+The integration of bio-enzyme, specifically Terrazyme, and pineapple leaf fibers 
+(PALF) offers an innovative approach to soil stabilization. Terrazyme, a non-toxic 
+organic formulation derived from the fermentation of fruit and vegetable residues, 
+has been shown to significantly enhance the engineering properties of soils. Studies 
+have demonstrated that Terrazyme improves soil strength by mobilizing cations and 
+reducing hydration, making it a promising agent for stabilizing clay bricks (Shah, 
+2017; Suresh, 2017). The ability to strengthen soil without harming the environment 
+provides a crucial alternative to conventional stabilization techniques, especially 
+in rural areas like Siron Village. Furthermore, the cost-effectiveness of this method, 
+with potential savings of up to 30% in construction costs, makes it an attractive 
+solution for low-income communities (Suresh, 2017).    
+In addition, pineapple leaf fibers, a readily available agricultural byproduct, offer 
+a sustainable reinforcement material for clay bricks. PALF has been proven to 
+
+22  
+  
+enhance the mechanical properties of composites, with strength values ranging 
+from 16.71 MPa to 76.47 MPa depending on the fiber content (Susilowati & 
+Sumardiyanto, 2018; Odusote & Kumar, 2016). This study will explore the optimal 
+ratio of PALF and bio-enzyme for stabilizing clay bricks, providing valuable insights 
+for future applications in eco-friendly construction.  
+The potential to use natural, locally sourced materials like PALF not only promotes 
+sustainability but also supports local economies by utilizing agricultural waste.    
+By assessing the combined use of bio-enzymes and PALF in stabilizing clay bricks, 
+this research contributes to the development of environmentally sustainable 
+building materials.    
+The findings could revolutionize brick production, reducing deforestation and 
+carbon emissions associated with traditional kiln-fired bricks, while simultaneously 
+enhancing the mechanical properties of the bricks used in construction. This study 
+is, therefore, a step toward more resilient and sustainable infrastructure, 
+particularly in Uganda, where clay bricks are a primary construction material.   
+1.6 
+Scope    
+The present investigation will be limited to surveying the properties of Siron clay 
+located in Siron Village in Kirwoko Parish of Kaptanya Subcounty, Kapchorwa 
+District, Uganda. The attention will be given to appreciation of chemical and 
+physical properties of bio-enzyme and pineapple leaf fibers, their optimal and 
+blends for stabilization of bricks and the bricks ability to become harder with the 
+
+23  
+  
+compositions in terms of engineering properties. Laboratory tests will be carried 
+out on various percentages of bio-enzyme and pineapple leaf fiber stabilizing 
+compounds on bricks.    
+ 
+ 
+ 
+ 
+
+24  
+  
+2 
+CHAPTER  II: Literature Review 
+2.1 
+Literature Review 
+Most of the raw materials for the manufacture of clay bricks are available within 
+the country, thereby largely contributing to the construction industry in Uganda. 
+However, traditional manufacturing techniques solely depend on the use of 
+firewood for firing in the kiln, which results in devastating environmental 
+degradation through deforestation and carbon emissions. It is this dire need that 
+propels various ways of stabilizing clay bricks with a minimal ecological footprint 
+and improves mechanical properties.    
+2.1.1   Environmental Impact of Burning Conventional Clay Bricks  
+The environmental implications of traditional clay brick production are profound 
+and increasingly unsustainable. In Uganda, as in many developing nations, 
+conventional brick production largely depends on kiln firing using firewood. This 
+practice is directly responsible for widespread deforestation. According to Bodipo-
+Memba et al. (2022), an estimated 70% of energy consumed in rural brick kilns 
+originates from firewood, leading to the destruction of approximately 92,000 
+hectares of forest annually. This deforestation accelerates soil erosion, disrupts 
+local water cycles, and threatens biodiversity. 
+ 
+In addition to land degradation, the carbon footprint of brick firing is substantial. 
+Emissions from brick kilns include carbon dioxide (CO2), methane (CH4), sulfur 
+oxides (SOx), nitrogen oxides (NOx), and particulate matter (PM10 and PM2.5). 
+These pollutants contribute to atmospheric warming and pose serious health risks 
+to workers and nearby residents. Zhang et al. (2014) observed that traditional kilns 
+
+25  
+  
+in South Asia emit as much as 1.1 kg of CO2 per brick, with significant contributions 
+from incomplete combustion. In Uganda, similar inefficient practices prevail, with 
+little regulation or emission control technology in place. 
+ 
+Moreover, the economic sustainability of brick firing is questionable. Firewood costs 
+continue to rise due to increasing scarcity, making kiln operation expensive for 
+small-scale producers. A study by Kumar and Prasad (2020) noted that the fuel 
+cost can account for up to 40% of total brick production expenses. As firewood 
+becomes more difficult to access, communities are pushed toward protected areas, 
+exacerbating illegal logging activities. 
+ 
+Alternatives to fired bricks have been explored globally, including compressed 
+stabilized earth blocks (CSEBs), fly ash bricks, and chemical stabilization techniques 
+that eliminate the need for high-temperature treatment. However, adoption in 
+Uganda has been limited due to lack of awareness, training, and technical support. 
+Introducing biologically stabilized unfired bricks using organic additives such as bio-
+enzymes and agricultural fibers presents a promising alternative that aligns with 
+global sustainability objectives and Uganda's environmental policy goals. 
+ 
+Furthermore, the issue is not isolated to deforestation alone. The process 
+contributes to poor air quality and poses occupational hazards to workers exposed 
+to smoke and high temperatures. The World Health Organization (WHO) estimates 
+that indoor and outdoor air pollution from biomass burning causes over 4 million 
+
+26  
+  
+premature deaths annually, a risk extended to brick workers in low-regulation 
+contexts (WHO, 2021). 
+ 
+In conclusion, conventional clay brick manufacturing is environmentally and 
+economically unsustainable. It contributes heavily to Uganda’s deforestation, 
+elevates greenhouse gas emissions, and introduces health risks to local 
+communities. The need to transition toward greener brick stabilization techniques, 
+such as the use of unfired clay bricks enhanced with natural binders, is both urgent 
+and feasible. These alternatives can drastically reduce ecological degradation while 
+promoting sustainable rural development and green construction practices. 
+2.1.2 Clayey Soil Characteristics and Challenges of Stabilization    
+Clay soils, particularly those rich in montmorillonite, present some of the most 
+complex geotechnical challenges in civil engineering. These soils are commonly 
+found across Uganda, including in regions like Kapchorwa, Mbale, and Siron Village. 
+Their high shrink-swell capacity, coupled with low natural strength, makes them 
+problematic for use in construction applications without proper stabilization. 
+Montmorillonite-rich clays possess a high specific surface area and an extraordinary 
+affinity for water. This leads to expansive behavior where the soil volume 
+drastically increases upon water absorption and contracts significantly during 
+drying. This volumetric instability can lead to cracking, subsidence, and general 
+loss of structural integrity when such soils are used in untreated forms for brick 
+production (Wasajja-Navoyojo et al., 2016). 
+
+27  
+  
+Characterization tests such as the Atterberg Limits confirm the challenges posed by 
+these soils. Plasticity Index (PI) values in montmorillonite soils commonly exceed 
+30%, placing them in the high-plasticity classification. These indices are indicative 
+of soils that will not maintain form or load-bearing capacity without modification. 
+In Uganda, compressive strengths for unstabilized bricks made from these clays 
+range between 0.36 MPa and 1.2 MPa—far below the 2 MPa standard for unfired 
+bricks and the 5 MPa threshold for fired ones (Mukasa-Tebandeke et al., 2015). 
+Traditional approaches to stabilizing clay involve adding cement or lime. While 
+effective in increasing compressive strength and reducing shrinkage, these 
+additives are associated with high environmental and economic costs. Cement 
+production alone is responsible for approximately 8% of global CO₂ emissions 
+(Andrew, 2019). Lime, while slightly less polluting, also requires significant energy 
+to produce and transport. 
+Moreover, cement and lime stabilization tend to increase the stiffness and 
+brittleness of the resulting material, which may lead to cracking under tensile stress 
+unless counterbalanced with flexible additives. Their use is often impractical in 
+rural settings due to high costs, poor availability, and lack of technical expertise. 
+Alternative methods are now being explored globally, and Uganda is gradually 
+catching up. Bio-based solutions, including the application of enzymes and natural 
+fibers, offer a low-carbon, locally sourced option for stabilization. These methods 
+not only improve mechanical properties but also offer flexibility, resilience, and 
+compatibility with local construction practices. Recent studies have shown that 
+
+28  
+  
+integrating pineapple leaf fiber (PALF) into expansive clay matrices significantly 
+improves their tensile strength and controls shrinkage behavior (Odusote & Kumar, 
+2016). 
+Furthermore, stabilization is not just about improving strength. Long-term 
+performance under variable moisture conditions is crucial. Many clay bricks fail not 
+because they are weak initially but because they degrade rapidly when exposed to 
+rain, humidity, and temperature changes. High water absorption rates—often >15% 
+in untreated bricks—lead to disintegration, mold growth, and structural failure. The 
+ability to reduce this value to below 10% through hybrid stabilization techniques is 
+an important marker of long-term durability (Kumar & Baser, 2016). 
+ 
+In conclusion, the nature of clayey soils in Uganda presents a unique challenge to 
+civil engineers, especially in the context of low-cost housing. While conventional 
+stabilizers like cement and lime offer strength, they fall short in sustainability and 
+practicality. New hybrid stabilization methods—combining bio-enzymes with 
+natural fibers—promise not only better mechanical performance but also 
+environmentally responsible and community-appropriate solutions. 
+ 
+ 
+
+29  
+  
+2.1.3 Bio-enzyme treatment of clayey soils.  
+Bio- Bio-enzymes are increasingly being recognized as sustainable alternatives to 
+traditional chemical stabilizers in geotechnical engineering. Derived from the 
+fermentation of organic matter such as molasses, plant extracts, or agricultural 
+waste, bio-enzymes like Terrazyme, Perma-Zyme, and Renolith are biodegradable, 
+non-toxic, and easy to apply. These enzymes work by modifying the interaction 
+between clay particles and water, enhancing compaction, and improving soil 
+strength and water resistance (Saini & Vaishnava, 2015). 
+The mechanism of action of bio-enzymes is both chemical and biological. When 
+applied to soil, enzymes catalyze ion-exchange reactions that replace weakly bound 
+water molecules with more stable cations like calcium or magnesium. This leads to 
+flocculation of clay particles and reduction in double-layer thickness, thereby 
+increasing soil density and reducing permeability (Shah & Suresh, 2017). In effect, 
+this mimics the function of lime or cement but without the associated carbon 
+emissions or environmental toxicity. 
+Research from Amu et al. (2005) demonstrated that enzyme-treated clay soils 
+achieved compressive strengths upwards of 3.5 MPa, depending on the curing period 
+and soil type. In road construction projects across India and Kenya, Terrazyme has 
+been effectively used to reduce swelling potential by more than 50%, improve 
+California Bearing Ratio (CBR) values by 200%, and enhance water resistance 
+(Kumar & Baser, 2016). 
+
+30  
+  
+A key advantage of bio-enzymes is their ability to function effectively in tropical 
+soils, such as those in East Africa. These soils are often rich in organic content and 
+moisture, which enhances enzyme activity. In contrast to cement or lime, which 
+may require soil to be oven-dry or treated under specific pH conditions, bio-
+enzymes work well in field conditions with minimal preparation, making them 
+highly appropriate for rural, low-cost construction (Jawaid & Abdul Khalil, 2011). 
+In the context of unfired clay bricks, bio-enzymes serve multiple functions. Firstly, 
+they promote better compaction, which leads to higher density and improved load-
+bearing capacity. Secondly, they significantly reduce the moisture absorption rate 
+of the bricks, minimizing swelling, shrinkage, and cracking over time. Thirdly, the 
+enzymatic treatment facilitates quicker setting and reduced curing time, which is 
+advantageous in humid regions where extended drying can be problematic (Jittin 
+et al., 2022). 
+Despite their advantages, the adoption of bio-enzymes in Uganda remains limited 
+due to lack of awareness, technical skepticism, and the absence of established 
+regulatory standards. However, pilot projects supported by NGOs and engineering 
+research institutions have begun to highlight the feasibility of enzyme-based 
+stabilization for rural roads, earthen buildings, and unfired bricks. 
+Challenges that remain include ensuring consistent enzyme quality, determining 
+the optimal dosage for different soil types, and validating long-term performance 
+through field trials. Moreover, more research is needed to understand interactions 
+
+31  
+  
+between bio-enzymes and other stabilizers, particularly natural fibers, to develop 
+hybrid solutions that are both cost-effective and durable. 
+In conclusion, bio-enzymes offer a sustainable, efficient, and practical solution for 
+stabilizing clayey soils, particularly in the production of unfired bricks. Their 
+integration into Uganda’s construction sector could represent a significant step 
+toward achieving environmentally responsible and cost-effective building practices.  
+ 
+ 
+
+32  
+  
+2.1.4 Utilization of Pineapple Leaf Fiber (PALF) as Reinforcement Material    
+Pineapple Leaf Fiber (PALF) is an agro-waste byproduct derived from pineapple 
+cultivation, which is abundant in tropical countries like Uganda. As a natural 
+lignocellulosic fiber, PALF is composed of cellulose (70–80%), hemicellulose, lignin, 
+and minor amounts of waxes and pectin. These constituents make it both strong 
+and biodegradable, rendering PALF highly suitable for use in green composite 
+materials and soil-based construction components such as stabilized clay bricks 
+(Kasim et al., 2015). 
+The physical and mechanical properties of PALF, including high tensile strength 
+(ranging from 200 to 600 MPa), low density (~1.5 g/cm³), and moderate 
+elongation at break, make it an ideal reinforcing material. The fiber’s high cellulose 
+content contributes to its strength, while the relatively low lignin percentage 
+enhances its flexibility (Susilowati & Sumardiyanto, 2018). These characteristics 
+allow PALF to act as a micro-reinforcement that mitigates crack propagation in clay 
+bricks by bridging voids and holding particles together under stress. 
+Incorporation of PALF into clay bricks has demonstrated improvements in both 
+mechanical strength and dimensional stability. For example, studies by Odusote & 
+Kumar (2016) and Razman et al. (2024) show that adding 2–6% PALF by weight of 
+soil significantly reduces linear shrinkage and enhances resistance to deformation. 
+This is particularly crucial in high-plasticity soils where volume changes due to 
+moisture fluctuations lead to cracking. PALF's inclusion provides tensile resilience, 
+an aspect often lacking in conventional bricks. 
+
+33  
+  
+In addition to strength enhancement, PALF plays a critical role in reducing water 
+absorption. The fiber network interrupts capillary pathways, slowing down moisture 
+ingress and enhancing the brick’s resistance to disintegration from water-induced 
+stresses. Kasim et al. (2015) found that bricks reinforced with 4% PALF exhibited 
+up to a 20% reduction in water absorption compared to unreinforced controls. 
+Another environmental benefit is PALF's role in promoting circular economy 
+practices. Pineapple plantations generate vast quantities of leaf waste that 
+typically go unused or are burned, contributing to air pollution. By extracting PALF 
+and incorporating it into bricks, this waste is given economic value while reducing 
+environmental degradation. This approach aligns with Uganda’s sustainable 
+development goals, especially regarding responsible consumption and production 
+(UN SDG 12). 
+ 
+Processing PALF, however, requires careful attention. Mechanical extraction and 
+retting (biological separation of fiber bundles) are common methods. Improper 
+retting can leave behind residual lignin or pectin, reducing bond strength with the 
+clay matrix. Alkali treatment (e.g., soaking in NaOH, ash treatment ) is often used 
+to clean and roughen the fiber surface, improving mechanical interlock and 
+adhesion with the soil particles (Jawaid & Abdul Khalil, 2011). 
+Despite its promising properties, challenges remain in standardizing PALF 
+applications. Fiber length, aspect ratio, and distribution need to be optimized to 
+prevent fiber clustering, which may weaken instead of reinforce the bricks. 
+Moreover, long-term durability under tropical weather conditions is still under 
+
+34  
+  
+investigation, although preliminary results show good resistance to biodegradation 
+when PALF is embedded within dense clay matrices (Kumar & Prasad, 2020). 
+In summary, the use of PALF in clay brick stabilization represents a technically 
+feasible and environmentally responsible innovation. Its inclusion enhances 
+tensile strength, reduces shrinkage, and improves water resistance, all while 
+promoting waste valorization. With proper processing and dosage optimization, 
+PALF holds considerable promise for sustainable construction in Uganda and other 
+tropical regions. 
+ 
+ 
+
+35  
+  
+2.1.5 Stabilization by Concurrent Application of Bio-Enzyme and PALF  
+While The combined use of bio-enzymes and natural fibers such as Pineapple Leaf 
+Fiber (PALF) in clay brick stabilization presents a hybrid approach that leverages 
+both chemical and mechanical enhancements. While bio-enzymes such as 
+Terrazyme chemically modify the soil structure to enhance cohesion and density, 
+PALF physically reinforces the brick matrix by improving tensile strength and 
+mitigating crack formation. This synergy creates a stabilized product that is both 
+durable and sustainable, particularly suited for regions like Uganda with an 
+abundance of clay soil and agricultural waste. 
+Hybrid stabilization benefits from the complementary mechanisms of its 
+constituents. The enzyme treatment reduces the plasticity and water absorption 
+capacity of the soil by facilitating ionic exchanges and particle flocculation. 
+Simultaneously, the embedded PALF distributes tensile stresses, absorbs energy 
+during deformation, and reduces the development and propagation of shrinkage 
+cracks (Susilowati & Sumardiyanto, 2018). These effects collectively contribute 
+to greater durability, improved load-bearing capacity, and enhanced dimensional 
+stability of unfired clay bricks. 
+Empirical data supports the effectiveness of this hybrid method. Razman et al. 
+(2024) reported that bricks stabilized with 2–4% PALF and 100 ml/m³ Terrazyme 
+exhibited a 30% reduction in linear shrinkage and a 20–25% increase in compressive 
+strength compared to untreated controls. Additionally, water absorption was 
+reduced by over 15%, indicating higher moisture resistance and longer service life 
+in humid or rainy climates. 
+
+36  
+  
+ 
+The inclusion of PALF also compensates for the potential brittleness induced by 
+enzymatic densification. While enzymes improve strength through soil particle 
+binding, they do not enhance tensile capacity. PALF addresses this shortcoming by 
+introducing ductility, which is crucial in resisting dynamic or fluctuating loads. This 
+makes hybrid-stabilized bricks particularly suitable for applications in non-load-
+bearing and moderately load-bearing walls in low-rise structures. 
+This technique also supports climate resilience. Unfired bricks often suffer from 
+degradation due to moisture cycling and biological growth. The dual stabilization 
+method reduces porosity and surface water retention, thereby lowering 
+susceptibility to algae, moss, and mold. Field simulations in East African 
+environments have demonstrated that hybrid-stabilized bricks maintain their 
+structural integrity after over 50 wet-dry cycles, a benchmark for long-term 
+performance in tropical climates (Kumar & Baser, 2016). 
+In terms of cost-effectiveness, hybrid stabilization reduces dependence on 
+expensive and energy-intensive materials like cement and lime. Both PALF and 
+Terrazyme are relatively inexpensive and can be produced or sourced locally. The 
+hybrid method also minimizes curing times and energy input, further reducing 
+production costs. This makes it ideal for rural construction initiatives, self-help 
+housing programs, and eco-village models where affordability and sustainability are 
+essential. 
+
+37  
+  
+However, standardization remains a challenge. Optimal ratios for bio-enzyme and 
+fiber incorporation vary with soil type, fiber preparation method, and climatic 
+conditions. There is a need for more extensive studies to develop guidelines that 
+can be adapted for local use. Furthermore, training artisans and engineers on 
+proper mixing, curing, and quality control procedures is essential for ensuring 
+consistent performance. 
+In conclusion, hybrid stabilization using bio-enzymes and PALF offers a robust, eco-
+friendly solution for improving the engineering properties of unfired clay bricks. It 
+aligns with global goals for sustainable construction and offers a path forward for 
+resilient, low-cost, and environmentally responsible housing in Uganda and similar 
+contexts. 
+2.1.6 Conclusion 
+The hybrid method has, thus, demonstrated great potential in solving 
+environmental and engineering problems like dependency on firewood for kiln 
+operations, while simultaneously enhancing the mechanical properties of clay 
+bricks. Current literature postulates that the incorporation of bio-enzymes and 
+natural fibers, including pineapple leaf fibers, in the stabilization of clay bricks 
+provides a sustainable and eco-friendly intervention to solve problems in the 
+Ugandan construction industry. Of course, optimization of this formulation with 
+respect to the ratio of bio-enzyme and PALF, durability for a longtime, and 
+performance of stabilized bricks concerning different environmental conditions still 
+requires further research.    
+
+38  
+  
+3 
+CHAPTER III :Methodology 
+3.1 
+ Methodology 
+3.1.1 Evaluation of Clay Brick Soil Properties   
+3.1.1.1 
+Portion Distribution's Particles Sizes (Sieve Analysis and Hydrometer 
+Test)   
+Standard: BS 1377-2, Part 2: Classification Tests, Methods of Testing For Soils For 
+Civil Engineering Purposes.   
+This test assesses the soil’s particle size distribution, the clay content as well as 
+confirms soil classification against the clay requirements by determination of the 
+amount of clay using sedimentation and gravimetric methods.   
+3.1.1.2 
+Determination of Atterberg limits including the plastic limit, liquid 
+limit and plasticity index.   
+Standard: BS 1377-2, Part 2: Classification Tests, Methods of Testing For Soils For 
+Civil Engineering Purposes.   
+This test measures the water content enables delineate the clayey materials into 
+different plasticity categories in the form of expansive soils that need to be 
+managed.  
+High plasticity is indicative of expansive soils.   
+
+39  
+  
+3.1.1.3 
+Free Swell Index (FSI) Test Standard: IS: 2720 (Part 40)   
+Methods of Test for Soils - Determination of Free Swell Index of Soils. This test 
+attempts to quantify the volume change of a soil when it is completely saturated 
+with water which is characteristic of expansive clays like Montmorillonite.   
+An extensive understanding of the swelling behavior would assist in creating 
+effective stabilization techniques BS 1377-4 is the methods of tests for soils for civil 
+engineering purposes ,part 4: Compaction-related tests.   
+3.1.1.4 
+Compressive Strength Test  
+The Strength in Compression Testing  
+The strength in compression testing is based on the BS 3921 specification, which is 
+also known as the Clay Brick Specification.   
+This test is crucial in determining the strength of a brick, which assesses the impact 
+of bio-enzyme and PALF on strength.   
+   
+3.1.1.5 
+Water Absorption on Test Standard  
+Clay Brick Specification (BS 3921).     
+This test estimates the water absorption rate of a certain brick sample by dipping 
+the sample underwater for a specified amount of time. It helps evaluate the brick's 
+resistance to weathering and its moisture retention and porosity.     
+
+40  
+  
+3.2 
+Determining Chemical and Physical Properties of Bio-Enzyme and 
+Pineapple Leaf Fiber    
+3.2.1 Production of Bio-Enzyme (Terrazyme)  
+The production involves creating a starter culture with yeast in a nutrient medium. 
+Optimal conditions are maintained at a pH of 5.5-6.5 and temperatures of 25-30°C. 
+After fermentation, the liquid enzyme is separated from the biomass and stored in 
+airtight containers.    
+3.2.1.1 
+Physical and Chemical Properties Evaluation of Terrazyme  
+• 
+pH Measurement: Use a pH meter to assess Terrazyme's acidity level.    
+• 
+Viscosity Measurement: Use a viscometer to determine viscosity.    
+• 
+Concentration Determination: A refractometer measures the concentration 
+of dissolved solids.    
+3.3 
+Production of Pineapple Leaf Fiber (PALF)  
+ Fresh pineapple leaves are collected to extract fibers that are dried and kept in 
+airtight containers to maximize quality.    
+3.3.1 Assessment of PALF Physical and Chemical Properties     
+• 
+Moisture Content: Assess by weighing before and after drying at 105 degree 
+celsius till equilibrium is attained.    
+• 
+Tensile Strength Test: Conducted using a universal testing machine for PALF 
+samples.    
+
+41  
+  
+3.3.2 Determination of the Most Effective Proportion for Stabilization    
+A variety of different mixes of bio-enzyme and PALF will be tested in proportions 
+from 0%-5% bio-enzyme to 2%-6% PALF by soil weight. The goal will be to test form 
+proportions to improve the characteristics of clay bricks 
+ 
+ 
+
+42  
+  
+ 
+3.4 
+ Evaluating the Engineering Properties of Stabilized Clay Bricks   
+3.4.1 Compressive Strength Test    
+Standard: BS 3921    
+This test will assess the maximum load-bearing capacity of stabilized bricks.    
+3.4.2 Water Absorption Test    
+Standard: BS 3921    
+This test evaluates the water absorption percentage by comparing the weight 
+before and after immersion, indicating moisture resistance and durability.    
+3.4.3 Shrinkage Test    
+Standard: BS 6073-1 – Precast Concrete Masonry Units – Part 1: Specification for 
+Precast Concrete Masonry Units.    
+This test measures the linear shrinkage of bricks after drying, assessing dimensional 
+stability and potential cracking risks during moisture loss     Detailed Procedures for 
+Determining Soil Properties of Clay Brick   
+3.4.4 1. Particle Size Distribution (Sieve Analysis and Hydrometer Test)  
+Standard: BS 1377-2:1990 – Methods of Test for Soils for Civil Engineering  
+Purposes – Part 2: Classification Tests   
+Procedure:   
+
+43  
+  
+ Sieve Analysis:   
+1. 
+Sample Preparation:   
+Collect 500g of air-dried soil.   
+Break up soil lumps without crushing individual particles.   
+2. 
+Sieve Setup:   
+Arrange sieves in descending order (4.75mm to 0.075mm).   
+Place a pan under the smallest sieve.   
+3. 
+Shaking:   
+Place the sample in the top sieve and secure the sieve stack.   
+Shake mechanically for 10-15 minutes.   
+4. 
+Weighing:   
+Weigh the material retained on each sieve and pan. B.  
+3.4.5  Hydrometer Test:   
+1. 
+Sample Preparation:   
+Weigh 50g of air-dried soil passing the 0.075mm sieve.  
+ Add a dispersing agent (sodium hexametaphosphate).   
+2. 
+Suspension Preparation:   
+Add distilled water to a 1000mL cylinder and stir for 10 minutes.   
+3. 
+Testing:   
+Insert the hydrometer and record readings at specific intervals (30s, 1min, 2min, 
+etc.).   
+Expected Outcome:   
+Determine particle size distribution for soil classification and identify clay content.   
+
+44  
+  
+3.4.6  Atterberg Limits Test (Liquid Limit, Plastic Limit, and Plasticity Index)   
+Standard: BS 1377-2:1990  
+ Procedure:   
+A. Liquid Limit:   
+1. 
+Sample Preparation:   
+Mix 200g of air-dried soil passing the 425µm sieve with water.   
+2. 
+Testing:   
+Place soil in a Casagrande cup.  
+Cut a groove using a standard tool. o Rotate the handle at 2 revolutions per second.  
+ Record the number of blows to close the groove.  
+B. Plastic Limit:   
+1. 
+Sample Preparation:   
+Take 20g of soil passing the 425µm sieve.   
+2. 
+Testing:   
+Roll the soil into threads of 3mm diameter until they crumble.  
+C. Plasticity Index:   
+• 
+Calculate: PI=LL−PL   
+Expected Outcome:   
+• 
+Classify the soil’s plasticity and its behavior under water content variations.  
+3.4.6.1 
+Free Swell Index (FSI) Test (Standard: BS 1377-5:1990)   
+Procedure:   
+1. 
+Sample Preparation:   
+Take two samples of 10g each passing a 425µm sieve.   
+
+45  
+  
+2. 
+Testing:   
+Place one sample in a 100mL graduated cylinder with kerosene (non-swelling 
+reference).   
+Place the second sample in another cylinder with distilled water.   
+Allow samples to stand for 24 hours.   
+3. 
+Calculation:   
+   
+Expected Outcome:   
+This test helps in identifying the expansive clay potential, which is crucial for 
+determining the need for soil stabilization.   
+   
+3.4.6.2 
+Compaction Test (Proctor Test)   
+Standard: BS 1377-4:1990   
+Procedure:   
+Sample Preparation:   
+Air-dry 5 kg of soil that passes through a 20mm sieve.   
+Testing:   
+• 
+Add water incrementally and mix thoroughly.   
+• 
+Place the soil in a standard Proctor mold in three layers.   
+
+46  
+  
+• 
+Compact each layer using 25 blows of a standard hammer.   
+Weighing:   
+• 
+Measure the dry density.   
+• 
+Repeat the test with varying water contents.   
+Calculation:   
+Plot dry density vs. moisture content to determine the maximum dry density (MDD) 
+and optimum moisture content (OMC).   
+Expected Outcome:   
+• 
+Assess compaction efficiency for potential strength improvement.     
+3.4.6.3 
+5.Compressive Strength Test  
+ Standard: BS EN 772-1:2011   
+Procedure:   
+4. 
+Sample Preparation:   
+Prepare clay brick samples with defined dimensions.   
+5. 
+Testing:   
+Place the sample on the compression testing machine. o Apply load at a constant 
+rate until failure.   
+6. 
+Calculation:   
+    
+Expected Outcome:   
+The compressive strength test determines the structural integrity of the clay brick 
+after stabilization.   
+
+47  
+  
+3.4.6.4 
+  
+7. 
+Water Absorption Test  Standard: BS EN 772-11:2011  
+Procedure:   
+• 
+Sample Preparation:   
+Dry the bricks in an oven at 105°C for 24 hours.   
+Weigh the dry bricks (WdW_dWd).   
+• 
+Testing:   
+Immerse the bricks in water for 24 hours.   
+Weigh the saturated bricks (WsW_sWs).   
+Calculation:   
+   
+Expected Outcome:   
+• 
+Assess water resistance and porosity, indicating durability in humid 
+environments.   
+ 
+ 
+
+48  
+  
+ 
+3.4.7 Detailed Step-by-Step Procedure to Achieve Stabilization of Clay Soil 
+Using Bio-Enzyme and Pineapple Leaf Fiber (PALF)  
+3.4.7.1 
+1. Determining Chemical and Physical Properties of Bio-Enzyme 
+(Terrazyme)  Bio-Enzyme (Terrazyme)   
+• 
+Separation of Enzyme   
+After fermentation, filter the mixture through a fine mesh sieve or filter paper to 
+separate the liquid enzyme solution from the biomass. o Store the liquid enzyme in 
+airtight containers in a cool, dark place for preservation.   
+ 
+ 
+
+49  
+  
+ 
+3.4.7.2 
+Chemical Properties Evaluation of Terrazyme 
+  pH Measurement:   
+Use a pH meter to measure the pH of the Terrazyme solution. The pH should be 
+within the optimal range of 5.5-6.5 for effective enzyme activity.   
+3.4.7.3 
+Physical Properties Evaluation of Terrazyme   
+• 
+Viscosity Measurement:   
+Use a viscometer to measure the viscosity of the Terrazyme solution. This will help 
+assess the flow characteristics and concentration of the enzyme solution.   
+• 
+Concentration Determination:   
+Use a refractometer to determine the concentration of dissolved solids in the 
+Terrazyme, which gives an indication of the enzyme's strength.    
+Standards Used:   
+• 
+BS EN ISO 10712: Soil Quality - Evaluation of Microbial Activity.   
+• 
+BS EN ISO 9001: Quality Management Systems - Requirements.   
+Production of Pineapple Leaf Fiber (PALF)  
+Step 1: Leaf Collection and Preparation   
+• 
+Collect fresh pineapple leaves and wash them thoroughly to remove any 
+impurities.   
+Step 2: Fiber Extraction   
+• 
+Cut the leaves into smaller sections to facilitate blending.   
+• 
+Blend the leaves with water to create a slurry.   
+
+50  
+  
+• 
+Strain the slurry through a fine mesh sieve to extract the fibers from the 
+pulp.   
+Step 3: Drying the Fiber   
+• 
+Dry the extracted fibers in an oven at 60°C for 24-48 hours or air-dry them 
+in a wellventilated area until they are fully dry.   
+• 
+Storage: Store the dried fibers in airtight containers to maintain quality and 
+prevent moisture absorption.   
+Chemical Properties Evaluation of PALF   
+• 
+Moisture Content:   
+Dry a known weight of the PALF at 105°C until a constant weight is achieved. The 
+difference in weight will give the moisture content (BS EN ISO 11722).   
+• 
+Ash Content:   
+Ignite a known weight of the dried PALF in a muffle furnace at 550°C for 2 hours to 
+determine the ash content (BS EN ISO 214382).   
+ 
+ 
+
+51  
+  
+ 
+3.4.8 Physical Properties Evaluation of PALF Tensile Strength Test:   
+Use a universal testing machine to measure the tensile strength of PALF samples 
+according to BS EN ISO 13934-1.   
+3.4.8.1 
+Fiber Diameter Measurement:   
+Use a micrometer or digital caliper to measure the diameter of the PALF fibers to 
+assess their physical properties.   
+3.4.8.2 
+Identifying the Optimal Ratio for Stabilization   
+Bio-Enzyme (Terrazyme) Proportions   
+• 
+The following range of Terrazyme will be tested by weight of soil:   
+0%, 2%, 3%, and 5% by weight of soil.   
+Pineapple Leaf Fiber (PALF) Proportions   
+• 
+PALF will be tested in the following proportions by weight of soil:   
+2%, 4%, and 6%. 
+3.5 
+Experimental Design for Stabilization Mixes  
+To identify the optimal stabilization ratio, clay bricks were prepared using varying 
+concentrations of bio-enzyme (Terrazyme) and pineapple leaf fiber (PALF). The 
+tested combinations were designed to evaluate synergistic effects on compressive 
+strength, water absorption, and shrinkage:  
+ 
+ 

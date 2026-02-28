@@ -1,0 +1,1616 @@
+INTERNET MARKETING AND CONSUMER PURCHASE DECISION
+A case study of Jumia Uganda
+
+
+
+NOAH EMODIT
+
+S20B33/263
+
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL
+FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF
+SCIENCE IN ACCOUNTING AND FINANCE OF UGANDA CHRISTIAN UNIVERSITY
+
+
+August 2023
+
+
+
+
+iii
+
+
+DEDICATION
+
+I dedicate this dissertation to my Mother Miss. Acan Sarah, Father Mr. Aidony John, Rev.Can.
+Christine Shimanya, my sisters Ms Akiteng Janet and Ms Ayano Melda, my independent-minded
+and supportive supervisor Dr Henry Mugisha, who desired to see me progress to greater heights
+thus instilling confidence, vision, and hope to keep going and eventually triumph.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+
+ACKNOWLEDGEMENT
+
+I would like to take this opportunity to thank and appreciate the various individuals who
+contributed to the completion of this report. I am especially indebted to my supervisor Dr. Henry
+Mugisha for his professional, educative, constructive, and parental supervision skills that always
+encouraged me to continue with this research.
+I thank all the respondents for accepting to respond to the study questionnaires and making this a
+success.
+In a special way, I thank my Aunts Rev. Can. Christine Shimanya and Ms Hellen Agwang who
+always believed in me and kept encouraging me.
+But above all, I thank The Almighty God for the gift of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+Table of Contents
+DECLARATION ............................................................................................................................. i
+APPROVAL ................................................................................................................................... ii
+DEDICATION ............................................................................................................................... iii
+ACKNOWLEDGEMENT ............................................................................................................. iv
+CHAPTER ONE ............................................................................................................................. 1
+INTRODUCTION .......................................................................................................................... 1
+1.1 Introduction ......................................................................................................................................... 1
+1.1.1 Historical Background to the study .................................................................................................. 1
+1.1.2 Theoretical Background ................................................................................................................... 3
+Technology Acceptance Model (TAM) ................................................................................................ 4
+Innovation Diffusion Theory ................................................................................................................ 4
+1.1.3 Conceptual background ................................................................................................................... 5
+1.1.4 Contextual Background ................................................................................................................... 6
+1.2 Problem statement ............................................................................................................................... 8
+1.3 Objectives of the study ........................................................................................................................ 9
+1.3.1 General Objective ........................................................................................................................ 9
+1.3.2 Specific Objectives ...................................................................................................................... 9
+1.4 Research Questions ........................................................................................................................... 10
+1.5 Conceptual framework ...................................................................................................................... 10
+Figure 1:1 Conceptual framework showing Internet marketing and Consumer purchase decision
+in Jumia Uganda. .......................................................................................................................... 10
+1.6 Significance of the study ................................................................................................................... 11
+1.7 Justification of the study ................................................................................................................... 11
+1.8 Scope of the study ............................................................................................................................. 12
+1.8.1 Geographical scope .................................................................................................................... 12
+1.8.2 Time scope ................................................................................................................................. 12
+1.8.3 Content scope ............................................................................................................................. 12
+1.10 Operational Definitions of Terms and Concepts ............................................................................. 12
+CHAPTER TWO .......................................................................................................................... 14
+LITERATURE REVIEW ............................................................................................................. 14
+2.1 Introduction ....................................................................................................................................... 14
+2.2 Theoretical Review ........................................................................................................................... 14
+
+vi
+
+2.2.1 Technology Acceptance Model (TAM) ..................................................................................... 14
+2.2.2 Innovation Diffusion Theory ..................................................................................................... 16
+2.3 Empirical Review .............................................................................................................................. 17
+2.3.1 Social Media Marketing and Consumer Purchase Decision ...................................................... 17
+2.3.2 Website Marketing and Consumer Purchase Decision .............................................................. 20
+2.3.3 Email Marketing and Consumer Purchase Decision .................................................................. 21
+2.5 Summary of Literature Review ......................................................................................................... 21
+3.1 Introduction ....................................................................................................................................... 22
+3.2 Research Design ................................................................................................................................ 22
+3.3 Study Population ............................................................................................................................... 22
+3.4 Sample size and selection ................................................................................................................. 22
+3.5 Data Collection Methods .................................................................................................................. 23
+3.5.1 Quantitative data collection method........................................................................................... 24
+3.5.2 Qualitative data collection method............................................................................................. 24
+3.6 Data Collection Instruments.............................................................................................................. 24
+3.6.1 Documentary Review Checklist ................................................................................................. 24
+3.6.2 Questionnaire ............................................................................................................................. 24
+3.6.3 Interview Guide.......................................................................................................................... 24
+3.7 Procedure of Data Collection ............................................................................................................ 25
+3.8 Validity and Reliability of Data Collection Instruments ................................................................... 25
+3.8.1 Validity of the instruments ......................................................................................................... 25
+3.8.2 Reliability of the instruments ..................................................................................................... 25
+3.9 Data analysis ..................................................................................................................................... 26
+3.9.1 Qualitative Data Analysis .......................................................................................................... 26
+3.9.2 Quantitative Data Analysis ........................................................................................................ 26
+3.10 Measurement of Variables .............................................................................................................. 27
+3.11 Ethical Consideration ...................................................................................................................... 27
+CHAPTER FOUR ......................................................................................................................... 29
+PRESENTATION, ANALYSIS AND INTERPRETATION OF RESULTS .............................. 29
+4.1 Introduction ....................................................................................................................................... 29
+4.2 Response Rate ................................................................................................................................... 29
+Table 4.1: Response Rate .............................................................................................................. 29
+4.3.1 Findings on respondents’ age groups ......................................................................................... 30
+
+vii
+
+Table 4.2: Age groups ................................................................................................................... 30
+4.3.2 Findings of gender of the respondents ....................................................................................... 30
+Table 4.3: Findings on gender of respondents .............................................................................. 30
+4.3.3 Findings on Marital status .......................................................................................................... 31
+Table 4.4: Findings on marital status ............................................................................................ 31
+4.4 Empirical findings ............................................................................................................................. 31
+4.4.1 Descriptive statistics showing the effect of social media marketing on consumer purchase
+decision in Jumia Uganda. .................................................................................................................. 32
+Table 4.5: Responses on social media marketing and consumer purchase decision .................... 32
+Table 4.6: Correlation between social media marketing and consumer purchase decision. ........ 35
+Table 4.7: Linear regression results for social media marketing and consumer purchase decision.
+...................................................................................................................................................... 36
+4.4.3 Descriptive statistics showing the influence of website marketing on consumer purchase
+decision in Jumia Uganda. .................................................................................................................. 36
+Table 4.8: Responses on website marketing on consumer purchase decision .............................. 37
+Table 4.9: Correlation between Website marketing and consumer purchase decision. ............... 39
+Table 4.10: Linear regression results for social media marketing and consumer purchase
+decision. ........................................................................................................................................ 40
+4.4.3 Descriptive statistics showing the effect of email marketing on consumer purchase decision in
+Jumia Uganda. ..................................................................................................................................... 40
+Table 4.11: Findings on email marketing and consumer purchase decision ................................ 41
+Table 4.12: Correlation between email marketing and consumer purchase decision. .................. 43
+Table 4.13: linear regression results for social media marketing and consumer purchase decision.
+...................................................................................................................................................... 44
+Table 4.14: findings on do you visit internet marketing tools ...................................................... 44
+Table 4.15: Findings on do you make purchase after visiting and accessing information from
+internet marketing tools about products and services. .................................................................. 45
+Table 4.16: Findings on do you think internet marketing tools are essential for consumer
+purchase decision. ......................................................................................................................... 45
+CHAPTER FIVE .......................................................................................................................... 46
+SUMMARY, DISCUSSION, CONCLUSION AND RECOMMENDATIONS ......................... 46
+5.1 Introduction ....................................................................................................................................... 46
+5.2 Summary of findings ......................................................................................................................... 46
+5.2.1 Social media marketing and consumer purchase decision in Jumia Uganda ............................. 46
+5.2.2 Website marketing and consumer purchase decision in Jumia Uganda ..................................... 46
+
+viii
+
+5.2.3 Email marketing and consumer purchase decision in Jumia Uganda ........................................ 47
+5.3 Discussion of findings ....................................................................................................................... 47
+5.3.1 Social media marketing and consumer purchase decision in Jumia Uganda ............................. 47
+5.3.2 Website marketing and consumer purchase decision in Jumia Uganda ..................................... 48
+5.3.3 Email marketing and consumer purchase decision in Jumia Uganda ........................................ 49
+5.4 Conclusion ........................................................................................................................................ 50
+5.4.1 Social media marketing and consumer purchase decision in Jumia Uganda ............................. 50
+5.4.2 Website marketing and consumer purchase decision in Jumia Uganda ..................................... 50
+5.4.3 Email marketing and consumer purchase decision in Jumia Uganda ........................................ 51
+5.5 Limitation to the study ...................................................................................................................... 51
+5.6 Contribution of the study .................................................................................................................. 51
+5.7 Area for further study ........................................................................................................................ 52
+REFERENCES ............................................................................................................................. 53
+APPENDIX 1: QUESTIONNAIRE ............................................................................................. 58
+APPENDIX 11: Interview guide for senior managers, finance, marketing, teller management,
+logistics and Jumia group staff. .................................................................................................... 59
+Appendix 111: Document Review Checklist ................................................................................ 60
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF TABLES
+
+Table 4.1: Response Rate .............................................................................................................. 29
+Table 4.2: Age groups ................................................................................................................... 30
+Table 4.3: Findings on gender of respondents .............................................................................. 30
+Table 4.4: Findings on marital status ............................................................................................ 31
+Table 4.5: Responses on social media marketing and consumer purchase decision .................... 32
+Table 4.6: Correlation between social media marketing and consumer purchase decision. ........ 35
+Table 4.7: Linear regression results for social media marketing and consumer purchase decision.
+...................................................................................................................................................... 36
+Table 4.8: Responses on website marketing on consumer purchase decision .............................. 37
+Table 4.9: Correlation between Website marketing and consumer purchase decision. ............... 39
+Table 4.10: Linear regression results for social media marketing and consumer purchase
+decision. ........................................................................................................................................ 50
+Table 4.11: Findings on email marketing and consumer purchase decision ................................ 41
+Table 4.12: Correlation between email marketing and consumer purchase decision. .................. 43
+Table 4.13: linear regression results for social media marketing and consumer purchase decision.
+...................................................................................................................................................... 44
+Table 4.14: findings on do you visit internet marketing tools ...................................................... 44
+Table 4.15: Findings on do you make purchase after visiting and accessing information from
+internet marketing tools about products and services. .................................................................. 45
+Table 4.16: Findings on do you think internet marketing tools are essential for consumer
+purchase decision. ......................................................................................................................... 45
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1:1 Conceptual framework showing Internet marketing and Consumer purchase decision
+in Jumia Uganda. .......................................................................................................................... 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+ABSTRACT
+This study assessed the influence of internet marketing on consumer purchase decision in Jumia
+Uganda. Specifically the study was guided by the following objectives: to establish the effect of
+social media marketing on consumer purchase decision in Jumia Uganda: to determine the
+influence of website marketing on consumer purchase decision in Jumia Uganda and to establish
+email marketing on consumer purchase decision in Jumia Uganda. The study predominantly
+employed qualitative and questionnaire approach, a sample size of 217 was selected where a
+response rate of 96 percentages were obtained, 12 interview guides and a documentation review
+checklist were used to collect data samples of respondents. Data was analysed by use of both
+qualitative and quantitative analysis techniques. Data analysis involved use of both descriptive
+and inferential statistics such as; mean, standard deviation, percentage, correlation coefficient
+and regression analysis. Findings show that there was a positive correlation (r=.26.6) between
+social media marketing and consumer purchase decision in Jumia Uganda. Thus social media
+marketing accounted for 26.6% change in consumer purchase decision in Jumia Uganda.
+Findings also showed that there was a positive correlation (r=.042) between website marketing
+and consumer purchase decision in Jumia Uganda. Thus website marketing accounted for 42%
+change in consumer purchase decision in Jumia Uganda. Lastly, findings revealed that there was
+a positive correlation (r=.66.2) between e-mail marketing and consumer purchase decision in
+Jumia Uganda. Thus e-mail marketing accounted for 66.2% change in consumer purchase
+decision in Jumia Uganda. It was concluded that Jumia Uganda observes internet marketing
+activities such as online visitor, display adverts sharing of content, optimised search engine
+optimization, e-mail campaigns so as to affect consumer purchase decision. It is thus
+recommended that there is need for Jumia Uganda to ensure that internet marketing activities
+offer information satisfaction since it affects the quality of goods that are offered hence need to
+improve the quality of service.
+Furthermore, online shopping pages should offer immerse choice, data servicing, steadfastness
+and item examination considering developing trust online is complicated than the normal outlets.
+Lastly, consumer with internet experience should be in position to embrace and utilize online
+information due to the high confidence likely influenced by online reviews which impact
+consumer purchase decision.
+
+
+CHAPTER ONE
+INTRODUCTION
+1.1 Introduction
+This chapter presents the background to the study, the statement of the problem, the purpose of
+the study, the objectives of the study, the research questions, the hypothesis, the conceptual
+framework, the significance of the study, definitions of the terms and concepts.
+The study seeks to focus on internet marketing and consumer purchase decision in Uganda. A
+case study of Jumia Uganda in Kampala.
+1.1.1 Historical Background to the study
+Internet marketing is considered to be changing the context and practice of marketing currently
+because it is rapidly growing. As the world becomes more connected, it is important for
+companies to keep up with new developments and trends as they try to reach new audiences
+(Singh et al., 2014). Technology and software are changing at such a high rate that it seems
+impossible to keep up with inclination. Products and services are surfacing and adopting to the
+online sphere (Jones et al., 2011).
+Internet marketing often called online marketing or E-marketing is essentially any marketing
+activity that is conducted online through the use of internet technologies (Jones et al., 2011). It
+comprises not only advertising that is shown on websites, but also other kinds of online activities
+like email marketing and social media marketing. Every aspect of internet marketing is digital,
+meaning that it is electronic information that is transmitted on a computer or similar devices
+(Jenyo, 2015).
+The internet is the newest and youngest medium, having been around in its current form for a
+while. The very first internet connected network was developed as a joint project between the US
+Military and several research organizations (Singh et al., 2014). New advances came slowly at
+first: with the first cross country link installed between computers in USA in 1970, network
+email was invented in 1971 and improvements made to email in 1972, international connections
+were established in 1973, the term internet was first used in 1974, and the first real online
+protocols were introduces in 1980s (Barry, 2009). With more than 1 million hosts on the internet,
+
+
+everything accelerated on the early 1990s as web browser software and the World Wide Web
+was introduced to the public by 1993; businesses started taking an interest in the Internet (Barry,
+2009).
+The history of the internet in Uganda dates back to 1993 with reference to a Fidonet node at
+Makerere University (Muheebwa, 2015). Limited commercial email services became available in
+1994 and the first host using the .ug (Uganda) domain name was detected in July 1995
+(Muheebwa, 2015). By October 1995, several organizations were offering internet connectivity
+like Makerere University in Kampala (Muheebwa, 2015). Internet services were being provided
+for the students and the faculty. In addition, starlight communication and Informail were
+providing internet access while Transmail and Infomanet were providing email services (Minger
+et al., 2000; Muheebwa, 2015).
+There were a growing number of internet cafes offering email services which contributed to the
+growing awareness of the internet. The number of internet subscriber was around 4,100 at the
+end of 1999 (Muheebwa, 2015). A more probable figure based on interviews and estimates of the
+number of user per subscription, suggests that there were around 25,000 internet users in Uganda
+at the beginning of 2000 which include regular and casual email users. However in 2016, total
+number of fixed internet subscribers increased by 13.17 percent, a clear indication the internet
+subscribers, viewers have drastically grown over the years and is still at the rise (Uganda Bureau
+of Statistics, 2017).
+In 2004, the concept of “web 2.0” the interactive, commercial, cooperative and user centric web
+exploded in to the public. Its main characteristics were the rise of social networking, invention of
+tools that made and customizing personal paged increasingly simple and the big push by online
+marketers to make their advertising and products more accessible and desirable to online markets
+(Singh., et al 2014, Muheebwa, 2015). Companies started thinking about advert placement and
+started buying advertising space on related websites with links back to their pages and often
+accompanied with data gathering measures such as asking customers to enter their contact
+information were introduced (Singh et al., 2014).
+The last and most profound change to the marketing space was the rise of social media which
+was gradual from 2004 and meteoric from 2006. Social media platforms such as social
+networking sites opened the way for user-filtered and recommended content including marketing
+
+
+material (Korenich et al., 2013). As social media platforms grew people created exponentially
+more connections with each other through sharing content, the vision of viral marketing the
+online equivalent of word of mouth became real. In other words, users can exchange media files
+with each other (Korenich et al., 2013).
+Internet marketing has re-invested itself in the current web being dominated by social media
+marketing, Website marketing. Email marketing an essential tool for virtually every business
+(Singh et al., 2014) Jumia is the largest online retail store in Uganda which was established in
+May 2014 with the aim and vision to become the one stop shop for retail in Africa. Customers
+are spending more and more time online and are turning to the internet for better services,
+convenience and life enhancing tool: like online consumer purchase decision with widest
+assortment of products and over 220,000 orders annually, 10,000 orders during the black Friday
+which at inception did average delivery of a week, today on average, delivery in 3-5 days to all
+regions across Uganda. Web communities, social networks, website marketing, email marketing
+and any of the dozens of other things that the web makes possible (Jumia Uganda Report, 2018).
+Social media marketing has made an indelible mark on the web landscape and concurrently on
+marketing tactics. According to Jumia Uganda report 2018, 30% of the traffic generated from
+social media which involves using peer recommendations, sharing, building brand personality
+and addressing the market as a heterogeneous group of individuals.
+Website marketing had become familiar with web users with Jumia Uganda offering a wide
+assortment of 200,000 products (Jumia Uganda Report, 2018). Marketers in Uganda today have
+to think of very innovative and eye catching strategies to entice wary viewers.
+1.1.2 Theoretical Background
+The study will be guided by two theories namely Technological Acceptance Model (TAM) and
+Innovation Diffusion Theory which will guide the study to establish the extent to which they are
+predictive of consumers’ purchase decision effect in the context of internet marketing. These
+theories are further illustrated as below;
+
+
+
+
+Technology Acceptance Model (TAM)
+The Technology Acceptance Model (TAM) advanced by Fred Davis (1989), has emerged as a
+powerful and parsimonious model (Yousafzai et al., 2007). TAM based on the assumption that
+individuals are rational decision makers and makes the hypothesis that a person’s acceptance of
+technology in the case of this study, internet marketing is determined by his or her voluntary
+intention to use that technology and his or her perception concerning its usefulness. There is need
+to understand why people reject or accept internet marketing and this model addressed those
+reasons. TAM highlights why a person believes that using a particular technology would benefit
+him or her and thus the relevancy of this theory to the study. The revised Model by Davis et al
+(1989) is constructed from external stimulus, perceived usefulness and perceived ease of use,
+behaviour intention and actual usage (Davis et al., 1996). However TAM ignores some important
+theoretical constructs like what scales can be used for measuring and conflicting results on the
+web acceptance that can be addressed by other theories like Innovation Diffusion theory
+(Olushola et al., 2017).
+Innovation Diffusion Theory
+Diffusion of Innovation is a theory profound by Everett Rogers in 1962 that seeks to explain
+how, why, and at what rate new ideas and technology spread. Rogers (2003), defines diffusion as
+the process in which an innovation is communicated through certain channels over time among
+the members of a social system. Innovation diffusion theory seeks to enable innovation to spread
+successfully which relates to the internet marketing tool that is to say social media marketing,
+website marketing and email marketing and thus the theory is paramount in guiding the study.
+Innovation diffusion theory proposes elements that relate to the study like innovation which may
+have been invented a long time ago but if individuals perceive it as new then it may still be an
+innovation, communication channels which participants create and share information with one
+another as well as time and social systems (Roger,2003). Nevertheless, this theory tends to lack
+the necessary infrastructure or networks to promote and adopt a new technology reason for
+another theory (Patriocio, 2017).
+
+
+
+1.1.3 Conceptual background
+The key concepts that guide this study are internet marketing and consumer purchase decision.
+Internet marketing is essentially any marketing activity that is conducted online through the use
+of internet technologies. To comprise not only website marketing which involves the use of
+online display advertisements such as banners, skyscrapers and rich media in order to achieve
+brand awareness and encourage consumer purchase decision. Website marketing also entails
+various formats like floating ads, interstitials and pop ups (Aviciene et al., 2013). However there
+are also other kinds of online activities like social media marketing with many social sites like
+Facebook which is the leading social network in Uganda with 2.6 million users of whom 1.5
+million are active users that’s to say 82.17% users of which 3,112 are followers in Jumia
+Uganda, twitter with 3.97% users, YouTube with 3.32% users, Pinterest with 9.15%, Instagram
+with 0.36% users of which 6684 are followers of Jumia Uganda as stated by Star counter global
+stats (2009). Social media channels are used to promote a company and its products or services
+(Barefoot & Szabo, 2010). The content generated on the social media platforms are then used to
+inform customers about services, brands through posts, blogs, likes, share etc (Xiang & Gretzel,
+2010). Last but not least is email marketing which is considered most popular online marketing
+tool. Email marketing essentially means the use of emails by a company to market the products
+or services. Email marketing techniques include mail chimp, constant contract, toddle, spinnaker
+pro nevertheless there many other email marketing tools.
+There is no specific definition for consumer purchase decision however, it is described by a
+process which involves five stages whereby the consumer recognise the need, gather information
+and resources, evaluate alternatives and make decision (Katler and Amstrong, 2005). In addition
+Olshavsky & Granbois, 1979 state that consumer purchase decision comprises the various steps a
+consumer passes through when making a purchase decision.
+Engel et al, 1978 have presented a comprehensive model dealing with ultimate consumer
+purchase decision. The starting point of the consumer purchase decision is the problem
+recognition which is likely to occur when a consumer is faced with a problem. Among
+consumers there seems to be different problem recognitions styles. Some consumers are actual
+state type, who perceive that they have a problem when a service fails to perform satisfactorily
+
+
+(Kanuk, 2003). In contrast other consumers are desired state type for whom the desire for
+something new may trigger the decision process (Kanuk, 2003).
+According to Isobel, (2005) problem recognition occurs when an individual senses a difference
+from what he or she perceives to be the ideal state of affairs compared to the actual state of
+affairs at any moment in time. Problem recognition is a critical stage in the decision process
+because it motivates the consumer to take action.
+Information search is where the consumer usually searches his or her memory before seeking
+external sources of information regarding a given consumption related need (Kanuk, 2003).
+Evaluation of alternative is as a result of information processing, consumers use past and current
+information to associate brands they are aware of their desired benefits. Solomon, (2000) states
+that evaluation of alternatives is when consumers compare what they know about different
+brands with what they consider most important to narrowing the field of alternalries before they
+finally resolve to pay for the service. Consumers prefer the brand that will give the most
+satisfaction based on the benefits they seek. Some attributes upon which alternatives are
+evaluated are silent attributes such as price, reliability and some are determinant attributes.
+Consumers evaluate competing attributes in terms of salient benefits about relevant
+consequences and combine this knowledge to make choice (Wayne, 2007).
+The outcome of consumer evaluation is an intention to buy. The final sequence in consumer
+purchase decision involves purchasing of the intended brand. Once the product has been
+purchased, the consumer evaluates its performance which is past purchase evaluation (Assael,
+2004).
+1.1.4 Contextual Background
+The internet is the fastest growing medium with 3.6 billion global internet users by 2017. It is
+indicated through research that more than 20% population of the world is already engaged in
+using the internet for their purpose of their requirements (Taylor, 2002). According to (UBOS
+Report, 2017) Uganda’s internet marketing is growing steadily in terms of subscribers and the
+number of active subscribers has now reached 13.7% and is still on the rise. This has become a
+new beginning of possibilities for new enterprises of all shapes and sizes. Owing to the fact
+
+
+internet is the most widely used information channel (Laukkanen, 2007). This has offered new
+markets for internet based services like the case of Jumia Uganda which is an online marketing
+company.
+Every aspect of internet marketing is digital, meaning that it is electronic information that is
+transmitted on a consumer or similar device. Although the relative importance of internet
+marketing of an organization still largely depends on the nature of its products and services and
+the purchase decision of its target audience, there has been a global dramatic change in media
+consumption over the last 10 years towards digital media which means that the internet is
+becoming important for all categories (Jenyo, 2015).
+Hence, the internet as a communication medium has broadened the scope of marketing
+communications considering the number of people who can be easily reached including the
+locations where they are reached. Internet marketing has also increased the richness of marketing
+activities by combining text, video for example Jumia YouTube videos, and audio content in to
+rich messages (Jenyo, 2015).
+Furthermore, the internet marketing has succeeded in expanding the information intensity of the
+marketplace immensely by providing marketers and customers with well detailed real-time
+information about consumers as they transact in the market. Consumers are much more available
+to receive marketing messages due to the “Always-on” environment created by internet to results
+to an extraordinary increase in marketing opportunities for firms 9Laudon 7 Traver, 2013).
+As in the case of social media marketing which is almost always primarily to create as many
+leads as possible. This can be through pay per click campaigns and free tactical strategies to
+draw customers to take an action on the organization social media page. Ultimately, the
+organization wants these potential clients to visit the social media page and purchase a product or
+service. For example a company can use Facebook to invite friends to like their page or make a
+paid awareness campaign to a target audience on the platform which will result in to the potential
+customer who can be reached with adverts through the company’s social media platform like
+Jumia Uganda on Facebook and Instagram about the latest products or services hence leading the
+customer to making a purchase decision (Zerella, 2010).
+
+
+Organizations use email marketing to keep customers up to date about their products ad services
+by sending emails to the customer base about a catalogue of products with the intention of
+customer purchase decision (Venugopal, 2019). The organization sends special offers to the
+target audience about their products and services which intern build a lasting relationship
+because of direct emails sent on a regular basis to the customers (Thomas, 2008).
+Website marketing is essentially to make potential customers aware of the brand. By making
+customers aware about the brand the organization is giving customer trust and patronage.
+Website marketing provides the organization with a way to communicate the unique selling
+points of the service thereby stimulating demand which will intern lead to increased customer
+purchase decision by driving traffic and sales of products or services of the company. The
+organization use of different display advertising tools like interstitial banners which are shown
+between pages of websites, pop up ads which appear on the web page being viewed, banner
+advertisement (Baines, 2014).
+1.2 Problem statement
+There has been rapid growth of internet marketing as explained in various literatures. According
+to Statista (2016), there are more than 3.5 billion users worldwide with Africa contributing 435
+million users owing to the internet penetration in Africa which stands at 34%. Internet
+connectivity is still on the rise in Uganda which currently has 19 million users and 44%
+penetration rate which is above that of Africa and ranked 15th in internet usage across Africa
+with 77% accessing the internet through smart phones including tablets and 23% using
+computers (Jumia Uganda Report, 2018). However, consumer purchase decision makes up less
+1% despite the growing internet presence consequently there is a small market size.
+Jumia Uganda has subsequently observed a major increase in the number of internet users
+accessing the online shop with average visits growing from 200,000 in 2016 to 300,000 in 2017
+and a recorded increase in sales by 41.8% in the fourth quarter 2017 (Jumia Uganda Report,
+2018).
+With the growing use of the internet marketing tools like social media which constitutes 30% of
+traffic, website marketing, email marketing, Search Engine Optimization (SEO) all vital for the
+
+
+online presence cash on delivery is still the preferred method of payment which constitutes 83%
+and remains a popular option as opposed to others which constitutes 17% (Jumia Uganda Report,
+2018).
+Research indicates that 81% of those who browse e commerce sites for goods and services do not
+actually make online purchase decisions (Gupta, 1995; Wine, 1998; Warrington et al., 2001).
+This is due to lack of trust in online shopping, reliability of some sites delivery, mobile payment
+wallets process and internet users need data connection which is expensive hence the consumer
+purchase decision is unlikely to grow in step with the rising internet penetration in Uganda.
+Therefore, the proposed study seeks to investigate why despite the increase in online visitor,
+likes, subscribers, consumers are still reluctant while the majority opt to abandon the purchase
+decision process thereby contributing to the low 0.5% trade that occurs online. Thus commerce
+communities witness increased online participation however there is low consumer purchase
+1.3 Objectives of the study
+1.3.1 General Objective
+To determine the influence of internet marketing on consumer purchase decision in Jumia
+1.3.2 Specific Objectives
+(i) To establish the influence of social media marketing on consumer purchase decision in Jumia
+(ii) To determine the influence of Website marketing on consumer purchase decision in Jumia
+(iii) To establish the influence of Email marketing on consumer purchase decision in Jumia
+
+
+
+
+1.4 Research Questions
+(i) How has Social media marketing influenced consumer purchase decision in Jumia Uganda?
+(ii) What is the influence of Website marketing on consumer purchase decision in Jumia
+Uganda?
+(iii) What is the influence of Email marketing on consumer purchase decision in Jumia Uganda?
+1.5 Conceptual framework
+Sekeran (2003), states that a conceptual framework helps to postulate or hypothesize and test
+certain relationships which progress the understanding of the situation.
+Figure 1:1 Conceptual framework showing Internet marketing and Consumer purchase
+decision in Jumia Uganda.
+Internet marketing
+
+
+
+
+
+
+Consumer purchase decision
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Adapted from Davis (1989) and Hewer (2002)
+Figure 1.1: Conceptual framework
+Social media
+•
+Social networking
+site
+•
+Creativity works
+and sharing site
+•
+Commerce
+communities
+Website marketing
+•
+Display ads
+•
+Social integration
+•
+Search engine
+optimization
+Email marketing
+•
+Newsletters
+•
+Mailing list
+Problem recognition
+Information search
+Alternative evolution
+
+
+
+
+The conceptual framework shown in figure 1 above attempts to explain the relationship between
+the Independent Variable (Internet marketing) and dependent variable (Consumer purchase
+decision).
+The conceptual framework is modified and developed basing on (Davis, 1989) and (Hewer,
+2002).
+Internet marketing tools include social media, website marketing and email marketing. Social
+media includes social networking sites, creativity works, sharing sites and commerce
+communities.
+Social media activities can create awareness and influence consumers' knowledge and
+perception of products or services. Through online advertisements, informative content, social
+media campaigns, and search engine visibility, companies can expose consumers to their
+offerings and communicate the benefits and features.
+Website marketing includes display ads, social integration and search engine optimization.
+Email marketing includes newsletters and mailing lists. The independent variable of internet
+marketing affects dependent variables of consumer purchase decision. These are problem
+recognition, information search, alternative evaluation, purchase and post purchase.
+1.6 Significance of the study
+It is anticipated that the proposed study will be significant in the following areas;
+The study will be beneficial to both the internal and external stakeholders. The internal
+stakeholders include the Jumia management and employees while the external stakeholders
+entail the regulatory body and customers.
+The study findings are hoped to add to the existing body of knowledge about internet marketing
+and consumer purchase decision.
+1.7 Justification of the study
+Internet marketing has revolutionized the market because consumers can make purchase
+decisions owing to the fact that internet marketing has become an important channel for
+companies to increase visibility by providing products and services in addition offer direct sales
+to potential consumers. However, despite internet marketing penetration, consumer purchase
+decision has lagged behind. One would expect that judging from the huge online visits that the
+uptake of consumer purchase decision would have skyrocketed nevertheless, the reverse is the
+case considering the low consumer purchase decisions.
+
+
+1.8 Scope of the study
+1.8.1 Geographical scope
+The study will be conducted at Jumia Uganda in Lumba Avenue Nakasero, Kampala and
+involved management, employees and customers. The management, employees and customers
+will be the unit of the investigation.
+1.8.2 Time scope
+The study will cover the period from April 2023 to July 2023 along with examining internet
+marketing and consumer purchase decision in Kampala, a case study of Jumia Uganda. This is
+because the trends indicate increased online visits despite continued low customer purchase
+decision which offers availability of good quality and reliable data (Jumia Uganda Report, 2018).
+1.8.3 Content scope
+The study will be confined to the relationship between internet marketing and consumer
+purchase decision in Uganda.
+1.10 Operational Definitions of Terms and Concepts
+The study will refer to a computer network consisting or a worldwide network of computer
+networks that use the IP network protocols to facilitate data transmission and exchange. The
+internet includes commercial, educational, governmental and other networks, all of which use the
+same set of communication protocols (Baines, 2010)
+Internet marketing: Marketing is the management process responsible for identifying,
+anticipating and satisfying customer requirements profitably (Chaffey, 2009).
+Kaplan and Haenlein (2010) define internet marketing as a group of internet based applications
+that build on the ideological and technological foundations of Web 2.0, which facilitates the
+creation and exchange of user generated content. It consists of different internet applications
+such as blogs, social networking sites, content communities, collaborative projects, virtual game
+world and social worlds.
+Consumer Purchase Decision: Consumer purchase decision refers to the process by which
+individuals or households decide to buy a particular product or service. It involves several stages,
+including problem recognition, information search, evaluation of alternatives, purchase decision,
+and post-purchase evaluation.
+
+
+Social media: According to Boyd and Ellison (revised definition, 2008): "Social media is a
+networked communication platform that enables users to create, share, and interact with usergenerated content and engage in social networking."
+Website marketing: Philip Kotler and Kevin Lane Keller (2012), suggest that Website
+marketing involves using a company website to build brand equity, generate customer
+relationships, and support other marketing efforts.
+Email marketing: Email marketing involves sending commercial messages to a group of people
+via email with the goal of promoting products or services, building customer relationships, and
+driving conversions (Chaffey and Ellis-Chadwick, 2019).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO
+LITERATURE REVIEW
+2.1 Introduction
+This chapter presents the review and evaluation of related literature which is done according to
+the objectives of the study; establishing the effect of social media on consumer purchase, finding
+out the influence of website marketing on consumer purchase and to establish the effect of email
+marketing on consumer purchase in the Jumia Uganda. The chapter presents the theoretical
+review, actual and summary of reviewed literature.
+2.2 Theoretical Review
+2.2.1 Technology Acceptance Model (TAM)
+Researchers have developed and used various models to understand, predict and explain why
+people accept or reject information systems. TAM that was introduced by Davis et al., (1989) is
+one of the most cited models that researchers use to study underlying factors that motivator used
+to accept and adopt a new information system (Shibly, 2011). The primary goal of TAM is to
+provide an explanation of factors affecting the acceptance of computer application in general. In
+the case of these studies the focus is acceptance internet marketing.
+In addition, this model helps researchers and practitioners to identify why a particular system is
+unacceptable (Davis, 1989). Davis suggests that using information system is directly determined
+by the behavioral intention to use it, which is in turn influenced by the users’ attitudes toward
+using the system and the perceived usefulness of the system. Attitude and perceived usefulness
+are also affected by the perceived ease of use. Thus the attitude towards internet marketing which
+gradually affect consumer purchase decisions. According to TAM, greater perceived usefulness
+and the perceived ease of an information system will positively influence the attitude towards
+this system. The attitude in turn leads to greater intention to use the systems, which positively
+affects one’s actual use of the system, TAM supposes that, other things being equal, perceived
+usefulness is influenced by perceived ease of use because the easier a technology is to use, the
+more useful it can be. Perceived usefulness is defined as the degree to which a person believes
+that using a particular system would enhance his or her performance. Perceived ease of use refers
+to the degree to which a person believes that using the system will be free of effort. Attitude
+explains a person’s favorable or unfavorable assessment regarding the behavior in question.
+
+
+Intention is a measure of the strength of a person’s willingness to use effect while performing
+certain behavior. The external variables in the model refers to a set of variables that can
+influence information system adoption indirectly through perceived ease and perceived
+usefulness (Davis et al, 1989)
+According to Taylor and Todd (1995), construct of TAM are almost measured in the same way
+in every context. Furthermore, TAM is a reliable instrument and empirically sound. Several
+meta-analysis studies have proved sufficient data about TAM to be highly credible and rationally
+explain up to 40 percent of behavioral intention to use (King & He, 2006; Yousafzai et al, 2007).
+In addition, several studies have applied TAM to evaluate user’s adoption in different setting
+such as electronic commerce (Grefen & Straub, 2003) electronic learning (Arbaugh, 2000) and
+government (Alhujran, 2009).
+The rapid growth of the Internet marketing and its extended reach has helped developing
+countries adopt online consumer purchase decision, thus enabling consumers to make
+transactions worldwide. Internet marketing provides a wide platform not only to service
+providers for their marketing and promotional activities but also to consumers to conduct
+information search and make purchase decisions. Over the years, the internet has become a major
+source of information, ideas and feedback to consumers hence internet marketing influences
+different aspects of consumer purchase decision (Grover, 2017). These channels have been used
+to convey messages designed to develop consumer awareness, attitudes and feelings towards the
+brand thus with the changing environment, with increasing role of internet marketing, designed
+to influence consumer purchase decision.
+In the domain of consumer behavior research, there are general models of buying behavior that
+depicts the process which consumers use in making a purchase decision. These models are very
+important to marketers as they have the ability to explain and predict consumers’ purchase
+decision (Jenyo, 2015)
+The traditional framework for analysis of the buyer decision process is a five-step model. Given
+the model, the consumer progresses firstly from a state of problem recognition, to the search for
+information on problem solutions. The information gathered provides the basis for the evaluation
+of alternatives. The development and comparison of purchase evaluation criteria result in the
+actual decision to buy. Finally, post-purchase behavior is critical in the marketing perspective, as
+
+
+it eventually affects consumers’ perception of satisfaction / dissatisfaction with the product/
+service (Wells et al, 2000).
+Internet marketing is predominant factor affecting consumer purchase decision. There are
+various tools used by marketers to affect the consumer purchase decision nevertheless the
+research will focus on 3 dimensions that is: social media, online advertising and email marketing.
+Internet marketing can therefore be used to identify customers’ needs and wants and can be used
+to address customers in regards to information search, evaluation of alternatives and purchase
+consequently leads to customer satisfaction (Jenyo, 2015).
+2.2.2 Innovation Diffusion Theory
+
+Developed by Everett Rogers in 1962, this theory seeks to explain how, why, and at what rate
+new ideas and technology spread. Rogers’ diffusion of innovations theory is the most appropriate
+for investigating the adoption of technology in higher education and educational environments
+(Medlin, 2001; Parisot, 1995). In fact, much diffusion research involves technological
+innovations so Rogers (2003) usually used the word “technology” and “innovation” as
+synonyms. For Rogers, “a technology is a design for instrumental action that reduces the
+uncertainty in the cause-effect relationships involved in achieving a desired outcome” (p. 13). It
+is composed of hardware and software. While hardware is “the tool that embodies the technology
+in the form of a material or physical object,” software is “the information base for the tool”
+(Rogers, 2003, p. 259). Since software (as a technological innovation) has a low level of
+observability, its rate of adoption is quite slow. For Rogers (2003), adoption is a decision of “full
+use of an innovation as the best course of action available” and rejection is a decision “not to
+adopt an innovation” (p. 177). Rogers defines diffusion as “the process in which an innovation is
+communicated thorough certain channels over time among the members of a social system” (p.
+5). Form the definition expressed above, innovation, communication channels, time, and social
+system are the four key components of the diffusion of innovations.
+Innovation Diffusion Theory is highly relevant to the topic of internet marketing and consumer
+purchase decision. This theory explains how innovations, such as new products or ideas, are
+adopted and spread among individuals or groups over time. When applied to the context of
+
+
+internet marketing and consumer purchase decisions, the theory provides insights into how
+consumers adopt and make decisions about online products and services.
+The theory emphasizes the role of communication channels in influencing the diffusion of
+innovations. In the context of internet marketing, various communication channels such as social
+media, websites, email marketing, and online advertising play a crucial role in disseminating
+information about products and services. Marketers can use this theory to identify the most
+effective channels to reach their target audience and influence their purchase decisions.
+2.3 Empirical Review
+2.3.1 Social Media Marketing and Consumer Purchase Decision
+Social media marketing has become a major factor in influencing various aspects of consumer
+purchase decision including awareness, information acquisition, evaluation of alternatives and is
+described as the act of using social networks, online communities, blogs or any other internet
+form of media for marketing (Wendy, 2010). Social media allow users to reach hundreds or even
+more people through sharing in the social world. That way, customers are interacting with brands
+and contributing to marketing of the services (Charlesworth, 2009). In so doing, social media
+provides visibly and awareness for the brand; this is the awareness that is essential to lead to
+consumer purchase decision. Social network is a website where people connect with friends and
+is important for business, as they offer a number of opportunities for interacting with customers
+and companies can have an account on those social networks to make the interactions possible
+(Zerella, 2010).
+Social media is the combination of various internet tools that enable users to generate exchange
+and modify content continuously which is essential to create brand awareness and can lead to
+consumer purchase decision especially after the consumer evaluation of alternatives (Noone et
+al., 2011). These internet tools include social networking sites like Facebook, Myspace, Viber
+and others, creativity works and sharing sites such as video sharing sites; YouTube, photo
+sharing site, Instagram, content sharing combines with assistance: piczo.co, commerce
+communities like Jumia Uganda, Ebay, Amazon, Craigs’ list (Lempert, 2006). The most famous
+social networks like Facebook, YouTube, Twitter have become a very important marketing tool
+of various economic entities and research shows that 81% of consumer purchase decisions are
+influenced by social post (Lempert, 2006).
+
+
+The intention of social media marketing is to create a thematic content that can lead to an
+effective marketing campaign which eventually leads to increased consumer purchase decision
+(Wendy, 2010). This will generate brand awareness and the brand will be top of mind with the
+consumers if he or she decides to buy the product or service. This is made possible because
+companies can use social media sites to communicate to their customers through platforms such
+as blogs as well as Facebook and Myspace groups (Vollmer & Precourt, 2008). Social media
+sites used by companies interact with the customers leads to consumer purchase decision of the
+services offered by the organization in this study being Jumia Uganda. A report by Deloitte titled
+‘Hospitality 2015’ states that social media and new technologies are playing the key role over the
+next 5 years towards the growth in various industries.
+If an online company is not engaging in any of the social media activities like tweeting, liking or
+having a blog, it just means that the company is missing out on the huge opportunity in the
+internet marketing owing to the fact that this helps organizations share their experience with
+millions of customers and is vital to consumers purchase decision in terms of creating awareness.
+This is because social media is perceived by consumers as a more trustworthy source of
+information regarding products and services (Foux, 2006). To stay competitive in the digital
+world the company has to be engaged or involved with their intended audience by participating
+in online discussions, forums, podcast, ratings and review commentary while increasing
+awareness which can increase consumer purchase decision (Wendy, 2010). In the long run, the
+organizations win the trust of the customers by connecting with them at a deep level.
+Social media can fulfill customers need online and transform them into potential customers for
+business. A firm can, for example attract customers by advertising the special features of the
+landscape where it is situated in the social media subsequently attract customers interest by using
+photographs as is the case in Instagram (Papademetriou et al., 2017).
+Christodoulines (2007), states that customers view information about a company or brand that
+they obtain from blogs, social networking sites and the like as being more relevant, believable
+and important to them in their interactions. This is especially done through features for rating and
+reviewing social media sites which allow users to review any product or service. According to an
+April 2009 Nielsen Media Research Survey, 70% of consumers trust consumers read reviews
+
+
+about the product or service they intend to purchase, and only after reading those reviews can
+they proceed to make consumer purchase decision (Zerella, 2010).
+Social media savvy customers are by all counts a highly diverse lot and reaching them
+effectively requires the use of different messages for different groups (Heo & Cho, 2009; Stern,
+et al., 1990). For example, some social media users follow a wide variety of posts and enjoy the
+benefits of special offers while others have mixed feelings about being marketed to on social
+media. Changes in customer perceptions and expectations have also forced companies to shift
+resources from offline to online strategies with their corresponding social media platforms such
+as Facebook, Twitter, blogs (among others) and utilize customers analytics in order to measure
+impact (Pate & Adams, 2013).
+Social networking sites have become another marketing channel that allows service providers to
+use communication, transaction, and distribution sites in one location, similar to a traditional web
+page (Qualman, 2011).
+As a communication channel, service providers can use Tweitter, Facebook, MySpace, or
+YouTube to inform followers about new services, promote a special event, place an ad, or post
+information. Social networking sites excel as communication channels. Through Facebook,
+Twitter, and YouTube, consumers can receive recommendations from followers or a service
+provider, or they can just choose to “like” a service (Li et al., 2009). Social networking sites have
+also become a method to let the world know what service providers are doing right and wrong.
+As communication channels, social media provide consumers with informational and
+instrumental value. Informational value motivates consumers to gather information and share
+that information (Weigand, 2009; Li et al., 1999).
+Social networks can be linked to a positive association providing instrumental value that assists
+these consumers in making consumer purchase decisions about what, when and where to get
+services (Weigand, 2009; Li et al., 1999). Advertisers are diversifying their advertising Ad Age
+Staff (2012) to meet the demands of informed consumers. Services providers attempt to reach a
+community of likeminded individuals who may wish to purchase similar services through social
+media. With instant access to consumers via social media becomes part of a global community of
+people where they can access information about services (Vollmer, 2008). The satisfaction
+received from sharing information about the purchase online is verified by seeing others
+
+
+purchase similar services based on their recommendation (Weigand, 2009; Gangadharbatla,
+2008; Li et al., 1999). Using recommendations of celebrity spokespersons to influence consumer
+purchases decision was established by television advertising and now celebrity spokespersons
+are “liked” or “followed” on social networking sites. Marketers use consumers’ friends on
+Facebook by posting their recent purchase in hopes of persuading their “friends” to purchase the
+same or similar services (Daboll, 2012; Jones et al., 2009).
+As a transaction channel, social networking sites allow consumers to pay for services or, by
+clicking a link, send the consumer to another website (Weigand, 2009; Li et al., 1999).
+2.3.2 Website Marketing and Consumer Purchase Decision
+Website marketing is a very important part of internet marketing and it plays an informative role
+through the use of appropriate media in informing, influencing effectively the public on the need
+to make consumer purchase decision of certain goods or services to satisfy their needs. It is also
+called internet advertising through which company can deliver the message about the products or
+services to the targeted audience. Internet based advertising provides the content and adverts that
+best matches to consumer needs (Thomas, 2008). Website marketing refers to a form of
+marketing communication that uses the internet for the purpose of advertising regardless of what
+device is being used to access it (Baines, 2014). There many formats that have been developed
+which exploit the interactivity and extensibility capabilities like rich media for example
+embedded multimedia ads, pop up ads, video streaming, display ads, cost per click, ad words
+search advertising which enables advertisers to target customers on the basis of specific
+keywords strings thus increase on consumer purchase decision (Goldfarb, 2013). This enables
+customers to read reviews before making a consumer purchase decision which in essence implies
+that by the time a visitor to the brand site makes an inquiry about a service he or she is closer to
+making a consumer purchase decision (Taylor, 2013). The interactivity aspect of online
+advertising allows for customers to communicate directly with the organization as a result this
+creates brand awareness which in turn influences the consumer purchase decision. The aim of
+internet advertising is to increase website traffic and encourage online purchase and repeat
+consumer purchase decision activity (Cheng et al., 2009). This involves marketers paying media
+owners for carrying their messages on their website and as this creates brand awareness it results
+into consumer purchase.
+
+
+2.3.3 Email Marketing and Consumer Purchase Decision
+Email marketing is one of the most popular and essential marketing technique widely used in
+organizations. Specialists in the field believe that an efficient and coherent email marketing
+program is that which is able to help create relationships between the organization and clients
+(Chaffey & Smith, 2012; Chadwick & Doherty, 2013). Email Marketing is one of the most
+frequently used internet marketing tools. When message about the product or service is sent
+through email to existing or potential consumer, it is defined as email marketing (Thomas, 2008).
+Email marketing based on the definition is one kind of direct marketing tactic in terms of using
+electronic devices to enhance the quality of services also increase customer attention and
+awareness which with no doubt bring more return for the firm and businesses in gaining profit by
+consumer purchase decisions. Email marketing can be considered as electronic mails which
+deliver commercial massages to customers (Dehkordil, 2012). Email marketing includes opt-in
+and opt-out, the use of mailing lists to message directly to customers so as to promote sales or an
+event, announce a new product and service, to make use of email newsletters and discussion lists
+subscriptions which subsequently when used properly go beyond sending a sales message rather
+they help to create trust and to make brand awareness, retain customers, build brand and
+customer loyalty, create customer referrals and generate revenues through consumer purchases
+decision (Baines, 2014). For items such as newsletter, the company can use effective tools
+available that will help manage the process and enable the company to customize the newsletters
+so that is consistent with the brand (Taylor, 2013). Company can bring complete attention of the
+customer by creating attractive mix graphics, text and links on the services. mostafaRead in the
+year 2000 illustrated email marketing as invaluable tool in internet marketing that has high rate
+and also low cost in distribution and this two wonderful ability have made this tactic rapidly the
+most useful term in marketing through the internet.
+2.5 Summary of Literature Review
+The literature review suggests that internet marketing affects consumer purchase decision. The
+study seeks to find out reasons behind the customer purchase decision reluctance and why
+customers abandon the purchasing process before completing. The researcher intends to
+investigate answers to this gap in this study. Other new areas for research include internet
+analytics, mobile internet and social media and networking.
+
+
+CHAPTER THREE
+METHODOLOGY
+3.1 Introduction
+This chapter presents the research methodology detailing how the research will be designed, the
+study population from which samples will be drawn, the sample size and sampling techniques
+that will be used. In addition it highlights the data collection methods, procedure and instruments
+for data collection, validity and reliability tests, data analysis and measurement of variables.
+3.2 Research Design
+The researcher will carry out a cross sectional survey design. It will involve the use of both
+quantitative and qualitative approaches. Amin (2005), argues that the cross sectional survey
+design is one of the most preferable way of obtaining holistic, in depth insights while gathering
+data from a sample of a population. The study will employ two methods which will supplement
+each other and reduce biases thus achieve high validity and reliability owing to the fact that the
+quantitative methods will be used to acquire numerical information on samples for statistical
+analysis and to make appropriate conclusions to the population (Mugenda and Mugenda 1999),
+while the qualitative approach will enrich the discussion on the relationship between variable by
+providing narrative and descriptive information by capturing views, perceptions and behaviors
+(Arya and Yesh 2001).
+3.3 Study Population
+Population refers to the entire group of people, events or things of interest that the researcher
+wants to study (Sekaran, 2003). The study will be conducted at Jumia Uganda in Kampala and
+the sample size will be determined using the Krejcie and Morgan (1970) table of sample size
+selection. The total accessible population will comprise of employees, management and
+customers. Therefore, the total accessible population for the respondents will include managers,
+finance department, marketing department, teller management, logistics and transport, Jumia
+group and customers.
+3.4 Sample size and selection
+The respondents will involve managers, finance officers, marketing officers, teller management,
+logistics and transport, Jumia group, and customers. The respondent will be selected basing on
+
+
+Krejcie and Morgan (1970) sampling guidelines using the probability simple random sampling
+method, and non-probability method of purposive sampling criteria. The sample will be obtained
+using simple random and purposive sampling.
+A simple random sampling technique will be used by the researcher to obtain information from
+employees. According to Amin (2005), a simple random sample is sample obtained from the
+population in such a way that samples of the same size have equal chances of being selected.
+Employees will be grouped according to their respective departments.
+The technique will be used to select the sample of key informants from the target population.
+Purposive sampling is a sampling technique where the researcher purposely choose subjects who
+in her/his view are thought to be important to the research topic (Sarantakos, 1988). Owing to the
+fact that not all the respondents of the study can be interviewed, the technique is necessary to
+obtain the desired information from the key informants.
+3.5 Data Collection Methods
+The researcher will rely on interviews and questionnaires data collection techniques to collect
+data. Interviews will involve direct conversation between the researcher (interviewer) and Jumia
+team (interviewee) to collect information about internet marketing and consumer purchase
+Questionnaires provide a structured approach to gather information from a large number of
+participants simultaneously and the researcher will administer questionnaires through online
+surveys in a standardized manner to aim at efficiency. This is aimed at maintaining respondent
+anonymity and confidentiality.
+The researcher will the interview and questionnaire in order to gather primary data because its
+original and unique to the research study thus showing that it has not been previously collected
+by anyone else and the researcher will have control over the data collection methods.
+The researcher will also use secondary data by utilizing the data that is already available at the
+Jumia house and other resources such as reports from URSB, public data bases, government
+publications and websites.
+
+
+The data collection methods that will be used in this study include Qualitative data collection
+method and Quantitative data collection method. The instruments will help provide data which
+will be used to triangulate information that will be collected from the respondents.
+3.5.1 Quantitative data collection method
+Quantitative data collection method relies on random sampling and structured data collection
+instruments, which fit diverse experiences, into predetermined response categories. They
+produce results that are easy to summarize, compare and generalize.
+3.5.2 Qualitative data collection method
+The qualitative data collection method plays an important role by providing information useful to
+understand the process behind observed results and assess changes in people's perceptions of
+their well-being.
+3.6 Data Collection Instruments
+Data collection instruments for the study will include interview schedule. Documentary guide
+and questionnaire will be used to collect data
+3.6.1 Documentary Review Checklist
+Documentary review checklist is one of the methods used in secondary data collection. The
+researcher hopes to review many documents internet marketing and consumer purchase.
+3.6.2 Questionnaire
+Questionnaires are tools researchers use to measure the variables of interest (Robbins, 2009).
+Questionnaires are ideal for collecting information from the respondents and have the merit of
+considering the research subject anonymity, convenient for the respondents, have a high response
+rate and more research subjects can be reached (Amin, 2005). Therefore the researcher is going
+to apply this method so as to obtain data from the respondents.
+3.6.3 Interview Guide
+The researcher will prepare the interview guides based on the research objectives. Face to face
+interviews will be administered between the interviewer and the respondent. This instrument will
+be chosen because it gives the respondent freedom to give his or her own views freely. The
+
+
+Interview will be unstructured but will have a general plan that the interviewer will follow in
+asking the same questions in the same manner. This will help to obtain data on internet
+marketing and consumer purchase required to meet specific objectives of the study (Mugenda &
+Mugenda, 1999). The researcher will use interviews to get information that cannot be gathered.
+Using the questionnaire as well as obtain an understanding of the perceptions, suggestions and
+recommendations from the respondents.
+3.7 Procedure of Data Collection
+Researcher will get a letter of introduction to the respondents from Uganda Christian University.
+Appointments with the respondents will be made. The researcher will administer the instruments
+to the sample.
+3.8 Validity and Reliability of Data Collection Instruments
+3.8.1 Validity of the instruments
+Validity refers to the evidence that the instrument. Technique or process used to measure a
+concept does indeed measure the intended concept (Sekaran, 2003). In order to determine
+validity of the research instruments, the researcher will require experts to establish content
+validity. Validity will be evaluated by experts based on the assessment of items in the
+instruments as relevant and not relevant using the following formula:
+CVI=.Total number of questions rated relevant
+Total number of question in the instrument
+An instrument is valid when it has a CVI of above 0.7 (Amin, 2005).
+3.8.2 Reliability of the instruments
+Joppe. (2000) defines reliability as the extent to which results are consistent over time and an
+accurate representation of the total population under the study is referred to as reliability and if
+the results of a study can be reproduced under a similar methodology, then the research
+instrument is considered too reliable. The instrument produces the same results whenever it is
+used to measure what is intended from the respondents (Amin, 2005). Accuracy of the data was
+assured by cross checking data provided by the respondents. Cronbach's coefficient alpha (X)
+which tests the internal reliability of the instrument based on the following formula:
+X = K (1-∑SD12)
+
+
+K-1 ∑SDt2
+Whereby
+X = reliability coefficient
+
+
+K = number of items included in the instrument
+
+1-∑SD12 = sum of variance of individual items
+
+∑SDt2 = variance of items in the instrument
+Cronbach’s alpha is expressed as a number between .00 and 1.00 for perfect reliability. (Tavakol
+& Denick, 2011, p.53; How2Strata, 2015). The closer Alpha gets to 1.00, the better.
+3.9 Data analysis
+The researcher will use both qualitative and quantitative methods in the data analysis.
+3.9.1 Qualitative Data Analysis
+Qualitative data analysis can be described as the process of making sense from research
+participants’ views and opinions of situations, corresponding patterns themes, categories and
+regulator similarities (Cohenetet al., 2007). The researcher will construct interpretive narrative
+from the data and try to capture the complexity of the phenomenon under study. The data will be
+analysed and organized based on patterns, repetitions and commonalities into themes based on
+the study variables. Then the data will be analysed to determine consistency and credibility of the
+information to support the qualitative data.
+3.9.2 Quantitative Data Analysis
+The gathered data from the questionnaire will statically be converted by means of SPSS
+computer software program. Descriptive statistics such as the measure of central tendency will
+be used to describe and summarise the data; they include the mean and frequency. The
+quantitative data will be presented in either table format or by means of charts and other graphs
+so as to present data visually for a quick understanding. Various programs will assist the design
+of the questionnaire and also with the organizing, analysis and interpretation of data.
+
+
+3.10 Measurement of Variables
+The measurement variables will be independent variables (internet marketing) while the
+dependent variables will be consumer purchase decision. To measure the variables the researcher
+will develop a five point Likert scale (strongly agree, agree, not decided, disagree and strongly
+disagree) to capture respondents’ perceptions.
+3.11 Ethical Consideration
+A letter of introduction will be obtained from Uganda Christian University which will be
+presented to the company to be used as a case study. The researcher will first make introductions
+to the potential respondent and request them to respond to the questions in the questionnaires
+after which all the information attained will be used for the intended purpose.
+Anonymity, confidentiality and privacy.
+Anonymity refers to keeping secret by not identifying the ethnic or cultural background of
+respondents, refrain from referring to them by their names or divulging any other sensitive
+information about participants (Mugenda, 2003). The researcher will protect the information
+given in confidence by the respondent but if any infomation has to be revealed then consent must
+be sought from the respondent (Akaranga & Makau, 2016). Privacy implies the sensitivity of the
+data in the view of the individual or group being studied will be considered. The researcher will
+consider the setting in which the data is collected if undue invasion of privacy is to be avoided.
+The researcher will remain alert concerning the degree to which private information remains
+confidential. In addition, the participant will be assured that the data will be held in strict
+confidence (Akaranga & Makau, 2016).
+Informed consent is whereby a respondent person knowingly, voluntarily, intelligently and in a
+clear and manifest way gives his or her consent (Arminger, 1997). The research participation will
+be voluntary and based on fully informed consent (Pollock, 2012). The researcher will provide
+information through the use of anonymous questionnaires where the participant cannot be
+personally identified of harmed in any way and so that an informed, voluntary decision can be
+made. The participants will be told about the general nature of the study as well as about any
+potential harm that the study may cause and also guarantee the confidentiality of the research
+
+
+subject by observing anonymity. In addition, they are offered the opportunity to review the report
+about the results and conclusion of the research (Akaranga & Makau, 2016).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+
+PRESENTATION, ANALYSIS AND INTERPRETATION OF RESULTS
+4.1 Introduction
+This chapter covers data presentation, analysis and interpretation of results that was collected in
+regards to internet marketing and consumer purchased decision in Jumia Uganda. The trend of
+the discussion is towards achieving the specific objectives of the study. The variables of the
+study and their percentages are presented in tabular form and test to show the relationship
+between them and to show whether they were done objective by objective.
+4.2 Response Rate
+Of the 217questionnares that were administered 187 passed the data response clean-up process
+for acceptance for data analysis. This represented a response rate of 86.2%. The questionnaires
+which were rejected were partially filled. Of the 21 planned interviews, only 12 were conducted
+constituting 57 percent response rate as seen in the table below. Overall the response rate was
+86.2 percent and according to (Amin, 2005) a response rate equivalent to 50 percent is good
+while that above 70 percent is excellent.
+Table 4.1: Response Rate
+Instrument
+Planned
+Actual
+Percentage
+Questionnaires
+100%
+Interview guide
+57%
+Total
+96%
+The table 4.1 above indicates that out of 217 questionnaires that were distributed, 217 were filled
+and returned giving a response rate of 100%. In addition, out of the planned 21 interviews, 12
+
+
+were actually conducted which gave a percentage response rate of 57%. The overall response
+rate therefore was 96%. This response rate was deemed adequate since according to Mugenda
+and Mugenda (1999), an overall response rate of 50% is good enough to study.
+
+4.3.1 Findings on respondents’ age groups
+The study observed the age brackets of respondents and the results are presented in the table 4.2
+Table 4.2: Age groups
+Age group
+Percentage
+18-29
+30-39
+40-49
+50 & above
+Total
+45.6
+44.7
+6.0
+3.7
+100.0
+The findings show that most respondents 99 (45.6%) were aged between 18-29 years compared
+to 8 (3.7%) aged between 50 & above years, 13 (6.0%) aged between 40-49 years, 97 (44.7%)
+aged between 30-39 years. This was found relevant because respondents in different age groups
+have different views on internet marketing and consumer purchase decision and the respondent
+were assumed to be able to understand the study question and provide reliable data for the study.
+The results imply that internet marketing among the sample of Jumia Uganda were young.
+4.3.2 Findings of gender of the respondents
+Table 4.3 presents findings on the gender of respondents and analysis follows.
+Table 4.3: Findings on gender of respondents
+Gender of respondents
+Percent
+Male
+45.2
+
+
+Female
+Total
+54.8
+100.0
+The respondent gender was also considered in the study. The results on the table reveal that
+female respondents were (54.8%) compared to male who were (45.2%) thus the women are more
+interested in internet marketing compared to the men.
+4.3.3 Findings on Marital status
+Table 4.4 presents findings on the marital status of respondents and analysis follows.
+Table 4.4: Findings on marital status
+Marital status
+Percent
+Married
+Single
+Widowed
+Divorced
+Total
+29.5
+68.7
+.5
+1.4
+100.0
+The respondent's marital status was also considered in the study as it affects internet marketing
+and the finding in table 4.4 comprise the frequency and percentage.
+Results from the findings show that the majority 149 (68.7%) were single compared to the
+widowed 1 (0.5%). This was followed by the married 64 (29.5%), the divorced 3 (1.4%). The
+finding implies that single respondents were more involved in internet marketing.
+4.4 Empirical findings
+This section presents; analysis and interprets the empirical findings of the study according to the
+study objectives. The empirical findings are analysed using descriptive statistics and qualitative
+analysis.
+
+
+
+
+4.4.1 Descriptive statistics showing the effect of social media marketing on consumer
+purchase decision in Jumia Uganda.
+The finding present responses made in form of frequencies, percentages, mean, standard
+deviation on each statement about social media marketing as stated in the questionnaire. The first
+objective of the study was to establish the effect of social media marketing on consumer
+purchase decision in Jumia Uganda. Opinions and perceptions of the respondents were sought on
+this objective. Using the five point Likert scale format: Strongly agree = 1, Agree = 2, neither
+agree nor disagree = 3, Disagree = 4 or strongly disagree =5, responses were captured through a
+self-administered questionnaire. Table 4.5 displays the results.
+Table 4.5: Responses on social media marketing and consumer purchase decision
+
+Percentages
+Study variables
+Standard
+deviation
+Customer knows about social networking sites
+10.1
+83.4
+2.3
+3.7
+0.5
+0.56101
+Customer is knowledgeable about sharing while using
+social networking sites
+9.2
+68.2
+14.3
+7.4
+0.9
+0.75134
+Customer has participated on various commerce
+communities
+8.3
+50.2
+15.7
+23.5
+2.3
+1.00803
+Customer visits social networking sites regularly
+11.1
+71.0
+10.1
+7.8
+0.0
+0.71129
+Customer shares content on products from social
+networking sites anywhere
+8.8
+71.4
+11.1
+8.3
+0.5
+0.72991
+Customer believes that social networking sites have a
+wider variety of products advertised
+6.0
+53.0
+8.8
+31.8
+0.5
+1.00328
+Customer owns more than 2 social networking sites
+17.1
+60.4
+1.8
+17.5
+3.2
+1.01776
+
+
+Results in table 4.5 when asked whether customer knows about social networking sites, 10.1%
+strongly agreed, 83.4% agreed that customer knows about social networking sites. Only 2.3%
+neither agreed nor disagreed, 3.7% disagreed while 0.5% strongly disagreed. This means that the
+majority of the respondents agreed that online purchase is convenient. In support of the above
+findings, one of the top management key informants had this to say;
+The most customer are aware about the social media presence and use it as a communication
+tool thus they are able to engage with Jumia group team. The optimized social media presence
+also drives a lot of traffic especially during Jumia black Friday thus in the long run Jumia
+creates trust with the target audience.
+When asked if customer is knowledgeable about sharing while using social networking sites,
+9.2% strongly agreed, 68.2% agreed, 14.3% neither agreed nor disagree, 7.4% disagree and 0.9%
+strongly disagree. This implies that the majority of the respondents believe that customer is
+knowledgeable about sharing while using social networking sites. There was also a considerable
+number 12.3% who neither agreed nor disagreed. In support of the above findings, one of the key
+informants had this to say;
+Social media is a valuable platform for facilitating product sharing on a personal and
+organization level. This trend is common on social networking sites where individuals share
+product knowledge, promotions with friend, family in various platforms.
+The study findings revealed that 8.3% of the respondents strongly agreed, 50.2% agreed, 15.7%
+neither agreed nor disagreed, 23.5% disagree and 2.3% strongly disagreed. The study reveals that
+the majority agreed that customer has participated on various commerce communities. In support
+of the above findings, one of the top management key informants had this to say;
+Now days users of social media can easily share products information. At the same time they are
+encouraged by social media features to articulate their dislike toeards products and services.
+Customer can also consult commerce communities to seek advice in their purchasing decision.
+Commerce communities allow potential customers to participate actively in the marketing snd
+selling of products ans services in online communities.
+
+
+From the study findings in the table above, 11.1% strongly agree, 71% agree, 10.1% neither
+agree nor disagree and 7.8% disagree. There are no respondents who strongly disagreed. These
+study findings data show that the majority 71% agree that customer visits social networking sites
+regularly. In support of the above findings, one of the top management key informants had this to
+say;
+Jumia Uganda uses social platforms to invite different audiences to get to know its brand. As a
+result it builds relationships with people who share same interest as a result they generate traffic
+online due to visits by the potential customer. For instance during the black Friday promotions
+Jumia Uganda experiences over 200000 visits.
+The study findings in table 4.5 shows that customers share content on products from social
+networking sites anywhere, 8.8% strongly agreed, 71.4% agreed, 11.1% neither agreed nor
+disagreed, 8.3% disagreed and 0.5% strongly disagreed. The study finding data show that
+majority of the respondents, 71.4% agree that customer share content on products from social
+networking sites anywhere. In support of the above findings, one of the top management key
+informants had this to say:
+The social media platform features are interactive therefore customers are in position to share
+product knowledge with their friends on different platforms” Customers trust recommendations
+from people they know and thus share content which helps boost trust in the products in Jumia
+The study findings about customer believe that social networking sites have a wider variety of
+products advertised showed that 6.0% strongly agreed, 53% agreed, 8.8% neither agreed nor
+disagreed, 31.8% disagree and 0.5% strongly disagreed. The majority of respondents53% agreed
+that customer believe that social networking sites have a wider variety of products advertised.
+There was a considerable number of respondents 31.8% that disagreed. In support of the above
+findings, one of the top management key informants had this to say:
+Jumia Uganda offers a wide variety of products and services for the different types of customers
+who have different taste and preferences. Therefore, Jumia Uganda is in position to engage
+
+
+different market segments. Jumia Uganda also sells its products and services through other e
+commerce sites in order to reach new customers.
+The study findings about customer own more than 2 social networking sites revealed that 17
+strongly agreed, 60.4% agreed, 1.8% neither agreed nor disagreed, 17.5% disagree and 3
+strongly disagreed. The majority of respondents 60.4% agreed that customer own more than 2
+social networking sites online.
+4.4.2.1 Relationship between Social media marketing and consumer purchase decision
+This section presents data on the first study objective which is about testing as to whether there is
+a relationship between social media marketing and consumer purchase decision.
+Pearson correlation coefficient was used to find out whether there is a significant relationship
+between dependent and independent variables. Pearson correlation coefficient was used because
+it is a suitable statistical means of determining the relationship between two variables.
+The results of the test are presented in the table 4.6
+Table 4.6: Correlation between social media marketing and consumer purchase decision.
+N
+
+.195***
+.004
+N
+.195**
+.004
+
+Correlation is significant at the 0.01 level (2tailed).
+According to the table 4.6 we can emphasis that the researcher rejects the Ho: there is no
+correlation between social media marketing and consumer purchase decision because according
+to Sig (2 tailed) 0.000 significance level. Based on the rejection rule it is below the 0.05 so the
+researcher rejects the H, and accepts the H, which is denoted by there is a correlation between
+social media marketing and consumer purchase decision. The correlation denotes that there is
+positive and strong correlation between social media marketing and consumer purchase decision.
+
+
+So regarding this study the researcher concludes that social media marketing affects consumer
+purchase decision.
+
+4.4.2.2 Regression results for social media marketing and consumer purchase decision
+This section presents inferential results of the linear regression of social media marketing and
+consumer purchase decision. The results are shown on table 4.7
+Table 4.7: Linear regression results for social media marketing and consumer purchase
+Model Summary
+Model
+R
+R2
+Adjusted R2
+Std. Error of the
+Estimate
+.515a
+.266
+.262
+.48184
+a. Predictors: (Constant), social media marketing
+Source: primary data
+The result show R as .515**, R2 as .266, Adjusted R2 as .262 and standard error of estimate as
+48184. The adjusted R2 score of .266 implies that 26.6% of the variance in social media
+marketing had on consumer purchase decision in this study.
+Therefore, this revealed that social media marketing is more statistically significant predictor of
+consumer purchase decision. The overall model was significant at Sig = 0.000.
+4.4.3 Descriptive statistics showing the influence of website marketing on consumer
+purchase decision in Jumia Uganda.
+The finding present responses made in form of frequencies, percentages, mean, standard
+deviation on each statement about website marketing as stated in the questionnaire. The second
+objective of the study was to find out the influence of website marketing on consumer purchase
+decision in Jumia Uganda. Opinions and perceptions of the respondents were sought on this
+objective. Using the five point Likert scale format: Strongly agree = 1, Agree = 2, Neither
+
+
+agreenor disagree = 3, Disagree = 4 or Strongly disagree = 5, responses were captured through a
+self-administered questionnaire. Table 4.8 displays the results.
+
+Table 4.8: Responses on website marketing on consumer purchase decision
+
+Percentages
+Study variables
+Standard
+deviation
+Customer visits display adverts for product content
+7.4
+50.2
+8.3
+32.7
+1.4
+1.04776
+Customer uses search engine optimization to access
+content on products and services
+3.2
+75.6
+8.8
+12.4
+0.72625
+Customer believes that search engine optimization is
+complicated
+0.5
+7.8
+10.6
+73.7
+7.4
+0.70408
+Customer prefer using search engine optimization when
+searching for lower prises
+6.5
+71.4
+2.3
+29.4
+0.5
+0.88182
+Customer is skilful with social integration
+8.8
+79.3
+5.1
+6.9
+0.0
+0.63745
+Customer is uncomfortable about purchasing through
+the internet
+3.7
+37.8
+7.8
+49.8
+0.9
+1.02987
+Customer regularly checks websites
+4.1
+71.9
+9.2
+14.3
+0.5
+0.79169
+Source: primary data
+The study findings in table 4.8 above show customer display adverts for products. The study
+revealed that 7.4% strongly agreed, 50.2% agree, 8.3% neither agree nor disagree, 32.7%
+disagree and 1.4% strongly disagree. Most respondents reflected by 50.2% agreed that consumer
+visits display adverts for product content.
+The study revealed that customer uses search engine optimization to access content on products
+and services. Whereby 3.2% strongly agreed, 75.6% agreed, 8.8% neither agreed nor disagreed
+and 12.4% disagreed. There were no respondents who strongly disagreed. The majority of the
+respondents agreed that customer uses search engine optimization to access content on products
+and services
+
+
+In support of the above findings, one of the top management key informants had this to say:The
+search engine optimization tools are used to drive traffic to Jumia website due to the better user
+experience, better images, clear product description and plenty of reviews to help visitors make
+purchase decision.
+The study findings about customer believes that the search engine optimization is complicated
+revealed that 0.5% strongly agreed, 7.8% agree, 10.6 % neither agreed no disagreed, 73.7%
+disagreed and 7.4% strongly disagreed. The bulk of the respondents 73.7 disagreed about
+customer believes that the search engine optimization is complicated.
+The study findings about that customer prefer using search engine optimization when searching
+for lower prices disclosed that 6.5% strongly agreed, 71.4% agreed, 2.3% neither agreed nor
+disagreed, 19.4% disagreed and 0.5% strongly disagreed. The study show that the majority
+71.4% agreed that customer prefer using search engine optimization when searching for lower
+prices.
+The study finding in table 4.8 above show that customer is skilful with social integration. The
+study showed that 8.8% strongly agreed, 79.3% agreed, 5.1% neither agreed nor disagreed and
+6.9% disagreed. The majority of the respondent 79.3% agreed that customer is skilful with social
+integration.
+The study findings about customer is uncomfortable about purchasing through the internet
+revealed that 3.7% strongly agreed, 37.8% agreed, 7.8% neither agreed nor disagreed, 49.8%
+disagreed and 0.9% strongly disagreed. The majority of the respondent 49.8% disagreed that
+customer is uncomfortable about purchasing through the internet.
+The study finding data about consumer regularly checks websites showed that 4.1% strongly
+agreed. 71.9% agreed, 9.2% neither agreed nor disagreed, 14.3% disagreed and 0.5% strongly
+disagreed. The majority of the respondents 71.9% agreed that consumer regularly checks
+websites. The above findings were supported by a key informant during face to face interviews
+and he had this to say:
+The use of social integration embedded on the home page, interactive site where by comments
+get posted helps increase online traffic by visitors to the web page. The use of display adverts
+
+
+and referral traffic due to content generated is one of the ways Jumia attracts visitor. This is
+evident through the use of web analytics whereby data on the number of visitors per month which
+averages at 200000 website visits, percentage of new users and length of visitors sessions.
+
+4.4.3.2 Relationship between Website marketing and consumer purchase decision
+This section presents data on the second study objective which is about testing as to whether
+there is a relationship between Website marketing and consumer purchase decision.
+Pearson correlation coefficient was used to find out whether there is a significant relationship
+between dependent and independent variables. Pearson correlation coefficient was used because
+it is a suitable statistical means of determining the relationship between two variables.
+The results of the test are presented in the table 4.9.
+Table 4.9: Correlation between Website marketing and consumer purchase decision.
+
+Website marketing
+Consumer purchase decision
+N
+
+.149*
+.028
+N
+.149**
+.028
+
+Correlation is significant at the 0.05 level (2tailed)
+Table 4.8 shows that there is a positive correlation (r=0.05) between website marketing and
+consumer purchase decision.
+The test result was subjected to verification by comparing the significance of the correlation
+(P=0.05) to the recommended significance at 0.005 given that the P value is less than 0.05 the
+null hypothesis (H0) that, “there is no significant relationship between website marketing and

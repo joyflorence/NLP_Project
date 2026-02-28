@@ -1,0 +1,129 @@
+1 
+ 
+ 
+ 
+BSCS_2:1 (BSc. Computer Science) 
+(2nd Year Undergraduate, 1st Semester) 
+University 
+Uganda Christian University (UCU), Main Campus 
+School /Faculty 
+ENGINEERING, DESIGN AND TECHNOLOGY 
+Department 
+Computing and Technology 
+Programme 
+Bachelor of Science in Computer Science 
+Course Code 
+DSC2103 
+Course Title 
+Data Science 
+Lecture Hours 
+15 
+Practical Hours 
+30 
+Study Hours 
+45 
+Contact Hours 
+45 
+Credit Units 
+4 
+Course Designer (s) 
+Miss. Immaculate Kamusiime 
+
+2 
+ 
+Course Lecturer(s) 
+Miss. Immaculate Kamusiime 
+Miss. Desire Namanya 
+Welcome message 
+Welcome to the Data Science course! In this course, you will be exposed to a multidisciplinary 
+domain that uses scientific methods, processes, statistics, and computational languages to draw 
+knowledge and insights from unstructured data. 
+ 
+Description 
+Students will explore the theoretical issues, methods, tools, and problems that relate to data-rich issues 
+in the humanities, social sciences, and sciences. Students will learn the core concepts of statistics and 
+computing while working hands-on with real data. We will examine real-world examples and cases to 
+place data science techniques in the Ugandan context, develop data-analytic thinking, and illustrate 
+that proper application is as much an art as it is a science. In addition, we will work hands-on with the 
+R programming language and its associated data analysis libraries/packages. 
+ 
+Audience Description 
+This is a course intended Year 2, Semester 1, Computer Science 
+Delivery Mode 
+1. Group and Individual Projects 
+2. Traditional Classroom-Based Teaching (online and in-person) 
+3. Practical Lab Sessions 
+Course Objectives 
+ To develop practical data analysis skills, which can be applied to practical problems. 
+ To develop fundamental knowledge of concepts underlying data science projects from multiple
+disciplines. 
+ To develop practical skills needed in modern analytics. 
+ To give a hands-on experience with real-world data analysis. 
+ To develop applied experience with data science languages 
+Expected Learning Outcomes 
+The students should be able to; 
+ Incorporate data science principles to address data-dependent questions in the humanities, 
+social sciences, and sciences. 
+ Apply basic exploratory analysis to identify abnormalities in data (i.e., missing values, 
+outliers, redundant features, etc.) 
+ Anticipate and identify ways in which sampled data may be biased 
+ Perform the appropriate feature transformations for processing quantitative and qualitative 
+
+3 
+ 
+data 
+ Develop and deploy a Machine Learning model 
+ 
+Brief Content Description 
+ Week 1 – Week 4: Foundation of Data Science (Experimental designs/business intelligence, 
+data classification, data descriptive statistics, data exploration using Python, data 
+visualization using Microsoft Office Excel/Tableau). 
+ Week 5: Assessment 1 
+ Week 5: Exploratory data analysis of quantitative & qualitative data types 
+ Week 6-Week 9: Introduction to Machine Learning, Supervised Learning & 
+Unsupervised Learning 
+ Week 10: Assessment 2  
+ Week 10: Time Series Forecasting 
+ Week 11: Assessment 3 (Course Project) 
+ Week 11: ML model deployment 
+ Week 12: End of Semester Exam 
+ 
+Teaching and Learning Methods 
+ Discussions, 
+ Case studies 
+Learner Support Plan 
+ Face-to-face meetings 
+ Zoom meetings 
+ Pre-recorded lectures 
+ Group discussions 
+ 
+
+4 
+ 
+Resources/Teaching and Learning Materials 
+These will mainly be disseminated through the UCU eLearning system and the 
+university library system KOHA. They will include; 
+ Pre-recorded lectures 
+ Presentation Slides 
+ Textbooks and eBooks 
+ MOOMs and YouTube videos 
+ interactive quizzes, demonstrations, charts and diagrams 
+ Open Educational Resources (OER) like; Academic papers and articles 
+ https://library.ucu.ac.ug/index.php/eresources/ejournals 
+ https://catalogue.library.ucu.ac.ug 
+ 
+Course Plan Assessment 
+Coursework (Quizzes and tests, Lab activities, Take-home assignments, Group tasks): 40 
+EXAM: (Written, Practical): 60 
+Supporting Technologies 
+ Discussion forums (Kaggle, R Community (Posit) 
+ wikis, 
+ journals 
+ PowerPoint 
+ Moodle 
+ Software installation for R and RStudio (https://posit.co/products/open-source/) 
+ Excel, Tableau (for analysis and visualization) 
+Additional Reading 
+ Learn R for Applied Statistics with Data Visualizations, Regressions, and 
+Statistics by Eric Goh Ming Hui (https://doi.org/10.1007/978-1-4842-4200-1) 
+ 
