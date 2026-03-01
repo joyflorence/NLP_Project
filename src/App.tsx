@@ -23,6 +23,12 @@ export function App() {
   const [showLogout, setShowLogout] = useState(false);
 
   useEffect(() => {
+    // verify that the backend is reachable; log to console when there's a
+    // problem so developers can spot CORS/URL issues early.
+    void api
+      .ping()
+      .catch((err) => console.error("Backend ping failed:", err));
+
     if (!isSupabaseConfigured || !supabase) {
       const token = window.localStorage.getItem("access_token");
       setIsAuthenticated(Boolean(token));

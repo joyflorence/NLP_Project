@@ -34,19 +34,42 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# CORS for frontend (Vite dev server on 5173)
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
+# CORS for frontend.  We default to allowing the typical dev ports, but
+# also respect an environment variable so that deployments can whitelist their
+# own origin(s) without changing code.
+allow_list = os.environ.get("CORS_ALLOW_ORIGINS")
+if allow_list:
+    origins = [o.strip() for o in allow_list.split(",") if o.strip()]
+else:
+    origins = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-    ],
+    ]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# If a built frontend exists we can serve it directly; this makes deployment
+# simpler because everything lives on one host/port and avoids CORS entirely.
+# The build output is expected to be in a `dist` directory alongside the
+# project root (the default for Vite).  The environment variable FRONTEND_DIR
+# may be used to override the location.
+frontend_dir = os.environ.get("FRONTEND_DIR", os.path.join(os.path.dirname(__file__), "..", "..", "dist"))
+if os.path.isdir(frontend_dir):
+    from fastapi.staticfiles import StaticFiles
+
+    app.mount(
+        "/",
+        StaticFiles(directory=frontend_dir, html=True),
+        name="frontend",
+    )
 
 
 # ----- Routes -----
@@ -155,6 +178,12 @@ async def serve_document_file(document_id: str, token: str):
         media_type="application/pdf",
         filename=path.name,
     )
+
+
+@app.get("/api/ping")
+async def ping():
+    """Simple health check used by clients to verify connectivity."""
+    return {"ping": "pong"}
 
 
 @app.get("/api/status")

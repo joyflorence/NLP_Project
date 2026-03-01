@@ -8,7 +8,22 @@ import {
   SimilarityResponse
 } from "@/types/domain";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8000/api";
+// When developing we often run frontend on a separate port from the backend, but in
+// production the two can share the same origin.  Allow the base URL to be configured
+// via environment variables and fall back to a relative "/api" path to avoid the
+// frontend hard‑coding `localhost:8000`.
+let API_BASE =
+  import.meta.env.VITE_API_BASE_URL ||
+  // if no explicit URL is provided use a relative path so that the app will work
+  // regardless of host/port when served from the same server.
+  "/api";
+// guarantee that API_BASE ends with "/api" (not "/api/") so callers can
+// append paths consistently; this shields us from misconfigured environment
+// variables.
+if (!API_BASE.endsWith("/api")) {
+  API_BASE = API_BASE.replace(/\/+$/, ""); // strip trailing slashes
+  API_BASE = API_BASE + "/api";
+}
 const AUTH_TOKEN_KEY = import.meta.env.VITE_AUTH_TOKEN_KEY ?? "access_token";
 const STATIC_API_KEY = import.meta.env.VITE_API_KEY;
 const USE_MOCK_API = (import.meta.env.VITE_USE_MOCK_API ?? "true") === "true";
@@ -51,6 +66,11 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
 }
 
 const httpApi = {
+  async ping() {
+    // simple check to verify that the backend is reachable
+    return request<{ ping: string }>("/ping");
+  },
+
   async ingestDocuments(payload: { sourcePath?: string; files?: string[] }) {
     return request<IngestJob>("/ingest", {
       method: "POST",

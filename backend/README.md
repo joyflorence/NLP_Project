@@ -10,6 +10,17 @@ cd backend
 pip install -r requirements.txt
 ```
 
+Configuration
+-------------
+
+The backend can be tuned via environment variables:
+
+* `CORS_ALLOW_ORIGINS` – comma‑separated list of allowed origins for CORS.
+  Defaults to the development ports `localhost:5173`/`3000`.
+* `FRONTEND_DIR` – if set and pointing to a directory, FastAPI will mount that
+  path at `/` and serve the built frontend.  By default it looks for `../dist`
+  (the standard Vite output location) relative to the backend package.
+
 ## Run
 
 ```bash
@@ -37,6 +48,7 @@ The API will be available at `http://localhost:8000`. Docs: `http://localhost:80
 | GET | `/api/ingest/{jobId}` | Ingest job status |
 | GET | `/api/evaluation` | Evaluation metrics |
 | POST | `/api/documents/signed-download` | Signed download URL |
+| GET | `/api/ping`   | Simple connectivity check |
 | GET | `/api/status` | Engine status |
 
 ## Data
