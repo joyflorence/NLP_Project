@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the FastAPI backend server."""
+"""Run the FastAPI backend server"""
 
 import sys
 from pathlib import Path
