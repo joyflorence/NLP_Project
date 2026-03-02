@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Run the FastAPI backend server"""
+"""
+Run the FastAPI backend server.
+
+This script ensures the project root directory is added to the Python path
+when executed from the backend/ directory, then starts the FastAPI
+application using Uvicorn.
+"""
 
 import sys
 from pathlib import Path
