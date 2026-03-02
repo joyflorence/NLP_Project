@@ -25,6 +25,6 @@ production you can build the UI and let the backend serve the generated files.
 
 If the browser console prints `Backend ping failed:` when the app loads, the
 frontend is unable to reach the backend – check that the API base URL, CORS
-settings, and network connectivity are correct.
+settings, and network connectivity are correct
 
 
