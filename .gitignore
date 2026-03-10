@@ -26,3 +26,18 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.example
+
+# OS files
+.DS_Store
+Thumbs.db

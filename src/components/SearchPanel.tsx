@@ -1,35 +1,31 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { api } from "@/api/client";
 import { PreviewModal } from "@/components/PreviewModal";
 import { DocumentRecord, SearchFilters, SearchResponse, SearchSortBy, SearchSortOrder } from "@/types/domain";
 import { DocumentCard } from "./DocumentCard";
 
 type Props = {
-  onSelectDocument: (doc: DocumentRecord) => void;
   onDownloadDocument: (doc: DocumentRecord) => void;
 };
 
-export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
+export function SearchPanel({ onDownloadDocument }: Props) {
+  const navigate = useNavigate();
   const [query, setQuery] = useState("");
-  const [topK, setTopK] = useState(20);
-  const [level, setLevel] = useState<"" | "undergraduate" | "postgrad">("");
+  const [topK, setTopK] = useState(10);
   const [year, setYear] = useState<string>("");
-  const [department, setDepartment] = useState("");
-  const [supervisor, setSupervisor] = useState("");
   const [sortBy, setSortBy] = useState<SearchSortBy>("relevance");
   const [sortOrder, setSortOrder] = useState<SearchSortOrder>("desc");
   const [page, setPage] = useState(1);
   const [pageSize, setPageSize] = useState(5);
-  const [compareKeyword, setCompareKeyword] = useState(true);
   const [semanticResult, setSemanticResult] = useState<SearchResponse | null>(null);
-  const [keywordResult, setKeywordResult] = useState<SearchResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [compatibilityNotice, setCompatibilityNotice] = useState<string | null>(null);
   const [previewDoc, setPreviewDoc] = useState<DocumentRecord | null>(null);
   const yearOptions = Array.from({ length: 11 }, (_, i) => String(2015 + i));
-  const departmentOptions = ["Computer Science", "Information Systems", "Data Science", "Software Engineering"];
-  const supervisorOptions = ["Dr. Adjei", "Prof. Mensimah", "Dr. Boateng", "Dr. Nkrumah"];
+  const defaultQuery = "research";
+  const effectiveQuery = query.trim() || defaultQuery;
 
   function normalizeSearchResponse(
     res: SearchResponse,
@@ -71,21 +67,14 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
     setError(null);
     try {
       const filters: SearchFilters = {
-        ...(level ? { level } : {}),
-        ...(year ? { year: Number(year) } : {}),
-        ...(department ? { department } : {}),
-        ...(supervisor ? { supervisor } : {})
+        ...(year ? { year: Number(year) } : {})
       };
-      const payload = { query, topK, filters, sortBy, sortOrder, page: nextPage, pageSize };
-      const semanticPromise = api.semanticSearch(payload);
-      const keywordPromise = compareKeyword ? api.keywordSearch(payload) : Promise.resolve(null);
-      const [semantic, keyword] = await Promise.all([semanticPromise, keywordPromise]);
+      const payload = { query: effectiveQuery, topK, filters, sortBy, sortOrder, page: nextPage, pageSize };
+      const semantic = await api.semanticSearch(payload);
       const semanticNorm = normalizeSearchResponse(semantic, nextPage, pageSize, topK);
-      const keywordNorm = keyword ? normalizeSearchResponse(keyword, nextPage, pageSize, topK) : null;
       setSemanticResult(semanticNorm.normalized);
-      setKeywordResult(keywordNorm?.normalized ?? null);
       setCompatibilityNotice(
-        semanticNorm.compatibilityMode || Boolean(keywordNorm?.compatibilityMode)
+        semanticNorm.compatibilityMode
           ? "Backend pagination metadata not returned; using compatibility paging on current results."
           : null
       );
@@ -97,6 +86,10 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
     }
   }
 
+  useEffect(() => {
+    void runSearch(1);
+  }, [topK, sortBy, sortOrder, pageSize, year]);
+
   return (
     <section className="panel scholar-panel">
       <h2>Search Literature</h2>
@@ -107,13 +100,11 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onKeyDown={(e) => {
-            if (e.key === "Enter" && query.trim() && !loading) {
-              void runSearch();
-            }
+            if (e.key === "Enter" && !loading) void runSearch(1);
           }}
-          placeholder="Search by topic or keywords for relevance"
+          placeholder="Search by topic or keywords"
         />
-        <button type="button" onClick={() => void runSearch(1)} disabled={!query.trim() || loading}>
+        <button type="button" onClick={() => void runSearch(1)} disabled={loading}>
           {loading ? "Searching..." : "Search"}
         </button>
       </div>
@@ -155,14 +146,6 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
           </select>
         </label>
         <label>
-          Level
-          <select value={level} onChange={(e) => setLevel(e.target.value as "" | "undergraduate" | "postgrad")}>
-            <option value="">All</option>
-            <option value="undergraduate">Undergraduate</option>
-            <option value="postgrad">Postgrad</option>
-          </select>
-        </label>
-        <label>
           Year
           <select value={year} onChange={(e) => setYear(e.target.value)} aria-label="Year">
             <option value="">All</option>
@@ -172,32 +155,6 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
               </option>
             ))}
           </select>
-        </label>
-        <label>
-          Department
-          <select value={department} onChange={(e) => setDepartment(e.target.value)}>
-            <option value="">All</option>
-            {departmentOptions.map((d) => (
-              <option key={d} value={d}>
-                {d}
-              </option>
-            ))}
-          </select>
-        </label>
-        <label>
-          Supervisor
-          <select value={supervisor} onChange={(e) => setSupervisor(e.target.value)}>
-            <option value="">All</option>
-            {supervisorOptions.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
-        </label>
-        <label className="check-row">
-          <input type="checkbox" checked={compareKeyword} onChange={(e) => setCompareKeyword(e.target.checked)} />
-          Show keyword baseline
         </label>
       </div>
 
@@ -210,30 +167,24 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
             <span>{semanticResult.total ?? semanticResult.semanticResults.length} results</span>
             <span>Page {semanticResult.page ?? page}</span>
             <span>Semantic latency: {semanticResult.latencyMs?.semantic ?? "N/A"} ms</span>
-            {keywordResult ? <span>Keyword latency: {keywordResult.latencyMs?.keyword ?? "N/A"} ms</span> : null}
           </div>
 
-          <h3 className="results-heading">Semantic Results</h3>
+          <h3 className="results-heading">Results</h3>
           <div className="results-list">
             {semanticResult.semanticResults.map((doc) => (
               <DocumentCard
                 key={doc.id}
                 doc={doc}
-                onFindSimilar={() => onSelectDocument(doc)}
+                onFindSimilar={() =>
+                  navigate(
+                    `/related-works?documentId=${encodeURIComponent(doc.id)}&title=${encodeURIComponent(doc.title)}`
+                  )
+                }
                 onDownload={onDownloadDocument}
                 onPreview={setPreviewDoc}
               />
             ))}
           </div>
-
-          {keywordResult ? <h3 className="results-heading">Keyword Baseline</h3> : null}
-          {keywordResult ? (
-            <div className="results-list">
-              {(keywordResult.keywordResults ?? keywordResult.semanticResults).map((doc) => (
-                <DocumentCard key={`kw-${doc.id}`} doc={doc} onDownload={onDownloadDocument} onPreview={setPreviewDoc} />
-              ))}
-            </div>
-          ) : null}
 
           <div className="pager-row">
             <button type="button" onClick={() => void runSearch(Math.max(1, page - 1))} disabled={loading || page <= 1}>
@@ -258,7 +209,7 @@ export function SearchPanel({ onSelectDocument, onDownloadDocument }: Props) {
         </div>
       ) : null}
 
-      <PreviewModal doc={previewDoc} query={query} open={Boolean(previewDoc)} onClose={() => setPreviewDoc(null)} />
+      <PreviewModal doc={previewDoc} query={effectiveQuery} open={Boolean(previewDoc)} onClose={() => setPreviewDoc(null)} />
     </section>
   );
 }

@@ -1,0 +1,2 @@
+# Root requirements for Railway (and other hosts). Installs backend deps.
+-r backend/requirements.txt

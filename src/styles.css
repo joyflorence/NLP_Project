@@ -57,6 +57,10 @@ body {
   cursor: pointer;
 }
 
+.admin-link:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
 .auth-icon-button {
   border: 1px solid rgba(255, 255, 255, 0.55);
   color: #fff;
@@ -347,6 +351,8 @@ button:disabled {
 
 .preview-dialog {
   width: min(680px, 100%);
+  max-height: 85vh;
+  overflow-y: auto;
   background: #fff;
   border: 1px solid #d6e3f8;
   border-radius: 12px;
@@ -385,7 +391,20 @@ button:disabled {
   padding: 0 0.1rem;
 }
 
-.metrics-chart {
+.preview-view-full-text {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #0f4c81;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.preview-view-full-text:hover {
+  background: #0d3d6b;
+}
   display: grid;
   gap: 0.55rem;
 }
@@ -456,6 +475,164 @@ button:disabled {
   flex-wrap: wrap;
 }
 
+/* Admin page nav */
+.admin-nav {
+  margin-bottom: 1rem;
+}
+
+.admin-nav a {
+  color: #0f4c81;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.admin-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Ingestion feedback */
+.ingestion-feedback {
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 8px;
+}
+
+.ingestion-feedback.loading {
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+}
+
+.ingestion-feedback.success {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+}
+
+.ingestion-progress {
+  margin: 0;
+  color: #0369a1;
+  font-weight: 500;
+}
+
+.ingestion-search-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #0f4c81;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ingestion-search-link:hover {
+  text-decoration: underline;
+}
+
+/* Upload metadata form */
+.metadata-fieldset {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0 0;
+}
+
+.metadata-fieldset legend {
+  font-weight: 600;
+  color: #334155;
+  padding: 0 0.35rem;
+}
+
+.metadata-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem 1rem;
+  margin-top: 0.5rem;
+}
+
+.metadata-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.metadata-full {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 500px) {
+  .metadata-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Index status */
+.index-status-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.index-status-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.index-status-label {
+  font-size: 0.85rem;
+  color: #5f6368;
+}
+
+.index-status-value {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #0f4c81;
+}
+
+.index-status-ok {
+  font-weight: 600;
+  color: #0d7d3d;
+}
+
+.index-status-error {
+  font-weight: 600;
+  color: #b3261e;
+}
+
+/* Indexed documents list */
+.indexed-doc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 0;
+  max-height: 240px;
+  overflow-y: auto;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+
+.indexed-doc-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #f1f5f9;
+  font-size: 0.9rem;
+}
+
+.indexed-doc-item:last-child {
+  border-bottom: none;
+}
+
+.indexed-doc-filename {
+  word-break: break-all;
+  color: #334155;
+}
+
+.indexed-doc-meta {
+  flex-shrink: 0;
+  font-size: 0.82rem;
+  color: #64748b;
+}
+
 .quick-links {
   display: flex;
   gap: 0.6rem;
@@ -490,6 +667,62 @@ button:disabled {
 .muted {
   color: #5f6368;
   font-size: 0.92rem;
+}
+
+/* Full-text page */
+.full-text-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.full-text-nav {
+  margin-bottom: 1rem;
+}
+
+.full-text-nav a {
+  color: #0f4c81;
+  text-decoration: none;
+}
+
+.full-text-nav a:hover {
+  text-decoration: underline;
+}
+
+.full-text-page h2 {
+  margin: 0 0 0.5rem;
+  color: #0f4c81;
+}
+
+.full-text-page h3 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.full-text-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.full-text-body {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-height: 60vh;
+  overflow-y: auto;
+  padding: 1rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.full-text-page .error {
+  color: #b91c1c;
 }
 
 @media (max-width: 700px) {

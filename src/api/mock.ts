@@ -1,6 +1,5 @@
 import {
   DocumentRecord,
-  EvaluationResponse,
   IngestJob,
   SearchFilters,
   SearchRequest,
@@ -190,6 +189,17 @@ export const mockApi = {
     };
   },
 
+  async ingestFromUrl(payload: { url: string; filename?: string }): Promise<IngestJob> {
+    await delay(800);
+    return {
+      jobId: "mock-job-from-url",
+      status: "completed",
+      processedCount: 1,
+      totalCount: 1,
+      message: `Mock indexed from URL (${payload.filename ?? "document"})`
+    };
+  },
+
   async semanticSearch(payload: SearchRequest): Promise<SearchResponse> {
     await delay();
     const sortBy = payload.sortBy ?? "relevance";
@@ -254,19 +264,6 @@ export const mockApi = {
     return { documentId, related };
   },
 
-  async getEvaluation(): Promise<EvaluationResponse> {
-    await delay(250);
-    return {
-      metrics: [
-        { metricName: "Precision@5", semantic: 0.84, keyword: 0.58 },
-        { metricName: "Recall@5", semantic: 0.8, keyword: 0.52 },
-        { metricName: "nDCG@10", semantic: 0.87, keyword: 0.61 },
-        { metricName: "MRR", semantic: 0.82, keyword: 0.57 }
-      ],
-      note: "Mock metrics from synthetic evaluation set."
-    };
-  },
-
   async getSignedDownloadUrl(documentId: string): Promise<SignedDownloadResponse> {
     await delay(150);
     const doc = mockCorpus.find((d) => d.id === documentId);
@@ -277,6 +274,36 @@ export const mockApi = {
       documentId,
       signedUrl: `${doc.downloadUrl}?signed=mock-token`,
       expiresIn: 300
+    };
+  },
+
+  async getDocumentFullText(documentId: string): Promise<{ fullText: string; title: string; documentId: string }> {
+    await delay(200);
+    const doc = mockCorpus.find((d) => d.id === documentId);
+    if (!doc) {
+      throw new Error("Document not found.");
+    }
+    const fullText = doc.abstract ?? "No full text available for this document.";
+    return { fullText, title: doc.title, documentId };
+  },
+
+  async getStatus() {
+    await delay(100);
+    return {
+      initialized: true,
+      total_chunks: 45,
+      total_documents: mockCorpus.length
+    };
+  },
+
+  async getIndexedDocuments() {
+    await delay(150);
+    return {
+      documents: mockCorpus.map((d) => ({
+        filename: d.id.endsWith(".pdf") ? d.id : `${d.id}.pdf`,
+        pages: 12,
+        chunks: 4
+      }))
     };
   }
 };

@@ -3,12 +3,29 @@ import { isSupabaseConfigured, supabase } from "@/lib/supabase";
 import { api, setAuthToken } from "@/api/client";
 import { DocumentRecord } from "@/types/domain";
 import { useEffect, useState } from "react";
-import { Route, Routes, useLocation, useNavigate } from "react-router-dom";
+import { Route, Routes, useLocation, useNavigate, Link } from "react-router-dom";
 import { AdminPage } from "@/pages/AdminPage";
 import { SearchPage } from "@/pages/SearchPage";
+import { RelatedWorksPage } from "@/pages/RelatedWorksPage";
+import { DocumentFullTextPage } from "@/pages/DocumentFullTextPage";
 
-function resolveIsAdmin(role?: string) {
-  return role === "admin";
+function parseAdminEmails(): string[] {
+  const raw = import.meta.env.VITE_ADMIN_EMAILS;
+  if (!raw || typeof raw !== "string") return [];
+  return raw
+    .split(",")
+    .map((e) => e.trim().toLowerCase())
+    .filter(Boolean);
+}
+
+const ADMIN_EMAILS = parseAdminEmails();
+
+function resolveIsAdmin(role?: string, email?: string): boolean {
+  if (role === "admin") return true;
+  if (email && ADMIN_EMAILS.length > 0) {
+    return ADMIN_EMAILS.includes(email.trim().toLowerCase());
+  }
+  return false;
 }
 
 export function App() {
@@ -38,6 +55,7 @@ export function App() {
 
     supabase.auth.getSession().then(({ data }) => {
       const role = data.session?.user?.app_metadata?.role as string | undefined;
+      const email = data.session?.user?.email ?? "";
       setIsAuthenticated(Boolean(data.session));
       const meta = data.session?.user?.user_metadata as Record<string, unknown> | undefined;
       const name =
@@ -45,15 +63,16 @@ export function App() {
         (meta?.name as string | undefined) ??
         (meta?.username as string | undefined) ??
         "";
-      setAuthEmail(data.session?.user?.email ?? "");
+      setAuthEmail(email);
       setAuthName(name);
-      setIsAdmin(resolveIsAdmin(role));
+      setIsAdmin(resolveIsAdmin(role, email));
       setAuthToken(data.session?.access_token ?? null);
     });
 
     const { data: sub } = supabase.auth.onAuthStateChange((_event, session) => {
       const role = session?.user?.app_metadata?.role as string | undefined;
-      const nextIsAdmin = resolveIsAdmin(role);
+      const email = session?.user?.email ?? "";
+      const nextIsAdmin = resolveIsAdmin(role, email);
       setIsAuthenticated(Boolean(session));
       const meta = session?.user?.user_metadata as Record<string, unknown> | undefined;
       const name =
@@ -61,7 +80,7 @@ export function App() {
         (meta?.name as string | undefined) ??
         (meta?.username as string | undefined) ??
         "";
-      setAuthEmail(session?.user?.email ?? "");
+      setAuthEmail(email);
       setAuthName(name);
       setIsAdmin(nextIsAdmin);
       setAuthToken(session?.access_token ?? null);
@@ -107,6 +126,11 @@ export function App() {
       <header className="brand-bar">
         <h1>University Search</h1>
         <div className="auth-actions">
+          {isAdmin ? (
+            <Link to="/admin" className="admin-link">
+              Admin
+            </Link>
+          ) : null}
           {isAuthenticated ? (
             <>
               <span className="auth-badge">{authName || authEmail || "Signed in"}</span>
@@ -150,6 +174,8 @@ export function App() {
       <Routes>
         <Route path="/" element={<SearchPage onDownloadDocument={downloadDocument} />} />
         <Route path="/search" element={<SearchPage onDownloadDocument={downloadDocument} />} />
+        <Route path="/document/full-text" element={<DocumentFullTextPage onDownloadDocument={downloadDocument} />} />
+        <Route path="/related-works" element={<RelatedWorksPage onDownloadDocument={downloadDocument} />} />
         <Route path="/admin" element={<AdminPage isAdmin={isAdmin} />} />
         <Route path="*" element={<SearchPage onDownloadDocument={downloadDocument} />} />
       </Routes>

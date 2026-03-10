@@ -1,4 +1,5 @@
 import { DocumentRecord } from "@/types/domain";
+import { useNavigate } from "react-router-dom";
 
 type Props = {
   doc: DocumentRecord | null;
@@ -37,6 +38,7 @@ function buildSnippet(doc: DocumentRecord, query: string) {
 }
 
 export function PreviewModal({ doc, query, open, onClose }: Props) {
+  const navigate = useNavigate();
   if (!open || !doc) return null;
 
   const snippet = buildSnippet(doc, query);
@@ -51,15 +53,22 @@ export function PreviewModal({ doc, query, open, onClose }: Props) {
             x
           </button>
         </header>
-        <p className="preview-meta">
-          {doc.author ?? "Unknown author"} | {doc.year ?? "N/A"} | {doc.level ?? "N/A"} | {doc.department ?? "N/A"}
-        </p>
         <p>
           {tokens.map((part, idx) => {
             const match = query && part.toLowerCase() === query.toLowerCase();
             return match ? <mark key={idx}>{part}</mark> : <span key={idx}>{part}</span>;
           })}
         </p>
+        <button
+          type="button"
+          className="preview-view-full-text"
+          onClick={() => {
+            onClose();
+            navigate(`/document/full-text?id=${encodeURIComponent(doc.id)}`);
+          }}
+        >
+          View full text
+        </button>
       </div>
     </div>
   );

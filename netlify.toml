@@ -1,0 +1,11 @@
+# Netlify config for frontend (React/Vite) deployment
+
+[build]
+  command   = "npm run build"
+  publish   = "dist"
+
+# SPA: serve index.html for all routes so /search, /admin, /document/full-text work
+[[redirects]]
+  from    = "/*"
+  to      = "/index.html"
+  status  = 200

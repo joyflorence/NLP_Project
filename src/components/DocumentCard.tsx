@@ -12,14 +12,11 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview }: Prop
   return (
     <article className="doc-card">
       <h3>{doc.title}</h3>
-      <div className="meta-line">
-        <span>{doc.author ?? "Unknown author"}</span>
-        <span>{doc.supervisor ?? "No supervisor"}</span>
-        <span>{doc.year ?? "N/A"}</span>
-        <span>{doc.level ? (doc.level === "postgrad" ? "Postgrad" : "Undergraduate") : "N/A"}</span>
-        <span>{doc.department ?? "N/A"}</span>
-        {doc.score !== undefined ? <span className="score">Relevance {doc.score.toFixed(3)}</span> : null}
-      </div>
+      {doc.score !== undefined ? (
+        <div className="meta-line">
+          <span className="score">Relevance {doc.score.toFixed(3)}</span>
+        </div>
+      ) : null}
       <p>{doc.abstract ?? "No abstract available."}</p>
       <div className="card-actions">
         {onFindSimilar ? (

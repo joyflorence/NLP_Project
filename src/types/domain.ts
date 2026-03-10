@@ -60,10 +60,13 @@ export type SignedDownloadResponse = {
 
 export type IngestJob = {
   jobId: string;
-  status: "queued" | "processing" | "completed" | "failed";
+  status: "queued" | "processing" | "completed" | "failed" | "duplicate";
   processedCount?: number;
   totalCount?: number;
   message?: string;
+  title?: string | null;
+  author?: string | null;
+  year?: number | null;
 };
 
 export type EvaluationMetrics = {

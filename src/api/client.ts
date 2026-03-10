@@ -1,6 +1,5 @@
 import { mockApi } from "@/api/mock";
 import {
-  EvaluationResponse,
   IngestJob,
   SearchRequest,
   SearchResponse,
@@ -59,7 +58,17 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
   });
 
   if (!res.ok) {
-    throw new Error(`API request failed: ${res.status} ${res.statusText}`);
+    let detail = "";
+    try {
+      const body = await res.json();
+      if (body && typeof body.detail === "string") detail = body.detail;
+    } catch {
+      // ignore if body is not JSON
+    }
+    const msg = detail
+      ? `API request failed: ${res.status} ${res.statusText}. ${detail}`
+      : `API request failed: ${res.status} ${res.statusText}`;
+    throw new Error(msg);
   }
 
   return (await res.json()) as T;
@@ -73,6 +82,13 @@ const httpApi = {
 
   async ingestDocuments(payload: { sourcePath?: string; files?: string[] }) {
     return request<IngestJob>("/ingest", {
+      method: "POST",
+      body: JSON.stringify(payload)
+    });
+  },
+
+  async ingestFromUrl(payload: { url: string; filename?: string; bucketPath?: string }) {
+    return request<IngestJob>("/ingest-from-url", {
       method: "POST",
       body: JSON.stringify(payload)
     });
@@ -100,15 +116,32 @@ const httpApi = {
     return request<SimilarityResponse>(`/documents/${documentId}/similar?topK=${topK}`);
   },
 
-  async getEvaluation() {
-    return request<EvaluationResponse>("/evaluation");
-  },
-
   async getSignedDownloadUrl(documentId: string) {
     return request<SignedDownloadResponse>("/documents/signed-download", {
       method: "POST",
       body: JSON.stringify({ documentId })
     });
+  },
+
+  async getDocumentFullText(documentId: string) {
+    return request<{ fullText: string; title: string; documentId: string }>(
+      `/documents/full-text?documentId=${encodeURIComponent(documentId)}`
+    );
+  },
+
+  async getStatus() {
+    return request<{
+      initialized: boolean;
+      total_chunks: number;
+      total_documents: number;
+      error?: string;
+    }>("/status");
+  },
+
+  async getIndexedDocuments() {
+    return request<{ documents: Array<{ filename: string; pages?: number; chunks?: number }> }>(
+      "/indexed-documents"
+    );
   }
 };
 

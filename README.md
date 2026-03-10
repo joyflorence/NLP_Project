@@ -8,9 +8,13 @@ production via the backend's static file support.
 ## Getting started
 
 1. **Backend**
-   - `cd backend && pip install -r requirements.txt`
-   - optionally set `CORS_ALLOW_ORIGINS` or `FRONTEND_DIR` in the environment
-   - `python backend/run.py` (or `uvicorn backend.app.main:app --reload`)
+   - From project root, activate the venv and install deps:
+     - **Windows (PowerShell):** `.\\.venv\Scripts\Activate.ps1` then `pip install -r backend\requirements.txt`
+     - **Linux/macOS:** `source .venv/bin/activate` then `pip install -r backend/requirements.txt`
+   - Run the backend (use the venv’s Python so it finds installed packages):
+     - **Windows:** `.\\.venv\Scripts\python.exe backend\run.py` or `.\run-backend.ps1`
+     - **Linux/macOS:** `python backend/run.py` (with venv activated)
+   - Optionally set `CORS_ALLOW_ORIGINS` or `FRONTEND_DIR` in the environment.
 
 2. **Frontend**
    - `npm install` from the project root

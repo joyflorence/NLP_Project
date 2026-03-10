@@ -1,17 +1,20 @@
 import { useEffect, useState } from "react";
 import { api } from "@/api/client";
+import { PreviewModal } from "@/components/PreviewModal";
 import { DocumentRecord } from "@/types/domain";
 import { DocumentCard } from "./DocumentCard";
 
 type Props = {
   selectedDocument: DocumentRecord | null;
+  onSelectDocument: (doc: DocumentRecord) => void;
   onDownloadDocument: (doc: DocumentRecord) => void;
 };
 
-export function SimilarityPanel({ selectedDocument, onDownloadDocument }: Props) {
+export function SimilarityPanel({ selectedDocument, onSelectDocument, onDownloadDocument }: Props) {
   const [related, setRelated] = useState<DocumentRecord[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [previewDoc, setPreviewDoc] = useState<DocumentRecord | null>(null);
 
   useEffect(() => {
     if (!selectedDocument) return;
@@ -26,17 +29,30 @@ export function SimilarityPanel({ selectedDocument, onDownloadDocument }: Props)
   }, [selectedDocument]);
 
   return (
-    <section className="panel scholar-panel">
-      <h2>Related Works</h2>
-      {!selectedDocument ? <p>Select a result to load related documents.</p> : null}
-      {selectedDocument ? <p>Reference: {selectedDocument.title}</p> : null}
-      {loading ? <p>Loading related documents...</p> : null}
-      {error ? <p className="error">{error}</p> : null}
-      <div className="results-list">
-        {related.map((doc) => (
-          <DocumentCard key={doc.id} doc={doc} onDownload={onDownloadDocument} />
-        ))}
-      </div>
-    </section>
+    <>
+      <section className="panel scholar-panel" id="related-works">
+        <h2>Related Works</h2>
+        {!selectedDocument ? <p>Select a result to load related documents.</p> : null}
+        {selectedDocument ? <p>Reference: {selectedDocument.title}</p> : null}
+        {loading ? <p>Loading related documents...</p> : null}
+        {error ? <p className="error">{error}</p> : null}
+        <div className="results-list">
+          {related.map((doc) => (
+            <DocumentCard
+              key={doc.id}
+              doc={doc}
+              onDownload={onDownloadDocument}
+              onPreview={setPreviewDoc}
+            />
+          ))}
+        </div>
+      </section>
+      <PreviewModal
+        doc={previewDoc}
+        query={selectedDocument?.title ?? ""}
+        open={Boolean(previewDoc)}
+        onClose={() => setPreviewDoc(null)}
+      />
+    </>
   );
 }
