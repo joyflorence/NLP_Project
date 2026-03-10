@@ -12,7 +12,7 @@ type Props = {
 export function SearchPanel({ onDownloadDocument }: Props) {
   const navigate = useNavigate();
   const [query, setQuery] = useState("");
-  const [topK, setTopK] = useState(10);
+  const [topK, setTopK] = useState(20);
   const [year, setYear] = useState<string>("");
   const [sortBy, setSortBy] = useState<SearchSortBy>("relevance");
   const [sortOrder, setSortOrder] = useState<SearchSortOrder>("desc");
