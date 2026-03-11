@@ -23,7 +23,7 @@ export function SearchPanel({ onDownloadDocument }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [compatibilityNotice, setCompatibilityNotice] = useState<string | null>(null);
   const [previewDoc, setPreviewDoc] = useState<DocumentRecord | null>(null);
-  const yearOptions = Array.from({ length: 11 }, (_, i) => String(2015 + i));
+  const yearOptions = Array.from({ length: 12 }, (_, i) => String(2014 + i));
   const defaultQuery = "research";
   const effectiveQuery = query.trim() || defaultQuery;
 
