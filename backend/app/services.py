@@ -4,6 +4,7 @@ import hashlib
 import os
 import sys
 import json
+import re
 import time
 import uuid
 import importlib.util
@@ -669,6 +670,8 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
     title: Optional[str] = None
     author: Optional[str] = None
     year: Optional[int] = None
+    filename_year: Optional[int] = None
+    metadata_year: Optional[int] = None
 
     def _clean_candidate(text: str) -> str:
         return re.sub(r"\s+", " ", (text or "").strip()).strip("-_:|,.;")
@@ -714,6 +717,13 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
         )
         return low.startswith(noise_prefixes)
 
+    filename_matches = re.findall(r"(19|20)\d{2}", path.stem)
+    if filename_matches:
+        try:
+            filename_year = int(re.search(r"((?:19|20)\d{2})(?!.*(?:19|20)\d{2})", path.stem).group(1))
+        except Exception:
+            filename_year = None
+
     try:
         import fitz  # PyMuPDF
 
@@ -732,9 +742,9 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
             m = re.search(r"(19|20)\d{2}", date_str)
             if m:
                 try:
-                    year = int(m.group(0))
+                    metadata_year = int(m.group(0))
                 except ValueError:
-                    year = None
+                    metadata_year = None
 
         try:
             first_page_text = ""
@@ -810,16 +820,18 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
                 elif lines:
                     title = lines[0][:256]
 
-            if year is None:
-                for ln in lines[:20]:
-                    m2 = re.search(r"(19|20)\d{2}", ln)
-                    if m2:
-                        try:
-                            year = int(m2.group(0))
-                        except ValueError:
-                            year = None
-                        if year is not None:
-                            break
+            content_year: Optional[int] = None
+            for ln in lines[:20]:
+                m2 = re.search(r"(19|20)\d{2}", ln)
+                if m2:
+                    try:
+                        content_year = int(m2.group(0))
+                    except ValueError:
+                        content_year = None
+                    if content_year is not None:
+                        break
+
+            year = content_year or filename_year or metadata_year
         finally:
             doc.close()
     except Exception as e:
@@ -1123,6 +1135,7 @@ def get_signed_download_url(document_id: str, base_url: str = "http://localhost:
                     }
 
     raise FileNotFoundError(f"Document not found: {document_id}")
+
 
 
 

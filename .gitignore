@@ -23,20 +23,11 @@ dist/
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
-# Virtual environments
-.venv/
-venv/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Environment variables
-.env
-.env.example
+# Runtime cache / generated index state
+backend/data/*.json
+University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/cache/
+University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/data/raw_pdfs/
+University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/logs/
 
 # OS files
 .DS_Store

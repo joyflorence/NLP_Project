@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   const apiBase = env.VITE_API_BASE_URL
     ? env.VITE_API_BASE_URL.replace(/\/api$/, "")
-    : "http://localhost:8000";
+    : "http://localhost:8001";
 
   return {
     plugins: [react()],

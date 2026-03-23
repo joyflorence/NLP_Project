@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="University search favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f4c81"/>
+      <stop offset="100%" stop-color="#1f7a8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <path d="M16 20.5c5.5-3 10.7-4.5 16-4.5s10.5 1.5 16 4.5v19.5c-5.5-3-10.7-4.5-16-4.5s-10.5 1.5-16 4.5z" fill="#ffffff" opacity="0.96"/>
+  <path d="M32 16v19.5" stroke="#0f4c81" stroke-width="2.4" opacity="0.22"/>
+  <path d="M21 26c3.4-1.5 6.8-2.2 11-2.2" stroke="#0f4c81" stroke-width="2.4" stroke-linecap="round" opacity="0.28"/>
+  <path d="M21 31c3.4-1.5 6.8-2.2 11-2.2" stroke="#0f4c81" stroke-width="2.4" stroke-linecap="round" opacity="0.28"/>
+  <circle cx="44" cy="44" r="7.5" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <path d="M49.5 49.5L56 56" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+</svg>
