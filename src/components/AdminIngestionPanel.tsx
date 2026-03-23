@@ -75,10 +75,10 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     if (uploadError) return { ok: false, name: file.name, error: uploadError.message };
 
     const parsedYear = meta.year.trim() ? parseInt(meta.year.trim(), 10) : null;
-    const extractedYearFallback = new Date().getFullYear();
-    const safeYear = parsedYear !== null && !Number.isNaN(parsedYear) && parsedYear >= 1900 && parsedYear <= 2100
+    const manualYear = parsedYear !== null && !Number.isNaN(parsedYear) && parsedYear >= 1900 && parsedYear <= 2100
       ? parsedYear
-      : extractedYearFallback;
+      : null;
+    const insertYear = manualYear ?? new Date().getFullYear();
 
     const manualTitle = meta.title.trim();
     const manualAuthor = meta.author.trim();
@@ -139,7 +139,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     const extractedYear = typeof job.year === "number" ? job.year : null;
     const finalTitle = manualTitle || job.title?.trim() || docTitle;
     const finalAuthor = manualAuthor || job.author?.trim() || "Unknown";
-    const finalYear = safeYear ?? extractedYear;
+    const finalYear = manualYear ?? extractedYear ?? insertYear;
 
     const { error: updateError } = await supabase!
       .from("documents")
@@ -399,6 +399,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     </section>
   );
 }
+
 
 
 
