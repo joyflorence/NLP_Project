@@ -669,76 +669,150 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
     title: Optional[str] = None
     author: Optional[str] = None
     year: Optional[int] = None
+
+    def _clean_candidate(text: str) -> str:
+        return re.sub(r"\s+", " ", (text or "").strip()).strip("-_:|,.;")
+
+    def _looks_like_person_name(text: str) -> bool:
+        cleaned = _clean_candidate(text)
+        if not cleaned or len(cleaned) > 80:
+            return False
+        parts = [p for p in cleaned.split() if p]
+        if len(parts) < 2 or len(parts) > 5:
+            return False
+        return all(re.fullmatch(r"[A-Z][A-Za-z'\-]+", part) for part in parts)
+
+    def _is_noise_line(text: str) -> bool:
+        cleaned = _clean_candidate(text)
+        low = cleaned.lower()
+        if len(cleaned) < 8:
+            return True
+        noise_prefixes = (
+            "by ",
+            "author",
+            "student",
+            "student name",
+            "registration",
+            "reg no",
+            "index no",
+            "supervisor",
+            "department",
+            "faculty",
+            "school of",
+            "college of",
+            "submitted",
+            "presented",
+            "partial fulfillment",
+            "in partial fulfillment",
+            "a dissertation",
+            "a thesis",
+            "a report",
+            "uganda martyrs university",
+            "makerere university",
+            "kyambogo university",
+            "ndejje university",
+        )
+        return low.startswith(noise_prefixes)
+
     try:
         import fitz  # PyMuPDF
 
         doc = fitz.open(str(path))
         meta = doc.metadata or {}
-        raw_title = (meta.get("title") or "").strip()
-        raw_author = (meta.get("author") or "").strip()
+        raw_title = _clean_candidate((meta.get("title") or "").strip())
+        raw_author = _clean_candidate((meta.get("author") or "").strip())
 
-        title = raw_title or None
-        author = raw_author or None
+        if raw_title and not _looks_like_person_name(raw_title) and not _is_noise_line(raw_title):
+            title = raw_title
+        if raw_author:
+            author = raw_author
 
         date_str = (meta.get("creationDate") or "") or (meta.get("modDate") or "")
         if date_str:
-            import re as _re
-
-            m = _re.search(r"(19|20)\d{2}", date_str)
+            m = re.search(r"(19|20)\d{2}", date_str)
             if m:
                 try:
                     year = int(m.group(0))
                 except ValueError:
                     year = None
 
-        # Fallback: simple heuristics from first page text
         try:
             first_page_text = ""
+            title_candidates: list[tuple[float, str]] = []
             if doc.page_count > 0:
                 first_page = doc[0]
                 first_page_text = first_page.get_text("text") or ""
-            lines = [ln.strip() for ln in (first_page_text.splitlines() if first_page_text else []) if ln.strip()]
+                page_dict = first_page.get_text("dict") or {}
+                for block in page_dict.get("blocks", []):
+                    if block.get("type") != 0:
+                        continue
+                    block_lines = []
+                    max_size = 0.0
+                    top_y = None
+                    for line in block.get("lines", []):
+                        spans = line.get("spans", [])
+                        span_text = " ".join((s.get("text") or "").strip() for s in spans if (s.get("text") or "").strip())
+                        cleaned_line = _clean_candidate(span_text)
+                        if cleaned_line:
+                            block_lines.append(cleaned_line)
+                        for span in spans:
+                            try:
+                                max_size = max(max_size, float(span.get("size") or 0))
+                            except (TypeError, ValueError):
+                                pass
+                            bbox = span.get("bbox") or line.get("bbox") or block.get("bbox")
+                            if bbox and top_y is None:
+                                top_y = float(bbox[1])
+                    candidate = _clean_candidate(" ".join(block_lines))
+                    if not candidate or _is_noise_line(candidate):
+                        continue
+                    if _looks_like_person_name(candidate):
+                        if not author:
+                            author = candidate[:128]
+                        continue
+                    if len(candidate) < 12 or len(candidate) > 220:
+                        continue
+                    top_penalty = (top_y or 0.0) / 100.0
+                    score = max_size - top_penalty + min(len(candidate), 120) / 120.0
+                    title_candidates.append((score, candidate))
 
-            def _looks_like_person_name(text: str) -> bool:
-                import re as _re_name
+            lines = [_clean_candidate(ln) for ln in (first_page_text.splitlines() if first_page_text else [])]
+            lines = [ln for ln in lines if ln]
 
-                cleaned = text.strip().strip(",.;:")
-                if not cleaned or len(cleaned) > 80:
-                    return False
-                parts = [p for p in cleaned.split() if p]
-                if len(parts) < 2 or len(parts) > 5:
-                    return False
-                return all(_re_name.fullmatch(r"[A-Z][A-Za-z'\-]+", part) for part in parts)
-
-            if not title and lines:
-                title_candidates = []
-                for ln in lines[:8]:
+            if not title:
+                for ln in lines[:12]:
                     low = ln.lower()
                     if low.startswith("by "):
+                        possible_author = _clean_candidate(ln[3:])
+                        if possible_author and not author:
+                            author = possible_author[:128]
                         continue
                     if _looks_like_person_name(ln):
                         if not author:
                             author = ln[:128]
                         continue
-                    if len(ln) >= 12:
-                        title_candidates.append(ln)
+                    if _is_noise_line(ln):
+                        continue
+                    if 12 <= len(ln) <= 220:
+                        score = 1.5 + min(len(ln), 120) / 120.0
+                        title_candidates.append((score, ln))
+
                 if title_candidates:
-                    title = max(title_candidates, key=len)[:256]
-                else:
+                    seen = set()
+                    ranked = []
+                    for score, candidate in sorted(title_candidates, key=lambda item: item[0], reverse=True):
+                        norm = candidate.lower()
+                        if norm in seen:
+                            continue
+                        seen.add(norm)
+                        ranked.append((score, candidate))
+                    title = ranked[0][1][:256]
+                elif lines:
                     title = lines[0][:256]
 
-            if not author:
-                for ln in lines[:10]:
-                    low = ln.lower()
-                    if low.startswith("by "):
-                        author = ln[3:].strip()[:128] or None
-                        break
-
             if year is None:
-                import re as _re2
-
                 for ln in lines[:20]:
-                    m2 = _re2.search(r"(19|20)\d{2}", ln)
+                    m2 = re.search(r"(19|20)\d{2}", ln)
                     if m2:
                         try:
                             year = int(m2.group(0))
@@ -752,7 +826,6 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
         logger.warning("Metadata extraction failed for %s: %s", path, e)
 
     return {"title": title, "author": author, "year": year}
-
 
 def _load_indexed_content_hashes() -> Set[str]:
     """Load the set of content hashes we have already indexed (for duplicate detection)."""

@@ -93,7 +93,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       supervisor: manualSupervisor || "N/A",
       department: manualDepartment || "N/A",
       level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
-      year: safeYear,
+      year: insertYear,
       file_path: objectPath,
       uploaded_by: user.id
     });
@@ -399,6 +399,8 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     </section>
   );
 }
+
+
 
 
 
