@@ -22,9 +22,11 @@ from .schemas import (
     EvaluationResponse,
     SignedDownloadRequest,
     SignedDownloadResponse,
+    ResetIndexCacheResponse,
 )
 from . import services
 from .download_tokens import get_download_path
+from .schemas import ResetIndexCacheResponse
 
 
 async def _supabase_poll_loop() -> None:
@@ -323,4 +325,8 @@ if os.path.isdir(frontend_dir):
         StaticFiles(directory=frontend_dir, html=True),
         name="frontend",
     )
+
+
+
+
 
