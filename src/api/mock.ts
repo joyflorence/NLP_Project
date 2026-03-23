@@ -167,6 +167,11 @@ function paginateDocs(docs: DocumentRecord[], page = 1, pageSize = 5) {
 }
 
 export const mockApi = {
+  async ping(): Promise<{ ping: string }> {
+    await delay(100);
+    return { ping: "pong" };
+  },
+
   async ingestDocuments(payload: { sourcePath?: string; files?: string[] }): Promise<IngestJob> {
     await delay();
     return {
@@ -296,6 +301,16 @@ export const mockApi = {
     };
   },
 
+  async resetIndexCache() {
+    await delay(150);
+    return {
+      cleared: true,
+      removed_cache_files: mockCorpus.length + 2,
+      removed_raw_pdfs: mockCorpus.length,
+      message: "Mock cache cleared."
+    };
+  },
+
   async getIndexedDocuments() {
     await delay(150);
     return {
@@ -307,3 +322,7 @@ export const mockApi = {
     };
   }
 };
+
+
+
+

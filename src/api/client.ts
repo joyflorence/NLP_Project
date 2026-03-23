@@ -7,20 +7,11 @@ import {
   SimilarityResponse
 } from "@/types/domain";
 
-// When developing we often run frontend on a separate port from the backend, but in
-// production the two can share the same origin.  Allow the base URL to be configured
-// via environment variables and fall back to a relative "/api" path to avoid the
-// frontend hard‑coding `localhost:8000`.
 let API_BASE =
   import.meta.env.VITE_API_BASE_URL ||
-  // if no explicit URL is provided use a relative path so that the app will work
-  // regardless of host/port when served from the same server.
   "/api";
-// guarantee that API_BASE ends with "/api" (not "/api/") so callers can
-// append paths consistently; this shields us from misconfigured environment
-// variables.
 if (!API_BASE.endsWith("/api")) {
-  API_BASE = API_BASE.replace(/\/+$/, ""); // strip trailing slashes
+  API_BASE = API_BASE.replace(/\/+$/, "");
   API_BASE = API_BASE + "/api";
 }
 const AUTH_TOKEN_KEY = import.meta.env.VITE_AUTH_TOKEN_KEY ?? "access_token";
@@ -76,7 +67,6 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
 
 const httpApi = {
   async ping() {
-    // simple check to verify that the backend is reachable
     return request<{ ping: string }>("/ping");
   },
 
@@ -142,6 +132,17 @@ const httpApi = {
     return request<{ documents: Array<{ filename: string; pages?: number; chunks?: number }> }>(
       "/indexed-documents"
     );
+  },
+
+  async resetIndexCache() {
+    return request<{
+      cleared: boolean;
+      removed_cache_files: number;
+      removed_raw_pdfs: number;
+      message?: string;
+    }>("/admin/reset-index-cache", {
+      method: "POST"
+    });
   }
 };
 

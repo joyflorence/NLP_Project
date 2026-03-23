@@ -94,3 +94,9 @@ class SignedDownloadResponse(BaseModel):
     documentId: str
     signedUrl: str
     expiresIn: Optional[int] = None
+
+class ResetIndexCacheResponse(BaseModel):
+    cleared: bool
+    removed_cache_files: int = 0
+    removed_raw_pdfs: int = 0
+    message: Optional[str] = None

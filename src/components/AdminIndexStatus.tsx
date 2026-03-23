@@ -1,7 +1,11 @@
 import { useEffect, useState } from "react";
 import { api } from "@/api/client";
 
-export function AdminIndexStatus() {
+type Props = {
+  refreshKey?: number;
+};
+
+export function AdminIndexStatus({ refreshKey = 0 }: Props) {
   const [status, setStatus] = useState<{
     initialized: boolean;
     total_chunks: number;
@@ -29,13 +33,13 @@ export function AdminIndexStatus() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [refreshKey]);
 
   if (loading) {
     return (
       <section className="panel scholar-panel">
         <h2>Index Status</h2>
-        <p className="muted">Loading…</p>
+        <p className="muted">Loading...</p>
       </section>
     );
   }

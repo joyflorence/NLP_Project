@@ -35,7 +35,6 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
   const [progress, setProgress] = useState<string | null>(null);
   const [detectedMeta, setDetectedMeta] = useState<{ title?: string | null; author?: string | null; year?: number | null } | null>(null);
 
-  /** Normalize filename for duplicate check: lowercase, spaces → underscores */
   function normFilename(name: string): string {
     return name.replace(/\s+/g, "_").toLowerCase();
   }
@@ -64,10 +63,10 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     author?: string | null;
     year?: number | null;
   }> {
-    setProgress(`Uploading ${index} of ${total}: ${file.name}…`);
-    // Match backend sanitization so engine filename matches Supabase stem for metadata lookup
+    setProgress(`Uploading ${index} of ${total}: ${file.name}...`);
+
     let safeName = file.name.replace(/[^\w.\-]/g, "_").replace(/\s+/g, "_");
-    if (!safeName.toLowerCase().endsWith(".pdf")) safeName = safeName + ".pdf";
+    if (!safeName.toLowerCase().endsWith(".pdf")) safeName = `${safeName}.pdf`;
     const objectPath = `${user.id}/${Date.now()}-${safeName}`;
 
     const { error: uploadError } = await supabase!
@@ -75,28 +74,34 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       .upload(objectPath, file, { upsert: false });
     if (uploadError) return { ok: false, name: file.name, error: uploadError.message };
 
-    const yearNum = meta.year.trim() ? parseInt(meta.year.trim(), 10) : new Date().getFullYear();
-    const safeYear = Number.isNaN(yearNum) || yearNum < 1900 || yearNum > 2100 ? new Date().getFullYear() : yearNum;
+    const parsedYear = meta.year.trim() ? parseInt(meta.year.trim(), 10) : null;
+    const extractedYearFallback = new Date().getFullYear();
+    const safeYear = parsedYear !== null && !Number.isNaN(parsedYear) && parsedYear >= 1900 && parsedYear <= 2100
+      ? parsedYear
+      : extractedYearFallback;
 
-    const docTitle = (meta.title || "").trim() || file.name.replace(/\.[^.]+$/, "") || file.name;
+    const manualTitle = meta.title.trim();
+    const manualAuthor = meta.author.trim();
+    const manualSupervisor = meta.supervisor.trim();
+    const manualDepartment = meta.department.trim();
+    const docTitle = manualTitle || file.name.replace(/\.[^.]+$/, "") || file.name;
 
-    try {
-      await supabase!.from("documents").insert({
-        title: docTitle,
-        abstract: "",
-        author: (meta.author || "").trim() || "Unknown",
-        supervisor: (meta.supervisor || "").trim() || "N/A",
-        department: (meta.department || "").trim() || "N/A",
-        level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
-        year: safeYear,
-        file_path: objectPath,
-        uploaded_by: user.id
-      });
-    } catch {
-      /* table may have stricter schema */
+    const { error: insertError } = await supabase!.from("documents").insert({
+      title: docTitle,
+      abstract: "",
+      author: manualAuthor || "Unknown",
+      supervisor: manualSupervisor || "N/A",
+      department: manualDepartment || "N/A",
+      level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
+      year: safeYear,
+      file_path: objectPath,
+      uploaded_by: user.id
+    });
+    if (insertError) {
+      throw new Error(`Failed to save document metadata row: ${insertError.message}`);
     }
 
-    setProgress(`Indexing ${index} of ${total}: ${file.name}…`);
+    setProgress(`Indexing ${index} of ${total}: ${file.name}...`);
     const { data: signed } = await supabase!.storage
       .from("academic-docs")
       .createSignedUrl(objectPath, 3600);
@@ -107,6 +112,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       filename: safeName,
       bucketPath: objectPath
     });
+
     if (job.status === "duplicate") {
       return {
         ok: false,
@@ -118,6 +124,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         year: job.year ?? null
       };
     }
+
     if (job.status !== "completed") {
       return {
         ok: false,
@@ -128,12 +135,31 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         year: job.year ?? null
       };
     }
+
+    const extractedYear = typeof job.year === "number" ? job.year : null;
+    const finalTitle = manualTitle || job.title?.trim() || docTitle;
+    const finalAuthor = manualAuthor || job.author?.trim() || "Unknown";
+    const finalYear = safeYear ?? extractedYear;
+
+    const { error: updateError } = await supabase!
+      .from("documents")
+      .update({
+        title: finalTitle,
+        author: finalAuthor,
+        year: finalYear
+      })
+      .eq("file_path", objectPath)
+      .eq("uploaded_by", user.id);
+    if (updateError) {
+      throw new Error(`Indexed document, but failed to sync extracted metadata: ${updateError.message}`);
+    }
+
     return {
       ok: true,
       name: file.name,
-      title: job.title ?? null,
-      author: job.author ?? null,
-      year: job.year ?? null
+      title: finalTitle,
+      author: finalAuthor,
+      year: finalYear
     };
   }
 
@@ -156,11 +182,9 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
 
     setLoading(true);
     try {
-      setProgress("Checking for duplicates…");
+      setProgress("Checking for duplicates...");
       const { documents: indexed } = await api.getIndexedDocuments();
-      const existingNorm = new Set(
-        (indexed ?? []).map((d) => normFilename(d.filename))
-      );
+      const existingNorm = new Set((indexed ?? []).map((d) => normFilename(d.filename)));
 
       const duplicates: File[] = [];
       const toUploadNew: File[] = [];
@@ -216,7 +240,6 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       }
 
       setMetadata({ ...DEFAULT_METADATA });
-
       setProgress(null);
       setFiles([]);
       setDetectedMeta(lastMeta);
@@ -226,7 +249,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         skipParts.push(`Skipped (already uploaded by filename): ${duplicates.map((f) => f.name).join(", ")}`);
       }
       if (contentDuplicates.length > 0) {
-        skipParts.push(`Skipped (already uploaded – same content): ${contentDuplicates.join(", ")}`);
+        skipParts.push(`Skipped (already uploaded - same content): ${contentDuplicates.join(", ")}`);
       }
       const skipMsg = skipParts.length > 0 ? ` ${skipParts.join(" ")}` : "";
 
@@ -292,7 +315,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
 
         <fieldset className="metadata-fieldset">
           <legend>Document metadata (optional)</legend>
-          <p className="muted">Applied to all files in this upload. Leave blank to use defaults.</p>
+          <p className="muted">Applied to all files in this upload. Leave blank to use extracted metadata where available.</p>
           <div className="metadata-grid">
             <label className="metadata-full">
               Title
@@ -355,7 +378,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         </fieldset>
 
         <button type="submit" disabled={loading || files.length === 0}>
-          {loading ? (progress ?? "Uploading…") : "Upload"}
+          {loading ? (progress ?? "Uploading...") : "Upload"}
         </button>
       </form>
 
@@ -364,7 +387,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         <div className="ingestion-feedback success">
           <p className="auth-note">{notice}</p>
           <Link to="/search" className="ingestion-search-link">
-            Search documents →
+            Search documents
           </Link>
         </div>
       ) : null}
@@ -376,3 +399,6 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     </section>
   );
 }
+
+
+

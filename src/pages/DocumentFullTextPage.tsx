@@ -47,7 +47,7 @@ export function DocumentFullTextPage({ onDownloadDocument }: Props) {
   return (
     <div className="panel scholar-panel full-text-page">
       <nav className="full-text-nav">
-        <Link to="/search">← Back to search</Link>
+        <Link to="/search">Back to search</Link>
       </nav>
       <h2>Full text</h2>
       {loading ? <p>Loading…</p> : null}

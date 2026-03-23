@@ -172,6 +172,15 @@ async def list_indexed_documents():
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.post("/api/admin/reset-index-cache", response_model=ResetIndexCacheResponse)
+async def reset_index_cache():
+    """Clear local index/cache state so deleted bucket files stop appearing until re-ingested."""
+    try:
+        result = services.reset_index_cache()
+        return ResetIndexCacheResponse(**result)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.get("/api/documents/full-text")
 async def get_document_full_text(documentId: str):
     """Get full extracted text for a document (all chunks). Used by View full text + download."""
@@ -314,3 +323,4 @@ if os.path.isdir(frontend_dir):
         StaticFiles(directory=frontend_dir, html=True),
         name="frontend",
     )
+

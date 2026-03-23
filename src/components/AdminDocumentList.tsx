@@ -5,12 +5,15 @@ type IndexedDoc = { filename: string; pages?: number; chunks?: number };
 
 type Props = {
   refreshKey?: number;
+  onCacheReset?: () => void;
 };
 
-export function AdminDocumentList({ refreshKey = 0 }: Props) {
+export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
   const [documents, setDocuments] = useState<IndexedDoc[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [resetting, setResetting] = useState(false);
+  const [notice, setNotice] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -32,11 +35,32 @@ export function AdminDocumentList({ refreshKey = 0 }: Props) {
     };
   }, [refreshKey]);
 
+  async function handleResetCache() {
+    const confirmed = window.confirm(
+      "Clear the local search cache and indexed-document registry? Deleted bucket files will disappear from the UI, and you will need to re-upload or re-ingest current documents."
+    );
+    if (!confirmed) return;
+
+    setResetting(true);
+    setError(null);
+    setNotice(null);
+    try {
+      const result = await api.resetIndexCache();
+      setDocuments([]);
+      setNotice(result.message ?? "Local search cache cleared.");
+      onCacheReset?.();
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to clear local cache.");
+    } finally {
+      setResetting(false);
+    }
+  }
+
   if (loading) {
     return (
       <section className="panel scholar-panel">
         <h2>Indexed Documents</h2>
-        <p className="muted">Loading…</p>
+        <p className="muted">Loading...</p>
       </section>
     );
   }
@@ -52,8 +76,16 @@ export function AdminDocumentList({ refreshKey = 0 }: Props) {
 
   return (
     <section className="panel scholar-panel">
-      <h2>Indexed Documents</h2>
-      <p className="muted">{documents.length} document(s) in the search index.</p>
+      <div className="admin-list-header">
+        <div>
+          <h2>Indexed Documents</h2>
+          <p className="muted">{documents.length} document(s) in the search index.</p>
+        </div>
+        <button type="button" className="admin-reset-button" onClick={handleResetCache} disabled={resetting}>
+          {resetting ? "Clearing cache..." : "Clear local cache"}
+        </button>
+      </div>
+      {notice ? <p className="muted">{notice}</p> : null}
       {documents.length === 0 ? (
         <p className="muted">No documents indexed yet. Upload documents below to add them.</p>
       ) : (
@@ -64,7 +96,7 @@ export function AdminDocumentList({ refreshKey = 0 }: Props) {
               {(doc.pages != null || doc.chunks != null) && (
                 <span className="indexed-doc-meta">
                   {doc.pages != null ? `${doc.pages} pages` : ""}
-                  {doc.pages != null && doc.chunks != null ? " · " : ""}
+                  {doc.pages != null && doc.chunks != null ? " � " : ""}
                   {doc.chunks != null ? `${doc.chunks} chunks` : ""}
                 </span>
               )}

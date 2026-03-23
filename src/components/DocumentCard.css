@@ -4,7 +4,7 @@
   border-radius: 10px;
   padding: 1rem 0.85rem;
   display: grid;
-  gap: 0.5rem;
+  gap: 0.75rem;
   box-shadow: 0 8px 22px rgba(22, 82, 163, 0.14);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
@@ -12,6 +12,11 @@
 .doc-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 16px 32px rgba(22, 82, 163, 0.24);
+}
+
+.doc-card-header {
+  display: grid;
+  gap: 0.45rem;
 }
 
 .doc-card h3 {
@@ -30,6 +35,24 @@
   color: #5f6368;
 }
 
+.doc-meta-grid {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.doc-meta-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.65rem;
+  border-radius: 999px;
+  background: #ffffff;
+  border: 1px solid #d4dfef;
+  color: #4b5563;
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+
 .doc-card p {
   margin: 0;
   color: #202124;
@@ -41,18 +64,31 @@
   font-weight: 600;
 }
 
-.doc-card .link-button {
-  width: fit-content;
-  padding: 0;
-  background: transparent;
-  color: #1a73e8;
-  border: none;
-  font-size: 0.92rem;
-  cursor: pointer;
+.doc-card .card-actions-shell {
+  border: 1px solid #d4dfef;
+  border-radius: 12px;
+  background: #ffffff;
+  padding: 0.65rem 0.75rem;
 }
 
 .doc-card .card-actions {
   display: flex;
-  gap: 1rem;
+  gap: 0.65rem;
   flex-wrap: wrap;
+}
+
+.doc-card .link-button {
+  width: fit-content;
+  padding: 0.5rem 0.85rem;
+  background: #f8fbff;
+  color: #0f4c81;
+  border: 1px solid #d0dbea;
+  border-radius: 9px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.doc-card .link-button:hover {
+  background: #edf4ff;
 }

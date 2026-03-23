@@ -44,7 +44,7 @@ export function App() {
     // problem so developers can spot CORS/URL issues early.
     void api
       .ping()
-      .catch((err) => console.error("Backend ping failed:", err));
+      .catch((err: unknown) => console.error("Backend ping failed:", err));
 
     if (!isSupabaseConfigured || !supabase) {
       const token = window.localStorage.getItem("access_token");
@@ -184,3 +184,4 @@ export function App() {
     </main>
   );
 }
+

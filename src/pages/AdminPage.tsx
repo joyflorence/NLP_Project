@@ -9,22 +9,26 @@ type Props = {
 };
 
 export function AdminPage({ isAdmin }: Props) {
-  const [docListRefreshKey, setDocListRefreshKey] = useState(0);
+  const [refreshKey, setRefreshKey] = useState(0);
 
   if (!isAdmin) {
     return <Navigate to="/search" replace />;
   }
 
+  function triggerRefresh() {
+    setRefreshKey((k) => k + 1);
+  }
+
   return (
     <>
       <nav className="admin-nav">
-        <Link to="/search">← Back to search</Link>
+        <Link to="/search" className="admin-back-link">Back to search</Link>
       </nav>
-      <AdminIndexStatus />
-      <AdminDocumentList refreshKey={docListRefreshKey} />
+      <AdminIndexStatus refreshKey={refreshKey} />
+      <AdminDocumentList refreshKey={refreshKey} onCacheReset={triggerRefresh} />
       <AdminIngestionPanel
         isAdmin={isAdmin}
-        onUploadSuccess={() => setDocListRefreshKey((k) => k + 1)}
+        onUploadSuccess={triggerRefresh}
       />
     </>
   );

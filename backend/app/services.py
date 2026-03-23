@@ -158,6 +158,54 @@ def get_indexed_documents() -> List[Dict[str, Any]]:
         return []
 
 
+def reset_index_cache() -> dict:
+    """Clear local engine cache, raw PDFs, and persisted Supabase indexing state."""
+    engine = _get_engine()
+    cache_dir = Path(getattr(engine.config, "cache_dir", "."))
+    raw_pdfs = Path(getattr(engine.config, "local_data_dir", ".")) / "raw_pdfs"
+
+    cleared = engine.clear_index()
+    removed_cache_files = 0
+    removed_raw_pdfs = 0
+
+    # Clear any leftover cache artifacts after engine reset.
+    if cache_dir.exists() and cache_dir.is_dir():
+        for path in cache_dir.iterdir():
+            if path.is_file():
+                try:
+                    path.unlink()
+                    removed_cache_files += 1
+                except Exception:
+                    pass
+
+    if raw_pdfs.exists() and raw_pdfs.is_dir():
+        for path in raw_pdfs.iterdir():
+            if path.is_file():
+                try:
+                    path.unlink()
+                    removed_raw_pdfs += 1
+                except Exception:
+                    pass
+
+    for state_file in (_SUPABASE_INDEXED_PATH_FILE, _CONTENT_HASHES_FILE):
+        if state_file.exists():
+            try:
+                state_file.unlink()
+            except Exception:
+                pass
+
+    global _supabase_indexed_paths, _indexed_content_hashes, _ingest_jobs
+    _supabase_indexed_paths = set()
+    _indexed_content_hashes = set()
+    _ingest_jobs = {}
+
+    return {
+        "cleared": bool(cleared),
+        "removed_cache_files": removed_cache_files,
+        "removed_raw_pdfs": removed_raw_pdfs,
+        "message": "Local search index cache cleared. Re-upload documents or let the poller ingest current bucket files again.",
+    }
+
 def _load_supabase_document_metadata() -> Dict[str, dict]:
     """Load document metadata from Supabase documents table. Key = filename (basename of file_path).
     Also keys by stem (no timestamp) and by backend-normalized name so engine filename matches."""
@@ -651,8 +699,33 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
                 first_page_text = first_page.get_text("text") or ""
             lines = [ln.strip() for ln in (first_page_text.splitlines() if first_page_text else []) if ln.strip()]
 
+            def _looks_like_person_name(text: str) -> bool:
+                import re as _re_name
+
+                cleaned = text.strip().strip(",.;:")
+                if not cleaned or len(cleaned) > 80:
+                    return False
+                parts = [p for p in cleaned.split() if p]
+                if len(parts) < 2 or len(parts) > 5:
+                    return False
+                return all(_re_name.fullmatch(r"[A-Z][A-Za-z'\-]+", part) for part in parts)
+
             if not title and lines:
-                title = lines[0][:256]
+                title_candidates = []
+                for ln in lines[:8]:
+                    low = ln.lower()
+                    if low.startswith("by "):
+                        continue
+                    if _looks_like_person_name(ln):
+                        if not author:
+                            author = ln[:128]
+                        continue
+                    if len(ln) >= 12:
+                        title_candidates.append(ln)
+                if title_candidates:
+                    title = max(title_candidates, key=len)[:256]
+                else:
+                    title = lines[0][:256]
 
             if not author:
                 for ln in lines[:10]:
@@ -977,3 +1050,6 @@ def get_signed_download_url(document_id: str, base_url: str = "http://localhost:
                     }
 
     raise FileNotFoundError(f"Document not found: {document_id}")
+
+
+

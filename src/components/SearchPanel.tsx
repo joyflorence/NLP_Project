@@ -23,9 +23,22 @@ export function SearchPanel({ onDownloadDocument }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [compatibilityNotice, setCompatibilityNotice] = useState<string | null>(null);
   const [previewDoc, setPreviewDoc] = useState<DocumentRecord | null>(null);
-  const yearOptions = Array.from({ length: 12 }, (_, i) => String(2014 + i));
+  const currentYear = new Date().getFullYear();
+  const yearOptions = Array.from({ length: currentYear - 1899 }, (_, i) => String(currentYear - i));
   const defaultQuery = "research";
   const effectiveQuery = query.trim() || defaultQuery;
+  const totalPages = semanticResult?.total
+    ? Math.max(1, Math.ceil(semanticResult.total / (semanticResult.pageSize ?? pageSize)))
+    : 1;
+
+  function resetControls() {
+    setTopK(20);
+    setYear("");
+    setSortBy("relevance");
+    setSortOrder("desc");
+    setPageSize(5);
+    setPage(1);
+  }
 
   function normalizeSearchResponse(
     res: SearchResponse,
@@ -91,71 +104,92 @@ export function SearchPanel({ onDownloadDocument }: Props) {
   }, [topK, sortBy, sortOrder, pageSize, year]);
 
   return (
-    <section className="panel scholar-panel">
+    <section className="panel scholar-panel search-panel">
       <h2>Search Literature</h2>
+      <p className="search-intro">
+        Search across academic work.
+      </p>
 
-      <div className="scholar-search-row">
-        <input
-          className="scholar-query-input"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          onKeyDown={(e) => {
-            if (e.key === "Enter" && !loading) void runSearch(1);
-          }}
-          placeholder="Search by topic or keywords"
-        />
-        <button type="button" onClick={() => void runSearch(1)} disabled={loading}>
-          {loading ? "Searching..." : "Search"}
-        </button>
-      </div>
-
-      <div className="search-options">
-        <label>
-          Retrieve
+      <div className="search-toolbar">
+        <div className="scholar-search-row">
           <input
-            type="number"
-            min={5}
-            max={200}
-            step={5}
-            value={topK}
-            onChange={(e) => setTopK(Number(e.target.value))}
-            aria-label="Retrieval cap"
+            className="scholar-query-input"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" && !loading) void runSearch(1);
+            }}
+            placeholder="Search by topic, title, author, or keywords"
           />
-        </label>
-        <label>
-          Sort By
-          <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SearchSortBy)}>
-            <option value="relevance">Relevance</option>
-            <option value="year">Year</option>
-            <option value="title">Title</option>
-          </select>
-        </label>
-        <label>
-          Order
-          <select value={sortOrder} onChange={(e) => setSortOrder(e.target.value as SearchSortOrder)}>
-            <option value="desc">Descending</option>
-            <option value="asc">Ascending</option>
-          </select>
-        </label>
-        <label>
-          Per Page
-          <select value={String(pageSize)} onChange={(e) => setPageSize(Number(e.target.value))}>
-            <option value="5">5</option>
-            <option value="10">10</option>
-            <option value="20">20</option>
-          </select>
-        </label>
-        <label>
-          Year
-          <select value={year} onChange={(e) => setYear(e.target.value)} aria-label="Year">
-            <option value="">All</option>
-            {yearOptions.map((y) => (
-              <option key={y} value={y}>
-                {y}
-              </option>
-            ))}
-          </select>
-        </label>
+          <button
+            type="button"
+            className="search-primary-action"
+            onClick={() => void runSearch(1)}
+            disabled={loading}
+          >
+            {loading ? "Searching..." : "Search"}
+          </button>
+        </div>
+
+        <div className="search-options">
+          <div className="search-filter-grid">
+            <label className="search-field">
+              <span>Retrieve</span>
+              <input
+                type="number"
+                min={5}
+                max={200}
+                step={5}
+                value={topK}
+                onChange={(e) => setTopK(Number(e.target.value))}
+                aria-label="Retrieval cap"
+              />
+            </label>
+            <label className="search-field">
+              <span>Sort By</span>
+              <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SearchSortBy)}>
+                <option value="relevance">Relevance</option>
+                <option value="year">Year</option>
+                <option value="title">Title</option>
+              </select>
+            </label>
+            <label className="search-field">
+              <span>Order</span>
+              <select value={sortOrder} onChange={(e) => setSortOrder(e.target.value as SearchSortOrder)}>
+                <option value="desc">Descending</option>
+                <option value="asc">Ascending</option>
+              </select>
+            </label>
+            <label className="search-field">
+              <span>Per Page</span>
+              <select value={String(pageSize)} onChange={(e) => setPageSize(Number(e.target.value))}>
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+              </select>
+            </label>
+            <label className="search-field">
+              <span>Filter by year</span>
+              <select value={year} onChange={(e) => setYear(e.target.value)} aria-label="Year">
+                <option value="">All years</option>
+                {yearOptions.map((y) => (
+                  <option key={y} value={y}>
+                    {y}
+                  </option>
+                ))}
+              </select>
+            </label>
+          </div>
+
+          <div className="search-toolbar-footer">
+            <p className="search-filter-hint">
+              {year ? `Filtering to documents from ${year}.` : `Showing documents from all indexed years through ${currentYear}.`}
+            </p>
+            <button type="button" className="search-secondary-action" onClick={resetControls} disabled={loading}>
+              Reset controls
+            </button>
+          </div>
+        </div>
       </div>
 
       {error ? <p className="error">{error}</p> : null}
@@ -192,16 +226,12 @@ export function SearchPanel({ onDownloadDocument }: Props) {
             </button>
             <span>
               Page {page}
-              {semanticResult.total ? ` of ${Math.max(1, Math.ceil(semanticResult.total / (semanticResult.pageSize ?? pageSize)))}` : ""}
+              {semanticResult.total ? ` of ${totalPages}` : ""}
             </span>
             <button
               type="button"
               onClick={() => void runSearch(page + 1)}
-              disabled={
-                loading ||
-                Boolean(semanticResult.total) &&
-                  page >= Math.max(1, Math.ceil((semanticResult.total ?? 0) / (semanticResult.pageSize ?? pageSize)))
-              }
+              disabled={loading || (Boolean(semanticResult.total) && page >= totalPages)}
             >
               Next
             </button>
@@ -213,3 +243,7 @@ export function SearchPanel({ onDownloadDocument }: Props) {
     </section>
   );
 }
+
+
+
+
