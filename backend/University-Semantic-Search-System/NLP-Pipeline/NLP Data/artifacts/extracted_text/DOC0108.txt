@@ -1,0 +1,1068 @@
+ 
+DETERMINING THE SUITABILITY OF USING STEEL FIBRES FROM USED 
+TYRES AS A REINFORCEMENT IN AN UNFIRED EARTH BRICK : A CASE 
+STUDY BUGONYA VILLAGE GADUMIRE SUB-COUNTY KALIRO DISTRICT  
+ 
+YOAB MULONDO 
+S21B32/102 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+i 
+ 
+                                                ABSTRACT 
+Unfired Earth bricks are widely used in construction especially in the lower income 
+areas of the world.  However, unfired brickwork is less strong than blockwork or fired 
+clay masonry, and at the moment its use is not advised for thin-walled earth masonry 
+in high-load structural applications. Unfired earth bricks also do not carry as great a 
+load from fixings. 
+With that in mind, this research banks on the knowledge of soil properties to design 
+appropriate geotechnical and geological investigations into the search for the most 
+suitable material for earth construction. From the research below, conversely, the 
+addition of 8% steel fibres from waste tyres by weight in earthen construction will 
+enhance ductility, tensile strength, erosion resistance, and dimensional stability, while 
+reducing shrinkage cracking in the materials. 
+ 
+ 
+                                            
+ 
+ 
+
+ii 
+ 
+                                                 DECLARATION 
+I  Mulondo Yoab, hereby declare that this research and design report is my own work of 
+commitment and has never been submitted in any other institution (University) for any 
+award of academic qualification. 
+MULONDO YOAB 
+S21B32/102 
+Signature: ………………………….                                                Date:…………………………………. 
+ 
+ 
+ 
+ 
+ 
+                                                    
+ 
+ 
+ 
+
+iii 
+ 
+                                                       APPROVAL 
+I hereby certify that MULONDO YOAB reg no: S21B32/102 conducted his research study 
+from Uganda Christian University September 2024, to April 2025. This report is 
+therefore a true record of the work he was able to take part in under my supervision 
+and it is now guaranteed ready for submission to the Department of Engineering and 
+Environment, Uganda Christian University. 
+ 
+SUPERVISOR’S DETAILS 
+ENG. TOM MORE MWANJE 
+Signature ………………………….                                        Date……………………………………….. 
+ 
+ 
+ 
+ 
+ 
+                                              
+
+iv 
+ 
+ACKNOWLEDGEMENT 
+In the first place, I thank the almighty God who has worked through my parents to 
+provide me all the required necessities in this four years’ period of study at Uganda 
+Christian University, and to have enabled me finish up the course successfully 
+regardless of the trying moments. 
+Special and beautiful thanks go to my academic supervisor, ENG. TOM MORE MWANJE, 
+who tirelessly worked together with my effort to help me go through the research 
+process. I appreciate his supervision, guidance, and patience to ensure that I go 
+through the research process smoothly . 
+I would also like to appreciate the Department of Engineering and Environment at 
+Uganda Christian University for providing us with the engineering knowledge from the 
+beginning of this course to its end in order to widen our level of understanding to do a 
+better and more convincing research that the engineering world will appreciate and 
+recommend for practice. I also acknowledge the Faculty Dean; DR. MIRIA AGUNYO, 
+The Former Head of Department; MR. TAYEBWA RODGERS, and my lecturer MRS. 
+JOSEPHINE NAKYEYUNE and with along other lecturers for the help, that is with the 
+comments that helped us understand how to research more. The continuous 
+monitoring and assessment of our progress, information and positive criticism for the 
+different lectures helped us adjust accordingly and also broaden our knowledge during 
+the study. 
+
+v 
+ 
+I also thank my beloved Dad, my Mum and my beloved aunt who have continued to 
+support me financially throughout the project and above all I thank the Almighty God 
+who has provided me with knowledge and wisdom through the entire project. Lastly, I 
+also acknowledge my project partner AHABWE AMON and our other classmates for the 
+teamwork spirit and help given to us during report writing, fieldwork, and 
+presentations.  MAY GOD BLESS YOU ALL 
+                                                    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+DEDICATION 
+I dedicate this report to my beloved parents, friends and all well-wishers. 
+Remembering with gratitude all your continued encouragement and support to me 
+spiritually, emotionally, financially and socially. You are an inspirational and 
+unforgettable family. I treasure and adore all your endeavors so much. May the 
+Almighty God continue to bless you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+TABLE OF CONTENTS 
+ 
+CHAPTER 1: INTRODUCTION ................................................................... 1 
+1.1 BACKGROUND................................................................................ 1 
+1.2  PROBLEM STATEMENT ..................................................................... 5 
+   1.3    OBJECTIVES ............................................................................... 6 
+   1.3.1   MAIN OBJECTIVE ...................................................................... 6 
+1.3.2   Specific objectives ................................................................... 7 
+  1.4    Research Questions ....................................................................... 7 
+  1.5   JUSTIFICATION ............................................................................. 7 
+CHAPTER 2: LITERATURE REVIEW …………………………………………………………….……………….10 
+2.1     Introduction ............................................................................ 10 
+2.2    Research Constraints .................................................................. 14 
+2.3   Overview ................................................................................. 15 
+2.4    Strengths of unfired earth bricks .................................................... 18 
+
+viii 
+ 
+2.5    Weaknesses of unfired earth bricks ................................................. 19 
+2.6   Unfired earth brick specifications ................................................. ….15 
+2.7   Why use steel fibres? ................................................................... 20 
+2.8  Steel fibre composition ................................................................. 22 
+2.9  Physical Properties ...................................................................... 22 
+2.9.1  General effects of applying assorted synthetic and plant fibres on bricks . 23 
+2.9.2  Thermal performance .............................................................. 26 
+2.9.3  Mode of Action of steel fibre Reinforcements on bricks ....................... 26 
+                2.9.3.1   Bridging of Cracks………………..………………………………..……….……..……20 
+                2.9.3.2    Stress Redistribution………….…………………………………………………………21 
+                2.9.3.3    Pull Out Resistance ……………………..…………………………………………...21 
+                2.9.3.4    Post Cracking Load Carrying………………..……….……………………….……21 
+                2.9.3.5    Improved Flexural and Impact Strength……………………….…………….21 
+       2.9.4  Production Process 
+…………………………………………………………………………………28 
+       2.9.5      Aspect Ratio …………………………………….…………………………………………………...22 
+       2.9.6      Blending Conditions….…………………………………………………………………………...22 
+
+ix 
+ 
+CHAPTER 3.   METHODOLOGY ................................................................ 31 
+3.1   Material Acquisition .................................................................... 31 
+3.1.1  Steel fibres ........................................................................... 31 
+3.1.2   Earth ................................................................................. 33 
+3.1.3  Materials and equipment to be used ............................................. 36 
+3.2    Particle size distribution .............................................................. 37 
+3.2.1   Sieve analysis ....................................................................... 37 
+3.2.2  Atterberg limits test ................................................................ 38 
+3.2.3 Natural moisture content test ..................................................... 41 
+3.3  Compressive strenth and water absorption .......................................... 43 
+3.3.1   The compressive strength test ................................................... 43 
+3.3..2  The water absorption test ........................................................ 44 
+3.4  Optimum steel fibre content ........................................................... 54 
+3.4.1  Optimum steel fibre amount ...................................................... 45 
+3.4.2 The soundness test .................................................................. 46 
+
+x 
+ 
+3.4.3 The efflorescence test .............................................................. 46 
+ CHAPTER 4: RESULTS AND DISCUSSION .................................................... 48 
+4.1  Introduction .............................................................................. 48 
+4.2  Sieve Analysis Test ....................................................................... 48 
+4.3  USCS Classification Chart…………………………………………………………………….…………...39 
+    4.3.1 Grain size Distribution Analysis…………………………………………………………………..54 
+4.4 Maximum Dry Density .................................................................... 41 
+4.5 Optimum Moisture Content ............................................................. 58 
+     4.6 Atterberg Limits. ........................................................................ 43 
+       4.6.1 Liquid Limit………………………….…………………………………………………………………..61 
+4.7 Compressive Strength .................................................................. 62 
+         4.7.1  Reason for the trend of the curves .......................................... 47 
+      4.8   Water Absorption………………………………………….………………………………………………..48 
+            4.8.1   Reason for the trend of the Curves…………..…………………………………….….49 
+       4.9    Mix Design……………………………..……………………………………………………………..…….52 
+       4.10  Cost Benefit Analysis………….……………………………………………………………..………..53 
+
+xi 
+ 
+       4.11  Project Logical flow…………………………………………………………………………..………..57 
+CHAPTER 5 :CHALLENGES, CONCLUSION AND RECOMMENDATIONS ................... 58 
+5.1 Conclusion ................................................................................. 58 
+5.1.1 Particle size distribution ............................................................ 59 
+5.1.2  Compressive strength and water absorption .................................... 61 
+5.1.3  Optimum steel fibre content ...................................................... 61 
+      5.1.4   Optimum moisture content……………….……………………………………..………....….58 
+      5.1.5   Atterberg limits………………………………………………………………………………………..…59 
+                    5.1.5.1     Liquid limit…………………………………………………………………………..…59 
+                    5.1.5.2     Plasticity index…………………………………………………………………….…59 
+       5.1.6   Compressive strength…………………………………….………………….……………………..60 
+5.3   Challenges ................................................................................ 62 
+5.4   Recommendations ...................................................................... 62 
+      
+REFERENCES………………………………………………………………………………………………………………….62 
+APPENDIX A: MATERIALS OF STUDY IMAGES………....………….……………………….…….…………65 
+
+xii 
+ 
+APPENDIX B: ORIGINAL LABORATORY RESULTS…………………………………….…..…………….…..77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xiii 
+ 
+LIST OF TABLES 
+Table 2-1 :Unfired Earth Brick Specifications…………………………………..…………..……………..15 
+Table 3-2 :Plasticity Index Results Interpretation…..…………………………………………………...31 
+Table 3-3 :Natural Moisture Content Specifications ………………………..………………………….33 
+Table 4-4 :Particle Size Distribution Results………………………..……………………………………….37 
+Table 4-5: Compressive Strength Results at 7 Days…………………………………………………......46 
+Table 4-6: Compressive Strength Results at 28 Days………………………….………………........47 
+Table 4-7: Water Absorption Results at 28 Days…………………………………………………………….49 
+Table 4-8: Quality Control and Assurance……………………………………………………………………..51 
+Table 4-9: Weight in kilograms needed to make a single block…………………………………….52 
+Table 4-10: Different Mass in grams needed to make a brick with steel fibres……………53 
+ 
+ 
+ 
+ 
+
+xiv 
+ 
+LIST OF FIGURES 
+Figure 1: Depicting waste tyres before shredding…………………………………………………….….18 
+Figure 2: Mixing wet earth with5mm steel fibres…………………………………………………….....23 
+Figure 3: Removing stuck rubber from 5mm cut steel fibres…………………………….……....25 
+Figure 4: Industrial Process of steel fibre extraction from waste tyres……..……………….26 
+Figure 5: Preparation of Raw earth for Mixing and Molding……………………………..………….27 
+Figure 6: Process of Reinforced brick making……………………………………………………………….28 
+Figure 7: Particle Size Distribution Chart………………………………………………….………………….38 
+Figure 8: USCS Classification Chart…………………………………………………….………………………..40 
+Figure 9: Plasticity Chart for UCS……………………………..…………………………………………………..42 
+Figure 10: A graph  of Dry Density Against Moisture Content………………………………………..44 
+Figure 11: A graph for Liquid Limit Determination……………………………………………………….45 
+Figure 12: Reinforced Unfired earth bricks Curing………………………………………………………..46 
+Figure 13: A graph of Compressive Strength against Steel Fibre Percentages……………..47 
+Figure 14: A graph of Water Absorption against Steel Fibre Percentages…………………….49 
+
+xv 
+ 
+Figure 15: Design Drawings for Reinforced Earth Bricks……………………………………………….56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xvi 
+ 
+LIST OF ACRONYMS 
+Kwh………………………………………………………………………………………………………………Kilowatt hour 
+KN ……………………………………………………………………………..……………………………..Kilo Newtons 
+LL ………………………………………………………………………………………………………………..Liquid Limit 
+MM…………………………………………………………………………………………………………..……..Millimetre 
+MPa……………………………………………………………………………………………………………..…Mega Pascal  
+PI……………………………………………………………………………………………………………..Plasticity Index 
+PL…………………………………………………………………………………………………………………Plastic Limit 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+1.1  BACKGROUND 
+The usage of unfired earth bricks was noticed in construction even in ancient 
+civilizations of Egypt, Mesopotamia, and the Americas where they were prepared by 
+mixing sand, clay, straw, and water in the shape of bricks and sundrying them. These 
+materials were locally obtained and in plenty making them easily available to early 
+builders. The earth's thermal properties also provided a natural insulation (Burnett L, 
+2020).  
+Europeans used much of the adobe construction in the Middle Ages, especially Portugal 
+and Spain, while the art of construction made its way to Latin America after 
+colonization. Over time, various cultures modified the use of this basic technique to fit 
+environmental conditions. In the United States Southwest region, for instance, the 
+Pueblo community built large structures by using adobe bricks (Hassan M, 2022). During 
+this time, there has been revival of interest in using unfired bricks basically due to their 
+sustainability-from-firing practices as they cause minimum carbon footprints compared 
+with fired bricks, and they can also help regulate indoor temperatures.  
+Modernization has put the qualities of unfired earth bricks into diverse uses even in the 
+present-day architecture. This has given rise to emerging techniques that harness their 
+durability and structural integrity. Stabilized clay with lime or cement is among the 
+new-fashioned ways. 
+
+2 
+ 
+The adoption of unfired clay brick has been reported as one of the alternatives of 
+reducing energy consumption. This interest in keeping strength requirements up for 
+unfired clay bricks is currently on the increase in demand. Among the materials under 
+testing for compressive strength are bricks.  
+Compressive strength remains the essential parameter to be considered in the design 
+of bricks. The loads acting on bricks in service are compressive in nature; their 
+reliability in resisting such loads without failure is hereby considered. Thus, the quality 
+of bricks depends on their compressive strength.  
+ Conversely, unfired brickwork has lower embodied energy when compared to 
+blockwork or fired clay masonry, while also being easier to recycle and dispose of at 
+end of use. Unlike blockwork or fired clay masonry, unfired brickwork is susceptible to 
+moisture penetration, so detail design must ensure it remains dry during and after 
+construction. 
+Over the past 10 years, rapid population growth and changes in land usage have 
+increased demand and the number of vehicles on the road, thus increasing tire waste. 
+Tires pollute the environment. An estimated one billion tires are discarded across the 
+world every year. The materials are slow in natural degradation, and labor-intensive to 
+reclaim, thus tire recycling is viewed as a sustainable solution.  
+Steel fibres can be up to 15 percent of the weight of tire crumbs with corresponding 
+mechanical properties similar to that of industrial fibres. Unfired earth blocks are also 
+
+3 
+ 
+a potential low-cost building alternative considering their low energy consumption in 
+the burning process and transportation of materials.  
+From [Sukontasukul et al ,2019], The use of steel fibers was found to enhance the 
+flexural action of soil materials. Tajdin et al. used three fiber types, jute, steel, and 
+polypropylene, in reinforcing soil materials, and results indicated improvements in 
+compressive, tensile, and flexural strength. 
+Generally, unfired brickwork is less strong than blockwork or fired clay masonry, and 
+at the moment its use is not advised for thin-walled earth masonry in high-load 
+structural applications. Fired bricks also will not carry as great a load from fixings. 
+Hence, knowledge of soil properties might be of importance towards the designs of 
+appropriate geotechnical and geological investigations into the search for the most 
+suitable material for earth construction [Da Silva. S, 2021]. 
+To counteract the above harmful effects, the soil can be stabilized. Stabilization 
+improves the characteristics of the soil resulting in masonry units capable of carrying 
+greater loading and better performing when subjected to natural degrading elements. 
+There are several types of stabilization: the first is mechanical stabilization, the second 
+is physical stabilization, and the third is chemical stabilization [Younsi Z, 2023]. 
+Examination of deeper scientific results led to the conclusion that steel fibers act in 
+the manner of springs by helping the masonry unit absorb a vast deal of plastic energy. 
+[Babu and Vasudevan, 2021] investigated shear strength of coconut fiber reinforced soil 
+
+4 
+ 
+stating that culms when randomly mixed with soil improves shear strength. Fibers 
+improve the pull between the soil particles while interaction of the fibers among 
+themselves and flexibility of the fibers due to their behavior will be like a structural 
+mesh that will hold the soil together. This gives strong integrity to the soil structure for 
+absorbing huge plastic energy resisting high deformation without disintegration 
+completely.  
+Unfired earth bricks have always remained very much relevant over time simply due to 
+their practicality and environmental benefits. Even today, they are still a very 
+important material in sustainable building practices as they demonstrate a truly close 
+bond with local resources and traditional craftsmanship. 
+Earth bricks are of very low cost, energy efficient (they have excellent thermal 
+properties, and very low energy needed to produce), ecological and safe . These 
+characteristics are very relevant and important with the growing need to bring 
+awareness of reduced consumption of energy across the world. However, earth 
+construction techniques like wattle-dab, cob, and adobe need continuous maintenance 
+for holding them in good condition. Their major limitations include water penetration, 
+wall erosion at lower parts due to splashes of water from ground surfaces, damage from 
+termites and pests, and need for high maintenance requirements, among others 
+(Obinwanne Ugwuishiwu et al., 2018). 
+For nearly a decade now, scientific research has been attempted in the area of usage 
+of recycled industrial tire materials to enhance the properties of concrete , such as the 
+
+5 
+ 
+use of ground rubber from tire in bitumen for road constructions . Some researchers 
+have focused on the results of these studies on possible uses of recycled steel fibers. 
+Several scientific investigations proved that using recycled steel fibers in concrete 
+would enhance the brittle matrix, toughness, and post-cracking response of concrete 
+for structural applications . Adding tyre steel fibers 0.13%–0.46% by volume retained 
+the strength to flexure of concrete but did not change the compressive strength for the 
+same concrete mixes (Senesavath et al., 2022). 
+1.2  PROBLEM STATEMENT 
+ The use of earth as a building material has been commonplace for many years, 
+Historically, earth has been used for construction purposes for approximately 9000 years 
+and continues to be a commonly used building material especially in the rural areas of 
+Uganda [Shantanu. P, 2022]. 
+Bugonya village in eastern Uganda receives a lot of rainfall due to its location in the 
+tropical rainforests area. This has led to bricks made of unfired earth in this area being 
+prone to deterioration when exposed to adverse weather conditions like this torrential 
+rain [I. Alam, A Nasser and A Shah., 2022].   
+Owing to low strength characteristics of soils used in making the bricks in Bugonya 
+village with the soils having predominantly high moisture content, the bricks made have 
+high water absorption ratio. This makes them unfit to be used for superior work of a 
+permanent nature due to their resulting high shrinkage and low compressive strength 
+
+6 
+ 
+of 1.54 N/mm
+2 which is lower compared to the minimum standards requirements for a 
+first class brick of 10N/mm
+2.Their brittleness and tensile strength are low too [Sanya. 
+T, 2021]. 
+The durability and strength of the unfired bricks in general are lower than those of fired 
+or concrete bricks [Muheise-Araalia. D, 2021]. 
+On that note however, further research is required to gain deeper knowledge of soil 
+properties for the design of proper geotechnical and geological investigations to search 
+for more fitting materials for earth construction especially when salvaged steel fibers 
+from waste tyres should be used [Eko M, 2021].  
+This study shall deploy the salvaged steel fibres in strengthening unfired mud bricks for 
+improved physical and engineering properties. The result will thus lead to an alternative 
+which is more environmentally friendly and cheap compared to the energy-hungry fired-
+brick production with a high carbon footprint, and expensive in the rural community. 
+Scope, Bugonya village, Gadumire sub-county, Kaliro district. 330 29’ 15’’ East 
+1.3 OBJECTIVES OF THE STUDY 
+1.3.1   MAIN OBJECTIVE 
+To determine the suitability of using steel fibres from waste tires as reinforcements in 
+the unfired earth brick. 
+
+7 
+ 
+ 1.3.2   Specific objectives 
+1. To determine the physical and mechanical properties of soil to be used for making 
+the earth bricks 
+2. To determine the effect of salvaged steel fibres from waste tyres on the compressive 
+strength and water absorption properties of unfired earth bricks. 
+3. To determine the optimum steel fibre content for mix in the bricks during 
+reinforcement. 
+1.4    RESEARCH QUESTIONS 
+1.What are the physical and mechanical properties of the soil to be used in making    
+the earth bricks? 
+2.  What is the effect of salvaged steel fibres from waste tyres on the compressive 
+strength and water absorption properties of unfired earth bricks ? 
+3. What is the optimum steel fibre content for mix in the bricks during reinforcement 
+? 
+1.5   JUSTIFICATION 
+Inclusion of fibres in the clay matrix enhanced the resistance against shrinkage, 
+abrasion and erosion . [Sujatha and Devi, 2018] and [Sharma et al, 2021] observed a 
+
+8 
+ 
+decrease in shrinkage as the fibres inhibit the propagation of cracks and also bridge 
+them . The shrinkage decreased with the increase in fibre content. 
+Steel has a high durability, ductility, tensile strength, corrosion resistance and 
+hardenability hence making it a strong additive to strengthen the unfired earth brick 
+[Ubong A, 2023]. 
+The use of Fiber reinforcement in stabilizing earthen structures seeks to improve the 
+ductility, toughness, tensile strength, and durability of the stabilized soil in addition to 
+increasing its strength [Wada P, 2021]. 
+Steel fibres in the clay matrix act as springs and absorb a great deal of plastic energy 
+and also resist deformation without full disintegration. 
+Steel from waste tyres has a good adhesion with proven mechanical strength of upto 
+2165 MPa thus making it an ideal additive to the unfired earth brick . 
+On carrying out experiments including density, water absorption, shrinkage, 
+compressive strength, tensile strength, wearing and erosion on soil blocks made with 
+two soil types and enhanced with three fibre types at 0.25–1 weight percent. It was 
+found that the physical, mechanical and durability properties of the blocks were 
+generally improved and a recommendation of 0.5 weight percent fibre content and high 
+clayey soil are made [Danso et al, 2022 ]. 
+
+9 
+ 
+The improved performance is attributed to a fair increase in clay content in the soils 
+employed, thereby enhancing cohesion and elevating strength (Krishnaiah and P. 
+Suryanarayana Reddy, 2008). Another possibility could be tied to the fibrous nature in 
+the composition, as the fibres could cut down on its hygrometric shrinkage and release 
+water at a slow rate (Sasui et al., 2018; Quagliarini and Lenci, 2010; Mbereyaho et al., 
+2019). However, this compressive strength is still less than that obtained when cement 
+was used as a stabilizer (Patowary, et al., 2015). This indicates that the manufacture 
+of unfired earth bricks would be suitable for use in single-story buildings.  
+The addition of fibrous materials in earthen construction will enhance ductility, tensile 
+strength erosion resistance, and dimensional stability, while reducing shrinkage 
+cracking in the materials (Walker, 2004). To vouch safe earth brick applications, weather 
+resistance will be made an important recommendation (Ukwizagira & Mbereyaho, 
+2023). 
+The reinforcement of the soil using fiber has been the most preferred idea in 
+geotechnical and geoenvironment engineering. Soil reinforcement is brought about 
+using randomly distributed discrete fibers to be modeled as grass and/or plants growing 
+on a slope to be effectively stabilized. This is more simple compared to soil-reinforced 
+discrete short fibers which can maintain isotropic strength without introducing possible 
+weak planes compared with conventional geosynthetics reinforcement methods. Fiber-
+reinforced soil is like a composite material in that the fibers serve to improve on the 
+strength of the soil. Shear stresses on ground facilitate improved tensile strength for 
+
+10 
+ 
+the fibers which in turn resist greater the soil. The use of fibers in soils is very closely 
+matched to the response of plant roots such that they add resistance to geotechnical 
+and geoenvironmental load which subsequently contributes to soil stability at near-
+surface soils in which effective stress is low (Medina-Martinez et al., 2022). 
+Adding fibers to soil greatly increases its resistance to non-elastic shrinkage, cracks, 
+impacts, etc. Thus, fibers act as strengthening agents for earth blocks enabling them 
+to absorb more energy and resist more loads, making them a viable product in the 
+earthquake-prone areas. The incorporation of fibers, apart from strengthening, 
+contributes to the resistive property of earthen bricks to deformability. Concurrently, 
+it was found that reinforced earth blocks contain less water retention. 
+Typically, conventional options would offer less. The use of chemical and synthetic 
+fibers as stabilizers and reinforcers results in a stabilized block with a strength above 
+twice that of a normal stabilized block. To strengthen this theory results from laboratory 
+investigations complemented implementing the potential application of fibers in 
+earthen materials which subsequently would enhance the resistance against plastic 
+shrinkage, impact and increased toughness . Studies have shown a considerable 
+enhancement in post crack flexural behavior as compared with blocks without 
+reinforcement. Fiber addition enhances the sorptivity behavior as it improves the bond 
+matrix. This is confirmed by studies from author C.K. Subra-manian Prasad et.al. when 
+the fiber content was constrained. When kit fiber and bottle fiber were compared, they 
+
+11 
+ 
+later showed more sorptivity. Sergio Neves Monteiro Proclaims that fibers should be 
+even more concentrated for an end with standing block (Jesudass et al., 2020). 
+Unreinforced blocks were observed to fail suddenly with one large crack, whereas 
+sugarcane bagasse fibre reinforced soil blocks failed gradually with multiple finer 
+cracks. If the failure is described as more gradual, then it acted more like a ductile 
+material than a brittle one, thus supporting  more loads before disintegration  Bouhicha 
+et al. (2005) and Cai et al. (2006). When blocks were pulled from the testing machine, 
+while they split into two halves, these were still held together by the fibre. Therefore, 
+this indicates that fibre-enhanced soil blocks fail slowly, rather than suddenly, and will 
+support a load for a while after their failure (Danso et al., n.d.). 
+Firing is done for strengthening the clay soil to become as tough as stone. Unfortunately, 
+the process of making per one fired brick emits 0.4 kg of CO2 and consumes about 2 
+kWh (Munoz Felasco et al., 2014). Earlier researches on the production of unfired clay 
+bricks have incorporated added materials as reinforcements that commonly form the 
+so-called reinforced bricks. Some of those studies used natural plant fibers such as 
+straw (Binici et al., 2005), sisal (Njau and Park, 2015), coir (Danso et al., 2015; Salih et 
+al., 2020), and sugarcane (Saccharum officinarum) bagasse fiber (SBF) (Danso et al., 
+2015; Salih et al., 2020).  
+Cement is also a popular choice when added to clay bricks because of its good 
+mechanical properties; however, this very marble cement is not favored 
+environmentally due to the associated high energy consumed and CO2 released in the 
+
+12 
+ 
+process of making cement (Zhang, 2013; Marcelino-Sadaba et al., 2017; Joglekar et al., 
+2018). The production of one tonne of cement consumes around 5.6 GJ of energy and 
+gives out about one tonne of CO2, contributing 7% of emissions into the atmosphere 
+(Shubbar et al., 2018). Therefore eco-friendly reinforcement or stabilizer must be 
+employed to produce unfired clay bricks (Danso et al., 2015). 
+                                         
+ 
+ 
+
+13 
+ 
+CHAPTER TWO : LITERATURE REVIEW 
+ 
+2.1     INTRODUCTION 
+In times where construction activities are increasingly having adverse impacts on the 
+environment, sustainability and environmental friendly alternatives are much so 
+required to serve as alternatives to the traditionally available building materials. 
+Unfired bricks in specific are a very viable option for attaining sustainability since they 
+require available natural materials and their production consumes low energy levels. 
+Their production also excludes burning which leads to maintenance of specifically low 
+carbon foot print.  
+The selection for use of these unfired earth bricks in enhanced load bearing structures 
+is still restricted due to their inherently low mechanical strength and other structural 
+weaknesses more so related to withstanding loads and abrasion from external factors 
+(Asha C et al, 2023). Various researches have incorporated a vast number of 
+reinforcement techniques to boost the strength performance and durability of the earth 
+bricks mainly through the use of natural, synthetic fibers to a certain extent industrial 
+by products too. However, a reliable solution could arise from the use of steel fibers 
+from waste tyres as a reinforcement element in the unfired earth bricks.  
+Earthen bricks are still more brittle and weaker in compression  and bending vis a vis  
+concrete masonry units  and fired bricks . Their compressive strength values range 
+
+14 
+ 
+between 1.3 to 4.0 MPa, which is greatly lower than burnt bricks and concrete blocks, 
+which average between 17.24 MPa and 13.10 MPa, respectively . 
+ Application of steel fibers can improve ductility, thus in the wake of a disaster will 
+delay catastrophic failure in effect giving building occupants time to escape, as opposed 
+to facing the risk of injury or even fatality because of sudden failure. 
+Conversely, synthetic fibers such as steel are known to enhance concrete freeze–thaw 
+resistance, impact resistance plus mitigate shrinkage cracking. In soils used for 
+geotechnical applications, the addition of isotropically distributed steel fibers better 
+the unconfined compressive strength, ductility, residual strength, absorbed energy, 
+flexural toughness, and splitting tensile strength of soil mixtures. 
+In other studies, where steel fibers have been added to cement based materials the 
+tensile and flexural strength was enhanced which implies that such positive action can 
+be advanced to earth bricks. This review therefore is aimed at in depth examination of 
+the existing knowledge sources about the use of fiber reinforcement in earth bricks 
+with keen attention on mechanical performance, durability and sustainability in the use 
+of fiber-reinforced unfired earth bricks. 
+2.2    RESEARCH CONSTRAINTS 
+In the body of research available about reinforcement of earth bricks, studies are 
+majorly concentrated on natural and other synthetic fibers which has left the potential 
+of steel fibers from waste tyres largely unexplored. This calls for comprehensive studies 
+
+15 
+ 
+on how varying amounts of steel fibers could affect the mechanical properties and 
+further determine the optimal fiber content for maximum brick performance. 
+2.3   OVERVIEW 
+The increase of the population and urbanization in Uganda has led to constant demand 
+for transportation efficiency coupled with the change in living standards that all call 
+for vehicle purchase. This all comes with tyre production from which the tyres come to 
+become waste after their initial functionality is done. 10-15% of the entire mass of tyres 
+is the steel fibers depending on the type and size of the tyre in question (Haydar 
+G,2021). 
+ Uganda faces an acute problem with waste tyre disposal, estimates suggest that around 
+600,000 to 800,000 waste tyres are generated yearly. This problem is exacerbated by 
+the increasing number of vehicles, with many of these tyres being improperly disposed 
+of causing environmental concerns. This situation underscores the need for more 
+effective waste management systems and recycling activities a case in point being 
+reusing these tyres as reinforcements in the unfired earth brick.  
+Waste tyres are a threat to the environment due to their non-biodegradable nature 
+which implies that once they are disposed into the environment they pose a risk of 
+spreading micro plastics once when they wear out. Once they find their way into water 
+bodies, aquatic ecosystems are distorted and if these aquatic species are consumed by 
+humans the micro plastics find their way into the human gut and pose a health risk to 
+
+16 
+ 
+the human consumers (Haydar G,2021). Reusing these steel fibers as a reinforcement 
+in earth bricks will help to reduce the demand for new steel production which conserves 
+natural resources and sustains a circular economy.  
+The research study will further help in reducing tyre incineration, an activity that 
+increases the carbon footprint in the atmosphere and release of other harmful 
+substances such as sulfur oxides. Through repurposing the steel fibers for use in earth 
+bricks, the need for incineration will be checked. Before addition of new components 
+into any masonry unit, it is key to understand the behavior of its properties under 
+different conditions. Commonly, bricks are made of clay and sand and mixed in various 
+proportions to which sometimes a binder is added. The stabilized block is then pressed 
+into the required shape as per the design requirements and it is either fired or sun 
+dried. For the case of the firing of bricks, environmental degradation is high because a 
+brick kiln emits about 70-282 g of carbon dioxide, 0.001-0.29g of black carbon, 0.29-
+5.78g of carbon monoxide and 0.15-1.56g of particulate matter per kilogram of brick 
+fired (Phillip Z.2020). About 0.54-3.14 MJ of specific energy are consumed depending 
+on the type of kiln and fuel used for firing.  
+With the incorporation of fibers and other industrial waste products into the earth brick 
+matrix, variation was noticed in the properties depending on composition and 
+manufacturing procedures. Bricks are graded and classified based on design codes which 
+much so rely on the purpose of the brick and the kind of environmental conditions that 
+they will be exposed to. A thorough study of the material used in the making of bricks 
+
+17 
+ 
+and the factors related to the brick properties is highly required for standardization of 
+the bricks.  
+Reuse of agricultural by-products in bricks presents advantages such as a lower cost and 
+ecological saving not neglecting the fact that natural fiber sources are renewable and 
+environmentally friendly. Earth bricks reinforced by agricultural wastes and other fibers 
+were studied with the equilibrium moisture content for the bricks under different 
+conditions being less than 7% (Anant L et al,2020). The brick physical and mechanical 
+properties were also improved for the different materials used.  
+Morel et al summarized the mechanical behavior of unstabilised rammed earth 
+produced blocks whose compressive strengths lie in a range of 1.5-3.0 MPa with 
+densities from 1763 to 2160 kg/m3. He noticed that higher strengths could be reached 
+using a hydraulic press to boost the brick typical compressive strengths hence 
+compaction will also be done in our research. 
+For dry building elements made of earth the compressive strength of 2-5 MPa should be 
+used (Minke,2019) and also poor earth materials may have strength as low as 1 MPa and 
+the optimums can go as high as 10 MPa. According to (Schroder,2017), numerous factors 
+such as grain distribution, grain quality, clay mineral quality, quantity of clay minerals, 
+binding strength of the materials, preparation and amount of water used in production 
+work of the bricks all influence the dry compressive strength of the earth as a building 
+material. 
+
+18 
+ 
+2.4    STRENGTHS OF UNFIRED EARTH BRICKS  
+Nondried earth blocks are ecologically friendly; they are manufactured from readily 
+available natural materials with a low carbon footprint and impact. These clay 
+materials for earth blocks naturally insulate against heat and cold in the regulation and 
+control of indoor temperatures. Unfired earth bricks regulate moisture because they 
+can absorb moisture and release some, and this helps to maintain comfortable indoor 
+humidity levels (Alkhatib S., 2023).  
+According to (Ndyambaje P, 2019), the compressive strength and tensile strength of the 
+modified earth bricks containing synthetic fibres improved over the unreinforced earth 
+bricks, while the optimum modification effect was obtained at 8% by weight of the 
+fibres to soil. This means that the addition of recycled fibres to the matrix of earth 
+bricks positively influences the compressive and tensile strengths of the bricks. This is 
+crucial as the maximum possible compressive and tensile strengths are the parameters 
+that most significantly respectively define the mechanical characteristics of soil blocks. 
+Therefore, it is suggested that the use of 8% steel fiber content by weight is made by 
+the practitioners for improving strength properties in soil blocks.  
+  Such earthen users for construction should go for very clayey soil as it makes earth 
+bricks modified with fibers perform better in carrying as compared to other binders 
+that do better with sandy soils. These modified soil bricks are just apt for use as a 
+building material particularly for developing countries where a housing deficit 
+continues because of the high costs of traditional building  materials. 
+
+19 
+ 
+2.5    WEAKNESSES OF UNFIRED EARTH BRICKS 
+Unfired earth bricks generally have a Compressive Strength lower than fired bricks, 
+making them less suitable for  high load-bearing structures in some applications .  They 
+have, therefore, been further disqualified for use in high-load-bearing structures. Their 
+susceptibility to fading and weathering is a cause for concern. It is not only the cases 
+of excessive precipitation and prolonged moisture exposure that will cause damage, 
+but also the case of the lack of proper sealant or even protection treatment (Kannan 
+G, 2023).  
+Limited Structural Applications: While extra-low low-strength bricks are in their 
+application domain for small-load structures, strength requirements that they may fall 
+short of for high-loading applications may call for supplementary reinforcement. 
+Besides, unfired earth bricks may also require extensive maintenance to ensure 
+longevity, particularly in climates with extreme weather conditions. Production by all 
+means of unfired earth bricks is labor-intensive, where the process is very time-
+consuming and labor-intensive when compared to the automated production of fired 
+bricks (Sharma T, 2023). 
+According to the series of inspections outlined above, they are an excellent candidate 
+for an alternative green building material, especially in some climate and building 
+typologies. The strengths in thermal performance and sustainability have to be offset 
+against some weaknesses in structural capacity and weather resistance. 
+
+20 
+ 
+Table 2-1:   Unfired Earth Brick Specifications 
+ Number 
+Detail 
+Sizes 
+Units 
+1 
+Size 
+200x150x90 
+mm 
+2 
+Thickness 
+50,75,100,125,150,175,200,225 
+mm 
+3 
+Compressive strength 
+>3-4.5 (IS 2185) 
+N/mm2 
+4 
+Normal dry density 
+450-650 
+Kg/m3 
+5 
+Thermal conductivity, k 
+0.96-0.98 
+W/MK 
+6 
+Thermal resistance 
+0.46 
+K-m2/W 
+7 
+Heat transmission coefficient, U 
+2.47 
+W/m2k 
+8 
+Drying Shrinkage 
+0.7 % (Size of bricks) 
+% 
+9 
+Sound Absorption 
+Up to 42 
+De 
+10 
+Fire Resistance 
+2 to 6 
+Hrs 
+ 
+2.7   WHY USE STEEL FIBRES? 
+When steel fibers are introduced into brick materials, they help in developing tensile 
+and flexural strengths in bricks so that they endure stresses during operational times. 
+These fibers could also have differences in flexibility from the regular brick material, 
+which could result in better handling and performance on all surfaces (Paul S, 2022) . 
+Since the soil is basically clayey-silty, the clay acts like cement in concrete, bonding 
+the larger particles in the brick. Silt acts as a filtering agent for the soil and is really 
+
+21 
+ 
+aggregates which need binding forces. Steel fibres act as binding agents by bridging 
+cracks in the soil matrix thus serves that need.  
+Using salvaged steel fibres as additives in earth bricks decreased erosion rates from soil 
+blocks sprayed with water. This shows that the modified earth bricks resist erosion 
+better than unreinforced earth bricks. This resistance will assist construction workers 
+in fighting the durability challenge in earth structure construction. 
+Fibers are also very likely to prevent all those challenges which earth construction 
+would have suffered like reduction of strength and durability.  
+The type of soil from which soil blocks are manufactured is important because soil 
+happens to be the major material which is present not less than 90% in any reinforced 
+soil block. This indicates that clay soils perform quite well.  
+Steel fibers can thus ensure very good adhesion with the clay matrix, improving the 
+overall performance of bricks and reducing chances of disintegration. From the 
+sustainability point of view, Steel fibers add a very little weight compared with the 
+advantages derived from using them in bricks. Therefore, the idea should be practical 
+when it comes to improving the performance of bricks without considerably increasing 
+the mass of the bricks (Singh S, 2021). 
+ Steel fibers can provide insulation to bricks made from clay matrix so that they can 
+regulate the temperature well thereby making them energy efficient. 
+
+22 
+ 
+Steel fibers would improve the water resistance of bricks as they would create a denser 
+material thereby reducing the porosity, thus improving the resistance to water 
+absorption as seen in reinforced samples (Beddar, M, 2024). 
+2.8  STEEL FIBRE COMPOSITION  
+Tyres are a homogenous product with an average composition as follows; 
+1. Carbon 70-75%,  
+2. zinc oxide 1.2-2.0%,  
+3. hydrogen 6-7%, 
+4. sulphur 1.3-1.7%,  
+5. iron 13-155 and additives 3.5-5%. 
+2.9  PHYSICAL PROPERTIES 
+Length and Diameter: Steel fibers are mostly fine and can vary in diameter (mainly 
+around 0.1 mm to 1 mm) and lengths (from a few millimeters to several centimeters). 
+Shapes: Steel fibres can be crimped or straight, which aids in improving bonding with 
+the rubber matrix. In this case we used an isotropic arrangement where steel fibres 
+were randomly mixed into the steel fibres to attain an isotropic end product. 
+
+23 
+ 
+ 
+Figure 1: Depicting waste tyres before shredding  
+2.9.1  GENERAL EFFECTS OF APPLYING ASSORTED SYNTHETIC AND PLANT FIBRES 
+ON BRICKS 
+ Increased Flexural Strength: Fibers like steel, polypropylene, or even natural fibers 
+can augment the flexural strength of bricks, therefore making them less likely to crack 
+under stress. Another observed benefit is on impact resistance since the fibers present 
+in bricks increase shock absorption and decrease the probability of breakage. (Ullah. S, 
+2024)  
+Beyond the critical fibre length,  increased fibre content induces strength reduction as 
+the fibres begin to knot together (Ismail and Yaacob, 2011), thereby reducing cohesion 
+
+24 
+ 
+within the soil (Medjo Eko et al., 2012), and breaking up the soil matrix (Millogo et al., 
+2014), resulting in reduction in strength of soil-fibre matrix.  
+Studies examined the influence of recycled steel fibers on the mechanical properties 
+of soil blocks. The addition of fibers in the soil blocks increased the density of the 
+bricks, which could be attributed to the high density of the fiber. This consequently 
+means that when used in the construction of houses, the weight of the entire house is 
+going to be reduced. Earth bricks modified with steel fiber were observed to have a 
+lower water absorption rate, which was attributed to the hydrophilic nature of these 
+fibers; thus, higher steel fiber content within the earth bricks might absorb less water 
+during the rainy season, resulting in positive impacts on some mechanical properties of 
+the blocks.  
+Higher Ductility: Fibers possess the ability to increase the ductility of bricks, enabling 
+deformation without rupture in seismic regions and in applications involving torsional 
+loads on the bricks. The addition of recycled steel fibers into the soil matrix improves 
+the soil erosion resistance. Stated factors could explain the improved resistance of 
+modified earth bricks because steel fibers prevent water from percolating through the 
+soil particles, thus reducing the erosion effect on the bricks. This is a very useful 
+property in high-rainfall areas where erosion of earth buildings is frequent (Danso et 
+al.,2015).  
+Steel fibers were used in earth to enhance significantly the deformation characteristics 
+and load-deflection characteristics of unreinforced blocks. The blocks reinforced with 
+
+25 
+ 
+steel fibers also displayed ductile behavior after cracking. The ductility was attributed 
+to the fibers bridging the cracks and holding the cracked portions together. Randomly 
+mixing fibers into soil has been shown to increase the shear strength (Babu and 
+Vasudevan et al.). Fibers enhance cohesion among soil particles while interaction 
+among the fibers themselves, along with the flexibility of fibers, allows them to 
+function like a structural mesh in keeping the soil together and improving its structural 
+integrity. 
+Most of the previously cited research by Morel et al. centered solely on the mechanical 
+behavior of unreinforced rammed earth while compressed earth blocks were 
+manufactured with a manual press. The compressive strengths of these unreinforced 
+earth specimens ranged between 1.5-3 MPa, with corresponding densities varying 
+between 1750-2150 Kg/m3. Reinforcement for this category allows achieving higher 
+strengths and had compressive strengths most commonly lying at about 2-3 MPa-upper 
+using hydraulic presses or some cement contents, Also presenting compressive strengths 
+from 0.6-2.25 MPa for unreinforced earths as cited by Jimenez et al. 
+Another important aspect of steel fibers in a system is their ability to bridge cracks such 
+that, computed in a tensile sense, after cracking no longer means a fall to zero tensile 
+strength, but where the strength stabilizes to a fairly constant value. In addition, fibers 
+have contributed to concrete that improves its toughness. Toughness is the ability of a 
+material to absorb energy and deform plastically before fracture. This is particularly 
+
+26 
+ 
+relevant to structural elements, which may be subjected to dynamic loading 
+(Senesavath et al., 2022). 
+2.9.2  THERMAL PERFORMANCE 
+ The walls constructed with hypercompacted unfired hollow bricks show the best 
+thermal performance, hence the steel fibres provide the compaction feature, and this 
+is due to the presence of air pockets in the brick holes that significantly retard the heat 
+flow between the outside and inside. In light of the above, thermal performances at 
+the wall scale could be improved further with lightly compacted unfired hollow bricks 
+containing synthetic fibers which combine a low material density, hence low thermal 
+conductivity, with high thermal inertia due to pore water phase changes and extra 
+thermal insulation provided by synthetic fibers and air pockets (Bruno et al., 2020). 
+2.9.3  MODES OF ACTION OF STEEL FIBRE REINFORCEMENT IN BRICKS 
+2.9.3.1  BRIDGING OF CRACKS 
+When microcracks start forming in the brick due to shrinkage drying or through load 
+application, steel fibres span across these cracks. The fibres tie through the gaps, 
+keeping the crack faces together and preventing their widening. This delays brick 
+failure. 
+2.9.3.2  STRESS REDISTRIBUTION 
+
+27 
+ 
+This harnesses ductility and the brick’s ability to absorb and dissipate energy without 
+britte failure. 
+ 
+2.9.3.3  PULL-OUT RESISTANCE / MECHANICAL ANCHORAGE 
+The fibres are hooked into the soil matrix. When stress is applied, they resist being 
+pulled out. 
+Hooked or crimped fibres increase this pull-out resistance via mechanical 
+intertwining, providing better post-crack performance. 
+The bond between the fibre and the soil-cement-clay mix is crucial. In unstabilized 
+bricks, this bond is mostly mechanical (not chemical). 
+2.9.3.4  POST-CRACKING LOAD CARRYING 
+After the brick matrix cracks, the fibres continue to carry load  a concept known as 
+residual strength. This increases toughness, meaning the brick can deform more 
+without disintegrating. 
+2.9.3.5  IMPROVED FLEXURAL AND IMPACT STRENGTH 
+Earth bricks are naturally weak in tension and flexure. Fibres compensate for this 
+weakness, especially under: Bending e.g., lintels, wall panels, Impact loading e.g., 
+earthquakes, debris, Dynamic loads e.g., vibrations 
+
+28 
+ 
+2.9.4  PRODUCTION PROCESS 
+ Mixing and Handling: Generally, the addition of fibers tends to alter the properties of 
+mixing and handling of the brick material. Therefore, during mixing, care must be taken 
+for the uniform distribution of fibers and the use of personal protective equipment.  
+Material Costs: Although fibers enhance performance, they can equally contribute to 
+production costs. The choice of fiber can greatly influence the costs involved.  
+While fibers can offer improvements in mechanical properties, durability, and 
+performance under diverse conditions in the brick-making process, their precise effects 
+depend largely on the type and amount of fiber, together with the full composition of 
+the bricks. 
+2.9.5   ASPECT RATIO 
+The aspect ratio of the fibers is another main factor in fiber-reinforced blocks. The 
+term aspect ratio refers to the relationship between the length of the fibers and their 
+diameter. Generally, high aspect ratios are known to enhance both the tensile and 
+compressive strengths of the blocks which they reinforced. Generally, the use of 
+synthetic and natural fibers in block reinforcement improves the ductility of the block 
+so that in case of a disaster the block can still tolerate failure for some time giving 
+some time for escape of occupants-thereby reducing casualties or injuries (Nazir M, 
+2022). 
+
+29 
+ 
+2.9.6  BLENDING CONDITIONS 
+The consistency of steel fibre-reinforced earth can be influenced by the time and 
+temperature used during blending, thus delicate control is necessary to obtain 
+optimal performance .(Li et al, 2006) investigated the impact of blending time on the 
+permanent changes in synthetic fibres after mixing with earth. The findings showed 
+that varying the blending time (45, 60 and 90 minutes) had no major effect on the 
+properties of modified binders or reinforcements. 
+ 
+
+30 
+ 
+ 
+Figure 2 : Mixing wet earth with 5mm steel fibres 
+ 
+ 
+
+31 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.1   MATERIALS OF STUDY ACQUISITION 
+3.1.1  STEEL FIBRES 
+Steel fibres were acquired by extracting them from waste tyres by the process of 
+shredding where steel fibres were pulled out of the tyre structure mechanically using a 
+large hook called a bead extractor in a mechanized setting. 
+After the steel fibres were extracted from the tyres, they were cut into varying lengths  
+using a cutting disc and homogenously mixed with soil and water and the mixture 
+applied in a Press mold with the soil to make the bricks. Peating was also done using a 
+trowel to prevent exposure of brick fibre tips after production to combat any chance 
+of rusting. 
+
+32 
+ 
+ 
+Figure 3 :Removing stuck rubber pieces from the 5mm cut steel fibres 
+  
+ 
+ 
+ 
+
+33 
+ 
+                                                            
+       
+                                                                                                            
+                                                       
+ 
+                                 
+ 
+                                                                                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Granulator 
+       Steel 
+  Fiber 
+Coarse 
+Rubber 
+Fiber 
+ 
+Shredder 
+Metal Separator 
+Shaking screen 
+with low 
+vacuum suction 
+ Fine Grinding 
+Mill 
+Gyratory screen 
+or Wind Sifter 
+Fine Rubber 
+Scrap Tyres 
+
+34 
+ 
+Figure 4:  The Industrial process of steel fibre extraction from waste tyres 
+ 
+ 
+3.1.2   EARTH 
+The earth to be used was  acquired from Bugonya village in Kaliro district at 
+coordinates of 330 29’ 15’’ East   and was be dug out by hand hoes. Atterberg limits in 
+the soil sample will be determined as per the BS  1377: Part 2 1990 specification. In 
+addition,  the soil material was classified following the  BS 1377: Part 2 1990 
+specifications and the unified soil classification system (USCS)  . Finally, the soil’s 
+Optimal moisture content was measured employing the Proctor compaction test as per 
+the BS 812:103.1-1990 standards . 
+ 
+ 

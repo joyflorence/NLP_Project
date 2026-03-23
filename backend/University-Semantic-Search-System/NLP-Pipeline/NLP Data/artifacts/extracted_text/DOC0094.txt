@@ -1,0 +1,7676 @@
+MTH2206: LINEAR ALGEBRA
+EASTER SEMESTER 2025
+D.W. Ddumba & P. Musisi
+Department of Computing and Technology
+Uganda Christian University
+
+Contents
+1
+Matrices
+1
+1.1
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+1.2
+Other Special Types of Matrices . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+1.2.1
+Diagonal Matrix
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+1.2.2
+Tri-Diagonal Matrix
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+1.2.3
+Triangular Matrix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+1.2.4
+Idempotent Matrix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+1.2.5
+Invertible or Non-Singular Matrix . . . . . . . . . . . . . . . . . . . . . .
+6
+1.3
+Operations on Matrices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+1.3.1
+Addition and Scalar Multiplication of matrices . . . . . . . . . . . . . . .
+8
+1.3.2
+Multiplication of Matrix by Matrix . . . . . . . . . . . . . . . . . . . . .
+10
+1.3.3
+Trace of a Square Matrix . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+1.4
+Properties of Matrices Operations . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+1.4.1
+Properties of Matrix Addition and Scalar Multiplication
+. . . . . . . . .
+14
+1.4.2
+Properties of Matrix Multiplication . . . . . . . . . . . . . . . . . . . . .
+14
+1.4.3
+Properties of Matrix Transpose
+. . . . . . . . . . . . . . . . . . . . . . .
+14
+1.4.4
+Properties of the Matrix Trace . . . . . . . . . . . . . . . . . . . . . . . .
+14
+1.5
+Determinants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+1.5.1
+Permutations and Inversion of a Permutation
+. . . . . . . . . . . . . . .
+15
+1.5.2
+Matrix Adjoint, Minors and Cofactors
+. . . . . . . . . . . . . . . . . . .
+16
+1.5.3
+Properties of Determinants . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+1.6
+Matrix Inverses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+1.6.1
+Inverse Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+1.6.2
+Direct Method
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+1.6.3
+Adjoint Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+1.6.4
+Method of Elementary Row Operation(Gauss-Jordan Elimination Method) 26
+1.6.5
+Properties of Matrix Inverse . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+1.7
+Matrices Chapter Examples
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+1.8
+Matrices Chapter Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+2
+Simultaneous Linear Systems
+59
+2.1
+Solving Linear Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+2.2
+A Linear System of Equations . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+2.3
+Row Reduction to Echelon Form . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+2.3.1
+Methodology of Row Reduction for Solutions . . . . . . . . . . . . . . . .
+62
+2.4
+Existence of a Solution to a Linear System . . . . . . . . . . . . . . . . . . . . .
+65
+2.4.1
+Unique Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+67
+2.4.2
+No Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+2.4.3
+Infinitely Many Solutions . . . . . . . . . . . . . . . . . . . . . . . . . .
+72
+
+CONTENTS
+2.5
+Computer Algebra Systems
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+78
+2.6
+Input-Output Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+82
+2.7
+Analyzing Networks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+87
+2.8
+Algebra in Real World Problems . . . . . . . . . . . . . . . . . . . . . . . . . . .
+97
+2.9
+Linear Systems Chapter Examples . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+2.10 Linear Systems Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+3
+Vector Spaces and Vector Subspaces
+124
+3.1
+Vectors in Rn, Cn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+3.2
+Vector Arithmetic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+3.3
+Scalar Multiplication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+3.3.1
+Properties of Vector Addition . . . . . . . . . . . . . . . . . . . . . . . . 125
+3.3.2
+Properties of Scalar Multiplication (Product)
+. . . . . . . . . . . . . . . 125
+3.4
+Vector Spaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+3.4.1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+3.4.2
+Vector Space
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+3.5
+Vector Subspaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+3.6
+End of chapter Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+3.7
+Vector Spaces Chapter Examples
+. . . . . . . . . . . . . . . . . . . . . . . . . . 148
+4
+Linear Dependance and Independence
+149
+4.1
+Linear Combination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+4.2
+Spanning Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+4.3
+Linear Dependence and Independence . . . . . . . . . . . . . . . . . . . . . . . . 152
+4.4
+Linear Dependence and Independence Chapter Examples . . . . . . . . . . . . . 154
+4.5
+Linear Dependence and Independence Chapter Exercises
+. . . . . . . . . . . . . 175
+5
+Eigenvalues and Eigenvectors
+193
+5.1
+Eigenvalues & Corresponding Eigenvectors. . . . . . . . . . . . . . . . . . . . . . 194
+5.1.1
+Algebraic and Geometric Multiplicity of an Eigenvalue
+. . . . . . . . . . 201
+5.2
+Similar Matrices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+5.2.1
+Properties of Similar Matrices . . . . . . . . . . . . . . . . . . . . . . . . 205
+5.3
+Diagonisable Matrices
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+5.4
+Eigen Values and Eigen Vectors Chapter Examples
+. . . . . . . . . . . . . . . . 217
+5.4.1
+Proofs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+5.5
+Eigen Values and Eigen Vectors Chapter Exercises . . . . . . . . . . . . . . . . . 240
+6
+Linear Algebra By Python
+246
+ddumba & musisi
+Page of 246
+mth2206: lecture notes
+
+Chapter 1
+Matrices
+1.1
+Definitions
+Definition 1.1.1 An m × n matrix is a rectangular array of m × n numbers arranged in m
+horizontal rows and n vertical columns enclosed in brackets. These numbers in the matrix are
+called elements (entries) of the matrix. Matrices are always denoted by capital letters(block
+letters) while matrix entries are denoted by small letters. A matrix A can be generally written
+as
+A =
+
+
+
+
+
+
+
+
+
+
+a11
+a12
+· · ·
+a1n
+a21
+a22
+· · ·
+a2n
+...
+· · ·
+...
+· · ·
+...
+· · ·
+am1
+am2
+. . .
+amn
+
+
+
+
+
+
+
+
+
+
+or A =
+
+
+a11
+a12
+· · ·
+a1n
+a21
+a22
+· · ·
+a2n
+...
+· · ·
+...
+· · ·
+...
+· · ·
+am1
+am2
+. . .
+amn
+
+
+Or more briefly (for notation) we have that A = (aij) or B = (bij) where aij (respectively bij)
+is an entry in the ith row and jth column of A (respectively B).
+Definition 1.1.2 Square Matrix:
+An m × n matrix A denoted by Am×n or Amn is said to be square if m = n (that is the number
+of rows is equal to the number of columns).
+Definition 1.1.3 Equality of Matrices:
+If two matrices A = (aij) and B = (bij) are both m × n then they are said to be equal if and
+only if all corresponding entries of A and B are the same that is
+aij = bij, ∀1 ≤i ≤m, 1 ≤j ≤n.
+Example 1.1.1
+Let
+A =
+ a11
+a12
+a21
+a22
+
+and
+B =
+ 4
+0
+3
+−1
+
+.
+Then
+A = B if and only if
+a11 = 4,
+a12 = 0,
+a21 = 3,
+a22 = −1.
+Example 1.1.2
+The following matrices are all different. Explain!
+ 1
+3
+4
+2
+
+ 4
+2
+1
+3
+
+ 4
+1
+2
+3
+
+ 1
+3
+0
+4
+2
+0
+
+ 0
+1
+3
+0
+4
+2
+
+1
+
+1.1. DEFINITIONS
+Definition 1.1.4 Matrix Transpose:
+Let A = (aij) be an m × n matrix, then the transpose of A denoted by At or AT or A′ is an
+n × m matrix obtained from matrix A by interchanging its rows with columns.
+In the (aij) notation we have that AT = (aij)T where (aij)T = (aji) ∀i, j. We can also write
+AT = (aji).
+Note 1.1.1 The transpose of matrix A is determined by interchanging the rows with columns
+of A that is if A is an n × m matrix then the transpose of A, denoted by AT, is an m × n
+matrix that is obtained by interchanging the rows and columns of A. So, the first row of AT is
+the first column of A, the second row of AT is the second column of A, etc. Likewise, the first
+column of AT is the first row of A, the second column of AT is the second row of A, etc.
+Example 1.1.3
+The transpose of a general 3 × 3 matrix
+A =
+
+
+a11
+a12
+a13
+a21
+a22
+a23
+a31
+a32
+a33
+
+is AT =
+
+
+a11
+a21
+a31
+a12
+a22
+a32
+a13
+a23
+a33
+
+
+Example 1.1.4
+The transpose of the matrix A given by,
+A =
+
+
+2
+3
+7
+5
+6
+8
+0
+1
+−1
+
+is AT =
+
+
+2
+5
+0
+3
+6
+1
+7
+8
+−1
+
+
+Definition 1.1.5 Symmetric Matrices:
+A square matrix A is said to be symmetric if its transpose matrix AT is equal to A that is
+AT = A.
+Example 1.1.5
+Matrix A in Example 1.1.4 is not symmetric since A ̸= AT.
+Example 1.1.6
+Let A =
+
+
+1
+2
+3
+2
+3
+4
+3
+4
+5
+
+, then AT =
+
+
+1
+2
+3
+2
+3
+4
+3
+4
+5
+
+. Hence AT = A, implying
+that A is symmetric.
+Example 1.1.7
+The matrix A =
+ −7
+4
+4
+−6
+
+is symmetric.
+Definition 1.1.6 Anti-Symmetric Matrices:
+A matrix A is said to be anti-symmetric (sometimes called skew-symmetric) if AT = −A.
+Example 1.1.8
+Let
+B =
+
+
+0
+1
+−2
+−1
+0
+3
+2
+−3
+0
+
+then BT =
+
+
+0
+−1
+2
+1
+0
+−3
+−2
+3
+0
+
+
+Thus BT = −B and B is anti-symmetric (skew symmetric).
+Remark 1.1.1
+Symmetric and Skew Symmetric Matrices
+1.) Given any matrix A, the matrices AAT and ATA are symmetric.
+ddumba & musisi
+Page 2 of 246
+mth2206: lecture notes
+
+1.1. DEFINITIONS
+2.) Let A be a square matrix. The matrix A + AT is symmetric.
+3.) Let A be a square matrix. The matrix A −AT is skew symmetric.
+Definition 1.1.7 Identity or Unit matrix:
+An identity matrix is an (n × n) square matrix whose leading diagonal is composed of 1’s and
+all other off diagonal elements are zeros. An identity matrix is of the form,
+In =
+
+
+
+
+
+
+
+
+1
+0
+. . .
+0
+0
+1
+. . .
+0
+·
+·
+·
+0
+0
+. . .
+1
+
+
+
+
+
+
+
+
+=
+
+
+
+aij = 1,
+∀i = j
+aij = 0,
+∀i ̸= j
+usually denoted as In or I with a nice property that I · A = A · I = A where A is an n × n
+matrix.
+Example 1.1.9
+The following is a 2 × 2 identity matrix
+I2 =
+1
+0
+0
+1
+
+Example 1.1.10
+The following is a 3 × 3 identity matrix
+I3 =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+
+
+Example 1.1.11
+The following is a 1 × 1 identity matrix
+I1 = 1
+Example 1.1.12
+The following is a 4 × 4 identity matrix
+I4 =
+
+
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+
+
+Example 1.1.13
+Check the following matrix is Identity matrix?
+V =
+
+
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+
+
+Solution :
+No, It’s not an identity matrix, because it is of the order 3 × 4, which
+is not a square matrix.
+■
+ddumba & musisi
+Page 3 of 246
+mth2206: lecture notes
+
+1.2. OTHER SPECIAL TYPES OF MATRICES
+1.2
+Other Special Types of Matrices
+1.2.1
+Diagonal Matrix
+Definition 1.2.1
+A square matrix A = (aij) is said to be a diagonal if
+aij = 0 ∀i ̸= j.
+This means that off diagonal elements are all equal to zero.
+Definition 1.2.2
+A diagonal matrix is an n × n matrix in which the only nonzero entries lie
+on the diagonal.
+Example 1.2.1
+The matrices
+
+
+2
+0
+0
+0
+3
+0
+0
+0
+−1
+
+and
+
+
+6
+0
+0
+0
+0
+0
+0
+0
+0
+
+are diagonal matrices.
+1.2.2
+Tri-Diagonal Matrix
+Definition 1.2.3 A square matrix A = (aij) is said to be a tri-diagonal if aij = 0 for |i−j| ≥2,
+that is if every element in the ith row and jth column is zero when the absolute difference between
+i and j is greater or equal to two.
+Example 1.2.2
+A general 3 × 3 tri-diagonal matrix is of the form
+A =
+
+
+a11
+a12
+0
+a21
+a22
+a23
+0
+a32
+a33
+
+
+Example 1.2.3
+The matrix A =
+
+
+1
+3
+0
+2
+1
+5
+0
+1
+−1
+
+is a tri-diagonal matrix.
+1.2.3
+Triangular Matrix
+Definition 1.2.4 A triangular matrix is a square matrix whose non-zero elements lie on the
+diagonal, and all the zero entries are either above or below the diagonal.
+Example 1.2.4 The matrices A =
+
+
+1
+0
+0
+2
+3
+0
+4
+2
+−1
+
+and B =
+
+
+0
+0
+1
+0
+3
+2
+0
+0
+−1
+
+are triangular matrices.
+1.2.3.1
+Upper Triangular Matrix
+Definition 1.2.5
+An upper triangular matrix is a type of triangular matrix A = (aij) where
+aij = 0 ∀i > j.
+Definition 1.2.6 An upper triangular matrix is a matrix in which any non-zero entries lie on
+or above the diagonal.
+ddumba & musisi
+Page 4 of 246
+mth2206: lecture notes
+
+1.2. OTHER SPECIAL TYPES OF MATRICES
+Example 1.2.5
+A general n × n upper triangular matrix is of the form,
+
+
+a11
+a12
+. . .
+a1n
+0
+a22
+. . .
+a2n
+·
+·
+·
+0
+0
+. . .
+ann
+
+
+Example 1.2.6
+Matrix B in Example 1.2.4 on page (p. 4) is an upper triangular matrix.
+Example 1.2.7
+Examples of upper triangular matrices are
+C =
+
+
+1
+1
+2
+3
+0
+0
+5
+0
+1
+0
+0
+4
+−2
+0
+0
+0
+3
+
+,
+D =
+
+
+3
+2
+6
+7
+0
+6
+6
+8
+0
+0
+2
+4
+0
+0
+0
+1
+
+,
+E =
+
+
+1
+4
+1
+0
+6
+4
+0
+0
+1
+
+
+Example 1.2.8
+The matrix below is an upper triangular matrix
+A =
+
+
+6
+1
+4
+3
+2
+0
+0
+1
+4
+2
+0
+0
+1
+3
+4
+0
+0
+0
+0
+4
+0
+0
+0
+0
+4
+
+
+1.2.3.2
+Lower Triangular Matrix
+Definition 1.2.7
+Let A = (aij) be a square matrix then the matrix A is said to be lower
+triangular if
+aij = 0, ∀i < j.
+Definition 1.2.8
+A lower triangular matrix is a matrix in which any nonzero entries lie on
+or below the diagonal.
+Example 1.2.9
+They generally take the form,
+
+
+a11
+0
+. . .
+0
+0
+a21
+a22
+0
+. . .
+0
+·
+·
+·
+an1
+an2
+an3
+. . .
+ann
+
+
+Example 1.2.10
+See matrix A in Example 1.2.4 on page (p. 4) is a lower triangular matrix.
+Example 1.2.11
+Examples of lower triangular matrices are
+F =
+
+
+1
+0
+0
+4
+2
+0
+6
+5
+1
+
+,
+G =
+
+
+1
+0
+0
+2
+8
+0
+4
+9
+7
+
+,
+H =
+
+
+6
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+3
+1
+0
+0
+6
+2
+4
+0
+0
+2
+4
+5
+8
+4
+
+
+ddumba & musisi
+Page 5 of 246
+mth2206: lecture notes
+
+1.2. OTHER SPECIAL TYPES OF MATRICES
+Example 1.2.12
+The matrix
+A =
+
+
+1
+2
+3
+4
+0
+0
+3
+4
+0
+0
+0
+5
+
+
+is neither upper nor lower Triangular matrix because it is not a square matrix.
+1.2.4
+Idempotent Matrix
+Definition 1.2.9
+A matrix A = (aij) is said to be idempotent if
+A2 = AA = A
+Example 1.2.13
+A =
+ 3
+−6
+1
+−2
+
+is an idempotent matrix.
+Example 1.2.14
+Examples of idempotent matrices are idempotent matrices are:
+B =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+
+,
+C =
+
+
+2
+−2
+−4
+−1
+3
+4
+1
+−2
+−3
+
+,
+D =
+ 1
+0
+0
+1
+
+Exercise 1.2.1
+Show that the matrix
+
+
+1
+−2
+−4
+−1
+3
+4
+1
+−2
+−3
+
+is not an idempotent matrix.
+Exercise 1.2.2 Is the matrix A = 1
+2
+ 1 −cos θ
+sin θ
+sin θ
+1 + cos θ
+
+idempotent? Justify your answer.
+1.2.5
+Invertible or Non-Singular Matrix
+Definition 1.2.10
+A square matrix A = (aij) is non-singular or invertible if and only if ∃an
+n × n matrix denoted by A−1 such that
+AA−1 = A−1A = I.
+Note 1.2.1
+I is the identity matrix, and A−1 will later be called the inverse of A.
+Remark 1.2.1
+If A−1 does not exist then we say that A is singular or non invertible.
+ddumba & musisi
+Page 6 of 246
+mth2206: lecture notes
+
+1.2. OTHER SPECIAL TYPES OF MATRICES
+Example 1.2.15
+Consider the matrices A, B, C and I4, as well as their transposes, where
+A =
+
+
+1
+2
+3
+0
+4
+5
+0
+0
+6
+
+
+B =
+
+
+3
+0
+0
+0
+7
+0
+0
+0
+−1
+
+
+C =
+
+
+1
+2
+3
+0
+4
+5
+0
+0
+6
+0
+0
+0
+
+.
+Identify the diagonal of each matrix, and state whether each matrix is diagonal, upper triangular,
+lower triangular, or none of the above.
+We first compute the transpose of each matrix.
+AT =
+
+
+1
+0
+0
+2
+4
+0
+3
+5
+6
+
+
+BT =
+
+
+3
+0
+0
+0
+7
+0
+0
+0
+−1
+
+
+CT =
+
+
+1
+0
+0
+0
+2
+4
+0
+0
+3
+5
+6
+0
+
+
+Note that IT
+4 = I4.
+The diagonals of A and AT are the same, consisting of the entries 1, 4 and 6. The diagonals of
+B and BT are also the same, consisting of the entries 3, 7 and −1. Finally, the diagonals of C
+and CT are the same, consisting of the entries 1, 4 and 6.
+The matrix A is upper triangular; the only nonzero entries lie on or above the diagonal.
+Likewise, AT is lower triangular.
+The matrix B is diagonal. By their definitions, we can also see that B is both upper and lower
+triangular. Likewise, I4 is diagonal, as well as upper and lower triangular.
+Finally, C is upper triangular, with CT being lower triangular.
+Remark 1.2.2
+Make note of the definitions of diagonal and triangular matrices. We specify
+that a diagonal matrix must be square, but triangular matrices don’t have to be. (“Most”
+of the time, however, the ones we study are.) Also, as we mentioned before in the example,
+by definition a diagonal matrix is also both upper and lower triangular. Finally, notice that
+by definition, the transpose of an upper triangular matrix is a lower triangular matrix, and
+vice-versa.
+Example 1.2.16
+For the matrix A =
+
+
+6
+−7
+2
+6
+0
+−8
+−1
+0
+0
+0
+1
+−7
+
+, A is upper triangular and AT is
+lower triangular.
+Example 1.2.17
+The matrix A =
+
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+is upper and lower triangular, it is diagonal,
+it is both symmetric and skew symmetric. It’s got it all.
+ddumba & musisi
+Page 7 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+1.3
+Operations on Matrices
+1.3.1
+Addition and Scalar Multiplication of matrices
+Definition 1.3.1
+Let A and B be matrices of the same size. The sum of A and B, written
+A + B is the matrix whose ij-th entry is aij + bij.
+Let A = (aij),
+B = (bij). Then
+C = A + B
+=
+(cij) = (aij + bij).
+(1.1)
+Note 1.3.1
+Note that cij = bij + aij and so A + B = B + A.
+Remark 1.3.1
+Also if 0 is the zero matrix, then
+0 + A = A + 0 = A
+for any matrix A.
+Definition 1.3.2 Scalar multiplication of a matrix;
+Let A = (aij) be an m × n matrix. Multiplying through matrix A by a scalar α, you get
+αA
+=
+α(aij) = (αaij).
+(1.2)
+This is equivalent to multiplying each entry of matrix A with the scalar α.
+Alternatively: Let k be a scalar. Then kA is a matrix whose ij-entry is kaij Therefore
+kA = (kaij).
+Example 1.3.1
+For example, (−1)A = (−aij) and
+A + (−1)A = A −A = 0
+Example 1.3.2
+Let
+A =
+
+1
+2
+3
+−1
+0
+2
+
+and B =
+ −1
+5
+−2
+2
+2
+−1
+
+.
+Find
+1.) A + 2B =
+
+1
+2
+3
+−1
+0
+2
+
++
+ −2
+10
+−4
+4
+4
+−2
+
+=
+ −1
+12
+−1
+3
+4
+0
+
+2.) 3A′ −B′ =
+
+
+3
+−3
+6
+0
+9
+6
+
+−
+
+
+−1
+2
+5
+2
+−2
+−1
+
+=
+
+
+4
+−5
+1
+−2
+11
+7
+
+
+3.)
+(3A −B)′
+=
+
+3
+6
+9
+−3
+0
+6
+
+−
+ −1
+5
+−2
+2
+2
+−1
+′
+=
+
+4
+1
+11
+−5
+−2
+7
+′
+=
+
+
+4
+−5
+1
+−2
+11
+7
+
+
+Note that 3A′ −B′ = (3A −B)′.
+Remark 1.3.2
+Subtraction of two matrices A and B is defined using addition and scalar
+multiplication that is: A −B = A + (−1)B.
+ddumba & musisi
+Page 8 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+Theorem 1.3.1
+Let A and B be matrices of the same size whose entries are in a field F and
+s, t be scalars. Then
+(sA + tB)′ = sA′ + tB′.
+Proof :
+Let
+D
+=
+sA + tB = (saij + tbij)
+Then D′
+=
+(sA + tB)′ = (dji)
+where
+dji
+=
+saji + tbji
+recall that A′
+=
+(aji) and B′ = (bji)
+Then
+sA′ + tB′
+=
+(saji + tbji) = dji
+Thus the ji-entry of D′ is equal to the ji-entry of SA′+tB′ for all i and j. Therefore
+D′ = (SA + tB)′ = SA′ + tB′.
+■
+Exercise 1.3.1
+Solve the following matrix equation for a, b, c and d.
+
+a −b
+b + c
+3d + c
+2a −4d
+
+=
+ 8
+1
+7
+6
+
+a = 5, b = −3,
+c = 4,
+d = 1
+Example 1.3.3
+Let A =
+ 1
+−3
+2
+6
+
+and B =
+
+7
+4
+−5
+8
+
+. Find A + B + (A + B)′
+Note that A + A′ =
+
+2
+−1
+−1
+12
+
+and B + B′ =
+ 14
+−1
+−1
+16
+
+So that
+A + B + (A + B)′ = A + A′ + B + B′ =
+ 16
+−2
+−2
+28
+
+Alternatively use
+A + B
+=
+
+8
+1
+−3
+14
+
+⇒
+(A + B) + (A + B′)
+=
+
+8
+1
+−3
+14
+
++
+ 8
+−3
+1
+14
+
+=
+ 16
+−2
+−2
+28
+
+Note that, the sums A + A′,
+B + B′ are symmetric matrices.
+Theorem 1.3.2
+Let A be a square matrix. Then A + A′ is symmetric.
+Proof :
+Let A
+=
+(aij).
+Then A′ = (aji)
+Now A + A′
+=
+(aij + aji)
+Clearly
+aij + aji = bji = aji + aji ∀i, j
+it follows that A + A′ is symmetric.
+■
+ddumba & musisi
+Page 9 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+Theorem 1.3.3 Let A, B and C be matrices and s and t scalars in a field F. Then
+1) A + B = B + A (Addition of matrices obeys the commutativity law)
+2) (A + B) + C = A + (B + C) (Addition of matrices satisfies the Associative law).
+Proof :
+Let A = (aij) and B = (bij), C = (cij). Then by definition
+A + B
+=
+(aij + bij)
+(A + B) + C
+=
+((aij + bij) + cij)
+By associativity of scalars, (aij + bij) + cij = aij + (bij + cij)
+So
+(A + B) + C
+=
+(aij + (bij + cij))
+=
+(aij) + (bij + cij)
+=
+A + (B + C)
+■
+3) A + 0 = A (Additive identity)
+4) A + (−A) = 0 (Additive inverse)
+5) (st)A = s(tA) (commutative law)
+6) (s + t)A = sA + tA (distributive law)
+7) t(A + B) = tA + tB (distributive law)
+8) 1 · A = A (1 is a multiplicative identity)
+Exercise 1.3.2
+Prove Theorem 1.3.3
+1.3.2
+Multiplication of Matrix by Matrix
+Definition 1.3.3 The product C = AB (in this order) of an m × n matrix A = [ajk] times an
+r × p matrix B = [bjk] is defined if and only if r = n and is then the m × p matrix C = [cjk]
+with entries
+cjk
+=
+n
+X
+l=1
+ajlblk = aj1b1k + aj2b2k + aj3b3k + · · · + ajnbnk
+j
+= 1, · · · , m
+k
+= 1, · · · , p.
+(1.3)
+Example 1.3.4 (Please verify)
+Let A
+=
+ 4
+−1
+0
+2
+
+and
+B =
+ 1
+4
+2
+3
+1
+5
+
+Then AB
+=
+ 4
+−1
+0
+2
+  1
+4
+2
+3
+1
+5
+
+=
+ 1
+15
+3
+6
+2
+10
+
+and BB′
+=
+ 1
+4
+2
+3
+1
+5
+ 
+
+1
+3
+4
+1
+2
+5
+
+=
+ 21
+17
+17
+35
+
+ddumba & musisi
+Page 10 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+Example 1.3.5 Matrix Multiplication
+AB =
+
+
+3
+5
+−1
+4
+0
+2
+−6
+−3
+2
+
+
+
+
+2
+−2
+3
+1
+5
+0
+7
+8
+9
+−4
+1
+1
+
+=
+
+
+22
+−2
+43
+42
+26
+−16
+14
+6
+−9
+4
+−37
+−28
+
+
+Here c11 = 3(2)+5(5)+(−1)(9) = 22 and so on. The entry in the box is c23 = 4(3)+0(7)+2(1) =
+14. The product BA is not defined.
+Example 1.3.6
+Multiplication of a Matrix and a Vector
+1.)
+ 4
+2
+1
+8
+  3
+5
+
+=
+ 4(3) + 2(5)
+1(3) + 8(5)
+
+=
+ 22
+43
+
+2.) Whereas
+ 3
+5
+  4
+2
+1
+8
+
+is undefined.
+Example 1.3.7
+Products of Row and Column Vectors
+1.)
+
+3
+6
+1
+
+
+
+1
+2
+4
+
+= [19]
+2.)
+
+
+1
+2
+4
+
+
+3
+6
+1
+
+=
+
+
+3
+6
+1
+6
+12
+2
+12
+24
+4
+
+.
+Example 1.3.8
+
+1
+1
+100
+100
+  −1
+1
+1
+−1
+
+=
+ 0
+0
+0
+0
+
+but
+ −1
+1
+1
+−1
+ 
+1
+1
+100
+100
+
+=
+
+99
+99
+−99
+−99
+
+.
+It is interesting that this also shows that AB = 0 does not necessarily imply BA = 0 or A = 0
+or B = 0.
+Example 1.3.9
+Computing Products Columnwise
+To obtain
+AB =
+
+4
+1
+−5
+2
+ 
+3
+0
+7
+−1
+4
+6
+
+=
+
+11
+4
+34
+−17
+8
+−23
+
+Calculate the columns
+
+4
+1
+−5
+2
+ 
+3
+−1
+
+=
+
+11
+−17
+
+,
+
+4
+1
+−5
+2
+  0
+4
+
+=
+ 4
+8
+
+,
+
+4
+1
+−5
+2
+  7
+6
+
+=
+
+34
+−23
+
+of AB and then write them as a single matrix, as shown in the first formula on the right.
+ddumba & musisi
+Page 11 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+Example 1.3.10
+Let A =
+
+
+3 + 2i
+0
+−i
+2
+1 + i
+1 −i
+
+, B =
+ −i
+2
+0
+i
+
+and C =
+ −1 −i
+0
+−i
+3
+2i
+−5
+
+.
+Then
+BC
+=
+ 5 + i
+4i −11
+3i −2
+−5i
+
+CA
+=
+ −23 −25i
+−1 −i
+69 −5i
+−5 + 9i
+
+and (1 + i)AB + (3 −4i)C′
+=
+
+
+25 −7i
+57 + 36i
+−1 −i
+−8 −6i
+6 + 3i
+−15 + 26i
+
+
+Theorem 1.3.4 Let A, B and C be conformable matrices over a field F and k a scalar.
+Then
+1) (AB)C = A(BC) (Associative property)
+Proof :
+Let D = AB and E = BC
+Then by definition,
+D
+=
+(dij)
+where dij =
+X
+k
+aikbkj
+and E
+=
+(eij)
+where eij =
+X
+k′
+bik′ck′j
+Thus
+F
+=
+(fij) = DC = (AB)C
+where fij
+=
+X
+k
+dikckj =
+X
+k
+"X
+i′
+aii′bi′k
+#
+ckj
+=
+X
+i
+aii′
+X
+k
+bi′kCkj
+=
+X
+i
+aii′ei′j
+Therefore F
+=
+(fij) = AE = A(BC)
+■
+2) A(B + C) = AB + AC (Distributive property)
+3) (B + C)A = BA + CA
+4) k(AB) = (kA)B = A(kB)
+Remark 1.3.3
+For AB = 0, a zero matrix, does not mean that A = 0 or B = 0 or both.
+Example 1.3.11 Let A =
+ 1
+2
+3
+−1
+
+and B =
+ 2
+0
+1
+1
+
+. Then
+AB
+=
+ 1
+2
+3
+−1
+  2
+0
+1
+1
+
+=
+ 4
+2
+5
+−1
+
+and
+BA
+=
+ 2
+0
+1
+1
+  1
+2
+3
+−1
+
+=
+ 2
+4
+4
+1
+
+ddumba & musisi
+Page 12 of 246
+mth2206: lecture notes
+
+1.3. OPERATIONS ON MATRICES
+Note 1.3.2
+In general, Matrix multiplication is not commutative; that is, AB ̸= BA.
+In
+general, just because AX = BX, we cannot conclude that A = B. The commutativity AB = BA
+is possible only if when the matrices are equal or when the matrices A and B commute.
+Example 1.3.12
+For conformable matrices A and B, consider
+(A −B)(A + B) = A2 −B2 + AB −BA
+Then
+(A −B)(A + B)
+=
+A2 −B2
+(1.4)
+if and only if A and B commute thus AB = BA. Note that the equality is always true for
+scalars.
+Exercise 1.3.3
+Let X =
+ 1
+4
+2
+3
+1
+5
+
+and Y =
+
+
+1
+5
+2
+−1
+0
+1
+3
+2
+4
+
+⇒
+XY ′ =
+ 25
+1
+19
+18
+2
+31
+
+.
+Find directly Y ′X and compare it with XY ′ above.
+Definition 1.3.4
+Let A be a square matrix. The powers of A are defined as
+A0 = I,
+A1 = A,
+A2 = AA,
+A2A, . . .
+Let f(x) be a polynomial. Then
+f(x)
+=
+a0 + a1x + a2x2 + . . . + anxn
+and f(A)
+=
+a0I + a1A + a2A2 + . . . + anAn
+If f(A) = 0,
+A is called the root or zero of the polynomial f(x).
+Example 1.3.13
+Let A =
+ 2
+2
+3
+−1
+
+and f(x) = x2 −x −8. Then A2 =
+ 10
+2
+3
+7
+
+and
+A3 =
+ 26
+18
+27
+−1
+
+. So
+f(A)
+=
+A2 −A −8I =
+ 10
+2
+3
+7
+
+−
+ 2
+2
+3
+−1
+
+−
+ 8
+0
+0
+8
+
+=
+ 0
+0
+0
+0
+
+.
+Therefore A is the zero of f(x).
+Example 1.3.14
+Let A =
+ 2
+−1
+3
+6
+
+. Find the matrix X such that 2A + 3X = −4A..
+We can use basic algebra techniques to manipulate this equation
+X = −2A =
+ −4
+2
+−6
+−12
+
+.
+1.3.3
+Trace of a Square Matrix
+Definition 1.3.5 Let A be an n × n square matrix, the trace of A denoted by tr(A) is the
+sum of all diagonal elements of A. That is, trace(A) =
+nP
+i=1
+aii
+Example 1.3.15 Let A =
+ 1
+2
+0
+3
+−1
+4
+
+Then AA′ =
+ 5
+1
+1
+26
+
+⇒
+tr(AA′) = 31,
+A′A =
+
+
+10
+−1
+12
+−1
+5
+−4
+12
+−4
+16
+
+
+⇒
+tr(A′A) = 31
+ddumba & musisi
+Page 13 of 246
+mth2206: lecture notes
+
+1.4. PROPERTIES OF MATRICES OPERATIONS
+Theorem 1.3.5 Let A and B be conformable matrices. Then tr(AB) = tr(BA).
+Let C
+=
+AB = (Cij) where Cij =
+X
+k
+aikbkj
+Then tr(C)
+=
+tr(AB) =
+X
+i
+Cii =
+X
+i
+X
+k
+aikbki
+Similarly let D
+=
+BA
+Then tr(D)
+=
+X
+i
+X
+k
+bikaki
+(why?) =
+X
+i
+X
+k
+akibik
+(Why?) = tr(C)
+Thus tr(AB)
+=
+tr(BA)
+1.4
+Properties of Matrices Operations
+1.4.1
+Properties of Matrix Addition and Scalar Multiplication
+1. A + B = B + A. i.e Matrix addition is commutative
+2. A + (B + C) = (A + B) + C. i.e Associativity of matrix addition
+3. A + 0 = 0 + A = A. where 0 is a zero matrix, a matrix with zero entries.
+4. A + (−A) = 0 where −A = (−1)A
+1.4.2
+Properties of Matrix Multiplication
+5. A(BC) = (AB)C. Associativity of matrix multiplication.
+6. A(B + C) = AB + AC. Distributivity from the left.
+7. (A + B)C = AC + BC. Distributivity from the right.
+8. α(βA) = αβ(A). where α, β are scalars.
+9. α(A + B) = αA + αB.
+10. A(αB) = α(AB) = (αA)B.
+1.4.3
+Properties of Matrix Transpose
+11. (AT)T = A.
+12. (A + B)T = AT + BT.
+13. (AB)T = BTAT.
+14. (αA)T = αAT.
+1.4.4
+Properties of the Matrix Trace
+Let A and B be n × n matrices. Then:
+15. tr(A ± B) = tr(A) ± tr(B)
+16. tr(kA) = k· tr(A)
+17. tr(AB) = tr(BA)
+18. tr(AT) = tr(A)
+ddumba & musisi
+Page 14 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+1.5
+Determinants
+The determinant of an n × n matrix is the signed volume spanned by its column vectors. To
+compute the determinant of any square matrix, one can use any of the two methods, namely
+1.) Permutations - Inversion technique/method and the
+2.) Cofactor method.
+1.5.1
+Permutations and Inversion of a Permutation
+Definition 1.5.1 Permutation
+Let S = {1, 2, . . . , n} be a set containing the first n natural numbers. An ordered arrangement
+< i1i2 . . . in > of elements of set S is called a permutation of S.
+Example 1.5.1
+The permutations for S = {1, 2, 3} are
+< 123 >,
+< 132 >, < 213 >, < 231 >, < 312 >, and < 321 >
+Exercise 1.5.1
+Write down the permutations for S = {1, 2, 3, 4}
+Note 1.5.1
+A set of n elements has n! permutations.
+Note 1.5.2
+We denote the set of all permutations of set S by Sn where n is the number of
+elements in the set S, and thus
+S1
+=
+{< 1 >}
+S2
+=
+{< 12 > < 21 >}
+S3
+=
+{< 123 > < 132 > < 213 > < 231 > < 312 > < 321 >}
+Definition 1.5.2 Inversion of Permutation
+A permutation < i1i2 . . . in > of set S is said to have an inversion if a larger integer it precedes
+(comes before) a smaller integer is. For example < 12 > has no inversion, < 21 > has one
+inversion because a larger number 2 comes before 1, < 321 > has three inversions, < 2, 3, 1 >
+has two inversions, and < 1, 2, 3 > has no inversions.
+Definition 1.5.3
+Even and Odd Permutation
+A permutation is even or odd depending on the total number of inversions, either even or
+odd.(Here we do consider zero to be even).
+Example 1.5.2
+The < 1, 2 > is an even permutation since it has no inversion, where as
+< 1, 3, 2 > is an odd permutation since it has one inversion.
+Definition 1.5.4 Determinant
+If A = (aij) is an n × n matrix, the determinant of A denoted as |A| or det(A) is defined by
+|A| =
+X
+σ
+±a1i1a2i2 . . . anin
+where the σ denotes all permutations < i1 i2 . . . in > in the set S = {1, 2, . . . , n} (i.e the ij to
+be substituted in the formula should be [in their order] got from each permutation).
+ddumba & musisi
+Page 15 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+Note 1.5.3
+Also that the + sign in the summation is taken when permutation is even, or −
+when the permutation is odd.
+Example 1.5.3 For n = 2 with A =
+ a11
+a12
+a21
+a22
+
+and S2 = {< 1, 2 > < 2, 1 >} the determinant
+of A is
+|A|
+=
+Σ ± a1i1a2i2 = +a11a22 −a12a21
+(1.5)
+Example 1.5.4
+For n = 3, where A =
+
+
+a11
+a12
+a13
+a21
+a22
+a23
+a31
+a32
+a33
+
+and
+S3 = {< 123 > < 132 > < 213 > < 231 > < 312 >< 321 >},
+then
+|A|
+=
+Σ ± a1i1a2i2a3i3
+=
++a11a22a33 −a11a23a32 −a12a21a33 + a12a23a31 + a13a21a32 −a13a22a31
+(1.6)
+Example 1.5.5 The determinant of A =
+ 1
+2
+3
+7
+
+is
+|A| = +a11a22 −a12a21 = (1)(7) −(2)(3) = 1.
+Example 1.5.6
+Given A =
+
+
+1
+2
+0
+3
+0
+1
+3
+3
+4
+
+compute |A|.
+Solution
+= |A|
+=
+Σ ± a1i1a2i2a3i3
+=
++a11a22a33 −a11a23a32 −a12a21a33 + a12a23a31 + a13a21a32 −a13a22a31
+⇒|A|
+=
+(1)(0)(4) −(1)(1)(3) −(2)(3)(4) + (2)(1)(3) + (0)(3)(3) −(0)(0)(3) = −21
+1.5.2
+Matrix Adjoint, Minors and Cofactors
+Definition 1.5.5 If A = (aij) is an n×n then Mij will denote (n−1)×(n−1) matrix obtained
+from A by deleting its ith row and jth column.
+Its determinant which we denote by |Mij| is called the minor of the element aij of A.
+Definition 1.5.6 The Cofactor of aij denoted by Cij is given by
+Cij = (−1)i+j|Mij|
+Example 1.5.7 Given A =
+
+
+1
+2
+3
+3
+2
+1
+2
+0
+2
+
+. Find all the cofactors of the matrix A.
+C11
+=
+(−1)1+1
+
+2
+1
+0
+2
+ = (1)(4) = 4
+C12
+=
+(−1)1+2
+
+3
+1
+2
+2
+ = (−1)(4) = −4
+ddumba & musisi
+Page 16 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+C13
+=
+(−1)1+3
+
+3
+2
+2
+0
+ = (1)(−4) = −4
+C21
+=
+(−1)2+1
+
+2
+3
+0
+2
+ = (−1)(4) = −4
+C22
+=
+(−1)2+2
+
+1
+3
+2
+2
+ = (1)(−4) = −4
+C23
+=
+(−1)2+3
+
+1
+2
+2
+0
+ = (−1)(−4) = 4
+C31
+=
+(−1)3+1
+
+2
+3
+2
+1
+ = (1)(−4) = −4
+C32
+=
+(−1)3+2
+
+1
+3
+3
+1
+ = (−1)(8) = 8
+C33
+=
+(−1)3+3
+
+1
+2
+3
+2
+ = (1)(−4) = −4
+Then the cofactor matrix of A is
+
+
+C11
+C12
+C13
+C21
+C22
+C23
+C31
+C32
+C33
+
+=
+
+
+4
+−4
+−4
+−4
+−4
+4
+−4
+8
+−4
+
+
+Definition 1.5.7 Determinant
+Suppose that A = (aij) is an n × n matrix, and let Cij denote the cofactor of the element aij
+with i, j = 1, 2, . . . , n then
+(1)
+|A| =
+n
+X
+k=1
+akjCkj
+That is summing along the jth column.
+(2)
+|A| =
+n
+X
+k=1
+aikCik
+That is summing along the ith row.
+Example 1.5.8
+Compute the determinant of the matrix A =
+
+
+1
+2
+3
+3
+2
+1
+2
+0
+2
+
+.
+But we know (Example 1.5.7) that the cofactor matrix of A is
+
+
+4
+−4
+−4
+−4
+−4
+4
+−4
+8
+−4
+
+Summing
+along the
+1st column ⇒|A|
+=
+(1)(4) + (3)(−4) + (2)(−4) = −16
+2nd column ⇒|A|
+=
+(2)(−4) + (2)(−4) + (0)(8) = −16
+3rd column ⇒|A|
+=
+(3)(−4) + (1)(−4) + (2)(−4) = −16
+1st row ⇒|A|
+=
+(1)(4) + (2)(−4) + (3)(−4) = −16
+2nd row ⇒|A|
+=
+(3)(−4) + (2)(−4) + (1)(4) = −16
+3rd row ⇒|A|
+=
+(2)(−4) + (0)(8) + (2)(−4) = −16
+ddumba & musisi
+Page 17 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+Same value of determinant no matter which row or column you consider. But preferably a row
+or column with more zeros is better.
+Definition 1.5.8
+Adjoint
+The transpose of the cofactor matrix of A is the adjoint of the matrix A. It is usually denoted
+by adj(A). For A =
+
+
+a11
+a12
+. . .
+a1n
+a21
+a22
+. . .
+a2n
+·
+·
+·
+an1
+an2
+. . .
+ann
+
+
+, the Cofactor Matrix is
+
+
+C11
+C12
+. . .
+C1n
+C21
+a22
+. . .
+C2n
+·
+·
+·
+Cn1
+Cn2
+. . .
+Cnn
+
+
+Thus
+Adj(A) =
+
+
+C11
+C21
+. . .
+Cn1
+C12
+C22
+. . .
+Cn2
+·
+·
+·
+C1n
+C2n
+·
+Cnn
+
+
+Example 1.5.9
+Compute the adjoint of the matrix A =
+
+
+1
+2
+3
+3
+2
+1
+2
+0
+2
+
+. The cofactor matrix
+of A is
+
+
+4
+−4
+−4
+−4
+−4
+4
+−4
+8
+−4
+
+⇒adj(A) =
+
+
+4
+−4
+−4
+−4
+−4
+8
+−4
+4
+−4
+
+
+1.5.3
+Properties of Determinants
+1) |AT| = |A|.
+2) Interchanging two rows or columns in a matrix gives the negative (determinant) of the
+previous matrix.
+3) If two rows or columns of a matrix are equal, then its determinant is equal to zero.
+4) If any row or column in a matrix A is zero, then |A| = 0.
+5) If any row or column is a constant multiple of another row or column, then |A| = 0.
+6) A scalar k multiplying through a row or column of a matrix gives the determinant as k|A|.
+Proof :
+Let Cij be the cofactor of aij. Then expanding by the first row, we have
+
+ka11
+ka12
+ka13
+a21
+a22
+a23
+a31
+a32
+a33
+
+=
+ka11C11 + ka12C12 + ka13C13
+=
+k [a11C11 + a12C12 + a13C13]
+=
+k
+
+a11
+a12
+a13
+a21
+a22
+a23
+a31
+a32
+a33
+
+Property (6) also states that a factor common to all elements of a row (or column)
+can be taken out as a factor of the determinant.
+■
+ddumba & musisi
+Page 18 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+In general, a scalar α multiplying through all rows or all columns |αA| = αn|A|
+7) The value of the determinant remains unchanged if any row or column is replaced by a linear
+combination of any two rows or columns.
+8) The determinant of a triangular or diagonal matrix is given by the product of its diagonal
+elements.
+9) |AB| = |A||B|
+10) |A−1| = 1
+|A|;
+|A| ̸= 0 & A−1 is called the inverse of A.
+11) Let B be obtained from A by
+1.) multiplying a row (column) of A by a scalar k; then |B| = k|A|.
+Proof :
+If Ri ←kRj on A
+Then every term in |A| is multiplied by k is
+|B|
+=
+X
+σ
+(sgn(σ))a1i1a2i2 . . . (kajij) . . . anin
+=
+k
+X
+σ
+(sgn(σ))a1i1a2i2 . . . ajij . . . ani1
+=
+k|A|.
+■
+2.) adding a multiple of a row (column) of A to another; then |B| = |A|
+Rj ←Rj + cRk
+|B|
+=
+X
+σ
+(sgn(σ))a1σ(1)a2σ(2) . . . (cakσ(k) + ajσ(j)) . . . anσ(n)
+=
+c
+X
+σ
+sgn(σ)a1σ(1)a2σ(2) . . . am(σk)
+jth
+. . . anσ(n)
+because jth row + kth row are the same.
++
+X
+σ
+sgna1σ(1)a2σ(2) . . . anσ(n)
+3.) interchanging two rows (column) of A then |B| = −|A|
+Proof :
+Omitted but results can be demonstrated in case of 3 × 3 and 4 × 4
+matrix
+■
+Exercise 1.5.2
+Compute the determinants of
+1.) A =
+
+
+1
+2
+0
+3
+0
+1
+3
+3
+4
+
+
+2.) B =
+
+
+3
+0
+1
+1
+2
+0
+3
+3
+4
+
+
+3.) C =
+
+
+0
+3
+1
+2
+1
+0
+3
+3
+4
+
+
+|A| = −21, |B| = 21, and |C| = −21. Check and explain why these answers (Property 2).
+ddumba & musisi
+Page 19 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+Exercise 1.5.3 Using the properties of determinants explain why determinants of
+1.)
+
+
+0
+0
+0
+2
+3
+0
+−1
+−2
+4
+
+= 0
+2.)
+
+
+
+
+
+
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+4
+−1
+0
+0
+0
+0
+−1
+0
+0
+0
+0
+0
+2
+
+
+
+
+
+
+= −24
+3.)
+
+
+3
+1
+4
+0
+3
+4
+0
+0
+3
+
+= 27
+4.)
+
+
+
+
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+0
+4
+
+
+
+= 24
+Example 1.5.10
+Use the method of permutation to compute |A|
+A =
+
+
+−2
+1
+4
+3
+5
+−7
+1
+6
+2
+
+
+|A|
+=
++a11a22a33 −a11a23a32 −a12a21a33 + a12a23a31 + a13a21a32 −a13a22a31
+=
+(−2)(5)(2) −(−2)(−7)(6) + (1)(−7)(1) −(1)(3)(2) + (4)(3)(6) −(4)(5)(1)
+=
+−137 + 72 = −65.
+Example 1.5.11 Compute the determinant using “linear combination of rows or columns”
+property.
+
+1
+−3
+0
+−2
+4
+1
+5
+−2
+2
+
+R2
+←
+2R1 + R2
+R3
+←
+−5R1 + R3
+=
+
+1
+−3
+0
+0
+−2
+1
+0
+13
+2
+
+R3
+←
+13
+2 R2 + R3
+=
+=
+
+1
+−3
+0
+0
+−2
+1
+0
+0
+17
+2
+
+= −17 triangular matrix, or factor scalar third row 1
+2
+
+1
+−3
+0
+0
+−2
+1
+0
+0
+17
+
+= −17
+Remark 1.5.1 For Gauss-Jordan row reduction (operation), any scalar multiplication is with
+the pivot.
+Example 1.5.12 Compute the determinant using using “linear combination of rows or columns”
+property.
+
+2
+1
+3
+1
+1
+0
+1
+1
+0
+2
+1
+0
+0
+1
+2
+3
+
+R1
+←
+R1
+R2
+←
+−1
+2R1 + R2
+R3
+←
+R3
+R4
+←
+R4
+=
+
+2
+1
+3
+1
+0
+−1
+2
+−1
+2
+1
+2
+0
+2
+1
+0
+0
+1
+2
+3
+
+R1
+←
+R1
+R2
+←
+R2
+R3
+←
+4R2 + R3
+R4
+←
+2R2 + R4
+=
+=
+
+2
+1
+3
+1
+0
+−1
+2
+−1
+2
+1
+2
+0
+0
+−1
+2
+0
+0
+1
+4
+
+R1
+←
+R1
+R2
+←
+R2
+R3
+←
+R3
+R4
+←
+R3 + R4
+=
+=
+
+2
+1
+3
+1
+0
+−1
+2
+−1
+2
+1
+2
+0
+0
+−1
+2
+0
+0
+0
+6
+
+= 6
+(why?)
+ddumba & musisi
+Page 20 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+Example 1.5.13
+We can combine Gauss-Jordan row-reduction and cofactor expansion to
+calculate determinants of large matrices.
+
+2
+1
+3
+1
+1
+0
+1
+1
+0
+2
+1
+0
+0
+1
+2
+3
+
+=
+2
+
+0
+1
+1
+2
+1
+0
+1
+2
+3
+
+−
+
+1
+3
+1
+2
+1
+0
+1
+2
+3
+
+expanding along column 1
+Now 2
+
+0
+1
+1
+2
+1
+0
+1
+2
+3
+
+=
+2
+
+1
+0
+1
+0
+2
+1
+3
+1
+2
+
+(2 column interchange)
+=
+2
+
+2
+1
+1
+2
+ + 3
+
+0
+1
+2
+1
+
+
+expanding along column 1
+=
+2(3 −6) = −6.
+Also
+
+1
+3
+1
+2
+1
+0
+1
+2
+3
+
+=
+
+1
+3
+1
+0
+−5
+−2
+0
+−1
+2
+
+by row reduction
+=
+
+−5
+−2
+−1
+2
+
+expanding along column 1
+=
+−12
+Therefore the required determinant = −6 + 12 = 6.
+Example 1.5.14
+Given that A =
+
+
+1
+0
+−2
+3
+1
+4
+5
+2
+−3
+
+. Find the adj (A).
+Since cofactors of A are
+C11
+=
+(−1)1+1
+
+1
+4
+2
+−3
+ = −11
+C12
+=
+(−1)1+2
+
+3
+4
+5
+−3
+ = 29
+C13
+=
+(−1)1+3
+
+3
+1
+5
+2
+ = 1
+C21
+=
+(−1)2+1
+
+0
+−2
+2
+−3
+ = −4
+C22
+=
+(−1)2+2
+
+1
+−2
+5
+−3
+ = 7
+C23
+=
+(−1)2+3
+
+1
+0
+5
+2
+ = −2
+C31
+=
+(−1)3+1
+
+0
+−2
+4
+1
+ = 2
+C32
+=
+(−1)3+2
+
+1
+−2
+3
+4
+ = −10
+C33
+=
+(−1)3+3
+
+1
+0
+3
+1
+ = 1
+ddumba & musisi
+Page 21 of 246
+mth2206: lecture notes
+
+1.5. DETERMINANTS
+The Matrix of cofactors is
+
+
+−11
+29
+1
+−4
+7
+−2
+2
+−10
+1
+
+
+and thus the adjoint of A is
+adj(A) =
+
+
+−11
+−4
+2
+29
+7
+−10
+1
+−2
+1
+
+
+The Matrix adjoint is useful in finding the inverse of a non-singular matrix.
+Example 1.5.15 Given the matrix
+A =
+
+
+4
+3
+2
+1
+3
+1
+2
+0
+2
+
+
+Using the Permutation-inversion technique, and the cofactor minor technique.
+The cofactors of A are
+C11 = (−1)2
+
+3
+1
+0
+2
+ = 6
+C12 = (−1)3
+
+1
+1
+2
+2
+ = 0
+C13 = (−1)4
+
+1
+3
+2
+0
+ = −6
+C21 = (−1)3
+
+3
+2
+0
+2
+ = −6
+C22 = (−1)4
+
+4
+2
+2
+2
+ = 4
+C23 = (−1)5
+
+4
+3
+2
+0
+ = 6
+C31 = (−1)4
+
+3
+2
+3
+1
+ = −3
+C32 = (−1)5
+
+4
+2
+1
+1
+ = −2
+C33 = (−1)6
+
+4
+3
+1
+3
+ = 9
+The Matrix of cofactors is
+
+
+6
+0
+−6
+−6
+4
+6
+−3
+−2
+9
+
+
+The determinant is given by
+|A| = 4(6) + 3(0) + 2(−6) = 12
+Example 1.5.16 Using properties of determinants, state the determinants of the following
+matrices
+1.) A =
+ 2
+1
+6
+7
+4
+2
+
+: |A| Does not exist (DNE) 0r is undefined because the matrix is not
+square.
+2.) A =
+
+
+2
+0
+0
+0
+4
+0
+0
+0
+3
+
+: |A| = 24
+3.) A =
+
+
+9
+8
+6
+7
+4
+0
+9
+8
+6
+
+: |A| = 0 because two of the rows of the matrix A are equal.
+ddumba & musisi
+Page 22 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+1.6
+Matrix Inverses
+Definition 1.6.1 Inverse of a matrix
+The matrix B is said to be the inverse of matrix A if
+AB = BA = I
+(1.7)
+I the identity matrix. We denote the inverse of A by A−1.
+Note 1.6.1
+If matrix A has an inverse we say that A is invertible.
+Theorem 1.6.1
+If A is invertible, then its inverse is unique.
+Proof :
+Assume A is invertible.
+Suppose, by way of contradiction, that the
+inverse of A is not unique, i.e., let B and C be two distinct inverses of A.
+Then, by definition of inverse, we have
+BA =
+I
+= AB
+(1.8)
+and
+CA =
+I
+= AC
+(1.9)
+It follows that
+B = BI
+by definition of identity matrix,
+B = B(AC)
+by (1.9) above,
+B = (BA)C
+by associativity of matrix multiplication,
+B = IC
+by (1.8) above, and
+B = C
+by definition of identity matrix. Thus,
+B = C
+which contradicts the previous assumption that B ̸= C. So it must be that case that
+the inverse of A is unique.
+■
+ddumba & musisi
+Page 23 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+1.6.1
+Inverse Methodology
+The inverse of a matrix could be determined by any of the following techniques
+(1) Direct method
+(2) Adjoint method
+(3) Method of elementary row operations.
+1.6.2
+Direct Method
+Example 1.6.1 Given a matrix A =
+
+1
+2
+−1
+1
+
+, and if A−1 = B =
+ a
+b
+c
+d
+
+, find the inverse
+B.
+From definition of an inverse, equation (1.7)
+AB
+=
+I
+
+1
+2
+−1
+1
+  a
+b
+c
+d
+
+=
+ 1
+0
+0
+1
+
+To have
+a = 1
+3, b = −2
+3, c = 1
+3, d = 1
+3 ⇒
+B = A−1 =
+ 1/3
+−2/3
+1/3
+1/3
+
+Note 1.6.2 This method beomes increasingly difficult to use as the number of unknowns increase
+with the increasing order of the matrix which makes it not preferable to other methods.
+1.6.3
+Adjoint Method
+Theorem 1.6.2
+adj(A).A = det(A)I
+where I the identity matrix and |A| ̸= 0.
+Corollary 1.6.1 If |A| ̸= 0 then
+A−1
+=
+1
+|A| · adjA
+(1.10)
+Proof :
+From Theorem 1.6.2, adj(A).A = det(A)I. Dividing through by |A|,
+adj(A)
+|A|
+A = I
+Since |A| ̸= 0 ⇒
+A−1 exists. Multiplying through by A−1 we get
+adj(A)
+|A|
+AA−1 = IA−1
+⇒
+adj(A)
+|A|
+= IA−1 = A−1 ⇒
+A−1 = adjA
+|A|
+for |A| ̸= 0
+■
+Remark 1.6.1 From Corollary (1.6.1), equation (1.10), A−1 exists if and only if
+1) A is a square matrix
+2) |A| ̸= 0
+ddumba & musisi
+Page 24 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+Example 1.6.2
+Find the inverse of A =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+
+.
+The co-factors are given by
+C11 = (−1)1+1
+
+1
+1
+1
+0
+ = −1
+C12 = (−1)1+2
+
+0
+1
+−1
+0
+ = −1
+C13 = (−1)1+3
+
+0
+1
+−1
+1
+ = 1
+C21 = (−1)2+1
+
+2
+1
+1
+0
+ = 1
+C22 = (−1)2+2
+
+3
+1
+−1
+0
+ = 1
+C23 = (−1)2+3
+
+3
+2
+−1
+1
+ = −5
+C31 = (−1)3+1
+
+2
+1
+1
+1
+ = 1
+C32 = (−1)3+2
+
+3
+2
+0
+1
+ = −3
+C33 = (−1)3+3
+
+3
+1
+0
+1
+ = 3
+The cofactor matrix is
+
+
+−1
+−1
+1
+1
+1
+−5
+1
+−3
+3
+
+
+⇒
+adj(A) =
+
+
+−1
+1
+1
+−1
+1
+−3
+1
+−5
+3
+
+
+With
+|A| = (3)(−1) + (0)(1) + (−1)(1) = −4
+Then
+A−1 = adjA
+|A| = 1
+−4
+
+
+−1
+1
+1
+−1
+1
+−3
+1
+−5
+3
+
+=
+
+
+1/4
+−1/4
+−1/4
+1/4
+−1/4
+3/4
+−1/4
+5/4
+−3/4
+
+
+Theorem 1.6.3
+An n × n matrix is non singular if and only if |A| ̸= 0.
+Proof :
+Suppose that A is non singular, then A−1 exists such that
+AA−1 = A−1A = I
+But
+|AA−1| = |A−1||A| = |I| = 1
+Then |A| ̸= 0.
+■
+Example 1.6.3
+Find the inverse of
+A =
+
+
+4
+−2
+2
+8
+2
+−6
+4
+−2
+6
+
+
+
+
+|A| = 96 , A−1 = 1
+96
+
+
+0
+8
+8
+−72
+16
+40
+−24
+0
+24
+
+
+
+
+
+ddumba & musisi
+Page 25 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+1.6.4
+Method of Elementary Row Operation(Gauss-Jordan Elimination
+Method)
+Definition 1.6.2 An elementary row operation on A = (aij) is anyone of the following :
+1.) Interchanging any two rows of a matrix.
+2.) Multiplying any row of A by a non zero constant.
+3.) Replacing any row by a linear combination of the row itself and any other row of A.
+Remark 1.6.2
+Linear combination of rows involve summing and subtraction of rows. But
+not their product or quotient.
+1.6.4.1
+Process of computing the inverse using the elementary row operations.
+Key Idea 1.1
+For A an n × n matrix
+1). Form the n × 2n matrix. i.e, (A : In).
+2). Apply elementary row operations to (A : In).
+3). Reduce (A : In) to a matrix of the form (In : B), then B will be the inverse matrix A.
+Example 1.6.4
+Compute A−1 using the elementary row operation method, given that
+A =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+
+
+The n × 2n matrix (A : I) is given by
+(A : I) =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+Now the aim is to shift the identity matrix to side of A.
+1.) Gauss-Jordan Elimination (Coefficients −aij
+aii
+multiplied on only the pivot):
+(A : I) =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+• We begin with first column (whole) and we need a21 = 0, a31 = 0
+[Operations for first column we apply the pivot in R1 ].
+R1 →R1,
+R2 →R2,
+1
+3R1 + R3 →R3
+(A : I) =
+
+
+3
+2
+1
+0
+1
+1
+0
+5
+3
+1
+3
+|
+1
+0
+0
+|
+0
+1
+0
+|
+1
+3
+0
+1
+
+
+ddumba & musisi
+Page 26 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+•In second column, have to make a12 = 0, a32 = 0
+[But when looking for operations for second column, we only apply the pivot inR2 ]
+Let −2R2 + R1 →R1,
+R2 →R2,
+−5
+3R2 + R3 →R3
+(A : I) =
+
+
+3
+0
+−1
+0
+1
+1
+0
+0
+−4
+3
+|
+1
+−2
+0
+|
+0
+1
+0
+|
+1
+3
+−5
+3
+1
+
+
+•In third column, have to make a13 = 0, a23 = 0
+[But when looking for operations for third column, only use the pivot in R3 ]
+Let −3
+4R3 + R1 →R1,
+3
+4R3 + R2 →R2,
+R3 →R3
+(A : I) =
+
+
+3
+0
+0
+0
+1
+0
+0
+0
+−4
+3
+|
+3
+4
+−3
+4
+−3
+4
+|
+1
+4
+−1
+4
+3
+4
+|
+1
+3
+−5
+3
+1
+
+
+• To have
+(I, B)
+by 1
+3R1 →R1, R2 →R2, 3
+4R3 →R3 to have
+(I : B) =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+|
+3/12
+−3/12
+−3/12
+|
+1/4
+−1/4
+3/4
+|
+−1/4
+5/4
+−3/4
+
+
+⇒
+B = A−1 =
+
+
+3/12
+−3/12
+−3/12
+1/4
+−1/4
+3/4
+−1/4
+5/4
+−3/4
+
+=
+
+
+1/4
+−1/4
+−1/4
+1/4
+−1/4
+3/4
+−1/4
+5/4
+−3/4
+
+
+2.) Gauss Elimination (Coefficients can be multiplied on any entry):
+(A : I) =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+•We begin with first column (whole) and we need a21 = 0, a31 = 0
+[Operations for first column we apply the pivot in R1 ].
+R1 →R1,
+R2 →R2,
+R1 + 3R3 →R3
+(A : I) =
+
+
+3
+2
+1
+0
+1
+1
+0
+5
+1
+|
+1
+0
+0
+|
+0
+1
+0
+|
+1
+0
+3
+
+
+•In second column, have to make a12 = 0, a32 = 0
+[But when looking for operations for second column, we only apply the pivot inR2 ]
+Let R1 −2R2 →R1,
+R2 →R2,
+5R2 −R3 →R3
+(A : I) =
+
+
+3
+0
+−1
+0
+1
+1
+0
+0
+4
+|
+1
+−2
+0
+|
+0
+1
+0
+|
+−1
+5
+−3
+
+
+ddumba & musisi
+Page 27 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+•In third column, have to make a13 = 0, a23 = 0
+[But when looking for operations for third column, only use the pivot in R3 ]
+Let 4R1 + R3 →R1,
+4R2 −R3 →R2,
+R3 →R3
+(A : I) =
+
+
+12
+0
+0
+0
+4
+0
+0
+0
+4
+|
+3
+−3
+−3
+|
+1
+−1
+3
+|
+−1
+5
+−3
+
+
+• To have
+(I, B)
+by
+1
+12R1 →R1, 1
+4R2 →R2, 1
+4R3 →R3 to have
+(I : B) =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+|
+3/12
+−3/12
+−3/12
+|
+1/4
+−1/4
+3/4
+|
+−1/4
+5/4
+−3/4
+
+
+⇒
+B = A−1 =
+
+
+3/12
+−3/12
+−3/12
+1/4
+−1/4
+3/4
+−1/4
+5/4
+−3/4
+
+=
+
+
+1/4
+−1/4
+−1/4
+1/4
+−1/4
+3/4
+−1/4
+5/4
+−3/4
+
+
+Note 1.6.3
+Always prove your inverse solution by checking whether, AA−1 = I
+Definition 1.6.3
+A matrix that has undergone Gaussian elimination is said to be in echelon
+form.
+Note 1.6.4
+Gauss-Jordan is a special case of Gaussian elimination.
+Example 1.6.5
+Compute A−1 given A =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+
+
+(A : I) =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+1.) Gauss-Jordan Elimination (Coefficients multiplied on only the pivot):
+(A : I) =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+•The first column looks okay since the non-zero term is only in a11.
+Let R1 →R1,
+R2 →R2,
+R3 →R3
+(A : I) =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+•In second column, have to make a12 = 0, a32 = 0
+[But when looking for operations for second column,only use R2 ]
+Let −R2 + R1 →R1,
+R2 →R2,
+−R2 + R3 →R3
+(A : I) =
+
+
+2
+0
+2
+0
+2
+0
+0
+0
+2
+|
+1
+−1
+0
+|
+0
+1
+0
+|
+0
+−1
+1
+
+
+ddumba & musisi
+Page 28 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+•In third column, have to make a13 = 0, a23 = 0
+[But when looking for operations for third column,only use R3 ]
+Let −R3 + R1 →R1,
+R2 →R2,
+R3 →R3
+(A : I) =
+
+
+2
+0
+0
+0
+2
+0
+0
+0
+2
+|
+1
+0
+−1
+|
+0
+1
+0
+|
+0
+−1
+1
+
+
+• To have (I, B)
+we use 1
+2R1 →R1, 1
+2R2 →R2, 1
+2R3 →R3 to have
+(I : B) =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+|
+1/2
+0
+−1/2
+|
+0
+1/2
+0
+|
+0
+−1/2
+1/2
+
+
+⇒
+B = A−1 =
+
+
+1/2
+0
+−1/2
+0
+1/2
+0
+0
+−1/2
+1/2
+
+
+2.) Gauss Elimination (Coefficients can be multiplied on any entry):
+(A : I) =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+•The first column looks okay since the non-zero term is only in a11.
+Let R1 →R1,
+R2 →R2,
+R3 →R3
+(A : I) =
+
+
+2
+2
+2
+0
+2
+0
+0
+2
+2
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+•In second column, have to make a12 = 0, a32 = 0
+[But when looking for operations for second column,only use R2 ]
+Let R1 −R2 →R1,
+R2 →R2,
+R3 −R2 →R3
+(A : I) =
+
+
+2
+0
+2
+0
+2
+0
+0
+0
+2
+|
+1
+−1
+0
+|
+0
+1
+0
+|
+0
+−1
+1
+
+
+•In third column, have to make a13 = 0, a23 = 0
+[But when looking for operations for third column,only use R3 ]
+Let R1 −R3 →R1,
+R2 →R2,
+R3 →R3
+(A : I) =
+
+
+2
+0
+0
+0
+2
+0
+0
+0
+2
+|
+1
+0
+−1
+|
+0
+1
+0
+|
+0
+−1
+1
+
+
+• To have (I, B)
+we use 1
+2R1 →R1, 1
+2R2 →R2, 1
+2R3 →R3 to have
+(I : B) =
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+|
+1/2
+0
+−1/2
+|
+0
+1/2
+0
+|
+0
+−1/2
+1/2
+
+
+⇒
+B = A−1 =
+
+
+1/2
+0
+−1/2
+0
+1/2
+0
+0
+−1/2
+1/2
+
+
+ddumba & musisi
+Page 29 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+Example 1.6.6
+Determine the inverse A−1 of
+A =
+
+
+−1
+1
+2
+3
+−1
+1
+−1
+3
+4
+
+
+using the Gauss-Jordan row reduction technique.
+[A|I]
+=
+
+
+−1
+1
+2
+1
+0
+0
+3
+−1
+1
+0
+1
+0
+−1
+3
+4
+0
+0
+1
+
+
+R1
+⇝
+R1
+3R1 + R2
+⇝
+R2
+−R1 + R3
+⇝
+R3
+=
+
+
+−1
+1
+2
+1
+0
+0
+0
+2
+7
+3
+1
+0
+0
+2
+2
+−1
+0
+1
+
+
+−0.5R2 + R1
+⇝
+R1
+R2
+⇝
+R2
+−R2 + R3
+⇝
+R3
+=
+
+
+−1
+0
+−3
+2
+−1
+2
+−1
+2
+0
+0
+2
+7
+3
+1
+0
+0
+0
+−5
+−4
+−1
+1
+
+
+−3
+10R3 + R1
+⇝
+R1
+7
+5R3 + R2
+⇝
+R2
+R3
+⇝
+R3
+=
+
+
+−1
+0
+0
+7
+10
+−1
+5
+−3
+10
+0
+2
+0
+−13
+5
+−2
+5
+7
+5
+0
+0
+−5
+−4
+−1
+1
+
+
+−R1
+⇝
+R1
+1
+2R2
+⇝
+R2
+−1
+5R3
+⇝
+R3
+=
+
+
+1
+0
+0
+−7
+10
+1
+5
+3
+10
+0
+1
+0
+−13
+10
+−1
+5
+7
+10
+0
+0
+1
+4
+5
+1
+5
+−1
+5
+
+
+=
+
+
+1
+0
+0
+−0.7
+0.2
+0.3
+0
+1
+0
+−1.3
+−0.2
+0.7
+0
+0
+1
+0.8
+0.2
+−0.2
+
+
+The last three columns constitute A−1. Check:
+
+
+−1
+1
+2
+3
+−1
+1
+−1
+3
+4
+
+
+
+
+−0.7
+0.2
+0.3
+−1.3
+−0.2
+0.7
+0.8
+0.2
+−0.2
+
+=
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+
+
+Hence AA−1A−1A = I
+ddumba & musisi
+Page 30 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+Remark 1.6.3
+For sure AA−1 = I.
+Example 1.6.7
+Compute A−1 given A =
+
+
+1
+0
+2
+2
+−1
+3
+4
+1
+8
+
+using the Gaussian elimination row
+reduction (not Gauss-Jordan elimination).
+(A : I)
+=
+
+
+1
+0
+2
+2
+−1
+3
+4
+1
+8
+|
+1
+0
+0
+|
+0
+1
+0
+|
+0
+0
+1
+
+
+R1
+⇝
+R1
+R2 −2R1
+⇝
+R2
+R3 −4R1
+⇝
+R3
+(A : I)
+=
+
+
+1
+0
+2
+0
+−1
+−1
+0
+1
+0
+|
+1
+0
+0
+|
+−2
+1
+0
+|
+−4
+0
+1
+
+
+R1
+⇝
+R1
+R2
+⇝
+R2
+R3 + R2
+⇝
+R3
+(A : I)
+=
+
+
+1
+0
+2
+0
+−1
+−1
+0
+0
+−1
+|
+1
+0
+0
+|
+−2
+1
+0
+|
+−6
+1
+1
+
+
+2R3 + R1
+⇝
+R1
+R3 −R2
+⇝
+R2
+R3
+⇝
+R3
+(A : I)
+=
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+−1
+|
+−11
+2
+2
+|
+−4
+0
+1
+|
+−6
+1
+1
+
+
+R1
+⇝
+R1
+R2
+⇝
+R2
+−R3
+⇝
+R3
+(I : B)
+=
+
+
+1
+0
+0
+0
+1
+0
+0
+0
+1
+|
+−11
+2
+2
+|
+−4
+0
+1
+|
+6
+−1
+−1
+
+
+⇒
+B = A−1 =
+
+
+−11
+2
+2
+−4
+0
+1
+6
+−1
+−1
+
+
+Exercise 1.6.1
+For the matrix A =
+
+
+1
+1
+2
+3
+5
+−1
+2
+3
+0
+
+, determine
+1.) |A|, using
+(a) Permutation-inversions technique
+(b) Cofactors.
+|A| = −1
+2.) A−1, using
+(a) A−1 = 1
+|A|adj(A)
+(b) Row reduction (Gauss-Jordan elimination
+or Gauss elimination).
+A−1 =
+
+
+−3
+−6
+11
+2
+4
+−7
+1
+1
+−2
+
+
+ddumba & musisi
+Page 31 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+1.6.5
+Properties of Matrix Inverse
+1.) If A−1 is invertible, then
+(A−1)−1 = A
+2.) If AB is invertible, then
+(AB)−1 = B−1A−1
+Proof :
+Let x = (AB)−1 then
+(AB)x
+=
+(AB)(AB)−1 = I
+(1.11)
+But also
+(AB)x
+=
+A(Bx)
+(1.12)
+Thus (1.11) will become
+(AB)x
+=
+I
+A(Bx)
+=
+I
+A−1A(Bx)
+=
+A−1I
+I(Bx)
+=
+A−1
+Bx
+=
+A−1
+B−1Bx
+=
+B−1A−1
+x
+=
+B−1A−1
+⇒(AB)−1 = B−1A−1
+■
+3.) If AT is invertible, then
+(AT)−1 = (A−1)T
+Proof :
+Assume A is invertible, then A−1 exists and we have,
+(A−1)TAT
+=
+(AA−1)T = IT = I and
+AT(A−1)T
+=
+(A−1A)T = IT = I
+so AT is invertible and (AT)−1 = (A−1)T.
+■
+4.) For αA invertible for any nonzero scalar α, then (αA)−1 = 1
+αA−1.
+5.) The inverse of a diagonal matrix is obtained by inverting the diagonal elements.
+6.) If a product AB is not invertible, then A or B is not invertible.
+7.) If A or B are not invertible, then AB is not invertible.
+Exercise 1.6.2 Use both the methods of inverses and properties of inverses to determine A−1
+for A =
+
+
+2
+0
+0
+0
+3
+0
+0
+0
+−4
+
+.
+A−1 =
+
+
+1/2
+0
+0
+0
+1/3
+0
+0
+0
+−1/4
+
+
+Exercise 1.6.3
+Find the inverse of A =
+
+
+3
+2
+1
+0
+1
+1
+−1
+1
+0
+
+.
+
+A−1 =
+
+
+1/4
+−1/4
+−1/4
+1/4
+−1/4
+1/4
+−1/4
+5/4
+−3/4
+
+
+
+.
+ddumba & musisi
+Page 32 of 246
+mth2206: lecture notes
+
+1.6. MATRIX INVERSES
+Example 1.6.8 Find the inverse A−1 for the matrix
+A =
+
+
+4
+3
+2
+1
+3
+1
+2
+0
+2
+
+
+1.) Using the Cofactor-Adjoint technique.
+From Example 1.5.15, the cofactor matrix of A was given as
+
+
+6
+0
+−6
+−6
+4
+6
+−3
+−2
+9
+
+
+⇒
+adj(A) =
+
+
+6
+−6
+−3
+0
+4
+−2
+−6
+6
+9
+
+
+⇒
+A−1 = 1
+|A|adj(A) = 1
+12
+
+
+6
+−6
+−3
+0
+4
+−2
+−6
+6
+9
+
+=
+
+
+1/2
+−1/2
+−1/4
+0
+1/3
+−1/6
+−1/2
+1/2
+3/4
+
+
+2.) Using Gaussian elimination row-reduction
+[A : I]
+=
+
+
+4
+3
+2
+|
+1
+0
+0
+1
+3
+1
+|
+0
+1
+0
+2
+0
+2
+|
+0
+0
+1
+
+
+R1 ⇝R1
+R1 −4R2 ⇝R2
+R1 −2R3 ⇝R3
+
+
+4
+3
+2
+|
+1
+0
+0
+0
+−9
+−2
+|
+1
+−4
+0
+0
+3
+−2
+|
+1
+0
+−2
+
+
+3R1 + R2 ⇝R1
+R2 ⇝R2
+3R3 + R2 ⇝R3
+
+
+12
+0
+4
+|
+4
+−4
+0
+0
+−9
+−2
+|
+1
+−4
+0
+0
+0
+−8
+|
+4
+−4
+−6
+
+
+2R1 + R3 ⇝R1
+4R2 −R3 ⇝R2
+R3 ⇝R3
+
+
+24
+0
+0
+|
+12
+−12
+−6
+0
+−36
+0
+|
+0
+−12
+6
+0
+0
+−8
+|
+4
+−4
+−6
+
+
+1
+24R1 ⇝R1
+−1
+36R2 ⇝R2
+−1
+8R3 ⇝R3
+[I : B]
+=
+
+
+1
+0
+0
+|
+1/2
+−1/2
+−1/4
+0
+1
+0
+|
+0
+1/3
+−1/6
+0
+0
+1
+|
+−1/2
+1/2
+3/4
+
+
+⇒
+A−1 =
+
+
+1/2
+−1/2
+−1/4
+0
+1/3
+−1/6
+−1/2
+1/2
+3/4
+
+
+Note 1.6.5
+The value for an inverse is always the same for both methods.
+ddumba & musisi
+Page 33 of 246
+mth2206: lecture notes
+
+1.7. MATRICES CHAPTER EXAMPLES
+1.7
+Matrices Chapter Examples
+Example 1.7.1
+Compute the determinant of each of the following matrices. Indicate clearly
+the method being used.
+1.) Method of cofactors and adjoints
+A =
+
+
+2
+0
+0
+−3
+1
+0
+0
+0
+0
+7
+−3
+2
+0
+−1
+−6
+2
+−2
+−1
+1
+4
+0
+0
+0
+4
+3
+
+
+The determinant can be got by
+det A
+=
+−7 det
+
+
+2
+0
+0
+−3
+−3
+2
+0
+−1
+2
+−2
+−1
+1
+0
+0
+0
+4
+
+
+(along the second row)
+=
+−7(4) det
+
+
+2
+0
+0
+−3
+2
+0
+2
+−2
+−1
+
+
+(along the fourth row)
+=
+−7(4)(2) det
+ 2
+0
+2
+−1
+
+(along the first row)
+=
+−7(4)(2)(−2) = 112
+2.)
+A =
+
+
+1
+b
+b2
+b
+b2
+b3
+b2
+b3
+b4
+
+
+(where b is any real number).
+We can do row operations: Add −b times the first row to the second row and −b2 times the
+first row plus the second row. This gives
+
+
+1
+b
+b2
+0
+0
+0
+0
+0
+0
+
+
+Therefore det A = 0. Thus, the original matrix is not invertible, since its determinant is
+zero.
+Example 1.7.2
+Let
+A =
+
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+0
+
+
+B =
+
+
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+0
+
+
+C =
+
+
+x
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+0
+
+
+1.) Find det A and give a reason for your answer.
+det A = 0 because two rows are equal.
+ddumba & musisi
+Page 34 of 246
+mth2206: lecture notes
+
+1.7. MATRICES CHAPTER EXAMPLES
+2.) Find the cofactor C11 and then find det B.
+The cofactor C11 = −1. Then det B = det A −C11 = 1.
+3.) Find detC for any value of x. You could use linearity in row 1.
+det C = xC11 + det B = −x + 1. Check this answer (zero), for x = 1 when C = A.
+Example 1.7.3
+Let A =
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
+and assume that det(A) = 10. Find
+1.) det(3A)
+2.) det (2A−1)
+3.) det (2A2)
+4.) det
+ 3(AT)−1
+Notice that A is a 3 × 3 matrix. Therefore,
+det(3A)
+=
+33 det(A) = 270
+det
+ 2A−1
+=
+23 det
+ A−1
+=
+23
+det(A) = 8
+10
+det
+ 2A2
+=
+23 det
+ A2
+= 23 det (A)2 = 800
+det
+ 3(AT)−1
+=
+33 det
+ (AT)−1
+=
+33
+det (AT) =
+33
+det (A) = 27
+10
+5.) det
+
+
+a
+g
+d
+b
+h
+e
+g
+i
+f
+
+
+Notice that we have
+A =
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
+
+R2→R3
+−−−−−−−→
+Interchange
+B =
+
+
+a
+b
+c
+g
+h
+i
+d
+e
+f
+
+
+and BT =
+
+
+a
+g
+d
+b
+h
+e
+g
+i
+f
+
+
+As a result, we have det(BT) = det(B) = (−1) det(A) = −10.
+Example 1.7.4
+Specify whether the matrix has an inverse without trying to compute the
+inverse A =
+
+
+9
+1
+9
+9
+9
+9
+0
+9
+9
+2
+4
+0
+0
+5
+0
+9
+0
+3
+9
+0
+6
+0
+0
+7
+0
+
+
+.
+Solution :
+|A| = −12 ̸= 0 ⇒
+∃A−1
+■
+Example 1.7.5
+Suppose A =
+
+
+1
+1
+2
+1
+0
+1
+2
+1
+4
+
+. Which one of the following statements is true ?
+ddumba & musisi
+Page 35 of 246
+mth2206: lecture notes
+
+1.7. MATRICES CHAPTER EXAMPLES
+A. A−1 does not exist.
+B. The third row of A−1 is [−1
+−1 1].
+C. The second row of A−1 is [1 2
+−1].
+D. The first row of A−1 is [2 0
+−1].
+E. The second column of A−1 is [0 2
+−1]T.
+F. All of B, C, D, E are true.
+B
+Example 1.7.6
+Let A =
+
+
+1
+0
+1
+1
+1
+1
+−1
+0
+x
+
+. For which value(s) of x is A invertible?
+A. x ̸= −1
+B. x ̸= 1
+C. x ̸= 0
+D. x = −1
+E. x = 1
+F. x ̸= ±1
+A
+Example 1.7.7
+If three n × n matrices A, B and C satisfy AB −BA = C, then ABA is
+always equal to :
+A. A2B −C
+B. A2B −CA
+C. BA2 + CA
+D. A2B
+E. A2B + AC
+F. A2B + BC
+C
+Example 1.7.8
+Let
+A =
+
+3
+−4
+−5
+1
+
+and B =
+ 7
+4
+5
+k
+
+.
+For which values of k does AB = BA hold?
+k = 9
+Example 1.7.9
+For the matrix A =
+
+
+2
+2
+3
+3
+2
+1
+2
+0
+2
+
+Compute
+1.) |A|, using
+(a) Permutation-inversions scheme
+(b) Cofactors.
+|A| = −12
+2.) A−1, using
+(a) A−1 = 1
+|A|adj(A)
+(b) Row reduction.
+A−1 =
+
+
+−1/3
+1/4
+1/3
+1/3
+1/6
+−7/12
+1/3
+−1/3
+1/16
+
+
+ddumba & musisi
+Page 36 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+1.8
+Matrices Chapter Exercises
+Exercise 1.8.1
+Define the subtraction of two matrices A and B.
+Exercise 1.8.2
+If A, B and C are conformable matrices then show that
+A + (B + C) = (A + B) + C.
+Exercise 1.8.3
+If A is an m × p, B is a p × q, and C is a q × n, then show that
+(AB)C = A(BC).
+Exercise 1.8.4
+If A is an m × p, B is an m × p, and C is a p × n, then show that
+(A + B)C = AC + BC.
+Exercise 1.8.5
+If r, s ∈R then show that
+1.) r(sA) = (rs)A
+2.) (r + s)A = rA + sA
+3.) A(rB) = r(AB)
+where A is an m × p matrix and B is a p × n matrix
+Exercise 1.8.6
+Given that A and B matrices and r ∈R show that,
+1.) (A′)′ = A
+2.) (rA)′ = rA′
+3.) (A + B)′ = A′ + B′
+Exercise 1.8.7 Show that there exists a unique m × n matrix 0 such that A + 0 = A for any
+m × n matrix A.
+Exercise 1.8.8
+Show that for each m × n matrix A, there exists a unique m × n matrix −A
+such that A + (−A) = 0.
+Exercise 1.8.9
+Let A and B be arbitrary n × n matrices. Is it true that
+(A −B)(A + B) = A2 −B2
+Exercise 1.8.10
+Prove that (AB)′ = B′A′ for A, B conformable matrices.
+Exercise 1.8.11
+If A is an idempotent matrix. Prove that
+1.) An = A
+∀n ∈Z+.
+2.) I −A is idempotent where I is an identity matrix of same order as A. (Is A −I also
+idempotent?).
+Exercise 1.8.12
+If A and B are idempotent matrices. Is AB also idempotent? if not under
+what condition(s) will AB be idempotent.
+Exercise 1.8.13 If A and B are invertible n × n matrices, Is it true that the inverse of A + B
+is A−1 + B−1?
+Exercise 1.8.14
+Let A be an n × n square invertible matrix. Prove that
+det(A−1) =
+1
+det(A)
+Exercise 1.8.15 Find the matrix A such that
+adj(A) =
+
+2
+4
+−5
+7
+
+Exercise 1.8.16
+Let A be a 5 × 5 matrix with determinant 6. What is the determinant of
+A−1 (determinant of the inverse of A)?
+ddumba & musisi
+Page 37 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+A. 6.
+B. 0.
+C. 1/6.
+D. 30.
+E. 25/6.
+F. 1.
+G. Insufficient
+information
+to
+solve the question.
+C
+Exercise 1.8.17
+Let A be a 5 × 5 matrix with determinant 6, and let B be a 5 × 5 matrix
+with determinant 4. What is the determinant of AB?
+A. 24.
+B. 10.
+C. 0.
+D. 1/6.
+E. 1/4.
+F. 1.
+G. Insufficient
+information
+to
+solve the question.
+A
+Exercise 1.8.18
+Suppose A is an n × n matrix, prove that det[adj(A)] = (det A)n−1
+Exercise 1.8.19 What is the size of the matrix B if the product AB has been computed and
+A is m × n matrix?
+Exercise 1.8.20
+For A and b matrices show that r(A + B) = rA + rB for r a real number.
+What is known about the sizes of A and B?
+Exercise 1.8.21 If A and B are symmetric matrices of the same order, show that ATBT +AB
+is also symmetric.
+Exercise 1.8.22
+State any two axioms of inverse of a matrix.
+Exercise 1.8.23
+For a symmetric matrix A and a skew-symmetric matrix B, show that the
+matrix AB −BA is also symmetric.
+(AB −BA)T = (AB)T −(BA)T = BTAT −ATBT = −BA −A(−B) = AB −BA.
+Exercise 1.8.24 True or False? Every nonzero square matrix has an inverse.
+False
+Exercise 1.8.25
+Let A =
+
+
+1
+0
+−4
+2
+k2 + 3
+3
+5
+1
+2k
+
+. Find the values of k such that tr(A) = 7.
+(k + 3)(k −1) = 0 ⇒k = −3 or k = 1
+ddumba & musisi
+Page 38 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.26
+Let A be a 5 × 5 matrix with determinant 6, and let B be a 5 × 5 matrix
+with determinant 4. What is the determinant of A + B?
+A. 24.
+B. 10.
+C. 0.
+D. 1/6.
+E. 1/4.
+F. 1.
+G. Insufficient
+information
+to
+solve the question.
+G
+Exercise 1.8.27
+Let A be a 4 × 4 matrix with determinant 3. What is the determinant of
+−A?
+A. 3.
+B. -3.
+C. 1/3.
+D. 0.
+E. 1.
+F. -1.
+G. Insufficient
+information
+to
+solve the question.
+A
+Exercise 1.8.28
+Let A be a 4 × 4 matrix with determinant 3. What is the determinant of
+2A?
+A. 6.
+B. 3.
+C. 24.
+D. 48.
+E. 12.
+F. 196,608.
+G. Insufficient
+information
+to
+solve the question.
+D
+Exercise 1.8.29
+Let A be a 4 × 4 matrix with determinant 3. What is the determinant of
+AT (the transpose of A)?
+A. 3T.
+B. 3.
+C. 12.
+D. 1/3.
+E. 27.
+F. 81.
+G. Insufficient
+information
+to
+solve the question.
+B
+Exercise 1.8.30
+Let A be a 4 × 4 matrix with determinant 3. Let B be the matrix formed
+by swapping the second and third rows of A. What is det(B)?
+A. 3.
+B. 0.
+C. 1/3.
+D. -3.
+E. 6.
+F. 2.
+G. Insufficient
+information
+to
+solve the question.
+D
+ddumba & musisi
+Page 39 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.31
+If A is a 3 × 5 matrix, then the determinant of A is
+A. A number (possibly non-zero).
+B. 35.
+C. Zero.
+D. 53.
+E. A 5 × 3 matrix.
+F. Undefined.
+G. A 3 × 5 matrix.
+F
+Exercise 1.8.32
+Find the row reduced echelon form of the matrix below:
+A =
+
+
+1
+−2
+−4
+3
+2
+5
+−2
+9
+1
+7
+2
+6
+0
+5
+−2
+9
+1
+−2
+−4
+3
+
+
+
+
+1
+0
+0
+0
+0
+1
+0
+5/4
+0
+0
+1
+−11/8
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+Exercise 1.8.33
+Find the determinant of the matrix below. Specify whether the matrix has
+an inverse without trying to compute the inverse.
+
+
+2
+−2
+−2
+−2
+−2
+2
+3
+0
+−2
+−2
+2
+0
+1
+−1
+−3
+−1
+
+
+Row reduce the given matrix to an upper triangular matrix
+
+
+2
+−2
+−2
+−2
+−2
+2
+3
+0
+−2
+−2
+2
+0
+1
+−1
+−3
+−1
+
+
+∼
+
+
+2
+−2
+−2
+−2
+0
+−4
+0
+−2
+0
+0
+1
+−2
+0
+0
+0
+−4
+
+
+As a result, the determinant is −32 which is not 0. Therefore, the given matrix is invertible.
+Exercise 1.8.34
+Find the inverse of A =
+
+
+4
+−2
+2
+8
+2
+−6
+4
+−2
+6
+
+;
+
+A−1 = 1
+96
+
+
+0
+8
+8
+−72
+16
+40
+−24
+0
+24
+
+
+
+
+ddumba & musisi
+Page 40 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.35
+Show that det(A) = 0 where
+
+
+0
+a
+b
+−a
+0
+c
+−b
+−c
+0
+
+
+Note that A = −AT. Then we get
+det(A)
+=
+det((−1)AT)
+=
+(−1)3 det(AT)
+=
+(−1)3 det(A)
+=
+−det(A), i.e.,
+2 det(A) = 0
+→
+det(A) = 0.
+OR Calculate the determinant with respect to any column or any row of your choice.
+Exercise 1.8.36
+Find the inverse of the following matrix A =
+
+
+1
+2
+3
+0
+2
+3
+0
+0
+3
+
+.
+A−1 = 1
+6
+
+
+6
+−6
+0
+0
+3
+−3
+0
+0
+2
+
+
+Exercise 1.8.37
+1.) An n × n matrix A is called orthogonal if AAT = I. If A is orthogonal show that
+det(A) = ±1.
+By the properties of determinant,
+det(AAT) = det(A) det(AT) = det(A) det(A) = det(A)2 = det(I) = 1.
+So, det(A) = ±1.
+2.) An n × n matrix A is called skew-symmetric if AT = −A. Show that if A is skew-
+symmetric and n is an odd positive integer, then A is not invertible.
+By the properties of determinant,
+det(AT) = det(−A) ⇒det(A) = det(−A) ⇒det(A) = (−1)n det(A) ⇒det(A) = −det(A).
+So, we get det(A) = 0 which implies that A is not invertible. Note that −A means that
+every row of A is multiplied by −1.
+3.) Let A and B be two non-singular symmetric matrices that commute. Show that A−1B and
+A−1B−1 are symmetric.
+Exercise 1.8.38
+Specify whether the matrix has an inverse without trying to compute the
+inverse
+
+
+−1
+1
+1
+0
+0
+0
+0
+−1
+0
+0
+0
+0
+1
+−1
+0
+0
+1
+1
+0
+1
+1
+−1
+1
+1
+0
+
+
+ddumba & musisi
+Page 41 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+We use the definition of determinant. We calculate the determinant across the 2nd rows and
+3rd column.
+
+−1
+1
+1
+0
+0
+0
+0
+−1
+0
+0
+0
+0
+1
+−1
+0
+0
+1
+1
+0
+1
+1
+−1
+1
+1
+0
+
+=
+(−1)
+
+−1
+1
+0
+0
+0
+0
+−1
+0
+0
+1
+0
+1
+1
+−1
+1
+0
+
+=
+(−1)
+
+(−1)
+
+−1
+1
+0
+0
+1
+1
+1
+−1
+0
+
+
+
+=
+(−1)
+
+(−1)
+
+(−1)
+
+−1
+1
+1
+−1
+
+
+=
+(−1)(−1)(−1)[(1) −(1)]
+=
+0
+Since we have the determinant is 0, the matrix is not invertible.
+Exercise 1.8.39 Find the inverse of the matrix A using the inverse formula (cofactor-adjoint)
+where A =
+
+
+1
+−1
+1
+2
+−1
+0
+1
+−2
+2
+
+
+A−1 =
+
+
+2
+0
+−1
+4
+−1
+−2
+3
+−1
+−1
+
+
+Exercise 1.8.40
+Compute the determinant of the matrix
+
+
+
+
+1
+2
+3
+4
+2
+6
+12
+9
+3
+6
+10
+15
+4
+8
+12
+14
+
+
+
+
+by using row operations (Hint: Recall the determinant of an upper triangular matrix).
+Exercise 1.8.41
+LetA =
+
+
+1
+1
+a
+1
+0
+a −1
+2a
+1
+0
+0
+(a −1)(a2 −4)
+a
+0
+0
+0
+a
+
+. Determine those values of a for
+which A is invertible.
+Triangular. if and only if a ̸= 0 and a ̸= 1 and a ̸= 2 and a ̸= −2.
+Exercise 1.8.42
+Let A =
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
+and assume that det(A) = 2. Find
+1.) det(−2A)
+2.) det
+  1
+2A−1
+3.) det (2A2)
+4.) det
+ 3(AT)−1
+5.) det
+
+
+a
+g
+d
+b
+h
+e
+c + 2a
+i + 2g
+f + 2d
+
+
+det(C) = det(BT) = det(B) = (−1) det(A) = −2
+ddumba & musisi
+Page 42 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.43
+Let
+A =
+
+
+1
+−1
+1
+2
+0
+1
+3
+0
+1
+
+,
+B =
+
+
+2
+−2
+1
+3
+−4
+4
+
+.
+Verify directly that A(AB) = A2B.
+Exercise 1.8.44
+Find the determinant of the matrix A =
+
+
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+
+
+We apply the row operations to A to have
+
+
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+
+
+⇒
+det A = 1
+Exercise 1.8.45
+Find x, assuming
+det
+
+
+x2
+x
+2
+2
+1
+1
+0
+0
+−5
+
+= 0
+Calculate the determinant according to the third row: x = 0 or x = 2
+Exercise 1.8.46 Let A and B be 4 × 4 matrices with det(A) = −1 and det(B) = 2. Find the
+determinant det(B−1AB).
+We have
+det(B−1AB)
+=
+det(B−1) det(A) det(B)
+=
+1
+det(B) det(A) det(B)
+=
+det(A)
+=
+−1
+Exercise 1.8.47
+State whether the following are true or false. If true, explain why, if false,
+give a numerical example to illustrate.
+1.) If A and B are 2 by 2 matrices, then det(A + B) is always equal to det A + det B.
+False: A =
+ 1
+0
+0
+0
+
+,
+B =
+ 0
+0
+0
+1
+
+⇒0 + 0 ̸= 1
+2.) If a 13 × 13 matrix A satisfies then A2 = 0, then A is not invertible.
+True. Assume A invertible, A = A−1A2 = 0 ⇒det A = 0 ⇒, A invertible
+ddumba & musisi
+Page 43 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.48
+If C =
+ 0
+2
+1
+1
+0
+1
+
+and D is a 3 × m matrix then the second row of the
+matrix CD is
+A. not defined unless m = 2.
+B. the same as the first row of D.
+C. the same as the second row of D.
+D. the sum of the first and the third row of D.
+E. the sum of twice the second row of D and the third row of D.
+F. twice the first row of D.
+D
+Exercise 1.8.49 Which of the following statements are false?
+1.) For all invertible n × n matrices A and B, det(A−1BA) = det B
+2.) For all invertible n × n matrices A and B, det(A−1B−1AB) = 1
+3.) For all n × n matrices A and B,
+ ATBTT = AB
+4.) For all invertible n × n matrices A and B, (ABA−1)−1 = A−1B−1A
+5.) For all n × n matrices A and B, det(ATB) = det(BTA)
+A. (1) and (3)
+B. (2) and (3)
+C. (3) and (4)
+D. (2) and (4)
+E. (2) and (5)
+F. (1) and (5)
+(1), True:
+(2), True:
+(3), False :
+ ATBTT = BA.
+(4), False : (ABA−1)−1 = AB−1A−1.
+(5), True :
+Its possible that AB ̸= BA and A−1B−1A ̸= AB−1A−1
+C
+Exercise 1.8.50
+Let A and B denote matrices, not necessarily square, and which have more
+than 1 row and more than 1 column, and let x denote a column vector (i.e., a k × 1 matrix for
+some k).
+State whether each of the following is (always) true, or is (possibly) false
+• If you say the statement may be false, you must give an explicit example - with numbers!
+(Hint: Try an example with 2 or 3 rows or columns.)
+• If you say the statement is true, you must give a clear explanation - by quoting a theorem
+presented in class, any by giving other valid proof.
+ddumba & musisi
+Page 44 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+1.) If A is m × n and rankA = m, then the system Ax = 0 has a unique solution.
+False: A =
+ 1
+0
+0
+0
+1
+0
+
+2.) If AB = 0 then either A = 0 or B = 0.
+False: A = B =
+ 0
+1
+0
+0
+
+3.) If B has a column of zeros then AB has a column of zeros.
+True
+Write B with column entries where the jth column is zeros.
+B = [c1 c2
+· · ·
+0 cj+1
+· · ·
+cn]
+Then
+AB = [Ac1 Ac2
+· · ·
+A · 0 Acj+1
+· · ·
+Acn] = [Ac1 Ac2
+· · ·
+0 Acj+1
+· · ·
+Acn]
+That is, if the jth column of B is zero, then the jth column of AB is zero as well.
+Exercise 1.8.51
+If two n × n matrices A and B satisfy AT = B−1 and BT = −B−1 then
+(ABA)T is always
+A. −B3
+B. B2A
+C. −B−3
+D. B−3
+E. B3
+F. AB2
+C
+Exercise 1.8.52
+Determine the value(s) of λ for which the matrix
+A =
+
+
+λ
+−1
+0
+−1
+λ
+−1
+0
+−1
+λ
+
+
+is invertible.
+Invertible if |A| ̸= 0, since already a square matrix. λ ̸= 0 and λ ̸=
+√
+2 and λ ̸= −
+√
+2
+ddumba & musisi
+Page 45 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.53
+Assume that B is a 3 × 3 matrix with the property that B2 = B. Which of
+the following statements about the matrix B must be true:
+A. AB is invertible
+B. det(B) = 0
+C. det(B5) = det(B)
+D. None of the above must be true
+C
+Two examples of matrices that satisfy B2 = B are B = I3 and B = 03×3 where 03×3 is the 3×3
+matrix with all zero entries. So (A) is false because the 0 matrix satisfies the property but is
+not invertible. Similarly (B) is false because the identity matrix satisfies the property but the
+determinant of the identity is 1 not 0. (C) is true because
+B5 = (BB)(BB)B = (B)(B)B = (BB)B = (B)B = BB = B
+so B5 = B and hence in particular det(B5) = det(B).
+Exercise 1.8.54
+True or False? If A and B are both invertible n × n matrices, then AB is
+invertible.
+True: One way to see this is to note that if A and B are invertible then each of their determinants
+are nonzero. But then
+det(AB) = det(A)det(B)
+is also nonzero since its a product of two non zero numbers. Hence since det(AB) is nonzero,
+it follows that AB is invertible.
+Exercise 1.8.55
+True or False? Let A and B be n × n matrices. Assume that
+AB = In.
+Then,
+BA = In
+True: Since AB = In it follows from the invertible matrix theorem (the theorem that gives
+all the many equivalences for a matrix being invertible) that A and similarly B are invertible.
+Moreover, the equation AB = In says that B = A−1 Hence in this case BA = (A−1)A = In.
+Exercise 1.8.56
+Compute the inverse of the matrix A =
+
+
+1
+1
+1
+1
+0
+0
+0
+1
+2
+
+
+Exercise 1.8.57
+If E is a 3 × 3 matrix of the form
+E =
+
+
+1
+8
+3
+x
+y
+z
+−3
+7
+2
+
+.
+Given det(E) = 5, compute the determinant of the following matrix
+F =
+
+
+x
+y
+z
+1
+8
+3
+−3 + 4x
+7 + 4y
+2 + 4z
+
+.
+ddumba & musisi
+Page 46 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.58
+Let the matrices
+X =
+ 1
+1
+1
+2
+
+,
+Y =
+ −3
+5
+1
+2
+
+1.) Compute X−1
+X−1 =
+
+2
+−1
+−1
+1
+
+.
+2.) Compute XY X−1
+XY X−1 =
+ 1
+1
+1
+2
+  −3
+5
+1
+2
+ 
+2
+−1
+−1
+1
+
+=
+ −2
+7
+−1
+9
+ 
+2
+−1
+−1
+1
+
+=
+ −11
+9
+−11
+10
+
+3.) Compute det(XY X−1)
+det
+ −11
+9
+−11
+10
+
+= (−11)(10) −(9)(−11) = −110 + 99 = −11
+4.) What is the relationship between det(Y ), and det(XY X−1) and why?
+det(Y ) = det
+ −3
+5
+1
+2
+
+= (−3)(2) −(5)(1) = −6 −5 = −11
+So det(XY X−1) = det(Y ). This is not a coincidence. In fact,
+det(XY X−1) = det(X) det(Y ) det(X−1) = det(X) det(X−1) det(Y )
+= det(XX−1) det(Y ) = det(I2) det(Y ) = 1 ∗det(Y ) = det(Y )
+Exercise 1.8.59
+What is the reduced row echelon form of the matrix
+
+
+0
+1
+2
+−1
+0
+1
+1
+0
+2
+1
+−1
+0
+
+?
+A.
+
+
+1
+0
+0
+−1
+0
+1
+0
+1
+0
+0
+1
+−1
+
+
+B.
+
+
+1
+0
+0
+1
+0
+1
+0
+−1
+0
+0
+1
+−1
+
+
+C.
+
+
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+−1
+
+
+D.
+
+
+1
+0
+0
+0
+0
+1
+0
+−1
+0
+0
+1
+−1
+
+
+E. none of the preceding.
+ddumba & musisi
+Page 47 of 246
+mth2206: lecture notes
+
+1.8. MATRICES CHAPTER EXERCISES
+Exercise 1.8.60
+What is the determinant of the matrix
+
+
+0
+0
+2
+0
+0
+1
+0
+0
+3
+0
+0
+0
+5
+0
+0
+4
+
+
+A. −120
+B. −24
+C. 0
+D. 24
+E. 120
+Exercise 1.8.61
+What is the first row of the inverse of the matrix
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+A. [0
+−2
+1]
+B. [0
+−3
+−6]
+C. [0
+6
+−3]
+D. [2
+1
+0]
+E. The inverse does not exist.
+Exercise 1.8.62
+If
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+
+= 3, find
+
+b
+f −2n
+n
+5j −b
+a
+e −2m
+m
+5i −a
+c
+g −2o
+o
+5k −c
+d
+h −2p
+p
+5l −d
+
+Exercise 1.8.63
+Find the row echelon form of the following matrices.
+A =
+
+
+2
+−4
+3
+−6
+12
+−9
+4
+−8
+6
+
+,
+B =
+
+
+1
+3
+−4
+2
+−3
+−2
+
+,
+C =
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+6
+7
+8
+7
+
+
+The row echelon form
+A =
+
+
+2
+−4
+3
+−6
+12
+−9
+4
+−8
+6
+
+∼
+
+
+2
+−4
+3
+0
+0
+0
+0
+0
+0
+
+
+B =
+
+
+1
+3
+−4
+2
+−3
+−2
+
+∼
+
+
+1
+3
+0
+14
+0
+7
+
+∼
+
+
+1
+3
+0
+14
+0
+0
+
+
+C =
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+6
+7
+8
+7
+
+∼
+
+
+1
+2
+3
+4
+0
+−4
+−8
+−12
+0
+−5
+−10
+−17
+
+∼
+
+
+1
+2
+3
+4
+0
+1
+2
+3
+0
+1
+2
+17/5
+
+∼
+
+
+1
+2
+3
+4
+0
+1
+2
+3
+0
+0
+0
+2/5
+
+
+Exercise 1.8.64
+Find the reduced row echelon form of the following matrix
+
+
+1
+3
+5
+7
+3
+5
+7
+9
+5
+7
+9
+1
+
+
+
+
+1
+3
+5
+7
+3
+5
+7
+9
+5
+7
+9
+1
+
+∼
+
+
+1
+3
+5
+7
+0
+4
+8
+12
+0
+8
+16
+34
+
+∼
+
+
+1
+2
+5
+7
+0
+1
+2
+3
+0
+4
+8
+17
+
+∼
+
+
+1
+3
+5
+7
+0
+1
+2
+3
+0
+0
+0
+5
+
+
+∼
+
+
+1
+3
+5
+7
+0
+1
+2
+3
+0
+0
+0
+1
+
+∼
+
+
+1
+3
+5
+7
+0
+1
+2
+0
+0
+0
+0
+1
+
+∼
+
+
+1
+3
+5
+0
+0
+1
+2
+0
+0
+0
+0
+1
+
+∼
+
+
+1
+0
+−1
+0
+0
+1
+2
+0
+0
+0
+0
+1
+
+
+ddumba & musisi
+Page 48 of 246
+mth2206: lecture notes

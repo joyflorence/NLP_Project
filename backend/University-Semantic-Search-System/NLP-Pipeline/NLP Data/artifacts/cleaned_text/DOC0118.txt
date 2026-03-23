@@ -1,0 +1,1815 @@
+Risk management strategies in logistics and supply chain operations: a case study at Joint
+Medical Stores headquarters, Nsambya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Betty Elizabeth Namwase
+J21B12/281
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF BACHELOR’S
+DEGREE IN PROCUREMENT AND LOGISTICS MANAGEMENT OF
+UGANDA CHRISTIAN UNIVERSITY
+
+
+
+
+August, 2023
+
+
+
+
+
+DEDICATION
+
+I dedicate this research endeavor to my beloved family and all the dedicated employees who
+contribute their time, efforts, and insights to organizations around the world. Your commitment
+and resilience inspire the pursuit of knowledge to create more supportive, fulfilling, and
+productive work environments.
+l dedicate this report to my beloved brother kigenyi Ambrose to continue resting peace to
+whoever to the provision of guidance and protection provided to me when he was still alive .
+
+l dedicate this report to my supervisor to the guidance given to me when l was writing this
+research that thank you for the time and opportunity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACKNOWLEDGEMENT
+
+I extend my heartfelt gratitude to my advisors, colleagues, and mentors who provided invaluable
+guidance, support, and encouragement throughout this research journey. Your insights and
+expertise have been instrumental in shaping this study.
+
+Special appreciation is extended to my dedicated academic supervisor for his unwavering
+commitment in ensuring the excellence of this research report. His tireless efforts have
+contributed significantly to shaping a comprehensive and valuable source of reference for fellow
+researchers venturing into similar or related fields of study.
+
+I also express my appreciation to the participants who generously shared their time and
+perspectives, enabling the completion of this research report, May God bless you all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+DECLARATION1
+APPROVAL2
+DEDICATION3
+ACKNOWLEDGEMENT4
+ABSTRACT9
+CHAPT ER ONE: INTRODUCTION1
+1.0 Introduction1
+1.1 Background of the study1
+1.1.1 Historical background1
+1.1.2 Theoretical background2
+1.1.3 The conceptual background3
+1.1.4 Contextual background4
+1.2 Problem statement5
+1.3 Objectives of the study5
+1.3.1 General objective5
+Objectives of the study5
+1.3.3 Research questions5
+1.6 Research hypothesis6
+1.6 Scope of the study6
+1.6.1 Content scope6
+1.6.2 Geographical scope6
+1.6.3 Time scope6
+1.7 Justification of the Study7
+1.8 Significance of the study7
+1.9 Conceptual Framework9
+1.9 Definition of terms11
+CHAPTER TWO12
+
+
+LITERATURE REVIEW12
+2.0 Introduction12
+2.1.1 Logistics and Supply Chain Operations12
+2.1.2 Inventory Management13
+2.1.3 Warehousing and Distribution13
+2.1.4 Demand Planning and Forecasting13
+2.1.5 Customer Service and Order Management13
+2.1.6 Transportation14
+2.2 The contribution of risk identification in logistics on supply chain operations14
+2.3 The role of risk mitigation and control in logistics on supply chain operations16
+2.4 The relationship between risk assessment and analysis in logistics on supply chain
+operations18
+2.5 Summary of reviewed literature20
+CHAPTER THREE22
+METHODOLOGY22
+3.0 Introduction22
+3.1 Research design22
+3.2 Description of the population22
+3.3 Sample size22
+3.4 Sampling procedure22
+3.5 Data collection instruments23
+3.5.1 Interview guide23
+3.5.2 Questionnaire23
+3.7 Data analysis23
+3.8 Data presentation23
+3.9 Ethical Consideration23
+CHAPTER FOUR25
+DATA PRESENTATION, ANALYSIS AND INTERPRETATION OF FINDINGS25
+4.0 Introduction25
+4.1 Background information on respondents25
+4.2 Quantitative findings on the general targeted respondents according to the study
+objectives26
+4.2.1 Findings on the contribution of risk identification in logistics on supply chain
+operations at Joint Medical Stores26
+
+
+4.2.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores30
+4.2.3 The relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores34
+CHAPTER FIVE39
+SUMMARY DISCUSSION OF FINDINGS, CONCLUSIONS AND
+RECOMMENDATIONS39
+5.0 Introduction39
+5.1 Summary discussion of findings39
+5.1.1 The contribution of risk identification in logistics on supply chain operations at Joint
+Medical Stores39
+5.1.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores40
+5.1.3 The relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores41
+5.2 Conclusions43
+5.2.1 The contribution of risk identification in logistics on supply chain operations at Joint
+Medical Stores43
+5.2.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores43
+5.2.3 The relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores43
+5.3 Recommendation44
+5.3.1 The contribution of risk identification in logistics on supply chain operations at Joint
+Medical Stores44
+5.3.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores44
+5.3.3 The relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores45
+5.4 Suggestions for Further Research45
+References46
+APPENDIX: A49
+Questionnaire to the procurement staff and the quality assurance staff at Joint Medical
+Stores Head Quarters, Nsambya49
+APPENDIX: B53
+Interview guide questions to the Quality assurance staff of Joint Medical Stores Head
+Quarters, Nsambya53
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIST OF TABLES
+
+Table 2: Gender of Respondents25
+Table 3: Age distribution of respondent at the Joint Medical Stores25
+Table 4: Level of Education26
+Table 5: The contribution of risk identification in logistics on supply chain operations at Joint
+Medical Stores27
+Table 6: The role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores31
+Table 7: The relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores35
+
+
+
+
+List of figure
+
+Figure 1: Conceptual Model9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+
+The study was conducted at Joint Medical Stores Headquarters in Nsambya, delved into risk
+management strategies within the realm of logistics and supply chain operations. The primary
+objectives were to assess the impact of risk identification, evaluate the role of risk mitigation and
+control, and investigate the relationship between risk assessment and analysis. Employing a
+descriptive research design, both qualitative and quantitative methods were utilized, including
+cross-sectional surveys and various sampling techniques.
+
+The findings of this study underscored the importance of effective communication and education
+in the context of risk management. They revealed a need for addressing uncertainties and
+concerns among respondents, particularly those who were Not sure or disagreed with certain
+statements. The study emphasized the significance of fostering a shared understanding and
+commitment to risk management practices within Joint Medical Stores, ultimately contributing to
+the efficiency and resilience of the supply chain. It suggested implementing enhanced training
+programs, comprehensive documentation, and integrated frameworks to improve risk
+management practices and their understanding among staff at all levels.
+
+In conclusion, this research provided valuable insights into risk management strategies within
+logistics and supply chain operations. It highlighted the need for better communication,
+education, and practical demonstrations to address concerns and uncertainties among
+stakeholders. By fostering a shared understanding and commitment to risk management
+practices, organizations like Joint Medical Stores could enhance their supply chain efficiency
+and resilience. The study's recommendations included training programs, comprehensive
+documentation, and integrated frameworks to improve risk management practices within the
+organization.
+
+
+
+
+
+
+
+
+
+CHAPT ER ONE: INTRODUCTION
+1.0 Introduction
+This chapter presents the risk management strategies in logistics and supply chain operations, it
+cover the background to the study, statement of the research problem, purpose, objectives,
+research questions, the hypothesis, scope, the significance or justification, limitations of the
+study and definitions of terms to solve the research problem.
+
+1.1 Background of the study
+This covers the historical, theoretical, conceptual and contextual backgrounds.
+1.1.1 Historical background
+The historical background of risk management strategies in logistics and supply chain operations
+has evolved as organizations recognize the importance of systematically addressing risks to
+achieve sustained benefits. The concept of risk management emerged as a central part of
+strategic management, aiming to mitigate risks associated with activities and processes. Poor
+outsourcing and risks in the supply chain, such as operational risks, decision risks, and supplier
+base reduction, have been identified as factors that can significantly impact organizational
+profitability (Kwabena, 2005). The understanding of risk management processes and the
+identification of various risks have evolved over time, leading to a comprehensive approach that
+includes
+risk
+identification,
+estimation,
+analysis/assessment,
+evaluation,
+reporting,
+communication, and monitoring/control (Bikker and Metzmakers, 2005).
+
+The historical development of risk management in logistics and supply chain operations has
+highlighted the defensive and offensive roles it plays in manufacturing firms. Effective risk
+management is crucial for minimizing the impact of risks on organizational performance and
+requires strong leadership and governance (Jorion, 2009). Recognizing risks and managing them
+has become essential, as unidentified risks are considered riskier. Risk management extends
+beyond specific areas, such as sourcing, stockpiling, and insurance, to include supplier
+development, contractual obligations, collaborative initiatives, and careful supplier selection
+(Chopra and Meindl, 2007). The emphasis on risk management as a proactive strategy has
+grown, reflecting the multifaceted and complex nature of risks and the need to manage them
+rather than fear them (Payle, 1997; Greuning and Bratanovic, 1999).
+
+
+The evolution of risk management in logistics and supply chain operations has necessitated
+ongoing risk assessment and quantification to enhance organizational understanding and improve
+performance. Organizations engage in rigorous analytical processes to identify and quantify
+risks, allowing them to determine risk tolerance and allocate resources effectively (Kwabena,
+2005). Implementing a reporting and review structure, conducting regular audits, and ensuring
+compliance with policies and standards are essential components of effective risk management
+(Ukandu, 2007). The outcome of successful risk management practices includes increased
+confidence, quality assurance, resource allocation, disaster recovery and business continuity
+planning, enhanced reputation, coordination with service and delivery patterns, increased
+customer attraction, and improved profitability (Chapelle et al., 2004).
+
+1.1.2 Theoretical background
+Risk management is a critical component of an organization's strategic management, aimed at
+addressing risks associated with its activities to achieve sustained benefits. Risks in the supply
+chain and poor outsourcing can have a significant impact on organizational profitability
+(Kwabena, 2005). These risks encompass operational risks, decision risks, supplier base
+reduction, globalization, acquisition mergers, alliances, inertia, and just-in-time relationship
+risks.
+The
+process
+of
+risk
+management
+involves
+risk
+identification,
+estimation,
+analysis/assessment, evaluation, reporting, communication, and monitoring/control (Bikker and
+Metzmakers, 2005). This comprehensive approach ensures that risks are effectively managed to
+minimize their impact on the organization's operations and profitability.
+
+Effective risk management serves as both a defensive mechanism and an offensive weapon for
+manufacturing firms, with the quality of leadership and governance playing a crucial role in its
+implementation. It is essential to recognize and manage risks, as unidentified risks are inherently
+riskier than recognized ones (Jorion, 2009). Risk management extends throughout various areas,
+including sourcing, stockpiling, insurance, supplier development, contractual obligations,
+collaborative initiatives, and careful supplier selection. By implementing robust risk management
+strategies, manufacturing firms can proactively address potential risks, mitigate their impact, and
+enhance their overall performance.
+
+
+
+Assessing risks is an ongoing process that requires organizations to engage in rigorous analysis
+and quantify risks. Senior management or the board of directors must determine the
+organization's risk tolerance based on an assessment of potential losses (Kwabena, 2005).
+Effective risk assessment allows organizations to better understand their risk profile and allocate
+resources to target risk management measures that help mitigate risks and improve performance.
+To ensure effective risk management, organizations need to establish a reporting and review
+structure, conduct regular audits of policy compliance, and review performance to identify areas
+for improvement. The monitoring process provides assurance that appropriate controls are in
+place for the organization's activities, ensuring adherence to procedures (Ukandu, 2007).
+
+1.1.3 The conceptual background
+Risk management strategies refer to the systematic approaches and processes implemented by
+organizations to identify, assess, mitigate, and monitor risks associated with their operations
+(Ariane et al., 2004). These strategies aim to minimize the negative impact of uncertainties and
+vulnerabilities on the achievement of organizational objectives. In the context of JMS, risk
+management strategies would involve identifying potential risks in their logistics and supply
+chain operations, evaluating their likelihood and impact, and implementing appropriate measures
+to mitigate those risks.
+
+On the other hand, logistics and supply chain operations encompass the activities involved in
+managing the flow of goods, services, and information from the point of origin to the point of
+consumption (Christopher & Lee, 2004). This includes procurement, transportation,
+warehousing, inventory management, and distribution processes (Chopra & Meindl, 2007). In
+the case of JMS, logistics and supply chain operations would revolve around ensuring the timely
+and efficient delivery of medical supplies and pharmaceuticals to various healthcare facilities.
+
+Effective risk management strategies are vital for optimizing the performance and resilience of
+logistics and supply chain operations (Christopher & Lee, 2004). By identifying and addressing
+potential risks, such as disruptions in transportation, delays in procurement, or inventory
+shortages, organizations like JMS can enhance the efficiency, reliability, and overall
+performance of their logistics and supply chain processes. Furthermore, robust risk management
+
+
+strategies can help mitigate financial losses, maintain customer satisfaction, and ensure the
+availability of essential medical supplies, contributing to the organization's overall success and
+impact in the healthcare sector (Chopra & Meindl, 2007). The relationship between risk
+management strategies and logistics and supply chain operations in the context of JMS
+Headquarters is symbiotic. Implementing effective risk management strategies within logistics
+and supply chain operations enables JMS to proactively address potential risks and uncertainties,
+leading to improved operational efficiency, cost-effectiveness, and better service delivery to
+healthcare facilities and patients.
+
+1.1.4 Contextual background
+The logistics and supply chain operations in Uganda, like in many other countries, face
+significant risks and challenges that can hinder their efficiency and profitability. Uganda, being a
+developing nation in East Africa, has experienced substantial economic growth and
+industrialization, resulting in increased demand for effective logistics and supply chain
+management. However, inadequate risk management strategies in this sector have led to various
+issues such as supply disruptions, inventory management problems, transportation delays, and
+escalated costs (Christopher, 2005; Kwabena, 2005). These challenges have hampered the
+overall performance of logistics and supply chain operations in Uganda.
+
+One specific case study that exemplifies the need for research on risk management strategies is
+the Joint Medical Stores Headquarters in Nsambya, Uganda. Joint Medical Stores is a crucial
+organization responsible for the distribution of medical supplies and pharmaceutical products
+across the country. However, the organization has encountered challenges such as stockouts,
+inaccurate forecasting, poor inventory management, and supply chain disruptions (Kakuru, 2004;
+Niringiye, Luvanda & Shitundu, 2010). These issues not only hinder the availability and
+accessibility of vital medical supplies but also result in increased costs and compromised
+healthcare services.
+
+Given the prevailing situation in Uganda's logistics and supply chain operations, there is a
+pressing need to investigate and develop effective risk management strategies. The identified
+challenges, including poor forecasting, stockouts, and supply chain disruptions, underscore the
+
+
+importance of gaining a comprehensive understanding of the risks involved and implementing
+appropriate risk management practices (Bowen et al., 2001; Christopher & Lee, 2004).
+Conducting this study will provide valuable insights and facilitate the development and
+implementation of tailored risk management strategies that address the specific needs and
+challenges of logistics and supply chain operations in Uganda.
+
+1.2 Problem statement
+In today's globalized and complex business environment, logistics and supply chain operations
+are vital components of a company's success. However, these operations are inherently exposed
+to a myriad of risks that can disrupt the entire supply chain, leading to potential financial losses,
+delays, and damaged relationships with stakeholders. With the increasing frequency and severity
+of disruptions caused by natural disasters, geopolitical uncertainties, supplier failures, cyberattacks, and pandemics, effective risk management strategies in logistics and supply chain
+operations are becoming more critical than ever. Therefore, this research proposal aims to
+investigate and develop comprehensive risk management strategies that can enhance the
+resilience and agility of logistics and supply chain operations to cope with potential disruptions
+and maintain smooth and efficient business processes.
+
+1.3 Objectives of the study
+1.3.1 General objective
+The study examined the risk management strategies in logistics and supply chain operations.
+Objectives of the study
+i.
+To assess the contribution of risk identification in logistics on supply chain operations at
+ii.
+To establish the role of risk mitigation and control in logistics on supply chain operations
+at Joint Medical Stores
+iii.
+To establish the relationship between risk assessment and analysis in logistics on supply
+chain operations at Joint Medical Stores
+
+1.3.3 Research questions
+i.
+How does risk identification in logistics contribute to supply chain operations at Joint
+
+
+ii.
+What is the role of risk mitigation and control in logistics on supply chain operations at
+iii.
+What is the relationship between risk assessment and analysis in logistics on supply chain
+operations at Joint Medical Stores.
+
+1.6 Research hypothesis
+i.
+To assess the contribution of risk identification in logistics on supply chain operations at
+ii.
+To establish the role of risk mitigation and control in logistics on supply chain operations
+at Joint Medical Stores
+iii.
+To establish the relationship between risk assessment and analysis in logistics on supply
+chain operations at Joint Medical Stores
+
+1.6 Scope of the study
+1.6.1 Content scope
+The study covered the risk management strategies in logistics and supply chain operations basing
+on the contribution of risk identification in logistics on supply chain operations at Joint Medical
+Stores, the role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores and the relationship between risk assessment and analysis in logistics on supply
+chain operations at Joint Medical Stores.
+
+1.6.2 Geographical scope
+The study was conducted at the headquarters of the Joint Medical Stores (JMS) located at 1828
+Gogonya Road, in Nsambya, in the Makindye Division of Kampala, Uganda's capital and oldest
+city.
+
+1.6.3 Time scope
+The study focused from the period between 2006 and 2022 because this the time when Joint
+medical stores has strengthened its logistics operations. The length of time within which to finish
+this research was 5 months.
+
+
+
+1.7 Justification of the Study
+There are several justifications for conducting a study on risk management strategies in logistics
+and supply chain operations:
+
+Enhancing Risk Mitigation: Logistics and supply chain operations are inherently exposed to
+various risks, including disruptions in transportation, inventory management, supplier reliability,
+and market volatility. Conducting this study can provide insights into effective risk management
+strategies that can help organizations mitigate these risks. By identifying and implementing
+appropriate risk management practices, companies can enhance their ability to respond to
+unforeseen events and minimize their impact on operations.
+
+Improving Supply Chain Resilience: A resilient supply chain is crucial for maintaining
+operational continuity and meeting customer demands. This study can explore risk management
+strategies that enhance supply chain resilience by identifying vulnerabilities, establishing
+contingency plans, and building robustness against disruptions. Understanding the key factors
+that contribute to supply chain resilience can help organizations improve their ability to recover
+quickly from disruptions and maintain business continuity.
+
+Optimizing Resource Allocation: Risk management strategies often involve allocating resources
+such as time, capital, and personnel to mitigate potential risks. By conducting this study,
+organizations can gain insights into the most effective allocation of resources to manage risks in
+logistics and supply chain operations. This can result in improved resource utilization, cost
+savings, and enhanced operational efficiency.
+
+1.8 Significance of the study
+The study on risk management strategies in logistics and supply chain operations holds
+significant importance for various stakeholders:
+
+Policy Makers: Policymakers can use the research outcomes to design effective frameworks and
+initiatives that promote the adoption of risk management practices, ensuring the overall
+resilience and efficiency of the logistics sector.
+
+
+Joint Medical Stores: As a case study organization, Joint Medical Stores can benefit from the
+study by gaining specific recommendations and insights tailored to their operations. The research
+can help identify the specific risks and challenges faced by the organization and provide practical
+strategies for managing those risks effectively.
+
+Logistics Sector: The study's findings can contribute to the overall advancement and
+improvement of the logistics sector. By identifying and promoting best practices in risk
+management, the research can help enhance the sector's operational efficiency, mitigate risks,
+and ensure the smooth flow of goods and services.
+
+Future Scholars: The study can serve as a valuable reference and foundation for future scholars
+interested in exploring risk management strategies in logistics and supply chain operations.
+It provides a framework for further research and investigation into specific aspects of risk
+management, allowing scholars to build upon existing knowledge and contribute to the field's
+advancement.
+
+Student Researchers: For students interested in research, this study can serve as a source of
+inspiration and reference. It provides an opportunity for students to gain practical insights into
+the application of risk management strategies in a real-world context.
+
+By studying the research methodology and outcomes, students can develop their research skills,
+expand their knowledge, and contribute to the existing body of literature.
+
+
+
+
+
+
+
+
+
+
+
+1.9 Conceptual Framework
+
+Independent variable
+
+
+
+
+Dependent variable
+
+Risk Management Strategies
+
+
+Logistics and Supply Chain Operations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moderating Variables
+
+
+
+
+
+
+
+
+
+Figure 1: Conceptual Model
+Source: Adopted and modified by the researcher
+
+The conceptual framework shows the relationship between the independent variable (Risk
+Management Strategies) and the dependent variable (Logistics and Supply Chain Operations) is
+crucial in understanding how risk management strategies impact the various components of
+logistics and supply chain operations.
+
+Risk Management Strategies, including Risk Identification, Risk Assessment and Analysis, Risk
+Mitigation and Control, Risk Monitoring and Review, and Risk Communication and Reporting,
+directly influence the performance and effectiveness of logistics and supply chain operations. By
+implementing effective risk management strategies, organizations can identify potential risks,
+•
+Risk Identification
+•
+Risk Assessment and Analysis
+•
+Risk Mitigation and Control
+•
+Risk Monitoring and Review
+•
+Risk Communication
+•
+Inventory Management
+•
+Warehousing and Distribution
+•
+Demand Planning and Forecasting
+•
+Customer Service and Order Management
+•
+Transportation
+
+•
+Organizational Culture
+•
+Technology and Information Systems
+•
+Supply Chain Collaboration
+•
+Regulatory Environment
+•
+Leadership and Management Support
+
+
+
+assess their impact, implement appropriate measures to mitigate risks, continuously monitor and
+review the risk landscape, and communicate and report on risk-related information. These
+actions help organizations proactively manage risks and enhance the overall efficiency and
+resilience of their logistics and supply chain operations.
+
+The minor dependent variables, including Inventory Management, Warehousing and
+Distribution, Demand Planning and Forecasting, Customer Service and Order Management, and
+Transportation, are all influenced by the implementation of risk management strategies. For
+example, effective risk identification and assessment enable organizations to identify potential
+disruptions in the supply chain, which can help improve inventory management by ensuring
+optimal stock levels and reducing the risk of stockouts. Similarly, risk mitigation and control
+measures can enhance the efficiency of warehousing and distribution processes by reducing
+delays, improving order fulfillment, and minimizing the impact of unforeseen events.
+Additionally, risk management strategies contribute to accurate demand planning and
+forecasting, which enables organizations to meet customer demands effectively. Overall, the
+adoption of risk management strategies positively impacts the performance of logistics and
+supply chain operations across these minor dependent variables.
+
+Moderating variables, such as Organizational Culture, Technology and Information Systems,
+Supply Chain Collaboration, Regulatory Environment, and Leadership and Management
+Support, play a significant role in shaping the relationship between risk management strategies
+and logistics and supply chain operations. These moderating variables can either enhance or
+hinder the effectiveness of risk management strategies. For example, a supportive organizational
+culture that promotes risk awareness and proactive decision-making can reinforce the
+implementation of risk management strategies, leading to improved logistics and supply chain
+operations. Similarly, advanced technology and information systems facilitate real-time risk
+monitoring, data analysis, and communication, enabling organizations to respond swiftly to
+potential risks. Effective supply chain collaboration enhances information sharing and
+coordination among stakeholders, fostering a collective approach to risk management. The
+regulatory environment also influences the adoption and implementation of risk management
+practices within the logistics and supply chain context. Lastly, strong leadership and
+
+
+management support are essential in driving the prioritization of risk management and ensuring
+its integration into organizational strategies.
+1.9 Definition of terms
+Risk Management Strategies: Refers to the systematic processes, methods, and practices
+employed by organizations to identify, assess, mitigate, monitor, and communicate risks within
+their operations. It involves proactive measures to minimize the negative impact of risks and
+optimize business performance.
+
+Logistics: Logistics refers to the process of planning, implementing, and controlling the efficient
+and effective flow and storage of goods, services, and related information from the point of
+origin to the point of consumption.
+
+Supply Chain Operations: Supply chain operations involve the coordination and management
+of activities that occur within the broader supply chain network. It encompasses the entire
+process of transforming raw materials into finished products and delivering them to customers.
+Risk Identification: Involves the process of identifying potential risks or hazards that may affect
+the organization's logistics and supply chain operations. This includes recognizing internal and
+external factors that could disrupt the flow of goods, services, or information.
+
+Risk Mitigation and Control: Involves implementing measures and actions to reduce or
+eliminate identified risks. This includes developing strategies, policies, and procedures to
+minimize the occurrence and impact of risks and ensure business continuity.
+
+Risk Monitoring and Review: Refers to the continuous monitoring and evaluation of identified
+risks and the effectiveness of risk mitigation measures. It involves regularly reviewing risk
+management processes and adjusting strategies as necessary to address emerging risks.
+
+
+
+
+
+
+
+CHAPTER TWO
+LITERATURE REVIEW
+2.0 Introduction
+This chapter presents a comprehensive literature review, drawing on diverse sources from public
+resource centers and the internet. The review is structured around three central themes: the
+contribution of risk identification in logistics on supply chain operations, the role of risk
+mitigation and control in logistics on supply chain operations and the relationship between risk
+assessment and analysis in logistics on supply chain operations. Additionally, the study identifies
+gaps in the existing literature to pinpoint areas that require further research.
+
+2.1.1 Logistics and Supply Chain Operations
+Abdullah et al. (2004) highlight the importance of extending the concept of supply chain to value
+chains, emphasizing the need to consider the entire value creation process, from raw materials to
+the end product. This approach enables a more holistic understanding of potential risks and
+vulnerabilities within the supply chain. Allayannis et al. (2001) emphasize the significance of
+managing exchange rate risk, particularly in East Asia, where currency fluctuations can
+significantly impact logistics and supply chain costs. To address these risks, companies can
+implement hedging strategies, such as forward contracts or currency swaps, to mitigate the
+potential adverse effects of currency volatility.
+
+In logistics and supply chain operations, companies should also focus on operational risk
+management. Ariane et al. (2004) stress the implications of Basel II regulations on risk
+measurement and management in the financial sector. While these regulations primarily apply to
+banks, similar principles can be adapted to logistics and supply chain operations. Adopting sound
+risk measurement methods and integrating contingency plans can help address operational
+uncertainties and mitigate the impact of potential disruptions. Besner and Hobbs (2012) highlight
+the paradox of risk management, where overly conservative risk avoidance strategies can hinder
+innovation and competitiveness. Thus, companies should strike a balance between risk aversion
+and risk-taking to optimize their supply chain performance while safeguarding against potential
+pitfalls.
+
+
+
+2.1.2 Inventory Management
+Inventory Management plays a critical role in balancing production and demand to ensure
+optimal levels of raw materials, work-in-progress, and finished goods. Efficient inventory
+management minimizes holding costs and prevents stockouts or overstocking. Kakuru (2004)
+emphasizes the need for companies to manage inventory effectively to avoid tying up capital in
+excess inventory. Proper inventory control helps in aligning supply with demand and contributes
+to improved supply chain performance.
+
+2.1.3 Warehousing and Distribution
+Warehousing and Distribution are key components of logistics and supply chain operations,
+enabling efficient storage and delivery of products. Warehouses serve as storage facilities for
+inventory management, and distribution centers facilitate the sorting and transportation of goods.
+Effective warehousing and distribution practices help in timely deliveries and support
+streamlined supply chain operations (Ritchie, 2007). Companies can optimize their inventory
+flow and reduce lead times, leading to improved customer service levels. Proper coordination
+between warehousing and distribution helps in reducing handling and transportation costs,
+enhancing overall supply chain efficiency (Kakuru, 2004).
+
+2.1.4 Demand Planning and Forecasting
+Demand Planning and Forecasting are crucial in anticipating customer needs and aligning
+production and inventory levels accordingly. Accurate demand forecasts allow companies to
+avoid stockouts and excess inventory, leading to cost savings. Kwabena (2005) highlights the
+importance of assessing risks in manufacturing firms, which includes demand uncertainties. By
+adopting effective demand planning and forecasting techniques, companies can better plan their
+production schedules and improve their overall supply chain efficiency.
+
+2.1.5 Customer Service and Order Management
+Customer Service and Order Management are essential for building strong customer
+relationships and enhancing brand loyalty. Efficient order management systems, as highlighted
+by Kakuru (2004), enable smooth order processing, timely deliveries, and effective
+
+
+communication with customers. Exceptional customer service contributes to customer
+satisfaction and repeat business, impacting a company's overall performance.
+
+2.1.6 Transportation
+Transportation is a vital element in supply chain operations, involving the movement of goods
+between different locations. Efficient transportation management, as emphasized by Ritchie
+(2007), ensures timely deliveries and cost-effective operations. By selecting appropriate carriers,
+optimizing routes, and managing freight costs, companies can enhance their transportation
+efficiency and contribute to a more responsive supply chain.
+
+In a nutshell, logistics and supply chain operations are multifaceted processes that require
+effective management of inventory, warehousing, demand planning, customer service, and
+transportation. By implementing efficient practices and adopting proactive risk management
+strategies, companies can optimize their supply chain performance and gain a competitive edge
+in the market.
+
+2.2 The contribution of risk identification in logistics on supply chain operations
+The contribution of risk identification in logistics on supply chain operations has been a subject
+of significant interest in the field of supply chain management. Logistics operations involve the
+movement, storage, and distribution of goods, making them susceptible to various risks that can
+disrupt the smooth flow of the supply chain. Studies such as Abdullah et al. (2004) and Besner
+and Hobbs (2012) highlight the importance of risk identification in mitigating potential
+disruptions and enhancing the overall efficiency of supply chain operations.
+
+Effective risk identification enables supply chain managers to proactively assess and anticipate
+potential risks, allowing them to implement appropriate risk management strategies. This
+involves analyzing various factors, such as transportation delays, inventory management issues,
+supplier reliability, and geopolitical risks, to name a few. By identifying these risks early on,
+supply chain managers can develop contingency plans and implement risk-mitigating measures
+to ensure the continuity of operations and minimize the impact of disruptions.
+
+
+However, there are still gaps in the literature regarding risk identification in logistics and its
+specific impact on supply chain operations. While some studies, like Chopra and Meindl (2003),
+emphasize the significance of risk management in supply chain strategy and planning, there is a
+need for more in-depth research that explores the specific methods and tools used for risk
+identification in logistics. Furthermore, the effectiveness of risk identification in different types
+of supply chains and industries needs further investigation to develop comprehensive risk
+management strategies tailored to specific contexts.
+
+Carvalho and Rabechini Junior (2015) argue that soft skills, such as communication and
+collaboration, are essential for effective risk identification and management in projects. This
+notion can be applied to logistics operations as well, as effective communication and
+collaboration between supply chain stakeholders are crucial for identifying and mitigating risks.
+Studies that delve into the role of soft skills in risk identification within logistics can provide
+valuable insights into optimizing supply chain operations.
+
+Another aspect that requires further exploration is the integration of emerging technologies, such
+as big data analytics and artificial intelligence, in risk identification in logistics. Research by
+Chapelle and Plane (2005) on the use of data envelopment analysis in measuring productive
+efficiency in the manufacturing sector suggests that similar data-driven approaches can be
+applied to logistics risk identification. Investigating the potential of advanced analytics in
+enhancing risk identification and response strategies can significantly contribute to supply chain
+optimization.
+
+Additionally, research should focus on the identification and analysis of emerging risks and
+uncertainties in logistics. With global markets becoming more interconnected and dynamic,
+supply chains are exposed to a wide array of potential risks, including geopolitical tensions,
+climate change impacts, and disruptive technologies. Investigating how logistics operations can
+adapt to these emerging risks and uncertainties is crucial for building resilient supply chains.
+Studies like Ariane et al. (2004) highlight the implications of Basel II on risk management in the
+financial sector, emphasizing the importance of similar explorations in the logistics context.
+
+
+Furthermore, the role of organizational culture and leadership in promoting a risk-aware culture
+within logistics operations is another area worth exploring. Organizational culture plays a
+significant role in shaping how risks are perceived, communicated, and managed. Leaders who
+prioritize risk identification and encourage open communication about potential risks foster a
+proactive risk management environment. Research by Allayannis, Brown, and Klapper (2001) on
+exchange rate risk management in East Asia provides insight into the role of organizational
+context in risk management. Investigating the relationship between leadership practices,
+organizational culture, and effective risk identification in logistics can contribute to enhancing
+overall supply chain resilience.
+
+In conclusion, risk identification in logistics plays a critical role in supply chain operations by
+enabling proactive risk management and enhancing overall efficiency. However, there are gaps
+in the literature that warrant further research, including exploring specific risk identification
+methods and tools, the role of soft skills in risk identification, and the integration of emerging
+technologies in the process. Addressing these gaps can lead to a more comprehensive
+understanding of the contribution of risk identification to logistics and supply chain operations,
+ultimately leading to more resilient and optimized supply chains.
+
+2.3 The role of risk mitigation and control in logistics on supply chain operations
+The role of risk mitigation and control in logistics is crucial for ensuring the smooth and efficient
+functioning of supply chain operations. Zheng, Yildiz, and Talluri (2015) emphasize the
+significance of risk management in supply chains to identify potential threats and develop
+strategies to minimize their impact. Risk mitigation involves implementing preventive measures
+and contingency plans to reduce the probability of risks occurring and to handle them effectively
+when they do. For instance, implementing robust inventory management practices can help
+reduce the risk of stockouts or excess inventory, thereby enhancing supply chain efficiency.
+
+One area that requires further research is the evaluation of different risk mitigation strategies and
+their effectiveness in different industries and contexts. Ryan et al. (2013) discuss the empirical
+performance of risk identification methods, but more studies are needed to assess the real-world
+effectiveness of specific risk mitigation techniques. Investigating the challenges and successes of
+
+
+risk control measures can provide valuable insights into refining and customizing risk
+management strategies for various supply chain settings.
+
+Moreover, the role of technology in enhancing risk mitigation and control in logistics should be
+explored further. Krejcie and Morgan (1986) emphasize the importance of leveraging technology
+for efficient operations. The integration of advanced analytics, artificial intelligence, and realtime monitoring can significantly enhance risk detection and mitigation capabilities in supply
+chains. Research should focus on identifying suitable technological solutions and their potential
+impact on supply chain performance.
+
+Additionally, the influence of firm size on risk mitigation practices in logistics warrants
+investigation. Niringiye, Luvanda, and Shitundu (2010) study firm size and technical efficiency
+in East African manufacturing firms, but specific research is required to understand how
+different-sized organizations approach risk mitigation in their supply chains. Smaller firms might
+face unique challenges in implementing risk control measures, and studying their strategies can
+offer valuable lessons for enhancing risk management practices across the supply chain
+landscape.
+
+Furthermore, exploring the role of collaboration and coordination among supply chain partners
+in risk mitigation is essential. Ritchie (2007) highlights the importance of supply chain risk
+management, but research on how effective communication and collaboration among
+stakeholders can lead to better risk control is lacking. Investigating successful collaborative
+efforts and their impact on supply chain resilience can help foster better risk management
+practices among supply chain partners.
+
+Further research is needed to explore the impact of cultural and regulatory factors on risk
+mitigation and control in logistics. Allayannis, Brown, and Klapper (2001) discuss exchange rate
+risk management in East Asia, but more comprehensive studies are required to understand how
+cultural norms and regulatory frameworks influence risk management decisions in supply chains.
+Different regions and countries may have varying approaches to risk control, and understanding
+
+
+these nuances can help multinational organizations develop tailored risk management strategies
+for their diverse supply chain networks.
+
+Additionally, investigating the relationship between risk mitigation and supply chain
+performance can provide valuable insights. Carvalho and Rabechini Junior (2015) highlight the
+importance of soft skills in risk management, but there is a need to examine how effective risk
+mitigation practices impact key performance indicators such as lead time, cost efficiency, and
+customer satisfaction. Identifying the link between risk control measures and supply chain
+performance outcomes can guide organizations in prioritizing their risk management efforts.
+
+Furthermore, studies should delve into the role of top management support and organizational
+culture in fostering a risk-aware supply chain environment. Besner and Hobbs (2012) discuss the
+paradox of risk management from a project management perspective, but research specific to
+supply chains can shed light on how leadership support and a risk-aware culture influence the
+adoption and effectiveness of risk mitigation strategies. Organizations with strong top
+management support and a culture that values risk awareness are more likely to prioritize risk
+management efforts, leading to better outcomes in mitigating and controlling risks.
+
+Moreover, a deeper analysis of the financial implications of risk mitigation in supply chains is
+necessary. Bikker and Metzemakers (2005) discuss bank provisioning behavior and
+procyclicality, but research should explore how different risk control strategies impact the
+financial performance and stability of supply chain entities. Assessing the costs associated with
+implementing risk mitigation measures and comparing them with potential savings from risk
+reduction can help organizations make informed decisions about their risk management
+investments.
+
+2.4 The relationship between risk assessment and analysis in logistics on supply chain
+The relationship between risk assessment and analysis in logistics plays a crucial role in ensuring
+the smooth functioning and resilience of supply chain operations. According to Talluri, Kull,
+Yildiz, and Yoon (2013), risk assessment involves identifying potential risks that could disrupt
+
+
+supply chain activities, such as natural disasters, supplier disruptions, or demand fluctuations. On
+the other hand, risk analysis involves evaluating the likelihood and impact of these identified
+risks to prioritize and develop appropriate risk mitigation strategies. This relationship helps
+supply chain managers to proactively address potential disruptions, reduce uncertainty, and
+improve overall supply chain performance.
+
+However, there are gaps in the literature regarding the integration of risk assessment and analysis
+in logistics. While existing studies, such as those by Bowen et al. (2001) and Christopher and
+Lee (2004), discuss risk management practices in supply chains, there is limited research on how
+risk assessment findings inform the subsequent risk analysis process. Understanding the link
+between the two phases can provide insights into how risk information is utilized to make
+informed decisions and enhance the effectiveness of risk mitigation efforts.
+
+Moreover, research is needed to explore the impact of risk assessment and analysis on supply
+chain performance. Tummala and Schoenherr (2011) emphasize the importance of supply chain
+risk management processes, but there is a lack of empirical evidence on how these practices
+influence key performance indicators, such as cost efficiency, lead time, and customer
+satisfaction. Examining this relationship can help supply chain managers identify the most
+critical risks to target and allocate resources efficiently to improve overall supply chain
+outcomes.
+
+Additionally, there is a need to investigate the role of advanced technologies, such as artificial
+intelligence and big data analytics, in enhancing risk assessment and analysis capabilities in
+logistics. Srinivasan and Jeffrey (2017) introduce the concept of the supply chain immune
+system, which leverages data-driven techniques to predict and respond to risks in real-time.
+However, more research is required to understand the practical implementation and benefits of
+such technologies in supply chain risk management.
+
+Furthermore, exploring the cultural and organizational factors that influence risk assessment and
+analysis processes is essential. Roger and Boudewijn (2006) discuss quality and risk
+management issues, but there is limited research on how organizational culture and leadership
+
+
+support impact the effectiveness of risk assessment and analysis practices. Understanding these
+factors can help identify potential barriers to effective risk management and inform strategies to
+foster a risk-aware organizational culture.
+
+In summary, the relationship between risk assessment and analysis in logistics is crucial for
+effective supply chain risk management. However, gaps exist in understanding how risk
+assessment findings inform risk analysis, the impact of risk management on supply chain
+performance, the role of advanced technologies in enhancing risk management capabilities, and
+the influence of cultural and organizational factors. Addressing these gaps through further
+research will provide valuable insights to enhance supply chain resilience and performance.
+
+2.5 Summary of reviewed literature
+The literature review on the contribution of risk identification in logistics to supply chain
+operations revealed that effective risk assessment and analysis play a crucial role in enhancing
+supply chain resilience and performance. Studies by Talluri et al. (2013) and Chopra and Meindl
+(2007) emphasize the importance of identifying potential risks that could disrupt supply chain
+activities and evaluating their impact. However, there are gaps in the literature regarding the
+integration of risk assessment and analysis. Further research is needed to understand how risk
+assessment findings inform the subsequent risk analysis process, which can provide valuable
+insights into decision-making and risk mitigation strategies.
+
+In the context of risk mitigation and control in logistics, the literature review highlighted the
+significance of proactively addressing potential disruptions to ensure supply chain continuity.
+Research by Besner and Hobbs (2012) and Carvalho and Rabechini Junior (2015) underlines the
+importance of risk management practices in project and supply chain contexts. However, there is
+a lack of empirical evidence on the impact of risk management on supply chain performance.
+Closing this gap requires studying the relationship between risk management practices and key
+performance indicators, such as cost efficiency and customer satisfaction.
+
+Regarding the role of risk assessment and analysis in logistics on supply chain operations, the
+literature review revealed that effective risk management processes are essential for improving
+
+
+supply chain resilience. Studies by Srinivasan and Jeffrey (2017) and Ryan et al. (2013) highlight
+the significance of advanced technologies in enhancing risk management capabilities. However,
+there is limited research on the practical implementation and benefits of such technologies in
+supply chain risk management. Addressing this gap requires further investigation into how
+artificial intelligence and big data analytics can be leveraged to predict and respond to risks in
+real-time.
+
+In summary, the literature review underscores the importance of risk assessment and analysis in
+logistics to ensure the smooth functioning and resilience of supply chain operations. The gaps in
+the literature identified include the need for better integration of risk assessment and analysis,
+understanding the impact of risk management on supply chain performance, exploring the role of
+advanced technologies in risk management, and studying the influence of organizational and
+cultural factors on risk management practices. Closing these gaps through further research will
+provide valuable insights for enhancing supply chain resilience and performance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE
+METHODOLOGY
+3.0 Introduction
+In that chapter, several aspects were analyzed. The chapter threw light on sample selection,
+highlighted explanations on how data would be selected and processed (analyzed).
+
+3.1 Research design
+In the study, the research was descriptive in nature and allowed the use of both qualitative and
+quantitative methods, where qualitative determined wordy responses, and quantitative
+determined the frequency distribution of responses used as an interpretive technique. The
+researcher adopted a cross-sectional survey where different categories of the targeted population
+were studied at one point in time. Some respondents were selected by the researcher randomly to
+obtain the appropriate information required by the researcher.
+
+3.2 Description of the population
+Under this study, the researcher carried out the study with the help of the procurement staff,
+quality assurance staff, and other support staff.
+
+3.3 Sample
+size
+
+
+3.4
+Sampling
+procedure
+The researcher used a purposive sampling technique when selecting the procurement staff and
+the quality assurance staff. This method was applied since it is often employed when researchers
+sought the input of experts or individuals with specialized knowledge in a particular field. By
+selecting participants who were considered experts, the study could benefit from their unique
+insights and expertise. Simple random sampling was applied when selecting the support staff
+since they were many, and this method gave a chance to every respondent to participate.
+Category of Respondents
+Study Population
+Sample Size
+Procurement staff
+Quality assurance staff
+Other support staff
+Total
+
+
+
+3.5 Data collection instruments
+3.5.1 Interview guide
+Interviews were used because they were convenient for the researcher, for example, the
+unstructured interview where the respondent was free to explain a question according to the
+existing situation. This helped the researcher to gather more information. The researcher
+interviewed the other support staff. The researcher used at least 30 minutes in each interview
+with the respondent as he noted down some points.
+3.5.2 Questionnaire
+The researcher sent semi-structured questionnaires to the procurement staff and the quality
+assurance staff. They were also given time to fill in the questionnaires, hence providing accurate
+results to the researcher. The questionnaire was self-administered, whereby after two weeks of
+submission of questionnaires to the respondents, the researcher went on collecting the
+questionnaires from the respondents.
+3.7 Data analysis
+Both qualitative and quantitative methods were used by the researcher to analyze data.
+Qualitatively, most documents were expressed in words like the literature and the sent
+questionnaires. Additionally, quantitatively, the researcher analyzed and presented data in tables,
+charts, graphs, and percentages to verify the data further.
+3.8 Data presentation
+The information obtained from the questionnaire and interviews guided was expressed in figures
+and tabulations for interpretation and analysis. Some of it was used to draw graphs and figures to
+allow important conclusions to be made. Some other data was merely described and interpreted
+there and then.
+
+3.9 Ethical Consideration
+Ethical considerations deal with one's conduct and help guide a researcher on how to behave and
+maintain relationships with specific individuals or groups. In this context, the researcher needed
+to acquire permission and approval from various levels of authority. Maintaining high discipline
+and integrity within the community where the study was conducted was crucial, with a clear
+focus on several ethical principles:
+
+
+
+Confidentiality: All information gathered from the respondents was protected and kept
+confidential between the researcher and the particular respondent. This ensures that the privacy
+of the participants is respected, and their personal information remains secure.
+
+Academic Purpose: The data collected was solely intended for academic purposes and was not
+to be used for any other field outside academics. This principle underscores the importance of
+using research data responsibly and ethically.
+
+Honesty: The researcher was expected to be honest with themselves and the respondents. This
+involved accurately representing the research goals and avoiding any form of manipulation
+during data collection. Honesty ensures the integrity of the research process.
+
+Openness: The researcher should have been willing and ready to receive impressions or ideas
+from the respondents. Openness promotes a collaborative and respectful research environment
+where diverse perspectives are valued.
+
+Respect for Intellectual Property: The researcher was expected to respect the intellectual
+property of the respondents in their various categories. This includes acknowledging and
+properly citing the contributions and ideas of others.
+
+Confidentiality (Again): Discretion in keeping sensitive or confidential information was
+paramount. This principle reinforces the importance of safeguarding the privacy and trust of the
+participants.
+
+These ethical considerations are fundamental to conducting research responsibly and with
+integrity. They help ensure that the research process is conducted in an ethical manner that
+respects the rights and well-being of all involved parties.
+
+
+
+
+CHAPTER FOUR
+DATA PRESENTATION, ANALYSIS AND INTERPRETATION OF FINDINGS
+4.0 Introduction
+This chapter presents background characteristics of respondents and findings with reference to
+the research objectives. Data was presented using percentages organized in tables. The researcher
+distributed 42 questionnaires to the respondents and were all returned representing a 100%
+response rate.
+4.1 Background information on respondents
+This section presents the background characteristics of respondents and these include sex, age,
+marital status, terms of employment, level of education.
+Table 1: Gender of Respondents
+Sex of Respondent
+Male
+47.6%
+Female
+52%
+Total
+100.0
+The table presents data on the sex of respondents, with a total sample size of 42 participants. Of
+these, 20 respondents were male, accounting for 47.6% of the total sample, while 22 respondents
+were female, making up 52% of the total sample. The data indicates a nearly balanced
+distribution between male and female respondents. This suggests that the study was able to
+capture perspectives and insights from both genders, providing a well-rounded view of the
+subject matter. The relatively equal representation of both sexes enhances the validity and
+comprehensiveness of the study's findings, as it incorporates diverse viewpoints and experiences.
+Table 2: Age distribution of respondent at the Joint Medical Stores
+Marital Status
+18 –30
+35.7%
+31-40
+42.8%
+41-50
+16.6%
+Over 50
+4.7%
+Total
+100.0
+
+
+Table 3 provides information on the age distribution of respondents at the Joint Medical Stores,
+with a total sample size of 42 participants. The age distribution indicates a diverse range of
+participants across different age groups. The highest representation is observed in the 31 to 40
+age range, which could reflect the demographics of the Joint Medical Stores's workforce. The
+distribution shows a relatively balanced spread, which is beneficial for capturing a variety of
+perspectives and experiences stemming from different life stages and career trajectories.
+Table 3: Level of Education
+Education Level
+CC level
+11.9
+A’ level
+11.9
+Certificate/Diploma
+42.8
+Degree
+23.8
+Postgraduate
+4.7
+Others
+4.7
+Total
+100.0
+
+
+4.2 Quantitative findings on the general targeted respondents according to the study
+objectives
+The following section presents an analysis and interpretation of data in accordance with the three
+research objectives. Each of the objective forms a subsection under which data is presented,
+analyzed and interpreted.
+
+4.2.1 Findings on the contribution of risk identification in logistics on supply chain
+The primary aim of the first study objective was to investigate the primary aim of the first study
+objective was to investigate the contribution of risk identification in logistics on supply chain
+operations at Joint Medical Stores. To fulfill this aim, respondents were requested to express
+their level of agreement with five statements using a 5-point Likert scale, ranging from "strongly
+agree" to "strongly disagree." The subsequent table provides an overview of the range of
+agreement levels, represented by the abbreviations 1 SD (Strongly Disagree), 2 D (Disagree), 3
+N (Not sure), 4 A (Strongly Agree), 5 A (Agree), as outlined in Table 5 below. This approach
+
+
+was utilized to ascertain the minimum and maximum values associated with the various degrees
+of agreement.
+
+Table 4: The contribution of risk identification in logistics on supply chain operations at
+No.
+Statements
+Total
+Freq
+D1
+The identification of potential risks
+in logistics helps to recognize
+vulnerabilities in supply chain
+52%
+23.8%
+11.9%
+00%
+11.9%
+D2
+Assessing the likelihood potential
+impact of risks assists in
+prioritizing risk management efforts
+in supply chain at Joint Medical
+35.7%
+23.8%
+11.9%
+00%
+23.8%
+D3
+Regularly reviewing historical data
+industry trends aids in identifying
+emerging risks that could affect
+supply chain at Joint Medical
+59.5%
+23.8%
+11.9%
+00%
+4.7%
+D4
+Collaborative discussions among
+cross-functional teams contribute to
+the comprehensive identification of
+risks in supply chain at Joint
+52%
+23.8%
+11.9%
+00%
+11.9%
+D5
+Effective
+risk
+identification
+in
+logistics significantly enhances the
+efficiency of reliability of supply
+chain operations at Joint Medical
+35.7%
+23.8%
+11.9%
+00%
+23.8%
+The findings revealed that the majority of respondents (64.9%) agree or strongly agree with the
+statement, indicating a positive perception of risk identification. However, it's worth noting that
+11.9% of respondents were Not sure, and 23.8% disagreed. This suggests that a significant
+portion of respondents may not fully grasp the importance of risk identification or have
+reservations about its effectiveness. The general implication is that while there is overall support
+
+
+for risk identification, there is also a need for education or communication to address the
+concerns of the Not sure and disagreeing respondents.
+
+On the second statement, most respondents (59.5%) agree or strongly agree with the statement,
+indicating that they see the value in assessing risks for prioritization. However, 11.9% were Not
+sure, and 23.8% disagreed. The presence of both not sure and disagreeing respondents suggests
+that there may be a need for further clarification on how risk assessment directly contributes to
+prioritizing risk management efforts. The general implication is that there is room for better
+communication and education on this aspect of risk management.
+
+On the third statement, a majority (64.2%) agrees with the statement, 11.9% were not sure, and
+23.8% disagreed. The relatively low percentage of strong agreement (4.7%) indicates that some
+respondents may have reservations about the effectiveness of reviewing historical data and
+trends. The general implication is that there may be a need for more convincing evidence or
+examples to demonstrate the value of this practice, especially to those who are not sure or
+disagreeing.
+
+On the fourth statement, the majority (63.9%) agrees or strongly agrees with the statement,
+highlighting the importance of teamwork. However, 11.9% were not sure, and 23.8% disagreed.
+The presence of both not sure and disagreeing respondents suggests that there may be challenges
+or skepticism regarding the effectiveness of cross-functional teamwork in risk identification. The
+general implication is that efforts should be made to address these concerns and demonstrate the
+benefits of collaboration.
+
+In this case of the fifth statement, 35.7% of respondents agree, 23.8% strongly agree, 11.9% are
+Not sure, and 23.8% disagree. The combined percentage of agreement (35.7% + 23.8%) is
+59.5%, indicating that a majority of respondents believe that effective risk identification in
+logistics significantly enhances the efficiency and reliability of supply chain operations. The
+presence of "undecided" responses (11.9%) suggests that some respondents may not have a clear
+stance on this statement, possibly due to a lack of information or understanding. However, it's
+noteworthy that 23.8% of respondents disagree with the statement. This implies that there is a
+
+
+subset of respondents who do not see a strong link between risk identification and supply chain
+efficiency and reliability.
+
+In summary, the general implication across all statements is that there is a need for improved
+communication, education, and potentially providing practical examples or evidence to address
+the concerns of those who are undecided or disagreeing with the statements. While there is
+overall support for risk identification practices, understanding and buy-in from all stakeholders
+are essential for effective risk management within the supply chain at Joint Medical Stores.
+
+During the interviews conducted with the respondents regarding the impact of risk identification
+on supply chain operations at Joint Medical Stores, several insights were gathered:
+
+Respondents generally agreed that identifying potential risks in logistics significantly impacts
+recognizing vulnerabilities in the supply chain at Joint Medical Stores. They mentioned that this
+practice helps the organization to proactively identify weak points and potential disruptions in
+the supply chain. Some noted that it allows for early intervention and preventive measures to be
+taken, which contributes to smoother operations and better preparedness for contingencies.
+
+The respondents expressed that assessing the likelihood and potential impact of risks plays a vital
+role in prioritizing risk management efforts. They highlighted that by quantifying risks, it
+becomes easier to allocate resources and prioritize actions effectively. They noted that this
+approach helps the organization focus on high-impact risks, ensuring that resources are
+channeled to where they are most needed, thus enhancing the overall resilience of the supply
+chain.
+
+Interviewees emphasized the importance of regularly reviewing historical data and industry
+trends. They mentioned that these practices provide valuable insights into emerging risks. By
+studying past incidents and industry developments, they can anticipate potential challenges and
+adapt their strategies accordingly. This helps in proactive risk management and decision-making,
+ensuring the organization remains agile in a dynamic environment.
+
+
+
+Respondents stressed the significance of cross-functional collaboration in risk identification.
+They explained that involving experts from different departments and backgrounds fosters a
+holistic view of risks. Team members with diverse perspectives can identify risks that might be
+overlooked when approached in isolation. Collaborative discussions encourage the sharing of
+knowledge and experiences, leading to a more comprehensive understanding of potential threats
+in the supply chain.
+
+Respondents elaborated on the practical aspects of collaborative discussions. They mentioned
+that these discussions enable brainstorming and the exchange of ideas, which often leads to the
+identification of risks from various angles. Additionally, team members can challenge
+assumptions and validate risk assessments. Overall, collaborative discussions ensure a more
+thorough and accurate risk identification process, ultimately contributing to better risk
+management in the supply chain.
+
+In summary, the qualitative responses from the interviewees underscored the importance of risk
+identification practices and collaborative efforts in supply chain operations at Joint Medical
+Stores. They highlighted the benefits of these practices in proactively addressing vulnerabilities,
+prioritizing risk management efforts, and staying ahead of emerging risks in an ever-changing
+environment. These insights emphasize the value of a holistic and proactive approach to risk
+management in the context of supply chain operations.
+
+
+
+
+
+4.2.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+The second study objective was to determine the role of risk mitigation and control in logistics
+on supply chain operations at Joint Medical Stores. To fulfill this aim, respondents were
+requested to express their level of agreement with five statements using a 5-point Likert scale,
+ranging from "strongly agree" to "strongly disagree." The subsequent table provides an overview
+of the range of agreement levels, represented by the abbreviations 1 SD (Strongly Disagree), 2 D
+
+
+(Disagree), 3 N (Not sure), 4 SA (Strongly Agree), 5 A ( Agree), as outlined in Table 6 below.
+This approach was utilized to ascertain the minimum and maximum values associated with the
+various degrees of agreement.
+
+Table 5: The role of risk mitigation and control in logistics on supply chain operations at
+No. Statements
+Total
+Freq
+R1
+Implementing risk mitigation
+strategies in logistics enhances the
+overall reliability of supply chain
+28.5%
+35.7%
+00%
+23.8%
+11.9%
+R2
+Regular monitoring and control of
+identified risks contribute to
+minimizing disruptions in supply
+chain at Joint Medical Stores
+35.7%
+23.8%
+11.9%
+00%
+23.8%
+R3
+Proactive measures taken to
+mitigate risks improve the
+efficiency of logistics processes at
+26%
+69%
+2%
+00%
+2%
+R4
+Assigning responsibilities for risk
+control and monitoring ensures that
+potential issues are addressed
+promptly in supply chain at Joint
+35.7%
+23.8%
+11.9%
+00%
+23.8%
+R5
+The use of data analysis in risk
+management allows Joint Medical
+Stores to make informed decisions
+and optimize supply chain
+35.7%
+23.8%
+11.9%
+00%
+23.8%
+
+
+In the first statement, the findings revealed that a significant proportion of respondents agreed
+(35.7%) and strongly agreed (28.5%) that implementing risk mitigation strategies enhanced
+supply chain reliability. 23.8% of respondents disagreed, and 11.9% were Not sure. The general
+implication was that a substantial portion of respondents acknowledged the positive impact of
+risk mitigation strategies on supply chain reliability. However, the presence of disagreeing and
+undecided respondents highlighted the need for further education or communication to address
+concerns and emphasize the benefits of risk mitigation.
+
+In the second statement ,a majority of respondents agreed (35.7%) and strongly agreed (23.8%)
+that regular monitoring and control of identified risks minimized disruptions in the supply chain.
+11.9% were not sure, and 23.8% disagreed. This implied that that most respondents recognized
+the importance of risk monitoring and control in reducing disruptions in the supply chain.
+However, the presence of both not sure and disagreeing respondents suggested that there may
+have been room for improvement in explaining how risk control directly affected disruption
+reduction.
+
+A substantial majority of respondents (69%) agreed, and 26% strongly agreed that proactive risk
+mitigation improved logistics efficiency. 2% were not sure, and 2% disagreed. The general
+implication was that the majority of respondents believed that proactive risk mitigation positively
+impacted logistics efficiency. The low percentage of disagreeing responses indicated that there
+was a broad consensus on this statement.
+
+A majority of respondents agreed (35.7%) and strongly agreed (23.8%) that assigning
+responsibilities for risk control ensured prompt issue resolution in the supply chain. 11.9% were
+undecided, and 23.8% disagreed. The general implication was that many respondents perceived
+the importance of assigning responsibilities for risk control in ensuring timely issue resolution.
+However, the presence of undecided and disagreeing respondents suggested a need for further
+clarification or education on this topic.
+
+A majority of respondents agreed (35.7%) and strongly agreed (23.8%) that data analysis in risk
+management facilitated informed decision-making and supply chain optimization. 11.9% were
+not sure, and 23.8% disagreed. The general implication was that most respondents recognized the
+
+
+value of data analysis in risk management. However, the presence of not sure and disagreeing
+respondents suggested a need for better communication and demonstration of how data analysis
+directly contributed to informed decision-making and optimization.
+
+In summary, the general implications in past tense for these statements highlighted the
+importance of effective communication and education to address the concerns of those who were
+undecided or disagreed. While there was general agreement on the positive impact of risk
+mitigation, control, and proactive measures on supply chain operations, there was an opportunity
+to provide more clarity and evidence to ensure broad understanding and support within Joint
+Medical Stores.
+
+Regarding the role of risk mitigation and control in logistics on supply chain operations at Joint
+Medical Stores, the responses from the interviews provided valuable insights:
+
+Interviewees mentioned that implementing risk mitigation strategies has played a crucial role in
+improving the overall reliability of supply chain operations. They highlighted that these
+strategies involve proactive measures to identify potential risks and put in place preventive
+measures. This has resulted in a reduced likelihood of disruptions, ensuring that the supply chain
+operates smoothly and consistently. Moreover, they emphasized that having well-defined risk
+mitigation plans and processes instills confidence among stakeholders and enhances the
+organization's reputation for reliability.
+
+Respondents emphasized the importance of regular monitoring and control of identified risks in
+minimizing disruptions. They explained that ongoing vigilance allows for the early detection of
+risk triggers and the swift implementation of mitigation measures when necessary. This proactive
+approach has been instrumental in reducing disruptions and ensuring the continuity of supply
+chain operations. By addressing risks promptly, the organization can maintain a high level of
+service reliability and customer satisfaction.
+
+Interviewees discussed various proactive measures taken to mitigate risks that have positively
+impacted the efficiency of logistics processes. These measures include process optimization,
+
+
+redundancy planning, and supplier diversification. By identifying and addressing potential risks
+in advance, the organization can streamline its operations, reduce downtime, and ensure timely
+deliveries. This not only improves efficiency but also contributes to cost savings and customer
+service excellence.
+
+Respondents emphasized that assigning responsibilities for risk control and monitoring plays a
+critical role in ensuring prompt issue resolution within the supply chain. By clearly defining roles
+and accountabilities, the organization ensures that specific individuals or teams are responsible
+for identifying, assessing, and mitigating risks. This accountability ensures that potential issues
+are not overlooked and are addressed promptly, reducing the impact of disruptions and
+maintaining the smooth flow of supply chain operations.
+Interviewees stressed the significance of data analysis in risk management. They explained that
+data analysis provides valuable insights into the probability and impact of risks. This data-driven
+approach enables informed decision-making regarding risk prioritization, resource allocation,
+and mitigation strategies. By leveraging data analysis, Joint Medical Stores can optimize its
+supply chain operations, reduce costs, and enhance overall performance.
+
+In summary, the qualitative responses highlighted the critical role of risk mitigation and control
+in improving the reliability, efficiency, and responsiveness of supply chain operations at Joint
+Medical Stores. Interviewees emphasized the importance of proactive measures, clear
+responsibilities, and data-driven decision-making in achieving these objectives. These insights
+underscore the value of a comprehensive risk management approach in the context of supply
+chain operations.
+
+4.2.3 The relationship between risk assessment and analysis in logistics on supply chain
+The primary focus of the third study objective was to illuminate the relationship between risk
+assessment and analysis in logistics on supply chain operations at Joint Medical Stores. To attain
+this goal, respondents were requested to indicate their level of agreement with five statements,
+utilizing a 5-point Likert scale, ranging from "strongly agree" to "strongly disagree." The
+subsequent table presents a concise representation of the range of agreement levels, represented
+
+
+by the abbreviations 1 SD (Strongly Disagree), 2 D (Disagree), 3 N (Not sure), 4 SA (Agree), 5
+A (Agree), as outlined in Table 7 below. This structure was employed to define the minimum
+and maximum values encapsulating the diverse degrees of agreement.
+
+
+
+Table 6: The relationship between risk assessment and analysis in logistics on supply chain
+No.
+Statements
+Total
+Freq
+Q1 Conducting regular risk
+assessments is essential for
+identifying potential
+vulnerabilities in supply chain
+26%
+2%
+00%
+2%
+Q2 Analyzing identified risks helps
+Joint Medical Stores prioritize
+allocate resources effectively in
+our logistics processes
+40.4%
+30.9%
+00%
+11.9%
+11.9%
+Q3 The insights gained from risk
+assessment , analysis contribute to
+better decision-making in supply
+chain management
+35.7%
+45%
+9.5%
+00%
+9.5%
+Q4 Implementing risk mitigation
+strategies based on thorough
+analysis enhances the resilience of
+supply chain at Joint Medical
+40.4%
+30.9%
+00%
+11.9%
+11.9%
+Q5 The relationship between risk
+assessment and analysis is critical
+
+
+in preventing disruptions with
+maintaining a smooth supply chain
+45%
+35.7%
+9.5%
+00%
+9.5%
+A significant majority of respondents agreed (69%) and 26% strongly agreed that conducting
+regular risk assessments is essential for identifying potential vulnerabilities in supply chain
+operations. Only 2% were Not sure, and 2% disagreed. The general implication is that there is a
+strong consensus among respondents that regular risk assessments are crucial for identifying
+vulnerabilities within the supply chain. The low percentage of undecided and disagreeing
+responses indicates broad agreement on the importance of this practice.
+
+A substantial portion of respondents agreed (40.4%) and 30.9% strongly agreed that analyzing
+identified risks helps prioritize and allocate resources effectively in logistics processes. 11.9%
+were not sure and 11.9% disagreed. The general implication is that many respondents recognize
+the value of risk analysis in resource allocation and prioritization within logistics processes.
+However, the presence of both undecided and disagreeing respondents suggests that there is
+room for improvement in communicating how risk analysis directly impacts resource allocation.
+
+A majority of respondents agreed (45%) and 35.7% strongly agreed that insights gained from
+risk assessment and analysis contribute to better decision-making in supply chain management.
+9.5% were not sure, and 9.5% disagreed. The general implication is that most respondents
+believe that risk assessment and analysis positively influence decision-making in supply chain
+management. The relatively low percentage of disagreeing and undecided responses suggests
+broad consensus on this statement.
+
+A significant portion of respondents agreed (40.4%) and 30.9% strongly agreed that
+implementing risk mitigation strategies based on thorough analysis enhances supply chain
+resilience. 11.9% were not sure, and 11.9% disagreed. The general implication is that many
+respondents perceive the value of implementing risk mitigation strategies driven by analysis in
+enhancing supply chain resilience. The presence of not sure and disagreeing respondents
+suggests a need for further education or communication on this topic.
+
+
+
+A majority of respondents agreed (45%) and 35.7% strongly agreed that the relationship between
+risk assessment and analysis is critical in preventing disruptions and maintaining a smooth
+supply chain. 9.5% were not sure, and 9.5% disagreed. The general implication is that most
+respondents understand the critical role of the relationship between risk assessment and analysis
+in preventing disruptions and ensuring a smooth supply chain. The relatively low percentage of
+disagreeing and undecided responses indicates a shared belief in this relationship.
+
+In summary, the general implications from the past tense analysis indicate broad agreement
+among respondents regarding the importance of risk assessment and analysis in logistics for
+supply chain operations at Joint Medical Stores. While there are some not sure and disagreeing
+responses, they represent a minority, and the overall consensus is that risk assessment and
+analysis play a significant role in identifying vulnerabilities, resource allocation, decisionmaking, resilience enhancement, and disruption prevention within the supply chain.
+
+In the context of understanding the relationship between risk assessment and analysis in logistics
+on supply chain operations at Joint Medical Stores, the interview responses provided valuable
+insights:
+Respondents emphasized that conducting regular risk assessments is instrumental in identifying
+potential vulnerabilities within the supply chain. They explained that these assessments involve a
+systematic review of various aspects of the supply chain, helping in the identification of weak
+points and potential vulnerabilities. By proactively recognizing these vulnerabilities, the
+organization can take preventive measures to address them, thus reducing the likelihood of
+.disruptions and maintaining the smooth flow of operations.
+
+Interviewees highlighted the importance of analyzing identified risks in resource allocation and
+prioritization. They explained that by assessing the likelihood and potential impact of risks, the
+organization can make informed decisions about where to allocate resources. This data-driven
+approach ensures that resources are directed toward addressing high-impact risks, thereby
+optimizing the allocation of time, budget, and personnel within logistics processes.
+
+
+
+Respondents shared that the insights gained from risk assessment and analysis significantly
+contribute to better decision-making in supply chain management. They elaborated on how data
+and analysis provide a clear understanding of the risks involved. This knowledge empowers
+decision-makers to make informed choices about risk prioritization, mitigation strategies, and
+resource allocation. Ultimately, this data-driven decision-making enhances the organization's
+ability to navigate uncertainties and make strategic choices that positively impact supply chain
+management.
+
+Interviewees stressed that implementing risk mitigation strategies based on thorough analysis has
+strengthened the resilience of the supply chain. They explained that this approach involves
+identifying risks and analyzing them in-depth to develop effective mitigation strategies. By
+addressing potential vulnerabilities and weaknesses proactively, the organization becomes better
+equipped to withstand disruptions. This enhanced resilience ensures that the supply chain
+remains agile and adaptable even in the face of unexpected challenges.
+Respondents unanimously agreed that the relationship between risk assessment and analysis is
+critical in preventing disruptions and ensuring a smooth supply chain. They emphasized that risk
+assessment provides the foundation by identifying potential risks, while analysis helps quantify
+these risks and assess their impact. By linking these two processes, the organization can
+proactively address vulnerabilities, prioritize actions, and prevent disruptions. This approach
+contributes to the consistent and reliable operation of the supply chain.
+
+In summary, the qualitative responses highlighted the essential role of risk assessment and
+analysis in identifying vulnerabilities, optimizing resource allocation, enhancing decisionmaking, strengthening resilience, and preventing disruptions within the supply chain at Joint
+Medical Stores. These insights underscore the interdependence of risk assessment and analysis in
+achieving effective risk management and maintaining a resilient and efficient supply chain.
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+SUMMARY DISCUSSION OF FINDINGS, CONCLUSIONS AND
+RECOMMENDATIONS
+5.0 Introduction
+This chapter presents the summary of findings, conclusions and recommendations. The summary
+and recommendations are packaged according to the research objectives.
+5.1 Summary discussion of findings
+5.1.1 The contribution of risk identification in logistics on supply chain operations at Joint
+The findings indicate that a majority of respondents (64.9%) have a positive perception of risk
+identification in logistics. This aligns with the literature on risk management, particularly in
+supply chain operations (Zheng et al., 2015). However, the presence of 11.9% of undecided and
+23.8% of disagreeing respondents suggests that there may be a lack of understanding or concerns
+regarding the effectiveness of risk identification. This emphasizes the importance of effective
+communication and education in risk management (Carvalho & Rabechini Junior, 2015; Ryan et
+al., 2013).
+
+The majority of respondents (59.5%) acknowledge the value of assessing risks for prioritization,
+which is consistent with the literature (Chopra & Meindl, 2007; Tummala & Schoenherr, 2011).
+However, the presence of undecided (11.9%) and disagreeing (23.8%) respondents suggests a
+need for clearer explanations or examples of how risk assessment directly contributes to
+prioritizing risk management efforts. This highlights the importance of practical guidance in risk
+assessment and management (Ritchie, 2007).
+
+While a majority (64.2%) sees the value in reviewing historical data and trends for risk
+identification, the relatively low percentage of strong agreement (4.7%) suggests reservations
+among some respondents. This aligns with the literature's emphasis on the need for convincing
+evidence or examples when implementing risk management practices (Kwabena, 2005; Chopra
+
+
+& Meindl, 2007). It also underscores the importance of demonstrating the practical benefits of
+historical data analysis.
+The findings indicate that teamwork is considered important by the majority (63.9%) of
+respondents, aligning with the literature on collaboration in risk management (Bowen et al.,
+2001; Talluri et al., 2013). However, the presence of undecided (11.9%) and disagreeing (23.8%)
+respondents suggests that there may be challenges or skepticism regarding the effectiveness of
+cross-functional teamwork in risk identification. This highlights the need for addressing concerns
+and showcasing the benefits of collaborative efforts (Christopher, 2004).
+
+Regarding the statement that effective risk identification enhances the efficiency and reliability
+of supply chain operations, 59.5% of respondents agree or strongly agree, while 23.8% disagree.
+This finding aligns with the literature on risk management's positive impact on supply chain
+performance (Chopra & Meindl, 2003; Ritchie, 2007). However, the presence of disagreeing
+(23.8%) and undecided (11.9%) respondents suggests that some may not fully understand or
+believe in this connection. This underscores the need for clearer communication and potentially
+sharing real-world examples of risk identification's positive effects on supply chain efficiency
+and reliability.
+
+5.1.2 The role of risk mitigation and control in logistics on supply chain operations at Joint
+In the first statement, the findings indicated that a significant proportion of respondents (64.2%)
+agreed or strongly agreed that implementing risk mitigation strategies enhanced supply chain
+reliability. This aligns with literature highlighting the importance of risk mitigation in supply
+chain management (Chopra & Meindl, 2003; Ritchie, 2007). However, the presence of
+disagreeing (23.8%) and undecided (11.9%) respondents suggested the need for further
+education or communication to address concerns and emphasize the benefits of risk mitigation
+(Carvalho & Rabechini Junior, 2015).
+
+Regarding the second statement, a majority of respondents (59.5%) recognized the importance of
+regular monitoring and control of identified risks in minimizing disruptions in the supply chain.
+This aligns with literature emphasizing the role of risk control in reducing disruptions
+
+
+(Christopher, 2004; Talluri et al., 2013). However, the presence of both undecided (11.9%) and
+disagreeing (23.8%) respondents suggested that there might have been room for improvement in
+explaining how risk control directly affected disruption reduction. This highlights the need for
+clearer communication.
+
+A substantial majority of respondents (95%) agreed or strongly agreed that proactive risk
+mitigation improved logistics efficiency. This finding underscores the consensus in the literature
+regarding the positive impact of proactive risk management on efficiency (Tummala &
+Schoenherr, 2011; Ritchie, 2007). The low percentage of disagreeing responses indicated a broad
+consensus on this statement.
+
+For the fourth statement, the majority (59.5%) recognized the importance of assigning
+responsibilities for risk control in ensuring timely issue resolution in the supply chain. This
+aligns with the literature on the significance of clear roles and responsibilities in risk
+management (Christopher, 2004; Talluri et al., 2013). However, the presence of undecided
+(11.9%) and disagreeing (23.8%) respondents suggested a need for further clarification or
+education on this topic. This emphasizes the importance of clear communication and guidance.
+
+In the fifth statement, a majority of respondents (59.5%) agreed or strongly agreed that data
+analysis in risk management facilitated informed decision-making and supply chain
+optimization. This aligns with literature emphasizing the role of data analysis in informed
+decision-making (Chopra & Meindl, 2007; Ritchie, 2007). However, the presence of undecided
+(11.9%) and disagreeing (23.8%) respondents suggested a need for better communication and
+demonstration of how data analysis directly contributed to informed decision-making and
+optimization.
+
+5.1.3 The relationship between risk assessment and analysis in logistics on supply chain
+A significant majority of respondents (95%) agreed or strongly agreed that conducting regular
+risk assessments is essential for identifying potential vulnerabilities in supply chain operations.
+This aligns with the literature emphasizing the importance of regular risk assessments in supply

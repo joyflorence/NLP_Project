@@ -1,0 +1,10 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "num_chunks": 4306,
+  "normalized": true,
+  "device": "cpu",
+  "max_tokens": 512,
+  "chunks_truncated": 1941,
+  "document_embeddings_generated": true
+}

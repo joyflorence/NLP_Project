@@ -1,0 +1,24 @@
+This research presents the design and implementation of an Online Health Donation System to
+Fight Against Fistula at Budadiri Health Center IV in Sironko District, Eastern Uganda. The
+system aims to improve resource management, enhance donor engagement, and promote
+transparency in the treatment of fistula patients. The study used interviews, questionnaires, and
+system analysis to gather data. The developed system was tested and validated to ensure userfriendliness, security, and efficiency. Results showed that digitalizing the donation process can
+significantly improve healthcare delivery and donor trust. The project contributes to the
+development of sustainable digital health solutions in rural Uganda.
+
+JUSTIFICATION OF THE STUDY
+This study is justified because many rural health centers in Uganda still rely on manual systems
+for managing donations, leading to inefficiency, data loss, and lack of transparency. Developing
+an online health donation system will not only help Budadiri Health Center IV manage donations
+better but can also serve as a model for other health institutions in the country. The system
+provides an efficient, secure, and transparent way to manage donations, improving
+accountability and resource utilization.
+
+LIMITATIONS OF THE STUDY
+This study was limited by time and financial constraints, which restricted data collection to one
+health center. In addition, internet instability and lack of advanced computer equipment in rural
+areas may affect full system implementation. However, these limitations do not affect the
+reliability or relevance of the study’s findings. The project still provides valuable insights and can
+be scaled up with further support and resources.
+
+CHAPTER ONE

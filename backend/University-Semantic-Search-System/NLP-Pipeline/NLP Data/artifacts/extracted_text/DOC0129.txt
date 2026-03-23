@@ -1,0 +1,2982 @@
+Chapter 6
+Solution to Non-Linear Equations
+6.1
+Introduction
+6.1.1
+Motivation
+Given a second degree polynomial, we can accurately compute it’s root, that is
+ax2 + bx + c = 0 ⇒x = −b ±
+√
+b2 −4ac
+2a
+But what if ax5 + bx4 + cx3 + dx2 + ex + f = 0 ⇒x =?, sin x + x = 0 ⇒x =?
+6.1.2
+Problem Description
+• Given a non-linear equation f(x) = 0, find a x⋆such that f(x⋆) = 0. Thus, x⋆is a root
+of f(x) = 0.
+• Galois theory in math tells us that only polynomials of degree ≤4 can be solved with
+close forms using +, −, ×, ÷ and taking roots.
+• General non-linear equations can be solved with iterative methods.
+• Basically, we try to guess the location of a root, and approximate it iteratively.
+• Unfortunately, this process can go wrong, leading to another root or even diverge.
+6.1.3
+Methods to be discussed
+• There are two types of methods, bracketing and open. The bracketing methods require
+an interval that is known to contain a root, while the open method does not.
+• Commonly seen bracketing methods include the Bisection method and the regula falsi
+method, and the open methods are Newton’s method, the secant method, and the successive
+substitution.
+174
+
+6.2. NEWTON RAPHSON’S METHOD
+6.2
+Newton Raphson’s Method
+6.2.1
+Derivation of the Newton’s method
+If we are given a non-linear equation f(x) = 0 and we are to apply the Newton Raphson’s
+method, we linear approximate the graph of y = f(x) by a straight line passing through the
+point (x0, f0) and tangential to the graph of y = f(x). Take the slope of this line to be p.
+Geometrically this is given in figure below.
+Figure 6.1: Geometrical representation of a tangent to a curve at a point
+The equation of the line with slope p and passing through the point (x0, f0) is
+y −f0
+x −x0
+= p
+(6.1)
+However, we know that p is the slope of the tangent to y = f(x) at (x0, f0). This is given by;
+p = f ′(x0) = f ′
+0
+(6.2)
+Substituting equation (6.2) in equation (6.1) we get
+y −f0
+x −x0
+= f ′
+0
+y −f0 = (x −x0)f ′
+0
+(6.3)
+From figure 6.1, line of equation 13.3 cuts the x-axis at the point (x1, 0) i.e when x = x1 and
+y = 0.
+Substituting in equation (6.3) we get,
+0 −f0 = (x1 −x0)f ′
+0
+Making x1 the subject, we get,
+x1 = x0 −f0
+f ′
+0
+or
+x1 = x0 −f(x0)
+f ′x0
+(6.4)
+ssebuliba & ddumba
+numerical analysis i
+Page 175 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+equation (6.4) is actually the Newton’s method for obtaining the next iterate x1 from the
+previous iterate x0. The equation (6.4) is generalized and written;
+xn+1 = xn −f(xn)
+f ′(xn)
+(6.5)
+since the linear approximation of the curve is done at each of the iterates xn, xn+1, xn+2, . . . as
+reflected in figure above.
+Example 6.2.1
+Use Newton Raphson’s method to find the root of
+x2 −3 = 0 on [1, 2]
+.
+f(xn) = x2
+n −3
+therefore
+f ′(xn) = 2xn
+But Raphson’s formula is
+xn+1 = xn −f(xn)
+f ′(xn)
+Substituting in the Raphson’s formula we get
+xn+1 = xn −(x2
+n −3)
+2xn
+= 2x2
+n −x2
+n + 3
+2xn
+=
+x2
+n + 3
+2xn
+
+Taking the initial guess/approximation as x0 = 2, but you could also consider x0 = 1 you come
+up with the same answer.
+⇒x1 = x2
+0 + 3
+2x0
+= 22 + 3
+2(2) = 1.7500000
+x2 = x2
+1 + 3
+2x1
+= (1.75)2 + 3
+2(1.75)
+= 1.7321000
+x3 = x2
+2 + 3
+2x2
+= (1.7321)2 + 3
+2(1.7321)
+= 1.7320508
+x4 = x2
+3 + 3
+2x3
+= (1.7320508)2 + 3
+2(1.7320508)
+= 1.7320508
+Thus the root is 1.7320508
+Page 176 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.2 Use Newton-Raphson Method to find the only real root of the equation
+x3 −x −1 = 0
+correct to 9 decimal places.
+Since f(1) = −1 and f(2) = 5, the function has a root in the interval [1, 2] since the function
+changes sign between [1, 2]. Let us make an initial guess x0 = 1.5.
+f(x) = x3 −x −1 ⇒f(xn) = x3
+n −xn −1
+f ′(x) = 3x2 −1 ⇒f ′(xn) = 3x2
+n −1
+xn+1 = xn −f(xn)
+f ′(xn)
+xn+1 = xn −(x3
+n −xn −1)
+(3x2
+n −1)
+xn+1 = 2x3
+n + 1
+3x2
+n −1
+x1 = 2x3
+0 + 1
+3x2
+0 −1 = 2(1.5)3 + 1
+3(1.5)2 −1 = 1.347826087
+x2 = 2x3
+1 + 1
+3x2
+1 −1 = 2(1.347826087)3 + 1
+3(1.347826087)2 −1 = 1.325200399
+x3 = 2x3
+2 + 1
+3x2
+2 −1 = 2(1.325200399)3 + 1
+3(1.325200399)2 −1 = 1.324718174
+x4 = 2x3
+3 + 1
+3x2
+3 −1 = 2(1.324718174)3 + 1
+3(1.324718174)2 −1 = 1.324717957
+x5 = 2x3
+4 + 1
+3x2
+4 −1 = 2(1.324717957)3 + 1
+3(1.324717957)2 −1 = 1.324717957
+The approximated root of
+x3 −x −1 = 0
+to 9 decimal places is 1.324717957
+Remark 6.2.1
+The more the decimal places the better the approximation.
+Example 6.2.3 Repeat Example 6.2.2
+x3 −x −1 = 0
+using 4 decimal places.
+xn+1 = xn −f(xn)
+f ′(xn) = xn −(x3
+n −xn −1)
+(3x2
+n −1)
+= 2x3
+n + 1
+3x2
+n −1
+x1 = 2x3
+0 + 1
+3x2
+0 −1 = 2(1.5)3 + 1
+3(1.5)2 −1 = 1.3478
+x2 = 2x3
+1 + 1
+3x2
+1 −1 = 2(1.3478)3 + 1
+3(1.3478)2 −1 = 1.3252
+x3 = 2x3
+2 + 1
+3x2
+2 −1 = 2(1.3252)3 + 1
+3(1.3252)2 −1 = 1.3247
+x4 = 2x3
+3 + 1
+3x2
+3 −1 = 2(1.3247)3 + 1
+3(1.3247)2 −1 = 1.3247
+ssebuliba & ddumba
+numerical analysis i
+Page 177 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+The approximated root of
+x3 −x −1 = 0
+to 4 decimal places is 1.3247
+Example 6.2.4 Repeat Example 6.2.2
+x3 −x −1 = 0
+using 1 decimal places.
+xn+1 = xn −f(xn)
+f ′(xn) = xn −(x3
+n −xn −1)
+(3x2
+n −1)
+= 2x3
+n + 1
+3x2
+n −1
+x1 = 2x3
+0 + 1
+3x2
+0 −1 = 2(1.5)3 + 1
+3(1.5)2 −1 = 1.3
+x2 = 2x3
+1 + 1
+3x2
+1 −1 = 2(1.3)3 + 1
+3(1.3)2 −1 = 1.3
+The approximated root of
+x3 −x −1 = 0
+to 1 decimal places is 1.3
+Remark 6.2.2
+The fewer the decimal places the faster the iteration scheme converges.
+Example 6.2.5
+Find the root of the function
+y = e−x −x
+in the vicinity of x = 0.5 correct to 4 decimal places.
+f(x) = e−x −x ⇒f(xn) = e−xn −xn
+f ′(x) = −e−x −1 ⇒f ′(xn) = −e−xn −1
+xn+1 = xn −f(xn)
+f ′(xn)
+xn+1 = xn −(e−xn −xn)
+(−e−xn −1) = −xne−xn −xn −e−xn + xn
+(−e−xn −1)
+= (xn + 1) e−xn
+1 + e−xn
+x1 = (x0 + 1) e−x0
+1 + e−x0
+= ([0.5] + 1) e−0.5
+1 + e−0.5
+= 0.5663
+x2 = (x1 + 1) e−x1
+1 + e−x1
+= ([0.5663] + 1) e−0.5663
+1 + e−0.5663
+= 0.5671
+x3 = (x2 + 1) e−x2
+1 + e−x2
+= ([0.5671] + 1) e−0.5671
+1 + e−0.5671
+= 0.5671
+The approximated root of
+e−x −x = 0
+to 4 decimal places is 0.5671
+Example 6.2.6
+Pitfall - no real root
+Newton’s method will fail (the sequence {xn} does not converge) on solving
+f(x) = x2 −4x + 5 = 0
+since f does not have any real root.
+Page 178 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.7
+Find the root of
+f(x) = 3x + sin x −ex = 0
+in the interval [0, 1] numerically by the famous Newton Raphson’s method
+Solution
+Since f(0) = −1 < 0 and f(1) = 3 + sin(1) −e > 0, so there is a real root in [0, 1]. Using
+xn+1 = xn −f(xn)
+f ′(xn)
+= xn −(3xn + sin xn −exn)
+(3 + cos xn −exn)
+= 3xn + xn cos xn −xnexn −3xn −sin xn + exn
+3 + cos xn −exn
+= xn [cos xn −exn] −sin xn + exn
+3 + cos xn −exn
+to have the iterations
+x1 = x0 [cos x0 −ex0] −sin x0 + ex0
+3 + cos x0 −ex0
+= 0 [cos 0 −e0] −sin 0 + e0
+3 + cos 0 −e0
+= 0.33333
+x2 = x1 [cos x1 −ex1] −sin x1 + ex1
+3 + cos x1 −ex1
+= 0.33333 [cos 0.33333 −e0.33333] −sin 0.33333 + e0.33333
+3 + cos 0.33333 −e0.33333
+= 0.36017
+x3 = x2 [cos x2 −ex2] −sin x2 + ex2
+3 + cos x2 −ex2
+= 0.36017 [cos 0.36017 −e0.36017] −sin 0.36017 + e0.36017
+3 + cos 0.36017 −e0.36017
+= 0.36042
+x4 = x3 [cos x3 −ex3] −sin x3 + ex3
+3 + cos x3 −ex3
+= 0.36042 [cos 0.36042 −e0.36042] −sin 0.36042 + e0.36042
+3 + cos 0.36042 −e0.36042
+= 0.36042
+The approximated root of
+3x + sin x −ex = 0
+to 5 decimal places is 0.36042
+ssebuliba & ddumba
+numerical analysis i
+Page 179 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.8
+Pitfall - Alternating or oscillating solutions
+Use Newton’s Method to find the only real root of the equation
+f(x) = ex −2x = 0
+with an initial guess of x0 = 1.
+f(x) = ex −2x ⇒f(xn) = exn −2xn
+f ′(x) = ex −2 ⇒f ′(xn) = exn −2
+xn+1 = xn −f(xn)
+f ′(xn) = xn −exn −2xn
+exn −2
+= exn(xn −1)
+exn −2
+x1 = ex0(x0 −1)
+ex0 −2
+= e1(1 −1)
+e1 −2
+= 0
+x2 = ex1(x1 −1)
+ex1 −2
+= e0(0 −1)
+e0 −2
+= 1
+x3 = ex2(x2 −1)
+ex2 −2
+= e1(1 −1)
+e1 −2
+= 0
+x4 = ex3(x3 −1)
+ex3 −2
+= e0(0 −1)
+e0 −2
+= 1
+x5 = ex4(x4 −1)
+ex4 −2
+= e1(1 −1)
+e1 −2
+= 0
+x6 = ex5(x5 −1)
+ex5 −2
+= e0(0 −1)
+e0 −2
+= 1
+...
+...
+Its an alternating solutions, the solutions oscillate near the local maxima or local minima.
+In other words, Newton’s Method fails to produce a solution. Why is this? Because there is no
+solution to be found!
+Mathematicians are often very happy when, after a great deal of work, they are just able to
+say that a solution to a problem exists. This is because once they know it exists, there might
+be some nice method, such as Newton’s Method, to actually compute the solution.
+Page 180 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.9
+Pitfall - Diverging sequence
+When Newton’s method is applied to
+f(x) = xe−x
+with x0 = 2, it produces
+n
+xn
+f(xn)
+0
+2.00000
+2.70671 × 10−1
+1
+4.00000
+7.32626 × 10−2
+2
+5.33333
+2.57491 × 10−3
+3
+6.56410
+9.25597 × 10−4
+...
+...
+...
+20
+24.96488
+3.59105 × 10−10
+21
+26.00660
+1.31995 × 10−10
+22
+27.04659
+4.85206 × 10−11
+Note that,
+• The sequence {xn} diverges to ∞slowly;
+• However, f(xn) goes to zero rapidly as xn gets larger in a finite precision environment, and
+could be mistaken as a zero of f.
+Definition 6.2.1
+Convergence of Newton’s Method
+If the iterations are getting closer and closer to the correct answer the method is said to converge.
+That is, the Newton’s method is said to converge if |xn+1 −xn| →0.
+Remark 6.2.3
+However, Newton’s method will not converge if
+1.) If f ′(xn) = 0 for some n
+2.) If lim
+n→∞xn does not exist
+ssebuliba & ddumba
+numerical analysis i
+Page 181 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.10
+Pitfall - Interval size
+If the numerical When Newton’s method applied to
+f(x) = x3 −x −3
+The algorithm given by
+xn+1 = xn −f(xn)
+f ′(xn)
+= xn −x3
+n −xn −3
+3x2
+n −1
+xn+1 = 2x3
+n + 3
+3x2
+n −1
+with x0= 0, it produces
+x1 = −3.00000
+x2 = −1.96154
+x3 = −1.14718
+x4 = −0.00658
+x5 = −3.00039
+x6 = −1.96182
+x7 = −1.14743
+The sequence will not converge. But if the algorithm starts with x0= 2, then it produces
+x1 = 1.7272727
+x2 = 1.6736912
+x3 = 1.6717026
+x4 = 1.6716999
+x5 = 1.6716999
+The sequence converges to the root 1.6716999 correct to seven decimal places.
+This examples illustrates again that the starting point x0 must be close enough to the zero of
+f.
+Page 182 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.11
+Pitfall - Choice of x0 and f ′(x) = 0
+Use the Newton Method to find a non-zero solution of
+x = 2 sin x
+(6.6)
+Let f(x) = x −2 sin x. Then f ′(x) = 1 −2 cos x, and the Newton-Raphson iteration is
+xn+1 = xn −f(xn)
+f ′(xn) = xn −xn −2 sin xn
+1 −2 cos xn
+= 2 (sin xn −xn cos xn)
+1 −2 cos xn
+Let x0= 1.1. The next six estimates, to 3 decimal places, are:
+x1 = 8.453
+x2 = 5.256
+x3 = 203.384
+x4 = 118.019
+x5 = −87.471
+x6 = −203.637
+Things don’t look good, and they get worse. It turns out that x35 < −64000000. We could be
+stubborn and soldier on. Miracles happen-but not often. (One happens here, around n = 212.)
+The trouble was caused by the choice of x0, let us consider x0= 1.5. Here are the next six
+estimates, to 19 decimal places - to indicate how fast the convergence is
+x1 = 2.0765582006304348291
+x2 = 1.9105066156590806258
+x3 = 1.8956220029878460925
+x4 = 1.8954942764727706570
+x5 = 1.8954942670339809987
+x6 = 1.8954942670339809471
+The next iterate x7 agrees with x6 in the first 19 decimal places, indeed in the first 32, and the
+true root is equal to x6 to 32 decimal places.
+Remark 6.2.4
+Note that choosing
+x0 = π
+3 ≈1.0472
+leads to immediate disaster, since then the denominator f ′(x) = 1 −2 cos x0 = 0 and therefore
+x1 does not exist.
+Comment 6.2.1
+The remedy to this is to rewrite the Equation (6.6) into other forms say
+2
+x −
+1
+sin x = 0 or sin x
+x
+= 1
+2
+works nicely - to have f ′(x) harder to be too small or almost zero for ∀x ∈(0, π) - as we shall
+see in the section of successive substitution, Section 6.6
+ssebuliba & ddumba
+numerical analysis i
+Page 183 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.12
+Consider the problem of finding the positive number x with cos x = x3 We
+can rephrase that as finding the zero of
+f(x) = cos x −x3 ⇒f ′(x) = −sin x −3x2
+Since cos x ≤1 for all x and x3 > 1 for x > 1, we know that our zero lies in [0, 1]. We try a
+starting value of x0 = 0.5.
+xn+1 = xn −f(xn)
+f ′(xn) = xn −
+cos xn −x3
+n
+−sin xn −3x2
+n
+= xn sin xn + cos xn + 2x3
+n
+sin xn + 3x2
+n
+x1 = x0 sin x0 + cos x0 + 2x3
+0
+sin x0 + 3x2
+0
+= (0.5) sin(0.5) + cos(0.5) + 2(0.5)3
+sin(0.5) + 3(0.5)2
+= 1.1121416
+x2 = x1 sin x1 + cos x1 + 2x3
+1
+sin x1 + 3x2
+1
+= (1.1121416) sin(1.1121416) + cos(1.112141637097) + 2(1.1121416)3
+sin(1.1121416) + 3(1.1121416)2
+= 0.9096727
+x3 = x2 sin x2 + cos x2 + 2x3
+2
+sin x2 + 3x2
+2
+= (0.9096727) sin(0.9096727) + cos(0.9096727) + 2(0.9096727)3
+sin(0.9096727) + 3(0.9096727)2
+= 0.8672638
+x4 = x3 sin x3 + cos x3 + 2x3
+3
+sin x3 + 3x2
+3
+= (0.8672638) sin(0.8672638) + cos(0.8672638) + 2(0.8672638)3
+sin(0.8672638) + 3(0.8672638)2
+= 0.8654771
+x5 = x4 sin x4 + cos x4 + 2x3
+4
+sin x4 + 3x2
+4
+= (0.8654771) sin(0.8654771) + cos(0.8654771) + 2(0.8654771)3
+sin(0.8654771) + 3(0.8654771)2
+= 0.8654740
+x6 = x5 sin x5 + cos x5 + 2x3
+5
+sin x5 + 3x2
+5
+= (0.8654740) sin(0.8654740) + cos(0.8654740) + 2(0.8654740)3
+sin(0.8654740) + 3(0.8654740)2
+= 0.8654740
+Therefore, the solution is
+x = 0.8654740
+correct to 7 decimal places
+Page 184 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.13
+Use Newton’s Method to estimate the point of intersection of
+y = e−x2 and y = x.
+f(x) = x −e−x2 , ⇒xn+1 = xn −
+xn −e−x2
+n
+1 + 2xne−x2n
+n
+xn
+f(xn)
+f ′(xn)
+f(xn)
+f′(xn)
+xn −f(xn)
+f′(xn)
+1
+0.500000
+-0.27880
+1.77880
+-0.15673
+0.65673
+2
+0.65673
+0.00706
+1.85331
+0.00381
+0.65292
+3
+0.65292
+0.00000
+1.85261
+0.00000
+0.65292
+4
+0.65292
+The solution exists and it is 0.65292
+Exercise 6.2.1
+Let f(x) = x2 −a. Show that the Newton Method leads to the recurrence
+xn+1 = 1
+2
+
+xn + a
+xn
+
+Exercise 6.2.2
+Newton’s equation y3 −2y −5 = 0 has a root near y = 2. Starting with
+y0 = 2, compute y1, y2, and y3, the next three Newton-Raphson estimates for the root.
+Exercise 6.2.3
+Find the root of the equation
+x2 + x −1 = 0
+in the interval [0, 1], giving your answer correct to 4 decimal places.
+Exercise 6.2.4
+Show that the cubic equation
+2x3 + 3x2 −3x −5 = 0
+has a real root in the interval [1, 2]. Approximate this root correct to five decimal places using
+Newton Raphson’s method.
+Exercise 6.2.5
+Use Newton’s method to approximate the root of the equation
+g(x) = x3 −2 sin x
+on [0.5, 2].
+ssebuliba & ddumba
+numerical analysis i
+Page 185 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+6.2.2
+Roots of Positive Numbers
+Suppose that our interest is to find the rth root of a real positive number A. If x is the value
+of this root, then x is related to A by the equation,
+A
+1
+r = x or xr = A or xr −A = 0
+Let f(x) = xr −A, then x is the root of the nonlinear equation,
+f(x) = xr −A = 0, ⇒f(xn) = xr
+n −A, ⇒f ′(xn) = rxr−1
+n
+Applying the Newton Raphson’s method, we have;
+xn+1 = xn −f(xn)
+f ′(xn)
+xn+1 = xn −(xr
+n −A)
+rxr−1
+n
+= rxr
+n −xr
+n + A
+rxr−1
+n
+= (r −1)xr
+n + A
+rxr−1
+n
+xn+1 = 1
+r
+
+(r −1)xn +
+A
+xr−1
+n
+
+(6.7)
+Equation (6.7) is a general formula from which we can obtain quadratically convergent iterative
+processes for finding approximations to arbitrary roots of numbers.
+Note 6.2.1
+The root, or answer interested in is the x. And also what is f(x) is the function
+f(x) = 0
+Example 6.2.14
+When r = 2, the square root of a number A we have
+x =
+√
+A ⇒x2 = A
+Thus for r = 2 in the general formula, we get,
+xn+1 = 1
+2
+
+xn + A
+xn
+
+Which is the Newton’s square root algorithm for extracting roots of positive numbers.
+Page 186 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.15
+Use Newton’s square root algorithm to find the square root of 5 correct to
+six decimal places.
+√
+5 = x ⇒5
+1
+2 = x ⇒x2 −5 = 0 ⇒f(x) = x2 −5 = 0
+Or substituting in the general formula r = 2 and A = 5 we get,
+xn+1 = 1
+2
+
+xn + A
+xn
+
+or, using the Newton Raphson formula directly,
+f(x) = x2 −5
+f ′(x) = 2x
+to have
+xn+1 = xn −f(xn)
+f ′(xn)
+xn+1 = xn −x2
+n −5
+2xn
+xn+1 = 2x2
+n −x2
+n + 5
+2xn
+xn+1 = x2
+n + 5
+2xn
+xn+1 = 1
+2
+
+xn + 5
+xn
+
+Starting with x0 = 2.0 we get,
+x1 = 1
+2
+
+x0 + 5
+x0
+
+= 1
+2
+
+2.000000 +
+5
+2.000000
+
+= 2.250000
+x2 = 1
+2
+
+x1 + 5
+x1
+
+= 1
+2
+
+2.250000 +
+5
+2.250000
+
+= 2.236111
+x3 = 1
+2
+
+x2 + 5
+x2
+
+= 1
+2
+
+2.236111 +
+5
+2.236111
+
+= 2.236068
+x4 = 1
+2
+
+x3 + 5
+x3
+
+= 1
+2
+
+2.236068 +
+5
+2.236068
+
+= 2.236068
+The value of x2 = 2.236111 is correct only to one decimal place since it agrees with the previous
+iterate x1 = 2.250000 only in one decimal place.
+However, x3 = 2.236068 is correct to three decimal places since it is in agreement with the
+previous iterate x2 in exactly three places of decimal.
+But x4 = 2.236068 is exactly the same as x3. In fact they are exactly the same up to nine
+decimal places.
+This means that x4 = 2.236068 is the value of the root correct to nine decimal places. Thus
+x4, must also be correct up to six decimal places.
+Hence, the value of the root that you state as being correct to six decimal places or nine decimal
+places is x4 = 2.236068. Compare with the value obtained from calculator.
+ssebuliba & ddumba
+numerical analysis i
+Page 187 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.16
+Use Newton’s method to approximate
+√
+2
+Solution :
+For f(x) = x2 −2, f ′(x) = 2x. such that
+xn = xn−1 −f(xn−1)
+f ′(xn−1)
+= xn−1 −x2
+n−1 −2
+2xn−1
+= 1
+2xn−1 +
+1
+xn−1
+= 1
+2
+
+xn−1 +
+2
+xn−1
+
+.
+Therefore
+x1 = 1
+2
+
+x0 + 2
+x0
+
+= 1
+2
+
+2 + 2
+2
+
+= 1.5
+x2 = 1
+2
+
+x1 + 2
+x1
+
+= 1
+2
+
+1.5 + 2
+1.5
+
+≈1.416666667.
+Continuing in this way, we find that
+x1 = 1.5
+x2 ≈1.416666667
+x3 ≈1.414215686
+x4 ≈1.414213562
+x5 ≈1.414213562.
+Since we obtained the same value for x4 and x5, it is unlikely that the value xn
+will change on any subsequent application of Newton’s method. We conclude that
+√
+2 ≈1.414213562..
+■
+Exercise 6.2.6 Use Newton’s method to approximate
+√
+3 by letting f(x) = x2−3 and x0 = 3.
+Find x1 and x2.
+Solution :
+x1 = 2
+x2 = 1.75
+■
+Page 188 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+6.2.3
+Reciprocals of Numbers
+The reciprocal of a number A
+A−1 = x ⇒x−1 = A
+⇒1
+x = A
+⇒f(x) = Ax −1 = 0 wrong choice, f ′(x) = c
+⇒f(x) = 1
+x −A = 0 ⇒f ′(x) = −1
+x2
+xn+1 = xn −f(xn)
+f ′(xn) ⇒xn+1 = xn −
+1
+xn −A
+−1
+x2n
+⇒xn+1 = xn(2 −Axn)
+Alternatively, if we have that r = −1 then x−1 = A (positive number), this means x = 1
+A
+(reciprocal of A) with r = −1 in the general formula in equation (6.7) then we get,
+xn+1 = xn(2 −Axn)
+This formula is quadratically convergent and can suitably be applied to calculate the reciprocal
+of numbers.
+Example 6.2.17
+Use Newton’s reciprocal algorithm to find the reciprocal of 3.
+xn+1 = xn(2 −Axn) ⇒xn+1 = xn(2 −3xn)
+or, using the formula, since finding
+3−1 = x ⇒3x = 1 ⇒3x −1 = 0 ⇒f(x) = 3x −1
+would be a wrong choice as xn+1 will equal to a constant
+3−1 = x ⇒3 = x−1 ⇒1
+x −3 = 0 ⇒f(x) = 1
+x −3
+such that
+f(x) = 1
+x −3, f ′(x) = −1
+x2
+xn+1 = xn −f(xn)
+f ′(xn) = xn(2 −3xn)
+Let x0 = 0.5.
+x1 = x0[2 −3(x0)] = 0.50000
+
+2 −3(0.50000)
+
+= 0.25000
+x2 = x1[2 −3(x1)] = 0.25000
+
+2 −3(0.25000)
+
+= 0.31250
+x3 = x2[2 −3(x2)] = 0.31250
+
+2 −3(0.31250)
+
+= 0.33203
+x4 = x3[2 −3(x3)] = 0.33203
+
+2 −3(0.33203)
+
+= 0.33333
+x5 = x4[2 −3(x4)] = 0.33333
+
+2 −3(0.33333)
+
+= 0.33333
+Thus x5 = 0.33333 is the value of the reciprocal of 3 i.e 1
+3 correct to five decimal places.
+ssebuliba & ddumba
+numerical analysis i
+Page 189 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+6.2.4
+Failures of Newton’s Method
+Typically, Newton’s method is used to find roots fairly quickly. However, things can go wrong.
+Some reasons why Newton’s method might fail include the following:
+1. At one of the approximations xn, the derivative f ′ is zero at xn, but f(xn) ̸= 0. As a result,
+the tangent line of f at xn does not intersect the x-axis. Therefore, we cannot continue the
+iterative process.
+2. The approximations x0, x1, x2, . . . may approach a different root. If the function f has more
+than one root, it is possible that our approximations do not approach the one for which we
+are looking, but approach a different root (see Figure below).
+Figure 6.2: If the initial guess x0 is too far from the root sought, it may lead to approximations
+that approach a different root.
+This event most often occurs when we do not choose the approximation x0 close enough to
+the desired root.
+3. The approximations may fail to approach a root entirely. In Example 6.2.18 , we provide an
+example of a function and an initial guess x0 such that the successive approximations never
+approach a root because the successive approximations continue to alternate back and forth
+between two values.
+Example 6.2.18
+Consider the function f(x) = x3 −2x + 2. Let x0 = 0. Show that the
+sequence x1, x2, . . . fails to approach a root of f.
+Solution :
+For f(x) = x3 −2x + 2, the derivative is f ′(x) = 3x2 −2. Therefore,
+x1 = x0 −f(x0)
+f ′(x0) = 0 −f(0)
+f ′(0) = −2
+−2 = 1.
+In the next step,
+x2 = x1 −f(x1)
+f ′(x1) = 1 −f(1)
+f ′(1) = 1 −1
+1 = 0.
+Consequently, the numbers x0, x1, x2, . . . continue to bounce back and forth between
+0 and 1 and never get closer to the root of f which is over the interval [−2, −1] .
+Page 190 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Figure 6.3: The approximations continue to alternate between 0 and 1 and never approach the
+root of f.
+Fortunately, if we choose an initial approximation x0 closer to the actual root, we
+can avoid this situation.
+■
+Exercise 6.2.7
+For f(x) = x3 −2x + 2, let x0 = −1.5 and find x1 and x2.
+Solution :
+x1 ≈−1.842105263
+x2 ≈−1.772826920
+■
+Note 6.2.2 From Example 6.2.18, we see that Newton’s method does not always work. How-
+ever, when it does work, the sequence of approximations approaches the root very quickly.
+Discussions of how quickly the sequence of approximations approach a root found using New-
+ton’s method are included in texts on numerical analysis.
+6.2.5
+Advantages of Newton Raphson’s Method
+• A faster method for converging on a single root of a function is the Newton- Raphson method.
+• Perhaps it is the most widely used method of all locating formulas.
+• Because the convergence rate is high, no worry for initial guess, interval size, and number of
+decimal places required.
+• Requires only one guess
+ssebuliba & ddumba
+numerical analysis i
+Page 191 of 315
+
+6.2. NEWTON RAPHSON’S METHOD
+6.2.6
+Limitations of Newton Raphson’s Method
+Good though it is, the method has some limitations.
+• The Newton Raphson’s method may also fail if f(x) has a point of inflection in the neigh-
+borhood of the root.
+• Newton’s method is an extremely powerful technique, but it has a major weakness: the need
+to know the value of the derivative of f at each approximation.
+• Frequently, f ′(x) is far more difficult and needs more arithmetic operations to calculate than
+f(x).
+• If in the immediate neighborhood of a root of f(x), f ′(x) vanishes or is very small, the
+Newton Raphson’s method will not converge. The reason for this failure is; since f ′(x) is
+very small, the quantity, −f(xn)
+f ′(xn) becomes very large. In case it is zero - the denominator,
+then function is not defined. The consequence is that we are thrown away from the root we
+are approximating.
+Exercise 6.2.8
+Use Newton’s square root algorithm to find the square root of 2 correct to 6
+decimal places.
+Exercise 6.2.9
+Use cube root Newton’s algorithm to find the cube root of 7 correct to four
+decimal places.
+Exercise 6.2.10
+Use Newton’s reciprocal algorithm to find
+1.) the reciprocal of the square root of 2.
+2.) The reciprocal of the cube root of 4.
+Exercise 6.2.11 State the advantages and disadvantages of the Newton’s method for nonlin-
+ear equations.
+Exercise 6.2.12
+Define the Newton-Raphson method formula for finding the root of a non-
+linear equation f(x) = 0
+xn+1 = xn −f(xn)
+f ′(xn)
+Exercise 6.2.13 With any simple example, write short notes on the ”NRM” for solving non-
+linear equations.
+Page 192 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.2. NEWTON RAPHSON’S METHOD
+Example 6.2.19
+1.) The convergence of the Newton-Raphson method technique highly depends on the initial
+guess. Discuss.
+Solution :
+Yes, when the initial guess is in the interval given, the iterations
+converge faster than otherwise.
+■
+2.) Use Newton Raphson method to estimate one of the solutions of x2 −4 = 0 using x0 = 6
+to 2 decimal places.
+Solution :
+xn
+xn+1
+x0 = 6
+x1 = 3.33
+x1 = 3.33
+x2 = 2.27
+x2 = 2.27
+x3 = 2.01
+x3 = 2.01
+x4 = 2.00
+x4 = 2.00
+x5 = 2.00
+■
+3.) Newton’s Raphson’s method is one of the popular schemes for solving a non-linear equation
+f(x) = 0. Prove that the Newton Raphson’s method for finding the square root of a positive
+number A is given by,
+xn+1 = 1
+2
+
+xn + A
+xn
+
+Use the scheme above to approximate the square root of 5(
+√
+5) to three decimal places with
+x0 = 2.
+Solution :
+xn
+xn+1
+x0 = 2
+x1 = 2.25
+x1 = 2.25
+x2 = 2.236
+x2 = 2.236
+x3 = 2.236
+x3 = 2.236
+x4 = 2.236
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 193 of 315
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+6.3
+Bisection Method (Interval Halving)
+6.3.1
+Background
+The bisection method is one of the bracketing methods for finding roots of equations.
+6.3.2
+Implementation
+Given a function f(x) and an interval which might contain a root, perform a predetermined
+number of iterations using the bisection method.
+6.3.3
+Limitations
+Investigate the result of applying the bisection method over an interval where there is a discon-
+tinuity. Apply the bisection method for a function using an interval where there are distinct
+roots. Apply the bisection method over a ”large” interval.
+6.3.4
+Explanation on the bisection method
+The bisection method takes a similar geometrical approach with the Regula falsi algorithm.
+You need two initial guesses x0 and x1 to the root x⋆of the nonlinear equation f(x) = 0, such
+that
+f(x0)f(x1) < 0
+The next approximation is obtained by getting the arithmetic mean of the previous two. That
+is
+xn+1 = xn + xn−1
+2
+(6.8)
+However, the pair xn, xn+1 to be used to get xn+2 must satisfy the condition
+f(xn)f(xn−1) < 0
+(6.9)
+Masenge (1989) called this method a trivial simplification of the regula falsi.
+In mathematics, the bisection method is a root-finding algorithm which works by repeatedly
+dividing an interval in half and then selecting the subinterval in which the root exists.
+Page 194 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.1
+Use the Bisection method to estimate the root of x2 = 3 on (1, 2).
+The non linear function x2 −3 = 0 ⇒f(x) = x2 −3
+Let
+x0 = 1 ⇒f0 = −2.000 < 0
+x1 = 2 ⇒f1 = 1.000 > 0
+For the Bisection scheme,
+xn+1 = xn + xn−1
+2
+x2 = x1 + x0
+2
+= 1 + 2
+2
+= 1.500 ⇒f2 = −0.75 < 0
+x3 = x2 + x1
+2
+= 1.500 + 2.000
+2
+= 1.750 ⇒f3 = 0.062 > 0
+x4 = x3 + x2
+2
+= 1.750 + 1.500
+2
+= 1.625 ⇒f4 = −0.359 < 0
+x5 = x4 + x3
+2
+= 1.625 + 1.750
+2
+= 1.688 ⇒f5 = −0.151 < 0
+x6 = x5 + x3
+2
+= 1.688 + 1.750
+2
+= 1.719 ⇒f6 = −0.045 < 0
+x7 = x6 + x3
+2
+= 1.719 + 1.750
+2
+= 1.735 ⇒f7 = 0.010 > 0
+x8 = x7 + x6
+2
+= 1.735 + 1.719
+2
+= 1.727 ⇒f8 = −0.017 < 0
+x9 = x8 + x7
+2
+= 1.727 + 1.735
+2
+= 1.731 ⇒f9 = −0.004 < 0
+x10 = x9 + x7
+2
+= 1.731 + 1.735
+2
+= 1.733 ⇒f10 = 0.003 > 0
+x11 = x10 + x9
+2
+= 1.733 + 1.731
+2
+= 1.732 ⇒f11 = 0.000
+Since f11 = 0.000, then x11 = 1.732 it is the root or zero of the function x2 −3 = 0, that is the
+approximated square root of 3 correct to three decimal places.
+ssebuliba & ddumba
+numerical analysis i
+Page 195 of 315
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.2
+Compute the numerical root of
+3x + sin x −ex = 0
+using the Bisection method on the interval [0, 0.5] correct to 4 decimal places.
+Let
+x0 = 0 ⇒f0 = −1.0000 < 0
+x1 = 0.5 ⇒f1 = 0.3307 > 0
+For the Bisection scheme,
+xn+1 = xn + xn−1
+2
+x2 = x1 + x0
+2
+= 0 + 0.5
+2
+= 0.2500 ⇒f2 = −0.2866 < 0
+x3 = x2 + x1
+2
+= 0.2500 + 0.5000
+2
+= 0.3750 ⇒f3 = 0.0363 > 0
+x4 = x3 + x2
+2
+= 0.3750 + 0.2500
+2
+= 0.3125 ⇒f4 = −0.1219 < 0
+x5 = x4 + x3
+2
+= 0.3125 + 0.3750
+2
+= 0.3438 ⇒f5 = −0.0418 < 0
+x6 = x5 + x3
+2
+= 0.3438 + 0.3750
+2
+= 0.3594 ⇒f6 = −0.0026 < 0
+x7 = x6 + x3
+2
+= 0.3594 + 0.3750
+2
+= 0.3672 ⇒f7 = 0.0169 > 0
+x8 = x7 + x6
+2
+= 0.3672 + 0.3594
+2
+= 0.3633 ⇒f8 = 0.0072 > 0
+x9 = x8 + x6
+2
+= 0.3633 + 0.3594
+2
+= 0.3614 ⇒f9 = 0.0024 > 0
+x10 = x9 + x6
+2
+= 0.3614 + 0.3594
+2
+= 0.3604 ⇒f10 = −0.0001 < 0
+x11 = x10 + x9
+2
+= 0.3604 + 0.3614
+2
+= 0.3609 ⇒f11 = 0.0012 > 0
+x12 = x11 + x10
+2
+= 0.3609 + 0.3604
+2
+= 0.3607 ⇒f12 = 0.0007 > 0
+x13 = x12 + x10
+2
+= 0.3607 + 0.3604
+2
+= 0.3606 ⇒f13 = 0.0004 > 0
+x14 = x13 + x10
+2
+= 0.3606 + 0.3604
+2
+= 0.3605 ⇒f14 = 0.0002 > 0
+x15 = x14 + x10
+2
+= 0.3605 + 0.3604
+2
+= 0.3604 ⇒f15 = −0.0001 < 1
+x16 = x15 + x14
+2
+= 0.3604 + 0.3605
+2
+= 0.3604
+So one of the roots of
+3x + sin x −ex = 0
+is approximately
+0.3604
+The exact solution is in fact 0.36044
+Remark 6.3.1
+The Bisection method takes long to converge.
+Page 196 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+6.3.5
+Advantages of the Bisection method
+• The method is simple.
+• The method is always convergent.
+6.3.6
+Disadvantages of the Bisection method
+• It requires the values of a = x0 and b = x1.
+• The convergence of interval halving is very slow (slow at converging to the root x⋆). For
+example, a simple non linear equation
+x3 −x −2
+will converge to about 1.521 after 15-fifteen iterations.
+• The method fails in case of approximating a double root or a root of even multiplicity.
+• A faster method for converging on a single root of a function is the Newton-Raphson
+iteration Method.
+ssebuliba & ddumba
+numerical analysis i
+Page 197 of 315
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.3
+Using the Bisection algorithm, find the root of
+cos x −xex = 0
+correct to 3 decimal places on the interval 0 ≤x ≤1
+Let x0 = 0 ⇒f0 = 1.000 > 0 and x1 = 1 ⇒f1 = −2.178 < 0, for the Bisection scheme,
+xn+1 = xn + xn−1
+2
+x2 = x1 + x0
+2
+= 0 + 1
+2
+= 0.500 ⇒f2 = 0.053 > 0
+x3 = x2 + x1
+2
+= 0.500 + 1.000
+2
+= 0.750 ⇒f3 = −0.856 < 0
+x4 = x3 + x2
+2
+= 0.750 + 0.500
+2
+= 0.625 ⇒f4 = −0.357 < 0
+x5 = x4 + x2
+2
+= 0.625 + 0.500
+2
+= 0.562 ⇒f5 = −0.140 < 0
+x6 = x5 + x2
+2
+= 0.562 + 0.500
+2
+= 0.531 ⇒f6 = −0.041 < 0
+x7 = x6 + x2
+2
+= 0.531 + 0.500
+2
+= 0.516 ⇒f7 = 0.005 > 0
+x8 = x7 + x6
+2
+= 0.516 + 0.531
+2
+= 0.524 ⇒f8 = −0.019 < 0
+x9 = x8 + x7
+2
+= 0.524 + 0.516
+2
+= 0.520 ⇒f9 = −0.007 < 0
+x10 = x9 + x7
+2
+= 0.520 + 0.516
+2
+= 0.518 ⇒f10 = −0.001 < 0
+x11 = x10 + x7
+2
+= 0.518 + 0.516
+2
+= 0.517 ⇒f11 = 0.002 > 0
+x12 = x11 + x10
+2
+= 0.517 + 0.518
+2
+= 0.518 ⇒f12 = −0.001 < 0
+x13 = x12 + x11
+2
+= 0.518 + 0.517
+2
+= 0.518
+The scheme converges at x = 0.518. Analytically, the root is 0.5177
+Page 198 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.4
+Estimate the zero to the non linear equation
+f(x) = x3 −5x2 −2x + 10
+using numerical Bisection method, if the graphical methods found the real root between x = 1
+and x = 3:
+Let
+x0 = 1 ⇒f0 = 4.0000 > 0
+x1 = 3 ⇒f1 = −14.0000 < 0
+By interval halving,
+xn+1 = xn + xn−1
+2
+x2 = x1 + x0
+2
+= 3 + 1
+2
+= 2.0000 ⇒f2 = −6.0000 < 0
+x3 = x2 + x0
+2
+= 2.0000 + 1.0000
+2
+= 1.5000 ⇒f3 = −0.8750 < 0
+x4 = x3 + x0
+2
+= 1.5000 + 1.0000
+2
+= 1.2500 ⇒f4 = 1.6406 > 0
+x5 = x4 + x3
+2
+= 1.2500 + 1.5000
+2
+= 1.3750 ⇒f5 = 0.3965 > 0
+x6 = x5 + x3
+2
+= 1.3750 + 1.5000
+2
+= 1.4375 ⇒f6 = −0.2366 < 0
+x7 = x6 + x5
+2
+= 1.4375 + 1.3750
+2
+= 1.4063 ⇒f7 = 0.0802 > 0
+......
+It is evident that the functional values f(xi) are approaching zero as the number of iterations
+is increased.
+After more six iteration the approximated root of 1.40625 compares favorably with the exact
+value of
+√
+2
+ssebuliba & ddumba
+numerical analysis i
+Page 199 of 315
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.5
+The following polynomial has a root within the interval 3.75 ≤x ≤5.00
+f(x) = x3 −x2 −10x −8 = 0
+If a tolerance of 0.01(1%) is required, find this root using bisection method.
+The Bisection algorithm is given by
+xn+1 = xn + xn−1
+2
+alternatively xm = xs + xe
+2
+where xm is the mid point, xs starting point of the two, and xe end point of the two
+Iteration
+i
+xs
+xm
+xe
+f(xs)
+f(xm)
+f(xe)
+f(xs)f(xm)
+f(xm)f(xe)
+error ϵd
+1
+3.7500
+4.3750
+5.0000
+-6.8281
+12.8496
+42.0000
+-
++
+–
+2
+3.7500
+4.0625
+4.3750
+-6.8281
+1.9182
+12.8496
+-
++
+0.31250
+3
+3.7500
+3.9063
+4.0625
+-6.8281
+-2.7166
+1.9182
++
+-
+0.15625
+4
+3.9063
+.9844
+4.0625
+-2.7166
+-0.4661
+1.9182
++
+-
+0.07813
+5
+3.9844
+4.0234
+4.0625
+-0.4661
+0.7092
+1.9182
+-
++
+0.03906
+6
+3.9844
+4.0039
+4.0234
+-0.4661
+0.1174
+0.7092
+-
++
+0.01953
+7
+3.9844
+3.9941
+4.0039
+-0.4661
+-0.1754
+0.1174
++
+-
+0.00977
+8
+3.9941
+3.9990
+4.0039
+-0.1754
+-0.0293
+0.1174
++
+-
+0.00488
+9
+3.9990
+4.0015
+4.0039
+-0.0293
+0.0440
+0.1174
+-
++
+0.00244
+10
+3.9990
+4.0002
+4.0015
+-0.0293
+0.0073
+0.0440
+-
++
+0.00122
+11
+3.9990
+3.9996
+4.0002
+-0.0293
+-0.0110
+0.0073
++
+-
+0.00061
+12
+3.9996
+3.9999
+4.0002
+-0.0110
+-0.0018
+0.0073
++
+-
+0.00031
+13
+3.9999
+4.0001
+4.0002
+-0.0018
+0.0027
+0.0073
+-
++
+0.00015
+14
+3.9999
+4.0000
+4.0001
+-0.0018
+0.0005
+0.0027
+-
++
+0.00008
+15
+3.9999
+4.0000
+4.0000
+-0.0018
+-0.0007
+0.0005
++
+-
+0.00004
+Page 200 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.6
+Consider finding the root of
+f(x) = e−x (3.2 sin x −0.5 cos x)
+on the interval [3, 4], this time with ϵstep = 0.001, ϵabs = 0.001.
+Iteration
+i
+xs
+xe
+f(xs)
+f(xe)
+xm
+f(xm)
+ϵabs
+1
+3.0000
+4.0000
+0.047127
+-0.038372
+3.5000
+-0.019757
+0.5
+2
+3.0000
+3.5000
+0.047127
+-0.019757
+3.2500
+0.0058479
+0.25
+3
+3.2500
+3.5000
+0.0058479
+-0.019757
+3.3750
+-0.0086808
+0.125
+4
+3.2500
+3.3750
+0.0058479
+-0.0086808
+3.3125
+-0.0018773
+0.0625
+5
+3.2500
+3.3125
+0.0058479
+-0.0018773
+3.2812
+0.0018739
+0.0313
+6
+3.2812
+3.3125
+0.0018739
+-0.0018773
+3.2968
+-0.000024791
+0.0156
+7
+3.2812
+3.2968
+0.0018739
+-0.000024791
+3.2890
+0.00091736
+0.0078
+8
+3.2890
+3.2968
+0.00091736
+-0.000024791
+3.2929
+0.00044352
+0.0039
+9
+3.2929
+3.2968
+0.00044352
+-0.000024791
+3.2948
+0.00021466
+0.002
+10
+3.2948
+3.2968
+0.00021466
+-0.000024791
+3.2958
+0.000094077
+0.001
+11
+3.2958
+3.2968
+0.000094077
+-0.000024791
+3.2963
+0.000034799
+0.0005
+Remark 6.3.2
+Thus, after the 11th iteration, we note that the final interval, [3.2958, 3.2968]
+has a width less than 0.001 and |f(3.2968)| = 0.000025 < 0.001 and therefore we chose xe =
+3.2968 to be our approximation of the root.
+Although it is xm = 3.2963 in the last interval, but it is not the better approximation, since
+scheme has not yet converged and yet |f(3.2963)| = 0.000035 a much more deviation from the
+exact value 0.00000 compared to f(3.2968)
+Remark 6.3.3 The Bisection scheme has not yet converged, but iteration terminated because
+of the required error achieved.
+ssebuliba & ddumba
+numerical analysis i
+Page 201 of 315
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Example 6.3.7
+The root of
+ex −2 = 0
+is known to exist in [0, 2]. Use 8 iterations to find an approximate value of the root (or find an
+approximate value of the root to within a tolerance of ϵ)
+Iteration
+i
+xs
+xm
+xe
+f(xs)
+f(xe)
+f(xm)
+1
+0.0000
+1.0000000
+2.000000
+-1.0000
+0.7183
+5.3891
+2
+0.0000
+0.5000000
+1.000000
+-1.0000
+-0.3513
+0.7183
+3
+0.5000
+0.7500000
+1.000000
+-0.3513
+0.1170
+0.7183
+4
+0.5000
+0.6250000
+0.750000
+-0.3513
+-0.1318
+0.1170
+5
+0.6250
+0.6875000
+0.750000
+-0.1318
+-0.0113
+0.1170
+6
+0.6875
+0.7187500
+0.750000
+-0.0113
+0.0519
+0.1170
+7
+0.6875
+0.7031250
+0.718750
+-0.0113
+0.0201
+0.0519
+8
+0.6875
+0.6953125
+0.703125
+-0.0113
+0.0043
+0.0201
+Exercise 6.3.1 Will the Bisection Method applied to f(x) = tan x and initial interval [a, b] =
+[1, 2] converge to a root? Why or why not? To which value, if any, will the Bisection Method
+converge?
+Exercise 6.3.2 If g(x) = cos x−2x, and [a1, b1] = [0, 1], use the Bisection Method to compute
+x3. Show your work.
+Exercise 6.3.3
+Consider the equations
+(a) x5 + x = 1
+(b) sin x = 6x + 5
+(c) ln x + x2 = 3
+Apply two steps of the Bisection Method to find an approximate root within 1/8 of the true
+root.
+Exercise 6.3.4
+Approximate to 2 decimal places the roots of the following equations using
+the bisection method.
+(a) x2 = 3
+(b) x3 = 2
+(c) x4 = 2
+Exercise 6.3.5 The function h(x) = x sin x occurs in the study of damped forced oscillation.
+Find the value of x that lies in the interval [0, 2] where the function takes on the value h(x) = 1.
+Use interval bisection.
+Exercise 6.3.6
+If a = 0.1 and b = 1.0, how many steps of the bisection method are needed
+to determine a root in this interval with an error of at most 1
+2 × 10−8?
+Page 202 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.3. BISECTION METHOD (INTERVAL HALVING)
+Exercise 6.3.7
+Consider obtaining the root of:
+f(x) = ex + 1 + sin x
+(x −2)
+.
+Show that f(1.9) < 0, f(2.1) > 0 and use the bisection method to obtain the root.
+Exercise 6.3.8
+Find the real root of the equation
+x3 −x2 −x + 1 = 0
+using the bisection algorithm.
+Exercise 6.3.9
+The bisection method generates intervals [a0, b0], [a1, b1], and so on, which of
+these inequalities are true for the root r that is being calculated?
+(a) |r −an| ≤2|r −bn|
+(b) |r −an| ≤2−n−1(b0 −a0)
+(c) |r −bn| ≤2−n−1(b0 −a0)
+(d) 0 ≤r −an2−n(b0 −a0)
+(e) |r −1
+2(an + bn)| ≤2−n−2(b0 −a0)
+Example 6.3.8
+Find all the real solutions to the cubic equation
+x3 + 4x2 −10 = 0
+in the interval [1, 2].
+Example 6.3.9 Use Newton’s method to find the roots of the cubic polynomial x3−3x+2 = 0
+in the interval
+(a) [0, 2]
+(b) [−3, −1]
+ssebuliba & ddumba
+numerical analysis i
+Page 203 of 315
+
+6.4. SECANT METHOD (CHORDS METHOD)
+6.4
+Secant Method (Chords Method)
+The Secant method needs two points near the root before the algorithm can be applied. Thus
+it is of the form
+xr+1 = f(xr, xr−1).
+6.4.1
+Derivation of the Secant method
+We linear approximate the graph of y = f(x) in figure (10.1), by a chord passing through the
+points A and B. The equation of this chord is,
+The equation of the Chord is,
+y = f(x1) = [f(x0) −f(x1)](x −x1)
+x0 −x1
+This Chord cuts the x-axis at x2 i.e.
+−f(x1) = f(x0) −f(x1)
+(x0 −x1)
+(x2 −x1)
+giving, x2 = x1 −f(x1)(x1 −x0)
+f(x1) −f(x0)
+or in general we have that,
+xn+1 = g(xn, xn−1)
+That is
+xn+1 = xn −f(xn) [xn −xn−1]
+f(xn) −f(xn−1)
+xn+1 = xn [f(xn) −f(xn−1)] −f(xn) [xn −xn−1]
+f(xn) −f(xn−1)
+xn+1 = xnf(xn) −xnf(xn−1) −xnf(xn) + xn−1f(xn)
+f(xn) −f(xn−1)
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+(6.10)
+The error in the (n + 1)th iterate is related to the error in the nth iterate en by the relation
+en+1 ≃Aek
+n where k ≃1.618 . . . and A is a constant. This relation suggests that the method
+has order of convergence 1.618.
+Page 204 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.4. SECANT METHOD (CHORDS METHOD)
+Example 6.4.1
+Use the Secant method to find the root near 2 of the equation
+x3 −2x −5 = 0
+Start the iteration with x0 = 1.9, ⇒f(x0) = −1.941 and x1 = 2.0 ⇒f(x1) = −1.000.
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.9)(−1.000) −(2.0)(−1.941)
+−1.000 −−1.941
+= 2.10627,
+f2 = 0.13166
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (2.0)(0.13166) −(2.10627)(−1.000)
+0.13166 −−1.000
+= 2.09391,
+f3 = −0.00716
+x4 = x2f(x3) −x3f(x2)
+f(x3) −f(x2)
+= (2.10627)(−0.00716) −(2.09391)(0.13166)
+−0.00716 −0.13166
+= 2.09455, f4 = −0.00002
+x5 = x3f(x4) −x4f(x3)
+f(x4) −f(x3)
+= (2.09391)(−0.00002) −(2.09455)(−0.00716)
+−0.00002 −−0.00716
+= 2.09455
+Thus since x4 and x5 are identical to 5 decimal places, so x5 = 2.09455 is the value of the root
+correct to five decimal places.
+Example 6.4.2
+Estimate the root of
+x4 −x −10 = 0
+with the initial guess as 1.0 and 2.0 using the numerical Secant scheme. Take solutions to 5
+decimal places.
+Let
+x0 = 1.0 ⇒f0 = −10.0
+x1 = 2.0 ⇒f1 = 4.0
+For the Secant rule
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(4.0) −(2.0)(−10.0)
+4.0 −−10.0
+= 1.71429
+⇒f2 = −3.07780
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (2.0)(−3.07780) −(1.71429)(4.0)
+−3.07780 −4.0
+= 1.83853
+⇒f3 = −0.41283
+x4 = x2f(x3) −x3f(x2)
+f(x3) −f(x2)
+= (1.71429)(−0.41283) −(1.83853)(−3.07780)
+−0.41283 −−3.07780
+= 1.85778
+⇒f4 = 0.05401
+x5 = x3f(x4) −x4f(x3)
+f(x4) −f(x3)
+= (1.83853)(0.05401) −(1.85778)(−0.41283)
+0.05401 −−0.41283
+= 1.85555
+⇒f5 = −0.00085
+x6 = x4f(x5) −x5f(x4)
+f(x5) −f(x4)
+= (1.85778)(−0.00085) −(1.85555)(0.05401)
+−0.00085 −0.05401
+= 1.85558
+⇒f6 = −0.00011
+x7 = x5f(x6) −x6f(x5)
+f(x6) −f(x5)
+= (1.85555)(−0.00011) −(1.85558)(−0.00085)
+−0.00011 −−0.00085
+= 1.85558
+ssebuliba & ddumba
+numerical analysis i
+Page 205 of 315
+
+6.4. SECANT METHOD (CHORDS METHOD)
+So the iterative process converges at 1.85558
+Note 6.4.1 If the function f(x) has a trigonometric term, the calculators better be in radians.
+Example 6.4.3
+Approximate the root of
+x −sin x −1
+2 = 0
+Let the initial guess be 1.0 and 2.0 using the Secant algorithm.
+Let x0 = 1.0 ⇒f0 = −0.34147 and x1 = 2.0 ⇒f1 = 0.59070
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(0.59070) −(2.0)(−0.34147)
+0.59070 −−0.34147
+= 1.36632
+⇒f2 = −0.11285
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (2.0)(−0.11285) −(1.36632)(0.59070)
+−0.11285 −0.59070
+= 1.46796
+⇒f3 = −0.02676
+x4 = x2f(x3) −x3f(x2)
+f(x3) −f(x2)
+= (1.36632)(−0.02676) −(1.46796)(−0.11285)
+−0.02676 −−0.11285
+= 1.49955
+⇒f4 = 0.00209
+x5 = x3f(x4) −x4f(x3)
+f(x4) −f(x3)
+= (1.46796)(0.00209) −(1.49955)(−0.02676)
+0.00209 −−0.02676
+= 1.49726
+⇒f5 = −0.00004
+x6 = x4f(x5) −x5f(x4)
+f(x5) −f(x4)
+= (1.49955)(−0.00004) −(1.49726)(0.00209)
+−0.00004 −0.00209
+= 1.49730
+⇒f6 = 0.00000
+x7 = x5f(x6) −x6f(x5)
+f(x6) −f(x5)
+= (1.49726)(0.00000) −(1.49730)(−0.00004)
+−0.00000 −−0.00004
+= 1.49730
+So the iterative process converges at 1.49730, and it is almost exact.
+Example 6.4.4
+Let the initial guess be −2.0 and −1.0, find the root of
+(x2 + 5x + 2)e−x + 1 = 0
+using the Secant technique approximated to 5 decimal places.
+Page 206 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.4. SECANT METHOD (CHORDS METHOD)
+Let x0 = −2.0 ⇒f0 = −28.55622 and x1 = −1.0 ⇒f1 = −4.43656
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (−2.0)(−4.43656) −(−1.0)(−28.55622)
+−4.43656 −−28.55622
+= −0.81606
+⇒f2 = −2.19865
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (−1.0)(−2.19865) −(−0.81606)(−4.43656)
+−2.19865 −−4.43656
+= −0.63535
+⇒f3 = −0.45933
+x4 = x2f(x3) −x3f(x2)
+f(x3) −f(x2)
+= (−0.81606)(−0.45933) −(−0.63535)(−2.19865)
+−0.45933 −−2.19865
+= −0.58763
+⇒f4 = −0.06695
+x5 = x3f(x4) −x4f(x3)
+f(x4) −f(x3)
+= (−0.63535)(−0.06695) −(−0.58763)(−0.45933)
+−0.06695 −−0.45933
+= −0.57949
+⇒f5 = −0.00260
+x6 = x4f(x5) −x5f(x4)
+f(x5) −f(x4)
+= (−0.58763)(−0.00260) −(−0.57949)(−0.06695)
+−0.00260 −−0.06695
+= −0.57916
+⇒f6 = −0.00001
+x7 = x5f(x6) −x6f(x5)
+f(x6) −f(x5)
+= (−0.57949)(−0.00001) −(−0.57916)(−0.00260)
+−0.00001 −−0.00260
+= −0.57916
+The approximated zero of
+(x2 + 5x + 2)e−x + 1 = 0
+is
+−0.57916
+to five decimal places.
+ssebuliba & ddumba
+numerical analysis i
+Page 207 of 315
+
+6.4. SECANT METHOD (CHORDS METHOD)
+Example 6.4.5
+Apply the Secant method to show that for the non linear equation
+cos x −xex = 0
+the approximated roots are given by
+x0
+x1
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+1.0
+2.0
+0.83267
+0.72878
+0.56240
+0.52478
+0.51801
+0.51776
+0.51776
+So the iterative process converges at 0.51776
+Example 6.4.6 With initial conditions as x0 = 1.0 and x1 = 2.0, iterate with Secant method
+to show that for
+x −e−x = 0
+the inexact solutions approximated to 5 decimal places are
+x0
+x1
+x2
+x3
+x4
+x5
+x6
+1.0
+2.0
+0.48714
+0.58378
+0.56739
+0.56714
+0.56714
+So one of the roots of f(x) = x −e−x is approximately 0.56714
+Example 6.4.7
+Find the zero of the non linear equation
+e−x = 3 log10 x
+by the Secant method to 5 decimal places with the initial guess as 1.0 and 2.0
+x0
+x1
+x2
+x3
+x4
+x5
+x6
+x7
+1.0
+2.0
+1.32394
+1.22325
+1.24759
+1.24683
+1.24682
+1.24682
+So one of the roots of e−x = 3 log10 x is approximately 1.24682.
+Hint: The function f(x) used is
+f(x) = e−x −3 log10 x = 0
+Page 208 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.4. SECANT METHOD (CHORDS METHOD)
+Example 6.4.8
+Use the Secant method to find a solution to x = cos x , and compare the
+approximations with those given by Newton’s method with x0 = π/4.
+For the Secant method we need two initial approximations.
+Suppose we use x0 = 0.5 and
+x1 = π/4.
+n
+xn−1
+xn
+xn+1
+|xn+1 −xn|
+1
+0.500000000
+0.785398163
+0.736384139
+0.0490140246
+2
+0.785398163
+0.736384139
+0.739058139
+0.0026740004
+3
+0.736384139
+0.739085149
+0.739085149
+0.0000270101
+4
+0.739058139
+0.739085149
+0.739085133
+0.0000000161
+The Newton’s method for x = cos x with x0 = π/4 is given by
+n
+xn
+f (xn)
+f ′ (xn)
+xn+1
+|xn+1 −xn|
+0
+0.78539816
+-0.078291
+-1.707107
+0.73953613
+0.04586203
+1
+0.73953613
+-0.000755
+-1.673945
+0.73908518
+0.00045096
+2
+0.73908518
+-0.000000
+-1.673612
+0.73908513
+0.00000004
+3
+0.73908513
+-0.000000
+-1.673612
+0.73908513
+0.00000000
+Observations:
+• For Newton’s method, an excellent approximation is obtained with n = 2
+• Because of the agreement of x2 and x3 we could reasonably expect this result to be
+accurate to the places listed.
+• Comparing results, we see that the Secant Method approximation x4 is accurate to the
+tenth decimal place, whereas Newton’s method obtained this accuracy by x2.
+• Here, the convergence of the Secant method is much faster than functional iteration but
+slightly slower than Newton’s method.
+ssebuliba & ddumba
+numerical analysis i
+Page 209 of 315
+
+6.4. SECANT METHOD (CHORDS METHOD)
+6.4.2
+Advantages and Disadvantages of the Secant method
+The method;
+1.) can work for double roots.
+2.) has order of convergence of 1.618.
+3.) is not always convergent.
+The above are advantages or disadvantages depending on the comparison technique in question.
+Remark 6.4.1
+The Secant method and Newton’s method are often used to refine an answer
+obtained by another technique (such as the Bisection Method).
+Exercise 6.4.1
+Find the real root of
+f(x) = x3 + x2 −3x −3 = 0
+using Secant technique correct to 2 decimal places.
+Exercise 6.4.2
+Show that there is a root of the equation
+f(x) = 3x −sin x −ex = 0
+in the interval (0, 1). Estimate this root to 2 decimal places using the Secant method.
+Exercise 6.4.3
+Find the roots of the following equations, using the methods of Secant.
+(a) ex = cos x
+(b) x3 −2x + 1 = 0
+(c) sin 2x −ex −1 = 0
+(d) ln(x −1) = x2
+Exercise 6.4.4
+Use the Secant method to find the real root of the equation
+x3 + 2x2 −x + 5 = 0.
+Exercise 6.4.5
+Consider obtaining the root of;
+f(x) = ex + sin x
+(x −2)
+Show that f(1.9) < 0,
+f(2.1) > 0 and use the Secant method to obtain the root.
+Page 210 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+6.5
+The Regula-Falsi method (Method of false position)
+The regula falsi algorithm uses two points near the root before the algorithm is applied (a
+similar geometric approach like the Secant method-the regula falsi method is an associate of
+the Secant method) with the exception that,
+f(xr)f(xr−1) < 0
+at each stage of the algorithm. This is termed as root bracketing, like in the Bisection method.
+Thus to start the method, you need two points x0 = a0 and x1 = b0 near the root such that
+f(a0)f(b1) < 0
+That is f(a0) and f(b0) are of opposite signs, which implies by the intermediate value theorem
+that the function f has a root in the interval [a0, b0], assuming continuity of the function f.
+The method proceeds by producing a sequence of shrinking intervals [ak, bk] that all contain a
+root of f.
+6.5.1
+Geometric representation and derivation of the Regula falsi
+algorithm
+Figure 6.4: The first two iterations of the false position method
+From Figure (6.4) above, we note that the produce f(x0)(f(x1) < 0, which is in conformity
+with the regula falsi. The equation of the Chord CD is,
+y = f(x1) = [f(x0) −f(x1)](x −x1)
+x0 −x1
+This Chord cuts the x-axis at x2 i.e.
+−f(x1) = f(x0) −f(x1)
+(x0 −x1)
+(x2 −x1)
+giving, x2 = x1 −f(x1)(x1 −x0)
+f(x1) −f(x0)
+ssebuliba & ddumba
+numerical analysis i
+Page 211 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+or in general we have that,
+xn+1 = g(xn, xn−1)
+That is
+xn+1 = xn −f(xn) [xn −xn−1]
+f(xn) −f(xn−1)
+xn+1 = xn [f(xn) −f(xn−1)] −f(xn) [xn −xn−1]
+f(xn) −f(xn−1)
+xn+1 = xnf(xn) −xnf(xn−1) −xnf(xn) + xn−1f(xn)
+f(xn) −f(xn−1)
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+(6.11)
+Equation (6.11) is the popular Regula false/falsi position method with condition that at each
+stage of the algorithm,
+f(xn)f(xn−1) < 0
+(6.12)
+Page 212 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.1 Find the root between (2, 3) of x3 −2x−5 = 0, by using regula falsi method.
+Approximate values to 3 decimal places.
+Let us take x0 = 2 and x1 = 3.
+f(x) = x3 −2x −5
+f(x0) = f(2) = 23 −2(2) −5 = −1 < 0 (negative)
+f(x1) = f(3) = 33 −2(3) −5 = 16 > 0 (positive)
+The first approximation to root is x2 and is given by
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= 2f(3) −(3)f(2)
+f(3) −f(2)
+= 2(16) −(3)(−1)
+16 −(−1)
+= 35
+17 = 2.059
+⇒f(2.059) = −0.389 < 0
+The root lies between x2 = 2.059 and x1 = 3
+Taking x2 = 2.059 and x1 = 3. we have the second approximation to the root given by
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (3)f(2.059) −2.059f(3)
+f(2.059) −f(3)
+= (3)(−0.389) −2.059(16)
+(−0.389) −16
+= 2.081
+⇒f(2.081) = −0.150 < 0
+The root lies between x3 = 2.081 and x1 = 3
+Taking x3 = 2.081 and x1 = 3. we have the third approximation to the root given by
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= (3)f(2.081) −2.081f(3)
+f(2.081) −f(3)
+= (3)(−0.150) −2.081(16)
+(−0.15) −16
+= 2.090
+⇒f(2.090) = −0.051 < 0
+The root lies between x4 = 2.090 and x1 = 3
+Taking x4 = 2.090 and x1 = 3. we have the fourth approximation to the root given by
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x5 = x1f(x4) −x4f(x1)
+f(x4) −f(x1)
+= (3)f(2.090) −2.090f(3)
+f(2.090) −f(3)
+= (3)(−0.051) −(2.090)(16)
+(−0.051) −16
+= 2.091
+If we need a root to 3 decimal places, we could still continue with the iterations (the root lies
+between x5 = 2.091 and x1 = 3), but if to 2 decimal places, the required root is 2.09
+ssebuliba & ddumba
+numerical analysis i
+Page 213 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.2
+Approximate a root of
+3x + sin x −ex = 0
+using the regula falsi scheme of solving non linear equations f(x) = 0 to 3 decimal places on
+the interval [0, 0.5].
+If we sketch the function f(x) it’s clear that there is a root between 0 and 0.5 and also another
+root between 1.5 and 2.0. Now let us consider the function f(x) in the interval [0, 0.5] where
+f(0) × f(0.5) is less than zero and use the regula-falsi scheme to obtain the zero of f(x) = 0.
+Let x0 = 0.0 ⇒f0 = −1.000 < 0 and x1 = 0.5 ⇒f1 = 0.331 > 0
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (0.0)(0.331) −(0.5)(−1.000)
+0.331 −−1.000
+= 0.376, ⇒f2 = 0.039 > 0
+x3 = x0f(x2) −x2f(x0)
+f(x2) −f(x0)
+= (0.0)(0.039) −(0.376)(−1.000)
+0.039 −−1.000
+= 0.362, ⇒f3 = 0.004 > 0
+x4 = x0f(x3) −x3f(x0)
+f(x3) −f(x0)
+= (0.0)(0.004) −(0.362)(−1.000)
+0.004 −−1.000
+= 0.361, ⇒f4 = 0.001 > 0
+x5 = x0f(x4) −x4f(x0)
+f(x4) −f(x0)
+= (0.0)(0.001) −(0.361)(−1.000)
+0.001 −−1.000
+= 0.360, ⇒f5 = −0.001 < 0
+x5 = x4f(x5) −x5f(x4)
+f(x5) −f(x4)
+= (0.361)(−0.001) −(0.360)(0.001)
+−0.001 −0.001
+= 0.360
+So one of the roots of
+3x + sin x −ex = 0
+is approximately 0.360.
+Page 214 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.3
+Estimate the zero of the equation
+x cos
+
+x
+x −2
+
+= 0
+with the initial guess of x0 = 1 and x1 = 1.5 to 3 decimal places using the popular regula falsi
+technique.
+Let
+x0 = 1.0 ⇒f0 = 0.540 > 0
+x1 = 1.5 ⇒f1 = −1.485 < 0
+For the regula falsi
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(−1.485) −(1.5)(0.540)
+−1.485 −0.540
+= 1.133, ⇒f2 = 0.296 > 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (1.5)(0.296) −(1.133)(−1.485)
+0.296 −−1.485
+= 1.194, ⇒f3 = 0.107 > 0
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= (1.5)(0.107) −(1.194)(−1.485)
+0.107 −−1.485
+= 1.214, ⇒f4 = 0.032 > 0
+x5 = x1f(x4) −x4f(x1)
+f(x4) −f(x1)
+= (1.5)(0.032) −(1.214)(−1.485)
+0.032 −−1.485
+= 1.220, ⇒f5 = 0.008 > 0
+x6 = x1f(x5) −x5f(x1)
+f(x5) −f(x1)
+= (1.5)(0.008) −(1.220)(−1.485)
+0.008 −−1.485
+= 1.222, ⇒f6 = 0.000 > 0
+x7 = x1f(x6) −x6f(x1)
+f(x6) −f(x1)
+= (1.5)(0.000) −(1.222)(−1.485)
+0.000 −−1.485
+= 1.222
+So one of the roots of
+x cos
+
+x
+x −2
+
+= 0
+is approximately
+1.222
+to 3 decimal places.
+ssebuliba & ddumba
+numerical analysis i
+Page 215 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.4
+Use the Regula-Falsi method to compute a real root of the equation
+x3 −9x + 1 = 0,
+(a) if the root lies between 2 and 4
+(b) if the root lies between 2 and 3.
+Comment on the results.
+Let x0 = 2.0 ⇒f0 = −9 < 0 and x1 = 4.0 ⇒f1 = 29 > 0, For the regula falsi
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= 2.4736, ⇒f2 = −6.12644 < 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= 2.73989, ⇒f3 = −3.090707 < 0
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= 2.86125, ⇒f4 = −1.326868 < 0
+...
+Let x0 = 2.0 ⇒f0 = −9 < 0 and x1 = 3.0 ⇒f1 = 1 > 0, For the regula falsi
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= 2.90000, ⇒f2 = −0.7110 < 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= 2.94156, ⇒f3 = −0.0207 < 0
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= 2.94275, ⇒f4 = −0.0011896 < 0
+...
+We observe that the value of the root as a third approximation is evidently different in both
+the cases, while the value of x4, when the interval considered is (2, 3), is closer to the root.
+Important observation: The initial interval (x0, x1) in which the root of the equation lies should
+be sufficiently small.
+Page 216 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.5
+Use Regula-Falsi method to find a real root of the equation
+ln x −cos x = 0
+accurate to four decimal places after three successive approximations.
+Let
+x0 = 1.0 ⇒f0 = −0.540302 < 0
+x1 = 2.0 ⇒f1 = 1.109 > 0
+For the regula falsi
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(1.109) −(2.0)(−0.540302)
+1.109 −−0.540302
+= 1.3275
+⇒f2 = 0.0424 > 0
+Next iteration to be for x0 and x2 since f0f2 < 0, change signs
+x3 = x0f(x2) −x2f(x0)
+f(x2) −f(x0)
+= (1.0)(0.0424) −(1.3275)(−0.540302)
+0.0424 −−0.540302
+= 1.3037
+⇒f3 = 0.001248 > 0
+Next iteration to be for x0 and x3 since f0f3 < 0, change signs
+x4 = x0f(x3) −x3f(x0)
+f(x3) −f(x0)
+= (1.0)(0.001248) −(1.3037)(−0.540302)
+0.001248 −−0.540302
+= 1.3030
+The required real root is 1.3030
+Note 6.5.1
+The iterations have not converged, but we were interested in up to the third
+iteration.
+Note 6.5.2
+For Matlab program for the non linear equation, we write ln x as log x, where as
+log x as log10 x
+ssebuliba & ddumba
+numerical analysis i
+Page 217 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.6
+Use the method of false position to solve
+ex + 2−x + 2 cos x −6 = 0 1 ≤x ≤2
+correct your approximations to 4 decimal places.
+Let
+x0 = 1.0 ⇒f0 = −1.7011 < 0
+x1 = 2.0 ⇒f1 = 0.8068 > 0
+For the regula falsi
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(0.8068) −(2.0)(−1.7011)
+0.8068 −−1.7011
+= 1.6783, ⇒f2 = −0.5457 < 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (2.0)(−0.5457) −(1.6783)(0.8068)
+−0.5457 −0.8068
+= 1.8081, ⇒f3 = −0.0858 < 0
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= (2.0)(−0.0858) −(1.8081)(0.8068)
+−0.0858 −0.8068
+= 1.8265, ⇒f4 = −0.0118 < 0
+x5 = x1f(x4) −x4f(x1)
+f(x4) −f(x1)
+= (2.0)(−0.0118) −(1.8265)(0.8068)
+−0.0118 −0.8068
+= 1.8290, ⇒f5 = −0.0016 < 0
+x6 = x1f(x5) −x5f(x1)
+f(x5) −f(x1)
+= (2.0)(−0.0016) −(1.8290)(0.8068)
+−0.0016 −0.8068
+= 1.8293, ⇒f6 = −0.0003 < 0
+x7 = x1f(x6) −x6f(x1)
+f(x6) −f(x1)
+= (2.0)(−0.0003) −(1.8294)(0.8068)
+−0.0003 −0.8068
+= 1.8294, ⇒f7 = 0.0001 > 0
+x8 = x6f(x7) −x7f(x6)
+f(x7) −f(x6)
+= (1.8293)(0.0001) −(1.8294)(−0.0003)
+0.0001 −−0.0003
+= 1.8294
+So the root of
+ex + 2−x + 2 cos x −6 = 0
+is approximately 1.8294 to 4 decimal places. Analytically, the exact value would be 1.82938.
+Remark 6.5.1
+Look back at how x8 was computed, how and why it was x6 and x7 paired
+together, and not x7 with x1.
+Page 218 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.7
+Solve the equation
+2x cos 2x −(x −2)2 = 0 2 ≤x ≤3
+correct your approximations to 4 decimal places. Perform only four iterations.
+Let
+x0 = 2.0 ⇒f0 = −2.6146 < 0
+x1 = 3.0 ⇒f1 = 4.7610 > 0
+For the regula falsi
+xn+1 = xn−1f(xn) −xnf(xn−1)
+f(xn) −f(xn−1)
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (2.0)(4.7610) −(3.0)(−2.6146)
+4.7610 −−2.6146
+= 2.3545
+⇒f2 = −0.1416 < 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (3.0)(−0.1416) −(2.3545)(4.7610)
+−0.1416 −4.7610
+= 2.3731
+⇒f3 = 0.0212 > 0
+x4 = x2f(x3) −x3f(x2)
+f(x3) −f(x2)
+= (2.3545)(0.0212) −(2.3731)(−0.1416)
+0.0212 −−0.1416
+= 2.3707
+⇒f4 = 0.0001 > 0
+x5 = x2f(x4) −x4f(x2)
+f(x4) −f(x2)
+= (2.3545)(0.0001) −(2.3707)(−0.1416)
+0.0001 −−0.1416
+= 2.3707
+Remark 6.5.2
+The scheme converges after the fourth iteration and converges to 2.3707.
+In fact, one of the classical root of the non linear equation
+2x cos 2x −(x −2)2 = 0
+is
+2.37069
+Remark 6.5.3
+In every next iteration, the previous point must be part of it.
+ssebuliba & ddumba
+numerical analysis i
+Page 219 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.8
+Using Regula-Falsi algorithm, approximate the real root of
+f(x) = x3 −2x −2 = 0
+Now since, f(1) = −3 < 0 and f(2) = 2 > 0 and f(x) is continuous for all real x, there exists
+x⋆∈(1, 2) such that f(x⋆) = 0 (the intermediate value theorem).
+Let x0 = 1.0 ⇒f0 = −3.00000 < 0 and x1 = 2.0 ⇒f1 = 2.00000 > 0,
+x2 = x0f(x1) −x1f(x0)
+f(x1) −f(x0)
+= (1.0)(2.00000) −(2.0)(−3.00000)
+2.00000 −−3.00000
+= 1.60000, ⇒f2 = −1.10400 < 0
+x3 = x1f(x2) −x2f(x1)
+f(x2) −f(x1)
+= (2.0)(−1.10400) −(1.60000)(2.00000)
+−1.10400 −2.00000
+= 1.74227
+⇒f3 = −0.19587 < 0
+x4 = x1f(x3) −x3f(x1)
+f(x3) −f(x1)
+= (2.0)(−0.19587) −(1.74227)(2.00000)
+−0.19587 −2.00000
+= 1.76526
+⇒f4 = −0.02972 < 0
+x5 = x1f(x4) −x4f(x1)
+f(x4) −f(x1)
+= (2.0)(−0.02972) −(1.76526)(2.00000)
+−0.02972 −2.00000
+= 1.76870
+⇒f5 = −0.00438 < 0
+x6 = x1f(x5) −x5f(x1)
+f(x5) −f(x1)
+= (2.0)(−0.00438) −(1.76870)(2.00000)
+−0.00438 −2.00000
+= 1.76921
+⇒f6 = −0.00061 < 0
+x7 = x1f(x6) −x6f(x1)
+f(x6) −f(x1)
+= (2.0)(−0.00061) −(1.76921)(2.00000)
+−0.00061 −2.00000
+= 1.76928
+⇒f7 = −0.00009 < 0
+x8 = x1f(x7) −x7f(x1)
+f(x7) −f(x1)
+= (2.0)(−0.00009) −(1.76928)(2.00000)
+−0.00009 −2.00000
+= 1.76929
+⇒f8 = −0.00002 < 0
+x9 = x1f(x8) −x8f(x1)
+f(x8) −f(x1)
+= (2.0)(−0.00002) −(1.76929)(2.00000)
+−0.00002 −2.00000
+= 1.76929
+The numerical solution is therefore 1.76929 to five decimal points.
+Page 220 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Example 6.5.9 Use the method of False Position to find a solution to x = cos x, and compare
+the approximations with those given by the Newton’s method and the Secant Method. Let the
+initial approximations be x0 = 0.5 and x1 = π
+4
+False Position
+Secant
+Newton-Raphson
+n
+xn
+xn
+xn
+0
+0.5
+0.5
+0.5
+1
+0.7853981635
+0.7853981635
+0.7853981635
+2
+0.7363841388
+0.7363841388
+0.7395361337
+3
+0.7390581392
+0.7390581392
+0.7390851781
+4
+0.7390848638
+0.7390851493
+0.7390851332
+5
+0.7390851305
+0.7390851332
+0.7390851332
+5
+0.7390851332
+0.7390851332
+7
+0.7390851332
+Note 6.5.3
+Note that the False Position and Secant approximations agree through x3 and
+that the method of False Position requires an additional iteration to obtain the same accuracy
+as the Secant method.
+Remark 6.5.4
+• The added insurance of the method of False Position commonly requires more calculation
+than the Secant method, . . .
+• just as the simplification that the Secant method provides over Newton’s method usually
+comes at the expense of additional iterations.
+Example 6.5.10
+The function
+f(x) = x2ex −1
+has a root in the interval [0, 1] since f(0)f(1) < 0. The results from the false position and
+secant methods, both started with x0 = 0 and x1 = 1, are shown in the table
+Iterates
+False position
+Secant
+x2
+0.3679
+0.3679
+x3
+0.5695
+0.5695
+x4
+0.6551
+0.7974
+x5
+0.6868
+0.6855
+x6
+0.6978
+0.7012
+x7
+0.7016
+0.7035
+It appears from these results that the secant method gives the correct result x = 0.7035 a little
+more quickly.
+6.5.2
+Order of Convergence of the Regula algorithm
+The error in the (n + 1)th iterate (denoted en+1) is related to the error in the nth iterate en by
+the equation,
+en+1 ≃Aek
+n
+where k = 1.
+This suggests that although the regula falsi uses the same formula as the
+Secant method, the order of convergence of the regula falsi is one compared to ≃1.618 for the
+Secant. Thus, the method is slower at converging to the root compared to the Secant method.
+However, with the condition f(xr)f(xr−1) < 0 at each stage, ensures that the regula falsi is
+always convergent which is not the case with Secant method.
+ssebuliba & ddumba
+numerical analysis i
+Page 221 of 315
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+6.5.3
+Advantages and disadvantages of the regula falsi algorithm
+1.) The regula falsi algorithm is always convergent.
+2.) The order of convergence of the method is one.
+The two basic points on the advantages and disadvantages.
+Whether it is an advantage or a disadvantage it all depends on the comparison in question. For
+instance in comparison with the Secant method, it is disadvantageous that the regula falsi has
+order of convergence one. While it is advantageous that it is always convergent.
+Exercise 6.5.1
+Find the approximate value of the real root of
+x log10 x = 1.2
+by regula falsi method
+Exercise 6.5.2
+Find the root of the
+xex = 3
+by regula falsi method and correct to the three decimal places
+Exercise 6.5.3
+Find a root which lies between 1 and 2 of
+f(x) = x3 + 2x2 + 10x −20
+(Leonardo’s Equation) using the regula falsi method
+Exercise 6.5.4
+Use the regula false algorithm to find the root of
+f(x) = x2 −4x + 2 = 0
+that lies in the interval (0, 1) and state your answer correct to three decimal places.
+Exercise 6.5.5
+Verify that x = 3 is a solution of x = g(x) where
+g(x) =
+18x
+(x2 + 9).
+Use the regula false to approximate this root.
+Exercise 6.5.6
+Consider the equation
+f(x) = ex + 1 + sin x
+(x −2)
+= 0
+whose root you would want to find. Show that
+f(1.9) < 0, f(2.1) > 0
+and use the regula false algorithm to compute this root.
+Page 222 of 315
+ssebuliba & ddumba
+numerical analysis i
+
+6.5. THE REGULA-FALSI METHOD (METHOD OF FALSE POSITION)
+Exercise 6.5.7 Approximate to three decimal places the roots of the following equations using
+the regula false algorithm.
+(a) x3 = 2
+(b) x2 = 3
+(c) x4 = 2
+(d) x5 = 3
+Exercise 6.5.8
+(a) Derive the regula falsi algorithm by clearly giving its geometrical illustration.
+(b) What advantages and disadvantages does the Secant method enjoy over other methods so
+far considered for solving nonlinear equations.
+Exercise 6.5.9
+Use both the Falsi Position and Bisection to solve the same equation
+f(d) = 2552 −30d2 + d3 = 0
+and see if there is a difference in the number of steps falsi Position takes to converge versus
+Bisection.
+Exercise 6.5.10
+Find the solution of x3 + x −4 = 0 in the interval [1, 4] with accuracy 10−3. Apply
+(a) Newton Raphson method
+(b) Bisection algorithm
+(c) Regular Falsi scheme
+Exercise 6.5.11 Approximate the solution of x3−x−1 = 0 in the interval [1, 2] with accuracy
+10−4 with the Bisection method.
+Exercise 6.5.12
+Use Newton’s method to solve the equation x3 −x −1 = 0
+Exercise 6.5.13
+The fourth-degree polynomial
+f(x) = 230x4 + 18x3 + 9x2 −221x −9
+has two real zeros, one in [−1, 0] and the other in [0, 1]. Attempt to approximate these zeros
+to within 10−6 using the Regular Falsi method.
+Summary 6.1
+Increased number of decimal points and/or increased size of interval given
+both increase the number of iterations as they increase.
+However, increased number of decimal points and/or increased size of interval given both im-
+prove on the accuracy of the scheme.
+ssebuliba & ddumba
+numerical analysis i
+Page 223 of 315
+
+6.6. SUCCESSIVE SUBSTITUTION (FIXED POINT METHOD)
+6.6
+Successive Substitution (Fixed Point Method)
+6.6.1
+Background knowledge
+Successive substitution is one of the iterative techniques for solving nonlinear equations. Itera-
+tive techniques start with an initial value/guess x0 to the root α and then using a suitable recur-
+rence relation we generate a sequence of approximations {xk}∞
+k=o. If the sequence {x0, x1, . . .}
+converges, then it does so on the required root. Iterative techniques are written in the form
+xn+1 = g(xn),
+n = 0, 1, 2, . . . ,
+if the next iterate xn+1 depends on the previous one xn.
+or xn+1 = gr(xn, xn−1), n = 1, 2, . . . ,
+if the next iterate depends on the previous two i.e. xn and xn−1.
+6.6.2
+Successive Substitutions
+In the method, we seek the roots of,
+f(x) = 0.
+(6.13)
+We try to split f(x) in the form,
+f(x) = x −g(x)
+(6.14)
+However, this splitting may not be unique. But not all the different splittings may be useful to
+us. We can determine the type of splitting which is useful to a numerical analyst. Now, instead
+of solving equation (6.13) we now solve x = g(x). The scheme for solving this problem is given
+by the algorithm;
+xn+1 = g(xn), n = 0, 1, 2, . . .
+Thus we start with a suitable value x0, and generate the sequence of approximations
+x1 = g(x0)
+x2 = g(x1)
+x3 = g(x2)
+x4 = g(x3)
+...
+xn+1 = g(xn)
+...
+...
+That is, the sequence is {x1, x2, . . . , xn, . . .}
+Page 224 of 315
+ssebuliba & ddumba
+numerical analysis i

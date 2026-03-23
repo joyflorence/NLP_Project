@@ -1,0 +1,198 @@
+This study investigated the effectiveness of agricultural lime in suppressing
+pathogenic microorganisms in human excreta based bio slurry using a pH elevation
+mechanism and this bio slurry will be discharged into the environment and used as
+a bio fertilizer.
+This report is comprised of five chapters, chapter 1 is the introduction and
+background it entails background information about the study, problem statement,
+objectives of the study as well as justification for the treatment method and
+material used. Chapter 2 is the literature review of the field of study, narrowing
+down to the study of interest. The subsequent chapters include methodology of
+study that is chapter 3, chapter 4 being results and discussions of laboratory teste
+carried out and lastly chapter 5 being conclusions and recommendations.
+
+DECLARATION
+I SIDA CYNTHIA PARIYO hereby declare that this is my original work, is not
+plagiarized and has not been submitted to any other institution for any award,
+
+Signature: ..............................................
+Date: ...................................................
+
+APPROVAL
+This report has been submitted for examination with my approval as the university
+supervisor.
+Prof. SARAH KIZZA-NKAMBWE
+Department of Engineering and Environment
+
+Signature: ................................................ Date: ........................................
+
+ACKNOWLEGEMENT
+I would like to first of all thank the Almighty God for guidance protection and grace
+throughout the whole journey of this research, I would also like to express my sincere
+gratitude to my supervisor Prof. Sarah Kizza-Nkambwe for her valuable guidance
+support and encouragement throughout this project.
+I also acknowledge the department of civil and environmental engineering of Uganda
+Christian University for providing an opportunity for carrying out this research.
+Special thanks to my parents whose continual prayers, love and unwavering support
+academically, emotionally and financially, have been a great motivation to me.
+Last but not least I would like to express my utmost gratitude to my project partner
+Komagum Emmanuel Obong, whose cooperation, support and resourcefulness is very
+commendable.
+
+TABLE OF CONTENTS
+ABSTRACT ............................................................................................................................................. 2
+DECLARATION ...................................................................................................................................... 3
+APPROVAL ............................................................................................................................................. 4
+LIST OF TABLES ................................................................................................................................. 10
+LIST OF FIGURES ................................................................................................................................ 11
+ACRONYMS .......................................................................................................................................... 12
+CHAPTER ONE .................................................................................................................................... 13
+1.0
+Introduction ....................................................................................................................... 13
+1.1
+Background ......................................................................................................................... 14
+1.2
+Problem Statement........................................................................................................... 16
+1.3 Objectives of the Study ....................................................................................................... 17
+1.3.1 Main Objective ................................................................................................................. 17
+1.3.2 Specific Objectives .......................................................................................................... 17
+1.4 Research Questions ............................................................................................................... 17
+1.5 GEOGRAPHICAL SCOPE ......................................................................................................... 17
+1.6. Justification .......................................................................................................................... 18
+1.7 Significance of the Study ..................................................................................................... 20
+CHAPTER TWO ................................................................................................................................... 22
+2.0 Literature Review ................................................................................................................. 22
+2.1 Introduction .......................................................................................................................... 22
+2.2 Topic of Study .................................................................................................................... 23
+
+2.3 Determination of the Microbiological and Physicochemical Properties of the
+Bio-Slurry .................................................................................................................................... 24
+2.4.1 Critical Analysis and Research Gaps ............................................................................. 28
+2.5 Development of an Agricultural Lime Treatment Model for Pathogen
+Suppression in Bio-Slurry ........................................................................................................ 28
+2.5.1 Critical Analysis and Research Gaps ............................................................................. 29
+Management Practices ................................................................................................................. 29
+CHAPTER THREE ................................................................................................................................ 31
+3.0 Methodology............................................................................................................................ 31
+3.1 Introduction ........................................................................................................................ 31
+3.2 Research Design ................................................................................................................. 31
+3.3 Sampling Technique .......................................................................................................... 32
+3.4 Determination of the Microbiological and Physicochemical Properties of the Bio-
+Slurry ............................................................................................................................................... 34
+3.4.1 Materials and Equipment ................................................................................................ 34
+3.5 Determination of the pH Adjustment Properties of Agricultural Lime for
+Pathogen Suppression in Bio-Slurry ......................................................................................... 36
+3.5.1 Materials and Equipment for the Flame Test ............................................................. 36
+3.5.2 Materials and Equipment for the Jar Test ................................................................... 37
+3.6 Development of an Agricultural Lime Treatment Model for Pathogen Suppression
+in Bio-Slurry ................................................................................................................................... 38
+3.6.1 Considerations for the Development of the Model .................................................... 39
+3.6.2 Considerations for Verification of the Model .............................................................. 40
+
+CHAPTER FOUR .................................................................................................................................. 42
+4.0 Results and Discussion .......................................................................................................... 42
+4.1 Introduction ............................................................................................................................ 42
+4.2 Results and Discussion: Determination of the Microbiological and
+Physicochemical Properties of the Bio-Slurry ....................................................................... 42
+4.3 Results and Discussion: Determination of the pH Adjustment Properties of the
+Agricultural Lime for Pathogen Suppression in Bio-Slurry ................................................. 45
+4.3.1 Flame Test Results and Discussion ................................................................................ 46
+4.3.2 Jar Test Results and Discussion ..................................................................................... 47
+4.3.3 Results and discussion: treated bio slurry ....................................................................... 50
+4.3.4 Concentrations of Pathogenic Microorganisms During Treatment with Agricultural
+Lime .............................................................................................................................................. 52
+4.3.5 Experimental Runs of Bio Slurry Treatment with Agricultural Lime Run Through
+the Prototype. ............................................................................................................................ 55
+4.3.6 Concentrations of Pathogenic Microorganisms During Treatment with
+Agricultural Lime ...................................................................................................................... 56
+4.4 Design of the treatment unit for pathogen suppression using agricultural lime ... 58
+4.4.1 Bio Slurry Discharge Projections ................................................................................... 58
+4.4.2 Projections of bio slurry discharge ............................................................................... 59
+4.4.3 Sizing of the Agricultural Lime Dosage Chamber ....................................................... 59
+4.4.4 Amount of agricultural lime required for daily treatment to suppress pathogens
+in bio slurry ................................................................................................................................. 60
+4.4.3 Death Rate Constant for agricultural lime treatment ............................................... 60
+
+4.4.5 Consideration of the Cascading Design of the Treatment Unit ............................... 61
+4.4.6 Baffle mixing design considerations ............................................................................. 62
+CHAPTER FIVE .................................................................................................................................... 65
+5.0 CONCLUSION AND RECOMMENDATIONS ............................................................................ 65
+5.1 CONCLUSION ........................................................................................................................... 65
+5.1.1 Specific objective 1: physicochemical properties of bio slurry ............................... 65
+5.1.2 Specific objective 2: the pH adjustment properties of agricultural lime ............. 65
+5.1.3 Specific objective 3: to develop an agricultural lime treatment model for
+pathogen suppression in bio slurry .......................................................................................... 66
+5.2 RECOMMENDATIONS .............................................................................................................. 67
+REFERENCES ....................................................................................................................................... 69
+APPENDIX A: RESEARCH WORKS .................................................................................................... 71
+APPENDIX B: LABORATORY DATA SHEETS ................................................................................... 75
+
+LIST OF TABLES
+Table 1: Summary of Sample Collection Techniques that were applied for the bio-slurry
+.............................................................................................................................................................. 33
+Table 2: Summary of Microbiological and Physicochemical properties of the bio-slurry
+.............................................................................................................................................................. 43
+
+LIST OF FIGURES
+Figure 1: Orange flame from agricultural lime ............................................................................. 46
+Figure 2: The effect of agricultural lime dosage on pH values in bio-slurry (after 3 days) . 47
+Figure 3: pH variation over days in bio-slurry containing the dosage of 60g/500mL. The initial
+pH was 7.9 ........................................................................................................................................... 48
+Figure 4 results of physicochemical and micro biological properties of bio slurry treated with
+agricultural lime ................................................................................................................................. 50
+Figure 5 a graph showing the concentrations of E.coli with variations in pH ......................... 52
+Figure 6 a graph showing the concentrations of salmonella with variations in pH ................ 54
+Figure 7 Prototype of a cascading design set up of the bio sluryy treatment unit ................ 55
+Figure 8 A graph showing the concentrations of E.coli with variations in pH ......................... 56
+Figure 9 A graph showing the concentrations of salmonella with variations in pH ................ 57
+Figure 10: Weight measurements of agricultural lime for Jar Test analysis ........................... 71
+Figure 11: Execution of Jar Test analysis ...................................................................................... 71
+Figure 12: Insertion of bio-slurry from jar into pH meter for pH measurement .................... 72
+Figure 13: Measurement of pH ......................................................................................................... 72
+Figure 14 Hima Cement Agricultural Lime (HOLCIM, 2025). ...................................................... 73
+Figure 15 fixed dome bio digester with outlet chamber ............................................................. 73
+Figure 16 Collection of bio slurry sample from outlet chamber ................................................ 74
+
+ACRONYMS
+MBPS – Mukono Boarding Primary School
+E.coli – Escherichia Coli
+NEMA – National Environmental Management Authority
+TDS – Total Dissolved Solids
+NWSC – National Water and Sewerage Corporation
+SDG – Sustainable Development Goal
+WHO – World Health Organization
+NPK – Nitrogen Phosphorus Potassium
+
+CHAPTER ONE
+1.0 Introduction
+Bio-slurry is waste water generated from the biogas production. Waste water
+management involves collection, treatment and reuse of waste water generated
+from domestic, industrial and agricultural activities to protect public health and the
+environment from harmful substances. Waste water treatment methods range from
+chemical, biological and physical treatments.
+In efforts to combat climate change through use of cleaner energy generation
+technologies, the biogas technology emerged. In developing countries such as
+Uganda there is an increase in adoption of this technology as an alternative energy
+source to meet their cooking and lighting demands, as a result the production of bio
+slurry has also increased.
+Bio slurry is used as a bio fertilizer due to the abundant nutrient content it contains,
+both macro and micro nutrients which is essential for thriving of crops and the excess
+released into the environment. However, bio-slurry contains pathogenic
+microorganisms that end up surviving after the anaerobic process during biogas
+generation and its management is crucial to public health and environmental
+protection. Pathogens in untreated bio-slurry pose significant health risks and
+environmental degradation risks which necessitate the treatment of the bio-slurry.
+This study aims to assess the use of agricultural lime for pathogen suppression in
+bio-slurry, with a focus on pH adjustment of the bio-slurry in order to suppress the
+pathogens. The specific objectives focus on determining the microbiological and
+physicochemical properties of the bio-slurry, determining the pH adjustment
+properties of the agricultural lime for pathogen suppression in bio-slurry, and
+
+development of an agricultural lime treatment model for pathogen suppression in
+This research has been concluded, with all specific objectives achieved, the first
+two by experimental analysis and the third by both model configuration and
+experimental analysis hence the main objective being achieved at the end, The
+details of these analyses are outlined in this report beginning with the background
+of the study, problem statement, study objectives, research questions, justification,
+literature review, methodology, sample collection, results and discussion, design,
+conclusions, recommendations and appendices.
+1.1

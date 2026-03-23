@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Optional, List, Dict, Any, Set
 
 _PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-_NLP_DATA = _PROJECT_ROOT / "University-Semantic-Search-System" / "NLP-Pipeline" / "NLP Data"
+_NLP_DATA = _PROJECT_ROOT / "backend" / "University-Semantic-Search-System" / "NLP-Pipeline" / "NLP Data"
 _BACKEND_DATA = _PROJECT_ROOT / "backend" / "data"
 _SUPABASE_INDEXED_PATH_FILE = _BACKEND_DATA / "supabase_indexed_paths.json"
 _CONTENT_HASHES_FILE = _BACKEND_DATA / "indexed_content_hashes.json"

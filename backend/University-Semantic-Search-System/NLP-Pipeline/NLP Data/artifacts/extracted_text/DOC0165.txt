@@ -1,0 +1,2234 @@
+CRIME REPORTING MANAGEMENT SYSTEM : CASE STUDY MBALE CITY UG
+JOSHUA TUMUSIIME
+S21/MUC/BSIT/013
+A DISSERTATION SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR
+THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE IN INFORMATION
+TECHNOLOGY OF UGANDA CHRISTIAN UNIVERSITY
+October, 2024
+
+I TUMUSIIME JOSHUA declare without any reasonable doubt that the work presented in this attachment 
+report is my own original and independent work and it has not been presented before to the faculty of 
+Engineering Design and Technology for the award of a Bachelor of Science in Information Technology at 
+Uganda Christian University. No part of this report shall therefore be duplicated without my prior consent 
+and that of the university. 
+ 
+ 
+NAME……… TUMUSIIME   JOSHUA…  REG. NO……… S21/MUC/BSIT/013  
+SIGNATURE…… 
+……….  DATE……………15th August, 2024 
+ 
+                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPROVAL  
+
+I hereby certify that this research, conducted by Tumusiime Joshua, is an original work that has been 
+thoroughly developed and reviewed under my supervision. It is now ready for submission to the 
+Department of Computing, Technology, Engineering and Design for further consideration and academic 
+evaluation.  
+ 
+ 
+Signature: ………………………………                                          Date: ……01/10/2024.............  
+ 
+DR. EILU EMMANUEL  
+(SUPERVISOR) 
+ 
+ 
+
+ 
+ONLINE CRIME REPORTING MANAGEMENT 
+SYSTEM  PROJECT PROPOSAL 
+ 
+ 
+CHAPTER ONE 
+ 
+ 
+ 
+Chapter One of this project present the background information to the study highlighting the 
+problem statement, objectives, scope and significance to the study. 
+•  
+•  1.1 Background to the study  
+In Mbale City, Uganda, the current approach to crime reporting and management is predominantly 
+manual, which has resulted in significant inefficiencies. Citizens must physically visit police 
+stations to report crimes, leading to long queues, delays in filing reports, and sometimes even 
+discouraging individuals from reporting crimes altogether. This manual system also poses 
+challenges for police officers in managing and processing crime reports, often leading to backlogs 
+and reduced effectiveness in responding to criminal activities. 
+With the rise in crime rates and the increasing need for timely and accurate crime data, there is a 
+pressing need for an Online Crime Reporting Management System. Such a system would 
+streamline the process of reporting crimes, making it more accessible for citizens and more 
+efficient for law enforcement agencies. 
+An Online Crime Reporting Management System is a digital platform that enables citizens to 
+report crimes via the internet. It allows for real-time submission of crime reports, which can 
+include detailed descriptions, evidence such as photos or videos, and the location of the incident. 
+This system would also facilitate the tracking of the status of reported crimes, providing 
+transparency and updates to the complainants. 
+According to studies by Lee and Park (2020), implementing an online crime reporting system can 
+significantly improve public safety by enhancing the speed and accuracy of crime data collection, 
+thus enabling law enforcement agencies to respond more swiftly and effectively. Additionally, 
+such a system would alleviate the congestion and delays currently experienced at physical police 
+stations, allowing police officers to focus more on crime prevention and investigation. 
+ 
+ 
+1.2 Problem Statement 
+Currently, the crime reporting process in Mbale City is highly inefficient due to its reliance on a 
+manual, paper-based system. Citizens are required to physically visit police stations to report 
+crimes, which often leads to long queues, significant delays, and frustration among complainants. 
+This cumbersome process not only discourages some individuals from reporting crimes but also 
+overwhelms the limited resources of law enforcement agencies, leading to delays in responding to 
+and investigating reported incidents. 
+The manual system also lacks the ability to efficiently manage and track crime reports, making it 
+difficult for police officers to prioritize and allocate resources effectively. As a result, critical 
+
+information may be lost or mishandled, and victims may not receive timely updates on the status of 
+their cases. 
+There is, therefore, a pressing need for an Online Crime Reporting Management System that 
+allows citizens to report crimes easily and securely from anywhere, at any time. Such a system 
+would reduce congestion at police stations, speed up the reporting process, and provide a 
+centralized platform for managing and tracking crime reports. This would not only improve the 
+efficiency of law enforcement operations but also enhance public trust in the justice system by 
+ensuring that all reported crimes are handled promptly and transparently. 
+ 
+1.3 Main Objective 
+The main objective of this study is to develop an Online Crime Reporting Management System 
+that will enable citizens to report crimes online and allow law enforcement agencies to manage, 
+track, and respond to these reports more efficiently. The system aims to streamline the crime 
+reporting process, reduce congestion at police stations, and improve the overall effectiveness and 
+transparency of law enforcement operations in Mbale City. 
+ 
+ 
+1.3.1 Specific Objectives 
+i. To study the current crime reporting and management processes used by law enforcement 
+agencies in Mbale City in order to identify system requirements. 
+ii. To design an Online Crime Reporting Management System for Mbale City using the identified 
+requirements. 
+iii. To implement the designed Online Crime Reporting Management System using various 
+programming languages like PHP, MySQL, and JavaScript among others. 
+iv. To test and validate the Online Crime Reporting Management System to check for any errors 
+and to ensure that it meets the user requirements and enhances the efficiency of crime reporting 
+and management. 
+ 
+                1.4 Scope 
+The Online Crime Reporting Management System will be designed and developed for use by law 
+enforcement agencies in Mbale City to facilitate the reporting, management, and tracking of 
+criminal activities. The system will primarily serve the citizens of Mbale City, allowing them to 
+report crimes online, submit evidence, and receive updates on their cases. 
+Law enforcement officers will use the system to manage and prioritize crime reports, assign cases 
+to relevant departments, and track the progress of investigations. While the initial implementation 
+will focus on Mbale City, the system could potentially be extended to other regions to serve a 
+broader area and enhance the efficiency of crime reporting and management across Uganda. 
+The system will interact with existing law enforcement databases and possibly integrate with 
+national crime databases to ensure comprehensive data sharing and coordination among various 
+
+law enforcement agencies. 
+  1.5 Significance 
+The current crime reporting process in Mbale City relies heavily on manual methods, which are 
+inefficient and prone to delays. The development and implementation of an Online Crime 
+Reporting Management System offer the following advantages: 
+i. Facilitates Easy Crime Reporting: The system allows citizens to report crimes online at any 
+time, without the need to visit a police station, making the process more accessible and convenient. 
+ii. Enhances Efficiency for Law Enforcement: By automating the crime reporting process, the 
+system enables law enforcement agencies to manage, prioritize, and track crime reports more 
+effectively, leading to quicker response times and better resource allocation. 
+iii. Improves Data Management and Accessibility: The system provides a centralized platform 
+for storing and retrieving crime reports, making it easier for law enforcement officers to access and 
+manage case information. This reduces the risk of lost or mishandled reports. 
+iv. Increases Transparency and Public Trust: The system allows complainants to track the 
+status of their reports and receive updates, improving transparency in the handling of cases and 
+fostering greater trust between the public and law enforcement agencies. 
+v. Reduces Congestion at Police Stations: By enabling online crime reporting, the system 
+reduces the need for citizens to physically visit police stations, thereby alleviating congestion and 
+reducing waiting times for those who need in-person assistance 
+ 
+ 
+
+Literature Review of a Crime Reporting Management System 
+Chapter Two  
+Literature Review 
+ 
+2.0 
+Introduction 
+Chapter One presented the background information to the study highlighting the objectives, scope and significance 
+to the study. This chapter is about the literature review of the financial management systems. It specifies what a 
+Crime Reporting Management System is, what it needs and how it works for its enhancement. 
+2.1 
+Crime Reporting Management System (CRMS) 
+A Crime Reporting Management System (CRMS) is a technology-driven platform designed to facilitate the reporting, 
+recording, management, and analysis of criminal activities. It aims to streamline the communication between the 
+public and law enforcement agencies, improve the accuracy of crime data, and enhance the efficiency of crime 
+management processes. The integration of information technology in crime reporting is a response to the 
+limitations of traditional manual systems, which are often plagued by inefficiency, delays, and inaccuracies (Johnson 
+& Mason, 2019). 
+ 
+ 
+2.2 
+Types of Crime Reporting Management Systems 
+2.2.1. Web-Based CRMS 
+ 
+Web-based CRMS platforms are accessible via internet browsers and are designed to allow citizens to report crimes 
+online. These systems typically feature user-friendly interfaces where users can submit detailed reports of criminal 
+incidents, upload evidence such as photos or videos, and track the status of their reports. An example of such a 
+system is the UK's "Action Fraud" website, which allows users to report fraud and cybercrime directly online (Smith 
+& Jones, 2020). 
+ 
+2.2.2. Mobile App-Based CRMS 
+Mobile app-based CRMS provides a convenient and portable solution for crime reporting. These apps are designed 
+for smartphones and tablets, offering features similar to web-based systems but with added functionality such as 
+
+GPS location tagging and instant notifications. The "Citizen" app in the United States is a notable example, providing 
+real-time crime alerts and allowing users to report incidents through their mobile devices (Brown & Davis, 2021). 
+2.2.3. SMS-Based CRMS 
+ 
+ 
+SMS-based CRMS is designed for areas with limited internet access, leveraging the ubiquity of mobile 
+phones. Citizens can report crimes by sending text messages to a designated number, often 
+accompanied by automated responses to gather more information. This system has been effectively 
+implemented in various regions in Africa, where internet connectivity can be sporadic (Oluoch & 
+Mugendi, 2020). 
+ 
+ 
+2.3 
+Other Related Systems 
+ 
+ 
+2.3.1 Emergency Response Management Systems (ERMS): 
+These systems manage the dispatch and coordination of emergency services. They often integrate with 
+CRMS to provide a comprehensive response to reported incidents 
+Emergency response systems, such as the 911 service in the United States, are integral to immediate 
+crime reporting and management. These systems provide a direct line to emergency services, ensuring 
+rapid response to incidents. However, they often lack the detailed data collection and long-term 
+management capabilities of CRMS (Williams et al., 2018). 
+Emergency Response Management Systems (ERMS) are designed to manage and coordinate the 
+response to emergencies such as natural disasters, medical crises, and criminal incidents. These systems 
+ensure a timely and organized response to incidents, mitigating their impact and improving public safety 
+(Williams et al., 2018). 
+2.3.1.0. Case: 9/11 Emergency Response System, United States 
+On September 11, 2001, the 9/11 Emergency Response System in New York City was a critical 
+component of the response efforts following the terrorist attacks on the World Trade Center. The system 
+enabled immediate communication and coordination among first responders, including firefighters, 
+police officers, and emergency medical personnel. The effectiveness of the system highlighted the 
+importance of real-time communication and coordination during large-scale emergencies (Smith, 2002). 
+ 
+2.3.1.1. Modules 
+• 
+Incident Detection and Reporting: Identifies and logs incidents as they occur. 
+• 
+Resource Allocation: Manages the deployment of emergency services like police, fire, and 
+medical units. 
+• 
+Communication: Facilitates communication between emergency responders and command 
+
+centers. 
+• 
+Monitoring and Reporting: Tracks incident status and generates reports. 
+2.3.1.2. How the System Works ERMS typically starts with the detection or reporting of an incident, followed by 
+the allocation of appropriate resources. Communication modules ensure that all responding units are 
+informed and coordinated. The system monitors the progress of the response and provides real-time 
+updates and post-incident analysis. 
+2.3.1.1. Strengths/Benefits 
+• 
+Rapid Response: Ensures quick deployment of emergency services. 
+• 
+Coordination: Enhances coordination among different response units. 
+• 
+Real-Time Monitoring: Provides real-time updates and situational awareness. 
+2.3.1.2. Weaknesses/Problems 
+• 
+Complexity: Can be complex to implement and maintain. 
+• 
+High Costs: Often involves significant financial investment for setup and training. 
+ 
+ 
+2.3.1.3. Conclusion: While emergency response systems are crucial for immediate incident management, 
+they are not designed for comprehensive data management and analysis, which are strengths of 
+dedicated CRMS. 
+ERMS enhance the effectiveness of CRMS by ensuring timely and coordinated emergency responses 
+(Perry, 2013). 
+ 
+ 
+2.3.2 Incident Reporting Systems (IRS): 
+Used in various industries to report and manage incidents, these systems share similarities with CRMS 
+but are broader in scope, often including non-criminal incidents. 
+Incident Reporting Systems (IRS) are platforms designed to facilitate the reporting of various types of 
+incidents, including workplace accidents, safety hazards, and criminal activities. They aim to streamline 
+the process of incident documentation and follow-up (Smith & Jones, 2020). 
+2.3.2.0. Case: Action Fraud, United Kingdom 
+Action Fraud is the UK’s national reporting center for fraud and cybercrime. Managed by the City of 
+London Police, Action Fraud allows citizens to report fraudulent activities online. This system has been 
+instrumental in collecting data on fraud cases, providing law enforcement with the necessary 
+information to investigate and combat these crimes. In 2019, Action Fraud received over 800,000 
+reports, showcasing its critical role in incident reporting (Jones & Williams, 2020). 
+ 
+
+2.3.2.1. Modules 
+• 
+Incident Entry: Allows users to report incidents. 
+• 
+Incident Tracking: Tracks the status and progress of reported incidents. 
+• 
+Data Analysis: Analyzes incident data to identify patterns and prevent future occurrences. 
+• 
+Notification System: Sends alerts and updates to relevant parties. 
+2.3.2.2. How the System Works Users report incidents through a user-friendly interface. The system then 
+tracks the incident, updating its status and notifying relevant personnel. Data analysis modules help 
+identify trends and generate reports to inform preventive measures. 
+2.3.2.3. Strengths/Benefits 
+• 
+Efficiency: Streamlines the reporting and tracking of incidents. 
+• 
+Data-Driven Decisions: Enables organizations to make informed decisions based on incident 
+data. 
+• 
+Accountability: Ensures incidents are followed up and resolved. 
+2.3.1.3. Weaknesses/Problems 
+• 
+Underreporting: May suffer from underreporting if users are unaware of the system or reluctant 
+to use it. 
+Data Privacy: Ensuring the privacy and security of reported data can be challenging 
+Conclusion: While IRS are versatile, they may lack the specific features required for efficient crime 
+reporting and management (Johnson & Anderson, 2014). 
+ 
+ 
+2.3.3. Public Safety Management Systems (PSMS): 
+These systems encompass a range of tools and technologies used to ensure public safety, including crime 
+reporting, traffic management, and disaster response. 
+Public Safety Management Systems (PSMS) integrate various functions related to maintaining public 
+safety, including crime prevention, emergency management, and community engagement. They aim to 
+enhance the effectiveness of public safety operations (Johnson & Mason, 2019). 
+2.3.3.0. Case: CompStat, New York City Police Department (NYPD) 
+CompStat is a performance management system used by the NYPD to reduce crime and improve public 
+safety. Implemented in the 1990s, CompStat involves collecting and analyzing crime data to identify 
+trends and allocate resources effectively. This data-driven approach has significantly contributed to the 
+reduction of crime rates in New York City by enabling more strategic and proactive policing (Silverman, 
+2006). 
+ 
+
+ 
+2.3.3.1. Modules 
+• 
+Crime Reporting: Allows citizens to report crimes. 
+• 
+Emergency Management: Coordinates responses to emergencies. 
+• 
+Community Engagement: Facilitates communication and cooperation between law enforcement 
+and the community. 
+• 
+Data Analysis: Analyzes public safety data to guide decision-making. 
+2.3.3.2. How the System Works PSMS collect data from multiple sources, including crime reports and 
+emergency incidents. The system coordinates responses and engages with the community through 
+various channels. Data analysis helps in strategic planning and resource allocation. 
+2.3.3.3. Strengths/Benefits 
+• 
+Comprehensive Approach: Integrates multiple aspects of public safety. 
+• 
+Improved Coordination: Enhances coordination among different public safety departments. 
+• 
+Community Involvement: Encourages community participation in safety initiatives. 
+2.3.3.4. Weaknesses/Problems 
+• 
+Implementation Challenges: Can be difficult to implement due to the need for integration across 
+different systems. 
+• 
+Cost: Often requires significant investment in technology and training. 
+Conclusion: PSMS provide a holistic approach to public safety but can be complex and costly to implement 
+(Smith et al., 2018). 
+ 
+ 
+2.3.4. Community Policing Platforms (CPP) 
+Community policing platforms focus on fostering collaboration between police and community 
+members to address local crime issues. These platforms may include features for reporting minor 
+crimes, community alerts, and forums for discussion. Examples include platforms like "Next-door" in the 
+US, which allows residents to report local issues and communicate with law enforcement (Garcia & 
+Henderson, 2019). 
+Community Policing Platforms (CPPs) focus on building relationships between law enforcement and the 
+community to collaboratively address crime and safety issues. They emphasize preventive measures and 
+community engagement (Garcia & Henderson, 2019). 
+2.3.4.0. Case: Nextdoor, Various U.S. Cities 
+Nextdoor is a private social network for neighborhoods that has been adopted by various police departments 
+across the United States to enhance community policing efforts. Police departments use Nextdoor to 
+
+communicate with residents about crime alerts, safety tips, and community events. For example, the San 
+Francisco Police Department has used Nextdoor to increase community engagement and collaboration, 
+leading to improved trust and cooperation between the police and local residents (Garcia & Henderson, 
+2019). 
+ 
+2.3.4.1. Modules 
+• 
+Reporting and Feedback: Enables citizens to report crimes and provide feedback. 
+• 
+Community Alerts: Sends alerts and updates to community members. 
+• 
+Discussion Forums: Facilitates discussions between community members and law enforcement. 
+• 
+Resource Sharing: Shares resources and information about safety measures. 
+2.3.4.2. How the System Works CPPs allow community members to report issues and engage in 
+discussions through online platforms. Law enforcement can send alerts and updates, fostering a 
+collaborative approach to community safety. 
+2.3.4.3. Strengths/Benefits 
+• 
+Enhanced Trust: Builds trust between the community and law enforcement. 
+• 
+Preventive Policing: Focuses on preventing crime through community involvement. 
+• 
+User-Friendly: Designed to be accessible and easy to use. 
+2.3.4.4. Weaknesses/Problems 
+• 
+Dependence on Participation: Relies heavily on active community participation. 
+• 
+Scope Limitations: May not be suitable for addressing serious crimes requiring immediate 
+response. 
+ 
+ 
+Conclusion: Community policing platforms emphasize community engagement and preventive measures 
+but may not offer the structured and systematic approach to crime reporting and management provided 
+by CRMS. 
+2.3.5. Integrated Law Enforcement Management Systems (ILEMS) 
+ 
+ 
+Integrated law enforcement management systems are comprehensive platforms used by police 
+departments to manage all aspects of their operations, including crime reporting, case management, 
+personnel management, and resource allocation. Systems like the "National Crime Information Center" 
+(NCIC) in the US provide extensive databases and tools for law enforcement agencies (Miller & Roberts, 
+2020). 
+Integrated Law Enforcement Management Systems (ILEMS) are comprehensive platforms designed to 
+
+enhance the operational efficiency and effectiveness of law enforcement agencies. These systems 
+integrate various functions such as crime reporting, case management, personnel management, and 
+resource allocation into a single, cohesive platform. The primary goal of ILEMS is to streamline police 
+operations, improve data accuracy, and facilitate better decision-making (Miller & Roberts, 2020). 
+2.3.5.0. Case: National Crime Information Center (NCIC), United States 
+The NCIC, managed by the FBI, is an integrated database system that provides criminal justice agencies 
+with access to a wide range of criminal records, including stolen property, missing persons, and criminal 
+histories. The NCIC is used by law enforcement agencies across the United States to share information 
+and coordinate efforts. It has been pivotal in solving crimes, apprehending fugitives, and enhancing the 
+overall efficiency of law enforcement operations (Miller & Roberts, 2020). 
+ 
+2.3.5.1. Modules of ILEMS 
+ILEMS typically consist of several interconnected modules, each focusing on a specific aspect of law 
+enforcement operations: 
+1. Crime Reporting: Allows for the electronic submission and recording of crime reports from both 
+citizens and officers. 
+2. Case Management: Manages the lifecycle of criminal cases, from initial report to investigation 
+and resolution. 
+3. Personnel Management: Handles the administration of police personnel, including scheduling, 
+training, and performance evaluations. 
+4. Resource Allocation: Manages the distribution and utilization of resources such as vehicles, 
+equipment, and personnel. 
+5. Data Analysis and Reporting: Provides tools for analyzing crime data, generating reports, and 
+identifying trends and hotspots. 
+6. Communication and Collaboration: Facilitates communication within the department and with 
+other agencies, improving coordination and response times. 
+2.3.5.2. How the System Works 
+ILEMS integrate data from various sources and modules, creating a centralized database that law 
+enforcement officers and administrators can access in real-time. When a crime is reported, the system 
+logs the details and assigns a case number. Investigators can update the case status, add notes, and 
+upload evidence, all of which are stored in the centralized system. Resource allocation modules help 
+ensure that the necessary personnel and equipment are assigned to each case. Data analysis tools allow 
+administrators to generate reports and analyze crime patterns, aiding in strategic decision-making 
+(Miller & Roberts, 2020). 
+2.3.5.3. Strengths/Benefits of the System 
+ 
+1. Operational Efficiency: By integrating various functions into a single platform, ILEMS streamline 
+
+operations and reduce the administrative burden on law enforcement personnel (Miller & 
+Roberts, 2020). 
+2. Improved Data Accuracy: Centralized data management ensures that information is consistent 
+and up-to-date, reducing errors associated with manual data entry (Johnson & Mason, 2019). 
+3. Enhanced Decision-Making: Advanced data analysis tools enable law enforcement agencies to 
+identify crime trends, allocate resources effectively, and make informed decisions (Miller & 
+Roberts, 2020). 
+4. Better Coordination: Communication and collaboration modules improve coordination within 
+the department and with other agencies, leading to faster response times and more efficient 
+operations (Williams et al., 2018). 
+2.3.5.4. Weaknesses/Problems of the System 
+1. Complexity and Cost: ILEMS are often complex systems that require significant investment in 
+terms of both time and money for implementation and maintenance. This can be a barrier for 
+smaller law enforcement agencies with limited budgets (Miller & Roberts, 2020). 
+2. Training Requirements: The complexity of ILEMS necessitates extensive training for personnel 
+to use the system effectively. This can be resource-intensive and time-consuming (Miller & 
+Roberts, 2020). 
+2.4 Comparison of related systems 
+Table 1: Comparisons for the Related Systems 
+ 
+ 
+System Type 
+Strengths 
+Weaknesses 
+Technology Used 
+ERMS 
+Immediate response to 
+emergencies, 
+High reliability and 
+quick action, 
+Well-integrated with 
+emergency services 
+Limited long-term data 
+management. 
+Primarily reactive, not 
+preventive. 
+Limited scope for 
+detailed crime analysis 
+Direct lines (e.g., 911) 
+Radio communication, 
+dispatch systems. 
+GPS and real-time 
+tracking 
+IRS 
+Facilitates detailed 
+incident 
+documentation. 
+Improves accuracy and 
+detail of reports. 
+Often limited to 
+specific types of 
+incidents. 
+May not be integrated 
+with broader law 
+enforcement systems. 
+Web-based platforms, 
+mobile apps. 
+Database management 
+systems. 
+Cloud storage and data 
+analytics 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+15 
+Allows for attachment 
+of multimedia 
+evidence. 
+Can be underutilized 
+without proper 
+awareness and training 
+PSMS 
+Comprehensive 
+management of public 
+safety resources. 
+Enhances coordination 
+among various public 
+safety departments. 
+Supports strategic 
+planning and resource 
+allocation. 
+Complexity and high 
+cost of 
+implementation. 
+Requires significant 
+training for effective 
+use. 
+Potential data privacy 
+and security concerns 
+Integrated software 
+solutions. 
+Real-time data 
+integration and 
+dashboards. 
+Predictive analytics, GIS 
+mapping 
+CPP 
+Encourages community 
+engagement and trust, 
+Focus on preventive 
+measures and 
+community 
+collaboration, 
+User-friendly and 
+accessible 
+Limited data 
+management 
+capabilities, 
+Dependent on active 
+community 
+participation, 
+may not handle serious 
+crime reporting 
+effectively 
+Web-based platforms, 
+social media integration, 
+Mobile apps with 
+notification systems, 
+Discussion forums, real- 
+time alerts 
+ILEMS 
+Comprehensive 
+management of all law 
+enforcement 
+operations, 
+Powerful tools for 
+data, analysis and case 
+management, 
+Enhances operational 
+efficiency and resource 
+allocation. 
+High complexity and 
+implementation costs, 
+Requires extensive 
+training for personnel, 
+Integration challenges 
+with existing systems 
+Advanced databases and 
+interconnected 
+modules, 
+Secure and scalable IT 
+infrastructure, Real-time 
+data processing, 
+personnel management 
+software 
+ 
+2.5 Conclusion 
+This chapter mainly described the literature review of the online financial transfer management systems 
+where we gathered information about other related systems, how they function and the enhancements 
+needed in order to improve the current Crime Reporting Management System. 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+16 
+Chapter three 
+Research methodology 
+ 
+3.0.  Introduction  
+The methodology focuses on the patterns of research, approaches to data collection, techniques 
+for analysis and tools that were used for designing and implementation of the system. The 
+Methodology was in line with the specific objectives of the proposed Online Crime Reporting 
+Management System.  
+3.1. System Study and Analysis 
+ 
+The system study and analysis phase of developing a Crime Reporting Management System 
+(CRMS) involves a comprehensive examination of the current processes, identification of 
+requirements, feasibility analysis, and formulation of a solution that meets the needs of all 
+stakeholders. 
+ 
+3.1.1. System Study: 
+ 
+The system study involves understanding the existing system, its limitations, and the 
+requirements of the new system. The existing system is predominantly manual, with crime 
+reporting and management processes relying on physical paperwork and face-to-face 
+interactions. This can lead to inefficiencies, delays, and issues with data retrieval and analysis. 
+ 
+The proposed system aims to digitize the entire process, providing an online platform for crime 
+reporting, centralized data storage, and real-time case management. It addresses the limitations 
+of the manual system by offering accessibility, efficiency, and improved data management. 
+ 
+3.2.  Data Collection Techniques 
+ 
+Data collection is critical to understand the needs and expectations of the stakeholders, and to 
+gather the necessary information for system design and development. Various techniques are 
+used to collect data: 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+17 
+3.2.1. Interviews: Conduct interviews with police officers, administrative staff, and citizens to 
+gather qualitative data about the current process, pain points, and desired features. 
+3.2.2. Surveys: Distribute questionnaires to a larger audience to collect quantitative data on the 
+usage patterns, satisfaction levels, and requirements. 
+3.2.3. Observation: Observe the existing crime reporting and management processes in police 
+stations to understand workflow, data handling, and interactions. 
+3.2.4. Document Review: Analyze existing documents such as crime reports, case files, and 
+administrative records to understand the data structure and information flow. 
+ 
+ 
+ 3.3. Data Analysis Methods 
+ 
+Data analysis involves processing the collected data to extract meaningful insights and identify 
+patterns. Various methods can be employed: 
+ 
+3.3.1. Descriptive Analysis: Summarize the data using statistics such as averages, percentages, 
+and frequencies to understand the general trends and patterns. 
+3.3.2. Qualitative Analysis: Analyze interview and observation notes to identify common 
+themes, issues, and suggestions. 
+3.3.3. Comparative Analysis: Compare the current system with best practices and similar 
+systems in other regions to identify gaps and areas for improvement. 
+3.4. System Analysis and Design 
+The analysis and design of the system was done by clearly identifying the inputs, the processes 
+that transform the inputs into outputs while satisfying the system constraints. Data flow diagrams 
+and entity relationship diagrams were used to clearly demonstrate the processes of data transfer 
+in the system as well as the relationship among entities in the system respectively. 
+ 3.4.1. System Analysis 
+Systems analysis is the process of identifying and summarizing data with the intent to extract 
+useful information and develop conclusions. In system analysis requirements were determined. 
+The requirements included functional and non-functional base on the system study. 
+ 
+ 
+3.4.1.1. Functional Analysis: 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+18 
+ 
+Functional analysis involves identifying the core functionalities that the system must perform. 
+For a CRMS, these functionalities include: 
+ 
+3.4.1.1.1. User Management: Registration, authentication, and role-based access control for 
+different users (citizens, police officers, administrators). 
+3.4.1.1.2. Crime Reporting: Allow citizens to report crimes through an online form, capturing 
+details such as location, type of crime, description, and date. 
+3.4.1.1.3. Case Management: Enable police officers to view, update, and manage reported 
+cases, including assigning cases to officers and updating the status of investigations. 
+3.4.1.1.4. Notifications: Send automated notifications to relevant users about case updates, 
+critical alerts, and reminders. 
+3.4.1.1.5. Data Analysis: Provide tools for generating reports and analyzing crime data trends for 
+strategic planning and decision-making. 
+ 
+ 
+ 
+ 
+3.4.1.2. Non-Functional Analysis: 
+ 
+Non-functional requirements define the quality attributes of the system, such as: 
+ 
+3.4.1.2.1. Performance: The system should handle multiple concurrent users and large volumes 
+of data efficiently. 
+3.4.1.2.2. Security: Ensure data privacy and protection against unauthorized access with 
+encryption, secure authentication, and access controls. 
+3.4.1.2.3. Usability: Design user-friendly interfaces for ease of use by citizens and police 
+officers. 
+3.4.1.2.4. Reliability: Ensure high availability and minimal downtime with robust infrastructure 
+and backup systems. 
+ 
+  
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+19 
+3.4.2. System Design 
+ 
+3.4.2.1. Process Modeling: 
+ 
+Process modeling involves mapping out the workflows and processes within the system. 
+Techniques such as flowcharts, Data Flow Diagrams (DFDs), and Business Process Model and 
+Notation (BPMN) can be used to represent the processes visually. This helps in understanding 
+the flow of information, identifying bottlenecks, and designing efficient workflows. 
+ 
+3.4.2.2. Data Modeling: 
+ 
+Data modeling involves defining the structure of the database that will store the information. 
+Entity-Relationship Diagrams (ERDs) are used to represent the data entities, their attributes, and 
+the relationships between them. For a CRMS, entities might include Users, Crime Reports, 
+Cases, Police Stations, and Updates. Data modeling ensures that the database is well-organized, 
+scalable, and supports the required functionalities. 
+ 
+ 3.5. System Implementation 
+This is whereby the physical realization of the database and the application design was done. 
+This involved the implementation of both the database and the application programs. It was 
+achieved using the Data Definition Language (DDL) of the selected Database Management 
+System (DBMS). 
+3.5.1. Implementation Tools: 
+ 
+3.5.1.1. Programming Languages: Languages like PHP, JavaScript, and Python can be used for 
+developing the application. PHP is often used for server-side scripting, while JavaScript handles 
+client-side interactions. 
+3.5.1.2. Database Management Systems: MySQL or MariaDB can be used for database 
+management, providing reliable and scalable solutions for data storage and retrieval. 
+3.5.1.3. Web Frameworks: Frameworks such as Laravel (PHP) or Django (Python) can speed 
+up development by providing pre-built components and structure. 
+3.5.1.4. Version Control: Tools like Git ensure version control, allowing multiple developers to 
+work on the project simultaneously and track changes. 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+20 
+3.5.1.5. Development Environment: Integrated Development Environments (IDEs) like Visual 
+Studio Code or Php-Storm provide robust development tools and debugging capabilities. 
+ 
+ 3.6. System Testing and Validation 
+ 
+3.6.1. Testing: 
+ 
+Testing ensures that the system functions correctly and meets the specified requirements. 
+Different types of testing include: 
+ 
+3.6.1.1. Unit Testing: Test individual components or modules for correctness. 
+3.6.1.2. Integration Testing: Ensure that different modules work together as expected. 
+3.6.1.3. System Testing: Test the entire system as a whole to verify that it meets the 
+requirements. 
+3.6.1.4. User Acceptance Testing (UAT): Involve end-users in testing to ensure the system 
+meets their needs and is user-friendly. 
+ 
+3.6.2. Validation: 
+ 
+Validation involves checking that the system meets the needs and expectations of the 
+stakeholders. It includes: 
+1. Requirement Validation: Ensure that all requirements are correctly implemented. 
+2. Performance Validation: Test the system under load to ensure it performs well with multiple 
+concurrent users. 
+3. Security Validation: Conduct security audits and penetration testing to identify and fix 
+vulnerabilities. 
+ 
+3.6.3. Conclusion 
+Developing a Crime Reporting Management System involves thorough system study and 
+analysis to understand current processes and requirements, effective data collection and analysis 
+to inform design decisions, comprehensive system analysis to define functional and non-
+functional requirements, detailed process and data modeling for efficient design, and careful 
+implementation using appropriate tools. Rigorous testing and validation ensure that the system 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+21 
+meets the specified requirements and provides a reliable, secure, and user-friendly solution for 
+crime reporting and management. 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+22 
+Chapter Four 
+System Study, Analysis and Design  
+This chapter concerns the study of the existing system, analysis of the requirements for the 
+system, process and data modeling 
+4.1 The study of the Existing System 
+The study of a Crime Reporting Management System (CRMS) involves a thorough examination of the 
+current processes used for reporting and managing crime incidents. This includes analyzing how data is 
+collected, processed, and stored within the system. By conducting interviews with law enforcement 
+officials, reviewing existing documentation, and observing system usage in real-time, researchers can 
+identify both the strengths and weaknesses of the current CRMS. This study often highlights challenges 
+such as inefficient data handling, delayed response times, and user dissatisfaction, which can hinder the 
+effectiveness of crime management. The goal is to gain a comprehensive understanding of the system's 
+performance and its impact on law enforcement operations, which will guide the development of 
+recommendations for improvement. 
+ 
+The design of an enhanced CRMS focuses on addressing the identified shortcomings while leveraging 
+modern technology to improve system efficiency, usability, and security. A well-structured system design 
+includes a user-friendly interface, robust data encryption methods, and seamless integration with other 
+law enforcement databases. The system should allow for real-time crime reporting, automated case 
+management, and efficient data retrieval. Additionally, it must be scalable to handle varying volumes of 
+crime reports and adaptable to different jurisdictions. The design phase also emphasizes the importance of 
+user training and support to ensure that the system can be effectively utilized by all stakeholders, 
+ultimately leading to more efficient crime management and improved public safety. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+23 
+4.1.1 Workflow for the Crime Reporting Management System  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+start 
+Login 
+Is User 
+Registered? 
+Register 
+Select Crime Type 
+Enter Crime Details 
+Submit Report 
+Generate Case ID 
+Notify Authorities 
+Initial Review 
+Is Case 
+Urgent?? 
+Immediate Action 
+Assign Investigator 
+Standard Procedure 
+Gather Evidence 
+Update Case Status 
+Track Progress 
+Communication 
+Document Findings 
+Close Case 
+Notify Citizen 
+Archive Case 
+Submit Feedback 
+Review Feedback 
+User Management 
+Generate Reports 
+System Monitoring 
+Data Encryption 
+Access Control 
+End 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+24 
+4.1.2 Strength of the existing System 
+1. Improved Accessibility: 
+• 
+Multiple Reporting Channels: The existing CRMS allows citizens to report crimes through 
+various channels, such as online forms, mobile apps, or in-person at police stations. This 
+improves accessibility and encourages more people to report crimes, contributing to higher crime 
+detection rates. 
+2. Efficient Data Management: 
+• 
+Centralized Database: A centralized database allows for the efficient storage and retrieval of 
+crime reports, evidence, and case files. This reduces redundancy and ensures that all relevant 
+information is easily accessible to authorized personnel. 
+3. Real-Time Updates: 
+• 
+Timely Case Tracking: The system provides real-time updates on the status of crime reports, 
+enabling law enforcement agencies to monitor ongoing investigations and make informed 
+decisions promptly. This enhances coordination among different departments and ensures that 
+cases are handled efficiently. 
+4. Enhanced Accountability: 
+• 
+Audit Trails: The existing CRMS often includes features like audit trails, which record all 
+actions taken within the system. This ensures transparency and accountability, as it is easier to 
+track who accessed or modified data, and when these actions occurred. 
+5. Streamlined Workflow: 
+• 
+Automated Processes: Many existing CRMSs automate routine tasks such as categorizing crime 
+reports, assigning cases, and notifying relevant parties. This reduces the administrative burden on 
+law enforcement officers and speeds up the overall crime management process. 
+6. Data Security: 
+• 
+Secure Access: The system typically employs robust security measures, such as user 
+authentication and data encryption, to protect sensitive information. This ensures that crime 
+reports and personal data are secure from unauthorized access. 
+These strengths contribute to the effectiveness of the CRMS, enhancing the ability of law enforcement 
+agencies to manage crime reporting and investigations efficiently. 
+ 
+4.1.3 Weakness of existing System 
+1. Limited User-Friendliness: 
+• 
+Complex Interface: The existing system may have a complicated or non-intuitive user interface, 
+making it difficult for users—especially those who are not tech-savvy—to navigate and use 
+effectively. This can lead to errors in data entry and frustration among users. 
+2. Insufficient Integration: 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+25 
+• 
+Lack of Interoperability: The CRMS may not be well-integrated with other critical systems, 
+such as national databases, forensic systems, or other law enforcement agencies' platforms. This 
+lack of integration can lead to data silos, requiring manual data transfer and increasing the risk of 
+errors. 
+3. Inadequate Scalability: 
+• 
+Limited Capacity: The system may struggle to handle high volumes of crime reports or scale 
+effectively as the demand for its services grows. This can lead to slow processing times, system 
+crashes, or delays in case management. 
+4. Data Security Concerns: 
+• 
+Vulnerabilities: If the CRMS lacks advanced security measures, it may be vulnerable to 
+cyberattacks, unauthorized access, or data breaches. This is especially critical given the sensitive 
+nature of the information stored within the system. 
+5. Poor Data Validation: 
+• 
+Inconsistent Data Quality: The existing system might not have robust data validation 
+mechanisms, leading to the input of incomplete or inaccurate information. This can result in 
+incorrect categorization of crimes, misassigned cases, or flawed reports, undermining the system's 
+overall reliability. 
+6. Limited Reporting and Analytics: 
+• 
+Weak Analytical Capabilities: The system may lack comprehensive reporting and analytical 
+tools, making it difficult for law enforcement to generate insights from the data. This can hinder 
+strategic decision-making, resource allocation, and trend analysis. 
+7. Inadequate User Support and Training: 
+• 
+Lack of Training Resources: Users may not receive sufficient training or support to effectively 
+use the CRMS, leading to underutilization of the system's features or misuse. This can reduce the 
+system's overall efficiency and effectiveness. 
+8. Limited Mobile Support: 
+• 
+Inaccessibility on Mobile Devices: If the system does not have a mobile-friendly interface or 
+app, it limits the ability of users to report crimes or access the system on-the-go, reducing its 
+accessibility and responsiveness. 
+These weaknesses highlight areas where the existing CRMS may fall short in meeting the needs of law 
+enforcement agencies and the public, pointing to opportunities for system improvement or redevelopment. 
+4.2 Data analysis results 
+Researchers employed various data collection techniques, such as interviews, questionnaires, 
+observations, and document reviews, to gather and analyze information on the current Crime Reporting 
+Management System (CRMS). The analysis revealed several challenges associated with the system. 
+Among the most significant issues were delays in processing crime reports, which led to frustration 
+among users and slowed down the investigation process. Additionally, the system experienced congestion 
+during peak usage times, resulting in slow performance, extended processing times, and occasional 
+system crashes. Users also reported inefficiencies in case management, including misassignments and a 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+26 
+lack of timely follow-up, which further delayed the resolution of cases. Moreover, accessibility issues 
+were identified, particularly in rural or remote areas where internet connectivity and technological 
+infrastructure are limited. These challenges were highlighted in the data analysis, which was represented 
+in tables and graphs to facilitate easier interpretation and provide clear insights into the areas requiring 
+improvement within the CRMS. 
+4.2.1 The tabular representation of the challenges associated with 
+the current Crime Reporting management system  
+Table 1: Challenges Associated with the Current Crime Reporting 
+Management System 
+Challenge 
+Description 
+Frequency (%) 
+Impact Level 
+Delays in Processing 
+Crime Reports 
+Slow processing of crime 
+reports causing delays in 
+investigations 
+45% 
+High 
+System Congestion 
+High usage periods 
+causing system 
+slowdowns and crashes 
+30% 
+Medium  
+Inefficient Case 
+Management 
+Misassignments and lack 
+of timely follow-up on 
+cases 
+15% 
+Medium  
+Limited Accessibility for 
+Users 
+Difficulty accessing the 
+system, especially in 
+remote areas 
+10% 
+Low 
+ 
+In this table: 
+• 
+Frequency (%) represents the percentage of users or instances where this challenge was 
+reported. 
+• 
+Impact Level indicates the severity of the challenge on the overall system’s 
+performance. 
+This table gives a clear statistical representation of the key challenges, providing insight into 
+their prevalence and severity within the current CRMS. 
+4.2.2 The Graphical Representation of the Challenges faced by the    
+current Crime  management system.    
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+27 
+ 
+ 
+ 
+Figure 4. 1: A graphical presentation of the challenges faced by the current crime reporting 
+management system. 
+4.2.1 User Requirements 
+These are statements, in a natural language, of what services the system is expected to provide 
+and the constraints under which it must operate. Below are the user requirements for the system; 
+•  User Registration and Authentication: The system should allow users to create accounts, 
+log in securely, and manage their profiles. Different roles (e.g., citizen, police officer, admin) 
+should have varying access levels. 
+•  Crime Reporting: Users should be able to report crimes through an online form, providing 
+detailed information and uploading evidence like photos or documents. 
+•  Incident Management: The system should enable police officers to review, assign, and 
+manage crime reports. It should track the status and progress of each case. 
+• Communication and Notifications: Users should receive notifications (via email or SMS) 
+about updates to their reports. The system should also facilitate communication between users 
+and law enforcement. 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Delays in Processing
+Crime Reports
+System Congestion
+Inefficient Case
+Management
+Limited Accessibility for
+Users
+Frequency (%)
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+28 
+• Data Security and Privacy: The system must ensure that all user data is securely stored and 
+accessed only by authorized personnel, adhering to data protection regulations. 
+• Search and Filtering: Users and administrators should be able to search and filter crime 
+reports based on various criteria, such as date, location, and type of crime. 
+• Reporting and Analytics: The system should generate reports and analytics on crime data, 
+helping administrators monitor trends and allocate resources effectively. 
+• Location Tracking: The system should integrate with mapping services to allow users to 
+report the exact location of crimes and for authorities to visualize crime hotspots. 
+• Mobile Accessibility: The system should be accessible via mobile devices, with a responsive 
+design or dedicated app to allow users to report crimes on the go. 
+• User Support and Help: The system should provide a help section with FAQs and user 
+guides, as well as support channels for users needing assistance. 
+4.2.2 Functional requirements  
+A Functional requirement is a description of activities and services that the Online Crime 
+Reporting Management System provides in terms of proceeding and data handling. So 
+according to the tools used to collect data from the users, the following functional 
+requirements were met;   
+1. User Registration and Login: 
+• 
+The system allows users to create accounts and log in securely with unique credentials. 
+• 
+Different user roles (e.g., citizen, police officer, admin) are supported. 
+2. Crime Report Submission: 
+• 
+Users can submit detailed crime reports through an online form. 
+• 
+The system accepts file uploads, such as photos, videos, or documents, as evidence. 
+3. Incident Management: 
+• 
+The system enables police officers to review, assign, and update the status of crime 
+reports. 
+• 
+An incident history log is maintained for each reported crime. 
+4. Notification System: 
+• 
+Users receive automated notifications about the status of their reports via email or SMS. 
+• 
+The system alerts relevant authorities in case of critical incidents. 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+29 
+5. Search and Filtering: 
+• 
+The system provides a search function to find specific crime reports. 
+• 
+Users can filter reports by criteria such as date, location, or type of crime. 
+6. Reporting and Analytics: 
+• 
+The system generates reports and analytics on crime data. 
+• 
+Administrators can view dashboards displaying crime trends and statistics. 
+7. Data Security and Privacy: 
+• 
+The system ensures secure storage and access to user data. 
+• 
+Encryption and access controls are implemented to protect sensitive information. 
+8. Location Tracking: 
+• 
+The system integrates with mapping services to track and display the location of reported 
+crimes. 
+• 
+Users can report crimes by selecting locations on a map. 
+9. Mobile Accessibility: 
+• 
+The system is accessible via mobile devices, with a responsive design or dedicated app. 
+• 
+Users can report crimes and check status updates on the go. 
+10. User Support: 
+• 
+The system provides a help section with FAQs and user guides. 
+• 
+Support channels are available for users’ needing assistance. 
+4.2.3 Non-functional requirements 
+A non-functional requirement is description of other features, characteristics and constraints that define 
+the satisfactory of the system therefore it describes how the Online Crime Reporting Management 
+System was to perform. Some of these requirements which were considered during the design of the 
+system include; 
+I. 
+Performance: 
+• 
+The system should be able to handle multiple simultaneous users without significant 
+slowdowns. 
+• 
+Crime reports should be processed and stored within a few seconds of submission. 
+II. 
+Scalability: 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+30 
+• 
+The system should be scalable to accommodate an increasing number of users and reports 
+over time. 
+• 
+It should support the integration of additional features and modules in the future. 
+III. 
+Security: 
+• 
+The system must ensure the confidentiality, integrity, and availability of all user data. 
+• 
+Strong authentication and encryption mechanisms should be implemented to prevent 
+unauthorized access. 
+IV. 
+Usability: 
+• 
+The user interface should be intuitive and easy to navigate for all user roles. 
+• 
+The system should provide clear instructions and feedback to users during each 
+interaction. 
+V. 
+Reliability: 
+• 
+The system should be highly reliable, with minimal downtime or disruptions. 
+• 
+It should have mechanisms for data backup and recovery in case of failures. 
+VI. 
+Compatibility: 
+• 
+The system should be compatible with various web browsers and operating systems. 
+• 
+It should also function smoothly on mobile devices, including smartphones and tablets. 
+VII. 
+Maintainability: 
+• 
+The system should be designed for easy maintenance and updates. 
+• 
+The codebase should be well-documented to facilitate future modifications and bug fixes. 
+VIII. 
+Accessibility: 
+• 
+The system should be accessible to users with disabilities, adhering to relevant 
+accessibility standards (e.g., WCAG). 
+• 
+It should support screen readers and provide alternative text for images and multimedia 
+content. 
+IX. 
+Availability: 
+• 
+The system should be available 24/7 with minimal downtime for maintenance. 
+• 
+It should have redundancy and failover mechanisms to ensure continuous operation. 
+X. 
+Response Time: 
+• 
+The system should provide quick response times for user interactions, with pages loading 
+within a few seconds. 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+31 
+• 
+Critical operations, like submitting a crime report, should complete within a reasonable 
+time frame. 
+XI. 
+Auditability: 
+• 
+The system should maintain detailed logs of user actions for auditing and monitoring 
+purposes. 
+• 
+Administrators should be able to generate audit reports as needed. 
+XII. 
+Localization: 
+• 
+The system should support multiple languages and regional settings to accommodate 
+users from different locations. 
+• 
+It should be adaptable to the cultural and legal requirements of various regions. 
+4.2.4 System requirement 
+The system requirement includes requirements that are needed to include certain functionality in the 
+system. It involved describing the system and the properties in that system. They include the hardware 
+and software requirements as follows; 
+4.2.4.1 Hardware Requirements 
+Table 2: Hardware requirements 
+Hardware component  
+System requirement 
+Justification 
+Processor 
+Minimum: Intel Core i3 or 
+equivalent 
+ 
+ 
+Recommended: Intel Core i5 or 
+higher 
+Ensures the system can handle 
+basic operations and processing 
+tasks. 
+ 
+Provides faster processing for 
+smoother performance under 
+load. 
+ 
+RAM 
+Minimum: 4 GB 
+ 
+ 
+ 
+Recommended: 8 GB or higher 
+Sufficient for basic multitasking 
+and handling of smaller data 
+loads. 
+ 
+Allows for efficient multitasking 
+and handling larger data 
+processes. 
+Storage 
+Minimum: 500 GB HDD 
+ 
+ 
+ 
+ 
+Provides adequate space for 
+system files, applications, and 
+data storage. 
+ 
+Offers faster access to data and 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+32 
+Recommended: 1 TB HDD or 
+SSD 
+additional storage capacity for 
+large datasets. 
+Network 
+Minimum: Ethernet (100 Mbps) 
+ 
+ 
+ 
+Recommended: Ethernet (1 
+Gbps) or Wi-Fi 6 
+Basic network speed sufficient 
+for regular data transfers and 
+communication. 
+ 
+Ensures faster data transfer 
+speeds, better connectivity, and 
+supports higher network traffic. 
+Display 
+Minimum: 17 monitor with 
+1280x1024 resolution 
+ 
+Recommended: 20 monitor 
+with 1920x1080 resolution 
+Offers a better visual experience 
+and more screen real estate for 
+complex tasks. 
+ 
+Offers a better visual experience 
+and more screen real estate for 
+complex tasks. 
+Backup Power 
+Minimum: 600 VA UPS 
+ 
+ 
+ 
+ 
+Recommended: 1000 VA UPS 
+Provides basic protection 
+against power interruptions, 
+ensuring minimal data loss. 
+ 
+Offers extended backup time 
+and protection for critical 
+system operations during power 
+outages. 
+ 
+4.2.4.2 Software Requirements 
+Table 3: Software requirements 
+Software Component 
+System Requirement 
+Justification 
+Operating System 
+Windows 10 or later, Linux 
+(Ubuntu 18.04 or later) 
+Provides a stable and secure 
+environment for running the 
+system. Supports necessary 
+software and development 
+tools. 
+Web Server 
+Apache 2.4 or Nginx 
+Reliable and widely-used web 
+servers for hosting the 
+application. Supports PHP and 
+handles HTTP requests 
+efficiently. 
+Database Management System 
+MySQL 5.7 or later, or 
+PostgreSQL 11 or later 
+Provides a robust and scalable 
+database system for storing 
+and managing crime report 
+data. 
+Programming Language 
+PHP 7.4 or later, HTML5, 
+CSS3, JavaScript 
+Core languages for building 
+and styling the web 
+application, ensuring 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+33 
+compatibility with the web 
+server and database. 
+Frameworks 
+Bootstrap 4 or later, Laravel 7 
+or later (if using MVC 
+framework) 
+Ensures responsive design and 
+efficient development with 
+MVC architecture, enhancing 
+user experience and 
+maintainability. 
+Browser 
+Google Chrome, Mozilla 
+Firefox, Microsoft Edge (latest 
+versions) 
+Modern browsers with full 
+support for HTML5, CSS3, 
+and JavaScript, ensuring 
+compatibility and 
+performance. 
+Email Server 
+Sendmail, Postfix, or SMTP 
+service (e.g., Gmail SMTP) 
+Required for sending 
+notifications and 
+communication between the 
+system and users. 
+Security Tools 
+SSL/TLS Certificate, Firewall, 
+Antivirus Software 
+Ensures secure 
+communication, protects data 
+integrity, and defends against 
+unauthorized access and 
+malware. 
+Version Control 
+Git, GitHub or GitLab 
+Facilitates collaboration, 
+version tracking, and code 
+management throughout the 
+development lifecycle. 
+Development Tools 
+Visual Studio Code, 
+PhpStorm, or similar IDE 
+Provides a rich development 
+environment with debugging, 
+syntax highlighting, and other 
+essential features for efficient 
+coding. 
+4.3 System Design  
+In the system design phase, process modeling involved use of Data Flow Diagrams (DFD), and Data 
+modeling involved use of Entity Relationship Diagrams (ERD). 
+4.3.1 Architectural Design for the System 
+The architectural design shows how the OFTMS is comprised of the different subsystems namely Data 
+collection, Data Processing, Data Storage and Data Display. The figure below shows an architectural 
+diagram of the Online Crime Reporting Management System.  
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+34 
+ 
+ 
+ 
+Figure 4. 2: The Architectural Design for a Crime Reporting management system 
+4.3.2 Process Modeling  
+These show how information or data will be moving around the Crime  Management System from the 
+entry to various repositories or data stores. 
+4.3.2.1 Key Symbols 
+ 
+Symbol                                           Name 
+                                                                      External entity 
+ 
+ 
+                                                                     Data store          
+ 
+                                                                      Data flow 
+                                                                         
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+35 
+                                                                      Process 
+                                               
+Description of the above key symbols;                      
+i. 
+An Entity is a real life object with an independent existence that interacts with the system. 
+ii. 
+Data store shows where data is stored after being processed. This can be a database or a file. 
+iii. 
+Data flow shows the movement of data within the system and also connects processes, data 
+stores and external entities. 
+iv. 
+A Process is a series of activities or actions to accomplish a desired task. 
+ 
+4.3.3 Data Flow Diagrams (DFD). 
+It is one of the most important modeling tools used by system analysts. It is used to illustrate how data 
+flows in a system. DFD’s use a number of symbols to represent systems. There are four kinds of symbols. 
+These are used to represent four kinds of system components. Processes, data stores, data flows and 
+external entities. 
+4.3.3.1 The Context Level DFD  
+A Context Level Data Flow Diagram (DFD) provides an overview of the entire Crime Reporting 
+Management System by illustrating the system’s interactions with external entities. The context-level 
+DFD is also known as a Level 0 DFD and includes the main process, external entities, and data flows 
+between them. 
+ 
+ 
+ 
+ 
+ 
+Figure 4. 3: Context Diagram for the  Crime Reporting Management System. 
+ 
+Represented by arrows: 
+• 
+From Citizen to the system: Report Crime. 
+• 
+From the system to Citizen: Crime Report Acknowledgment. 
+Crime Reporting 
+Management 
+System 
+Administrator 
+Police Officer 
+Citizen 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+36 
+• 
+From Citizen to the system: Status Update Request. 
+• 
+From the system to Citizen: Status Update. 
+• 
+From the system to Police Officer: Review Crime Reports. 
+• 
+From Police Officer to the system: Update Report Status. 
+• 
+From Administrator to the system: System Management. 
+• 
+From the system to Administrator: Reports and Analytics. 
+In figure 4.3: user logs into the online crime reporting management system and when user is 
+authenticated, can requests for resources and the feedback is then sent to the user. The administrator 
+also logs into the system and when authenticated can query for data and receives immediate feedback.  
+4.3.3.2 The Level 1 DFD for the  Crime Reporting Management System 
+ 
+ 
+Figure 4. 4: Level 1 DFD for the Online Crime Reporting Management System 
+Description for the level 1 DFD 
+In this subsection, there are tables describing all the design objects used in developing the system. They 
+include Processes, Data flows, Data stores and the External entities.  
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+37 
+Description for Processes 
+Table 4: Description of Processes 
+ 
+Process 
+Description 
+Crime Report Filing 
+The process of receiving and documenting a new 
+crime report. This includes completing the report 
+form, gathering initial details, and filing the report 
+in the Crime Report Files. 
+Initial Investigation 
+Preliminary investigation of the crime, including 
+visiting the crime scene, collecting initial evidence, 
+and interviewing witnesses. Notes and findings are 
+recorded in the Investigation Notes. 
+Victim and Suspect Identification 
+Gathering and recording personal information 
+about victims and suspects involved in the crime 
+report. This information is stored in Victim and 
+Suspect Records. 
+Case Assignment 
+Assigning a case to a law enforcement officer or 
+department for further investigation. Officer 
+details and case assignments are recorded in 
+Officer Files and Department Records. 
+Ongoing Investigation 
+Continuous investigation activities, including 
+follow-up interviews, evidence collection, and 
+analysis. Updates and actions are recorded in Case 
+Logs. 
+Evidence Management 
+Handling and documenting physical evidence 
+related to the crime, including collection, storage, 
+and maintaining chain of custody. Evidence 
+Records are updated accordingly. 
+Case Review 
+Periodic review of ongoing cases to assess 
+progress, update case status, and ensure proper 
+handling of evidence and documentation. 
+Case Resolution 
+Finalizing the case once the investigation is 
+complete. This includes closing the case, filing final 
+reports, and archiving all related documents and 
+evidence. 
+Reporting and Documentation 
+Preparing and maintaining various reports and 
+documents related to the crime, investigation, and 
+case outcome. This includes generating 
+summaries, reports for legal proceedings, and 
+administrative documentation. 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+38 
+ 
+Description of Data Stores 
+Table 5: Description for Data stores 
+Data Store 
+Description 
+Crime Report Files 
+Physical files or folders containing detailed records 
+of each reported crime, including report forms, 
+investigation notes, witness statements, and 
+attachments. 
+Victim and Suspect Records 
+Files or folders with personal information about 
+individuals involved in crime reports, such as 
+names, addresses, contact details, and criminal 
+history. 
+Officer Files 
+Records or files containing details about law 
+enforcement officers, including personal 
+information, case assignments, and any reports or 
+logs they have created. 
+Department Records 
+Records related to the various departments within 
+the law enforcement agency, including department 
+details and case assignments. 
+Case Logs 
+Handwritten or typed logs tracking updates and 
+activities for each crime report, including log 
+entries, dates and times, and the officers involved. 
+Evidence Records 
+Records documenting physical evidence collected 
+from crime scenes, including descriptions, storage 
+locations, and chain of custody information. 
+ 
+Description for External Entities 
+Table 6: Description of External Entities 
+Entity 
+Description 
+Complainant 
+The complainant is an individual who reports a 
+crime to the police. They provide personal 
+information, crime details, and any relevant 
+evidence to the system. 
+Police Department 
+The Police Department receives crime reports, 
+assigns officers to cases, conducts investigations, 
+and maintains records of crime reports and 
+investigations. 
+Court 
+The Court system handles the prosecution of 
+criminal cases, receiving investigation reports and 
+evidence from the Police Department for legal 
+proceedings. 
+Witness 
+A witness provides testimony or evidence related 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+39 
+to a crime, supporting the investigation and 
+prosecution of a case. 
+Victim 
+The victim is the individual or entity harmed by a 
+crime. They may provide information about the 
+crime and participate in legal proceedings. 
+ 
+ 
+4.3.4 Identification of Entities and their Attributes 
+Table 7: Identification for Entities and their Attributes 
+Entity 
+Description 
+Attributes 
+Complainant 
+The individual who physically 
+visits a police station to report a 
+crime. This entity includes all 
+personal details and the details 
+of the complaint they provide. 
+- Complainant ID (assigned manually 
+or through a physical logbook)  
+- Name  
+- Address  
+- Phone Number  
+- Identification Type (e.g., ID 
+Card, Passport)  
+- Identification Number 
+Crime Report 
+A physical form or document 
+where the complainant provides 
+details of the crime. This report 
+is filled out by the complainant 
+or a police officer during the 
+visit. 
+Report ID (manual numbering)  
+- Complainant ID (linked manually to 
+the complainant)  
+- Crime Type  
+- Crime Description  
+- Date and Time of Incident  
+- Location  
+- Witnesses  
+- Physical Evidence (described or 
+attached)  
+- Report Date 
+Police Officer 
+The officer who records the 
+crime report, investigates the 
+crime, and updates the status 
+manually. This entity 
+represents the officers 
+involved in managing the 
+report. 
+Officer ID (badge number or 
+manually assigned)  
+- Name  
+- Rank  
+- Department  
+- Assigned Cases  
+- Contact Information 
+Investigation Record 
+A manual log or folder where 
+investigation details and progress 
+are recorded by the officer. This 
+includes notes, updates, and 
+final outcomes of the 
+investigation. 
+Investigation ID (linked manually 
+to the crime report)  
+- Report ID  
+- Investigation Start Date  
+- Assigned Officer  
+- Investigation Notes  
+- Outcome (e.g., case closed, suspect 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+40 
+apprehended) 
+Witness 
+Any individual who provides 
+testimony or evidence in the 
+crime report. Their details are 
+recorded manually as part of the 
+report or investigation. 
+Witness ID (if multiple witnesses, 
+manually assigned)  
+- Name  
+- Contact Information  
+- Statement 
+Evidence 
+Physical evidence collected 
+related to the crime. This entity 
+represents the objects or 
+documents associated with the 
+crime and is manually logged or 
+stored. 
+Evidence ID (manually assigned or 
+tagged)  
+- Report ID (linked to the related 
+crime report)  
+- Evidence Type  
+- Description  
+- Storage Location 
+Crime Logbook 
+A physical logbook where all 
+reported crimes are recorded 
+chronologically. This serves as a 
+master record of all cases 
+handled by the station 
+Logbook ID  
+- Entry Date  
+- Report ID  
+- Complainant Name  
+- Crime Description  
+- Assigned Officer 
+ 
+4.3.5 Modeling Relationships between Entities 
+ 
+Files 
+ 
+1 N 
+ 
+Figure 4. 5: Relationship between complainant and Crime Report 
+Complainant and Crime Report have a one-to-many relationship, meaning one complainant can file 
+multiple reports. 
+ 
+ 
+Documents 
+ 
+1: 1 
+Figure 4.7: Relationship between crime report and investigation record 
+Each crime report will have a corresponding investigation record that documents the progress 
+and outcome of the investigation. 
+ 
+ 
+ 
+M 
+Handled By 
+ 
+M:M 
+Complainant 
+Crime Report 
+Crime Report 
+Investigation. 
+Record 
+Crime Report 
+Police Officer 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+41 
+Figure 4. 8: Relationship between crime report and police officer 
+Multiple police officers may be involved in handling a single crime report, especially if it 
+requires a team. Conversely, a single police officer can handle multiple crime reports. 
+ 
+Assigned To 
+ 
+1:M 
+Figure 4.9: Relationship between police officer and investigation record 
+A single police officer can be responsible for multiple investigations, but each investigation 
+record is managed by one primary officer. 
+ 
+Includes 
+ 
+1:M 
+Figure 4.10: Relationship between crime report and evidence 
+Each crime report can be associated with multiple pieces of evidence, but each piece of evidence 
+is tied to a single crime report. 
+ 
+   
+Involves 
+1 
+1:M 
+Figure 4.11: Relationship between crime report and witness 
+Each crime report can have statements from multiple witnesses, but each witness statement is 
+linked to a single crime report. 
+ 
+4.3.6 The Entity Relationship Diagram 
+ 
+ 
+Files  
+Handles 
+ 
+M:m 
+ 
+1:m 
+ 
+Handles 
+ 
+Includes 
+1:m 
+Documents 
+ 
+1:m 
+ 
+1:1 
+ 
+ 
+Involves 
+ 
+ 
+1:m 
+ 
+ 
+Police Officer 
+Investigation 
+Record 
+Crime Report 
+Evidence  
+Crime report  
+witness 
+Complainant 
+Complainant ID 
+(pk) 
+Name  
+Address    Phone 
+Number    
+Identification 
+Crime Report 
+Report ID (pk) 
+Complainant ID (fk) 
+Crime Type 
+Description   Date 
+and Time   Location    
+Status 
+Police Officer 
+Officer ID (pk) 
+ Name        
+ Rank  
+Department 
+Witness 
+Witness ID (pk)    
+Report ID (fk) 
+Name       
+Statement 
+Contact Info 
+Evidence 
+Evidence ID (pk)      
+Report ID (fk) 
+Type     
+Description    
+Storage Location 
+Investigation 
+Record 
+Investigation ID 
+(pk)      
+Report ID (fk)      
+Start Date            
+Findings     
+Outcome
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+42 
+ 
+ 
+ 
+ 
+ 
+Figure 4. 6: The Entity Relationship Diagram 
+ 
+4.3.7 Mapping of ERD to Relational Schema 
+4.3.7.1 Complainant 
+Table 8: The Complainant table 
+Field Name 
+Data Type 
+Constraint 
+complainant_id 
+INT 
+PRIMARY KEY 
+name 
+VARCHAR(100) 
+NOT NULL 
+address 
+VARCHAR(255) 
+NOT NULL 
+phone_number 
+VARCHAR(15) 
+NOT NULL 
+identification 
+VARCHAR(50) 
+UNIQUE, NOT NULL 
+ 
+4.3.7.2 Crime Report 
+Table 10: The Crime Report table 
+Field Name 
+Data Type 
+Constraint 
+report_id 
+INT 
+PRIMARY KEY 
+complainant_id 
+INT 
+FOREIGN KEY REFERENCES 
+Complainant(complainant_id), 
+NOT NULL 
+crime_type 
+VARCHAR(100) 
+NOT NULL 
+description 
+TEXT 
+NOT NULL 
+date_time 
+DATETIME 
+NOT NULL 
+location 
+VARCHAR(255) 
+NOT NULL 
+status 
+VARCHAR(50) 
+NOT NULL 
+ 
+4.3.7.3 Police Officer 
+Table 11: The Police Officer table 
+Field Name 
+Data Type 
+Constraint 
+officer_id 
+INT 
+PRIMARY KEY 
+name 
+VARCHAR(100) 
+NOT NULL 
+rank 
+VARCHAR(50) 
+NOT NULL 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+43 
+department 
+VARCHAR(100) 
+NOT NULL 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3.7.4 Investigation Record 
+Table 12: The Investigation Record table 
+Field Name 
+Data Type 
+Constraint 
+investigation_id 
+INT 
+PRIMARY KEY 
+report_id 
+INT 
+FOREIGN KEY REFERENCES 
+Crime_Report(report_id), NOT 
+NULL 
+start_date 
+DATE 
+NOT NULL 
+findings 
+TEXT 
+NOT NULL 
+outcome 
+VARCHAR(255) 
+NOT NULL 
+ 
+4.3.7.5 Evidence 
+Table 13: The Evidence table 
+Field Name 
+Data Type 
+Constraint 
+evidence_id 
+INT 
+PRIMARY KEY 
+report_id 
+INT 
+FOREIGN KEY REFERENCES 
+Crime_Report(report_id), NOT 
+NULL 
+type 
+VARCHAR(100) 
+NOT NULL 
+description 
+TEXT 
+NOT NULL 
+storage_location 
+VARCHAR(255) 
+NOT NULL 
+4.3.7.6 Witness 
+Table 14: The Witness table 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+44 
+Field Name 
+Data Type 
+Constraint 
+witness_id 
+INT 
+PRIMARY KEY 
+report_id 
+INT 
+FOREIGN KEY REFERENCES 
+Crime_Report(report_id), NOT 
+NULL 
+name 
+VARCHAR(100) 
+NOT NULL 
+statement 
+TEXT 
+NOT NULL 
+contact_info 
+VARCHAR(100) 
+NOT NULL 
+ 
+4.4 Conclusion 
+In summary, this chapter was mainly based on the study of the existing system, analysis of the 
+requirements for the system, processes and data modeling. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+45 
+Chapter Five 
+System Implementation, Testing and Validation 
+This section describes the implementation of the design models in of the system and also shows the 
+different results generated by the system. Therefore, screen shots of the system will be displayed to 
+show how the system displays results given a command. 
+5.1 System Functions 
+The Online Crime Reporting Management System offers a comprehensive suite of functions tailored to 
+different user roles. Administrators have the ability to manage user accounts, including creating and 
+updating roles for law enforcement officers and other staff, and they oversee the verification of crime 
+reports to ensure accuracy. They also analyze system performance to maintain efficient operations. 
+Employees are tasked with receiving and entering crime report details into the system, updating case 
+information as investigations progress. Public users can file crime reports online, view the status of their 
+reports, and access their personal details related to the crime. This structured approach ensures 
+seamless interaction among administrators, staff, and the public, facilitating effective crime reporting 
+and case management. 
+5.1.1 Administrator Functions: 
+• 
+Manage User Accounts: Administrators can create, update, deactivate, and delete user 
+accounts, including law enforcement officers and other system staff. They assign roles and 
+permissions to ensure appropriate access levels. 
+• 
+Verify Crime Reports: Administrators review and verify the accuracy and completeness of crime 
+reports submitted to the system, ensuring that all required information is provided and valid. 
+• 
+Monitor System Performance: Administrators track system performance, analyze usage metrics, 
+and oversee the operational aspects of the system to ensure efficient functioning and adherence 
+to protocols. 
+• 
+Generate Reports: Administrators can generate various reports on system activity, crime report 
+statistics, and user performance for analysis and decision-making. 
+5.1.2 Law Enforcement Officer Functions: 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+46 
+• 
+Receive and Process Crime Reports: Officers receive new crime reports from the public and 
+enter detailed information into the system, including evidence, witness statements, and case 
+notes. 
+• 
+Update Case Status: Officers update the status of ongoing investigations, add new findings, and 
+modify case details as needed. They also manage and track evidence related to their cases. 
+• 
+Communicate with Public: Officers can communicate with individuals who have reported crimes 
+to provide updates, request additional information, and facilitate further investigation. 
+ 5.1.3 Public/User Functions: 
+• 
+File Crime Reports: Users can submit crime reports online through a user-friendly interface, 
+providing necessary details such as the incident description, location, and involved parties. 
+• 
+Track Report Status: Users can track the status of their submitted reports, view updates on the 
+investigation, and receive notifications regarding any changes or progress. 
+• 
+View and Update Personal Information: Users can access and manage their personal details 
+related to crime reports, including contact information and any additional documentation 
+required for their cases. 
+5.1.4 System Functions: 
+• 
+Data Storage and Management: The system securely stores and manages all crime reports, user 
+information, case details, and evidence, ensuring data integrity and accessibility. 
+• 
+Search and Retrieval: Users and administrators can search and retrieve specific crime reports, 
+case details, and other relevant information using various search criteria. 
+• 
+Notifications and Alerts: The system sends automated notifications and alerts to users and 
+administrators about report status changes, upcoming deadlines, and important updates 
+ 
+5.2 System map 
+Figure 5.1: System Map showing functions provided by the system to each user 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5. 1: System Map 
+ 
+I. 
+File Crime Reports 
+II. 
+Track Report Status 
+III. 
+View and Update 
+Personal Information 
+I. 
+Manage User Accounts 
+II. 
+Verify Crime Reports 
+III. 
+Monitor System Performance 
+IV. 
+Generate Reports 
+Data Storage and Management 
+ 
+Search and Retrieval 
+Notifications and Alerts 
+System 
+Functions
+Administrator  
+ Public/User 
+Login  
+Law Enforcement 
+Officer 
+Update Case Status 
+Receive and Process Crime 
+Reports 
+Communicate with Public 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+48 
+5.3 Sample Screen-shots 
+5.3.1 System home page 
+Figure 5.2 Shows the homepage that allows law officials, and users to login into the system in order to 
+access their pages and perform their tasks. On selecting the login option especially by the administrator, 
+login page for the administrator will be displayed as shown on the screenshot below, for complainant has 
+to first sign up and logs-in. 
+ 
+Figure 5. 2: System home page 
+ 
+5.3.2 Administrator’s login page 
+Figure 5.3 Shows the administrator’s login page where he or she selects the admin option and fills in 
+his or her password to login into the system. The admins include the head or headquarter (he is the 
+overall overseer of the crime process, he adds police stations and the in-charge of those stations), in-
+charge (is responsible for assigning cases to the police and adding police), and police responsible for 
+handling the assigned case. 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+49 
+ 
+Figure 5. 3: Administrator login page 
+5.3.2 Headquarters Login 
+ 
+In charge login 
+ 
+ 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+50 
+Police login 
+ 
+Figure 5. 4: Administrator login page 
+ 
+5.3.3 Administrative view page 
+Figure 5.4: Shows the administrator fully logged in where he can perform all duties assigned to him 
+through navigating on the links shown on the screenshots in red color below. He can create accounts, set 
+the passwords, view different account types, view transactions, manage crimes and verify and validate 
+all crimes of the complainants.  
+Headquarters page 
+ 
+ 
+ 
+
+Tumusiime Joshua                                                                                                                                                  pg. 
+51 
+Incharge page 
+ 
+Police page 
+ 
+Figure 5. 5: Administrative view page 
+5.3.4 User login page 
+Figure 5.5: Shows a user’s login page where he or she selects the user option as his or her username and 
+fills in a password to login into the system where he or she can either file a complaint or register as new 
+user or also view the complaint details.  
+ 

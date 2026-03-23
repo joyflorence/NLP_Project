@@ -1,0 +1,2743 @@
+Chapter 4
+Finite Difference Operators
+4.1
+Introduction
+The lecture defines and inter-relates the most common finite difference operators i.e. forward,
+backward, shift, central and the averaging operator. Use of the operators to prove finite difference identities is also done.
+4.1.1
+Finite differences
+We consider a function f(x) known for a certain set of equally spaced values of x such that
+x = x0 + rh,
+r = 0, 1, . . . , n
+and h > 0. This generates a set of n + 1 pairs i.e. (xr, fr).
+The xr are called pivotal points and fr = f(xr) are the pivotal values. The pairs can be
+written as;
+x0
+f(x0)
+x1
+f(x1)
+x2
+f(x2)
+·
+·
+·
+·
+·
+·
+xr
+f(xr)
+We can form differences between consecutive pivotal values i.e. fr+1 −fr where
+xr+1 = xr+h for r = 0, 1, 2, . . .
+The differences fr+1 −fr are called the first differences.
+We similarly define higher order
+differences.
+4.1.2
+Finite difference operators
+The most common finite difference operators are; the forward difference operator, the backward difference operator, the central difference operator, the averaging operator and the shift
+operator.
+
+4.2
+The Forward Difference Operator ∆
+defn The forward difference operator is denoted by ∆and defined by the difference equation;
+∆fr = fr+1 −fr
+(4.1)
+Thus, the 1st difference column in a difference table consists of the elements,
+∆f0,
+∆f1,
+∆f2 . . . . . .
+The second differences are got by differentiating the first differences i.e
+∆fr+1 −∆fr
+(4.2)
+But we can easily show that ∆is a linear operator i.e.
+∆(αfr + βgr) = α∆fr + β∆gr
+Thus equation (4.2), becomes,
+∆fr+1 −∆fr = ∆(fr+1 −fr) = ∆(∆fr).
+Example 4.2.1
+Let y = f(x). Then
+∆y0 = y1 −y0
+∆y1 = y2 −y1
+∆yn = yn+1 −yn
+Example 4.2.2
+Compute ∆2y1
+∆2y1 = ∆
+
+∆y1
+
+= ∆
+
+y2 −y1
+
+= ∆y2 −∆y1
+= (y3 −y2) −(y2 −y1)
+= y3 −2y2 + y1
+■
+Remark 4.2.1
+In general,
+∆nyr = ∆n−1yr+1 −∆n−1yr
+(4.3)
+Remark 4.2.2
+If we write ∆2fr for ∆(∆fr), then the second differences are the quantities,
+∆2f0, ∆2f1, ∆2f2, . . . . . .
+Page 69 of 315
+
+Remark 4.2.3
+We similarly get third differences as consisting of the elements.
+∆3fr = ∆(∆2fr)
+or
+∆3fr = ∆2(∆fr) = ∆2fr+1 −∆2fr
+Generally, we have that the nth order differences consist of the elements/quantities,
+∆nfr = ∆n−1fr+1 −∆n−1fr
+(4.4)
+∆nfr = ∆(∆n−1fr)
+(4.5)
+Thus ∆kfr involves information at the pivoted points xr, xr+1, . . . , xr+k. Thus,
+1.) ∆f0 involves information at x0 and x1
+2.) ∆2f0 involves information at x0, x1 and x2
+3.) ∆3f0 involves information at x0, x1, x2 and x3
+and so on. In fact this is how the name forward comes about.
+Example 4.2.3
+Table 4.1: Showing a table of forward differences in between used points.
+y
+∆y
+∆2y
+∆3y
+∆4y
+y0
+∆y0
+y1
+∆2y0
+∆y1
+∆3y0
+y2
+∆2y1
+∆4y0
+∆y2
+∆3y1
+y3
+∆2y2
+∆y3
+y4
+or
+Table 4.2: Forward Differences Table at point of reference.
+y
+∆y
+∆2y
+∆3y
+∆4y
+y0
+∆y0
+∆2y0
+∆3y0
+∆4y0
+y1
+∆y1
+∆2y1
+∆3y1
+y2
+∆y2
+∆2y2
+y3
+∆y3
+y4
+Page 70 of 315
+
+Example 4.2.4
+Given the value of
+y = 46, 66, 81, 93, 101
+Determine the forward differences of y.
+y
+∆y
+∆2y
+∆3y
+∆4y
+-5
+-3
+-3
+-1
+-4
+Table 4.3: Forward difference in between the two used points
+or by
+y
+∆y
+∆2y
+∆3y
+∆4y
+-5
+-3
+-3
+-1
+-4
+Table 4.4: Forward difference placed at point
+■
+Page 71 of 315
+
+Example 4.2.5
+Given the table
+x
+1.4
+1.6
+1.8
+2.2
+y
+4.0552
+4.953
+6.0496
+7.3891
+9.025
+The forward difference operator table is given by
+x
+y
+∆y
+∆2y
+∆3y
+∆4y
+1.4
+4.0552
+0.8978
+1.6
+4.953
+0.1988
+1.0966
+0.0441
+1.8
+6.0496
+0.2429
+0.0094
+1.3395
+0.0535
+7.3891
+0.2964
+1.6359
+2.2
+9.025
+■
+Example 4.2.6
+Construct the difference table of f(x) = sin x for x = 0◦(10◦) 50◦:
+x◦
+f(x) = sin x
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+0.1736
+0.1736
+-0.0052
+0.1684
+-0.0052
+0.3420
+-0.0104
+0.0004
+0.1580
+-0.0048
+0.5000
+-0.0152
+0.0004
+0.1428
+-0.0044
+0.6428
+-0.0196
+0.1232
+0.7660
+■
+Page 72 of 315
+
+Example 4.2.7
+Write down the forward difference table for f = x3 for
+x = 1, 1.01, 1.02, 1.03, 1.04, 1.05
+x
+f(x) = x3
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+1.000
+0.03
+1.01
+1.030
+0.001
+0.031
+1.02
+1.061
+0.001
+0.032
+0.003
+1.03
+1.093
+0.002
+0.032
+0.001
+1.04
+1.125
+0.001
+0.033
+1.05
+1.158
+■
+Example 4.2.8
+If f(x) = x3 −2x2 + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4. Verify that the fourth differences are zero.
+x
+f(x) = x3 −2x2 + 1
+∆f(x)
+∆4f(x)
+-1
+From the table we can see that
+∆4f(x) = 0
+■
+Example 4.2.9
+If f(x) = x2 + x + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4, 5. Hence find
+Page 73 of 315
+
+1.) ∆f(0)
+2.) ∆2f(1)
+3.) ∆3f(2)
+x
+f(x) = x2 + x + 1
+∆f(x)
+From the table we can see that ∆2f(x) = 2 = constant and ∆3f(x) = 0
+We note that
+• Given function is f(x) = x2 + x + 1. The highest power is 2, which obviously
+means ∆2f(x) = constant and ∆3f(x) = 0
+• No need to show steps of calculations as shown in ∆f(x), ∆2f(x) and ∆3f(x)
+columns.
+■
+Exercise 4.2.1
+If f(x) = x2 −3x + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4, 5. Verify that the second differences are constants.
+Exercise 4.2.2 If f(x) = 2x2+5, construct a forward difference table by taking x = 0, 2, 4, 6, 8.
+Verify that the third differences are zero.
+Exercise 4.2.3
+If f(x) = 2x3 −x2 + 3x + 1, construct a forward difference table by taking
+x = 0, 1, 2, 3, 4, 5. Verify that the third differences are constant.
+Page 74 of 315
+
+Example 4.2.10
+Given f(x) = x4, form a table of finite differences, for x from x = −2 in steps of one to 5.
+Table 4.5: Showing a finite difference table for f(x) = x4
+xr
+fr
+∆fr
+∆2fr
+∆3fr
+∆4fr
+∆5fr
+−2
+-15
+−1
+−1
+−12
+■
+Note 4.2.1 We note that the fourth differences are constants and fifth differences are all zeros.
+We state the following theorem to support this observation.
+Theorem 4.2.1
+Let Pn(x) be a polynomial of degree n(n ≥1 integer). Then
+1. ∆rPn(x) is a polynomial of degree n −r(r ≥n integer).
+2. ∆nPn(x) = constant.
+3. ∆n+1Pn(x) = 0.
+Thus, parts (2.) and (3.) of the theorem confirm the validity of the results of the difference
+table (4.4) in which fourth order differences are all constants equal to 24 and fifth differences
+are all zero.
+Page 75 of 315
+
+In fact the theorem can help us check the behaviour of a function (not polynomial) on an
+interval. If the nth order differences are fairly constant on an interval for a particular function,
+then such a function more or less behaves like a polynomial of degree n in that interval.
+Exercise 4.2.4 For a polynomial
+P6(x) = x6 −6x2 + 1,
+Construct a table of forward differences on the interval [4, −4] with step size 1.
+Example 4.2.11
+By constructing a forward difference table, find the 7th and 8th terms of a
+sequence 8, 14, 22, 32, 44, 58, . . .
+Let
+f(1) = 8, f(2) = 14, f(3) = 22, f(4) = 32, f(5) = 44, f(6) = 58
+We have to find f(7) and f(8).
+We prepare the following forward difference table
+x
+f(x)
+∆f(x)
+• To find f(7), extra 2 is written in ∆2 column. The entry in ∆f(x) is 14+2 = 16
+is added. The entry in f(x) is 58 + 16 = 74 is added. Thus f(7) = 74.
+• To find f(8), extra 2 is written in ∆2 column. The entry in ∆f(x) is 16+2 = 18
+is added. The entry in f(x) is 74 + 18 = 92 is added. Thus f(8) = 92.
+Thus the 7th and 8th terms of series are 74 and 92 respectively.
+■
+Page 76 of 315
+
+Exercise 4.2.5
+By constructing a forward difference table, find the 6th and 7th terms of a
+sequence 6, 11, 18, 27, 38, . . .
+6, 11, 18, 27, 38, 51, 66, . . .
+■
+Example 4.2.12
+Let a function f(x) is given at the points (0, 7), (4, 43), (8, 367) then find
+the forward difference of the function at x = 4.
+∆f(4) = f(4 + h) −f(4)
+= f(8) −f(4)
+= 367 −43
+= 324
+■
+Example 4.2.13
+Find ∆f(x) for the function x2 + 2x + 3 with h = 2
+=
+
+(x + 2)2 + 2(x + 2) + 3
+
+−
+
+x2 + 2x + 3
+
+= x2 + 4x + 4 + 2x + 4 + 3 −x2 −2x −3
+= 4x + 8
+∆2f(x) =
+
+4(x + 2) + 8
+
+−
+
+4x + 8
+
+= 4x + 8 −4x
+= 8
+∆3f(x) = 8 −8
+= 0
+■
+Page 77 of 315
+
+Example 4.2.14
+If f(x) = ex, construct a forward difference table by taking
+x = 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5
+x
+f(x) = ex
+∆
+∆2
+∆3
+∆4
+∆5
+∆6
+∆7
+∆8
+0.1
+1.10517
+0.05666
+0.15
+1.16183
+0.00291
+0.05957
+0.00015
+0.2
+1.2214
+0.00306
+-0.00001
+0.06263
+0.00014
+0.00005
+0.25
+1.28403
+0.0032
+0.00004
+-0.00011
+0.06583
+0.00018
+-0.00006
+0.00023
+0.3
+1.34986
+0.00338
+-0.00002
+0.00012
+-0.00047
+0.06921
+0.00016
+0.00006
+-0.00024
+0.35
+1.41907
+0.00354
+0.00004
+-0.00012
+0.07275
+0.0002
+-0.00006
+0.4
+1.49182
+0.00374
+-0.00002
+0.07649
+0.00018
+0.45
+1.56831
+0.00392
+0.08041
+0.5
+1.64872
+■
+4.2.1
+Differences as Related to Ordinates
+By definition of the forward difference operator, we have:
+∆fr = fr+1 −fr
+∆2fr = ∆fr+1 −∆fr
+= (fr+2 −fr+1) −(fr+1 −fr)
+= fr+2 −2fr+1 + fr
+∆3fr = ∆2fr+1 −∆2fr
+= (fr+3 −2fr+2 + fr+1) −(fr+2 −2fr+1 + fr)
+= fr+3 −3fr+2 + 3fr+1 −fr
+Exercise 4.2.6
+Show that,
+∆4fr = fr+4 −4fr+3 + 6fr+2 −4fr+1 + fr
+Page 78 of 315
+
+Example 4.2.15
+Table 4.6: Showing a table of forward differences.
+y
+∆y
+∆2y
+∆3y
+∆4y
+∆5y
+∆6y
+y0
+∆y0
+y1
+∆2y0
+∆y1
+∆3y0
+y2
+∆2y1
+∆4y0
+∆y2
+∆3y1
+∆5y0
+y3
+∆2y2
+∆4y1
+∆6y0
+∆y3
+∆3y2
+∆5y1
+y4
+∆2y3
+∆4y2
+∆y4
+∆3y3
+y5
+∆2y4
+∆y5
+y6
+or
+Table 4.7: Forward Differences Table at point of reference.
+y
+∆y
+∆2y
+∆3y
+∆4y
+∆5y
+∆6y
+y0
+∆y0
+∆2y0
+∆3y0
+∆4y0
+∆5y0
+∆6y0
+y1
+∆y1
+∆2y1
+∆3y1
+∆4y1
+∆5y1
+y2
+∆y2
+∆2y2
+∆3y2
+∆4y2
+y3
+∆y3
+∆2y3
+∆3y3
+y4
+∆y4
+∆2y4
+y5
+∆y5
+y6
+Note 4.2.2
+There is an approximate equality between ∆operator and derivative.
+Page 79 of 315
+
+4.3
+The Backward Difference Operator ∇
+Definition 4.3.1
+This is denoted by ∇and defined by the difference equation,
+∇fr = fr −fr−1
+(4.6)
+Exercise 4.3.1
+Show that
+∇nfr = ∇n−1fr −∇n−1fr−1
+before you continue reading.
+Note 4.3.1
+We also note that this operator has a nice property of linearity i.e
+∇(αfr + βgr) = α∇fr + β∇gr
+where α and β are real scalars.
+Example 4.3.1
+Table 4.8: Showing a table of backward differences.
+y0
+∇y1
+y1
+∇2y2
+∇y2
+∇3y3
+y2
+∇2y3
+∇4y4
+∇y3
+∇3y4
+∇5y5
+y3
+∇2y4
+∇4y5
+∇6y6
+∇y4
+∇3y5
+∇5y6
+y4
+∇2y5
+∇4y6
+∇y5
+∇3y6
+y5
+∇2y6
+∇y6
+y6
+or
+Table 4.9: Backward Differences Table
+y
+∇y
+∇2y
+∇3y
+∇4y
+∇5y
+∇6y
+y0
+y1
+∇y1
+y2
+∇y2
+∇2y2
+y3
+∇y3
+∇2y3
+∇3y3
+y4
+∇y4
+∇2y4
+∇3y4
+∇4y4
+y5
+∇y5
+∇2y5
+∇3y5
+∇4y5
+∇5y5
+y6
+∇y6
+∇2y6
+∇3y6
+∇4y6
+∇5y6
+∇6y6
+Page 80 of 315
+
+Example 4.3.2
+Construct the backward difference table for the value of y for x and y given
+below.
+x
+y
+The backward differences for y is given by
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+-5
+-3
+-3
+-1
+-4
+Note that, the forward and backward give the same table, difference is at where you
+position. Compare this example and Example 4.2.11. To see a difference we employ
+Table 4.9 for the Backward difference operator.
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+-5
+-3
+-4
+-1
+-3
+■
+Exercise 4.3.2 Construct a table of backward differences for the polynomial in Exercise 4.2.4.
+Exercise 4.3.3
+Construct a table of backward differences for the function f(x) = ex on the
+interval [−2, 2] with step size 0.5.
+From your results what polynomial function fairly approximate ex on this interval?
+Page 81 of 315
+
+Exercise 4.3.4
+What do you think are the uses of finite difference tables?
+Example 4.3.3
+Construct the backward difference table for the data given below:
+x
+y
+x
+y
+∇y
+∇2y
+∇3y
+or
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+∇5y
+∇6y
+∇7y
+■
+Page 82 of 315
+
+Exercise 4.3.5
+Construct a backward difference table for the following data
+x
+y
+0.174
+0.347
+0.518
+Exercise 4.3.6
+Construct a backward difference table for y = f(x) = x3 + 2x + 1 for
+x = 1, 2, 3, 4, 5.
+Example 4.3.4
+By constructing a difference table and using the second order differences as
+constant, find the sixth term of the series 8, 12, 19, 29, 42 . . .
+Page 83 of 315
+
+4.3.1
+Relation between ∆and ∇
+1.)
+(1 + ∆) (1 −∇) ≡1
+(4.7)
+(1 + ∆)(1 −∇)f(x) = (1 + ∆)[f(x) −f(x) + f(x −h)]
+= (1 + ∆)f(x −h)
+= f(x −h) + f(x) −f(x −h)
+= f(x)
+(1 + ∆)(1 −∇) ≡1
+■
+2.)
+∆∇≡∇∆
+(4.8)
+∆∇f(x) = ∆[f(x) −f(x −h)] = f(x + h) −2f(x) + f(x −h)
+and
+∇∆f(x) = ∇[f(x + h) −f(x)] = [f(x + h) −f(x)] −[f(x) −f(x −h)]
+= f(x + h) −2f(x) + f(x −h)
+∆∇≡∇∆
+■
+3.)
+∆∇≡∆−∇
+(4.9)
+∇f(x) = f(x) −f(x −h)
+But
+∆−∇)(f(x)) = ∆f(x) −∇f(x)
+= [f(x + h) −f(x)] −[f(x) −f(x −h)]
+= ∆f(x) −∆f(x −h)
+= ∆[f(x) −f(x −h)]
+= ∆[∇f(x)]
+∆−∇= ∆∇
+■
+Page 84 of 315
+
+4.3.2
+Properties of Forward and Backward Finite Difference Operators
+1. Constant rule: If c is a constant, then
+(a)
+∆c = 0
+(4.10)
+Let f(x) = c
+f(x + h) = c
+(where h is the interval of difference)
+∆c = ∆f(x) = f(x + h) −f(x) = c −c = 0
+■
+(b)
+∇c = 0
+(4.11)
+2. Linearity: if a and b are constants,
+(a)
+∆(af + bg) = a ∆f + b ∆g
+(4.12)
+∆[f(x) + g(x)] = [f(x + h) + g(x + h)] −[f(x) + g(x)]
+= f(x + h) + g(x + h) −f(x) −g(x)
+= f(x + h) −f(x) + g(x + h) −g(x)
+= ∆f(x) + ∆g(x)
+and
+∆[cf(x)] = cf(x + h) −cf(x)
+= c[f(x + h) −f(x)]
+= c∆f(x)
+Thus the proof
+■
+(b)
+∇(af + bg) = a ∇f + b ∇g
+(4.13)
+3. Product rule:
+(a)
+∆(fg) = f ∆g + g ∆f + ∆f ∆g
+(4.14)
+∆[f(x)g(x)] = f(x + h)g(x + h) −f(x)g(x)
+= f(x + h)g(x + h) −f(x + h)g(x) + f(x + h)g(x) −f(x)g(x)
+= f(x + h)[g(x + h) −g(x)] + g(x)[f(x + h) −f(x)]
+= f(x + h)∆g(x) + g(x)∆f(x)
+■
+Page 85 of 315
+
+Also, it can be shown that
+∆[f(x)g(x)] = f(x)∆g(x) + g(x + h)∆f(x)
+= f(x)∆g(x) + g(x)∆f(x) + ∆f(x)∆g(x)
+(b)
+∇(fg) = f ∇g + g ∇f −∇f ∇g
+(4.15)
+4. Quotient rule:
+(a)
+∆
+f(x)
+g(x)
+
+= g(x)∆f(x) −f(x)∆g(x)
+(4.16)
+∆
+f(x)
+g(x)
+
+= f(x + h)
+g(x + h) −f(x)
+g(x)
+= f(x + h)g(x) −f(x)g(x + h)
+= f(x + h)g(x) −f(x)g(x) + f(x)g(x) −f(x)g(x + h)
+= g(x)[f(x + h) −f(x)] −f(x)[g(x + h) −g(x)]
+= g(x)∆f(x) −f(x)∆g(x)
+■
+(b)
+∇
+f
+g
+
+= 1
+g det
+∇f
+∇g
+f
+g
+ 
+det
+g
+∇g
+−1
+or
+∇
+f
+g
+
+= g ∇f −f ∇g
+g · (g −∇g)
+(4.17)
+5. Summation rules:
+(a)
+b
+X
+n=a
+∆f(n) = f(b + 1) −f(a)
+(4.18)
+(b)
+b
+X
+n=a
+∇f(n) = f(b) −f(a −1)
+(4.19)
+Page 86 of 315
+
+4.4
+The Shift Operator E
+Definition 4.4.1 The shift operator is denoted by E and defined by
+Efr = fr+1
+(4.20)
+A shift operator is like a jump forward.
+Remark 4.4.1 E is called the shifting operator . It is also called the displacement operator.
+Example 4.4.1
+Table 4.10: Shift Differences Table
+y
+Ey
+E2y
+E3y
+E4y
+E5y
+y0
+y1
+y2
+y3
+y4
+y5
+y1
+y2
+y3
+y4
+y5
+y2
+y3
+y4
+y5
+y3
+y4
+y5
+y4
+y5
+y5
+Note 4.4.1
+By Definition 4.4.1 we can define higher order shift operators as,
+E(Efr) = Efr+1 = fr+2.
+We usually denote
+E(Efr) = E2fr
+and,
+Ekfr = E(Ek−1fr) = fr+k.
+Remark 4.4.2
+For k negative, we get what is known as the backward shift. For example
+E−1fr is a backward shift defined by,
+E−1fr = fr−1
+We also note that k can be fractional.
+Example 4.4.2
+Find E
+2fr and E−5fr.
+By definitions of the forward and backward shifts i.e.
+Efr = fr+1
+and
+E−1fr = fr−1
+we have,
+E
+2fr = fr+ 1
+and
+E−5fr = fr−5.
+■
+Page 87 of 315
+
+Example 4.4.3
+Given the set of values
+y = −2, 2, 5, 6, 8, 12, 13
+then
+1.) E(2) = 5
+2.) E(8) = 12
+3.) E3(−2) = 6
+4.) E−1(13) = 12
+Example 4.4.4
+Given y0 = 1, y1 = 11, y2 = 21, y3 = 28 and y4 = 29.
+1.)
+E4y0 = y4 = 29
+2.)
+E3y0 = y3 = 28
+3.)
+E2y0 = y2 = 21
+4.)
+Ey0 = y1 = 11
+4.4.1
+Relation between ∆and E
+∆= E −1
+(4.21)
+E = ∆+ 1
+(4.22)
+= Ef(x) −f(x)
+= (E −1)f(x)
+∆≡E −1
+■
+4.4.2
+Relation between ∇and E
+∇= 1 −E−1
+(4.23)
+E = (1 −∇)−1
+(4.24)
+∇f(x) = f(x) −f(x −h)
+= f(x) −E−1f(x)
+= (1 −E−1)f(x)
+∇≡1 −E−1
+■
+Page 88 of 315
+
+Remark 4.4.3
+Property equ (4.23) can be also expressed as
+∇= 1 −E−1
+= 1 −1
+E
+= E −1
+E
+hence
+∇= E −1
+E
+(4.25)
+4.4.3
+Relation between ∆, ∇and E
+Example 4.4.5
+Show that
+∆= E∇
+(4.26)
+Since
+E∇fr = E(∇fr)
+= E(fr −fr−1)
+= Efr −Efr−1 (because of linearity of E)
+= fr+1 −fr (By definition of E)
+= ∆fr
+Hence shown.
+■
+Remark 4.4.4
+Relation equ (4.26) can be rewritten as
+∆= E∇
+E−1∆= E−1E∇
+E−1∆= ∇
+∇= E−1∆
+(4.27)
+∇f(x) = f(x) −f(x −h) = ∆f(x −h) = ∆E−1f(x)
+∇= ∆E−1
+■
+4.4.4
+Differences in terms of pivoted values
+From the relation
+∆kfr = (E −1)kfr,
+We can easily show that
+∆kfr =
+ k
+
+fr+k −
+ k
+
+fr+k−1 +
+ k
+
+fr+k−2 + . . .
+Try and show this before you continue. Recall:
+ k
+r
+
+=
+k!
+r!(k −r)!.
+Page 89 of 315
+
+Example 4.4.6
+Express ∆3f0 in terms of pivoted values.
+Since
+∆kfr =
+ k
+
+fr+k −
+ k
+
+fr+k−1 +
+ k
+
+fr+k−2 + . . .
+∆3f0 =
+ 3
+
+f3+0 −
+ 3
+
+f3+0−1 +
+ 3
+
+f3+0−2 −
+ 3
+
+f3+0−3
+=
+ 3
+
+f3 −
+ 3
+
+f2 +
+ 3
+
+f1 −
+ 3
+
+f0
+= f3 −3f2 + 3f1 −f0
+■
+Example 4.4.7
+Construct the shift difference table for the value of y given below.
+x
+y
+x
+y
+Ey
+E2y
+E3y
+E4y
+■
+Page 90 of 315
+
+4.5
+The Central Difference Operator δ
+Definition 4.5.1 The central difference operator is denoted by δ and defined by the equation
+δfr = fr+ 1
+2 −fr−1
+(4.28)
+Example 4.5.1
+δfr+ 1
+2 = fr+ 1
+2 + 1
+2 −fr+ 1
+2 −1
+δfr+ 1
+2 = fr+1 −fr
+(4.29)
+Note 4.5.1 Central difference is the difference between the upper (forward) and lower (backward) values.
+Example 4.5.2
+1.) δf 1
+2 = f1 −f0
+2.) δf 3
+2 = f2 −f1
+Example 4.5.3
+δ2fr = δfr+ 1
+2 −δfr−1
+= (fr+1 −fr) −(fr −fr−1)
+= fr+1 −2fr + fr−1
+With higher order differences defined by
+δkfr = δk−1fr+ 1
+2 −δk−1fr−1
+2.
+Exercise 4.5.1
+Determine the expressions for
+1.) δ3fr
+2.) δ4fr
+Example 4.5.4
+Table 4.11: Showing a table of central differences using Eqn (4.29), subtractions
+y
+δy
+δ2y
+δ3y
+δ4y
+δ5y
+δ6y
+y0
+δy 1
+y1
+δ2y1
+δy 3
+δ3y 3
+y2
+δ2y2
+δ4y2
+δy 5
+δ3y 5
+δ5y 5
+y3
+δ2y3
+δ4y3
+δ6y3
+δy 7
+δ3y 7
+δ5y 7
+y4
+δ2y4
+δ4y4
+δy 9
+δ3y 9
+y5
+δ2y5
+δy 11
+y6
+Page 91 of 315
+
+Example 4.5.5
+Draw the central difference operator table for f(x) = 2x, 0(1)6
+Table 4.12: Showing a table of central differences.
+x
+y
+δy
+δ2y
+δ3y
+δ4y
+δ5y
+δ6y
+Page 92 of 315
+
+4.5.1
+Relation between δ and E
+From,
+δfr = fr+ 1
+2 −fr−1
+and
+E
+2fr = fr+ 1
+and
+E−1
+2fr = fr−1
+2,
+we get
+δfr = (E
+2 −E−1
+2)fr
+and hence conclude that;
+δ = E1/2 −E−1/2
+(4.30)
+δ = E1/2(1 −E−1)
+(4.31)
+4.5.2
+Relation between δ and ∆
+∆= 1
+2δ2 + δ
+r
+(4.32)
+We know that
+∆= E −1 and δ = E1/2 −E−1/2
+2δ2 + δ
+r
+= 1
+
+2
++
+
+
+v
+u
+u
+u
+t
+1 +
+
+2
+= 1
+
+
++
+
+
+v
+u
+u
+u
+t
+1 +
+
+
+= E
+−1 +
+
+
+v
+u
+u
+u
+t
+
+E1/2 + E−1/2
+2
+= E
+−1 +
+
+
+
+E1/2 + E−1/2
+
+= E
+−1 +
+
+E −E−1
+
+= E
+−1 + E
+2 −E−1
+= E −1
+= ∆
+■
+Page 93 of 315
+
+4.6. AVERAGING OPERATOR μ
+4.6
+Averaging Operator μ
+Definition 4.6.1
+The averaging operator is denoted by u and defined by the equation,
+μfr = 1
+n
+fr+ 1
+2 + fr−1
+o
+(4.33)
+or alternatively given by
+μfr+ 1
+2 = 1
+
+fr+1 + fr
+
+(4.34)
+Example 4.6.1
+Table 4.13: Showing a table of Averaging Operator
+y
+μy
+μ2y
+μ3y
+μ4y
+μ5y
+μ6y
+y0
+μy 1
+y1
+μ2y1
+μy 3
+μ3y 3
+y2
+μ2y2
+μ4y2
+μy 5
+μ3y 5
+μ5y 5
+y3
+μ2y3
+μ4y3
+μ6y3
+μy 7
+μ3y 7
+μ5y 7
+y4
+μ2y4
+μ4y4
+μy 9
+μ3y 9
+y5
+μ2y5
+μy 11
+y6
+Page 94 of 315
+
+4.6. AVERAGING OPERATOR μ
+Example 4.6.2
+Draw the central difference operator table for f(x) = 2x, 0(1)6
+Table 4.14: Showing a table of Averaging.
+x
+y
+μy
+μ2y
+μ3y
+μ4y
+μ5y
+μ6y
+1.5
+2.25
+3.375
+4.5
+5.0625
+6.75
+3.0375
+1.0125
+6.834375
+13.5
+10.63125
+20.25
+Page 95 of 315
+
+4.7
+Relations between Multi Operators
+1.)
+μδ ≡∆+ ∇
+(4.35)
+∆+ ∇
+= 1
+
+[∆f(x) + ∇f(x)
+
+= 1
+
+f(x + h) −f(x) + f(x) −f(x −h)
+
+= 1
+
+f(x + h) −f(x −h)
+
+= 1
+
+= μδf(x)
+Thus,
+μδ ≡∆+ ∇
+■
+2.)
+∆∇≡∇∆≡δ2
+(4.36)
+∆∇f(x) = ∆[f(x) −f(x −h)]
+= f(x + h) −2f(x) + f(x −h)
+Again,
+∇∆f(x) = f(x + h) −2f(x) + f(x −h)
+= (E −2 + E−1)f(x)
+=
+ E1/2 −E−1/22 f(x)
+= δ2f(x)
+Hence,
+∆∇≡r∆≡
+ E1/2 −E−1/22 ≡δ
+■
+3.)
+μδ ≡∆E−1
++ ∆
+(4.37)
+Page 96 of 315
+
+∆E−1
++ ∆
+
+2 [∆f(x −h) + ∆f(x)]
+= 1
+
+f(x) −f(x −h) + f(x + h) −f(x)
+
+= 1
+
+f(x + h) −f(x −h)
+
+= 1
+
+f(x)
+= 1
+ E1/2 + E−1/2  E1/2 −E−1/2
+f(x)
+= μδf(x)
+Hence
+∆E−1
++ ∆
+2 ≡μδ
+■
+4.)
+E
+2 ≡μ + δ
+(4.38)
+
+μ + δ
+
+f(x) =
+1
+
+E1/2 + E−1/2
++ 1
+
+E1/2 −E−1/2
+f(x) = E1/2f(x)
+Thus
+E
+2 ≡μ + δ
+■
+5.)
+1 + δ2μ2 ≡
+
+2
+(4.39)
+δμf(x) = 1
+ E1/2 + E−1/2  E1/2 −E−1/2
+
+f(x)
+ 1 + δ2μ2
+f(x) =
+
+1 + 1
+ E −E−12
+
+f(x)
+=
+
+1 + 1
+ E2 −2 + E−2
+f(x)
+= 1
+ E + E−12 f(x)
+=
+
+1 + 1
+ E1/2 −E−1/222
+f(x)
+=
+
+
+f(x)
+Page 97 of 315
+
+Hence
+1 + δ2μ2 ≡
+
+2
+■
+6.)
+∆≡δ2
+2 + δ
+r
+(4.40)
+Proof:"
+δ2
+2 + δ
+r
+#
+f(x)
+= 1
+ E1/2 −E−1/22 f(x) +
+"
+ E1/2 −E−1/2 r
+1 + 1
+4 (E1/2 −E−1/2)2
+#
+f(x)
+= 1
+
+
+f(x) + 1
+ E1/2 −E−1/2  E1/2 + E−1/2
+f(x)
+= 1
+
+
+f(x) + 1
+ E −E−1
+f(x)
+= (E −1)f(x)
+Hence,
+δ2
+2 + δ
+r
+4 ≡E −1 ≡∆
+■
+E
+∆
+∇
+δ
+E
+E
+∆+ 1
+(1 −∇)−1
+2 + δ
+r
+∆
+E −1
+∆
+(1 −∇)−1 −1
+δ2
+2 + δ
+r
+∇
+1 −E−1
+1 −(1 −∇)−1
+∇
+−δ2
+2 + δ
+r
+δ
+∆(1 + ∆)−1/2
+∇(1 + ∇)−1/2
+δ
+μ
+
+1 + ∆
+
+(1 + ∆)−1/2
+
+1 + ∇
+
+(1 + ∇)−1/2
+Table 4.15: It is shown that any operator can be expressed with the help of another operator.
+Page 98 of 315
+
+4.8
+Finite Difference Operators Examples
+Example 4.8.1 Compute
+∆2
+
+
+using h = 1.
+∆2
+
+
+= ∆2
+
+
+= ∆2
+
+
+= ∆2
+
+x + 3
+
+, partial fraction
+= ∆∆
+
+x + 3
+
+= ∆
+
+∆
+
+x + 2
+
+−∆
+
+x + 3
+
+= ∆
+
+x + 2
+
+−
+
+x + 3
+
+= ∆
+
+x + 4
+
+= ∆
+
+x + 3
+
+−∆
+
+x + 2
+
+−∆
+
+x + 4
+
+=
+
+x + 3
+
+−
+
+x + 2
+
+−
+
+x + 5 −
+x + 4
+
+=
+x + 5
+■
+Example 4.8.2
+Evaluate
+∆tan−1 x
+∆tan−1 x = tan−1(x + h) −tan−1 x
+ x + h −x
+1 + x(x + h)
+
+
+h
+1 + x2 + xh
+
+Applied the identity
+tan−1 A −tan−1 B = tan−1
+ A −B
+1 + AB
+
+■
+Page 99 of 315
+
+Example 4.8.3
+Evaluate
+∆tan−1 x
+∆tan−1 x = tan−1(x + h) −tan−1 x
+ x + h −x
+1 + x(x + h)
+
+
+h
+1 + x2 + xh
+
+Applied the identity
+tan−1 A −tan−1 B = tan−1
+ A −B
+1 + AB
+
+■
+Example 4.8.4
+Forward differences can be written in a tabular form as follows:
+x
+y
+∆y
+∆2y
+∆3y
+x0
+y0 = f(x0)
+∆y0 = y1 −y0
+x1
+y1 = f(x1)
+∆2y0 = ∆y1 −∆y0
+∆y1 = y2 −y1
+∆3y0 = ∆2y1 −∆2y0
+x2
+y2 = f(x2)
+∆2y1 = ∆y2 −∆y1
+∆y2 = y3 −y2
+x3
+y3 = f(x3)
+Page 100 of 315
+
+Example 4.8.5
+Construct the forward difference table for the following x values and its
+corresponding f values.
+x
+0.1
+0.3
+0.5
+0.7
+0.9
+1.1
+1.3
+f
+0.003
+0.067
+0.148
+0.248
+0.370
+0.518
+0.697
+x
+f
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+0.1
+0.003
+0.064
+0.3
+0.067
+0.017
+0.081
+0.002
+0.5
+0.148
+0.019
+0.001
+0.100
+0.003
+0.000
+0.7
+0.248
+0.022
+0.001
+0.122
+0.004
+0.000
+0.9
+0.370
+0.026
+0.001
+0.148
+0.005
+1.1
+0.518
+0.031
+0.179
+1.3
+0.697
+Example 4.8.6
+Construct the forward difference table, where f(x) = 1
+x, x = 1(0.2)2, 4D.
+∆f
+∆2f
+x
+x
+first
+second
+∆3f
+∆4f
+∆5
+difference
+difference
+1.0
+1.000
+−0.1667
+1.2
+0.8333
+0.0477
+−0.1190
+−0.0180
+1.4
+0.7143
+0.0297
+0.0082
+−0.0045
+−0.0893
+−0.0098
+1.6
+0.6250
+0.0199
+0.0037
+−0.0694
+−0.0061
+1.8
+0.5556
+0.0138
+−0.0556
+2.0
+0.5000
+Page 101 of 315
+
+Example 4.8.7
+Construct the forward difference table for the data
+x
+:
+−2
+:
+The forward difference table is as follows:
+x
+∆y
+∆2y
+∆3y
+−2
+∆y0 = 5
+∆2y0 = 3
+∆y1 = 8
+∆3y0 = −6
+∆2y1 = −3
+∆y2 = 5
+Example 4.8.8
+Forward Difference Table
+x
+f
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+∆6f
+x0
+f0
+x1
+f1
+∆f0
+∆2f0
+∆3f0
+x2
+f2
+∆f1
+∆2f2
+∆4f0
+∆3f1
+∆5f0
+x3
+f3
+∆f2
+∆2f2
+∆4f1
+∆6f0
+∆3f2
+∆5f1
+x4
+f4
+∆f3
+∆2f3
+∆4f2
+∆3f3
+x5
+f5
+∆f4
+∆2f4
+∆f5
+x6
+f6
+Example 4.8.9
+Express ∆2f0 and ∆3f0 in terms of the values of the function f.
+∆2f0 = ∆f1 −∆f0 = f2 −f1 −(f1 −f0) = f2 −2f1 + f0
+∆3f0 = ∆2f1 −∆2f0 = ∆f2 −∆f1(∆f1 −∆f0)
+= (f3 −f2) −(f2 −f1) −(f2 −f1) + (f1 −f0)
+= f3 −3f2 + 3f1 −f0
+Page 102 of 315
+
+In general,
+∆nf0 = fn −n C1fn−1 +n C2fn−2 −n C3fn−3 + · · · + (−1)nf0.
+If we write yn to denote fn the above results takes the following forms:
+∆2y0 = y2 −2y1 + y0
+∆3y0 = y3 −3y2 + 3y1 −y0
+∆ny0 = yn −n C1yn−1 +n C2yn−2 −2 −n C3yn−3 + · · · + (−1)ny0
+Example 4.8.10 Show that the value of yn can be expressed in terms of the leading value y0
+and the leading differences ∆y0, ∆2y0, . . . , ∆ny0.
+(For notational convenience, we treat yn as fn and so on.)
+From the forward difference table we have
+∆f0 = f1 −f0
+or
+f1 = f0 + ∆f0
+∆f1 = f2 −f1
+or
+f2 = f1 + ∆f1
+∆f2 = f3 −f2
+or
+f3 = f2 + ∆f2
+
+
+
+and so on. Similarly,
+∆2f0 = ∆f1 −∆f0
+or
+∆f1 = ∆f0 + ∆2f0
+∆2f1 = ∆f2 −∆f1
+or
+∆f2 = ∆f1 + ∆2f1
+
+and so on. Similarly, we can write
+∆3f0 = ∆2f1 −∆2f0
+or
+∆2f1 = ∆2f0 + ∆3f0
+∆3f1 = ∆2f2 −∆2f1
+or
+∆2f2 = ∆2f1 + ∆3f1
+
+and so on. Also, we can write f2 as
+f2 = (f0 + ∆f0) + (∆f0 + ∆2f0)
+= f0 + 2∆f0 + ∆2f0
+= (1 + ∆)2f0
+Hence
+f3 = f2 + ∆f2
+= (f1 + ∆f1) + ∆f0 + 2∆2f0 + ∆3f0
+= f0 + 3∆f0 + 3∆2f0 + ∆3f0
+= (1 + ∆)3f0
+That is, we can symbolically write
+f1 = (1 + ∆)f0, f2 = (1 + ∆)2f0, f3 = (1 + ∆)3f0
+Continuing this procedure, we can show, in general
+fn = (1 + ∆)nf0
+Using binomial expansion, the above is
+fn = f0 +n C1∆f0 +n C2∆2f0 + · · · + ∆nf0
+Thus
+fn =
+n
+X
+i=0
+nCi∆if0
+■
+Page 103 of 315
+
+Example 4.8.11
+Construct the backward difference table for the data
+x
+:
+−2
+:
+−8
+The backward difference table is as follows:
+x
+Y = f(x)
+∇y
+∇2y
+∇3y
+−2
+−8
+∇y1 = 3 −(−8) = 11
+∇2y2 = −2 −11 = −13
+∇y2 = 1 −3 = −2
+∇3y3 = 13 −(−13) = 26
+∇2y3 = 11 −(2) = 13
+∇y3 = 12 −1 = 11
+■
+Example 4.8.12
+Construct a forward difference table for the following data
+x
+y
+0.174
+0.347
+0.518
+The Forward difference table is given below
+x
+y
+∆y
+∆2y
+∆3y
+0.174
+0.174
+−0.001
+0.173
+0.347
+−0.002
+0.171
+0.518
+■
+Page 104 of 315
+
+Example 4.8.13
+Construct a forward difference table for y = f(x) = x3 + 2x + 1 for x =
+1, 2, 3, 4, 5
+y = f(x) = x3 + 2x + 1 for x = 1, 2, 3, 4, 5
+x
+y
+∆y
+∆2y
+∆3y
+∆4y
+■
+Example 4.8.14 By constructing a difference table and using the second order differences as
+constant, find the sixth term of the series 8, 12, 19, 29, 42 . . .
+Let k be the sixth term of the series in the difference table
+First we find the forward differences.
+x
+y
+∆
+∆2
+k −55
+k −42
+k
+Given that the second differences are constant
+∴k–55 = 3
+k = 58
+∴the sixth term of the series is 58
+Page 105 of 315
+
+■
+Example 4.8.15
+Find
+1.) ∆eax
+∆eax = ea(x+h) −eax
+= eax.eh −eax
+= eax 
+eh −1
+
+
+∵am+n = am.an
+■
+2.) ∆2ex
+∆2ex = ∆. [∆ex]
+= ∆
+
+ex+h −ex
+= ∆
+
+exeh −ex
+= ∆ex 
+eh −1
+
+= (eh −1)∆ex
+= (eh −1).(eh −1).ex
+= (eh −1)2.ex
+■
+3.) ∆log x
+∆log x = log(x + h) −log x
+= log x + h
+x
+= log
+x
+x + h
+x
+
+= log
+
+1 + h
+x
+
+■
+Page 106 of 315
+
+Example 4.8.16
+Evaluate ∆
+
+
+by taking ‘1’ as the interval of differencing.
+∆
+
+
+By Partial fraction method
+x2 + 5x + 6 =
+A
+B
+x + 2
+A = 5x + 12
+x + 2 [x = −3] = −15 + 12
+−1
+= −3
+−1 = 3
+B = 5x + 12
+x + 3 [x = −2]
+= 2
+1 = 2
+x2 + 5x + 6 =
+
+x + 2
+
+∆
+
+
+= ∆
+
+x + 2
+
+=
+
+x + 1 + 3 −
+x + 3
+
++
+
+x + 1 + 2 −
+x + 2
+
+= 3
+
+x + 3
+
++ 2
+
+x + 2
+
+=
+
+−3
+(x + 4)(x + 3) −
+
+=
+−5x −14
+(x + 2)(x + 3)(x + 4)
+■
+Example 4.8.17
+Evaluate ∆2
+1
+x
+
+by taking ‘1’ as the interval of differencing.
+∆2
+1
+x
+
+= ∆
+
+∆
+1
+x
+
+Page 107 of 315
+
+Now
+∆
+1
+x
+
+=
+x + 1 −1
+x
+∆2
+1
+x
+
+= ∆
+
+1 + x −1
+x
+
+= ∆
+
+1 + x
+
+−∆
+1
+x
+
+Similarly
+∆2
+1
+x
+
+=
+x(x + 1)(x + 2)
+Generally
+∆n
+1
+x
+
+=
+(−1)nn!
+x(x + 1)(x + 2) . . . (x + n)
+■
+Example 4.8.18 Prove that f(4) = f(3)+∆f(2)+∆2f(1)+∆3f(1) taking ‘1’ as the interval
+of differencing.
+We know that f(4) −f(3) = ∆f(3)
+f(4) −f(3) = ∆f(3)
+= ∆[f(2) + ∆f(2)] i.e. [f(3) −f(2) = ∆f(2)]
+= ∆f(2) + ∆2f(2)
+= ∆f(2) + ∆2[f(1) + ∆f(1)]
+f(4) = f(3) + ∆f(2) + ∆2f(1) + ∆3f(1)
+■
+Example 4.8.19
+Given U0 = 1, U1 = 11, U2 = 21, U3 = 28 and U4 = 29 find ∆4U0
+∆4U0 = (E −1)4U0
+=
+ e4 −4E3 + 6E + 1
+
+U0
+= E4U0 −4E3U0 + 6E2U0 −4EU0 + U0
+= U4 −4U3 + 6U2 −4U1 + U0
+= 29 −4(28) + 6(21) −4(11) + 1.
+= 156 −156 = 0
+■
+Page 108 of 315
+
+Example 4.8.20
+Given that y3 = 2, y4 = −6, y5 = 8, y6 = 9 and y7 = 17 Calculate ∆4y3
+Given that y3 = 2, y4 = −6, y5 = 8, y6 = 9 and y7 = 17
+∆4y3 = (E −1)4y3
+=
+ E4 −4E3 + 6E2 −4E + 1
+
+y3
+= E4y3 −4E3y3 + 6E2y3 −4Ey3 + y3
+= y7 −4y6 + 6y5 −4y4 + y3
+= 17 −4(9) + 6(8) −4(−6) + 2
+= 17 −36 + 48 + 24 + 2 = 55
+■
+Example 4.8.21
+From the following table find the missing value
+x
+f(x)
+45.0
+49.2
+54.1
+−
+67.4
+Since only four values of f(x) are given, the polynomial which fits the
+data is of degree three. Hence fourth differences are zeros.
+(ie)
+∆4y0 = 0, ∴(E −1)4y0 = 0
+(E4 −4E3 + 6E2 −4E + 1)y0 = 0
+E4y0 −4E3y0 + 6E2y0 −4Ey0 + y0 = 0
+67.4 −4y3 + 6(54.1) −4(4.2) + 45 = 0
+240.2 = 4y3 ∴y3 = 60.05
+■
+Example 4.8.22
+Estimate the production for 1964 and 1966 from the following data
+Year
+Production
+−
+−
+Since five values are given, the polynomial which fits the data is of degree four.
+Hence ∆5yk = 0 (ie) (E −1)5yk = 0
+i.e; (E5 −5E4 + 10E3 −10E2 + 5E −1)yk = 0
+E5yk −5E4yk + 10E3yk −10E2yk + 5Eyk −yk = 0
+(4.41)
+Page 109 of 315
+
+Put k = 0 in (4.41)
+E5y0 −5E4y0 + 10E3y0 −10E2y0 + 5Ey0 −y0 = 0
+y5 −5y4 + 10y3 −10y2 + 5y1 −y0 = 0
+y5 −5(350) + 10y3 −10(260) + 5(220) −200 = 0
+y5 + 10y3 = 3450
+(4.42)
+Put k = 1 in (4.41)
+E5y1 −5E4y1 + 10E3y1 −10E3y1 −y1 = 0
+y6 −5y5 + 10y4 −10y3 −y1 = 0
+430 −5y5 + 10(350) −10y3 + 5(260) −220 = 0
+5y5 + 10y3 = 5010
+(4.43)
+(4.43) −(4.42) ⇒4y5 = 1560
+y5 = 390
+From 390 + 10y3 = 3450
+10y3 = 3450 −390
+y3 ∼= 306
+■
+Example 4.8.23
+Evaluate ∆(log ax) .
+∆(log ax) = log a(x + h) −log(ax)
+= log
+ax + ah
+ax
+
+= log
+ax
+ax + ah
+ax
+
+= log
+
+1 + ah
+ax
+
+∴∆(log ax) = log
+
+1 + h
+x
+
+■
+Example 4.8.24
+If y = x3 −x2 + x −1 calculate the values of y for x = 0, 1, 2, 3, 4, 5 and
+form the forward differences table.
+Page 110 of 315
+
+When x = 0, y = 0 + 0 + 0 −1 ⇒y = −1
+When x = 1, y = 13 −12 + 1 −1 ⇒y = 0.
+When x = 2, y = 23 −22 + 2 −1 ⇒y = 8 −4 + 1 ⇒y = 5
+When x = 3, y = 33 −32 + 3 −1 ⇒y = 27 −9 + 2 ⇒y = 20
+When x = 4, y = 43 −42 + 4 −1 ⇒y = 64 −16 + 3 ⇒y = 51
+When x = 5, y = 53 −52 + 5 −1 ⇒y = 125 −25 + 4 ⇒y = 104.
+Hence, the forward difference table is
+x
+y
+∆y
+∆2y
+∆3y
+∆4y
+∆5y
+−1
+■
+Example 4.8.25
+If h = 1 then prove that (E−1∆)x3 = 3x2 −3x + 1 .
+Given h = 1
+LHS= (E−1∆)x3
+=∆(E−1(x3))
+= ∆(x −h)3
+[∵E−1f(x) = f(x −nh)]
+= ∆(x −1)3
+[∵h = 1]
+= (x −1 + 1)3 −(x −1)3
+[∵∆f(x) = f(x + h) −f(x)]
+= x3 −(x −1)3
+= x3 −(x3 −3x2 + 3x −1)
+[∵(a −b)3 = a3 −3a2b + 3ab2 −b3]
+= x3 −x3 + 3x + 1
+= 3x2 −3x + 1
+= RHS
+Hence proved.
+■
+Example 4.8.26
+If f(x) = x2 + 3x than show that ∆f(x) = 2x + 4
+Given f(x) = x2 + 3h
+LHS = ∆f(x)
+= f(x + h) −f(x)
+= [(x + h)2 + 3(x + h)] −[x2 + 3x]
+= x2 + h2 + 2xh + 3x + 3h −x2 −3x
+= h2 + 2xh + 3h
+Page 111 of 315
+
+when
+h = 1, LHS = 12 + 2x(1) + 3(1)
+= 1 + 2x + 3
+= 2x + 4 = RHS.
+Hence proved
+■
+Example 4.8.27
+Evaluate ∆[1/(x + 1)(x + 2)] by taking ‘1’ as the interval of differencing
+By partial fraction method
+(x + 1)(x + 2) =
+A
+x + 1 +
+B
+x + 2.
+⇒
+(x + 1)
+(x + 2) = A(x + 2) + B(x + 1)
+(x + 1)
+(x + 2)
+⇒1 = A(x + 2) + B(x + 1)
+When x = −1, 1 = A[−1 + 2] ⇒1 = A
+When x = −2, 1 = B[−2 + 1] ⇒1 = −B
+⇒B = −1
+∴
+(x + 1)(x + 2) =
+x + 2
+∴∆
+
+(x + 1)(x + 2)
+
+= ∆
+
+x + 2
+
+=
+
+x + 1 + 1 −
+x + 1
+
+−
+
+x + 1 + 2 −
+x + 2
+
+[∵∆f(x) = f(x + 1) −f(x)]
+=
+
+x + 1
+
+−
+
+x + 2
+
+Where h = 1
+=
+x + 2
+=
+x + 3
+= 2(x + 1)(x + 3) −1(x + 2)(x + 3) −1(x + 1)(x + 2)
+2(x2 + 4x + 3) −(x2 + 5x + 6) −(x2 + 3x + 2)
+= 2x2 + 8x + 6 −x2 −5x −6 −x2 −3x −2
+=
+
+2x2 + 
+8x −
+8x −
+2x2 −2
+=
+−2
+∴= ∆
+
+(x + 1)(x + 2)
+
+=
+−2
+■
+Page 112 of 315
+
+Example 4.8.28
+Find the missing entry in the following table
+x
+yx
+−
+Since only four values of f(x) are given, the polynomial which fits the
+data is of degree 3.
+Hence four differences are zero.
+∆4 (y0) = 0
+(E −1)4 (y0) = 0
+ E4 −4E3 + 6E2 −4E + 1
+
+(y0) = 0
+81 −4(y3) + 6(9) −4(3) + 1 = 0
+81 −4y3 + 54 −12 + 1 = 0
+81 + 54 −11 = 4y3
+124 = 4y3 ⇒y3 = 124
+= 31.
+y3 = 31
+■
+Example 4.8.29
+Following are the population of a district
+Year (x)
+Population (y)Thousands
+−
+Find the population of the year 1911
+Since only five values of f(x) are given, the polynomial which fits the
+data is of degree 4.
+Hence fifth differences are zeros.
+∴∆5y0 = 0
+(E −1)5y0 = 0
+(E5 −5E4 + 10E3 −10E2 + 5E −1)y0 = 0
+y5 −5y4 + 10y3 −10y2 + 5y1 −y0 = 0
+501 −5(467) + 10y3 −10(421) + 5(391) −363 = 0
+501 −2335 + 10y3 −4210 + 1955 −363 = 0
+10y3 −4352 = 0
+10y3 = 4352
+y3 = 4352
+= 435.2
+Since the population is given in thousands, population of the year 1911
+= 435.2 × 1000 = 435200
+■
+Page 113 of 315
+
+Example 4.8.30
+Find the missing entries from the following.
+x
+−
+−
+Let the missing entries by y1 and y4
+Since only four values of f(x) are given, the polynomial which fits the data is of
+degree 3.
+Hence fourth differences are zero
+∴∆4yk = 0 ⇒(E −1)4yk = 0
+(E4 −4E3 + 6E2 −4E + 1)yk = 0
+(4.44)
+Put k = 0 in (1) we get,
+(E4 −4E3 + 6E2 −4E + 1)y0 = 0
+y4 −4(15) + 6(8) −4(y1) + 0 = 0
+y4 −60 + 48 −4y1 = 0
+y4 −4y1 −12 = 0
+y4 −4y1 = 12
+(4.45)
+Put k = 1 in (4.44) we get
+(E4 −4E3 + 6E2 −4E + 1)y1 = 0
+y5 −4y4 + 6y3 −4y2 + y1 = 0
+35 −4y4 + 6(15) −4(8) + y1 = 0
+35 −4y4 + 90 −32 + y1 = 0
+−4y4 + y1 = −93
+(4.46)
+(4.45) × 4 →4y4 −16y1 = 48
+(4.46) →−4y4 + y1 = −93
+Adding, −15y1 = −45
+y1 = −45
+−15 = 3
+y1 = 3.
+Subtracting y1 = 3 in (4.45) we get,
+y4 −4(3) = 12
+y4 −12 = 12
+y4 = 12 + 12
+y4 = 24
+Hence the missing entries are 3 and 24
+■
+Page 114 of 315
+
+Example 4.8.31
+∆[x(x + 1)(x + 2)]
+∆[x(x + 1)(x + 2)]
+= ∆x(x2 + 3x + 2)
+= ∆(x3 + 3x2 + 2x)
+= (x + h)3 + 3(x + h)2 + 2(x + h) −(x3 + 3x2 + 2x)
+= x3 + 3x2h + 3xh2 + h3 + 3(x2 + 2hx + h2) + 2x + 2h −x3 −3x2 −2x
+= 3x2h + 3xh + h3 + 3x2 + 6hx + 3h2 + 2h −3x2
+= 3x2h + 9hx + h3 + 3h2 + 2h
+h = 1
+= 3x2 + 9x + 6
+= 3(x2 + 3x + 2)
+= 3(x2 + 2x + x + 2)
+= 3 [x(x + 2) + 1(x + 2)]
+∆[x(x + 1)(x + 2)] = 3(x + 1)(x + 2), h = 1
+■
+Example 4.8.32
+∆
+
+
+∆
+
+
+=
+1 + (x + h)2 −
+= 1 + x2 −
+
+
+= 1 + x2 −1 −x2 −2hx −h2
+
+=
+−2hx −h2
+
+put
+h = 1
+=
+−2x −1
+
+∆
+
+
+=
+−(2x + 1)
+
+1 + (x + h)2, h = 1
+■
+Page 115 of 315
+
+Example 4.8.33
+∆[x!]
+∆[x!]
+= (x + h)! −x!
+put
+h = 1
+= (x + 1)! −x!
+= (x + 1)x! −x!
+= (x + 1 −1)x!
+∆[x!] = x(x!)
+■
+Example 4.8.34
+∆cos (ax + b)
+∆cos (ax + b)
+= cos [a(x + h) + b] −cos (ax + b)
+a(x + h) + b + ax + b
+
+sin
+ax + b −a(x + h) −b
+
+ax + ah + b + ax + b
+
+sin
+ax −ax −ah
+
+
+ax + b + ah
+
+sin
+
+−ah
+
+∆cos (ax + b) = 2 sin
+ah
+
+cos
+
+ax + b + 1
+2(ah + π)
+
+■
+Example 4.8.35
+∆(cot 2x)
+∆(cot 2x)
+∆(cot 2x) = cot 2x+h −cot 2x
+= cos 2x+h
+sin 2x+h −cos 2x
+sin 2x
+= cos 2x+h sin 2x −cos 2x sin 2x+h
+= sin (2x −2x+h)
+∆(cot 2x) = sin {(1 −2h)2x}
+■
+Example 4.8.36
+∆tan−1 ax
+Page 116 of 315
+
+∆tan−1 ax
+∆tan−1 ax = tan−1 a(x + h) −tan−1 ax
+ ax + h −ax
+1 + a(x + h)ax
+
+
+h
+1 + a2x2 + a2xh
+
+put
+h = 1
+∆tan−1 ax = tan−1
+
+h
+1 + a2x2 + a2x
+
+■
+Example 4.8.37
+∆(x + cos x)
+∆(x + cos x)
+= ∆x + ∆cos x
+= x + h + cos (x + h) −x −cos x
+= h + cos (x + h) −cos x
+= h −2 sin
+x + h + x
+
+sin
+x −x −h
+
+= h −2 sin
+
+x + h
+
+sin
+
+−h
+
+∆(x + cos x) = h −2 sin
+
+x + h
+
+sin
+h
+
+■
+Example 4.8.38
+∆
+
+2x
+
+, h = 1
+∆
+
+2x
+
+= tan−1 (x + h) −
+2x+h
+(x + h + 1)! −tan−1 x +
+2x
+= tan−1 (x + h) −tan−1 x −
+2x+h
+(x + h + 1)! +
+2x
+put
+h = 1
+= tan−1 (x + 1) −tan−1 x −
+2x+1
+(x + 2)! +
+2x
+x + 1 −x
+1 + (x + 1)x −
+2x+1
+(x + 2)(x + 1)! +
+2x
+1 + x2 + x −
+2x
+
+(x + 2) −1
+
+Page 117 of 315
+
+= tan−1 (
+1 + x2 + x) −
+2x
+2 −x −2
+x + 2
+
+= tan−1 (
+1 + x2 + x) −
+2x
+ −x
+x + 2
+
+
+1 + x2 + x
+
++
+2xx
+(x + 2)!
+∆
+
+2x
+
+
+1 + x2 + x
+
++
+2xx
+(x + 2)!
+■
+Example 4.8.39
+∆
+
+x2
+
+∆
+
+x2
+
+=
+(x + h)2
+cos {2(x + h)} −
+x2
+=
+(x + h)2
+cos {2x + 2h} −
+x2
+= x2 + 2xh + h2
+cos (2x + 2h) −
+x2
+= x2 cos 2x + 2xh cos 2x + h2 cos 2x −x2 cos (2x + 2h)
+= x2{cos 2x −cos (2x + 2h)} + 2xh cos 2x + h2 cos 2x
+=
+x2.2 sin
+2x + 2x + 2h
+
+sin
+2x + 2h −2x
+
++ 2xh cos 2x + h2 cos 2x
+= 2x2 sin (2x + h) sin h + 2xh cos 2x + h2 cos 2x
+= 2x2 sin (2x + h) sin h + h(2x + h) cos 2x
+■
+Example 4.8.40
+∆2x3
+∆2x3
+= ∆(∆x3)
+= ∆
+
+(x + h)3 −x3
+= ∆
+
+x3 + 3x2h + 3xh2 + h3 −x3
+= ∆
+
+3x2h + 3xh2 + h3
+= 3(x + h)2h + 3(x + h)h2 + h3 −3x2h −3xh2 −h3
+Page 118 of 315

@@ -1,0 +1,1749 @@
+i 
+ 
+ Financial management practices and financial sustainability of non- government 
+organisations in Uganda: A case of Faraja Africa Foundation 
+ 
+ 
+ 
+ 
+ 
+Elsa Basemera 
+ 
+ 
+ 
+A DISSERTATION SUBMITED TO THE SCHOOL OF BUSINESS IN PARTIAL 
+FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF 
+SCIENCE IN ACCOUNTING AND FINANCE OF UGANDA CHRISTIAN UNIVERSITY 
+ 
+August, 2023 
+ 
+ 
+ 
+
+DECLARATION 
+I, Basenera Elsa hereby declare that this dissertation is my original work and has never been 
+submited tor any academic award or publication in any institution or University. There has been 
+acknowledgement made for the work of others in this report, through quotation and references. 
+Signed..... 
+Date. .QrL993. 
+
+This is to certify that this dissertation has been done under the appointed research supervisor and 
+IS now rcady for submission to the School 
+of Business at Uganda Christian University. 
+SIGNATURE:. 
+APPROVAL 
+NAME:: DR. MUGSHA HENRY 
+(RESEARCH SUPERVISOR) 
+iii 
+DATE... 
+
+iv 
+ 
+ 
+ACKNOWLEDGEMENT 
+I am very grateful and thankful to the almighty God, without him, I would not be. 
+I would like to express my thanks and gratitude to various people who contributed to the 
+completion of this work. It is not possible to name all those who supported me but I am truly 
+grateful to everyone. 
+I wish to express my sincere gratitude to my supervisor Dr. Mugisha Henry for his constructive 
+criticism, support, guidance and commitment to supervise this research to its completion. 
+In a special way, I would like to thank the management and staff of Faraja Africa Foundation and 
+various organizations who participated in this study for volunteering the information which made 
+the study successful. 
+Special thanks go to my family, friends and course mates for the team work which enabled me 
+accomplish my project. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+TABLE OF CONTENTS 
+DECLARATION ............................................................................................................................................... ii 
+APPROVAL .................................................................................................................................................... iii 
+ACKNOWLEDGEMENT .................................................................................................................................. iv 
+LIST OF FIGURES ......................................................................................................................................... viii 
+LIST OF TABLES ............................................................................................................................................. ix 
+LIST OF ABBREVIATIONS ............................................................................................................................... x 
+ABSTRACT ..................................................................................................................................................... xi 
+CHAPTER ONE ............................................................................................................................................... 1 
+INTRODUCTION ............................................................................................................................................ 1 
+1.1 Introduction ............................................................................................................................................ 1 
+1.2 Background ............................................................................................................................................. 1 
+1.3 Problem statement ................................................................................................................................. 3 
+1.4 The main objective of the study ............................................................................................................. 4 
+1.5 Specific objectives of the study............................................................................................................... 4 
+1.6 Research questions ................................................................................................................................. 5 
+1.7 Significance of the study ......................................................................................................................... 5 
+1.8 Justification of the study ......................................................................................................................... 6 
+1.9 Scope of the study .................................................................................................................................. 6 
+1.9.1 Content scope ...................................................................................................................................... 6 
+1.9.2 Area scope ............................................................................................................................................ 6 
+1.9.3 Time scope ........................................................................................................................................... 7 
+1.9.4 Limitations of the study ....................................................................................................................... 7 
+CHAPTER TWO .............................................................................................................................................. 8 
+LITERATURE REVIEW .................................................................................................................................... 8 
+2.1 Introduction ............................................................................................................................................ 8 
+2.2 Theoretical Framework ........................................................................................................................... 8 
+2.2.1 Theory of budgeting ............................................................................................................................. 8 
+2.2.2 Contingency Management Theory ...................................................................................................... 9 
+2.2.3 Sustainability Theory .......................................................................................................................... 11 
+
+vi 
+ 
+2.3 Conceptual Framework ......................................................................................................................... 12 
+2.4 Empirical Review ................................................................................................................................... 13 
+2.4.1Financial Reporting and Financial sustainability ................................................................................. 13 
+2.4.2 Budgeting Control and Financial Sustainability ................................................................................. 14 
+2.4.3 Internal Control and Financial Sustainability of NGOs ....................................................................... 15 
+2.5 Summary of literature review ............................................................................................................... 16 
+CHAPTER THREE .......................................................................................................................................... 18 
+METHODOLOGY .......................................................................................................................................... 18 
+3.1 Introduction .......................................................................................................................................... 18 
+3.2 Research design .................................................................................................................................... 18 
+3.3 Study population ................................................................................................................................... 19 
+3.3.1 Determination of sample size ............................................................................................................ 19 
+3.4 Sampling Design .................................................................................................................................... 20 
+3.4.1 Purposive sampling ............................................................................................................................ 20 
+3.5 Data collection method ......................................................................................................................... 21 
+3.5.1 Questionnaire .................................................................................................................................... 21 
+3.6 Data collection instruments .................................................................................................................. 21 
+3.6.1 Questionnaire .................................................................................................................................... 21 
+3.6.2 Validity of the data collection instruments ........................................................................................ 22 
+3.7 Data analysis techniques ....................................................................................................................... 22 
+3.7.1 Quantitative analysis techniques ....................................................................................................... 22 
+3.8 Measurement of variables .................................................................................................................... 23 
+3.9 Ethical considerations ........................................................................................................................... 23 
+CHAPTER FOUR ........................................................................................................................................... 24 
+PRESENTATION, ANALYSIS AND INTERPRETATION OF RESULTS .............................................................. 24 
+4.1. Introduction ......................................................................................................................................... 24 
+4.2. Response Rate ...................................................................................................................................... 24 
+4.3 Information of the Respondents ........................................................................................................... 24 
+4.3.1 Distribution of the Respondents by Age ............................................................................................ 25 
+4.3.2 Respondents level of Education ......................................................................................................... 26 
+4.3.3 Number of the Years Respondent has been working in the organization ......................................... 27 
+4.4. Findings on Financial Management practices and Financial Sustainability Faraja Africa Foundation 28 
+4.4.1 Financial Reporting ............................................................................................................................ 28 
+
+vii 
+ 
+4.4.2 Budgeting Control .............................................................................................................................. 30 
+4.4.3 Internal Control .................................................................................................................................. 33 
+4.4.4 Financial Sustainability ....................................................................................................................... 35 
+4.5 Correlation Analysis .............................................................................................................................. 37 
+4.6 Regression Analysis ............................................................................................................................... 39 
+CHAPTER FIVE ............................................................................................................................................. 42 
+SUMMARY OF FINDINGS, DISSCUSION, CONCLUSIONS AND RECOMMENDATIONS ............................... 42 
+5.1 Introduction .......................................................................................................................................... 42 
+5.2 Summary of the Findings ...................................................................................................................... 42 
+5.3 Discussion of key findings ..................................................................................................................... 43 
+5.3.1 Financial reporting ............................................................................................................................. 43 
+5.3.2 Budgeting control............................................................................................................................... 44 
+5.3.3 Internal control .................................................................................................................................. 44 
+5.4 Conclusion ............................................................................................................................................. 45 
+5.5 Recommendations of the Study............................................................................................................ 46 
+5.6. Areas for further Studies ...................................................................................................................... 47 
+REFERENCES ................................................................................................................................................ 48 
+APPENDICES ................................................................................................................................................ 54 
+Appendix 1: Questionnaire ........................................................................................................................ 55 
+Appendix II: Introductory Letter ................................................................................................................ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+
+viii 
+ 
+ 
+LIST OF FIGURES 
+Figure 1: Conceptual Framework showing the relationship between financial management 
+practices and financial sustainability…………………………………………………………..12 
+Figure 2: Pie chart indicating gender distribution in the organization…………………………25 
+Figure 3: Pie chart indicating involvement in budgetary process………………………………30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+ 
+LIST OF TABLES 
+Table 3:1 Accessible population, sample size, sampling technique and instrument used……..19 
+Table 4:1 Respondents Age Distribution………………………………………………………26 
+Table 4:2 Level of Education…………………………………………………………………..26 
+Table 4:3 Number of years worked in the organization………………………………………..27 
+Table 4:4 Results on financial reporting………………………………………………………..28 
+Table 4:5 Mean responses and standard deviation on financial reporting……………………...29 
+Table 4:6 Results on budgeting control…………………………………………………………31 
+Table 4:7 Mean responses and standard deviation on budgeting control……………………….32 
+Table 4:8 Results on internal controls…………………………………………………………...33 
+Table 4:9 Mean responses and standard deviation on internal controls…………………………34 
+Table 4:10 Results on Financial sustainability…………………………………………………..35 
+Table 4:11 Mean response and standard deviation on financial sustainability………………….36 
+Table 4:12 Correlation analysis: Financial management practices and financial sustainability...38 
+Table 4:13 Regression analysis summary……………………………………………………….39 
+Table 4:14 Coefficients of regression……………………………………………………………40 
+ 
+ 
+
+x 
+ 
+ 
+LIST OF ABBREVIATIONS 
+NGOs                                      Non-Governmental Organizations 
+USAID                                    United States Agency for International Development 
+CSOs                                      Civil Society Organizations 
+DGF                                        Democratic Governance Facility 
+KMTC                                     Kenya Medical Training College 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+ABSTRACT 
+Non-Governmental Organizations being so crucial in developing countries for instance Uganda, 
+their financial sustainability is a challenge since most of them rely on donor funding and the 
+donors expectations need to be met. The purpose of the study was to determine the effect of 
+financial management practices on financial sustainability of Non-Governmental Organizations 
+in Uganda. The study mainly examined the effects of financial management practices on 
+financial sustainability of Non-Governmental Organizations. The theory of budgeting, 
+contingency management theory and sustainability theory were used to underpin this study. The 
+study used a cross-sectional study design. The target population was forty-three comprising of 
+senior account managers, Program managers, finance managers and administrators.  
+Questionnaires were used as the main data collection instrument which the study relied on to 
+collect data and was later analyzed by use of descriptive statistics in form of frequencies, mean, 
+standard deviation and analysis such as Pearson correlation and regression analysis. The findings 
+revealed that the financial management practices which were financial reporting, budgeting 
+control and internal controls have a positive effect on the financial sustainability of NGOs. The 
+study recommends that NGOs should emphasize and monitor financial management practices 
+such as financial reporting, budgeting control and internal controls due to their significant 
+influence on the financial sustainability of NGOs. 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE 
+INTRODUCTION 
+1.1 Introduction 
+This chapter provides a background, theoretical and contextual aspects of the study. The chapter 
+also provides the problem statement, the purpose, objectives, research questions, significance, 
+justification and the scope of the study. 
+1.2 Background 
+NGOs are institutions that advance development which consists of a variety of functional, 
+geographic, membership, and organizational groupings (Nzimakwe, 2008). For non-profit 
+making organizations, financial management practices strengthen the sustainability of the 
+financial status of NGOs to enable management to achieve the set objective (Rajni & Preeti, 
+2011).  
+Financial sustainability has for a long time been a major constraint in running various donor 
+funded projects by civil society organizations around the world (USAID, 2018).According to 
+USAID, despite there being a variety of different toolkits and research papers done on 
+investigation of different financial sustainability approaches and strategies, many CSOs continue 
+to struggle in developing and maintaining various resources needed to run their projects and also 
+carry out their respective missions. 
+ Financial sustainability has affected many NGOs, creating financial sustainability for an NGO 
+rotates around all stakeholders in the environment where it operates (Bell, 2010).This critical 
+challenge continues to limit the autonomy of organizations across Uganda by obstructing their 
+durable planning and being flexible in running various organizational affairs. Financial 
+sustainability has become a very popular topic in the NGO world given the fact that there is 
+
+2 
+ 
+“donor fatigue” in rich nations. For example, the suspension of DGF in Uganda and the recent 
+economic recession has dramatically influenced trends in donations, particularly from 
+individuals, as Americans have less disposable income to continue the funding to non-profit 
+organizations at the levels and volumes that they had in previous years.  
+Non-profit organizations are struggling financially, particularly those that rely on government 
+funding with 61 percent of nonprofits reporting cuts in government funding- as well as those that 
+rely solely on foundations for monetary contributions with 48 percent of nonprofits reporting 
+cuts in foundation funding (Renz et al., 2010).  
+According to a study conducted by Kusemererwa and Kibuye (2019), many local NGOs face 
+financial sustainability issues, hindering their ability to achieve their missions effectively. In 
+Uganda, local NGOs heavily rely on donor funding, making them vulnerable to changes in 
+funding priorities and donor priorities (Batanda, 2019). Additionally, inadequate financial 
+planning, weak financial controls, and inefficient practices can contribute to financial instability 
+and hinder the financial sustainability of local NGOs. Therefore, understanding the effect of 
+financial management practices on the financial sustainability of NGOs is crucial for their long-
+term viability and success.  
+The study found that poor financial management practices, including inadequate financial 
+reporting, inadequate budgeting controls and inadequate internal controls, and were significant 
+barriers to financial sustainability among local NGOs. 
+ 
+ 
+ 
+
+3 
+ 
+ 
+ 
+1.3 Problem statement 
+Financial sustainability is important to non-government organizations for stability and 
+improvement of growth. 
+It is important that NGOs develop diverse resource bases so as to continue institutional structure 
+and production of benefits to the client population after the cessation of donor financial support 
+(Bowman, 2011). Local NGOs that depend on donor funding face a challenge of sustaining their 
+projects due to the financial and accounting procedures set by the donors. NGOs in Uganda and 
+internationally have experienced a significant withdraw of major donor funding or budget cuts, a 
+challenge leading to the collapse of many NGOs due to lack of resources required to implement 
+the NGOs mandate.  
+The DGF, the largest pool of donor funding to non-government organizations in Uganda 
+terminated funding to four local non-government organizations, when a forensic audit unearthed 
+widespread rot and corruption. There where unsupported expenditures, absolute theft, 
+inappropriate procurements and use of same documents to account to different donors. These 
+were some of the issues exposed. Some of the non-government organizations provided receipts 
+dated before events had taken place, or for fuel consumption tagged to license number plates that 
+turned out to belong to heavy-duty diesel trucks, which did not belong to the non-government 
+organization’s fleet. (DGF Annual Report 2019). 
+Most NGOs closed offices with many of them left with no funding for projects, and some 
+Kampala based larger NGOs are still managing the project on a restricted budget. This situation 
+
+4 
+ 
+came with serious financial and operational problems for NGOs during and after the COVID-19 
+pandemic. With many NGOs at the risk of losing their funding sources and grants because of the 
+COVID-19 pandemic. (Uhuru, 2020) 
+Many NGOs face challenges in managing their financial resources effectively, leading to 
+financial instability and organizational inefficiencies. Limited resources, lack of financial 
+planning, weak internal controls, and inadequate financial literacy among staff can all contribute 
+to financial sustainability issues (Kibirige & Musinguzi, 2020).Therefore, it is due to this 
+predicament, that the study seeks to examine the effect of financial management practices on the 
+Financial sustainability of non-government organizations. 
+1.4 The main objective of the study 
+To analyze the effect of financial management practices on the financial sustainability of Non-
+Governmental Organizations in Uganda: A case study of Faraja Africa Foundation. 
+1.5 Specific objectives of the study 
+ 
+I. 
+To examine the influence of financial reporting tools on financial sustainability of Faraja 
+Africa Foundation. 
+II. 
+To assess the effect of budgeting controls on financial sustainability of Faraja Africa 
+Foundation. 
+III. 
+To examine the effect of internal controls on financial sustainability of Faraja Africa 
+Foundation. 
+ 
+ 
+
+5 
+ 
+ 
+1.6 Research questions 
+ 
+I. 
+How do financial reporting tools affect the financial sustainability of Faraja Africa 
+Foundation? 
+II. 
+How do budgeting control affect financial sustainability of Faraja Africa Foundation.? 
+III. 
+How do internal controls affect financial sustainability of Faraja Africa Foundation.? 
+1.7 Significance of the study 
+ 
+ This study would be of great importance to the board of directors and management of NGOs as 
+it will evaluate the financial management practices and develop recommendations for 
+strengthening financial management thus enhancing financial sustainability of NGOs. This study 
+will provide information to students thus filling the information gaps students have about the 
+effects of financial management practices on the financial sustainability of NGOs. The findings 
+of this study will be useful to local NGOs in Uganda, donor agencies, policymakers, and 
+researchers. The study will provide insights into the effect of financial management and practices 
+on the financial sustainability of local NGOs.  
+The study also identified key financial management practices that can improve the financial 
+sustainability of local NGOs. The findings of this study can be used by local NGOs to improve 
+their financial management practices and enhance their financial sustainability. Donor agencies 
+could use the findings to assess the financial sustainability of local NGOs before providing 
+funding.  
+Policymakers could use the findings to develop policies and guidelines that promote financial 
+sustainability among local NGOs. Researchers could use the findings to further explore the 
+
+6 
+ 
+relationship between financial management and practices and financial sustainability in other 
+contexts. 
+1.8 Justification of the study 
+ 
+ The rationale of carrying out research on this study was to determine how the financial 
+management and practices affect the financial sustainability of NGOs which are being funded by 
+donors. The level of donor contribution to local NGOs in Uganda has gradually reduced as 
+donors and partners withdrew from funding thus affecting the operations of NGOs. 
+1.9 Scope of the study 
+ 
+1.9.1 Content scope 
+ 
+ This study focused specifically on local NGOs operating in Uganda. It involved a case study 
+approach, selecting a representative sample of local NGOs for in-depth examination of their 
+financial management practices and financial sustainability. The study considered factors such as 
+financial reporting, budgeting control and internal controls as key elements of financial 
+management.  
+ 1.9.2 Area scope 
+ 
+This research focused specifically on Faraja Africa Foundation located in Kasanga-Muyenga, 
+Kampala, Uganda. This study examined Faraja Africa Foundation within Kampala district thus 
+collecting information from a variety of respondents, which provide a more representative state 
+of affairs with regard to financial management practices and financial sustainability of Faraja 
+Africa Foundation. 
+ 
+
+7 
+ 
+ 
+1.9.3 Time scope 
+This study based on my findings during the time period of 2020 to 2023 since during this time 
+period Local NGOs faced financial sustainability challenges due to their financial management 
+practices. (CSO sustainability index report 2021) 
+1.9.4 Limitations of the study 
+ 
+ The limitations that were faced when carrying out the study include; some respondents wanted 
+compensation for the kind of information they are willing to provide during visits of some 
+institutions. Some respondents were not willing to provide the necessary information to the 
+questions being asked. The management of the organization were mostly busy or not available to 
+respond to my questionnaires thus increasing my costs since I had to go back to the organization 
+over and over again so as to interact with management of the NGOs. Some of the respondents 
+were not willing to take part in answering the questionnaires of this study. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.1 Introduction 
+This chapter presents relevant literature behind financial management practices and financial 
+sustainability of projects while putting more emphasis on theoretical review, linking the 
+variables using a conceptual framework and empirical review in the research as discussed below 
+in this chapter.   
+ 
+2.2 Theoretical Framework 
+This section covers selected theoretical framework of the study on NGOs’ financial management 
+practices and financial sustainability. This study adopted the theory of budgeting, contingency 
+management theory and sustainability theory as described below. 
+2.2.1 Theory of budgeting 
+Theory of budgeting was found by Lewis (1952) so as to attempt to apply the principle of 
+marginal utility. Lewis stated that the analysts have to put more focus on the public expenditure 
+increments at the margin. The reason being that it is at this point that the analysts may be able to 
+discover the point of balance at which same returns are yield by any additional expenditure. 
+These increments relative value can be examined in terms of how effective they are when it 
+comes to achievement of a common goal. 
+According to Fabozzi (2010) outlines that budgeting theory makes it clear that budgeting is a 
+process that is ongoing and consists of five key stages; investment screening and selection for 
+identification of projects in consistent with corporate strategy that are identified by the 
+management or the project especially where project evaluation and screening is done to estimate 
+how they may influence the cash flows in future. The second stage is the capital budget proposal, 
+which is followed by approval of budgets and issuing authorization. The fourth stage involve 
+
+9 
+ 
+project tracking while the fifth stage is the post completion audit whose purpose is to depict how 
+the realized benefits may be in accordance to the initial plan. 
+In order to achieve effectiveness in financial management and avoid uncertainties and also 
+minimize wastage of financial resources, budgeting and budgets become very vital in any 
+organization (Fang, 2012). He further stated that it is through budgeting that account statements 
+are prepared and proper allocations of the financial resources that may be available done. This 
+implies that budget is a policy on which incomes and expenditures are based. The budgeting 
+proponents also argue that budgets have other several important roles that they play in the 
+running of the organizations. For instance, Nelly et al (2003) states that it is through budgeting 
+that resources are allocated, operations properly coordinated and performance measurement 
+means provided. 
+2.2.2 Contingency Management Theory 
+ 
+The contingency theory is by Fiedler (1964). Contingency management theory is defined as a 
+management theory that suggests the appropriate style of management is dependent on context of 
+the situation and adopting a single, rigid style is inefficient in long term survival. Fiedler (1964) 
+argues that management effectiveness is contingent that is to say it is dependent upon application 
+of management practices and situations.  
+The contingency management theory is applied since management of NGOs depend on other 
+organizations that are growing early before NGOs thus there many things adopted from that 
+theory such as financial accountability, transparency of management, procedures for fund 
+management, financial planning and financial monitoring. The contingency theory says that the 
+structure of an organization is dependent on the organization’s practices, environment and the 
+
+10 
+ 
+effectiveness of the managerial processes for instance financial accounting system, financial 
+monitoring and control, financial planning and budgeting as well as financial accountability is 
+dependent on the structure of the organization.  
+According to Fiedler (1964), in this theory there is direct correlation in the practices adopted by a 
+manager and the effectiveness of the manager. He also argues that not all management practices 
+will be helpful in specific crisis and thus the manager would have to adopt new strategies. 
+Fiedler (1964) says that there is no best way to manage an organization and that managers will 
+require to identify new practices that will help achieve outlined goals and objectives. This theory 
+helps explain to management of NGOs the need to ensure financial accounting system, financial 
+monitoring and control, financial planning and budgeting as well as financial accountability 
+practices that are being adopted by managers best suit the task at hand and that is financial 
+sustainability of local NGOs.  
+In conclusion, this theory helps management to understand the differences in donor’s 
+approaches, financial procedures, strategies to counter risky and practices to assume in the NGOs 
+hence financial sustainability of local NGOs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11 
+ 
+ 
+2.2.3 Sustainability Theory 
+ 
+Ekardt (2009) developed the most popular sustainability theory that describes a form of society 
+where a global scale economy can be lived and at the same time is lasting. The theory therefore 
+implies that the claim is ever changed by the claim. Sustainability has become not only the claim 
+to take to environmental and socio-economic policies to not be dependent of any relationship in 
+space and time and develop a middle ground between the facets (Ekardt, 2009). 
+According to Amartya (2012), in different circumstances, visualization of opportunity and 
+capital relationship is done from a different perspective, resources spent on the poor can be 
+visualized as an investment in future. An economist suggest that by developing today’s options, 
+future options are created thereby driving a greater development. This theory is important in 
+measuring the financial sustainability of NGOs, a case of local NGOs in Kampala by examining 
+the projects record growth, improved standards, financial strength, level of planning, financial 
+resilience, organization longevity and deficit/surplus in income over spending. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+2.3 Conceptual Framework 
+Financial sustainability is the dependent variable for this study which will be determined by how 
+the independent variables, which are financial management practices, will be operationalized. 
+Different aspects of financial management practices that this study employs include financial 
+reporting, budget control and internal control as shown in figure 2.1.  
+Independent Variables                                                                 Dependent Variable  
+(Financial Management Practices)                                         (Financial Sustainability)  
+Financial Reporting 
+i. 
+Financial disclosure  
+ii. 
+Standards 
+iii. 
+Reviewing  
+ 
+  
+Budget Control  
+ 
+i. 
+ Competency 
+and 
+involvement  
+ii. 
+Planning   
+iii. 
+Revising 
+original budgets  
+ 
+ 
+Internal Control  
+i. 
+Records maintenance  
+ 
+ii. 
+Physical and intangible 
+safeguards   
+ 
+iii. 
+Segregation of duties  
+ 
+ 
+Figure1: conceptual framework  
+Source: Author (2023) 
+         Financial Sustainability  
+I. 
+Financial resilience  
+II. 
+Deficit/surplus of income 
+over spending  
+III. 
+Level of planning  
+IV. 
+Organization longevity  
+ 
+
+13 
+ 
+           
+2.4 Empirical Review 
+This section discusses some work done by previous researchers concerning financial 
+management practices in relation to financial sustainability to identify the research gaps and 
+possible remedy measures.  
+2.4.1Financial Reporting and Financial sustainability 
+ 
+Chepkemoi and Njeru (2017), argued that financial reports review, having proper planning in 
+place, continuous monitoring and control of the budgeting process may have positively affect the 
+financial sustainability of NGO’s, Juba, South Sudan. However the study failed to consider the 
+internal controls as aspects financial management practices.  
+According to Demba (2018), it was disclosed that financial disclosure and tracking by use of 
+record keeping, managing data, having internal accounts experts and communicating financial 
+information extensively affected KMTC’s performance. By having proper financial reporting as 
+an aspect of financial management practice, it may often be easier to extrapolate the contribution 
+of every program on the organizations financial sustainability. This study did not put into 
+consideration the internal controls as aspects financial management practices. 
+Desta et al. (2018) argued that financial reporting may have an effect on how profitable small 
+scale enterprises are, and hence affect their long- term survival. The study did not consider 
+financial sustainability, more so it was conducted on very different scope and population. The 
+study focused on financial sustainability while targeting the NGOs in Kampala, Uganda. 
+Wandera and Sang (2017) in their study concluded that reviewing of financial reports, having 
+proper plans in place with structured monitoring and evaluation may have a significant positive 
+
+14 
+ 
+influence on the NGO’s financial sustainability. They further stated that the financial 
+sustainability may be limited or depend on donor relationship and income source diversification. 
+However the study was particular on project sustainability which is dissimilar to financial 
+sustainability. 
+ This study strived to establish financial reporting in NGOs in Kampala and its effect on financial 
+sustainability of the NGOs. 
+2.4.2 Budgeting Control and Financial Sustainability 
+ 
+In a study conducted by Kang’aru and Tirimba (2018) it revealed that budgeting and financial 
+planning may have a positive and significant relationships. They further argued that for 
+organizations to improve on their financial sustainability there is need to ensure that they prepare 
+their budgets prior to budget year. They also argue that regular budget plans follow up by the 
+organizations and budgeting committee to evaluate the budget performance regularly is 
+necessary. However the study only focused on budgeting as a financial management practice and 
+failed to consider how other financial management practices affect financial sustainability within 
+NGOs. 
+Chepkemoi and Njeru (2017) in their study pointed out that financial management practices such 
+as budgeting may likely influence the financial sustainability of NGO’s by increasing their 
+budgeting controls. The study argued that budgeting controls may have a positive influence on 
+financial sustainability of NGO’s. From the literature reviewed, there are conclusive findings 
+based on the budgeting practices and the financial sustainability of organizations. 
+
+15 
+ 
+ For instance, Norah et al. (2015), concluded that decisions involving capital budgeting affect the 
+organization’s performance in aspect of financial sustainability. According to Essra (2016), there 
+is statistically significant relationship between budgeting and financial sustainability.  
+ This study strived to establish budgeting controls in local NGOs in Kampala and their effect on 
+financial sustainability of the NGOs. 
+2.4.3 Internal Control and Financial Sustainability of NGOs 
+ 
+A number of studies have been carried out on internal controls in NGOs and the mixed findings 
+have been reported. Beam (2011) stated that USAID funded NGOs that have been closed due to 
+weak internal control system spanning from the control environment to monitoring. Key findings 
+on weaknesses in internal controls found by Beam (2011) included lack of financial or control 
+competencies, ill-defined direct or broken-line reporting relationships, fraud and embezzlement 
+and sole control of the NGOs financial resources. 
+An empirical study by Okorley and Nkrumah (2012) in Ghana found that the availability of 
+funds, quality material resources, supportive leadership, development of needs-based and 
+demand-driven programs, and effective management had a significant influence on the 
+sustainability of local NGOs. Significantly, leadership emerged as the most important factor to 
+organizational sustainability of local NGOs. The study recommended strengthening of internal 
+controls by promoting transparence and accountability in NGOs. 
+Okorley (2012) equally attributes that financial sustainability is dependent on proper governance 
+systems and organizational structure in the NGO whereas Njeru (2017) of Kenya in her study 
+found that the control environment, risk assessment, control activities, information and 
+communication and monitoring contributed to 75.7% of the variation in financial performance 
+
+16 
+ 
+among manufacturing firms. Furthermore, Ibrahim, Yasin and Dahalin (2010) found that the 
+operational self-sustainability of Tele-centers established by government, NGOs and private 
+sector depended on internal control considerations of effective financial controls and monitoring 
+supported with ethical management practices. 
+Ibrahim, et al (2010) observations are supported by Gunderson (2011) who contends that for 
+financial sustainability to succeed, effective financial management (i.e. funds flow control 
+systems, financial planning, budgeting systems, asset management systems, accounting policies 
+and procedures, internal and external auditing systems, reporting and monitoring systems, 
+information systems, financial analysis and plan implementation) is required. This study strived 
+to establish the internal control practices in local NGOs in Kampala and their effect on financial 
+sustainability of the NGOs. 
+2.5 Summary of literature review  
+ 
+Organizations have to counter the challenge of ensuring that all their objectives are met and at 
+the same time not compromising their financial sustainability. In order for organizations to 
+remain financially sustainable when conducting several projects, there is a need to see to it that 
+proper financial management practices are followed to the latter. From the reviewed literature, 
+several researchers argue different ways on financial management practices in organizations and 
+how financial sustainability can be achieved in an organization, some even giving contradicting 
+results and conclusions from their studies. 
+There is increasing demand for instituting effective internal controls in NGOs however, there are 
+few studies which have examined the relationship between internal control and financial 
+sustainability of NGOs in Uganda. 
+
+17 
+ 
+To fill the literature and knowledge void, this study aimed at providing empirical evidence on the 
+relationship between financial management practices of financial reporting, budgeting controls, 
+internal controls and financial sustainability of the NGOs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+18 
+ 
+CHAPTER THREE 
+METHODOLOGY 
+ 
+3.1 Introduction 
+ 
+Chapter three presents the methodology that was used for the study. It comprises of research 
+design, study population, sample size, sampling techniques and procedure, data collection 
+methods and instruments, validity and reliability, data analysis, measurement of variables and 
+ethical considerations. 
+3.2 Research design 
+According to Borg, Meredith & Gall, (2008), Research design is defined as a plan that was used 
+to conduct the research. Lesage (2009), defines research design as a structural presentation of the 
+plan or strategy of examination which is intended to address a particular question under research. 
+Mugenda and Mugenda (2008) define it as a conceptual structure in conducting a research. 
+This study used a cross-sectional study design using a mixed method of qualitative and 
+quantitative approaches. The cross-sectional design was used since the data on financial 
+management practices and financial sustainability of NGOs were collected at that point in time 
+(Cohen, Manion, and Morrison, 2007). 
+As justified by Amin (2005), the quantitative approach was used in the study since it, described 
+in quantitative terms the degree to which variables is related. It involved collecting data to 
+determine whether and to which degree a relationship exists between the two variables under 
+study. The degree of relationship was expressed as a correlation coefficient while the extent to 
+
+19 
+ 
+which the dependent variable influences the independent variable was expressed using regression 
+techniques. 
+The explanatory design assisted in making it possible to investigate the degree of relationship 
+between the variables. It enabled the researcher to come up with the connection between 
+independent variable and dependent variable so as to figure out the effect and explain the 
+relationship between the variables. 
+3.3 Study population 
+The proposed population was 43 employees who comprising of 10 senior account managers,  6 
+program managers, 10 finance managers, 7 Administrators.(Faraja Africa Foundation Records, 
+2023). 
+3.3.1 Determination of sample size 
+Sample size refers to the number of respondents who take part in the study (Donald, 1999). It 
+was anticipated that a sample size of 43 respondents was drawn from the population of 86 
+respondents which was determined with the help of Krejcie & Morgan (1970) sample size 
+determination (see Table one below).  
+Category of 
+respondents  
+Accessible 
+population  
+Sample size  
+Sampling 
+technique  
+Study tool  
+Senior Account 
+Manager 
+10 
+20 
+Purposive  
+Questionnaire 
+Program 
+Manager 
+6 
+30 
+Purposive  
+Questionnaire 
+Manager 
+Finance  
+10 
+20 
+Purposive 
+Questionnaire 
+Administrator  
+7 
+16 
+Purposive 
+Questionnaire 
+
+20 
+ 
+Table 
+3.1: 
+Accessible population, sample size, technique and instrument 
+ 
+ 
+ 
+ 
+3.4 Sampling Design 
+Ngechu (2004) emphasizes the importance of selecting a representative sample through a 
+sampling framework. The list of all cases in a community which a sample is extracted is a 
+sampling framework for any particular probability sample Saunders et al. (2007).From the 
+sample framework, the required number of companies, respondents or subjects were selected to 
+sample. 
+Purposive sampling method was used to determine the sample 
+3.4.1 Purposive sampling 
+The purposive sampling technique, also called judgment sampling, is the deliberate choice of an 
+informant due to the qualities the informant possesses. It is a nonrandom technique that does not 
+need underlying theories or a set number of informants. The researcher decided what was needed 
+to be known and set out to find people who can and are willing to provide the information by 
+virtue of knowledge or experience (Bernard 2002, Lewis 2006).  
+Purposive sampling is especially exemplified through the key informant technique (Bernard 
+2002,), wherein one or a few individuals are solicited to act as guides to a culture. It was used to 
+select senior account managers, program managers, administrators and finance managers. 
+Total  
+43 
+86 
+ 
+ 
+
+21 
+ 
+3.5 Data collection method 
+An introductory letter of the researcher was sent to the relevant organization with the view to 
+collect data and to explain the purpose of the research. An assurance of confidentiality and 
+instructions was provided to encourage participants to give honest responses. The study used 
+primary and secondary data. This study used one method to aid data collection. These include a 
+questionnaire as indicated below. 
+3.5.1 Questionnaire 
+The questionnaire method was used to obtain quantified findings which were statistically 
+analyzed. The method allowed the researcher to set up close ended questions on financial 
+management and financial sustainability. The questionnaire approach allowed the distribution of 
+the questionnaires which were answered by respondents at their convenience (Amin, 2005). It is 
+a comparatively cheaper method and allows the collection of information from a bigger group of 
+respondents. The questionnaire was administered on the target population. 
+3.6 Data collection instruments 
+This study used one instrument to facilitate data collection namely questionnaire as indicated 
+below. 
+3.6.1 Questionnaire 
+This instrument was designed with closed ended questions. It was used to obtain quantified data 
+on financial management practices and financial sustainability. The instrument were made up of 
+three sections namely; section I for respondents bio-data while section II for questions on 
+financial management practices financial reporting, budgeting control, and internal control. 
+Section III questions focused on financial sustainability all based on a five item scale from the 
+
+22 
+ 
+highest to the lowest in that order for instance 5= strongly agree, 4= agree, 3= undecided, 2= 
+disagree and 1= strongly disagree. 
+3.6.2 Validity of the data collection instruments 
+Cranach performed an experimental test to validate the questionnaire. This was done by 
+administering the questionnaire to the pilot groups, including, among others, the finance and 
+management staff of CARD, CAPECS, ProNET, CARO and YARO. The validity of the search 
+tool content was assessed by the actual administration of the experimental group. When 
+validating the tools, 2 staff were randomly selected.  
+The study used both face and content validity to determine the validity of questionnaires. The 
+face validity is in fact a nominal value. To verify the apparent validity, test, survey elements are 
+sent to the experimental group for modification suggestions. The validity of the content inferred 
+test scores in a wide range of elements similar to those found in the Polkinghorne (1988) test.  
+The validity of the content indicates the representative character of the population sample. It 
+means the knowledge and skills covered by the test elements should be representative of the 
+broader field of knowledge and skills (Cranach, 1971). There is no valid test method. Again, any 
+valid evidence must be trusted. Using this statement, it was concluded that validity plays an 
+important role in the analysis, because it ensures the conclusion of accurate results. 
+3.7 Data analysis techniques 
+Data was analyzed quantitatively as shown below. 
+3.7.1 Quantitative analysis techniques 
+Quantitative data was analyzed using frequencies, percentages, mean, variance and standard 
+deviation. Statistics like the Pearson correlation; at a level of significance at 95%, p value < 0.05 
+
+23 
+ 
+will be used to test the relationship; positive (+) or negative (-) between the variables. Finally, a 
+multiple regression was used to determine variance that financial management practices have on 
+financial sustainability. 
+ 
+3.8 Measurement of variables 
+Two kinds of measurement for instance ordinal and nominal scale were used. The ordinal scale 
+was used on financial management practices based on a five point type scale; 5 for strongly 
+agree, 4 for agree, 3 for not sure, 2 for disagree and 1 for strongly disagree. The scale was used 
+to obtain numerical results. A nominal scale was used to understand the bio data especially 
+gender, age of respondents and project roles among others. 
+3.9 Ethical considerations 
+A number of ethical considerations were observed during the study. The researcher planned to 
+seek the consent of identified respondents where a consent note accompanied the instruments 
+that to be used for the study. The study respondents were treated with utmost confidentiality 
+where all expected information was treated with secrecy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+24 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FOUR 
+PRESENTATION, ANALYSIS AND INTERPRETATION OF RESULTS 
+ 
+4.1. Introduction  
+This chapter analyses and interprets the study findings of financial management practices and 
+financial sustainability of Faraja Africa Foundation based on the information provided on the 
+study questionnaire and interview guide. It presents the response rate, background information 
+about the respondents and a presentation of the findings. 
+4.2. Response Rate 
+A total of 43 respondents were targeted for questionnaire but 31 questionnaire were returned in 
+time for consideration in the study giving a response rate of 72% suggesting that the 
+questionnaires issued were returned which is a high response rate. According to Amin (2005), a 
+high response rate is a good representation of the sample used in the study population.  
+4.3 Information of the Respondents 
+Various aspects are covered under this section including organization of the respondents by 
+gender, distribution of the respondents by age, highest academic qualification and number of 
+years the respondents have been working in the organization. 
+The findings of the study were that of the 31 respondents who took part in the study, 12 (40%) 
+turned out to be male whereas 19 (60%) were female. Figure 2 illustrates this. 
+ 
+
+25 
+ 
+ 
+Figure 2: Gender distribution 
+Source: Primary data 2023 
+Figure 2 above shows that majority of 89% of the respondents 40 % were male and 60% were 
+female in the NGO. The findings are a representation of gender distribution among staff in Faraja 
+Africa Foundation. 
+4.3.1 Distribution of the Respondents by Age 
+Age was considered when evaluating the experience required in financial management in any 
+organization. Most authors have found age to be related to the experience possessed by the staff 
+or workers. The study was aimed at determining the age distribution of the respondents at Faraja 
+Africa Foundation. Table 4.1 presents the results. 
+ 
+ 
+ 
+ 
+GENDER
+MALE
+FEMALE
+
+26 
+ 
+Table 4.1 Respondents Age Distribution 
+Source: Secondary and primary Data (2023) 
+The findings established that 20 (64.5%) of the respondents were aged 20 to 30 years and 
+6(19.3%) were aged 31-40 years and 5(16.2%) of the respondents were aged 41-50 and above 
+50. According to the study, a large number of the respondents were aged between 20 and 30 
+years. The findings imply that Faraja Africa Foundation was mainly comprised of middle-aged 
+persons. 
+4.3.2 Respondents level of Education 
+According to Abok (2013), there is the need of having qualified personnel in terms of academic 
+qualifications which influences the required skills in the management of programs or projects. 
+The study aimed at investigating the respondents’ highest academic qualification. The findings 
+are presented in the table below. 
+Table 4.2 Level of Education 
+Age 
+Frequency 
+Percentage 
+20-30 
+20 
+64.5 
+31-40 
+6 
+19.3 
+41-50 and above 50 
+5 
+16.2 
+TOTAL 
+31 
+100 
+Level of education 
+Frequency 
+Percentage 
+Bachelor degree 
+21 
+67.7 
+Post graduate diploma 
+0 
+0 
+Master’s degree 
+6 
+19.3 
+Post doctorate 
+4 
+13 
+Total 
+31 
+100 
+
+27 
+ 
+Source: Secondary and Primary data 
+Table 4.2 findings suggest that only 67.7% of the respondents had attained a bachelor’s degree as 
+their highest level of education, 19.3% had attained their master’s degree while 13% had attained 
+a post doctorate. This finding implies that the people who participated in the study had enough 
+cognitive capacity to understand, appreciate and reliably respond to the study questions on 
+strategic financial management and project financial sustainability given their fairly high level of 
+education. It was stated by Ochuodho &Ngaba, 2020 that firms need to ensure their personnel 
+poses necessary skills and education qualification of at least bachelor’s degree to be able to 
+effectively run various departments in organizations 
+4.3.3 Number of the Years Respondent has been working in the organization 
+This question investigated how long the respondents had been working in the organization. Table 
+4.3 shows the results. 
+Table 4.3: Number of years worked in the organization 
+Number of Years 
+Frequency 
+Percent 
+Less than 5 years 
+13 
+42 
+6-10 years 
+15 
+48.3 
+Over 10 years 
+3 
+9.7 
+Total  
+31 
+100 
+Source: Secondary and primary data 
+Table 4.4 findings shows that 13(42%) who had worked for less than a year in their NGO but the 
+majority of 27(48.3%) had held their worked with the 6-10 years and 3(9.7%). This implies that 
+most respondents has attained adequate experiences in financial management practices in NGOs 
+and could therefore had reliable and valid information on the subject matter under study by 
+virtue of the long time worked with the NGO. 
+
+28 
+ 
+4.4. Findings on Financial Management practices and Financial Sustainability Faraja 
+Africa Foundation 
+This section presents the empirical findings of the study according to the objectives. The 
+empirical findings are analyzed using descriptive statistics of percentages, mean and standard 
+deviations, correlation and regression analysis. 
+4.4.1 Financial Reporting 
+The study also aimed to determine how financial sustainability NGOs is affected by financial 
+reporting. The study’s was to find out whether the financial reports reflected the true view of the 
+projects implementation at the organization. The results of this are as below in table 4.4. 
+Table 4.4: Results on Financial Reporting 
+ 
+QUESTIONS 
+SA 
+A 
+NS SD 
+D 
+1 
+Monthly financial statements are availed before the end 
+of the following month 
+50 
+50 
+- 
+- 
+- 
+2 
+Financial reports are submitted to the relevant 
+stakeholders and donors in the right format and timely  
+58.4 
+ 
+41.6 
+ 
+- 
+- 
+- 
+3 
+The process of financial reporting is clear and very easy 
+to understand for the members of the organization 
+48.4 
+ 
+48.5 
+ 
+- 
+- 
+3.1 
+4 
+The performance reports and activity are analyzed and 
+measured based on the allocated budget 
+56.2 
+ 
+ 
+43.8 
+ 
+- 
+- 
+ 
+- 
+5 
+The management regularly meet to review various 
+financial reports to ensure that implementation process is 
+met 
+50 
+50 
+- 
+- 
+- 
+Source: Primary data (2023) 
+ 
+ 
+
+29 
+ 
+Table 4.5 Mean responses and standard deviation on financial reporting 
+ 
+QUESTIONS 
+N 
+Mean Std deviation 
+1 
+Monthly financial statements are availed before the end of 
+the following month 
+31 
+4.37 
+0.500 
+2 
+Financial reports are submitted to the relevant stakeholders 
+and donors in the right format and timely  
+31 
+4.11 
+0.749 
+3 
+The process of financial reporting is clear and very easy to 
+understand for the members of the organization 
+31 
+4.2 
+0.735 
+4 
+The performance reports and activity are analyzed and 
+measured based on the allocated budget 
+31 
+4.27 
+0.826 
+5 
+The management regularly meet to review various 
+financial reports to ensure that implementation process is 
+met 
+31 
+4.31 
+0.696 
+Source: Primary data (2023) 
+The above table indicates Monthly financial statements are availed before the end of the 
+following month, with mean and standard deviation (M=4.37; SD=0.500). Financial reports are 
+submitted to the relevant stakeholders and donors in the right format and timely at Faraja Africa 
+foundation were also analyzed and measured based on the allocated budget, mean and standard 
+deviation (M=4.11; SD=0.749). The study also found that the process of financial reporting is 
+clear and very easy to understand for the members of the organization, with mean and standard 
+deviation (M= 4.2; SD=0.735). The performance reports and activity are analyzed and measured 
+based on the allocated budget with mean and standard deviation (M=4.27; SD=0.826). The study 
+discovered that the management regularly meet to review various financial reports to ensure that 
+implementation process is met, mean and standard deviation (M=4.31; SD=0.696). 
+The overall composite mean and standard deviation was (M= 4.21; SD=0.701), an indication that 
+financial reporting practices among them being financial disclosure, financial reviews, analyzing 
+
+30 
+ 
+financial reports among others were widely and well applied in the organization’s financial 
+management practices. 
+4.4.2 Budgeting Control 
+The study was to establish how financial sustainability of NGOs is affected by budgeting control. 
+In order for this objective to be achieved, the study required the respondents to demonstrate how 
+often they were involved in the budgeting process 
+The findings are as shown in Figure 3. 
+ 
+Figure 3: Involvement in Budgeting Process 
+Source: Primary Data (2023) 
+The findings indicate that 80% of the respondents agreed that they were involved in budgeting 
+process every time whenever it was being done within. Stating that 12% of the respondent were 
+not more often involved while another 8% stated that they were never involved in the budgeting 
+process. This was a positive finding as the respondents formed the largest percentage of the 
+employees who participated in financial management in the organization, hence it is key to 
+ensure they are involved in the budgeting process. 
+Budgeting process
+Every time
+Not often
+Never
+
+31 
+ 
+The percentages for strongly agree and agree are combined to denote agree while strongly 
+disagree and disagree are combined to denote disagree. The findings on budgeting control are 
+presented below. The findings are as displayed in Table 4.6 
+Table 4.6: Results on Budgeting Control 
+ 
+QUESTIONS 
+SA 
+A 
+NS 
+SD 
+D 
+1 
+Budgets in this NGO are prepared periodically. 
+45.3 
+ 
+31.2 
+ 
+7.8 
+ 
+9.4 
+ 
+6.2 
+2 
+Organization develops budget timetables and allocate 
+budget preparation responsibilities 
+55.8 
+44.2 
+ 
+- 
+- 
+- 
+ 
+3 
+The senior management team is involved in budget planning 
+process. 
+45.3  35.9  3.1  
+9.4  
+6.2  
+4 
+There is consistent revising of the original budget to meet 
+the arising issues. 
+ 
+32.8 
+ 
+59.4 - 
+- 
+7.8 
+ 
+5 
+Our NGO has comprehensive annual budgets which include 
+sources and use of funds. 
+56.2  43.8  - 
+- 
+- 
+Source: Primary Data (2023) 
+The study’s further intent was to determine to what extent measures of budgeting control had 
+been achieved at Faraja Africa Foundation. The results of this are as below in table 4.7. 
+ 
+ 
+ 
+ 
+ 
+
+32 
+ 
+Table 4.7 Mean responses and standard deviation on Budgeting control 
+ 
+QUESTIONS 
+N 
+Mean Std. deviation 
+1 
+Budgets in this NGO are prepared periodically. 
+31 
+4.46 
+0.762 
+2 
+Organization develops budget timetables and allocate 
+budget preparation responsibilities 
+31 
+4.36 
+0.944 
+3 
+The senior management team is involved in budget 
+planning process. 
+31 
+4.32 
+0.762 
+4 
+There is consistent revising of the original budget to 
+meet the arising issues. 
+ 
+31 
+4.19 
+0.986 
+5 
+Our NGO has comprehensive annual budgets which 
+include sources and use of funds. 
+31 
+4.62 
+0.755 
+Source: Primary Data (2023) 
+The findings indicate that Faraja Africa Foundation Budgets in this NGO are prepared 
+periodically, mean and standard deviation (M=4.46; SD= 0.762). The Organization develops 
+budget timetables and allocate budget preparation responsibilities, mean and standard deviation 
+(M=4.26; SD=0.944). The organization involves senior management team in budget planning 
+process, mean and standard deviation (M=4.32; SD=0.762) and the organization consistently 
+revises the original budget to meet the arising issues, mean and standard deviation (M= 4.19; 
+SD=0.986). The organization has comprehensive annual budgets which include sources and use 
+of funds mean and standard deviation (M= 4.62; SD= 0.755). 
+The overall composite mean and standard deviation was (M=4.17; SD=0.782), an indication that 
+the organization widely practiced budgeting control in their financial management. 
+ 
+
+33 
+ 
+4.4.3 Internal Control 
+This objective of the study focused on finding out to what extent internal control affects financial 
+sustainability of NGOs, a case of Faraja Africa Foundation. The study sought to determine how 
+the organization achieved the various measures of internal control.  
+This is shown below in table 4.8 
+Table 4.8. Results on Internal Control  
+ 
+QUESTIONS 
+SA 
+A 
+NS 
+SD 
+D 
+1 
+Staff in this NGO have clearly defined roles and 
+responsibilities.  
+45.4 
+ 
+ 
+40.6 
+ 
+- 
+10.9 
+ 
+3.1 
+2 
+The organization selects an independent auditor to do annual 
+audit 
+60.9 25  
+7.8  
+3.1  
+3.1  
+3 
+The NGO has a funding risk response mechanism to shield the 
+NGO once exposed to the risk 
+4.7  
+6.2  
+10.9  43.8  34.4  
+4 
+The management of this NGO manifests regular management 
+reporting 
+60.9 
+ 
+ 
+32.8 - 
+3.1 
+ 
+3.1 
+5 
+There are appropriate measures set to ensure the organization 
+resources are safeguarded from corruption and wastage 
+31.2  53.1  4.7  
+10.9  - 
+6 
+Effort is undertaken to adequately assess the likelihood of 
+identified  risk occurring 
+39.1  35.9  7.8  
+7.8 
+9.4  
+Source: Primary Data (2023) 
+ 
+The study’s further intent was to determine to what extent measures of internal control had been 
+achieved at Faraja Africa Foundation. The results of this are as below in table 4.9 
+ 
+
+34 
+ 
+ 
+Table 4.9 Mean responses and standard deviation on internal control 
+ 
+QUESTIONS 
+N 
+Mean Std. deviation 
+1 
+Staff in this NGO have clearly defined roles and responsibilities.  31 
+4.73 
+0.575 
+2 
+The organization selects an independent auditor to do annual 
+audit 
+31 
+4.08 
+0.657 
+3 
+The NGO has a funding risk response mechanism to shield the 
+NGO once exposed to the risk 
+31 
+3.75 
+0.665 
+4 
+The management of this NGO manifests regular management 
+reporting 
+31 
+4.13 
+0.434 
+5 
+There are appropriate measures set to ensure the organization 
+resources are safeguarded from corruption and wastage 
+31 
+4.75 
+0.775 
+6 
+Effort is undertaken to adequately assess the likelihood of 
+identified  risk occurring 
+31 
+4.67 
+0.565 
+Source: Primary Data (2023) 
+A good number of respondents strongly agreed that the Staff in this NGO have clearly defined 
+roles and responsibilities with mean and standard deviation (M=4.73 SD=0.575). The 
+organization selects an independent auditor to do annual audit to a great extent, standard 
+deviation and also the mean (M=4.08 SD=0.657). The study also found out that a good number 
+of the respondents were not sure whether The NGO has a funding risk response mechanism to 
+shield the NGO once exposed to the risk with mean and standard deviation (M=3.75 SD=0.665). 
+The management of this NGO manifests regular management reporting, mean and standard 
+deviation (M=4.13; SD=0.434). The study further established that There are appropriate 
+measures set to ensure the organization resources are safeguarded from corruption and wastage, 
+mean and standard deviation (M=4.75; SD=0.775). The respondents strongly agreed that effort is 
+
+35 
+ 
+undertaken to adequately assess the likelihood of identified risk occurring, Mean and standard 
+deviation (M=4.67; SD=0.565). 
+The overall composite mean and standard deviation was (M=4.35; SD=0.611), an indication that 
+various internal control measures were widely applied in the running and management of the 
+organization. Internal control was considered as one of the key areas whenever establishing the 
+financial sustainability in any organization.  
+4.4.4 Financial Sustainability 
+Furthermore, the study’s intent was to determine the financial sustainability of the Faraja Africa 
+Foundation for the period between 2020 and 2023. The percentages for strongly agree and agree 
+are combined to denote agree while strongly disagree and disagree are combined to denote 
+disagree. The findings on financial sustainability are presented below. The findings are outlined 
+in Table 4.10. 
+Table 4.10 Results on Financial Sustainability 
+ 
+QUESTIONS 
+SA 
+A 
+NS 
+SD 
+D 
+1 
+There is high level of financial resilience in the organization 
+ 
+ 
+ 
+ 
+ 
+2 
+The NGO has ability to meet its operational costs at all times 
+48.4 
+ 
+37.5 
+ 
+- 
+10.9 
+ 
+3.1 
+3 
+Project activities will go on even if donors withdrew their 
+financial support. 
+4.7  
+3.1  
+- 
+51.6  40.6  
+4 
+The organization constantly has surplus of income after 
+spending 
+- 
+26.6  -  
+21.9  51.6 
+5 
+The organization can survive for very long time without 
+major financial challenges 
+4.7 
+ 
+9.3 
+ 
+- 
+46.9 
+ 
+39.1 
+
+36 
+ 
+6 
+All planned project activities of the NGO are being 
+implemented 
+55.5 
+ 
+41.4 
+ 
+- 
+- 
+3.1 
+Source: Primary Data (2023) 
+The study’s further intent was to determine to what extent measures of budgeting control had 
+been achieved at Faraja Africa Foundation. The results of this are as below in table 4.11 
+ 
+Table 4.11 Mean responses and standard deviation on financial sustainability 
+ 
+QUESTIONS 
+N 
+Mean 
+Std. deviation 
+1 
+There is high level of financial resilience in the organization 
+31 
+4.28 
+0.715 
+2 
+The NGO has ability to meet its operational costs at all times 
+31 
+4.01 
+0.654 
+3 
+Project activities will go on even if donors withdrew their 
+financial support. 
+31 
+2.45 
+0.952 
+4 
+The organization constantly has surplus of income after 
+spending 
+31 
+2.50 
+0.668 
+5 
+The organization can survive for very long time without 
+major financial challenges 
+31 
+2.91 
+1.039 
+6 
+All planned project activities of the NGO are being 
+implemented 
+31 
+4.38 
+0.717 
+Source: Primary Data (2023) 
+The findings indicate that there was a high level of financial resilience in the organization for the 
+period between 2020 and 2023 with mean and standard deviation (M=4.28; SD=0.715). This was 
+mainly achieved due to the firm having qualified staff who also had required skills in the 
+financial management department and also having majority of the staff who were well 
+experienced to run the financial department in the organization. A great number of respondents 
+
+37 
+ 
+were in agreement that The NGO has the ability to meet its operational costs at all times with 
+mean and standard deviation (M=4. 01; SD=0.654). 
+The study further established that the project activities of Faraja Africa Foundation will go on 
+even if donors withdrew their financial support but the respondents were not in agreement with 
+that statement, mean and standard deviation (M= 2.45; SD= 0.952), and that it did not constantly 
+have a surplus income after spending (M=2.50; SD=0.668). The respondents disagreed that the 
+organization can survive for very long time without major financial challenges, mean and 
+standard deviation (M=2.91; SD=1.039). The respondents strongly agreed that all planned 
+project activities of the NGO are being implemented, mean and standard deviation (M=4.38; 
+SD=0.717). 
+This was attributed to the organization fully relying on financial donors who sponsor a huge 
+fraction of its budget as it is a Non-Profit organization. The overall composite mean and standard 
+deviation was (M=3.42; SD=0.671), signifying that a large proportion of respondents could not 
+establish if the organization was in a good position to be declared to have achieved financial 
+sustainability. 
+4.5 Correlation Analysis 
+The study used Pearson product – moment correlation coefficient in order to determine the 
+strength of linear relationship between financial management practices (budgeting control, 
+financial reporting, internal control and financial control) and financial sustainability. According 
+to Wong & Hew, 2005, The Pearson correlation coefficient is abbreviated by r and can take the 
+range of values between -1 and +1.Wong and Hew (2005) further explain that the Pearson 
+correlation coefficient value (r) that ranges from 0.10 to 0.29 is taken as weak relationship, 0.30 
+
+38 
+ 
+to 0.49 is taken to be medium or moderate relationship while more than 0.49 is taken to be a 
+strong positive correlation between the variables under study. The results shown in below. 
+ 
+Table 4.12: Correlation Analysis: Financial management practices and financial 
+sustainability 
+ 
+ 
+Financial 
+Sustainability 
+ 
+Financial 
+Reporting 
+ 
+Budgeting 
+Control 
+ 
+Internal 
+Control 
+Financial Sustainability 
+Pearson Correlation 
+1  
+.820*** 
+.723*** 
+.693*** 
+ 
+N 
+31 
+31 
+31 
+31 
+Financial Reporting 
+Pearson Correlation 
+.820*** 
+.651*** 
+1 
+.606*** 
+ 
+N 
+31 
+31 
+31 
+31 
+Budgeting Control 
+Pearson Correlation 
+.723***  
+1 
+.651*** 
+.640*** 
+ 
+N 
+31 
+31 
+31 
+31 
+Internal Control 
+Pearson Correlation 
+.693*** 
+.640*** 
+.606*** 
+ 1 
+ 
+N 
+31 
+31 
+31 
+31 
+The study found out that Financial reporting (Pearson correlation coefficient= 0.820) has a strong 
+positive correlation relationship with financial sustainability. The strong positive Pearson 
+correlation implies that the strength of financial sustainability is increased by ensuring that there 
+is timely and appropriate financial reporting at the organization. 
+
+39 
+ 
+Budgeting control has a strong positive correlation (Pearson correlation coefficient = 0.723) 
+relationship with financial sustainability. This implies that by increasing budgeting control, the 
+strength of the financial sustainability will also increase at Faraja Africa Foundation. 
+Internal control (Pearson correlation coefficient= 0.693) had a  positive correlation relationship 
+financial sustainability at the organization, an indication that increasing the internal control 
+measures at the organization will lead to increase in the strength of the financial sustainability at 
+the organization. 
+4.6 Regression Analysis 
+The study conducted various diagnostic test as a pre-requisite of conducting a regression 
+analysis. In order to determine how financial sustainability affects financial management 
+practices, the study adopted a multiple regression. The results shown in Table 4.13 outline the 
+coefficient of adjusted determination and that of coefficient of determination. 
+Table 4.13: Regression analysis Summary 
+Model  
+R 
+R Square 
+Adjusted R 
+Square 
+Std.Error of the 
+Estimate 
+1  
+0.879a
+ 
+0.774 
+0.755 
+0.323 
+a. Predictors: (Constant), Financial Reporting, Budgeting control, Internal Control 
+Source: Primary Data (2023) 
+The results were that the correlation’s coefficient R was 0.879, which indicated that the variables 
+were strongly positively correlated. The conclusion of the study was that there was a significant 
+relationship between financial management practices and financial sustainability because the P 
+value was less than 0.05. 
+
+40 
+ 
+The adjusted R square, R²= 0.755 indicate that 75.5% of the change in financial sustainability as 
+expounded by the model’s variables which are, budgeting control, financial reporting, internal 
+control. The remaining 24.5% can be accredited to other practices and factors that do not form 
+part of this study.  
+The study further adopted the coefficient of regression in order to establish how financial 
+sustainability is affected by each of the financial management practices. Table 4.14 shows the 
+coefficient for regression. 
+Table 4.14: Coefficients of Regression: Financial Management Practices and Financial 
+Sustainability 
+a. Dependent Variable: Financial Sustainability 
+Source: Primary Data (2023) 
+The coefficient of regression from Table 4.12 leads us to the equation 
+Y=0.164 +0.235X1 +0.427X2 +0.199X3 +0.166X4 +α. 
+Model 
+Unstandardized 
+coefficients 
+ 
+Standardized 
+coefficients 
+t 
+Sig 
+ 
+B 
+Std.Error 
+Beta 
+ 
+ 
+constant 
+.164  
+.329 
+ 
+.500 
+.020 
+Financial Reporting 
+.421  
+.114 
+.427 
+3.705 
+.001 
+Budgeting Control 
+.218  
+.092 
+.235 
+2.371 
+.022 
+Internal Control 
+.175  
+.083 
+.199 
+2.096 
+.041 

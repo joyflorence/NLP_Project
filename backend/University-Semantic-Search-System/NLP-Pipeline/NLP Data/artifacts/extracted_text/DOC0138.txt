@@ -1,0 +1,1677 @@
+ 
+ 
+ 
+ 
+THE COMPUTER MISUSE AMENDMENT ACT 2022: IMPACT ON DIGITAL JOURNALISM 
+PRACTICES: A CASE STUDY OF UGANDA CHRISTIAN UNIVERSITY 
+ 
+ 
+ 
+RONALD OCWEO 
+ 
+J22B04/062 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE SCHOOL OF JOURNALISM, MEDIA, AND 
+COMMUNICATION IN PARTIAL FULFILLMENT OF THE AWARD OF A BACHELOR OF 
+JOURNALISM AND COMMUNICATION OF UGANDA CHRISTIAN UNIVERSITY 
+ 
+August, 2024 
+ 
+
+i 
+ 
+DECLARATION 
+I, OCWEO RONALD, hereby affirm that this dissertation is my original work and has not 
+been submitted to this or any other institution for any academic award. 
+Signature : …………………………………………. 
+      OCWEO RONALD 
+                  J22BO4/062 
+Date: ………………………………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+APPROVAL 
+This dissertation has been submitted to the School of Journalism, Media, and Communication 
+at Uganda Christian University with the approval of the supervisor.  
+Signature: ………………………………… 
+Mr. Geoffrey Abraham Bakiraasa Ssenoga 
+Date: ……………………………………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+DEDICATION 
+This dissertation is dedicated to the students and professional practitioners of Digital 
+Journalism, my supervisor, Mr. Ssenoga Abraham Bakiraasa Ssenoga, my lecturers Mr. 
+Tumwine Edward, Mr. Frank Obonyo, Dr. Samuel Kazibwe, and my friends from the School 
+of Journalism, Media and Communication. These people have assisted me on various grounds 
+to strengthen and help me discover, rediscover, and uncover different multimedia potentials 
+in my quest to become a Multimedia journalist. I also would like to dedicate this research to 
+Mr. Etura Ambrose, Lira City Physical Planner, who advised me to join the School of 
+Journalism, media, and Communication. I would like to express my gratitude to my parents 
+Mr. and Mrs James Patrick and Doreen Okwir for their exceptional support in my journey 
+since childhood. They have provided invaluable support, particularly in terms of financial 
+assistance. Their unwavering commitment to my success has been commendable, and I am 
+immensely grateful for their guidance and encouragement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+ACKNOWLEDGMENT 
+I am indebted to the Almighty for bestowing upon me the inspiration, fortitude, and insight to 
+successfully complete the course, as well as the wisdom and understanding to navigate its 
+challenges. I am eternally indebted to him. I would like to express my gratitude to my 
+supervisor, Mr. Geoffrey Abraham Bakiraasa Ssenoga, for offering his expertise and 
+guidance throughout the process, without which this work would not have been possible. I 
+would like to express my sincerest gratitude for your patience, guidance, and invaluable 
+assistance in ensuring the success of this endeavor. I would like to express my profound 
+gratitude to my family, particularly my parents, Mr. and Mrs. James Patrick and Doreen 
+Okwir, for their invaluable support and guidance, as well as their financial assistance, which 
+was instrumental in the completion of this research project. This cannot be overstated. 
+Furthermore, gratitude is extended to the UCU communities for their unwavering support in 
+various capacities. Appreciation is also directed towards my comrades and classmates for 
+their assistance during discussions and consultations while doing course works or 
+assignments and preparation for exams at Uganda Christian University, particularly 
+Nobamuzi Simbilyabo Nathanael, Merinah Mbabazi, Dismas Nuwaine, Nuwasasira Lucy, 
+Michael Ainomugisha, Cyprian Mukenge, Marvin Twiinawe, Winter Walter Muganzi, and 
+others. Your dedication and commitment to my academic pursuits are commendable, and I 
+extend my sincerest gratitude to you all. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+TABLE OF CONTENTS 
+Table of Contents 
+DECLARATION ........................................................................................................................ i 
+APPROVAL .............................................................................................................................. ii 
+DEDICATION ......................................................................................................................... iii 
+ACKNOWLEDGMENT........................................................................................................... iv 
+TABLE OF CONTENTS ........................................................................................................... v 
+LIST OF ACRONYMS ......................................................................................................... viii 
+ABSTRACT .............................................................................................................................. ix 
+CHAPTER ONE ........................................................................................................................ 1 
+INTRODUCTION ..................................................................................................................... 1 
+1.0 Background .......................................................................................................................... 1 
+1.1 Problem Statement ............................................................................................................... 2 
+1.2 General Purpose ................................................................................................................... 2 
+1.3 Objectives of the Study ........................................................................................................ 3 
+1.4 Research Questions .............................................................................................................. 3 
+1.5 The Scope of the Study ........................................................................................................ 3 
+1.5.1 Geographical Scope .......................................................................................................... 3 
+1.5.2 Content Scope ................................................................................................................... 4 
+1.5.3 Time Scope ....................................................................................................................... 4 
+1.6 Justification of the Study ..................................................................................................... 4 
+1.7 Significance of the Study ..................................................................................................... 5 
+1.8 Theoretical Framework ........................................................................................................ 5 
+CHAPTER TWO ....................................................................................................................... 7 
+LITERATURE REVIEW .......................................................................................................... 7 
+
+vi 
+ 
+2.0 Introduction .......................................................................................................................... 7 
+2.1 Understanding Digital Journalism ....................................................................................... 7 
+2.2 Understanding the Computer Misuse (Amendment) Act .................................................... 9 
+2.3 Digital Journalism Vs Computer Misuse (Amendment) Act ............................................. 10 
+CHAPTER THREE ................................................................................................................. 13 
+METHODOLOGY .................................................................................................................. 13 
+3.0 Introduction ........................................................................................................................ 13 
+3.1 The Research Design ......................................................................................................... 13 
+3.2 The Case Study Design ...................................................................................................... 14 
+3.2.0 Justification ..................................................................................................................... 14 
+3.3 Sampling ............................................................................................................................ 15 
+3.4 Research Techniques ......................................................................................................... 15 
+3.4.1 Interviews ........................................................................................................................ 15 
+3.4.2 Focus Group Discussion ................................................................................................. 16 
+3.5 Data Collection .................................................................................................................. 16 
+3.6 Data Analysis ..................................................................................................................... 17 
+3.7 Quality Control .................................................................................................................. 18 
+3.7.1 Reliability ........................................................................................................................ 18 
+3.7.2 Validity ........................................................................................................................... 18 
+3.8 Ethical Considerations ....................................................................................................... 18 
+3.9 Limitations to the Study ..................................................................................................... 19 
+CHAPTER FOUR .................................................................................................................... 20 
+DATA INTERPRETATION & PRESENTATION OF RESULTS ........................................ 20 
+4.0 Introduction ........................................................................................................................ 20 
+4.1 Data Description ................................................................................................................ 26 
+CHAPTER FIVE ..................................................................................................................... 33 
+DISCUSSION OF RESULTS ................................................................................................. 33 
+
+vii 
+ 
+5.0 Interpretation of Results ..................................................................................................... 33 
+5.1 Research Questions Vs Findings ....................................................................................... 33 
+5.2 Findings Vs Literature Review .......................................................................................... 37 
+5.3 Theoretical Framework Vs Findings ................................................................................. 39 
+5.4 Unexpected results ............................................................................................................. 41 
+CHAPTER SIX ........................................................................................................................ 43 
+CONCLUSION ........................................................................................................................ 43 
+6.0 Summary of the main findings ........................................................................................... 43 
+6.1 Implications of the research ............................................................................................... 43 
+6.2 Contributions of the Study ................................................................................................. 44 
+6.3 Avenues for Future Research ............................................................................................. 44 
+REFERENCES ........................................................................................................................ 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+viii 
+ 
+ 
+ 
+LIST OF ACRONYMS 
+UBC  
+ – 
+ Uganda Broadcasting Cooperation 
+CMA   
+–  
+Computer Misuse (Amendment Act) 
+DJ  
+ 
+–  
+Digital Journalism 
+BBC   
+– 
+ British Broadcasting Cooperation 
+ NEEDP 
+ – 
+ National Economic Empowerment Dialogue Party 
+X 
+ 
+ –  
+Twitter 
+I.K Musaazi 
+ –  
+Ignatius Kangave Musaazi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+ 
+ 
+ABSTRACT 
+This study Assesses the Impact of the Computer Misuse (Amendment Act) 2022 on the 
+practice of digital journalism a case study of Uganda Christian University. This study seeks 
+to establish the loopholes within the Computer Misuse (Amendment Act) 2022 which are 
+liable for exploitation by narrow interest groups, it further addresses how these loopholes 
+have hindered the advancement of digital journalism and how the loopholes found can be 
+bridged. The study employs qualitative methods, including questionnaires, and content 
+analysis, to assess the impact of the Computer Misuse (Amendment Act) 2022 on digital 
+journalism practices. This study contributes to the existing literature on digital journalism by 
+establishing their channels or mode of operation in the digital world, it further elaborates in-
+depth on the origins and provisions of the Computer Misuse (Amendment Act) 2022. Using a 
+theoretical framework based on Authoritative theory, the study assesses how the Act is a tool 
+for the suppression of digital press freedom in their quest to collect, gather, produce, and 
+share content online. It also highlights the significance of media freedom in a bid for nation-
+building, accountability, and having an informed society. 
+ 
+ 
+ 
+ 
+                                                    
+ 
+ 
+ 
+
+1 
+ 
+                                                        CHAPTER ONE 
+                                                       INTRODUCTION 
+1.0 Background 
+Digital journalism practices in Uganda have been facing immense pressure from government 
+regulations, policies, and laws. The existence of widespread misinformation, disinformation, 
+fake news, and propaganda has led to limitations on digital journalism through internet 
+restrictions and policies (Florence, 2021). However, these policies were first introduced by 
+the colonial masters (Britain) in 1954, when the media industry was introduced in Uganda. 
+The Uganda Broadcasting Cooperation (UBC), which was a state-owned BBC, undertook an 
+authoritarian theory of mass media that censored freedom of journalism practices, limiting it 
+to the promotion of British propaganda at the expense of ordinary Ugandans who demanded a 
+libertarian theory that anticipates equality and freedom in journalism practices. In addition, 
+the British used it to suppress the activities of Pan-Africanists such as I.K Musaazi, who were 
+outspoken about the British state of governance by demanding policy reviews and political 
+inclusion (Bob, 2012). With the evolution of the internet or the digital era, accessibility, and 
+dissemination of information have increased, giving birth to digital journalism practices 
+among student journalists, professionals, and citizen journalists within Uganda Christian 
+University, Mukono. This involves sharing media content through the internet as opposed to 
+print or broadcast. However, online sharing of content has been associated with falsification, 
+distortion, disinformation, misinformation, and propaganda, attracting numerous policies in a 
+bid to curb, discourage, and limit their distribution. These policies include the Computer 
+Misuse (Amendment Act), which has in turn crippled digital journalism practices in regard to 
+unlawful exposure and sharing of information or data from fraud, embezzlement of funds, 
+corruption, misuse of public offices, human rights violations, and other activities that render 
+any journalism practice a public watchdog and accountable to the society (Carl-Magnus 
+Höglund & Johan Karlsson Schaffer, 2021).  
+In this study, I intend to examine the limitations that the amended Computer Misuse Act of 
+2022 presents to digital journalism practices, the loopholes that may exist within the 
+provisions of the policy, and the framework within which media practitioners or journalists 
+can still operate despite the sabotaging implications of the policy. 
+ 
+
+2 
+ 
+1.1 Problem Statement 
+The Computer Misuse (Amendment Act) has imposed restrictions on digital journalism 
+practices in Uganda, making it difficult for journalists to create, upload, disseminate, and 
+distribute content online. Journalists in Kampala and other neighboring districts have faced 
+various penalties as a result of this law, including house and office searches, seizure of 
+computer-related properties, threats, and arrests. For instance, Pidson Kakaire, the managing 
+editor of Drone Media, was charged with criminal libel and offensive communication under 
+this law. Dr. Stella Nyanzi, a human rights activist, was also arrested and charged with cyber 
+harassment and offensive communication (Michael, Anke F. and Kerem, 2016). The 
+Computer Misuse (Amendment Act) prohibits the unauthorized sharing of information or 
+data electronically, the sending and sharing of malicious or unsolicited information, and the 
+misuse of social media activities. These provisions pose a significant threat to digital 
+journalism, including public watchdog function, accountability function, and dissemination of 
+information. It makes it illegal to access information or data without authorization, which can 
+lead to penalties. The study also navigates how these loopholes influence journalism 
+practices. 
+According to Mr. Asuman Odaka, the Secretary-General of the National Economic 
+Empowerment Dialogue Party (NEEDP), the Computer Misuse Act of 2022 puts the practice 
+of journalism on the brink of collapse in Uganda. Therefore, this study aims to identify the 
+loopholes within the framework of this law that can end up crippling the progress of Digital 
+journalism and that can be exploited by different parties with narrow interest. The study will 
+help establish the limitations brought about by the Computer Misuse (Amendment Act) and 
+its impact on digital journalism practices in Uganda. 
+1.2 General Purpose 
+The main objective of this study is to analyze the limitations imposed by the amended 
+Computer Misuse Act of 2022 on Digital journalism in Uganda Christian University. The 
+study aims to identify any potential loopholes within the law that could allow digital 
+journalism practices to continue legally and to evaluate the existence of a framework for 
+journalists to operate within the law. The research also seeks to explore the legal implications 
+of the Computer Misuse (Amendment Act) on the practice of journalism in Uganda Christian 
+University. 
+ 
+
+3 
+ 
+1.3 Objectives of the Study 
+• To assess the extent to which digital journalism practices have been limited by 
+the Computer Misuse (Amendment Act) within Uganda Christian University, 
+Mukono. 
+• To find out how digital journalists can practice within the parameters of the 
+Computer Misuse (Amendment Act) at Uganda Christian University, Mukono. 
+• To examine loopholes within the Computer Misuse (Amendment Act) regarding 
+digital journalism practices at Uganda Christian University, Mukono. 
+1.4 Research Questions 
+RQ1: What are the loopholes within the Computer Misuse (Amendment Act), 2022 that are 
+liable to exploitation by narrow interest parties? 
+ 
+RQ2: How can these loopholes hinder the advancement of Digital journalism practices? 
+RQ3: How can these loopholes be bridged? 
+1.5 The Scope of the Study 
+This study intends to examine the impact of the Computer Misuse (Amendment Act) on the 
+Journalism practice at Uganda Christian University, Mukono. In addition, it seeks to identify 
+the existing framework within which Digital journalism practices can operate despite efforts 
+to sabotage its activities and to assess loopholes or unconstitutionality existing within the law. 
+The study targets Digital journalists who have been directly limited by the Computer Misuse 
+(Amendment Act); it also seeks to understand how Digital journalists can operate within the 
+framework of the Computer Misuse (Amendment Act). 
+1.5.1 Geographical Scope 
+This study intends to cover the Uganda Christian University, Mukono district. This is in order 
+to investigate the extent to at the Computer Misuse (Amendment Act) has limited Digital 
+journalism practices within the institution especially among student journalists, and 
+professional journalists operating within the University. In addition, analyze possible 
+similarities and differences in those limitations. It is also intended to examine and establish a 
+framework within which Digital journalists in these districts can work within the framework 
+of the Computer Misuse (Amendment Act) and to conclusively identify loopholes within the 
+Computer Misuse (Amendment Act) 
+
+4 
+ 
+1.5.2 Content Scope 
+This study intends to assess Digital journalists including professional journalists, student 
+journalists, and Citizen journalists who have practically participated in pre-production, 
+production, post-production, and distribution of online content through platforms such as 
+Facebook, Twitter(X), YouTube, Instagram, and Websites. This is aimed at examining their 
+experiences while distributing online content within the provisions of the Computer Misuse 
+(Amendment Act) and the limitations faced in the process. The study also aims to examine 
+legal experts on allegations that the Computer Misuse (Amendment Act) possesses Acts that 
+are unconstitutional (loopholes) with the sole purpose of discouraging online activism and 
+scrutinization of government apparatus. In conclusion, the content scope of the study is 
+desired to establish a framework within which Digital journalists can disseminate news 
+content online without contradicting the law in mention. 
+1.5.3 Time Scope 
+The study intends to cover a time period of four (4) months, this is based on the analogy that 
+news-worthy events and happenings transpire on a daily basis, and with Digital journalism 
+practices at hand, the speed at which content production and distribution is relatively high 
+due to the accessibility ease that online platforms such as Twitter(X), Facebook, Instagram, 
+YouTube, and Websites provide to the respective audiences. Therefore, a period of four 
+months offers ample time to examine the limitations faced in the process of content 
+production and dissemination by Digital journalists. In addition, it should also be able to 
+establish a framework within which Digital journalists can still produce content and distribute 
+without contradicting the Computer Misuse (Amendment Act) and finally to assess legal 
+experts on the unconstitutionality through loopholes that are within the provisions of the 
+Computer Misuse (Amendment Act). 
+1.6 Justification of the Study 
+This study is imperative on the following counts; 
+• It will identify, assess, and define various limitations initiated on Digital journalism 
+practices by the Computer Misuse (Amendment Act). In addition, it focuses on 
+examining the existence of unconstitutional provisions within the Computer Misuse 
+(Amendment Act) also termed as loopholes, especially in regard to Digital journalism 
+roles and purposes of serving public interests through scrutinization and demanding 
+
+5 
+ 
+accountability of government apparatus by exposing corruption scandals, bribery, 
+fraud, embezzlement of public funds and abuse of public offices among others. 
+• It will establish an existing framework within which Digital journalism practices can 
+still operate consistently within the constraints of the Computer Misuse (Amendment 
+Act), this is purposely to avoid contradictions that may unfold while producing and 
+distributing online content and also to minimize the criminalization of the production 
+of online content that serves public interest. 
+1.7 Significance of the Study 
+This study is relatively significant on the following fronts; 
+• This study will establish the extent to which the Computer Misuse (Amendment Act) 
+has limited Digital journalism practices within online spaces in Mukono. In addition, 
+it will clearly show how these limitations on Digital journalism practices have led to 
+widespread unaccountability and reduced follow-up on issues of public interest for 
+example corruption scandals, abuse of public offices, and embezzlement of public 
+funds because of hindrances brought by provisions such as accessing unauthorized, 
+malicious and unsolicited information. 
+•  This study will establish a framework within which Digital journalists including 
+professionals, students, and citizen journalists within Mukono can still practice within 
+the constraints of the Computer Misuse (Amendment Act). This is aimed at 
+maintaining the coherence of the practice due to the accessibility and favorable 
+conditions offered by digital platforms such as Websites, Search engines, Facebook, 
+Twitter(X), Instagram, and YouTube. 
+• The research findings of this study will not only benefit Digital or online journalists 
+by 
+outlining 
+the 
+limitations, 
+and 
+existing 
+framework 
+and 
+establishing 
+unconstitutionality that requires reforms but also civic organizations and societies 
+who share influential content and ideologies online will get to continue with their 
+practices through the aid of the research findings of this study. 
+1.8 Theoretical Framework 
+The theoretical framework of this study is based on the approaches of the critical, libertarian, 
+normative, and authoritarian theories of media because they are largely associated with 
+authorities and press freedoms as seen below; 
+
+6 
+ 
+Andrew Feeberg (2008) stated that the dynamics of the critical theory in the communication 
+technological era have changed, this is because it provides a primary preposition to societal 
+issues of public interest. In addition, it further indicates that the internet provides innovational 
+structures that collectively unify respective audiences. 
+The study conveys the approaches of the Libertarian theory of media with an interest in the 
+evolution of media through digitalization, which states that people are rational beings who are 
+capable of distinguishing right and wrong, Kimumwe (2020) further states that man should be 
+accorded equal rights and opportunities to express oneself. In regards to digital journalism 
+practices, professionals, students, and citizen journalists should conceptualize, produce, and 
+distribute online content that is of public interest and impactful to society without limitations 
+brought by the Computer Misuse (Amendment Act). 
+This study further navigates that for new policies such as the Computer Misuse (Amendment 
+Act) to prevail, the normative theory of media is put into consideration since it states an ideal 
+framework through which media systems are operated by the state, authority, and 
+governments. In addition, it stresses media relations with political administrations rather than 
+media and public interests such as scrutiny and accountability. 
+This study also hints at the authoritarian theory of media which states that man is weak 
+insinuating that he is overshadowed by the powers and authority of the state and 
+governments. In addition, it highlights that the media is meant to serve the functionalities and 
+interests of the state which includes propaganda manifestations and brutalization of 
+democratic processes and participation such as elections in a bid to favor them (Anne, 2019) 
+In the next chapter, Literature Review, the study aims to define Digital journalism, Digital 
+journalists, and Computer Misuse (Amendment Act), and how they have affected each other 
+in the same sphere. 
+ 
+ 
+ 
+ 
+ 
+
+7 
+ 
+                                                            CHAPTER TWO 
+                                                      LITERATURE REVIEW 
+2.0 Introduction 
+This chapter aims at defining the concept of Digital journalism, the Computer Misuse 
+(Amendment Act), and establishing how the Computer Misuse (Amendment Act) has 
+affected Digital journalism since its enactment (Mackenzie, 2023). It also strives to further 
+investigate how researchers and scholars have assessed the limitations brought about by the 
+Computer Misuse (Amendment Act) on the practice of Digital journalism, its impact on the 
+practice after limitations, and existing unconstitutionalities or loopholes within the law.  
+2.1 Understanding Digital Journalism 
+This section explores the definition of Digital journalism using different approaches as seen 
+below; 
+Digital journalism is the production and distribution of news resources on digital spaces such 
+as Websites and Social Media platforms such as Twitter(X), Facebook, Instagram, and 
+YouTube among others (Deuze & Witschege, 2018). In addition, Digital journalism is a 
+networking that incorporates the production and dissemination of news and informational 
+resources (Silvio, 2019) Many scholars have hardly desegregated both digital and traditional 
+journalism in the aspect of consistency and news sourcing, but the tools employed in the 
+process of collecting information distinguishes them (Ferucci, 2017) 
+Hermida (2010) defines journalism in the digital era as moving journalism or journalism in 
+motion. The process of filtering relevant issues is the new phenomenon governing journalism 
+practices in the online or digital space (Franklin, 2013, p. 1). Under digitization, journalists 
+are availed with more chances which presents new bounds in the line of Analytics, audience, 
+and algorithms. Under digitization, the most notable changes are between content consumers 
+and producers, the agenda setting in media has changed since it has incorporated the public or 
+audiences as well. In the online or digital era, the consumers of news resources have turned 
+into news producers due to easy accessibility to online platforms such as Websites and social 
+media platforms. Therefore, this gives rise to digital journalists who may not necessarily be 
+professionals in the field. (Loosen, 2014) 
+
+8 
+ 
+It should be noted that Digital journalism practices have become instrumental in the field of 
+policymaking, this is due to new challenges and concerns brought by the new technologies 
+pertaining to privacy and information security especially the unsolicited, unauthorized, and 
+malicious messages that are aimed at blackmailing, spreading propaganda and issues of 
+public interest. Apparently, these concerns about digitization have paved the way for policies 
+like the Computer Misuse (Amendment Act) with provisions such as abuse of social media, 
+and unsolicited and unauthorized information among others with heavy fines and prison 
+sentences accorded in violation. 
+The following explanations establish the 5Ws and H of Digital journalism as seen below; 
+• Who 
+Digital journalism does not limit its definition to certified professionals in the field, 
+but with the technological advancements, whoever has access to the internet and can 
+supply news resources and commentaries into the online or digital domain qualifies to 
+be a digital journalist. (Lewis & Westlund, 2015) 
+Journalistic identity has undergone recession, this digitization has given birth to new 
+journalism dynamics including citizen journalism hence infiltrating the environment 
+once dominated by professional journalists (Knight, Geuze, and Gerlis 2008; Singer 
+2003) 
+• What 
+The content arrays of digital journalism include articles, blogs on a website, YouTube 
+videos, audio, news headlines, editorials, and art reviews. In addition, has also led to 
+the evolution of new content such as podcasts, reviews, fake news, rumors, and 
+misinformation among others. 
+• Where they operate, 
+Digital journalism is not affected or limited geographically. This is because content 
+can be uploaded and disseminated through websites, social media platforms, and 
+search engines with high speed and accessibility courtesy of connections through Wi-
+Fi or internet data. 
+• When 
+Digital journalism knows no time, this is attributed to its speed where content is 
+distributed, redistributed, posted, and re-posted within a short time via wireless 
+channels and networks. These wireless channels and networks are due to the 
+
+9 
+ 
+advancement in technology or digitization which is achieved through the 
+electromagnetic spectrum which comprises wavelength and frequencies. 
+• Why 
+Digital journalism is in place for various reasons ranging from content creation for 
+advertisement, income generation through sponsorships and endorsements, the 
+scrutinization of government apparatus, informing, educating, and entertaining 
+through content, it further acts as an influential tool on the public, to create awareness. 
+• How 
+Digital journalism encompasses a free accessibility environment with no defined rules 
+especially in terms of procedure and ethical grounds while creating and publishing 
+content online. In addition, it lacks specific ways in which content should be availed 
+to the public. 
+2.2 Understanding the Computer Misuse (Amendment) Act 
+This section defines the provisions of the Computer Misuse (Amendment Act) regarding 
+Digital journalism practices; 
+The Computer Misuse (Amendment Act) was signed into law by the President of Uganda 
+H.E Yoweri Museveni in 2022. This policy was moved on the floor of parliament by 
+Kampala Central Member of Parliament Hon. Muhammad Nsereko to reform the Computer 
+Misuse Act 2011 which was considered outdated. This move was backed by the idea that 
+technological advancements had introduced new issues, threats, and concerns that needed 
+urgent addressing. 
+Goitom (2023) further asserts that the government of Uganda signed the Computer Misuse 
+(Amendment Act) into law on the basis that transformations had taken place in the 
+technological sphere without clear reforms or changes in the policies and laws governing 
+them. In addition, the digitization era introduced new types of content for example fake news, 
+misinformation which posed a threat to privacy and information security thus prompting the 
+government to sign into law the Computer Misuse (Amendment Act) which introduces new 
+provisions criminalizing some practices within Digital journalism including Abuse of social 
+media, Unauthorized Access, Unsolicited Information and Malicious Information among 
+others.  
+ 
+
+10 
+ 
+The following are some of the provisions of the Computer Misuse (Amendment Act) that 
+limit Digital journalism practices according to Goitom (2023); 
+• Unauthorized Access to Information, 
+This provision states that anybody who gains access to another person’s information 
+or program, records video or audio of another: or disseminates information about or 
+that seems related to another, commits an offence. In addition, it places heavy 
+penalties of fines of up to 15 million shillings or a prison sentence below ten (10) 
+years or both. 
+• Unsolicited Information, 
+This provision states that Digital journalists should only disseminate information 
+concerning somebody else for example government officials only when they are in the 
+public interest, this is cited on the basis that unsolicited information may be without a 
+person’s consent and hence can lead to reputational damage. 
+This provision not only distorts the agenda-setting theory of media but also minimizes 
+media relevance in the internet era where anybody with digital accessibility can easily 
+set the topic of discussion. 
+Upon violation of this policy and conviction, one can serve up to seven (7) years of 
+incarceration and a fine of fifteen (15) million shillings or both. 
+• Social Media Abuse, 
+This provision criminalizes the distribution of informational content in contradictions 
+with the domestic laws of Uganda under concealed identity or disguising with 
+informational resources belonging to others. This provision limits Digital journalism 
+practices, especially in cases where content has to be held undercover to avoid 
+unnecessary leakages that can cause public outcry or image distortion. 
+It carries a fine of about 15 million shillings, a jail term of less than 5 years, or both 
+upon conviction. 
+2.3 Digital Journalism Vs Computer Misuse (Amendment) Act 
+This sub-section explores how the Computer Misuse (Amendment Act) and Digital 
+journalism practices have affected each other; 
+Many scholars agree that the Computer Misuse Amendment Act (2022) was proposed, 
+enacted, and signed into law with the sole aim of restricting Digital journalism practices. This 
+is because they scrutinize government bodies, demand accountability, and perform the public 
+
+11 
+ 
+watchdog role using platforms like Twitter(X), YouTube, and Instagram among others. In 
+addition, they also use sophisticated computer programs to monitor media activities online. 
+Upon examining online restrictions through laws like the Computer Misuse Amendment Act 
+(2022), different scholars, authors, and schools of thought agree that these policies undermine 
+international human rights standards; they further state that these policies lack a framework 
+of validity, legitimateness, rightness, and necessity. Through observation, researchers have 
+conclusively assessed that domestic cyber laws in Uganda are often unverified and executed 
+with minimal monitoring (Florence, 2021) 
+The initial target of the Computer Misuse (Amendment Act) was to primarily litigate and 
+intimidate free online sharing of information by Digital Journalists from accessing and 
+disseminating unauthorized information of public interest for example corruption scandals, 
+fraud, bribery, embezzlement of public funds and incompetence among government officials. 
+It has in turn been used to truncate the activities of these online journalists who offer forums 
+that scrutinize, reduce inadequacies, and hold the government accountable for all business 
+done in public offices from health structures, education systems, and public service delivery 
+among others (Matsiko and Kersting, 2023). It should be noted that the media industry 
+underwent numerous transitional changes under the Museveni regime, especially regarding 
+regulations and policies, this is evident through the Computer Misuse Act of 2011 (amended 
+2022) among others. Dr. Emily Maractho alludes that for the administration and evolution of 
+media in Uganda to be probed, the legal structures and policies have to be thoroughly 
+conveyed (Maractho, 2015) 
+It should be noted that in countries like Uganda, exercising political rights is limited to 
+elections which are often characterized by violence, abductions, rigging, and tribal 
+affiliations. Therefore, online platforms or Computer-mediated communication tools avail 
+new measures in political participation which includes awareness from Digital journalists and 
+activists through tools such as Twitter(X), Facebook, Instagram, and YouTube to rally for 
+infrastructural, administrational, and policy improvements in the line of health, education and 
+service delivery (Matsiko and Kersting, 2023). Therefore, this suggests that limiting the 
+activities of Digital journalists with the Computer Misuse (Amendment Act) not only 
+undermines freedom of expression but also hinders efforts to fight for the restoration of 
+credibility, consistency, and accountability of the state apparatus. 
+
+12 
+ 
+Different scholars allude that the existence of the Computer Misuse (Amendment Act) has 
+not only sabotaged Digital journalism practices but also the public or masses who are denied 
+opportunities to participate and advocate for free and fair governance systems through 
+activism (McIntyre and Meghan, 2021). For Digital journalism practices to be free, the public 
+or masses must determine what they expect from that particular media apparatus (public 
+agenda setting) (Michael Meyen et al., 2016) 
+Digital Journalists in Uganda consider themselves as mediators, or interposition themselves 
+as part of the public hence making them cover stories on issues affecting or happening within 
+their particular spheres of influence. However, some Digital journalists affiliate more with the 
+state functions than their role as the fourth estate or watchdog which asserts the Normative 
+theory of mass media (McIntyre & Meghan, 2021). This also constitutes why Digital 
+journalism practices are faced with less solidarity moves by internet service providers who 
+often comply with government policies to protect their entities instead of customers or users 
+for example MTN which supports all government positions in line with image and brand 
+protection (Florence, 2021) 
+Mackenzie (2023) asserts that regulating online or Digital journalism practices specifically 
+targets both the Users of online platforms for example Websites, Facebook, Twitter(X), 
+Instagram, YouTube, and the platforms themselves. This also instigates that regulations are 
+intended to discourage interactivity and engagement of users online specifically on political 
+topics, and matters of public interest, and also to persuade the digital platforms mentioned 
+above to synchronize content shared on their spaces, therefore calling for these platforms to 
+be wary of emerging domestic policies to maintain accessibility from wider geographical 
+scopes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13 
+ 
+CHAPTER THREE 
+METHODOLOGY 
+3.0 Introduction 
+This module explores the methodological approach and research design of this study. It relies 
+entirely on navigating concepts, experiences, and opinions of digital journalists, scholars, and 
+legal experts to guide the ideological approach. It assesses the qualitative approach used in 
+this study. It further addresses the data collection methods including questionnaires, 
+interviews, and focus group discussions. This module also dispenses analytical processes and 
+data interpretation techniques including reliability and validity. In conclusion, this module 
+defines the ethical considerations and limitations of this study.  
+3.1 The Research Design 
+Lelissa (2018) describes research design as the process of gathering, analyzing, and 
+interpreting research content or data. This intends to link the problem statement concerns 
+with the experiences, opinions, and concepts of digital journalism scholars and practitioners. 
+This states that the research design establishes the process of needed content or data, the 
+methodology applicable to find out the data, and how analysis will be done in a manner that 
+responds to the research questions which include: the limitations facing digital journalism 
+under the Computer Misuse (Amendment Act), the existing framework within which digital 
+journalism can be practiced and the unconstitutionalities or loopholes existing within the 
+Computer Misuse (Amendment Act) in regards to digital journalism practices. 
+This study uses descriptive and explanatory approaches that offer ground reality to the 
+limitations faced by digital journalism while practicing their craft under this law, what and 
+why there could be unconstitutionalities within the Computer Misuse (Amendment Act) in 
+regards to digital journalism practices and how digital journalism practices can prevail 
+without contradicting with the provisions of the Computer Misuse (Amendment Act). These 
+approaches seek to establish factors that lead to happenings for example reason and cause. In 
+addition, they offer backup evidence of their existence since they compare constraints and 
+relationships between various aspects relating to the Computer Misuse (Amendment Act) and 
+digital journalism practices (Lelissa, 2018). 
+ 
+
+14 
+ 
+The main goal of this study is to examine the impact of the Computer Misuse (Amendment 
+Act) on digital journalism practices in Mukono. Therefore, different scholarly concepts, 
+opinions, and experiences of digital journalism practitioners have to be assessed using 
+methods such as interviews, questionnaires, and focus group discussions to establish the 
+qualitative study design. 
+3.2 The Case Study Design 
+The case study design focuses on the qualitative research approach which offers various 
+means of internalizing happenings or events for example through reviewing concepts and 
+interacting with digital journalism practitioners to get opinions and experiences. Therefore, 
+the qualitative approach generalizes in unraveling how the Computer Misuse (Amendment 
+Act) and digital journalism practices have influenced one another within the Mukono setting. 
+This further states that the qualitative approach of research puts much emphasis on 
+establishing how phenomena transpire in case they co-exist in the same sphere or whenever 
+one is meant to regulate the other for example the Computer Misuse (Amendment Act) as a 
+policy was set to regulate the activities of computer-mediated forms of communication which 
+includes digital journalism practices. 
+3.2.0 Justification  
+Qualitative research approaches will investigate and produce in-depth accounts of the 
+concepts, perspectives, and experiences of the participants involved for example in this case 
+the digital journalism practitioners, media scholars, and legal experts within Uganda 
+Christian University. (Creswell, & Plano Clark, 2011; Munhall, 2012; Wuest, 2012; 
+Holloway & Galvin, 2016). Qualitative research will navigate how digital journalism 
+practices can continue within the existing framework of the Computer Misuse (Amendment 
+Act), it also establishes the loopholes within the provisions of the Computer Misuse 
+(Amendment Act) and some of the limitations brought by the Computer Misuse (Amendment 
+Act) on the practice of digital journalism, these are all through subjecting participants such as 
+digital journalism practitioners, media scholars and legal experts to the descriptive natures of 
+the research questions that can lead to responses that inform the existing situation(Curry et 
+al., 2009; Yin, 2015). The qualitative approach enables the researcher to possess and have 
+consistency in straightforwardness and responsibility throughout the research process hence 
+enabling the readers to identify critical analytical decisions made by the researcher. 
+
+15 
+ 
+However, the qualitative approach of research does not convert symbols used verbally while 
+expressing oneself into mathematical numbers or digits (Hogan et al., 2009; Sarantakos, 
+2013; Holloway & Galvin, 2016). 
+3.3 Sampling 
+This study seeks to identify and locate digital journalism practitioners within Uganda 
+Christian University, Mukono. This is because the institution is home to the School of 
+Journalism, media, and Communication which comprises Media scholars, digital journalism 
+practitioners, and student journalists who have practiced before or still practicing the art. 
+Therefore, sampling will enable the collection of rich information and data regarding the 
+impact of Digital Journalism on Computer Misuse (Amendment Act) from Uganda Christian 
+University as a sampling base (Paton, 1990; Marshall & Rossman, 2014). 
+3.4 Research Techniques 
+This study will explore several techniques in a bid to gather data and information on the 
+impact of the Computer Misuse (Amendment Act) on digital journalism practices in Mukono. 
+These techniques include interviews and focus group discussions. 
+3.4.1 Interviews 
+Under this study, different participants including Digital journalism practitioners, media 
+scholars, and legal experts from Uganda Christian University, Mukono will be subjected to 
+interview-based evaluations which will include question-asking and answer-responses. This 
+is intended to produce comprehensive information or data about the impact of the Computer 
+Misuse (Amendment Act) on Digital journalism practices in Mukono. This information will 
+be extracted from the experiences, concepts, and perspectives of these contributors. To gather 
+rigorous information about the limitations brought by the Computer Misuse (Amendment 
+Act) on digital journalism practices, the framework within which digital journalism practices 
+can be practiced without contradicting the provisions of the Computer Misuse (Amendment 
+Act), and finally the loopholes or unconstitutionalities existing within the provisions of the 
+Computer Misuse (Amendment Act). In conclusion, the results obtained from the interview 
+sessions are supposed to inform and justify the qualitative approach (Grey, 2014). 
+These interview sessions will incorporate shaped questions to source the needed information 
+calculatedly, they will further aid in availing explanations and ensuring connectivity with the 
+
+16 
+ 
+topic; Impacts of the Computer Misuse (Amendment Act) on Digital Journalism Practices in 
+Mukono (Gill et al., 2010). 
+3.4.2 Focus Group Discussion 
+This study intends to use focus group discussions to obtain or gather comprehensive 
+information from the group discussions. These group discussions will involve designated 
+groups of Digital journalism practitioners including student journalists at Uganda Christian 
+University with previous experiences in practicing Digital journalism before and after the 
+Computer Misuse (Amendment Act). This is intended to investigate their concepts, 
+experiences, and perspectives about the impact of the Computer Misuse (Amendment Act) on 
+Digital journalism practices (Morgan, 1996). In addition, the study further explores 
+incorporating respondent moderator focus group form of discussion. This will involve a few 
+selected Digital journalism practitioners participating in the discussion to take up roles such 
+as provisional group coordinators (Kamberelis & Dimitriadis, 2005). This is intended to 
+reverberate the rest of the participants to give or exhibit independent responses, this idea was 
+put into consideration to enable the participants freedom to discuss their concepts, 
+experiences, and perspectives. In addition, the autonomy of answers shared in the discussion 
+increases the depth and variety of concepts, experiences, and perspectives without mere 
+repetitions. In conclusion, the focus group discussions of data collection give room for 
+straightforward and frank answers which are needed to cultivate the gaps identified by this 
+study. 
+3.5 Data Collection 
+This study will explore the use of interviews and focus group discussions in collecting data or 
+information on the impacts of the Computer Misuse (Amendment Act) for example the 
+research question: What are some of the limitations brought by the Computer Misuse 
+(Amendment Act) on digital journalism practices will be addressed using both interviews and 
+focus group discussion to widen the resulting scope, the research question on how digital 
+journalism practices can work within the framework of the Computer Misuse (Amendment 
+Act) will be subjected to focus group discussions to verify what the majority think or regard 
+as appropriate. The research question regarding the unconstitutionality will be subjected to 
+both interviews and focus group discussion to create a critical analysis of the concept. Most 
+of the research questions will incorporate all the data collection techniques because the 
+
+17 
+ 
+presence of the researcher is vital regarding the degree of transparency. In addition, it adds 
+validity to the result or outcome of the research process (Holloway, 2005; Creswell, 2007) 
+3.6 Data Analysis 
+Under this stage, different analytical approaches will be explored to review and preview the 
+experiences, perspectives, and concepts of the participants. This is intended to determine the 
+outcomes of the research study on the impact of Computer Misuse (Amendment Act) on 
+Digital journalism practices in Mukono. These approaches include thematic analysis, content 
+review analysis, and Narrative analysis. 
+• Thematic Approach 
+This approach incorporates identifying repeated views or perspectives in a collection 
+of data or information. In this study, this approach will be used to address responses 
+to research questions such as; What are some of the limitations brought by the 
+Computer Misuse (Amendment Act) on Digital journalism practices in all the data 
+collection methods including interviews and focus group discussions. This is intended 
+to enable the identification of any repeated views or ideas from the participants 
+(Leonard & David, 2016). 
+• Content Review 
+Under this approach, reviews will be done on previous texts and declarations that 
+have been produced in line with the impact of the Computer Misuse (Amendment 
+Act) on the practice of Digital journalism through examining texts, key highlights, 
+and various concepts of media scholars or Digital journalism practitioners to analyze 
+the existence, interpretations, and similarities of those texts, highlights and conceptual 
+analogies from the focus group discussions and interviews(A.J, Kheinheksel, et.al,). 
+• Narrative Approaches 
+This explores Digital journalism practitioners as examples and concentrates on 
+establishing their narration of data and seeks to build knowledge based on the 
+experiences of Digital journalism practitioners while creating content before and after 
+the Computer Misuse (Amendment Act). This is through identifying coordinating 
+sequences within the narrations of Digital journalism practitioners as they discuss 
+their experiences before and after the signing of the Computer Misuse (Amendment 
+Act). This approach also seeks to examine what digital journalism practitioners think 
+about the possible unconstitutionalities within the provisions of the law (Josselson, R., 
+
+18 
+ 
+& Hammack P.L., 2021). This approach can contextualize and energize the 
+perspectives of digital journalism practitioners affected by the Computer Misuse 
+(Amendment Act). 
+3.7 Quality Control 
+This study intends to undertake the reliability and validity procedure in maintaining the levels 
+of information or data and the data collection methods such as interviews and focus group 
+discussions. These quality control approaches will provide the readers with reliable and 
+validated research outcomes which aims at furthering more research information in the field 
+of Digital journalism and the Computer Misuse (Amendment Act). 
+3.7.1 Reliability 
+This study will determine reliability by creating provisions for an in-depth description of the 
+procedures and mechanisms which will offer other researchers a basis to gather their data or 
+information with the same criteria (Firmin, 2008). It will also allow new researchers to carry 
+on work, especially those with matching research questions (Saumure & Given, 2008) 
+3.7.2 Validity 
+This segment of quality control will cultivate internal validity to determine the extent to 
+which data collected from interviews or focus group discussions represents ground reality or 
+ground examples. It will further navigate the methods of research and the contributors in this 
+case who include Digital journalism practitioners about the expression and presumptions of 
+the researcher (McMillan & Schumacher, 2006). To attain validity, this study will carefully 
+define the data in-depth, clearly indicating unfavorable and contentious issues using other 
+researchers to assess the outcomes articulately, fact-checking and analysis, 
+3.8 Ethical Considerations 
+This study intends to minimize threats aimed at reducing the integral aspect of Digital 
+journalism practitioners (Polit & Beck, 2010; Neuman, 2011, Munhall, 2012). This further 
+insinuates that the participants will include entirely Digital journalism practitioners who 
+comprise professional journalists, citizen journalists, and student journalists. They will 
+further be subjected to the optimum ethical procedures regarding their independence, forceful 
+participation, secrecy, and privacy (Neuman, 2011; Scott, 2013). In addition, clarity and 
+responsibility will be presented regarding the procedure and conduct of the research by 
+clearly establishing how the participants' consent was assessed, illustrating how 
+
+19 
+ 
+confidentiality was protected. The readers shall be made aware of the inclusion process of the 
+participants, who in this case are Digital journalism practitioners. 
+3.9 Limitations to the Study 
+This study is limited to data collection methods that require the presence of the researcher 
+including interviews and focus group discussions. Methods like questionnaires and surveys 
+which are more cost-friendly may not be applicable due to honesty concerns and the desire 
+for the researchers to get involved face-to-face with the research participants who are Digital 
+journalism practitioners to understand their reactions as they explain or narrate their ordeals 
+while practicing Digital journalism under the Computer Misuse (Amendment Act). 
+This study also faces limitations on researched studies specifically on Digital journalism and 
+Computer Misuse (Amendment Act) with questions such as; What are the limitations facing 
+Digital journalism practices under the provisions of the Computer Misuse (Amendment Act), 
+How can Digital journalism practitioners practice within the parameters of the Computer 
+Misuse (Amendment Act). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20 
+ 
+CHAPTER FOUR 
+DATA INTERPRETATION & PRESENTATION OF RESULTS 
+4.0 Introduction 
+The data collected for this research is based on the guidance of research questions including:  
+1. What are the loopholes within the Computer Misuse (Amendment Act), 2022 that are 
+liable to exploitation by narrow interest parties? 
+2. How can these loopholes hinder the advancement of Digital journalism practices? 
+3. How can these loopholes be bridged? 
+The following objectives guide these research questions; 
+• To assess the extent to which digital journalism practices have been limited by 
+the Computer Misuse (Amendment Act) within Uganda Christian University, 
+Mukono. 
+• To find out how digital journalists can practice within the parameters of the 
+Computer Misuse (Amendment Act) at Uganda Christian University, Mukono. 
+• To examine loopholes within the Computer Misuse (Amendment Act) regarding 
+digital journalism practices at Uganda Christian University, Mukono. 
+Data interpretation is a crucial stage in the research process, as it enables researchers to make 
+sense of their findings, identify patterns, and draw meaningful conclusions (Bryman, 2016). 
+The purpose of data interpretation is to: 
+1. Identify patterns and relationships:  
+(i) 
+Patterns 
+The goal of data interpretation is to uncover patterns and relationships in the data that can 
+help answer the research question (Creswell, 2014, p. 245). Meanwhile, a trend is a consistent 
+change in the data over time or across categories (Creswell, 2014, p. 240). A correlation 
+indicates a relationship between two or more variables (Bryman, 2016, p. 338). Clusters can 
+be described as groups of cases that share similar characteristics (Merriam, 2009, p. 213). 
+Outliers are data points that deviate significantly from the pattern (Saunders et al., 2016, p. 
+542). 
+ 
+
+21 
+ 
+(ii) 
+Relationships 
+ 
+A causal relationship suggests that one variable affects another or they are inversely 
+proportional to each other (Eisenhardt, 1989, p. 544). An associative relationship indicates a 
+connection between variables without implying causality (Creswell, 2014, p. 241). 
+Contextual relationships consider the broader context in which the data was collected, this is 
+because it calls for depth in its approach rather than just basics (Bryman, 2016, p. 340). 
+Temporal relationships examine how variables change over time and it also considers that 
+change is a constant factor that minimizes its permanence (Merriam, 2009, p. 214). 
+(i) 
+Final Conclusions:  
+This is a conclusion that is definitive and based on comprehensive analysis or analysis 
+that deals in intricate details or thorough investigation (Saunders et al., 2016, p. 545 
+Data interpretation involves drawing conclusions from the data, based on the research 
+question and objectives (Saunders et al., 2016, p. 543). 
+2. Support Arguments: 
+This provides evidence to support arguments and claims made in the dissertation. In other 
+words, it is a basement for narratives or theories that have been established (Merriam, 2009, 
+p. 212). Supporting arguments can enhance data interpretation in the following ways; 
+(i) 
+Contextualization: 
+This provides context to the data, making it more meaningful and relevant. This can also 
+suggest that it gives a broader picture of the data collected hence making it more value-
+oriented (Creswell, 2014, p. 245)  
+(ii) 
+Validation:  
+This provides a basis that strengthens the credibility of findings through logical reasoning and 
+evidence. It is important to note that evidence is crucial in examining the credibility of a 
+given narrative; therefore, validation assists in providing a background basis that enables the 
+data interpretation process to flow successfully" (Bryman, 2016, p. 342). Inform decision-
+making:  
+ 
+
+22 
+ 
+(iii) 
+Clarification:  
+This involves explaining complex data insights, making them more accessible and 
+understandable (Merriam, 2009, p. 215). Clarification also involves breaking down details 
+that may be hard to digest by the audiences. This move helps to make data more 
+understandable and also eases the interpretation process. It is important to note that when 
+data is broken down, it simplifies the identification of gaps and missing links which helps 
+to inform the theory further. 
+(iv) 
+Generalizability:  
+This considers how findings can be applied to wider contexts or populations (Saunders et al., 
+2016, p. 545). It is based on the scope of the data collected, anticipating that the data should 
+encompass a broader range to ensure that it is not limited to only a specific phenomenon.  
+(v) 
+Theoretical connections:  
+The process of connecting data insights with established theories or frameworks serves to 
+enrich our understanding (Eisenhardt, 1989, p. 548). It's noteworthy that data trends 
+frequently mirror existing theories or narratives. For instance, the mass society theory, 
+which suggests that individuals have a preference for belonging to larger societal groups, 
+is often utilized to analyze various behavioral patterns, particularly in times of change. 
+3. Inform-decision making 
+The process of informing decision-making through data interpretation is essential as it allows 
+stakeholders to make well-informed decisions based on valuable insights derived from data 
+analysis. This approach not only guides decision-making but also plays a significant role in 
+shaping theories and practices, as highlighted by Eisenhardt (1989, p. 548). Here’s how 
+informing decision-making helps in data interpretation; 
+(i) 
+Identifying key findings:  
+Data interpretation is an essential process in research as it involves analyzing and making 
+sense of data to uncover valuable insights. These insights are crucial for informing 
+decision-making processes. According to Creswell (2014, p. 245), data interpretation aids 
+in the identification of critical insights that play a pivotal role in projecting key issues. 
+These insights contribute to a detailed narrative that informs the research study findings. 
+
+23 
+ 
+Key findings extracted from data interpretation form a critical component of the overall 
+conclusions drawn from the research study. 
+(ii) 
+Evaluating options:  
+Interpreted data enables stakeholders to evaluate different options and choose the best 
+course of action (Bryman, 2016, p. 342). These help the research findings to possess the 
+most relevant arguments which helps in providing a comprehensively concluded report 
+that informs the research study accordingly. Evaluating options helps to provide basis to 
+select the most vital tips within the data so as to inform the research study. 
+4. Identify limitations:  
+Data interpretation should also consider the limitations of the study, including 
+potential biases and errors (Creswell, 2014, p. 248). This argues that potential biases 
+and errors may appear in the provisional findings therefore identifying those 
+limitations assists in filtering or verifying unwanted data traits within the findings. 
+The following are the different ways through which limitations are identified within 
+the data; 
+(i) 
+Exposing assumptions:  
+Data interpretation reveals underlying assumptions made during data collection or 
+analysis (Bryman, 2016, p. 343). Bryman argues that while collecting data, it is 
+possible for a researcher to make certain assumptions or assertions in a bid to gather 
+data according to their narrative. These assumptions may sometimes have elements of 
+propaganda or bias whose identification is vital during the data interpretation process. 
+It is important to analyze data that is free from assumptions but genuine facts gathered 
+from the field. 
+(ii) 
+Highlighting gaps:  
+Interpreting data identifies gaps in data coverage, sampling, or instrumentation 
+(Merriam, 2009, p. 217). When data is interpreted, gaps within the content gathered, 
+and methods used can be identified, these gaps help to expose unwanted loopholes 
+within the data structure which helps to minimize irregularities within the findings. It 
+is important to note that existing gaps within the research study provide ground for 
+conducting further research studies. 
+
+24 
+ 
+(iii) 
+Detecting errors:  
+ Data interpretation helps detect errors in data entry, coding, or analysis (Saunders et 
+al., 2016, p. 547). Deleting errors helps to reduce or do away with unwanted traits 
+within the data. This also helps to provide clean data for coding or analysis, having 
+clean data without errors is important in analysis and conclusion as it provides ground 
+for informative and relevant conclusions. 
+(iv) 
+Uncovering inconsistencies:  
+Interpreting data involves a detailed examination of patterns, trends, and relationships 
+within the dataset (Eisenhardt, 1989, p. 549). This meticulous process enables the 
+identification of inconsistencies or irregularities before the commencement of data 
+analysis. Uncovering these discrepancies within the data structure allows for 
+corrective action to be taken, ensuring that the subsequent analysis is based on reliable 
+and precise data, thereby minimizing the risk of drawing incorrect conclusions. 
+(v) 
+Assessing reliability and validity: 
+ When interpreting data, it's important to consider the broader context in which the 
+study was conducted, as mentioned by Bryman in 2016 (p. 342). Using theoretical 
+frameworks to guide the analysis, as suggested by Eisenhardt in 1989 (p. 545), can 
+enhance data interpretation. Additionally, researchers should explore alternative 
+explanations for their findings during data interpretation, as emphasized by Merriam 
+in 2009 (p. 215). It's also crucial to document the process of data interpretation to 
+ensure transparency and replication of the results. 
+5. Contextualize findings:  
+Contextual findings play a crucial role in data interpretation by providing a deeper 
+understanding of the research phenomenon. Contextualization involves considering 
+the social, cultural, historical, and environmental factors that influence the data 
+(Creswell, 2014, p. 245). Interpreting data requires considering the broader context in 
+which the study was conducted (Bryman, 2016, p. 342). Contextual findings help in 
+data interpretation through the following ways; 
+Identify patterns and relationships that may not be immediately apparent (Bryman, 
+2016, p. 342). It develops a more nuanced understanding of the data, reducing the risk 
+
+25 
+ 
+of misinterpretation (Merriam, 2009, p. 215). It also enhances the validity and 
+reliability of findings by considering alternative explanations (Saunders et al., 2016, 
+p. 545). It also increases the generalizability of findings by understanding how 
+contextual factors influence the phenomenon (Eisenhardt, 1989, p. 548). Additionally, 
+identify biases and assumptions that may have influenced data collection or analysis 
+(Creswell, 2014, p. 246). It develops more effective interventions or solutions by 
+understanding the contextual factors that influence the phenomenon (Bryman, 2016, 
+p. 343) 
+6. Use theoretical frameworks: 
+A theoretical framework plays a crucial role in data interpretation by providing a 
+conceptual lens through which to examine and understand the data (Creswell, 2014, p. 
+245). It enables researchers to:  
+Identify patterns and relationships in the data that align with or challenge existing 
+theories (Bryman, 2016, p. 342). It develops a deeper understanding of the research 
+phenomenon by situating it within a broader theoretical context (Merriam, 2009, p. 
+215). It enhances the validity and reliability of findings by ensuring that they are 
+grounded in established theoretical concepts (Saunders et al., 2016, p. 545). Increase 
+the generalizability of findings by demonstrating how they contribute to or challenge 
+existing theoretical knowledge (Eisenhardt, 1989, p. 548). Data interpretation can be 
+enhanced by using theoretical frameworks to guide the analysis (Eisenhardt, 1989, p. 
+545). It can develop a clear research question and objectives that are aligned with the 
+theoretical framework (Creswell, 2014, p. 246). It is used to select appropriate data 
+collection and analysis methods that are consistent with the theoretical framework 
+(Bryman, 2016, p. 343). They are also used to identify potential biases and 
+assumptions that may have influenced data collection or analysis (Merriam, 2009, p. 
+217).  
+Conclusively, a theoretical framework is essential for data interpretation as it provides 
+a conceptual structure for understanding the data and situating it within a broader 
+theoretical context. By using a theoretical framework, researchers can develop more 
+accurate, valid, and reliable findings that contribute to the advancement of knowledge 
+in their field 
+
+26 
+ 
+Data Description 
+The data description part of a dissertation provides an overview of the data used in the 
+study, including its source, collection methods, and characteristics. 
+(i) 
+Data source:  
+Description of where the data came from, including any relevant details about the 
+population or sample. 
+The data for this research dissertation originated from digital journalism practitioners 
+including students and staff from Uganda Christian University which is the case study 
+area. As the research aims to assess the impact of the Computer Misuse Amendment Act 
+(2022) on the practice of digital journalism, many scholars from the school of journalism, 
+media, and communication have already felt the impacts exerted by the provisions of the 
+Computer Misuse Amendment Act (2022) including social media abuse, access to 
+unauthorized information, access to unsolicited information and malicious information 
+among other key provisions that limit Digital Journalism practices  
+(ii) 
+Data collection methods:  
+This provides explanation of how the data was collected, including any instruments, 
+tools, or procedures used. For this research, data was collected using a questionnaire 
+method and sent to about 10 participants with a 60% response rate. This questionnaire 
+method was comprised of three key research questions:  
+1. What are the loopholes within the Computer Misuse (Amendment Act), 2022 that are 
+liable to exploitation by narrow interest parties?  
+2. How can these loopholes hinder the advancement of Digital journalism practices?  
+3. How can these loopholes be bridged? These questions were packaged in the form of an 
+online survey which was then sent to the participants through email and WhatsApp. 
+(iii) 
+Data characteristics:  
+This is the description of the data's key features, such as level of measurement, data type, 
+sample size, and population size. 
+
+27 
+ 
+The data type is Qualitative since it comprises of in-depth discussions or responses from 
+the participants. The data was collected from a sample space of 10 participants with a 
+60% response rate. It is also important to note that Qualitative data seeks to understand 
+the meaning and context of the data, rather than just its numerical value. Qualitative data 
+is often subjective and open to interpretation, requiring the researcher to analyze and 
+make sense of the data. The data was cleaned and checked for outliers. Conclusively, the 
+data description section of a research study provides essential information about the data 
+used to investigate the research question or hypothesis. By including details about the 
+data source, collection methods, characteristics, quality, and limitations, researchers can 
+ensure transparency, replicability, and validity of their findings. 
+Results 
+The following were the results from the research conducted to assess the impact of the 
+Computer Misuse Amendment Act (2022) on the practice of Digital Journalism a case 
+study of Uganda Christian University. The responses from the research participants have 
+been set as pseudonyms A, B, C, D, E, and F, this is because they requested privacy with 
+their names 
+1. What are the loopholes within the Computer Misuse (Amendment Act) 2022 that are liable to 
+exploitation by narrow interest parties? 
+             Respondent A - If enforcement of the law is subject to discretion or influenced by political or other  
+            considerations, narrow-interest parties may attempt to use their connections or influence to avoid prosecution 
+             or receive preferential treatment. 
+           Respondent B - Some of the provisions for the act, for example, provision 2, talk about regulating the 
+            sharing and access to malicious information in favor of these parties in such a way that they hope to use 
+            this to get away with their dirty acts because this limits the gatekeepers, that is, journalists, from playing 
+            their watchdog roles.  
+            Respondent C - Hate speech 
+          Respondent D - It threatens freedom of expression online with all rights of receive and impart and it  
+
+28 
+ 
+           targets critics of the government and this will end up preventing people from speaking their minds thus 
+           curtailing people's rights. Additionally, this law claims to prohibit hate speech yet their other laws that control  
+             hate speech and defamation in this country  
+           Respondent E – It is simply a weak law 
+ 
+         Respondent F - It targets the youth in Uganda who depend on social media. Infact social media is a  
+         tool for people to express themselves in third world countries because Leaders from those countries put  
+         strict laws that are in there favour. To add on, you can't tell me that you want to prohibit hate speech,  
+          when am I to ask what hate speech is, and how is it measured? This can be influenced by the  
+         Government to prohibit freedom of expression because may fail to say anything because they 
+          might be fear of the Act 
+ 
+ 
+2. How can these loopholes hinder the advancement of digital journalism practices? 
+          Respondent A - selective enforcement of provisions may create an effect on freedom of expression 
+         among journalists. Fear of violating the law or facing consequences could lead to self-censorship, causing 
+         journalists to refrain from covering certain topics or expressing controversial opinions. Narrow interest  
+         parties may exploit loopholes to hinder investigative journalism efforts by limiting access to information  
+        or intimidating journalists who seek to uncover  wrongdoing.  
+      Respondent B - These loopholes have removed the digital freedom journalism had,  
+       which affects the practice. Journalists will start sugarcoating things instead of coming 
+       out as journalists to be the voices of the people. 
+       Respondent C - Digital journalism plays a crucial role in the modern media landscape allowing  
+           for more timely, interactive, and multimedia reporting. Legal frameworks must be involved to 
+          support and enable these practices while also addressing legitimate concerns around cyber security, privacy,  
+          and the spread of misinformation. 
+
+29 
+ 
+             Respondent D - The above loopholes will lead to curtailing of freedom of expression and once this is done, 
+           digital journalism practices will be no more also people are prevented from speaking their minds because  
+            you never know what will be taken as hate speech or not thus hindering digital journalism  
+           Respondent E - In the case of copyright, the victim has no protection from the act 
+ 
+ 
+                Respondent F - Content creation especially in the political environment will be reduced because no 
+              one will be hosted and talk freely about an issue because they fear capturing the theme of hate speech.  
+             Freedom for Journalists will be reduced in the country because some journalists resorted to digital journalism 
+              and put their feelings that they serve the common man, now when they talk about issues like corruption in  
+                 Parliament, someone can take them to court for not respecting the Act 
+           3. How can these loopholes be bridged? 
+ 
+ 
+         Respondent A - Allocate sufficient resources to enforcement agencies responsible for implementing the Act, 
+          including training for law enforcement personnel on identifying and prosecuting violations related to digital  
+            journalism practices. Ensure judicial independence and impartiality in interpreting and applying the law. 
+         Respondent B - As much as the government wants to regulate computer misuse, the loopholes should be  
+         looked into and regulated. The leaders should be closely monitored so that they are not the ones misusing  
+          this act for personal gain. 
+       Respondent C - Ongoing review and amendment process; laws and regulations need to be regularly reviewed and 
+          updated to ensure they remain fit- for purpose and as technology and societal needs evolve.  
+         This requires an open collaborative process involving lawmakers, legal experts, industry, representatives, civil  
+          society groups, and other affected stakeholders.  
+          Respondent D - The Government should work together with all stakeholders like Journalists, lawyers, etc 
+       to make a better version of the law that doesn't limit anyone's freedoms  
+
+30 
+ 
+           Respondent E - Implement laws 
+          Respondent F - The Government should revise this law again and should consult stakeholders in the industry 
+         like lawyers, journalists, the Church etc  
+ 
+ 
+The following are the key findings from the results of the research study on the impact 
+of the Computer Misuse Amendment Act (2022) on Digital Journalism practices. The 
+first research question presented the following key findings. 
+1. What are the loopholes within the Computer Misuse (Amendment Act) 2022 that 
+are liable to exploitation by narrow interest parties? 
+Respondent B - Some of the provisions for the act, for example, provision 2, talk about 
+regulating the sharing and access to malicious information in favor of these parties in such a 
+way that they hope to use this to get away with their dirty acts because this limits the 
+gatekeepers, that is, journalists, from playing their watchdog roles. 
+Respondent D - It threatens freedom of expression online with all rights of receive and 
+impart and it targets critics of the government and this will end up preventing people from 
+speaking their minds thus curtailing people's rights. Additionally, this law claims to prohibit 
+hate speech yet their other laws that control hate speech and defamation in this country 
+Respondent F - It targets the youth in Uganda who depend on social media. Infact social 
+media is a tool for people to express themselves in third world countries because Leaders 
+from those countries put strict laws that are in there favour. To add on, you can't tell me that 
+you want to prohibit hate speech, when am I to ask what hate speech is, and how is it 
+measured? This can be influenced by the Government to prohibit freedom of expression 
+because may fail to say anything because they might be fear of the Act 
+ 
+2. How can these loopholes hinder the advancement of digital journalism practices? 
+Respondent A - selective enforcement of provisions may create an effect on freedom of 
+expression among journalists. Fear of violating the law or facing consequences could lead to 
+
+31 
+ 
+self-censorship, causing journalists to refrain from covering certain topics or expressing 
+controversial opinions. Narrow interest parties may exploit loopholes to hinder investigative 
+journalism efforts by limiting access to information or intimidating journalists who seek to 
+uncover wrongdoing. 
+Respondent B - These loopholes have removed the digital freedom journalism had, which 
+affects the practice. Journalists will start sugarcoating things instead of coming out as 
+journalists to be the voices of the people. 
+Respondent D - The above loopholes will lead to curtailing of freedom of expression and 
+once this is done, digital journalism practices will be no more also people are prevented from 
+speaking their minds because you never know what will be taken as hate speech or not thus 
+hindering digital journalism 
+Respondent F - Content creation especially in the political environment will be reduced 
+because no one will be hosted and talk freely about an issue because they fear capturing the 
+theme of hate speech. Freedom for Journalists will be reduced in the country because some 
+journalists resorted to digital journalism and put their feelings that they serve the common 
+man, now when they talk about issues like corruption in Parliament, someone can take them 
+to court for not respecting the Act 
+3. How can these loopholes be bridged? 
+Respondent B - As much as the government wants to regulate computer misuse, the loopholes should 
+ be looked into and regulated. The leaders should be closely monitored so that they are not the ones 
+ misusing this act for personal gain. 
+Respondent C - Ongoing review and amendment process; laws and regulations need to be regularly 
+ reviewed and updated to ensure they remain fit- for purpose and as technology and societal needs 
+evolve. This requires an open collaborative process involving lawmakers, legal experts, industry,  
+representatives, civil society groups, and other affected stakeholders.  
+Respondent D - The Government should work together with all stakeholders like Journalists, 
+ lawyers, etc to make a better version of the law that doesn't limit anyone's freedoms  
+
+32 
+ 
+ 
+Respondent F - The Government should revise this law again and should consult stakeholders in 
+ the industry like lawyers, journalists, the Church etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+33 
+ 
+CHAPTER FIVE 
+DISCUSSION OF RESULTS 
+5.0 Interpretation of Results 
+This section is where results are discussed in relationship with the research questions, 
+literature review and theoretical framework to provide a clear context of the findings of the 
+research study; 
+5.1 Research Questions Vs Findings 
+The following were the research questions used in the research study above in relation to 
+their key findings; 
+1. What are the loopholes within the Computer Misuse Amendment Act 2022 that are 
+liable to exploitation by narrow interest parties? 
+Respondent B – Argues that the provision of the law that talks about regulating the sharing 
+and access to malicious information which is in favour of these parties in such a way that 
+they hope to use this to get away with their dirty acts because this limits the gatekeepers that 
+is, journalists from playing their watchdog roles. 
+This respondent argued that some of the provisions of the Computer Misuse Amendment Act 
+2022 including the prohibition of access and sharing of malicious information can act as a 
+vantage point for narrow interest parties, who may get away with the law simply because it 
+shields Digital journalists from accessing those malicious activities or it renders it unlawful 
+for Digital journalists to access such information. This therefore implies that the provision of 
+the Computer Misuse Amendment Act (2022) is a loophole that is liable for exploitation by 
+narrow interest parties. 
+Respondent D: It threatens freedom of expression online with all rights to receive and 
+impart, and it targets critics of the government hence this will end up preventing people from 
+speaking their minds thus curtailing people’s rights. Additionally, this law claims to prohibit 
+hate speech yet there are other laws that control hate speech and defamation in this country. 
+ 
+
+34 
+ 
+This respondent argued that the Computer Misuse Amendment Act (2022) limits freedom of 
+expression online by Digital Journalists especially when targeted to government which will 
+limit expression. This also implies that independent digital media houses such as Daily 
+Monitor, who play an important role in exposing fraud, corruption and abuse of office by 
+government officials might limited because the law in one way or the other render them as 
+haters. Therefore, the respondent argues that the Computer Misuse Amendment Act (2022) 
+itself is a loophole that is liable for exploitation by these narrow interest parties. 
+Respondent F – It targets the youth in Uganda, who depend on social media. Infact social 
+media is a tool for people to express themselves in third world countries because leaders from 
+those countries put strict laws that are in their favour. To add on, you can’t tell me that you 
+want to prohibit hate speech, when am to ask what hate speech is and how is it measured? 
+This can be influenced by the Government to prohibit freedom of expression because people 
+might fail to say anything because they might be in fear of the Computer Misuse Amendment 
+Act (2022) 
+This respondent argues that laws such as the Computer Misuse Amendment Act (2022) are 
+used by leaders in third world countries in their favour for example limiting the youth from 
+expressing themselves using social media. They also argued that there is no specific 
+measurement for hate speech which may render narrow interest parties to use this law in their 
+favour. He demonstrates that the provision of the law to prohibit hate speech is a loophole 
+which liable for exploitation by narrow interest parties. 
+2. How can these loopholes hinder the advancement of digital Journalism practices? 
+Respondent A – The Selective enforcement of the provisions may create an effect on 
+freedom of expression among journalists. Fear of violating the law or facing 
+consequences could lead to self-censorship, causing Digital journalists to refrain from 
+covering certain topics or expressing controversial opinions. Narrow interest parties 
+may exploit loopholes to hinder investigative journalism efforts by limiting access to 
+information or intimidating journalists, who seek to uncover wrongdoings. 
+The respondent argues that selective enforcement of the provisions which affects freedom of 
+expression among journalists can hinder the advancement of digital journalism practices 
+because they will fear violating the law or facing consequences surrounding the law, this is 
+because of self-censorship through refraining from covering certain topics or expressing 
+
+35 
+ 
+controversial opinions. The respondent further argued that investigative journalism practices 
+in the digital era might be hindered due to the provisions that limit access to information 
+when trying to uncover wrongdoings 
+Respondent B – These loopholes have removed the digital freedom journalism had which 
+affects the practice. Journalists will start sugarcoating things instead of coming out with as a 
+journalist to be the voice of the people. 
+This respondent argues that the loopholes within the Computer Misuse Amendment Act 
+(2022) have removed the digital freedom journalism had and he adds that this will hinder the 
+advancement of Digital Journalism since these Journalists will start sugarcoating facts instead 
+of presenting them the way they are as their obligation to expose the truth. 
+Respondent D – The above loopholes will lead to curtailing of freedom of expression and 
+once this is done, digital journalism practices will be no more. Also, people are prevented 
+from speaking their minds because you never know what will be taken as hate speech or not 
+thus hindering digital journalism practices. 
+This respondent argues that the loopholes within the Computer Misuse Amendment Act 
+(2022) will hinder the advancement of Digital Journalism practices through its attempt to 
+curtail freedom of expression. In addition, Digital Journalists will be prevented from speaking 
+their minds through writing opinion articles because they aren’t sure of what will be taken as 
+hate speech. 
+Respondent F – Content creation especially in the political environment will be reduced 
+because no one will be hosted and talk freely about an issue because they fear capturing the 
+them for hate speech. Freedom for journalists will be reduced in the country because some 
+journalists resorted to digital journalism and put their feelings that they serve the common 
+man, now when they talk about issues like corruption in parliament, someone can take them 
+to court for not respecting the Computer Misuse Amendment Act (2022). 
+This respondent argued that the loopholes will hinder the advancement of Digital Journalism 
+practices by reducing content creation in the political environment for example people will 
+fear to be hosted and talk freely about issues of national concern like corruption, fraud and 
+abuse of public offices due to fear that hate speech will catch up with them. He also added 
+
+36 
+ 
+that the loopholes within the Computer Misuse Amendment Act (2022) will hinder 
+advancement of Digital Journalism since freedom for journalists will be reduced  
+3. How can these loopholes be bridged? 
+Respondent B – As much as the government wants to implement the Computer 
+Misuse Amendment Act (2022), the loopholes should be looked into and regulated. 
+The leaders should be closely monitored so that they are not the ones misusing this 
+Act for personal gains 
+The respondent suggests that the loopholes within the Computer Misuse Amendment Act 
+(2022) can be bridged through looking into the law and regulating it to minimize leaders from 
+misusing the Act for their personal gains. 
+Respondent C – Ongoing review and Amendment process; laws and regulations need to be 
+regularly reviewed and updated to ensure they remain fit-for-purpose and as technology and 
+societal needs evolve. This requires an open collaborative process involving lawmakers, legal 
+experts, industry, representatives, civil society groups, and other affected stakeholders. 
+This respondent explains that the loopholes within the Computer Misuse Amendment Act 
+(2022) can be bridged through undertaking review and amendment processes indicating that 
+laws and regulations need to be regularly reviewed and updated to ensure they remain fit-for-
+purpose as technology and societal needs evolve. They further suggested that engaging 
+collaborative processes involving lawmakers, legal experts, industry, representatives, civil 
+society groups, and other affected stakeholders is key in a bid to bridge the loopholes within 
+the Computer Misuse Amendment Act (2022) 
+Respondent D – The government should work together with all stakeholders like journalists, 
+lawyers etc to make a better version of the law that does not limit anyone’s freedoms.  
+This respondent suggested that in a bid to bridge loopholes within the Computer Misuse 
+Amendment Act (2022), the government should work together with all stakeholders like 
+journalists, lawyers to make a better version of the law that does not limit anyone’s freedoms. 
+Respondent F – The government should revise this law again and should consult 
+stakeholders in the industry like lawyers, journalists and the church 
+ 
+
+37 
+ 
+This respondent also suggested that in an attempt to bridge the loopholes, government should 
+revise this law again and should consult stake holders in the industry like lawyers, journalists 
+and the church 
+5.2 Findings Vs Literature Review 
+The following sub-section will discuss the relationship between the Findings of this research 
+and the Literature review 
+As previously discussed in the Literature review many scholars agree that the Computer 
+Misuse Amendment Act (2022) was proposed, enacted, and signed into law with the sole aim 
+of restricting Digital journalism practices since they scrutinize government bodies, demand 
+accountability, and perform the public watchdog role using platforms like Twitter(X), 
+YouTube, and Instagram among others according to my research findings based on the 
+question. In addition, the initial target of the Computer Misuse (Amendment Act) was to 
+primarily litigate and intimidate free online sharing of information by Digital Journalists from 
+accessing and disseminating unauthorized information of public interest for example 
+corruption scandals, fraud, bribery, embezzlement of public funds and incompetence among 
+government officials “How can these loopholes hinder the advancement of Digital Journalism 
+practices?” the respondents presented similar results as follows; 
+Respondent A  
+This respondent argued that selective enforcement of the provisions of the Computer Misuse 
+Amendment Act (2022) might create an effect on freedom of expression among Journalists. 
+The respondent further explained that fear of violating the law or facing consequences could 
+lead to self-censorship, causing journalists to refrain from covering certain topics or 
+expressing controversial opinions. Since the law restricts Digital Journalism practices, the 
+respondent asserted that narrow interest parties may exploit loopholes to hinder investigative 
+journalism efforts since it limits access to information or intimidates journalists who seek to 
+uncover wrongdoings. 
+Respondent B 
+This particular respondent asserts that the loopholes within the Computer Misuse 
+Amendment Act (2022) have removed the digital freedom journalism had which affects the 
+practice, since they have been restricted, journalists will start sugarcoating things instead of 
+coming out as the voice to the voiceless. 
+
+38 
+ 
+Respondent D 
+This respondent discussed that the loopholes within the Computer Misuse Amendment ACT 
+(2022) will lead to curtailing of freedom of expression and once this is done, digital 
+journalism practices will be no more since people are prevented from speaking their minds 
+because you never know what will be taken as hate speech or not thus hindering digital 
+journalism. 
+Respondent F  
+Respondent F explained that content creation especially in the political environment will be 
+reduced because no one will be hosted and they talk freely about issues because they fear 
+being captured because of hate speech. They further revealed that freedom for journalists will 
+be reduced in the country because some journalists will not discuss issues like corruption due 
+to fear of being taken to court for not respecting the Act. 
+As earlier discussed in the Literature review upon examining online restrictions through laws 
+like the Computer Misuse Amendment Act (2022), different scholars, authors, and schools of 
+thought agree that these policies undermine international human rights standards; They 
+further state that these policies lack a framework of validity, legitimateness, rightness, and 
+necessity. Through research question “What are the loopholes within the Computer Misuse 
+Amendment Act (2022) that are liable to exploitation by narrow interest parties? The 
+following findings relate to the Literature review; 
+Respondent F 
+This respondent argued that the Computer Misuse Amendment Act (2022) targets the youth 
+in Uganda who depend on social media. They further added that social media is a tool for 
+people to express themselves in third world countries where leaders from those countries put 
+strict laws that are in their favor. In addition, respondent F “narrates that you can’t tell me 
+that you want to prohibit hate speech when they are to ask what hate speech is and how it is 
+measured?”. They further added that the Computer Misuse Amendment Act (2022) can be 
+influenced by the government to prohibit freedom of expression because people may fail to 
+say anything because they might be in fear of the Act. 
+ 
+ 
+
+39 
+ 
+Respondent B 
+This respondent asserted that the provision of the law that talks about regulating the sharing 
+and access to malicious information is in favor of these interest parties who may use this to 
+get away with their dirty acts because the Computer Misuse Amendment Act (2022) limits 
+the gatekeepers who are digital journalists from playing their watchdog roles. 
+Respondent D 
+This respondent asserts that the Computer Misuse Amendment Act threatens freedom of 
+expression online with all rights to receive and impart. It targets critics of the government and 
+this will end up preventing people from speaking their minds thus curtailing people’s rights. 
+Additionally, this law claims to prohibit hate speech yet there are other laws that control hate 
+speech and defamation in this country. 
+5.3 Theoretical Framework Vs Findings 
+This sub-section addresses the relationship between the theoretical framework and the 
+findings of the research study 
+As previously discussed in the theoretical framework, Andrew Feeberg (2008) stated that the 
+dynamics of the critical theory in the communication technological era have changed, this is 
+because it provides a primary preposition to societal issues of public interest. In addition, it 
+further indicates that the internet provides innovational structures that collectively unify 
+respective audiences. Therefore, the research findings of this study through the research 
+question “How can the loopholes in the Computer Misuse Amendment Act (2022) be 
+bridged?” draws relationship with some of the responses from the participants as seen below; 
+Respondent C 
+The ongoing review and Amendment process; rules and regulations need to be regularly 
+reviewed and updated to ensure they remain fit and as technology and societal needs evolve. 
+This requires an open collaborative process involving lawmakers, legal experts, industry, 
+representatives, civil society groups and other affected stakeholders. 
+Respondent D 
+The government should work together with all the stakeholders like Journalists, Lawyers etc 
+to make a better version of the law that doesn’t limit anyone’s freedoms. 
+
+40 
+ 
+Respondent F 
+The government should revise this law again and should consult stakeholders in the industry 
+like lawyers, journalists, and the church. 
+As previously discussed in the theoretical framework, this study also hints at the authoritarian 
+theory of media which states that man is weak insinuating that he is overshadowed by the 
+powers and authority of the state and governments. In addition, it highlights that the media is 
+meant to serve the functionalities and interests of the state which includes propaganda 
+manifestations and brutalization of democratic processes and participation such as elections 
+in a bid to favor them (Anne, 2019). However, if this narrative is related to the findings 
+through the research question “How can the loopholes within the Computer Misuse 
+Amendment Act (2022) hinder the advancement of Digital Journalism practices?” the 
+following responses by participants render the Computer Misuse Amendment Act (2022) 
+authoritative and meant to serve the functionalities and interests of the state as seen below; 
+Respondent B 
+These loopholes have removed the digital freedom journalism had which affects the practice. 
+Journalists will start sugarcoating things instead of coming out as journalists to be the voices 
+of the people. 
+Respondent D 
+The loopholes within the Computer Misuse Amendment Act (2022) will lead to curtailing of 
+freedom of expression and once this is done, digital journalism practices will be no more also 
+people are prevented from speaking their minds because you never know what will be taken 
+as hate speech or not thus hindering digital journalism 
+Respondent F 
+Content Creation especially in the political environment will be reduced because no one will 
+be hosted and talk freely about an issue because they will fear being captured for hate speech. 
+Freedom for journalists will be reduced in the country because some digital journalism 
+practitioners who put their feelings that they serve the common man will abscond from 
+talking about issues like corruption in parliament since someone can take them to court for 
+not respecting the provisions of the Act. 
+ 
+
+41 
+ 
+5.3 Ethical Considerations 
+The findings of the research study above are represented by the pseudonyms A, B, C, D, E, 
+and F to protect their identity as all the subjects requested to be anonymous based on the 
+subject matter of the study which is assessing the impact of the Computer Misuse 
+(Amendment Act) 2022 on digital journalism practices. Additionally, the research findings of 
+the study are truthfully presented as retrieved from the survey tool used to carry out the study. 
+It is important to note that this research survey was not ambushed onto the participants but 
+rather their consent was sought first before any questions were shared with them. Therefore, 
+the participants responded at their will, freedom, and laxity. 
+5.4 Limitations of Findings 
+The findings of this study were limited by a lack of responses from some of the sampled 
+participants. It is important to note the responses were 60% which narrowed the scope of the 
+findings. In addition, the questionnaire method of research was envisioned to allow the 
+participants to express themselves freely while responding to the questions at their own pace 
+but it turned out that some participants forgot or lost interest in the cause hence this limited 
+our scope of findings. It should also be noted that some participants did not provide detailed 
+explanations to the questions despite it being open-ended as qualitative research demands. 
+This therefore limited our analysis of their responses since we could not understand which 
+school of thought inspired their responses and hence could not make assumptions on their 
+behalf. 
+5.5 Unexpected results 
+The following are some of the unexpected results registered from the research study 
+conducted to assess the impact of the Computer Misuse Amendment Act (2022) on Digital 
+Journalism practices: A Case study of Uganda Christian University. Three research questions 
+were formulated and sent inform of a questionnaire survey. The questions included; 
+1) What are the loopholes within the Computer Misuse (Amendment Act) 2022 that are 
+liable to exploitation by narrow interest parties? 
+2) How can these loopholes hinder the advancement of digital journalism practices? 
+3) How can these loopholes be bridged? 
+The following were some unexpected results from the research questions as seen below; 

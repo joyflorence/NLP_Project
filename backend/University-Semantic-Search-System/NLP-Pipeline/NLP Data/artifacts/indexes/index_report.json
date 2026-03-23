@@ -1,0 +1,12 @@
+{
+  "index_type": "IndexFlatIP",
+  "num_vectors": 4306,
+  "dimension": 384,
+  "build_time_seconds": 0.04,
+  "build_timestamp": "2026-02-26T09:38:15.533165",
+  "index_file": "c:\\Users\\USER\\Desktop\\NLP Data\\artifacts\\indexes\\chunk.index.faiss",
+  "integrity_check": {
+    "passed": false,
+    "error": "name 'normalize' is not defined"
+  }
+}

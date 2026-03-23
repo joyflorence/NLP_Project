@@ -1,0 +1,1500 @@
+THE IMPACT OF EMERGING TECHNOLOGIES ON LAST MILE DELIVERY OPERATIONS
+CASE OF STUDY: DALSEYH HILLBOM LYNN, UGANDA (DHL)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MARTHA INGABIRE
+J22B12/117
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS, IN PARTIAL
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR
+OF PROCUREMENT AND LOGISTICS MANAGEMENT OF UGANDA CHRISTIAN
+UNIVERSITY
+
+June, 2024
+
+
+
+i
+
+
+
+
+
+DECLARATION
+
+I, INGABIRE MARTHA, REG NO: J22B12/117 do hereby declare that “The impacts of
+emerging technology on last mile delivery" adoption on organizational performance. A case
+study of DHL. This research report has never been published by any other person and so is
+purely by myself with a close guidance of my academic supervisor.
+
+
+Signature .....................................................
+Name INGABIRE MARTHA
+
+Date........................................................
+
+
+ii
+
+
+APPROVAL.
+
+This research report has been submitted by INGABIRE MARTHA, REG No: J22B12/117 with
+the approval of my academic supervisor.
+
+
+Signature: .........................................
+
+Name: MR: MULOOSI PASCAL
+
+
+Date: ......... /06/2024
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+
+
+
+
+
+DEDICATION
+I dedicate this study report to God, my family, and my friends in appreciation of their love,
+concern, and support throughout my academic career. They gave me a strong drive to learn and
+made it simple for me to get a top-notch education. God be with you everyone.
+
+
+
+
+iv
+
+ACKNOWLEDGEMENT
+I want to thank Almighty God first and foremost for providing me with the health and strength I
+needed to finish this thesis. Additionally, I would like to express my gratitude to my supervisor,
+Mr. Muloosi Pascal, for his advice and helpful criticism from the start of the research proposal
+until the finishing the thesis document. I would like to thank the entire DHL personnel, as well as
+my responders and anybody else who assisted me in gathering data and supporting
+documentation for this thesis project. I am grateful to all of my friends for their encouragement
+and support throughout my thesis. Above all, my family—especially my parents, who have given
+me vital guidance and support—deserves my sincere appreciation. You have supported me
+through the good times and the bad during my time as a student at Uganda Christian University,
+not just during this thesis work. Lastly, I would want to thank all of my relatives and friends for
+their support throughout.
+
+
+
+v
+
+ABSTRACT
+The last mile delivery segment of logistics has witnessed a transformative evolution with the
+advent of emerging technologies. This dissertation explores the multifaceted impact of these
+technologies on last mile delivery operations, considering both the opportunities and challenges
+they present. Through a comprehensive review of literature, analysis of case studies, and
+empirical research, this study examines the adoption and integration of technologies such as
+autonomous vehicles, drones, robotics, and artificial intelligence in last mile delivery processes.
+The research delves into the efficiency gains, cost savings, and environmental benefits facilitated
+by these technologies, as well as their implications for workforce dynamics and urban
+infrastructure. Furthermore, it investigates the regulatory frameworks and ethical considerations
+shaping the deployment of emerging technologies in last mile delivery. By synthesizing
+theoretical insights with real-world insights, this dissertation contributes to a deeper
+understanding of the complex interplay between technology, logistics, and society.
+Ultimately, this study underscores the importance of strategic planning, collaboration, and
+adaptation in leveraging emerging technologies to optimize last mile delivery networks. It
+provides valuable insights and recommendations for industry stakeholders, policymakers, and
+researchers to navigate the dynamic landscape of modern logistics and harness the potential of
+technology-driven innovations for sustainable and efficient last mile delivery.
+
+
+
+vi
+
+LIST OF ACRONYMS
+
+DHL DALSEYH HILLBOM LYNN, UGANDA
+IOT INTERNET OF THINGS
+IT INFORMATION TECHNOLOGY
+AI ARTIFICAL INTELLIGENCE
+E-COMMERCE ELECTRONIC COMMERCE
+P2P PEER TO PEER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vii
+
+TABLE OF CONTENTS
+DECLARATION ............................................................................................................................. i
+APPROVAL. .................................................................................................................................. ii
+DEDICATION ............................................................................................................................... iii
+ACKNOWLEDGEMENT ............................................................................................................. iv
+ABSTRACT .................................................................................................................................... v
+LIST OF ACRONYMS ................................................................................................................. vi
+CHAPTER 0NE ............................................................................................................................ 1
+1.0 INTRODUCTION ........................................................................................................................... 1
+1.1BACKGROUND OF THE STUDY ................................................................................... 1
+1.2 STATEMENT OF THE PROBLEM ................................................................................. 4
+1.3 SPECIFIC OBJECTIVES OF THE STUDY .................................................................... 4
+1.4RESEARCH QUESTIONS ................................................................................................ 4
+1.6 SCOPE OF THE STUDY.................................................................................................. 6
+1.7 LIMITATIONS OF THE STUDY ................................................................................................ 6
+CHAPTER TWO: Literature Review ......................................................................................... 7
+2.0 INTRODUCTION ........................................................................................................................... 7
+2.1 THE EFFECTIVENESS OF TECHNOLOGY TO LAST MILE DELIVERY ...................... 8
+2.2 TECHNOLOGICAL TRENDS IN LAST MILE DELIVERY ................................................. 9
+2.3 CHALLENGES IN IMPLEMENTING TECHNOLOGY TO LAST-MILE DELIVERY . 12
+2.4 METRICS AND KEY PERFORMANCE INDICATORS (KPIs) TO MONITOR THE
+EFFECTIVENESS AND IMPACT OF TECHNOLOGY ON DELIVERY EFFICIENCY ..... 13
+CHAPTER THREE: Methodology ........................................................................................... 16
+3.0 INTRODUCTION ......................................................................................................................... 16
+3.1 RESEARCH DESIGN .................................................................................................................. 16
+
+viii
+
+3.2 AREA OF STUDY ........................................................................................................................ 17
+3.3 SAMPLE SIZE .............................................................................................................................. 17
+3.4 SAMPLES DESIGN AND PROCEDURE ................................................................................ 17
+3.4.1PURPOSIVE SAMPLING ............................................................................................ 18
+3.4.2RANDOM SAMPLING ................................................................................................ 18
+3.4.3 SOURCES OF DATA .................................................................................................. 18
+3.5 DATA COLLECTION INSTRUMENTS .................................................................................. 18
+3.6 QUESTIONNAIRE GUIDE ........................................................................................................ 19
+3.7 DATA ANALYSIS ....................................................................................................................... 19
+3.8 ETHICAL CONSIDERATION ................................................................................................... 20
+CHAPTER FOUR ....................................................................................................................... 21
+4.0 INTRODUCTION ......................................................................................................................... 21
+4.1 FINDINGS ON BIO DATA OF THE RESPONDENTS ......................................................... 21
+4.1.1 ACADEMIC QUALIFICATIONS............................................................................... 22
+4.1.2 YEARS OF SERVICE ................................................................................................. 23
+4.1.2 DEPARTMENTS THAT WERE ABLE TO RESPOND ............................................ 23
+4.2 FINDINGS ON THE CHALLENGES FACED WHILE USING TECHNOLOGY IN
+LAST MILE DELIVERY ................................................................................................................... 24
+4.3 FINDINGS ON THE EFFECTIVENESS OF TECHNOLOGY IN LAST MILE
+DELIVERY ........................................................................................................................................... 25
+4.4 FINDINGS ON THE FACTORS IN MEASURING THE SUCCESS OF TECHNOLOGY
+ADOPTION INITIATIVES IN LAST MILE DELIVERY ........................................................... 27
+4.4 ADDITIONAL INFORMATION ACQUIRED ........................................................................ 29
+4.4.1Qn: "In case there is any other challenges, measurements and key performance
+indicators (Kpi's) to track the success of technology adoption initiatives and the
+effectiveness of technology on delivery efficiency ............................................................... 29
+
+ix
+
+CHAPTER FIVE ........................................................................................................................ 31
+SUMMARY OF THE FINDINGS, CONCLUSION AND RECOMMENDATIONS .............. 31
+5.0 Introduction .................................................................................................................................... 31
+5.1 SUMMARY OF THE STUDY FINDINGS .............................................................................. 31
+5.2 THE FINDINGS OF THE CHALLENGES FACED WHILE USING TECHNOLOGY ON
+LAST MILE DELIVERY OPERATIONS DHL. ............................................................................ 31
+5.3 FINDINGS ON THE EFFECTIVENESS OF TECHNOLOGY ON
+LASTMILEDELIVERY OPERATIONS AT DHL ........................................................................ 32
+5.4 FINDINGS ON THE FACTORS IN MEASURING THE SUCCESS OF TECHNOLOGY
+ADOPTION INITIATIVES LAST MILE DELIVERY AT DHL ................................................ 33
+5.5 SUMMARY OF FINDINGS ....................................................................................................... 34
+5.6 RECOMMENDATIONS .............................................................................................................. 35
+References ..................................................................................................................................... 40
+
+
+
+
+
+CHAPTER 0NE
+1.0 INTRODUCTION
+The study looks at how last-mile delivery operations are affected by developing technology. This
+chapter includes the study's background to study, problem statement, research objective, and
+specific goals, research Issues, The study's scope Importance of the research, expected issues,
+their resolution, and the specification of variables in practice.
+1.1BACKGROUND OF THE STUDY
+Technology is a broad concept that deals with use and knowledge of tools and crafts and how its
+use affects the ability to control and adapt to the social and physical environment. (Banta, July
+2009, ) In the context of business, technology encompasses a wide range of tools, software,
+hardware, and systems that streamline operations, enhance communication, and drive innovation.
+In the paper by (Jucha, (2021)) addresses technology developments in the delivery sector with an
+emphasis on effectiveness and client support. Route optimization, real-time tracking,
+autonomous sorting, mobile apps, contactless delivery, drones, autonomous cars, data analytics
+for demand forecasting, and cybersecurity measures are some of the examples of innovations.
+Last mile delivery refers to the final leg of the delivery process, where goods are transported
+from a distribution center or hub to the end consumer's doorstep or desired location. (Puri,
+2022)This stage of delivery has evolved significantly over time. In the past, last mile delivery
+was typically handled by individual couriers or postal workers who would manually deliver
+packages to each customer's address. These couriers would often navigate through busy city
+streets and face challenges such as traffic congestion, limited parking, and difficult-to-reach
+locations. However, with the advancement of technology and the rise of e-commerce, last mile
+delivery has undergone significant changes.
+We explore the historical development of last-mile delivery, tracing its evolution from early
+methods of transportation to the innovative solutions and challenges faced in the contemporary
+era. By examining key milestones, trends, and shifts in priorities within supply chain
+management, we aim to provide a comprehensive understanding of how last-mile delivery has
+
+
+evolved over time and its increasing importance in meeting the demands of today's dynamic
+marketplace.
+Logistics, in its essence, is the management of the flow of goods and services from the point of
+origin to the point of consumption. It encompasses various activities such as transportation,
+warehousing, inventory management, packaging, and information management. The significance
+of logistics lies in its role as the backbone of global trade and commerce, facilitating the efficient
+movement of goods across supply chains, ultimately ensuring products reach consumers in a
+timely manner.
+The evolution of technology in the logistics sector has been intertwined with the progression of
+human civilization. Early logistics operations relied heavily on manual labor and basic
+transportation methods, such as carts and pack animals. With the advent of civilization,
+civilizations began developing more sophisticated transportation methods, such as the invention
+of the wheel and the utilization of waterways for trade (mecalux, 2023).
+The industrial revolution marked a significant turning point in logistics technology with the
+invention of the steam engine. Steam-powered locomotives and steamships revolutionized
+transportation, enabling goods to be transported over long distances more quickly and efficiently.
+Additionally, the introduction of the assembly line by Henry Ford in the early 20th century
+streamlined manufacturing processes, leading to increased production and the need for more
+efficient logistics management. (Sharma, 2020)
+The emergence of computer technology in the mid-20th century brought about further
+advancements in logistics. Computerized inventory management systems enabled companies to
+track and manage inventory levels more effectively, reducing waste and improving efficiency in
+supply chain operations (Banta, July 2009, ).
+In the contemporary landscape of logistics technology, digitalization, automation, and data
+analytics play pivotal roles in transforming traditional logistics practices. The integration of
+Internet of Things (IoT) sensors into logistics operations allows for real-time monitoring of
+shipments, enabling companies to track the location, condition, and status of goods throughout
+the supply chain (Mouha, 2021).
+
+
+Block chain technology has emerged as a game-changer in supply chain transparency, providing
+a secure and transparent way to record and track transactions across multiple parties. By creating
+an immutable ledger of transactions, block chain technology enhances trust and accountability in
+supply chain management (Dutta, 2020).
+Artificial intelligence (AI) algorithms have revolutionized logistics with predictive analytics
+capabilities. AI-powered systems analyze vast amounts of data to forecast demand, optimize
+route planning, and anticipate potential disruptions in supply chain operations, enabling
+companies to make data-driven decisions and improve efficiency (Ushakov, 2022).
+Last-mile delivery, the final leg of the delivery process from distribution center to the end
+customer, has become increasingly important in urban logistics and e-commerce fulfillment.
+Advancements in logistics technology have enabled companies to optimize last-mile delivery
+operations through innovative solutions such as route optimization algorithms, real-time tracking
+systems, and customer engagement platforms.
+Companies leverage technology to optimize delivery routes, minimize delivery times, and reduce
+transportation costs in the last mile. Real-time tracking systems provide customers with visibility
+into the status of their deliveries, enhancing transparency and customer satisfaction.
+Additionally, companies utilize customer engagement platforms to communicate with customers,
+provide delivery updates, and gather feedback, further enhancing the overall delivery experience.
+(Jucha, (2021))
+E-commerce's ascent (1990s–2000s) Last-mile delivery saw a major transformation in the 1990s
+and 2000s with the development of e-commerce. In order to properly fulfill consumer orders,
+online merchants like Amazon invented new logistics methods, which raised demand for
+deliveries that were quicker and more dependable. (Corejova, 2022)The global retail ecommerce sales have grown from 1.34 trillion in 2014 to 4.28 trillion in 2020. Further growth is
+expected, as experts predict sales of 6.39 trillion by 2024, amounting for almost 22% of total
+retail sales (Cramer-Flood, 2021).
+
+
+
+
+
+1.2 STATEMENT OF THE PROBLEM
+The last-mile delivery landscape is considered a rapidly transforming thanks to a surge in
+innovative technologies. While DHL has made significant strides in optimizing logistics and
+efficiency (Moradi, 2023)a closer look reveals an underutilization of these advancements within
+their last-mile operations. This underutilization manifests in the limited adoption of solutions like
+advanced route optimization algorithms, real-time tracking enhancements, and autonomous
+vehicles. As a result, DHL isn't reaping the full benefits of these technologies, hindering their
+ability to achieve peak efficiency, customer satisfaction, and cost-effectiveness. This gap
+becomes even more critical when considering the evolving landscape of customer expectations
+and industry standards. DHL's current approach, while functional, risks falling behind
+competitors who are more aggressively embracing cutting-edge solutions. Additionally, the
+growing demand for faster, transparent, and sustainable deliveries further emphasizes the need
+for DHL to bridge this technological gap (Sorooshian, (2022)). To stay ahead, a comprehensive
+review and strategic integration of advanced technologies are crucial. By aligning their last-mile
+operations with the ever-changing demands of the logistics landscape, DHL can ensure they
+remain competitive and deliver exceptional customer experiences.
+1.3 SPECIFIC OBJECTIVES OF THE STUDY
+I.
+To examine the effectiveness of technology to last mile delivery
+II.
+To examine create measurements and key performance indicators (KPIs) to track the
+success of technology adoption initiatives and their effects on delivery efficiency.
+III.
+To examine the challenges that come with implementing technology in the companies
+
+1.4RESEARCH QUESTIONS
+I.
+What are the effectiveness of technology to last mile delivery
+II.
+What create measurement and key performance indicators that will track the success of
+technology adoption initiatives and their effects on delivery efficiency at DHL?
+III.
+What are the challenges that come with implementing technology at DHL?
+
+
+
+
+
+1.5 SIGNIFICANCE OF THE STUDY
+In order to maintain competitiveness, improve customer happiness, and adjust to the everchanging landscape of technology-driven logistics operations, the logistics industry must
+comprehend the complexities and difficulties associated with integrating developing
+technologies in last-mile delivery. In order to enable logistics stakeholders to make wise
+decisions and carefully apply cutting-edge technology for long-term success, this study aims to
+provide insightful information.
+The study's conclusions can direct future investigations into developing technologies and lastmile delivery. It offers a foundation for investigating novel directions, improving current
+technology, and dealing with new problems.
+The study supports the development of sustainable practices by assessing the environmental
+impact of developing technologies in last-mile delivery. By using this information, logistics
+companies may reduce their carbon footprint and promote environmental sustainability by
+implementing eco-friendly measures.
+The study will help management and the workforce comprehend the abilities and know-how
+needed to adjust to last-mile delivery's technology advancements. In order to guarantee a
+seamless transition to technologically sophisticated procedures, this expertise is essential for
+workforce development and training programs.
+Logistics companies may optimize last-mile delivery processes by studying the opportunities and
+challenges posed by developing technology. This can therefore result in increased customer
+satisfaction, decreased operating expenses, and higher efficiency.
+Logistics firms, online retailers, and other industry participants will be able to use the study's
+practical insights to help them decide how best to incorporate cutting-edge technologies into lastmile delivery. This covers investment choices, operational optimizations, and strategic planning.
+Companies may adjust their services to match changing customer expectations by knowing how
+customers view and interact with last-mile delivery services enhanced by developing
+
+
+technologies. Better client happiness, loyalty, and a competitive advantage in the market may
+result from this.
+1.6 SCOPE OF THE STUDY
+The scope of the study on the impact of emerging technologies on last-mile delivery in logistics
+encompassed several key dimensions, each aligned with the specific objectives and research
+questions outlined earlier.
+1.6.1GEOGRAPHICAL SCOPE
+The study focused on DHL a German logistics company providing international shipping and
+courier services but particularly DHL Kampala, Uganda which is located on Kampala Road,
+Mabirizi Complex Building, First Floor Room 03, and Kampala, Uganda.
+1.6.2 TIME SCOPE
+The study covered the period between 2019 and 2024 as this was the period when the company
+had inefficiencies in the supply chain system.
+
+1.7 LIMITATIONS OF THE STUDY
+It was difficult for the researcher to answer inquiries from respondents when they didn't actually
+know the answers. Giving people more likely scale questions to answer, where they can check
+the options at will and minimal information is required for the open-ended questions, can fix this
+problem.
+Due to the fact that the researcher paid for transportation to and from the company, printing,
+stationery, binding, and other expenses, the researcher was limited by financial limitations. This
+was resolved by asking friends and family for money so she can complete the exercise.
+One potential constraint could be the respondent's unwillingness to provide the researcher with
+the necessary information, as certain information may be confidential and they may choose not
+to share it with the researcher. We'll tried to persuade them that the data is solely intended for
+study and has no other use in order to resolve this.
+
+
+
+
+CHAPTER TWO: Literature Review
+2.0 INTRODUCTION
+According to Ronald and William (2003), technology is a system of both simple and complete,
+electronic, hardware devices and informal communication chains or computer-based information
+systems that use hardware and software, internet, and other telecommunication networks that
+transform data resources into endless data of information products.
+(Casella, 2022)The late 20th and early 21st centuries witnessed the rise of automation and
+information technology in logistics. Automated warehouses, robotic systems, and advanced
+material handling equipment streamlined operations and improved efficiency. Furthermore, the
+advent of computer systems and software facilitated the management of inventory, transportation
+planning, and supply chain coordination,leading to greater visibility and control over logistics
+processes.
+The advent of the internet and e-commerce in the late 20th and early 21st centuries transformed
+last-mile delivery. E-commerce platforms and online marketplaces revolutionized retail,
+allowing consumers to shop for goods online and have them delivered directly to their doorsteps.
+(Peppel M. R., 2022)Last-mile delivery became a critical focus for logistics companies and
+retailers, with a growing emphasis on speed, convenience, and customer experience.
+Advancements in logistics technology, such as route optimization software, real-time tracking
+systems, and alternative delivery solutions (e.g., drones, autonomous vehicles), have further
+transformed last-mile delivery, enabling companies to optimize delivery routes, provide real-time
+tracking and visibility, and offer innovative delivery options to meet the evolving needs of
+customers. Consequently, manufacturing, logistics, and transportation systems are significantly
+impacted by technologies such as cyber-physical systems (CPS) and the Internet of Things (IoT).
+(Kostrzewski, 2022)
+
+
+
+
+
+
+2.1 THE EFFECTIVENESS OF TECHNOLOGY TO LAST MILE DELIVERY
+Last-mile delivery, the final step in the logistics chain, plays a crucial role in customer
+satisfaction and business success. With the rise of e-commerce and consumer demand for fast
+and reliable deliveries, the effectiveness of last-mile delivery has become increasingly important.
+Technology has emerged as a powerful tool to optimize last-mile delivery processes, enhancing
+efficiency, accuracy, and customer experience. In this essay, we will explore the effectiveness of
+technology in last-mile delivery through seven key points.
+According to (Koh L. Y., Consumer acceptance of the autonomous robot in last-mile delivery: A
+combined perspective of resource-matching, perceived risk and value theories. Transportation
+Research Part A: Policy and Practice, 2024), One of the primary benefits of technology in lastmile delivery is automation. Advanced algorithms and machine learning enables companies to
+optimize delivery routes, minimize delivery times, and reduce costs. Automated route planning
+software is able to track traffic patterns, weather conditions, and delivery windows to create the
+most efficient routes for drivers. These companies can achieve higher delivery densities, lower
+fuel consumption, and ultimately, faster deliveries. (Chen, 2021).
+Technology provides real-time tracking and visibility throughout the delivery process, enabling
+both businesses and customers to monitor shipments accurately (Shukla, 2022). GPS tracking
+systems allow customers to track their deliveries in real-time, providing them with updates on
+the status and estimated time of arrival. Similarly, businesses can track their vehicles and
+monitor delivery progress to ensure timely and efficient service. (Kafile, 2023)Real-time
+visibility not only enhances customer satisfaction but also improves operational transparency and
+accountability. According to (Peppel M. S., 2024) delivery management platforms provide
+comprehensive solutions for managing last-mile delivery operations. These platforms integrate
+various functionalities such as order management, route optimization, driver dispatching, and
+customer communication into a single interface. Through centralized platforms, companies can
+streamline their delivery processes, improve coordination between stakeholders, and enhance
+overall efficiency. (Alverhed, 2024) Moreover, these platforms often offer customizable features
+and scalability, allowing businesses to adapt to changing requirements and scale their operations
+as needed.
+
+
+The COVID-19 pandemic has accelerated the adoption of contactless delivery solutions, further
+highlighting the importance of technology in last-mile delivery. (Koh L. Y., 2024) Contactless
+delivery options, such as doorstep delivery, self-service lockers, and drone delivery, minimize
+physical contact between drivers and customers, reducing the risk of transmission. Technology
+enables the seamless implementation of these solutions, ensuring safe and hygienic delivery
+experiences for both parties (Bergi, 2021). Contactless delivery not only addresses immediate
+health concerns but also sets a precedent for future delivery standards. Effective last-mile
+delivery relies on collaboration and integration between various stakeholders, including retailers,
+carriers, drivers, and customers. (Judijanto, 2024) Technology facilitates seamless collaboration
+through integration with existing systems and platforms. APIs (Application Programming
+Interfaces) enable different software applications to communicate and share data, allowing for
+the seamless exchange of information between stakeholders. By fostering collaboration and
+integration, technology promotes interoperability, efficiency, and service consistency across the
+delivery ecosystem. (Ko, 2020)
+Technology-driven innovation is essential for the continuous improvement of last-mile delivery
+operations. As consumer preferences and market dynamics evolve, companies must innovate and
+adapt to stay competitive (Krishnan, 2024). Emerging technologies such as artificial intelligence,
+robotics, and block chain offer new opportunities to enhance last-mile delivery efficiency and
+customer experience. By investing in research and development, companies can stay ahead of the
+curve, drive innovation in the industry, and deliver value-added services to customers.
+2.2 TECHNOLOGICAL TRENDS IN LAST MILE DELIVERY
+Technological advancements have been reshaping last-mile delivery, optimizing routes,
+enhancing tracking capabilities, and introducing innovative delivery methods. Supply chain
+management has advanced significantly as a result of the convergence of digitalization,
+automation, and data analytics in the modern logistics technology environment. Modern
+advancements in artificial intelligence (AI), block chain technology, Internet of Things (IoT)
+sensors, and AI algorithms are revolutionizing old logistical methods and bringing forth
+increased cost-effectiveness, efficiency, and transparency.
+
+
+
+Route optimization plays a crucial role in last-mile delivery efficiency. Several studies have
+explored algorithms and models for optimizing delivery routes to minimize costs, reduce
+delivery times, and improve resource utilization. (Jucha, (2021))
+Literature suggests that heuristic algorithms, metaheuristic algorithms (such as genetic
+algorithms and simulated annealing), and mathematical optimization models (such as integer
+linear programming and vehicle routing problem formulations) are commonly used for route
+optimization in last-mile delivery.
+Research has focused on developing algorithms that consider various constraints and factors,
+including traffic congestion, vehicle capacity, delivery time windows, customer preferences, and
+environmental concerns.
+The Internet of Things (IoT) is basically like a system for connecting computer devices,
+mechanical and digital machines, objects, or individuals provided with a unique system (UIDs)
+and without transfer to transmit data over an ability human-to-human or computer-to-human
+relation. (Laghari, 2021)Sensors embedded in physical objects, allow them to collect and
+transmit data over the internet. The sensors are used to track shipments, monitor environmental
+conditions (such as temperature and humidity), and optimize fleet management. (Kostrzewski,
+2022) Temperature sensors in refrigerated containers ensure that perishable goods remain within
+the required temperature range during transportation, reducing the risk of spoilage. (Mouha,
+2021) GPS trackers enable real-time tracking of shipments, providing visibility into their
+location and estimated arrival time which improves logistics planning and customer service by
+reducing delivery delays.
+Blockchain technology are shared and distributed data structures or ledgers that can securely
+store digital transactions without using a central point of authority. More importantly, block
+chains allow for the automated execution of smart contracts in peer-to-peer (P2P) networks [9]
+(Dutta, 2020). They can alternatively be seen as databases that permit multiple users to make
+changes in the ledger simultaneously, which can result in multiple chain versions. In logistics,
+block chain ensures supply chain transparency, traceability, and security by creating an
+immutable record of every transaction or event such as food companies use block chain to track
+the origin of ingredients and verify their authenticity, enhancing food safety and compliance with
+regulations. Retailers and manufacturers use block chain to trace the movement of products
+
+
+throughout the supply chain, reducing the risk of counterfeit goods and improving product recall
+processes. (Andoni, 2019)
+Artificial Intelligence (AI) Artificial intelligence (AI) is a broad area of computer science that
+makes machines function like a human brain. It is used to address issues that are difficult to
+clarify using traditional computational techniques. AI was first discovered in 1956 by John
+McCarthy but failed to achieve its objectives. (Abduljabbar, 2019) The algorithms analyze large
+volumes of data to identify patterns, trends, and anomalies, enabling predictive analytics and
+actionable insights. In logistics, AI is used for demand forecasting, route optimization, and
+predictive maintenance. AI-powered demand forecasting algorithms analyze historical sales
+data, market trends, and external factors (such as weather) to predict future demand with greater
+accuracy. This reduces inventory holding costs and stock outs. AI-driven route optimization
+software optimizes delivery routes based on factors like traffic conditions, vehicle capacity, and
+customer preferences, reducing fuel consumption and transportation costs. (Ushakov, 2022)
+Last-mile delivery holds immense significance in urban logistics and e-commerce fulfillment, as
+it represents the final step in getting goods from a distribution center to the customer's doorstep.
+In urban areas, where population density is high and traffic congestion is common, efficient lastmile delivery is crucial for timely and cost-effective delivery. Moreover, in the context of ecommerce, where customers expect fast and convenient delivery options, optimizing the last mile
+is essential for enhancing customer satisfaction and retention.
+In e-commerce fulfillment, last-mile delivery plays a critical role in shaping the customer
+experience and influencing purchasing decisions. Customers expect fast, reliable, and convenient
+delivery options, and the success of e-commerce companies is hinged on their ability to meet
+these expectations.
+
+
+
+
+
+
+
+2.3 CHALLENGES IN IMPLEMENTING TECHNOLOGY TO LAST-MILE
+DELIVERY
+The exponential growth of e-commerce, particularly evident during the COVID-19 pandemic,
+has intensified the challenges associated with last-mile deliveries. Defined as the final stage of
+the supply chain, last-mile delivery encounters complexities exacerbated by shifts in consumer
+behavior and rapid urbanization. These challenges manifest in congestion, prolonged delivery
+times, and sustainability concerns, as noted by (Alverhed, 2024).
+While implementing technology in last-mile delivery offers numerous advantages, it also
+presents several hurdles that companies must navigate to realize its full potential. Chief among
+these challenges is the significant upfront investment required to adopt and integrate new
+technologies into existing delivery processes. This investment encompasses not only the
+acquisition of hardware like GPS trackers, handheld devices, or delivery drones but also the
+implementation of software solutions such as route optimization algorithms and customer
+tracking systems. (mohammad, 2023) highlights the critical role of these technologies in
+advancing logistics, particularly in urban areas.
+Integrating new technology into the last-mile delivery ecosystem necessitates adjustments to
+established workflows and comprehensive employee training programs. Employees need time to
+familiarize themselves with new tools and systems, which may temporarily disrupt operations
+and productivity. To mitigate these disruptions, companies must invest in thorough training
+programs and provide ongoing support to facilitate smooth adoption.
+Another formidable challenge lies in managing and maintaining the intricate technology
+infrastructure essential for efficient last-mile delivery. This includes ensuring the reliability and
+security of hardware and software systems, promptly addressing technical issues, and staying
+current with software updates. (Merchán, 2021)underscores the importance of regular
+maintenance and monitoring for delivery drones or autonomous vehicles to ensure optimal
+performance and safety. The relentless pace of technological innovation necessitates continuous
+evaluation and upgrading of technology solutions to remain competitive. However, this poses a
+challenge for businesses with limited resources or expertise in emerging technologies. Strategic
+planning and investment are essential for identifying technologies that offer the most significant
+benefits to last-mile delivery operations.
+
+
+Moreover, the integration of technology introduces new cybersecurity risks that demand vigilant
+mitigation efforts. As delivery operations become increasingly reliant on interconnected devices
+and digital platforms, they become more susceptible to cyber threats such as data breaches or
+ransom ware attacks. Protecting sensitive customer information and ensuring the integrity of
+delivery systems require robust cybersecurity measures.
+Additionally, cultural resistance to change within organizations can impede the successful
+implementation of technology in last-mile delivery. Employees may be hesitant to embrace new
+technologies due to fears of job displacement or uncertainty about the impact on their roles.
+Overcoming this resistance necessitates effective communication, leadership buy-in, and a clear
+articulation of the benefits that technology can bring to both the company and its employees.
+
+
+
+2.4 METRICS AND KEY PERFORMANCE INDICATORS (KPIs) TO
+MONITOR THE EFFECTIVENESS AND IMPACT OF TECHNOLOGY ON
+DELIVERY EFFICIENCY
+Establishing metrics and key performance indicators (KPIs) is pivotal for gauging the
+effectiveness and impact of technology adoption efforts on last-mile delivery efficiency. These
+metrics should provide insights into various aspects of the delivery process and facilitate tracking
+progress towards enhancing efficiency (Alverhed, 2024). Without clear metrics and KPIs, it's
+challenging for companies to assess the impact of technology adoption on last-mile delivery
+efficiency. By establishing relevant metrics, businesses can effectively monitor their progress
+and identify areas for improvement.
+Measuring the variance between estimated and actual delivery times is crucial. This KPI
+evaluates the accuracy of delivery time predictions enabled by technologies like route
+optimization algorithms and real-time tracking systems. Comparing delivery times before and
+after technology implementation allows for an assessment of efficiency improvements, with a
+lower variance indicating enhanced planning and execution in last-mile delivery. Tracking the
+
+
+variance between estimated and actual delivery times provides tangible evidence of how
+technology adoption impacts delivery accuracy and efficiency. By reducing this variance,
+companies demonstrate improved planning and execution, leading to more reliable delivery
+services (mohammad, 2023).
+Accurate order fulfillment is paramount for customer satisfaction and operational efficiency.
+Technology solutions such as automation in inventory management and order processing enable
+companies to monitor order accuracy. On-time delivery is a critical KPI reflecting delivery
+efficiency, with the percentage of successful first-attempt deliveries serving as a key indicator. A
+higher success rate signifies effective technology utilization in overcoming obstacles and
+ensuring timely deliveries. Accurate order fulfillment is crucial for maintaining customer
+satisfaction and optimizing operational efficiency. By leveraging technology solutions,
+companies can streamline inventory management and order processing, leading to higher rates of
+on-time delivery and improved customer experiences (puri, 2022).
+Cost savings are a significant outcome of technology adoption in delivery processes. Monitoring
+the cost per delivery and cost per mile traveled allows for an assessment of the financial impact
+of technology implementation. Optimizing routes and leveraging technology solutions like GPS
+tracking and route optimization software help reduce delivery costs per mile, enhancing
+efficiency and profitability. Cost savings are a key driver of technology adoption in last-mile
+delivery. By monitoring costs per delivery and per mile, companies can evaluate the financial
+benefits of technology implementation, including reduced fuel consumption and labor costs
+(puri, 2022).
+For transportation and logistics businesses, tracking driver productivity is essential for
+optimizing delivery efficiency. Monitoring the utilization rate of delivery drivers and vehicle
+performance metrics such as fuel efficiency and maintenance costs enables businesses to
+optimize fleet performance and minimize disruptions in last-mile delivery operations.
+Maximizing driver productivity and vehicle performance is essential for achieving efficient lastmile delivery. By leveraging technology solutions, companies can optimize resource utilization,
+reduce operational costs, and enhance overall delivery efficiency (Merchán, 2021).
+Ultimately, the effectiveness of technology adoption efforts should translate into improved
+customer satisfaction and retention. Gathering feedback from customers regarding their last-mile
+
+
+delivery experience through surveys, feedback mechanisms, and Net Promoter Score (NPS)
+helps assess whether technology enhancements positively impact the overall delivery experience.
+Positive feedback and high satisfaction scores indicate that technology-enabled last-mile delivery
+processes are meeting or exceeding customer expectations, thus reinforcing the benefits of
+technology adoption in enhancing delivery efficiency. Customer satisfaction is a critical measure
+of the success of technology adoption in last-mile delivery. By collecting feedback and
+monitoring satisfaction metrics, companies can ensure that technology-enabled processes align
+with customer expectations and contribute to long-term customer loyalty and retention (maisano,
+2018).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE: Methodology
+3.0 INTRODUCTION
+This chapter mostly addresses the techniques and protocols that were be used by the research to
+get the necessary data. Additionally, this chapter covers the study region, sample design, data
+collecting source, data collection tools, data collection techniques, and tool validation and
+dependability, research variables, data processing, methods for interpretation and analysis,
+ethical considerations, and study limitations.
+This chapter presents the methodology, which should be used in carrying out the study, which
+includes the research design, study population, sample size determination, sample selection,
+sources of data, data collection instruments, validity & reliability and ethical consideration.
+3.1 RESEARCH DESIGN
+This study has employed a descriptive research design in order to collect data required to answer
+the research questions. This provides the researcher with a clear picture about how IT impact on
+supply chain at DHL The basic reason for using descriptive study design is because not so much
+is known about the situation at hand to comprehend the nature of and describe the characteristics
+of variables of interest in situations thus fit for such kind of study given that little empirical
+research has been carried out on IT According to (McLeod, 2008),a research design is "the
+overall plan or structure of the study that serves as a guide in collecting and analyzing data."
+The study employed a cross-sectional research approach which can allow to study, multiple
+variables at the same time for example age, gender and level of education as well as other
+performance indicators. The study also incorporated both qualitative and quantitative data
+collection methods in order to achieve the desired results. This design facilitated the
+manipulation of study variables to derive insights of the study.
+
+
+
+
+
+
+
+3.2 AREA OF STUDY
+The study population refers to the specific group of individuals or elements from which data is
+collected and analyzed in a research study. The study will be carried out At Kampala Road,
+Mabirizi Complex Building, First Floor Room 03, and Kampala, Uganda.
+
+3.3 SAMPLE SIZE
+DHL is a wide company in over 200 countries with over 600,000 employees overall. The study
+will focus on the employees in Uganda with the number of respondents where the Sample Size =
+N / (1 + N*e2)
+N= population size
+e= margin of error
+The total population of employees of DHL Kampala road are 30 employees and the researcher
+will purposively select respondents including Managers, Officers and other support staff. The
+research will use a sample size of 30 respondents that will be selected from the population above.
+
+3.4 SAMPLES DESIGN AND PROCEDURE
+Sampling design can be divided into two main categories, probability, and non-probability
+sampling. In probability sampling, every person in the target population (either random or
+representative) has an equal chance of being selected for the sample. (Lanz, 2019) To be more
+precise, the researcher employed purposive sampling along with a nonprobability sampling
+approach. This was because the people that were recognized had an edge over others in light of
+the questions that were posed, and they assisted the researcher in providing the best answers
+possible because the researcher already had some background details on their studies and the
+activities they carry out as part of DHL initiatives.
+
+
+
+3.4.1PURPOSIVE SAMPLING
+The procurement, production, research and development, and operations department heads will
+be Purposively Sampled for the qualitative data. This approach will be taken since the
+purposively selected individuals are assumed to have vast knowledge of the subject. The
+researcher is eager to learn more from people who are knowledgeable and experienced in last
+mile delivery-related matters. The respondents will be recorded and the data will later be
+transcribed for purposes of the research report.
+3.4.2RANDOM SAMPLING
+These other respondents including all staff will be selected randomly without bias and each will
+have chance is being selected. Aiming to produce a representative sample that accurately reflects
+the characteristics of the population from which it will be drawn. The researcher will use to come
+up the exact number of people to respond to the questionnaire for quantitative data.
+
+3.4.3 SOURCES OF DATA
+Primary and secondary sources has both provide data for the collection. Using specially created
+questionnaires, the primary data will be gathered from the sample population that was
+determined in table I above. The maintained organization's internal records are another source of
+secondary data, such enhanced by information taken from journals, newspapers, websites, books
+on procurement, and other library-accessible sources.
+3.5 DATA COLLECTION INSTRUMENTS
+Data collection instruments are tools used to collect data and record during research. The
+researcher will use a questionnaire guide to collect necessary information for the study.
+Collecting data involves using a certain method of inquiry to establish facts in instances when
+the knowledge that is already accessible is sufficient. There will be in-depth interviews with the
+project officer, field officers, local council representatives, community organizers, and lastly the
+children and teenagers to get the needed data. The rationale for conducting in-depth interviews
+was to facilitate a greater level of engagement between the researcher and the respondents, so
+yielding more information. Data was later transcribed after the interview was recorded.
+
+
+The researcher obtained a letter of authorization to carry out the study from Uganda Christian
+University's Research Ethics Committee. The researcher informed DHL that she had been
+assigned to perform a study in their company with an introductory letter from the School of
+Business at Uganda Christian University. These letters were submitted in order to move on with
+and carry out the research.
+
+3.6 QUESTIONNAIRE GUIDE
+Questionnaire involved the researcher formulating a set of questions on the study's subject and
+providing them to participants to complete online, offline, or orally, or digitally. Because this
+approach is user-friendly and reasonably priced, it is convenient for researchers.
+Both closed-ended and open-ended questionnaires will be used in the study as a fundamental
+method of data collection. Researchers utilize both closed-ended and open-ended questionnaires
+because they provide for easy access to respondents and can span a broad geographic range via
+questionnaires more than with any other technique.
+A questionnaire is a research instrument that consists of a set of questions or other types of
+prompts that aims to collect information from a respondent. A research questionnaire is typically
+a mix of close-ended questions and open-ended questions. (scribbr, 2021 )
+3.7 DATA ANALYSIS
+Descriptive statistics was used to summarize and modify the data acquired since they guarantee
+correctness, completeness, sufficiency, and reliability and allow the researcher to properly
+characterize measurements using a limited number of indices.
+This happened after data had been collected, the researcher had to analyze data and present it. It
+was done manually. It was done using pie charts, graphs, tables, figures, or diagrams. The data
+was presented according to the study objectives.
+
+
+
+
+
+3.8 ETHICAL CONSIDERATION
+The management of DHL has given the researcher complete information and authority to
+conduct the study. To allay any suspicions, the researcher will obtain an introduction letter from
+the institution. After that, the researcher will keep choosing respondents, set up times for
+delivering surveys, picking them up, and scheduling interviews. The researcher will guarantee
+the respondents' privacy about the information they submit and promise not to share it with
+outside parties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+
+4.0 INTRODUCTION
+This chapter deals with data presentation, interpretation and analysis of the study. It has two
+main parts: the first part is demography of the respondents; the second part consist of data
+collected from the respondents through questionnaires. In order to address the research questions
+and hypothesis, 30 questionnaires were prepared and distributed to DHL employees, out of these
+questionnaires 20 were filled and returned and no questionnaires were discarded due to missing
+data.
+
+4.1 FINDINGS ON BIO DATA OF THE RESPONDENTS
+GENDER
+FREQUENCY
+PERCENTAGE
+Male
+Female
+TOTAL
+
+
+
+From the information provided on findings on the respondents’ gender, the distribution of
+respondents according to their gender was equal. The males were 11(55%) and so were the
+females 9 (45%) This means that there is gender equality and sensitivity through women
+emancipation, instigation, and empowerment in DHL.
+male
+Female
+
+
+
+
+
+4.1.1 ACADEMIC QUALIFICATIONS
+Academic qualifications
+Frequency
+Percentage
+Post graduate
+Graduate
+Tertiary
+Secondary
+
+Total
+
+
+
+From the information shown above on academic qualifications of respondents, it is clear that
+respondents at post graduate level are 3(15%), graduate level are 11(55%) and tertiary are
+6(30%). The implication is that DHL hires for competency in that knowledgeable and skillful
+people are taken in to avail the best of their abilities and produce quality output since they have
+experience and are good at what they do. It also shows a high level of hiring for diversity in that
+people at all levels are taken up to ensure productivity and efficiency at the workplace besides
+having internship practice ongoing within DHL.
+Sales
+post graduate
+graduate
+tertiary
+secondary
+
+
+4.1.2 YEARS OF SERVICE
+YEARS
+FREQUENCY
+PERCENTAGE
+less than a year
+1-5 years
+6-10 years
+0ver 10 years
+total
+
+From the information analyzed and presented on findings on years of experiences that
+respondents have in, there is a vivid picture of years spent working in the organization unlike
+others. For instance, less that year has 1(5%), 1-5 years has 8(40%), 6 – 10 years has 7(35%),
+over 10 years has 3(10%), as shown on the chart. This information shows the experience most of
+the respondents have from working at DHL
+
+4.1.2 DEPARTMENTS THAT WERE ABLE TO RESPOND
+During the course of the research there were a wide range of respondents from many
+departments as follows; operations, human resource, customer service, finance, accounts,
+imports, sale department, data processing customs and clearing, IT department. These
+departments participated in the collection of the data in this research study
+
+less than a year
+1-5 years
+6-10 years
+over 10 years
+
+
+4.2 FINDINGS ON THE CHALLENGES FACED WHILE USING
+TECHNOLOGY IN LAST MILE DELIVERY
+Below are responses from respondents in relation to the challenges faced while using technology
+to enhance service delivery in DHL. It is categorized in A=Agree, S/A=Strongly Agree, D/A=
+Don’t Agree, and N/S= Not Sure.
+
+CHALLENGES
+A
+S/A
+A
+Data security and privacy concerns can hinder trust and
+confidence needed for efficient technology-driven deliveries.
+65% 30% 5%
+B
+Technical issues and downtime (e.g., system glitches,
+failures) can disrupt delivery operations.
+30% 65% 5%
+C
+55% 30% 15% 0
+D
+25% 75% 0
+
+Basing on the above analysis and presented data on findings on challenges encountered while
+using technology to enhance last mile delivery, it is clear that the majority of the respondents
+agreed to the challenges encountered while using technology whereas a minority disagreed and
+were not sure. In relation to the above information, the challenges faced while using technology
+to enhance service delivery in DHL were measured in responses of agree, strongly agree,
+disagree, and not sure as elaborated below.
+It was revealed that 65% of the respondents agreed, and 30% strongly agreed 5% of the
+respondents disagreed that data security and privacy is a challenge.
+While 30% strongly agreed while 65% strongly agreed and 5% disagreed of technical issues and
+downtime being another challenge.
+55% of the respondents agreed 30% who strongly agreed and 15% disagreed that using
+technology raises ethical concerns related to privacy, transparency, and fairness in delivery
+
+
+In addition, 25% of the respondents agreed, 75% strongly agreed that inadequate knowledge or
+training on operating different technological tools used in deliveries can be a barrier.
+
+This indicates that the employees in DHL require regular sensitization and training on aspects of
+technology so as to eradicate the levels at which challenges are encountered. With proper and
+regular sensitization and training of employees, more efficiency and productivity in the service
+delivery bit will be increased and achieved effectively since the required skills and knowledge
+will be availed in abundance at the employees’ exposure.
+
+4.3 FINDINGS ON THE EFFECTIVENESS OF TECHNOLOGY IN LAST MILE
+DELIVERY
+
+A
+S/A
+A
+Route optimization using algorithms with GPS tracking and
+real-time data can significantly reduce delivery times.
+65% 15% 15% 5%
+B
+Automation and optimization tools can help reduce labor
+35% 20% 45% 0
+C
+Technology allows customers to track deliveries and offers
+flexible delivery options, improving their experience.
+30% 70% 0
+Data security and privacy
+concerns can hinder trust
+and confidence needed for
+efficient technology-driven
+deliveries.
+Technical issues and
+downtime (e.g., system
+glitches, failures) can
+disrupt delivery
+operations.
+Using technology raises
+ethical concerns related to
+privacy, transparency, and
+fairness in delivery
+Using technology raises
+ethical concerns related to
+privacy, transparency, and
+fairness in delivery
+agree
+strongle agree
+disagree
+not sure
+
+
+D
+Technology adoption has the potential to reduce the carbon
+footprint of last-mile delivery operations.
+90% 5%
+5%
+
+The data collected above shows that in relation to the effectiveness encountered while using
+technology in service delivery at DHL, below are some of the responses based on agreement
+parameters of agree, strongly agree, disagree, and not sure.
+It was revealed that 65% of the respondents agreed to 15% strongly agreed 15% of the total
+respondents and 5% not sure on the notion of Route optimization using algorithms with GPS
+tracking and real-time data can significantly reduce delivery times.
+In addition, 35% of the respondents, 20% strongly agreed, 45% disagreed and 0% were not sure.
+17% of the respondents agreed that Automation and optimization tools can help reduce labor
+Furthermore, 30% Technology allows customers to track deliveries and offers flexible delivery
+options, improving their experience.70% strongly agreed, 0 % disagreed and 0% were not sure.
+90% of the respondents agreed, 5% strongly agreed, 0% disagreed and 0% were not sure
+accepted that Technology adoption has the potential to reduce the carbon footprint of last-mile
+delivery operations.
+The implication is that the respondents were strongly adhering to technological usage in service
+delivery but rather opted for manual means other than automated ones as per the results.
+Technology adherence and usage should be considered more so as to enhance productivity and
+efficiency thus improving performance operationally and strategically while eradicating
+absenteeism from work since technology offers opportunities of virtual working.
+
+
+
+
+4.4 FINDINGS ON THE FACTORS IN MEASURING THE SUCCESS OF
+TECHNOLOGY ADOPTION INITIATIVES IN LAST MILE DELIVERY
+S/N
+V/I
+I
+S/I
+N/I
+A
+Track user adoption rate by monitoring logins,
+usage frequency, and training completion.
+65% 25%
+5%
+5%
+B
+Measure the time and resources saved (e.g., number
+of deliveries completed per hour) compared to
+previous methods.
+65% 30%
+5%
+C
+Conduct feedback sessions to gauge user
+satisfaction with the new technology.
+50% 50%
+D
+Evaluate the Return on Investment (ROI) of the
+technology adoption initiative by comparing the
+benefits gained against the costs incurred.
+65% 30%
+5%
+E
+Analyze data generated by the technology to
+identify inefficiencies, optimize processes, and
+make informed strategic decisions.
+85% 15%
+Route optimization using
+algorithms with GPS
+tracking and real-time
+data can significantly
+reduce delivery times.
+Automation and
+optimization tools can
+help reduce labor costs,
+fuel expenses, and vehicle
+wear and tear.
+Technology allows
+customers to track
+deliveries and offers
+flexible delivery options,
+improving their
+experience.
+Technology adoption has
+the potential to reduce
+the carbon footprint of
+last-mile delivery
+operations.
+agree
+strongly agree
+disagree
+notsure
+
+
+
+The data collected above shows factors in measuring the success of technology adoption
+initiatives in last mile delivery at DHL, below are some of the responses based on agreement
+parameters of very important, important, somewhat important, and not important
+The study exposed that 65% of the respondents very important to track user adoption rate by
+monitoring logins, usage frequency, and training completion and 25% found it important. 5% of
+the respondents somewhat important to track user adoption rate by monitoring logins, usage
+frequency, and training completion delivery, 0% not important.
+65% very important and 30% found measure the time and resources saved (e.g., number of
+deliveries completed per hour) compared to previous methods very important. 5% of the
+respondents agreed that measuring the time and resources saved (e.g., number of deliveries
+completed per hour) compared to previous methods somewhat important.
+50% found very important, 50% important and 0% somewhat important and 0% not important
+that Conduct feedback sessions to gauge user satisfaction with the new technology.
+In addition, 65% of the respondents found it very important evaluate the Return on Investment
+(ROI) of the technology adoption initiative by comparing the benefits gained against the costs
+incurred. 30% found it important, 0% somewhat important and 5% found it not important.
+Furthermore, 85% of the respondents found that analyze data generated by the technology to
+identify inefficiencies, optimize processes, and make informed strategic decisions, 15% found it
+important, 0% somewhat important and 0%found it not important . The implication from the
+above responses is that there is a great possibility and potential of technology improving service
+delivery despite the fact that is a complex kind of relationship. Technology can improve
+accuracy, improve efficiency, increase convenience, customer satisfaction, and personalization if
+adequately adhered to in the delivery of services since the relationship is a promising one.
+
+
+
+
+
+
+
+4.4 ADDITIONAL INFORMATION ACQUIRED
+4.4.1Qn: "In case there is any other challenges, measurements and key performance indicators
+(Kpi's) to track the success of technology adoption initiatives and the effectiveness of technology
+on delivery efficiency at DHL apart from those mentioned above." Some of the respondents had
+extra information to add to the research and here are some of the answers.
+Some of the challenges that that respondents added on some remarks such as; network
+fluctuations being a problem. The respondents stated that the network fluctuations a challenges
+that DHL faces since the network connections are beyond control this becomes a challenges in
+taking the proper and accurate data collection.
+One other challenge that was mentioned by the respondents at DHL was that all frequent training
+of the technology becomes costly for the organization to maintain and have to incur a lot of
+expenses to educate the new employees on how the technology works late alone adopting it.
+Track user adoption
+rate by monitoring
+logins, usage
+frequency, and
+training completion.
+Measure the time
+and resources saved
+(e.g., number of
+deliveries completed
+per hour) compared
+to previous methods.
+Conduct feedback
+sessions to gauge
+user satisfaction with
+the new technology.
+Evaluate the Return
+on Investment (ROI)
+of the technology
+adoption initiative by
+comparing the
+benefits gained
+against the costs
+incurred.
+Analyze data
+generated by the
+technology to
+identify
+inefficiencies,
+optimize processes,
+and make informed
+strategic decisions.
+very important
+important
+somewhat important
+not important
+
+
+On the other hand some of the other things that were identified as how effectiveness of
+technology on last mile delivery is that it has been more cost and time saving for the organization
+and has produced more environmental awareness. This has created more sustainable practices
+and more environmental awareness at DHL. Technology has also improved on the efficiency of
+the workers at DHL which has gradually shown the adoption rate of technology to change
+showing process and progress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+SUMMARY OF THE FINDINGS, CONCLUSION AND
+RECOMMENDATIONS
+5.0 Introduction
+This chapter presents a summary of the study findings, conclusion of the topic,
+recommendations and areas for further research on the effect of the adoption of technology on an
+organization’s last mile delivery
+5.1 SUMMARY OF THE STUDY FINDINGS
+The study was done to analyze the effect of the adoption of emerging technology on last mile
+delivery operations of DHL. The research was guided by three specific objectives that focused
+on certain aspects associated with the use of technology within organizations. These aspects
+included the effectiveness of technology to last mile delivery such as DHL Uganda. Those
+aspects were used while referring to DHL as a case study for the research. The specific
+objectives included I. To examine the effectiveness of technology to last mile delivery, to
+examine create measurements and key performance indicators (KPIs) to track the success of
+technology adoption initiatives and their effects on delivery efficiency and to examine the
+challenges that come with implementing technology in the companies. The study findings with
+regards to those objectives are summarized below;
+
+5.2 THE FINDINGS OF THE CHALLENGES FACED WHILE USING
+TECHNOLOGY ON LAST MILE DELIVERY OPERATIONS DHL.
+
+It was revealed that 65% of the respondents agreed, and 30% strongly agreed that data security
+and privacy is a challenge. This is in agreement with (Tawalbeh, 2020) who exposes the bit that
+complex services require trust and confidence to efficiently get the delivery done with the help of
+technology. 30% of the respondents agreed, 65% strongly agreed while 5% disagreed and 0%
+were not sure of technical issues and downtime being another challenge. (Boggs, 2009)
+emphasizes that technology requires sustained investment and strong alignment with systemic
+
+
+changes. Failure to deal with technical issues and systems poses a very big gap and challenge
+thus being in agreement with the above scholar. Furthermore, 55% of the respondents agreed that
+using technology raises ethical concerns related to privacy, transparency, and fairness in delivery
+practices with 30% who strongly agreed and 15% disagreed. (Gregory, 2019) kept in mind that
+in the world of business, last mile delivery is the basis for which strategic businesses develop
+associations within their environment and much more so planned for a new competitive edge.
+The fact that not everyone in DHL was adapting to the new trends in competitiveness posed a
+hindrance and highlighted a strong agreement that user adoption and training became a big
+challenge if not planned for adequately. 25 % of the respondents agreed to inadequate knowledge
+or training on operating different technological tools used in deliveries can be a barrier being a
+challenge, 75% strongly agreed, 0% disagreed and 0% were not sure (Harahap, 2019) categorizes
+last mile delivery. All these categories require monetary terms to be effectively and efficiently
+done and adhered to which may either positively or negatively affect the cost and return on
+investments of the business. In agreement with the scholar, it brought about negative impacts for
+instance more costs were incurred in integrating different systems.
+
+5.3 FINDINGS ON THE EFFECTIVENESS OF TECHNOLOGY ON
+LASTMILEDELIVERY OPERATIONS AT DHL
+It was revealed that 65% of the respondents agreed to route optimization using alogorithims with
+GPS tracking and real time data can significantly reduce delivery time and 15% strongly agreed
+3% disagreed ad 5% were not sure (Žunic, 2020) In agreement with the above scholar, existence
+of automation proves a relationship between technology and last delivery. 35% of the
+respondents agreed automation and optimizing tools can help reduce labor cost, fuel expenses
+and vehicle wear and tear in last mile delivery, 20% strongly agreed, 45% disagreed and 0%
+were not sure. Technology has contributed and continues to contribute to enhanced performance
+and performance in of last mile delivery (Burke, 2002)In agreement with the scholars cited,
+digital transformation is proof that technology and last mile delivery bear a relation based on the
+outcome which is performance. In addition, 30% of the respondents agreed that technology
+allows customers to track deliveries and offers flexible delivery options, improving their
+experience delivery, 70% strongly agreed, 0% disagreed and 0% were not sure. In agreement
+
+
+with rapid growth brought by IT transforms generations in the way they do things. This
+generation prefers so much branding, personalization, and customization in which technology
+enables service providers to personalize and customize their offerings according to individual
+customer preferences. Customer or client data and analytics help in understanding customer
+behavior, needs, and preferences. 90% of the respondents agreed to technology adoption has
+potential to reduce the carbon footprint of last mile delivery, 5% strongly agreed, 0% disagreed
+and 0% were not sure. In agreement (MARIKI, 2021) with technology is vital for process. This
+improves environmental support, and ability to improve the environment and enhances
+collaboration between organizations that promotes a green environment leading to better
+delivery.
+5.4 FINDINGS ON THE FACTORS IN MEASURING THE SUCCESS OF
+TECHNOLOGY ADOPTION INITIATIVES LAST MILE DELIVERY AT DHL
+It was revealed that 65% of the respondents found it very important tracking user adoption rate
+by monitoring logins usage frequency and training completion and 25% found it important 5%
+found it somewhat important and 5% not important. In agreement (Froehlich, 2007) with who
+discovered that at mobile phone, has been adopted faster than any other provides rich qualitative
+accounts of device usage and human on user experience, we surveyed users after they completed
+DHL. 65% of the total respondents agreed it very important measure the time and resource saved
+compared to previous methods, 30% found it important, and 5% found it somewhat important.
+In addition, 50% of the respondents agreed conduct feedback sessions to gauge user satisfaction
+with the new technology as a very important measure to competitive advantage being a benefit,
+50%found it important, 0% disagreed and 0% were not sure. In agreement with (Uzir, 2021)
+when technology is used in the last mile delivery of services, it can be very useful to all
+employees at DHL. This gives an upper hand to be ahead of competitors since the employees are
+electronically sensitized and vital information is easily shared with automation in place.
+Furthermore, 65% of the respondents agreed that evaluating the return on investment of the
+technology adoption initiative by comparing the benefits gained against the costs incurred, 30%
+found it important and 0% found it somewhat important and 5% found it as not important. In
+agreement with (Lucas Jr, 1999) return from specific programs, projects and new initiatives
+standard cost–benefit techniques to assess large investments. Those notes were later compared
+
+
+and matched against the ... This leads to increased goal and target achievement that comes as a
+result of mutual trust, rapport, and understanding among employees.
+
+
+5.5 SUMMARY OF FINDINGS
+The first goal, which looked at the difficulties in adopting technology for last-mile delivery at
+DHL, revealed that most respondents—65% of the total—agreed that there were difficulties in
+utilizing technology to improve last-mile delivery. Of all respondents, 75% strongly agreed and
+15% disagreed with the difficulties encountered when utilizing technology to improve last-mile
+delivery. It may be inferred that a majority of the total respondents were aware of the challenges
+and their consequences, including but not limited to technological problems, insufficient
+expertise, and higher expenses. The survey, which looked at how effective technology is in lastmile delivery at DHL, revealed that 90% of respondents overall agreed that technology is
+effective in last-mile delivery at DHL, while 5% strongly agreed and were unsure. This
+suggested and demonstrated that the responders had knowledge of the benefits and efficiency of
+last-mile delivery. Enhanced productivity, increased customer happiness, a competitive edge, etc.
+are some of these advantages. The study's goal was to look into the benefits of technology use in
+DHL's service delivery. Out of all the respondents, 77% felt that it was important to track the rate
+at which technology is used when it comes to last-mile delivery at DHL, while 23% disagreed.
+This implies that the participants have a comprehensive comprehension of the standards required
+to evaluate the efficacy of technological adoption programs for last-mile delivery.
+
+
+
+
+
+
+
+
+
+
+
+
+5.6 RECOMMENDATIONS
+In light of the study's conclusions, the researcher advised businesses to think about potential
+solutions for problems that could arise from implementing technology and related practices. For
+example, educating staff members on the value and use of IT techniques prior to their adoption
+might help overcome resistance to change. That would allow the businesses to reap the complete
+rewards of implementing technological techniques, such as enhanced performance effectiveness
+and greater stakeholder transparency, among many other advantages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX
+CONSENT FORM
+Dear Sir/Madam,
+My name is.............................................. A student of Uganda Christian University
+School of Business. I am conducting a study on the "Impact of Emerging Technology on Last
+Mile Delivery Operations"
+The answers you give will be strictly confidential and will be used strictly for academic
+purposes.
+
+I agree/ disagree to participate in this study
+
+
+
+BIO DATA
+1. Gender
+a) Male
+b) Female
+2. Academic qualifications
+a) Post graduate
+b) Graduate
+c) Tertiary
+d) Secondary
+
+
+Others.......................................................................
+3. Years of service in the organization
+a) Less than I year
+b) 1-5 years
+c) 6-10 years
+d) Over 10 years
+4. Department in which you work
+...................................................................................................
+INSTRUCTIONS: Please rate your level of agreement with the following statements
+regarding challenges of using technology in last-mile delivery. Select one option for each
+statement.
+Tick appropriately A=Agree, S/A=Strongly Agree, D/A= Don’t Agree, N/S= Not sure.
+
+CHALLENGES
+A
+S/A D/A N/S
+A
+Data security and privacy concerns can hinder trust and
+confidence needed for efficient technology-driven deliveries.
+
+
+
+
+B
+Technical issues and downtime (e.g., system glitches, failures)
+can disrupt delivery operations.
+
+
+
+
+C
+
+
+
+
+D
+Inadequate knowledge or training on operating different
+technological tools used in deliveries can be a barrier.
+
+
+
+
+INSTRUCTIONS: Please rate your level of agreement with the following statements
+regarding the effectiveness of technology in last-mile delivery. Select one option for each
+statement.
+Tick appropriately, A=Agree, S/A=Strongly Agree, D/A= Don’t Agree, N/S=Not Sure.
+
+A
+S/A
+
+
+A
+Route optimization using algorithms with GPS tracking and
+real-time data can significantly reduce delivery times.
+
+
+
+
+B
+Automation and optimization tools can help reduce labor
+
+
+
+
+C
+Technology allows customers to track deliveries and offers
+flexible delivery options, improving their experience.
+
+
+
+
+D
+Technology adoption has the potential to reduce the carbon
+footprint of last-mile delivery operations.
+
+
+
+
+
+INSTRUCTIONS: Please rate the importance of the following factors in measuring the
+success of technology adoption initiatives in last-mile delivery.
+Select one option for each statement. V/I=Very Important, I= Important, S/I=Somewhat
+Important, N/I=Not Important)
+
+S/N
+V/I
+I
+S/I
+N/I
+A
+Track user adoption rate by monitoring logins,
+usage frequency, and training completion.
+
+
+
+
+B
+Measure the time and resources saved (e.g., number
+of deliveries completed per hour) compared to
+previous methods.
+
+
+
+
+C
+Conduct feedback sessions to gauge user
+satisfaction with the new technology.
+
+
+
+
+D
+Evaluate the Return on Investment (ROI) of the
+technology adoption initiative by comparing the
+benefits gained against the costs incurred.
+
+
+
+
+E
+Analyze data generated by the technology to
+identify inefficiencies, optimize processes, and
+make informed strategic decisions.
+
+
+
+
+
+
+
+F) In case there is any other challenges, measurements and key performance indicators (Kpi's) to
+track the success of technology adoption initiatives and the effectiveness of technology on
+delivery efficiency at DHL apart from those mentioned above.
+Please Specify:

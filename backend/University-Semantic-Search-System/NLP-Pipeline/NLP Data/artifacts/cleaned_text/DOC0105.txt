@@ -1,0 +1,1029 @@
+ASSESSING THE USE OF MAGNESIUM CHLORIDE AS A DUST SUPPRESSANT
+
+REAGAN MUKABYA
+S21B32/011
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+Dust on unpaved roads is one of the major tragedies affecting Uganda and the world at
+large especially in sub-Saharan climates with high temperature and traffic which results
+into the disintegration of the soil particles by moving trucks on the road surface. The
+study aims at assessing the use of magnesium chloride as a dust suppressant on unpaved
+roads in Uganda with the focus on Bbaale-Galilaya road in Kayunga district due to high
+dust levels on this road which reduces visibility resulting into accidents. So the material
+aims at the reducing on particulate matter to correspond with the air quality standards
+of Environment Protection Agency (EPA) and World Health Organization (WHO).The
+study identifies key and specific objectives such as Assessing the use of magnesium
+chloride as a dust suppressant as the main objective and determining the concentration
+of particulate matter present in dust, assessing the properties of magnesium chloride
+and the optimum amount required to suppress the dust levels along Bbaale-Galilaya
+road. On Bbaale-Galilaya road, the particulate matter was above the environmental
+protection agency (EPA) and the World Health Organization (WHO) standards which
+included 84.485/m3, 115.835/m3,138.5/m3, 128.5/m3 and 111.165/m3 at various
+distances of 50m, 100m, 150, 200m and 250m which were 50m apart or away from each
+other. After magnesium chloride application, the optimum percentage attained or
+obtained was 15% of the magnesium chloride solution which achieved the environmental
+protection agency compliance with a particulate matter of 28.5/m3 which is below 35
+standard for environmental protection agency therefore balancing environmental
+safety and indicating a 80% reduction in particulate matter present in dust along Bbaale-
+Galilaya road in Kayunga district.
+
+ii
+
+
+
+
+
+
+
+
+
+
+DECLARATION
+I hereby declare to the best of my knowledge that the content in here are mine and
+have not been shared to any university or any learning institution
+MUKABYA REAGAN
+SIGNATURE: ........................................
+
+
+
+
+
+
+
+
+iii
+
+
+
+
+
+
+
+APPROVAL
+This final year project has been studied, analyzed and submitted by MUKABYA REAGAN,
+S21B32/011 with approval to the department of engineering and environment at Uganda
+Christian university for Examination
+SIGNATURE: ............................... DATE: ....................................
+ENG. DR. CHRIS BYARUHANGA
+RESEARCH ACADEMIC SUPERVISOR
+
+
+
+
+
+
+
+iv
+
+
+
+
+
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+TABLE OF CONTENTS ............................................................................. iv
+LIST OF TABLES ................................................................................... vii
+LIST OF FIGURES ................................................................................ viii
+LIST OF ABBREVIATIONS .......................................................................... ix
+CHAPTER 1: INTRODUCTION ...................................................................... 1
+1.1.
+BACKGROUND ............................................................................ 1
+1.2. PROBLEM STATEMENT. .................................................................... 2
+1.3. OBJECTIVES OF THE STUDY ................................................................. 3
+1.3.1. Main Objective ........................................................................... 3
+1.3.2. Specific Objectives ...................................................................... 3
+1.4. RESEARCH QUESTIONS ..................................................................... 3
+1.5. JUSTIFICATION ................................................................................ 3
+1.5.1. Reaction with Water .................................................................... 4
+1.5.2. Reaction at high temperatures ........................................................ 4
+
+v
+
+1.6. GEOGRAPHICAL SCOPE ...................................................................... 5
+1.7. SIGNIFICANCE OF THE STUDY ............................................................... 5
+CHAPTER 2: LITERATURE REVIEW ................................................................ 6
+2.1. DUST ......................................................................................... 6
+2.1.1. Forms of dust .......................................................................... 6
+2.1.1.1. Inorganic dust ....................................................................... 6
+2.1.1.2. Organic dust ......................................................................... 6
+2.1.1.3. Combustion derived dust .......................................................... 6
+2.1.1.4. Settled dust ......................................................................... 7
+2.1.1.5. Aerosol dust ......................................................................... 7
+2.1.1.6. Total suspended particulates (TSP) .............................................. 7
+2.2. DUST CLASSIFICATIONS ................................................................... 7
+2.2.1. Size ........................................................................................ 7
+2.2.2. Composition .............................................................................. 7
+2.3. SOURCES OF DUST ............................................................................ 8
+2.4. WATER ......................................................................................... 8
+2.4.1. Chemical properties .................................................................... 8
+2.4.2. Physical properties ...................................................................... 8
+2.5. COMPARATIVE ANALYSIS BETWEEN PARTICULATE MATTER OF PM10 AND PM2.5 .. 10
+2.5.1. Size and Penetration .................................................................. 10
+2.6. CHEMICAL COMPOSITION AND TOXICITY PM10 ....................................... 10
+2.7. HEALTH EFFECTS ........................................................................... 11
+2.8. AIR QUALITY STANDARDS .................................................................. 11
+2.9. MAGNESIUM CHLORIDE AS A DUST SUPPRESSANT ................................... 12
+2.9.1. Properties of magnesium chloride. ................................................. 12
+
+vi
+
+2.9.2. Environmental Considerations ....................................................... 13
+Benefits of magnesium chloride during dust suppression ............................... 14
+2.9.3 SPRAYING METHOD .................................................................. 15
+2.9.4. MODE OF ACTION OF MAGNESIUM CHLORIDE DURING DUST SUPPRESSION .. 16
+LEACHING OF CHEMICALS ....................................................................... 19
+Leaching ........................................................................................ 19
+TIME SERIES ANALYSIS TEST IN DUST SUPPRESSION. ...................................... 19
+2.9.6. APPLICATION OF TIME-SERIES ANALYSIS TO DUST SUPPRESSION ............... 19
+Monitoring of Particulate Matter Concentrations. ..................................... 19
+Evaluating Intervention Effectiveness Time series analysis will, therefore, have
+the authors assess the dust suppression interventions for durability and
+consistency. The major approaches include: ........................................... 20
+VISCOSITY ......................................................................................... 21
+X-FLUORESCENCE METHOD ..................................................................... 21
+COMPOUNDS PRESENT IN MAGNESIUM CHLORIDE SOLUTION ............................... 22
+CHAPTER THREE: METHODOLOGY. ............................................................ 24
+3.1. Concentration of particulate matter present in dust on Bbaale-Galilaya road. 24
+3.2. Properties of magnesium chloride .................................................... 24
+CHAPTER FOUR: RESULTS AND DISCUSSION .................................................. 26
+4.0. RESULTS AND DISCUSSION ................................................................. 26
+4.1. Design ..................................................................................... 31
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS ........................................ 33
+REFERENCES ...................................................................................... 34
+Appendix A. A proposed paved cross section for Bbaale Galiliya road ............... 36
+Appendix B ................................................... Error! Bookmark not defined.
+
+vii
+
+Appendix C ........................................................................................ 39
+
+
+
+
+
+LIST OF TABLES
+Table 1 Air quality guidelines .................................................................. 12
+Table 2 Daily Average particulate matter .................................................... 26
+Table 3 Magnesium chloride percentage weights with their environmental impacts .. 29
+Table 4 Post particulate matter dust concentration ....................................... 31
+
+
+
+
+
+
+
+
+
+
+
+viii
+
+
+
+
+LIST OF FIGURES
+Figure 1a graph of daily average particulate matter against distance .......................................... 26
+Figure 2 A graph of elements present in magnesium chloride with their composition ............... 27
+Figure 3 A graph of the viscosity range of magnesium chloride solution ....................................... 29
+Figure 4 magnesium chloride concentrations with the new particulate matter after application
+.................................................................................................................................................................... 30
+Figure 5. Air Quality Monitor Machine .................................................................................................. 37
+Figure 6. Blatn air quality monitor machine. ...................................................................................... 37
+Figure 7.Hexahydrate magnesium chloride ................................................................................................ 37
+Figure 8. Dust accumulation from a lorry carrying sugarcane on the Kayunga-Bbaale –
+Galilaaya. .................................................................................................................................................. 38
+
+
+
+
+
+
+
+
+ix
+
+
+
+
+LIST OF ABBREVIATIONS
+PM-Particulate matter
+WHO-World Health Organization
+EPA-Environmental Protection Agency
+OC-Optimum Concentration
+CaO-Calcium Oxide
+FeO-Iron(ii)Oxide
+MgO-Magnesium Oxide
+SiO2-Silicon dioxide
+MgCl2-Magnesium Chloride
+H2O-Water
+Mpa.s-Milli Pascal Per Second
+
+
+CHAPTER 1: INTRODUCTION
+1.1.
+BACKGROUND
+Dust is a collection of tiny particles that are suspended in air or settled on surfaces
+(Kumar et al.,2020). This dust is made up of various substances such as pollen, dead
+skin cells, viruses, bacteria, fungal spores etc. and the different forms of dust include
+inorganic dust which is derived from mineral such as silica, asbestos and heavy metals,
+organic dust which is obtained from biological sources for example pollen fungal spores,
+combustion derived dust, aerosol dust and many others. (Madapusi et al., 2020). This
+dust however has various effects on humans such as respiratory problems like asthma,
+allergies, ski and eye irritation etc. and environmental impacts which affects climate,
+air quality and water resources (Shang et al., 2020).
+Different mitigation measures have been put in place globally by the World Health
+Organization (WHO), to reduce dust emissions, such as setting guidelines for air quality
+(WHO, 2020). However, in African countries, for example Uganda, dust has been
+regulated through organizations such as the National Environment Management
+Authority (NEMA) and Uganda National Roads Authority (UNRA), which regulate dust
+emissions and maintain roads (NEMA, 2019). UNRA reduces dust accumulation by
+applying bitumen and other substances to roads and implementing various dust control
+measures, such as the application of water, which binds dust particles and prevents
+their release into the atmosphere (UNRA, 2021).
+
+
+
+1.2. PROBLEM STATEMENT.
+Dust is a prevalent tragedy on many roads in Uganda today more especially on the
+unpaved or gravel roads, this dust is composed of different particles sizes therefore it
+is lost as a fine material referred to as particulate matter i.e. PM10 and PM2.5 (Barnes,
+2021).Dust levels are normally high during the dry seasons due to heavy trucks and other
+vehicles which disintegrate the soil particles down on the ground and they become
+airborne resulting into high dust levels which later gives rise to air pollution.
+Bbaale-Galilaya road which has a stretch of approximately 85kilometres in Kayunga
+district experiences a challenge of high dust levels which reduces on the visibility of
+the pedestrians, cyclists and other road users resulting into accidents (Raihan, 2021).
+The number of accidents on this road is however increasing due to lack of enough vision
+by mostly the cyclists and pedestrians as they sometimes fail to see the high speeding
+vehicles and trucks resulting into collisions or head ons and this are mainly due to the
+high concentration of dust particles along this road (Juuko, 2023).
+Different measures have been put in place along this road to mitigate this tragedy such
+as the application of water to suppress the high dust levels but however this has not
+been all that effective as the dust rises few hours after its application.
+This study therefore aims at the use of a salt based chemical known as MAGNESIUM
+CHLORIDE due to the different properties it has for effective dust suppression such as
+hygroscopic and deliquescent properties which enables it to absorb moisture from the
+air that it use during binding action and stabilization of the soil particles thereby
+holding them on the ground ( Murata et al., 2023).
+
+
+1.3. OBJECTIVES OF THE STUDY
+1.3.1. Main Objective
+To assess the use of magnesium chloride as a dust suppressant along Bbaale-Galilaya
+road
+1.3.2. Specific Objectives
+1. To determine the concentration of particulate matter along Bbaale-Galilaya road.
+2. To determine the different properties of magnesium chloride.
+3. To determine the optimum amount of magnesium chloride needed in dust
+suppression.
+1.4. RESEARCH QUESTIONS
+1. What is the concentration of particulate matter along Bbaale-Galilaya road?
+2. What are the different properties of magnesium chloride?
+3. What is the optimum amount of magnesium chloride needed to suppress dust?
+1.5. JUSTIFICATION
+Magnesium chloride is an inorganic salt compound composed of one magnesium and two
+chloride ions i.e. MgCl2. (Zhitao, 2024). When it’s applied or added to the soil, it
+attracts and retains moisture from the air since it’s a hygroscopic material and this
+forms a liquid solution which helps it to bind with the fine particles thereby reducing
+on the dust particles on the road hence suppressing more dust particles per gallon
+compared to water (Kakinaga et al., 2023).
+
+
+Magnesium chloride has a high affinity for water molecules due to their ionic and polar
+nature therefore it is composed of both positive and negative ions i.e. magnesium and
+chloride ions respectively which are highly polar which implies that they attract polar
+water molecules and attraction occurs through “ion-dipole” interactions where Positive
+and negative ends of water molecules are drawn to opposite charges on the ions (Shukla
+et al.,2020).
+Magnesium chloride mode of application on this road will be through spraying since it
+will be applied in a liquid form or solutions and sprayed on the road surface using
+specialized equipment such as trucks mounted with spray nozzles(Bingyi et al.,2022)
+and the following are the different reactions of magnesium chloride with water and
+temperature.
+1.5.1. Reaction with Water
+Magnesium chloride solution is soluble in water therefore it reacts with water
+molecules giving rise to hydrolysis reaction which is as follows
+MgCl2 (aq)+2H2O(l) Mg(OH)2 (s) + 2HCL(aq)
+And also forms a hexahydrate compound as part of its structure known as Magnesium
+chloride hexahydrate
+MgCl2+6H2O→MgCl2⋅6H2O
+1.5.2. Reaction at high temperatures
+When magnesium chloride is exposed to high temperatures, it solidifies but due to its
+hygroscopic property it will absorb more moisture from the atmosphere which takes it
+
+
+back to its liquid form which improves its binding action of the dust particles
+(Kubaschewski, 2020). The quantity of magnesium chloride to be applied however varies
+depending on several factors such as traffic volume, road width, road surface type
+therefore on Bbaale-Galilaya road since it’s a medium traffic road the quantity of
+magnesium chloride per kilometer applied will range between 2500 to 4000 liters or
+660 to 1056 gallons for effective dust suppression and this will help in the binding action
+of the soil particles down on the ground thereby preventing their rise into air which in
+the end improves the visibility for road thereby minimizing on the accidents caused due
+to high dust levels and at the same time mitigating air pollution (Yong et al., 2022).
+1.6. GEOGRAPHICAL SCOPE
+The study will be conducted on Bbaale-Galilaya road in Kayunga Road on co-ordinates
+of 0 50 49 0 “N 32” 52’ 44 0 “F (latitude 0 846944 longitude 32 878889) at Chainage
+0+400 to 0+600 a distance of 200m
+1.7. SIGNIFICANCE OF THE STUDY
+The major aim of the study to reduce the high dust levels of dust along Bbaale-Galilaya
+road through assessing the use of magnesium chloride as a dust suppressant so as to
+reduce on the number of accidents which occur due to limited visibility by the
+motorists, cyclists and pedestrians who use this road
+
+
+
+
+
+CHAPTER 2: LITERATURE REVIEW
+2.1. DUST
+This refers to tiny particles suspended in air or settled on surfaces, and it exists in
+various forms each with distinct characteristics and potential impacts on human
+health and the environment. (D'Alessandro et al., 2021).
+2.1.1. Forms of dust
+2.1.1.1. Inorganic dust
+This refers to the type of dust derived from mineral sources such as silica, asbestos,
+heavy metals etc. (NIOSH, 2020).
+2.1.1.2. Organic dust
+This refers to dust derived from biological sources such as pollen, fungal spores,
+bacteria etc. (Samet & Spengler, 2018).
+2.1.1.3. Combustion derived dust
+This refers to dust which results from burning fossil fuels for example particulate matter
+which involves particulate matter of PM10 and PM2.5 implying particulate matter ≤
+10μm and particulate matter ≤ 2.5μm respectively. This particulate matter is composed
+of various substances such as minerals like silica, alumina, iron oxide etc. and metals
+like lead, cadmium, arsenic etc., organic compounds such as hydrocarbons and
+biological particles like pollen, fungal spores etc (WHO, 2021).
+
+
+
+
+
+2.1.1.4. Settled dust
+This refers to dust, which is deposited on surfaces for example house dust, industrial
+dust etc. (Madapusi et al., 2020).
+2.1.1.5. Aerosol dust
+This refers to suspended particles in air for example fog, smoke, haze etc. (EPA, 2020).
+2.1.1.6. Total suspended particulates (TSP)
+This refers to all particles suspended in air.
+2.2. DUST CLASSIFICATIONS
+Dust can also exist in different forms depending on.
+2.2.1. Size
+✓ Coarse particles (PM10) which is 10μm or larger
+✓ Fine particles (PM2.5) which is 2.5μm or smaller
+✓ Ultrafine particles (PMO.10) which 0.1μm or smaller
+2.2.2. Composition
+✓ Mineral dust i.e. silica, asbestos
+✓ Metallic dust i.e. iron, copper
+✓ Biological dust i.e. pollen, fungal spores
+Dust has various sources on which it accumulates along the road which is as follows
+
+
+2.3. SOURCES OF DUST
+1. Natural sources for example soil, sand
+2. Human activities such as construction, mining
+3. Industrial processes such as grinding, crushing
+4. Vehicle emissions
+However, when this dust accumulates more on the road it poses health risks on human
+being for example respiratory problems like asthma, skin irritations, eye irritations etc.
+therefore to reduce these risks, different mitigation measures have been put in place
+to suppress dust and some of them include
+2.4. WATER
+This refers to a clear, colorless and odorless liquid substance that is essential for life
+on earth and it’s a vital component of all living organisms therefore it plays a vital role
+in many biological, chemical and physical processes and the following are some of its
+properties which are divided into two i.e. Chemical properties and physical properties
+2.4.1. Chemical properties
+➢ Water has a molecular weight of 18,015g/mol
+➢ It has a density of 1g/cm liquid and 0.92g/cm ice
+➢ Water has a boiling point of 100 degrees Celsius and freezing point of 0
+2.4.2. Physical properties
+➢ Water is clear i.e. colorless liquid
+➢ Water is odorless i.e. it has no smell
+
+
+➢ Water is tasteless i.e. no taste
+Water is a commonly used dust suppressant on many roads in Uganda today and it’s
+because of the following reasons.
+✓ Water reduces on the dust particle movement through binding the dust particles
+together which prevents them from becoming airborne (Kumar et al.,2020)
+✓ Increases the particle size. This is because water absorption increases the dust
+particle weight which makes them less likely to be suspended in air ( Madapusi
+et al., 2020)
+✓ Lowers dust cloud formation. This is because water wets dust particles which
+prevents them from becoming airborne (Puppala et al.,2019)
+During this dust suppression, water application rates vary depending on the light,
+medium and heavy dust control therefore its applied through various methods which
+include spraying , misting and use of irrigation systems(Yulong, 2020) and after being
+applied, dust is suppressed through agglomeration where the water causes dust
+particles to clump together thereby increasing their size and weight which prevents
+them from being re-suspended into the atmosphere (Sanjay, 2021).
+Dust however accumulates again few hours of approximately 1 to 3hours after its
+application since water is effective for short term dust suppression (Wang et al, 2019)as
+it suppresses dust to a percentage of 50-70% making it less effective compared to
+Magnesium chloride which as a long term dust suppression period as it suppresses dust
+on a long run to a period of approximately 1 to 7 days after its application which 80 to
+95% effectiveness and also suppresses more dust per gallon compared to water.
+
+
+2.5. COMPARATIVE ANALYSIS BETWEEN PARTICULATE MATTER OF PM10 AND PM2.5
+2.5.1. Size and Penetration
+PM10
+PM10 is composed of larger particles up to 10 μm in diameter and penetrates the
+upper respiratory tract, nose, throat, and bronchi but is often trapped by natural
+defenses like nasal hair or mucus. PM10 cause irritation of the eyes, nose etc. (WHO,
+2021).
+PM2.5
+PM2.5 consists of smaller particles of 2.5 μm or less in diameter and penetrates
+deeper into the lungs and can reach the alveoli, the tiny air sacs responsible for gas
+exchange in the lungs (EPA, 2020). PM2.5 can enter the bloodstream which affects the
+cardiovascular system and other organs (WHO, 2021).
+Therefore, in conclusion basing on size and penetration, PM2.5 is more dangerous
+because its smaller size allows it to penetrate deeper into the body.
+2.6. CHEMICAL COMPOSITION AND TOXICITY
+PM10
+This consists of coarse particles from natural sources such as soil, dust, and pollen and
+carries toxic substances that are less concentrated compared to PM2.5.
+PM2.5
+This Contains finer particles often originating from combustion processes, including
+vehicle emissions, industrial processes, and burning fossil fuels.
+PM2.5 carries more toxic compounds such as polycyclic aromatic hydrocarbons (PAHs),
+
+
+heavy metals, and sulfates which have a higher potential for causing harm (Chen et
+al., 2020).Therefore PM2.5 poses greater health risks due to its higher toxicity
+compared to PM2.5
+
+2.7. HEALTH EFFECTS
+PM10. PM10 irritates the eyes, nose, throat, and upper respiratory tract and
+with long exposure, it causes respiratory diseases such as asthma and
+bronchitis. (NIOSH, 2020)
+PM2.5
+PM2.5 is associated with more serious health effects which includes increased risk of
+heart attacks and strokes, worsening of chronic diseases like asthma therefore Longterm exposure has been linked to reduced lung function and cancer. (WHO, 2021;
+Samet & Spengler, 2018).
+In conclusion PM2.5 has more serious and systemic health effects than PM10.
+2.8. AIR QUALITY STANDARDS
+Air quality guidelines set by international organizations demonstrate the differing
+dangers of PM2.5 and PM10
+
+
+
+
+Table 1 Air quality guidelines
+Parameter
+PM2.5
+PM10
+WHO
+Guidelines
+5 μg/m3 (annual mean); 15
+15 μg/m3 (annual mean); 45
+EPA
+Standards
+12 μg/m3 (annual mean); 35
+50 μg/m3 (annual mean); 150
+
+The stricter limits for PM2.5 reflect its greater impact on health therefore PM2.5 is
+considered a critical pollutant for public health interventions globally (WHO, 2021).The
+Air quality standards highlight that PM2.5 as more hazardous due to its lower allowable
+concentrations.
+2.9. MAGNESIUM CHLORIDE AS A DUST SUPPRESSANT
+This is an inorganic salt chemical compound which is composed of magnesium ions and
+chloride ions with 23.3% and atomic mass of 24.305g/mol and 76.7% with atomic mass
+of 35.453g/mol respectively. It is used as a dust suppressant because of its effectiveness
+and environmental benefits which makes it desirable during dust suppression.
+2.9.1. Properties of magnesium chloride.
+Physical Properties
+Magnesium chloride is highly hygroscopic, meaning it absorbs moisture from the
+atmosphere, which is critical for its effectiveness in binding fine dust particles (Chase,
+2021). It exists as a crystalline solid, typically colorless, and forms hydrates like
+
+
+magnesium chloride hexahydrate (MgCl2·6H2O) under humid conditions. These hydrates
+enhance its ability to retain moisture, crucial for stabilizing dust on roads (NIST, 2023).
+The compound has a melting point of 714°C and is highly soluble in water hence easily
+applied in liquid solutions (USGS, 2023).
+Chemical Properties
+When dissolved in water, magnesium chloride dissociates into magnesium (Mg2+) and
+chloride (Cl−) ions. It is these ions that, through ion-dipole interactions with dust and
+water molecules, build a binding matrix that resists the release of dust into the air
+(Chase, 1998). Under certain conditions, this chemical also reacts with water, leading
+to hydrolysis and the formation of magnesium hydroxide and hydrochloric acid, further
+indicating the reactivity and possible impacts on specific environments (NIST, 2023).
+Thermal Properties
+Magnesium chloride has very good thermal stability, with a hygroscopic capacity
+unaffected by increasing temperature; it works efficiently in a wide range of climate
+conditions. The values for heat and enthalpy have been documented in scientific
+literature to date and supplement its ability in dust suppression and industry
+applications (NIST, 2023).
+2.9.2. Environmental Considerations
+Magnesium chloride is considered environmentally friendly because it naturally
+degrades with minimal ecological effects, over-application can result in soil salinity and
+contaminate water. Thus, its use has to be done responsibly to maximize benefits with
+minimum risk. USGS, 2023.
+
+
+Benefits of magnesium chloride during dust suppression
+✓ Magnesium chloride is highly effective. This is because it reduces dust emissions
+by 80 to 95% (Kumar et al.,2020)
+✓ Long lasting. Magnesium chloride remains effective for several months after its
+application (Madapus et al., 2020)
+✓ Environmental friendly. It is a biodegradable and non-toxic chemical therefore
+has no harm on the environment (EPA, 2020)
+✓ Soil stabilization. Magnesium chloride helps to bind down the soil particles which
+reduces on erosion and increases stability
+The application of magnesium chloride however also varies depending on the kind of
+suppression needed i.e.
+✓ 0.5-1.5 kg/m for light dust suppression
+✓ 1.5-3kg for moderate dust suppression
+✓ 3-5kg/m for heavy dust suppression
+Magnesium chloride mode of application along roads during dust suppression involves
+different methods but the most used method is the spraying method
+
+
+
+
+2.9.3 SPRAYING METHOD
+This is a method where spray nozzles are mounted onto trucks to allow easy spray of a
+chemical or a substance and the following is how magnesium chloride is applied using
+this method
+➢ Selected chain age to be suppressed is graded using graders to clear the surface
+➢ The surface is then pre-wetted with Water to ensure that magnesium chloride
+penetrates effectively when it is moist
+➢ Magnesium chloride is then mixed with water to create a liquid solution with a
+concentration of 25% to 35%
+➢ Water Truck is mounted with spray nozzles that are then used to spray the
+chemical uniformly along the selected section of the road
+➢ The chemical is then absorbed and binded with the soil particles and due to its
+hygroscopic property, it absorbs moisture from the atmosphere that it uses to
+bind down the soil particles which prevents them from becoming airborne
+
+
+Precautions followed during the application of magnesium chloride during
+dust suppression
+✓ Wearing of protective gears when handling magnesium chloride
+✓ Avoiding the application of magnesium chloride during strong winds or
+heavy rainfall
+
+
+2.9.4. MODE OF ACTION OF MAGNESIUM CHLORIDE DURING DUST SUPPRESSION
+Magnesium chloride mainly achieves it dust suppression effectiveness through the
+following ways
+Hygroscopic property
+When magnesium chloride is applied, it absorbs moisture from the atmosphere which it
+uses to reduce on the mobility of the dust particles (Kumar et al, 2020)
+Surface tension reduction. It then reduces on the surface tension of the absorbed
+moisture or water molecules which enhances its ability to bind dust particles that are
+more likely to become airborne (Chen et al, 2020)
+Particle aggregation
+It achieves this through making dust particles heavier due to the attracted moisture
+which reduces on the rise of dust particles into the atmosphere. (Samet & Spengler,
+2018).
+What makes magnesium chloride a good dust suppressant method?
+
+Magnesium chloride is hygroscopic in nature therefore this implies that it can absorb
+water molecules from the atmosphere that improves its binding action.(Chen et al.,
+2016). It’s composed of the magnesium and chloride ions which have strong electro
+static forces that its uses to pull or attract water molecules from the atmosphere. After
+water molecules are absorbed these form a brine solution that acts a sticky coating that
+help to trap dust particles down onto the ground which prevents it from becoming
+airborne resulting into the deliquescent property therefore magnesium chloride is a
+
+
+good dust suppressant because of its hygroscopic and deliquescent property(Kumar et
+al.,2020).
+2.9.4. COMPARISON OF MAGNESIUM CHLORIDE WITH WATER DURING DUST
+SUPPRESSION
+Long-lasting
+Magnesium chloride forms a brine solution when applied to the surface which creates a
+sticky layer on the ground thereby binding soil particles together therefore this brine
+effect is long lasting and resists evaporation and wear compared to water which tends
+to evaporate quickly and loses its effectiveness (Hammond et al.,2013)
+Reduced dust resuspension
+When magnesium chloride is applied, it reduces dust resuspension because it form a
+thin sticky film on the surface that binds dust particles together unlike water which
+temporarily suppresses dust as it does not have the same binding effect as magnesium
+chloride therefore results into more dust rise into the atmosphere once water
+Evaporates (Nash et al.,2010).
+
+Hygroscopic nature
+Magnesium chloride is highly hygroscopic which enables it to attract and absorb
+moisture from the air. This ability helps to keep the surface moist or damp which
+reduces the likelihood of dust particles being lifted by wind while water on the other
+
+
+hand evaporates quickly especially in the hot or dry conditions and lacks the same
+ability to retain moisture (Pasternald et al.,2006)
+2.9.5. IMPACT OF WEATHER CONDITIONS ON MAGNESIUM CHLORIDE AFTER
+APPLICATION
+WIND
+Magnesium chloride absorbs and retains moisture due to its hygroscopic nature
+therefore this makes the surface moist or damp and reduces on the effect of being
+carried away by wind (Pasternald et al., 2006)
+RAIN
+Moderate rain dissolves magnesium chloride and spreads it more evenly across the road
+thereby improving its ability to retain moisture and suppression of dust (Smith et al.,
+2018)
+TEMPERATURE
+In warm temperature with moderate or high humidity, magnesium chloride attracts
+moisture which keeps the road surface damp thus reducing dust and this is due to its
+hygroscopic property however at very high temperature i.e. temperatures above 40°C,
+rapid evaporation occurs which reduces on the moisture being absorbed by Magnesium
+chloride since the humidity in the atmosphere is low
+
+
+LEACHING OF CHEMICALS
+Leaching
+This refers to the process by which soluble substances for example chemicals, minerals,
+nutrients or other contaminants are dissolved and carried away by water moving
+through the soil or other materials. Leaching occurs when rain water or ground water
+percolates through the soil dissolving chemicals and carrying them downwards (Brady
+et al.,2016) leaching can however be addressed through use of acceptable
+concentrations of magnesium chloride corresponding to the environmental protection
+agency EPA as this reduces on the leaching effect of the chemical after its application.
+TIME SERIES ANALYSIS TEST IN DUST SUPPRESSION.
+Time series analysis is a standard statistical methodology applied to research into
+trends, patterns, and relationships in data gathered over time. When proposed to dust
+suppression studies on unpaved roads, this encompasses everything regarding the
+effectiveness of the intervention through the analysis of particulate matter
+concentrations before, during, and after the implementation of dust suppression
+measures.
+2.9.6. APPLICATION OF TIME-SERIES ANALYSIS TO DUST SUPPRESSION
+Monitoring of Particulate Matter Concentrations.
+The time series data of the PM10 and PM2.5 concentrations from air quality
+monitoring devices provide records for a time continuum that is irrefutably required
+for the determination of dust concentration variability due to some natural causes
+such as wind speed, humidity, and other human activities; the quantification of the
+
+
+effectiveness of dust mitigation methods such as water application and/or chemical
+dust suppressants; the understanding of seasonal variability in dust emissions; among
+others.
+Evaluating Intervention Effectiveness
+Time series analysis will, therefore, have the authors assess the dust suppression
+interventions for durability and consistency. The major approaches include:
+1. Pre- and post-intervention comparison.
+✓ Detection of a trend or anomaly by fitting models like ARIMA, or Seasonal
+Decomposition of Time Series (STL).
+✓ Delineation of time lags between interventions and associated reductions in PM
+concentrations.
+2. Impact of Environmental Variables
+The times-series methodologies have thus far been quite helpful in teasing out the
+effect of exogenous factors like wind, temperature, and vehicle traffic itself on dust
+suppression performance. Incorporating covariates allows the detection of the
+Synergistic or antagonistic action of environmental factors on dust levels with the
+optimum application conditions for dust control measures.
+Long-term monitoring and evaluation of sustainability
+Long-term series help describe the sustainability of the dust mitigation measure; they
+are needed when decision-makers want to judge cost-effectiveness through time-i.e.,
+eventual needs for reapplication or complementary measures-with a view to attainment
+of standards.
+
+
+VISCOSITY
+This refers to the measure of a fluids resistance to deformation or flow therefore it
+describes how thick or thin a fluid is and results from internal friction between
+molecules i.e. Internal friction within a material that resists motion or how thick a
+material is. High viscosity implies greater resistance to flow and low viscosity indicates
+that the fluid flows easily without much resistance (white, 2016). The instrument used
+to measure viscosity or carry out viscosity tests is a digital viscometer as a certain
+concentration of a solution or a fluid is poured into the digital viscometer which gives
+a reading in Milli-pascal per second (Munson et al.,2018).
+Viscosity involves the fluid’s resistance to flow therefore it further describes how thick
+or sticky a fluid is. Viscosity can be high or low hence a highly viscous fluid flows slowly
+for example honey and a low viscos fluid flows with ease for example water and this
+depends on the internal fiction between molecules in the fluid as they move past each
+other (Munson et al., 2013).Viscosity is influenced by factors such as temperature where
+heated fluids become less viscous and more viscous when cooled (cengal et al., 2014)
+X-FLUORESCENCE METHOD
+This is a non-destructive analytical technique used to determine the elemental
+composition of materials for example magnesium chloride therefore this indicates the
+various compounds present in the magnesium chloride solution for example magnesium
+oxide, chlorine ions, manganese (ii) oxide which are vital during dust suppression as
+they increase the effectiveness of magnesium chloride during dust suppression through
+improving on the binding action of magnesium chloride solution after being
+applied(Beckhoff et al.,2006).
+
+
+COMPOUNDS PRESENT IN MAGNESIUM CHLORIDE SOLUTION
+Magnesium oxide
+This comprises of relatively a bigger percentage compared to the rest of the compounds
+in magnesium chloride as this constitutes of 85.54% which indicates that 85.54% of the
+total analyzed mass of magnesium chloride solution was composed of magnesium oxide.
+When magnesium chloride is applied along a road section, it absorbs water molecules
+from the atmosphere due to tis hygroscopic property and these water molecules react
+with the magnesium oxide present 4in magnesium chloride solution forming magnesium
+hydroxide which boosts on the binding effect of magnesium chloride solution.
+Equation
+MgO + H2O Mg(OH)2
+This reaction is a neutralization process where the basic oxide i.e. magnesium oxide
+dissolves in water to form a slightly soluble hydroxide, magnesium hydroxide is a weakly
+soluble in water and often appears as ca white precipitate.
+Chlorine ions
+These are negatively charged atoms of chlorine that have gained an extra electron and
+are commonly found in nature particularly in salts like magnesium chloride (Atkins,
+2018). These are smaller ions which have a low charge density and in magnesium
+chloride solution, these constitute to a percentage of 4.42% which is also vital as they
+also help in attracting water molecules from the atmosphere which boosts on the
+binding action of magnesium chloride solution thereby improving on the effectiveness
+of magnesium chloride.
+
+
+However, there are other compounds such as manganese (ii) oxide, silicon dioxide,
+calcium oxide etc. constitute the rest of the percentages of magnesium chloride
+solution and these help in improving soil stability i.e. soil stabilization and also improves
+on the forces which enable attraction of water molecules from the atmosphere which
+represents the hygroscopic nature of magnesium chloride solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE: METHODOLOGY.
+3.1. Concentration of particulate matter present in dust on Bbaale-Galilaya road.
+Selected different points along the chain age of 0+250m which were 50m away from
+each other i.e. 50m, 100m, 150m, 200m and 250m.
+Placed the Blatn air quality monitor at a height of 2m from the ground which gave us
+various readings of particulate matter at this selected point. This was carried out during
+the peak hours of the day i.e. morning and evening and at each point we measured
+particulate matter thrice and later got the average for accuracy and repeated the same
+procedure for the second time in the evening for three days at each point.
+The procedure was repeated for the remaining points and the daily average particulate
+matter was noted and recorded for each point along our chain age of Bbaale-Galilaya
+road
+3.2. Properties of magnesium chloride
+X-Fluorescence test. This was carried out using the X-fluorescence method to
+determine the elemental composition in magnesium chloride and various compound
+were present in magnesium chloride such as magnesium oxide, chlorine ions, iron(ii)
+oxide, silicon dioxide, calcium oxide and manganese(ii) oxide with magnesium oxide
+and chlorine ions having the highest percentages of 85.45% and 4.42% respectively
+Viscosity test. This was carried out using a digital viscometer to measure how thick or
+the internal resistance of magnesium chloride solution to motion after being applied
+along the road section.
+
+
+We used 35% weight of magnesium chloride solution so as to minimize on errors due to
+air bubbles, to obtain a well-defined ratio of magnesium chloride to water etc. and the
+viscometer reading was 20millipascal per second (20mpa s)
+3.3. Optimum amount of magnesium chloride needed to suppress dust
+Trial runs.
+✓ Different magnesium chloride solutions of different weights i.e. 5%, 15%, 20% and
+25% were applied at along the chain age of 0+250 at a distance of 0+50m since
+the soil was gravel along the Bbaaale-Galilaya road.
+✓ A Blatn air quality monitor was later used to measure the new particulate matter
+while raised at a distance of 2m from the road surface and this was to ensure
+compliance with the environmental protection agency and also to avoid mixture
+of dust with other unnecessary materials on the ground.
+✓ With comparison with the particulate matter achieved in objective one, the new
+particulate matter significantly reduced with the concentration of magnesium
+chloride solutions of 5%, 25%, 20% and 25% to 68.9μg/m3, 43.2μg/m3, 28.5μg/m3
+24.1μg/m3 and 21.7μg/m3 respectively.
+✓ According to the Environmental protection standards of particulate matter, the
+magnesium chloride concentration of 15% achieved the EPA compliance with a
+particulate matter of 28.5μg/m3 which is below 35μg/m3 .This therefore
+indicated a 80% reduction dust along Bbaale-Galilaya road achieving our
+optimum amount of magnesium chloride needed for dust suppression along this
+road.
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.0. RESULTS AND DISCUSSION
+
+Figure 1a graph of daily average particulate matter against distance
+Table 2 Daily Average particulate matter
+Location
+Daily
+Average
+Pm
+(μg/m3)
+P50
+84.485
+P100
+115.835
+P150
+138.5
+P200
+128.5
+P250
+111.165
+
+Daily Average Pm
+Location
+
+
+All values exceed WHO (15μg/m3) and EPA (35μg/m3) 24-hour guidelines.
+Explanation of the graph
+Particulate matter gradually increased from 80μg/m3 to 140μg/m3 and this was due to
+higher levels of tiny solid particle which were suspended in air along the selected
+section of the road from sources such as vehicle emissions, dust etc. and slightly
+decreased from 140μg/m3 to 111.165μg/m3 due to reduced levels or fewer tiny solid
+particles in air.
+Particulate matter monitored along the selected chain age of 0+250m were all above
+the standards of Environmental Protection Agency(EPA) and World Health Organization
+(WHO) of particulate matter not exceeding 35μ/m3 and 15μ/m3 therefore this indicated
+high dust levels along this road due to high concentration of particulate matter.
+
+
+Figure 2 A graph of elements present in magnesium chloride with their composition
+X fluorescence test indicated different compositions of elements in magnesium chloride
+for example magnesium oxide, calcium oxide, chlorine, iron (ii) oxide, silicon dioxide
+Magnesium Oxide
+Calcium Oxide
+Chlorine
+Iron (III) Oxide
+Silicon dioxide
+Manganese (II) Oxide
+%m/m
+Elements
+Elemental Analysis
+
+
+and manganese (ii) oxide with a composition of 85.45%, 2.70%, 4.42%, 0.623%, 2.11%
+and 0.02% respectively.
+High percentage of magnesium oxide of 85.45% indicated that out of the total analyzed
+sample of magnesium chloride in the laboratory, 85.45% was comprised of magnesium
+oxide and this when reacted with the water molecules absorbed by magnesium chloride
+due to its hygroscopic nature, it form magnesium hydroxide which help during the
+binding action of magnesium chloride since it improves on the water retention capacity
+of the chemical during dust suppression ie
+MgO(s) + H2O(l) Mg(OH)2(aq)
+The high percentage (85.5%) of Magnesium oxide also represents a high hygroscopic
+nature hence high moisture retention levels which is the core mechanism behind MgCl2
+dust suppressing effect.
+Chlorine ions were also present in small quantities of 4.42% elemental composition as
+indicated on the graph and these had a low charge density however also play a vital
+role during dust suppression as they are inherently hygroscopic which aids in moisture
+absorption during dust suppression whereas on the other hand elements such as calcium
+oxide, iron(ii)oxide, silicon dioxide and manganese(ii)oxide also help in soil stabilization
+during dust suppression which keeps the dust down on the ground thereby preventing
+it from becoming airborne
+
+
+
+Figure 3 A graph of the viscosity range of magnesium chloride solution
+Magnesium chloride solution of (35% weight of MgCl2) had a viscosity of 20mPa.s.
+20MPa.s is within acceptable ranges for field application (Wang et al., 2021).the
+viscosity value of 20mpas obtained from the digital viscometer lies between the
+required standards for field application therefore this indicates that magnesium
+chloride spreads with ease after being applied during dust suppression which implies
+that at every particular section of the road, dust suppression would be effective due to
+the ability to spread or flow easily along the road section
+Magnesium Chloride solution application in different percentage weights ( 5%, 10%,
+15%, 20%, 25%)
+Table 3 Magnesium chloride percentage weights with their environmental impacts
+
+Acceptable Minimum
+Magnesium Chloride
+Acceptable maximum
+Vicosity
+Sample
+MgCl2 (%)
+PM (μg/m3)
+Standard Deviation EPA Compliances (≤35μg/m3) Viscosity(mPa.s)
+Environmental Impact
+68.9
+3.9 NO
+12 low
+43.2
+3.7 NO
+18 low
+28.5
+2.5 YES
+25 medium
+24.1
+1.8 YES
+32 high
+21.7
+1.7 YES
+38 high
+
+
+Low indicates that Chloride runoff was less than 5% with viscosity ≤20 mPa.s, Medium
+indicates that Chloride runoff 5-10%, viscosity ≤30 mPa.s and High implies that Chloride
+runoff was greater than 10% with viscosity > 30 mPa.s.
+
+Figure 4 magnesium chloride concentrations with the new particulate matter after
+application
+The optimum percentage of 15% magnesium chloride solution achieves the
+environmental protection agency compliance with particulate matter of 28.5μg/m3
+which is below 35μg/m3 standard for EPA while balancing environmental safety and was
+Derived from Baseline PM2.5 values with an 80% reduction
+
+
+
+
+68.9
+43.2
+28.5
+24.1
+21.7
+MgCl2 (%)
+PM (μg/m3)
+Magnesium Chloride Solution in different Application Rates
+
+
+
+Table 4 Post particulate matter dust concentration
+
+Water reduced dust temporarily for about 1 to 2 hours and dust raised again in air
+resulted into a short lived suppression period due to its evaporation within 4 hours and
+Magnesium Chloride solution Maintained compliance for 7 days due to its Hygroscopic
+and deliquescent properties that enable it to retain moisture from the atmosphere and
+bind down the dust particles on the ground.
+4.1. Design
+Road Dimensions
+Length; 250meters
+Width; 5meters
+Area; 250m*5m= 1250m2
+Application rate; 0.5L/m2 (Minnesota DOT recommendation for minimal leaching and
+effective suppression)
+Flow rate; 25l/min
+PM2.5 Dust Concentration Post-Application
+Time Post Application Water (PM2.5, μg/m3) MgCl2 (15%) (PM 2.5,μg/m3) EPA Compiance (≤35 μg/m3)
+Baseine (0 hours)
+150 No
+1 hour
+28.5 YES (MgCl2)
+2 hours
+29 YES (MgCl2)
+4 hours
+30.1 YES (MgCl2)
+Day 2
+32.2 YES (MgCl2)
+Day 3
+33 YES (MgCl2)
+Day 7
+33.5 YES (MgCl2)
+
+
+Total magnesium chloride solution required
+Total volume= area* application rate = 1250*0.5 = 625L
+Time=
+total volume
+flow rate=
+25 = 25minutes
+A proposed paved cross section for Bbaale Galiliya road is shown in Appendix A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS
+CONCLUSION
+This research obtained 15% Magnesium Chloride as the optimum concentration for dust
+suppression on unpaved roads i.e. Bbaale-Galilaya road which achieved.
+✓ 80% pM2.5 reduction from 143μg/m3 to 28.5μg/m3 complying with EPA’s 24-hour
+standard (≤35μg/m3).
+✓ Minimal Environmental impact with Chloride levels ≤180mg/kg (below EPA/FAO
+Thresholds) and viscosity (25mPa.s) within acceptable limits.
+✓ Long-lasting performance suppressing dust levels for extended time periods.
+RECOMENDATION
+✓ Implement Monitoring Protocols to monitor the particulate matter along Bbaale-
+Galilaya road in Kayunga district to enable the particulate matter comply with
+the EPA standards.
+✓ Quarterly soil tests for Cl-, Mg2+, and Electrical conductivity to ensure long-term
+environmental Safety
+✓ Track PM2.5 levels pre and post-application to validate efficacy.

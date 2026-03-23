@@ -1,0 +1,1282 @@
+ASSESSING THE USE MAGNESIUM CHLORIDE AS A DUST SUPPRESSANT
+
+GILBERT NOWAMANI
+S21B32/056
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+
+This research was conducted in Kayunga district having a main objective of assessing
+the use of magnesium chloride as a dust suppressant. This study was conducted due to
+dust clouds along Bbaale-Galilaya road(unpaved) that reduce visibility on the road
+therefore resulting into vehicle accidents thus leading to loss of lives. The main aim of
+this study is to efficiently suppress dust while respecting environmental health. This
+study had three objectives which were determining the concentration of particulate
+matter present along Bbaale-Galilaya road, to determine the different properties of
+magnesium chloride and to determine the optimum magnesium chloride required to
+suppress dust along Bbaale-Galilaya road. In this study, a Blatan Air Quality Machine
+and a Dust TrackTM machine were used to determine the concentration of particulate
+matter along the unpaved road and it was found that the PM2.5 was above the provided
+24-hour standards of EPA(<35μg/m3) and WHO (<15μg/m3). The study recommended the
+use of Magnesium Chloride as a dust suppressant along Bbaale-Galilaya road after
+discovering that 15% MgCl2 concentration reduced PM2.5 levels by 80% (from 143μg/m3
+to 28.5μg/m3) while complying with environmental safety guidelines provided by EPA
+and FAO.
+
+
+
+
+
+ii
+
+DECLARATION
+
+I GILBERT NOWAMANI with registration number S21B32/056 declare that this report
+has information about research that we carried out to fulfill the Final year project
+requirement which is my own work that has never been submitted to any Institution.
+
+
+SIGNED:..............................................................................
+
+
+DATE:..................................................................................
+
+
+
+iii
+
+APPROVAL
+
+This is to endorse that NOWAMANI GILBERT conducted this research under professional
+supervision and this report was submitted with the approval of the supervisor.
+
+
+SIGNATURE:..............................................................................
+
+DATE:.........................................................................................
+
+DR. CHRIS BYARUHANGA
+RESEARCH SUPERVISOR
+UGANDA CHRISTIAN UNIVERSITY
+
+
+
+
+iv
+
+ACKNOWLEDGEMENT
+I would like to appreciate the department of Civil and Environmental Engineering,
+Uganda Christian University for providing students with the opportunity to apply the
+theoretical knowledge they acquire from class to practical skills with an aim of
+exercising Engineering skills to better our world.
+I also thank the Roads Management Engineer Walugembe Martin for the technical
+assistance with machinery operation and the local government of Kayunga district for
+the knowledge and permits to operate on Bbaale Galilaya road.
+I appreciate my guardian for funding me through this whole project and providing
+knowledge and insight on some of the challenges I faced.
+My final year project supervisor provided ideal ways to approach and deal with most
+challenges I faced in this project. He was very reliable and this project would not
+have been possible without him. I deeply appreciate Dr. Chris Byaruhanga for devoting
+his time from the beginning of this project to the end.
+Lastly, I want to appreciate my project partner for the Mukabya Reagan for the
+knowledge and contribution to the execution of this project. You have persisted
+through to the finish of the project with me.
+
+
+
+
+v
+
+TABLE OF CONTENTS
+
+ABSTRACT ...................................................................................................................................................... i
+DECLARATION ............................................................................................................................................... ii
+APPROVAL .................................................................................................................................................... iii
+ACKNOWLEDGEMENT ................................................................................................................................. iv
+LIST OF TABLES ....................................................................................................................................... viii
+LIST OF ABBREVIATIONS ...................................................................................................................... ix
+CHAPTER ONE: INTRODUCTION................................................................................................................. 1
+1.1.
+BACKGROUND AND INTRODUCTION ........................................................................................ 1
+1.2.
+PROBLEM STATEMENT ............................................................................................................... 3
+1.3.
+OBJECTIVES OF STUDY .............................................................................................................. 3
+1.3.1.
+MAIN OBJECTIVE ................................................................................................................ 3
+1.3.2.
+SPECIFIC OBJECTIVES ....................................................................................................... 4
+1.4.
+RESEARCH QUESTIONS .............................................................................................................. 4
+1.5.
+GEOGRAPHICAL SCOPE .............................................................................................................. 4
+1.6.
+JUSTIFICATION ........................................................................................................................... 4
+1.6.1.
+HYPOTHESIS ............................................................................................................................ 7
+1.6.2.
+SIGNIFICANCE ......................................................................................................................... 7
+CHAPTER TWO: LITERATURE REVIEW ...................................................................................................... 9
+2.1.
+Effectiveness of Magnesium Chloride .................................................................................... 9
+2.2.
+Environmental Concerns......................................................................................................... 10
+2.3.
+Cost-Effectiveness and Practicality ..................................................................................... 10
+2.4.
+Gaps Addressed by This Project ............................................................................................ 11
+2.5.
+Explanation of Magnesium Chloride’s Hygroscopic Nature and Dust Suppression
+Mechanism .............................................................................................................................................. 11
+2.5.1.
+Hygroscopic Action.............................................................................................................. 12
+2.5.2.
+Moisture Retention and Soil Binding ................................................................................ 12
+2.5.3.
+Dust Suppression Process ................................................................................................... 12
+2.6.
+Advantages of Magnesium Chloride over Water ................................................................. 13
+2.7.
+Methodologies To Investigate the optimum Magnesium Chloride (Controlled
+conditions).......................................................................................................................................... 13
+
+vi
+
+2.8.
+Materials and Equipment ....................................................................................................... 13
+2.9.
+Application of Magnesium Chloride on an unpaved road ................................................. 15
+2.10.
+Methodologies used to Investigate optimum Magnesium Chloride required to
+suppress dust along unpaved gravel roads (On-site conditions) ................................................... 16
+2.11.
+Effects of Magnesium Chloride on dust suppression..................................................... 22
+2.12.
+Why use Magnesium chloride ............................................................................................ 22
+2.13.
+Environmental Impacts of Magnesium chloride ............................................................. 23
+CHAPTER 3: METHODOLOGY.................................................................................................................... 25
+3.1.
+Determining the concentration of particulate matter present in dust ......................... 25
+3.2.
+Determining the different properties of Magnesium Chloride ........................................ 25
+3.3.
+Determining the optimum Magnesium Chloride required for dust suppression along
+Bbaale- Galilaya road ........................................................................................................................... 25
+CHAPTER 4: RESULTS AND DISCUSSION ................................................................................................. 27
+4.1.
+Baseline PM2.5 Readings on the road section .................................................................... 27
+4.2.
+Elemental analysis for magnesium chloride by XRF method ........................................... 30
+4.3.
+Viscosity Test on Magnesium Chloride Solution (35% weight of MgCl2) ......................... 31
+4.4.
+Magnesium Chloride solution application in different percentage weights ( 5%, 10%,
+15%, 20%, 25%) ....................................................................................................................................... 32
+4.5.
+Magnesium Chloride application in different percentage weights ................................. 33
+4.6.
+Comparison of Magnesium Chloride to Water in dust suppression ................................. 34
+4.7.
+Soil Analysis Report (Gravel Classification) ........................................................................ 35
+4.8.
+Soil Analysis Post Magnesium Chloride Application ........................................................... 36
+4.9.
+PRELIMINARY DESIGN............................................................................................................... 37
+Application Rate .................................................................................................................................... 37
+4.10.
+Design Drawing .................................................................................................................... 38
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS ........................................................................... 39
+5.1.
+Conclusions ............................................................................................................................... 39
+5.2.
+Recommendations ................................................................................................................... 39
+APPENDIX 1 ............................................................................................................................................. 44
+APPENXIX 2 ............................................................................................................................................. 46
+
+
+vii
+
+TABLE OF FIGURES
+Figure 1 Daily Average PM at each point .............................................................................................. 28
+Figure 2 Elemental Analysis for Magnesium Chloride by XRF method ............................................. 30
+Figure 3 Viscosity test on Magnesium Chloride solution .................................................................... 31
+Figure 4 Magnesium Chloride in application in different percentage weights .............................. 33
+
+
+
+viii
+
+LIST OF TABLES
+Table 1 Post Analysis conducted ............................................................................................................ 21
+Table 2 PM2.5 Concentration Reesults ................................................................................................. 27
+Table 3 Daily average PM2.5 ................................................................................................................... 28
+Table 4 Magnesium Chloride solution application in different percentage weights .................... 32
+Table 5 Comparison of Magnesium Chloride to Water in dust suppression .................................... 34
+Table 6 Soil Analysis ................................................................................................................................. 35
+Table 7 Soil Analysis Post Magnesium Chloride Application .............................................................. 36
+
+
+
+ix
+
+LIST OF ABBREVIATIONS
+
+AR6: Sixth Assessment Report
+CMIP5: Coupled Model Intercomparison Project Phase 5
+EIA: Environmental Impact Assessment
+EPA: Environmental Protection Agency
+IPCC: Intergovernmental Panel on Climate Change
+LTER: Long Term Ecological Research
+NGO: Non-Government Organisation
+PM2.5: Particulate Matter 2.5
+SVM: Shared Vision Modeling
+TAC: Technical Advisory Committee
+USBR: U.S Bureau of Reclamation
+
+
+
+CHAPTER ONE: INTRODUCTION
+
+1.1.
+BACKGROUND AND INTRODUCTION
+Dust is a collection of incredibly small particles that can either be suspended in the
+air around us or settle down on different surfaces. This dust isn't just one thing; it's a
+combination of various bits and pieces. These can include things like pollen from
+plants, dead skin cells that we naturally shed, even microscopic entities like viruses
+and bacteria, as well as fungal spores (Kumar, 2020).
+Dust comes in different forms depending on its origin. For instance, you have
+inorganic dust, which comes from non-living mineral sources such as silica, asbestos,
+and various heavy metals (Madapusi, 2020). Then there's organic dust, which
+originates from biological sources, like the pollen we mentioned, as well as fungal
+spores. There is also dust that's produced when things are burned, aerosol dust which
+stays suspended in the air for a long time, and several other types.
+The problem with all this dust is that it can have some pretty negative effects on our
+health. It's linked to respiratory issues like asthma, an increased risk of lung cancer,
+allergic reactions that can make life uncomfortable, and even simple things like eye
+irritation. Beyond our personal health, (Shang, 2020) that dust also impacts the
+environment. It can affect the climate, the quality of the air we breathe, and even
+our water resources.
+Recognizing these issues, organizations around the world, like the World Health
+Organization (WHO), have put in place different ways to try and reduce the amount of
+
+
+dust released into the environment. One approach by WHO in 2020 has been to
+establish guidelines for what constitutes acceptable air quality.
+Here in African countries, and specifically in Uganda, there are also organizations
+working on this. For example, the National Environment Management Authority
+(NEMA) and the Uganda National Roads Authority (UNRA) play a role in regulating
+dust. NEMA, as they mentioned in 2019, oversees and controls dust emissions. UNRA,
+on the other hand, focuses on maintaining roads, which is a significant source of dust.
+UNRA tries to reduce dust buildup by applying things like bitumen and other materials
+to the roads. They also implement various dust control measures, such as spraying
+water, which helps to bind the dust particles together and stop them from being
+released into the air (UNRA, 2021).
+
+
+
+
+
+
+
+
+
+
+1.2.
+PROBLEM STATEMENT
+Cyclists, motorists, and pedestrians face severe visibility challenges due to the dust
+clouds on the 85 kilometer stretch of Bbaale-Galilaya road in Kayunga District which
+poses great risk towards their mobility (Juuko, 2023). Vehicle mobility has, for the
+most part, been put frequently at risk due to dangerously problematic visibility
+difficulties.
+These challenges have been attempted to be remedied by traditional means such as
+water spraying, but with little to no success. These methods have been as unhelpful
+as the resurfacing of dust that occurs during windy and in dry conditions just a few
+hours after application.
+In light of these issues, this study suggests the evaluation of magnesium chloride
+(MgCl2) to be as a new approach to dust suppression. In contrast to water, Magnesium
+Chloride is an inorganic compound that suppresses dust by binding with air moisture.
+By investigating the effectiveness of Magnesium Chloride, this study aims to go around
+the shortcomings of practices that do not take the environmental impact into
+consideration and provide reliable techniques for effective dust management on the
+Bbaale-Galilaya road.
+1.3.
+OBJECTIVES OF STUDY
+1.3.1. MAIN OBJECTIVE
+To assess the use of magnesium chloride as a dust suppressant material on unpaved
+roads.
+
+
+
+1.3.2. SPECIFIC OBJECTIVES
+1. To determine the concentration of particulate matter along Bbaale-Galilaya
+road.
+2. To determine the different properties of magnesium chloride.
+3. To determine the optimum amount of magnesium chloride required for dust
+suppression along the road.
+1.4.
+RESEARCH QUESTIONS
+1. What is the concentration of particulate matter along Bbaale-Galilaya road ?
+2. What are the different properties of magnesium chloride?
+3. What is the optimum amount of magnesium chloride required to suppress dust
+along the road?
+1.5.
+GEOGRAPHICAL SCOPE
+The study will be conducted on Bbaale-Galilaya road in Kayunga on co-ordinates of 0 50
+49 0 “N 32” 52’ 44 0 “F (latitude 0 846944 longitude 32 878889)
+Chain age 0+400 to 0+600 a distance of 200m
+
+1.6.
+JUSTIFICATION
+
+Dust generated from unpaved roads is a significant public safety and environmental
+issue, particularly due to its impacts on visibility reduction and accident risk. Visibility
+reduction in unpaved roads can result from vehicle tires interacting with loose soil on
+the unpaved roads to generate fine particulate matter (PM2.5 and PM10), creating dust
+
+
+clouds. These clouds reduce visibility to less than 50 meters in severe cases. Wind is
+also a factor that contributes visibility reduction by raising dust and this can also
+contribute to accidents along the road.
+Accident types
+• Rear-End Collisions: Sudden dust clouds cause drivers to break abruptly, leading
+to chain-reaction crashes
+• Head-On Collisions: Reduced visibility on narrow roads increases the likelihood
+of drifting into opposite lanes.
+• Run-Off-Road crashes: Drivers may unintentionally veer of the road to avoid
+obscured hazards
+A study by the National Highway Traffic Safet Administration found that dust related
+visibility issues contributed to 12% of unpaved road accidents. (NHTSA, 2019)
+Magnesium Chloride (MgCl2) is a highly hygroscopic compound, meaning it readily
+absorbs and retains moisture from the surrounding environment. This unique property
+is central to its effectiveness in suppressing dust on unpaved roads.
+Hygroscopic Action; Absorbing moisture
+Hygroscopic substances attract and hold water molecules from the air, even in low
+humidity conditions. Magnesium chloride dissolves into the absorbed moisture,
+forming a concentrated brine solution on the road surface.
+Moisture Retention and Soil Binding
+
+
+• Extended Dampness; Unlike water which evaporates quickly, Magnesium
+chloride retains moisture for weeks. This prolonged dampness prevents soil
+particle from drying out and becoming air-bone.
+• Particle aggregation; This brine solution acts as a “glue” coating soi particles
+and binding the together. This creates a cohesive surface layer that resists
+wind and traffic-induced erosion.
+
+Reaction of Magnesium Chloride with Water
+Magnesium chloride solution is soluble in water therefore it reacts with water molecules
+giving rise to hydrolysis reaction which is as follows
+MgCl2 (aq)+2H2O(l) Mg(OH)2 (s) + 2HCL(aq)
+And also forms a hexahydrate compound as part of its structure known as Magnesium
+chloride hexahydrate
+MgCl2+6H2O→MgCl2⋅6H2O
+Reaction of Magnesium Chloride with Temperature
+When magnesium chloride is exposed to high temperatures, it solidifies but due to its
+hygroscopic property it will absorb more moisture from the atmosphere which takes it
+back to its liquid form which improves its binding action of the dust particles
+(Kubaschewski, 2020).
+Dehydration of Hydrated Magnesium Chloride
+
+
+MgCl2. 6H2O → MgCl2.nH2O + (6 – n) H2O (gradual water loss)
+Anhydrous Magnesium Chloride forms at temperatures greater than 300 degrees
+Celcius.
+Thermal Decomposition
+For temperatures >7140C
+MgCl2(s) → MgO(s) + Cl2(g)
+Aqueous Solutions under Heat;
+• Increased Solubility: More Magnesium Chloride dissolves as temperature rises
+until saturation.
+• Crystallization: Upon cooling, supersaturated solutions precipitate MgCl2 . 6H2O
+• Evaporation: Heating to dryness yields anhydrous MgCl2.
+1.6.1. HYPOTHESIS
+The Magnesium Chloride will suppress dust and reduce PM2.5 by ≥ 70% and will ensure
+that the PM2.5 stays within EPA’s 24-hour standard (≤35μg/m3). It will ensure
+Environmental safety observing that Soil chlorine (Cl- ) levels remain ≤200 mg/kg
+(FAO/EPA threshold) due to controlled application rates (0.5L/m2 ).
+1.6.2. SIGNIFICANCE
+The significance of using Magnesium Chloride over traditional means like water lies in
+its Superior dust suppression efficiency, long-term cost savings, and adaptability to
+harsh climates. While water is simple and low-risk, its inefficiency and resource
+demands make it unsustainable for large scale or regions with hot temperatures.
+
+
+Magnesium Chloride provides a balance between performance and environmental
+responsibility, provided mitigation measures like buffer zones and controlled
+application rates are implemented.
+While the potential benefits of Magnesium Chloride are significant, a comprehensive
+understanding of its effectiveness and optimal application parameters within Kayunga
+district, Uganda is crucial. Factors such as local soil types, traffic volumes, climatic
+conditions (humidity, rainfall) and application rates can significantly influence the
+performance, longevity of Magnesium Chloride and its Environmental Impacts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+Based on the Water Resources Research Institute, the application of dust control on
+unpaved roads has always been a difficulty for rural and semi urban regions which
+affect public health, environmental health, and social economic productivity. The
+application of water has proven to be helpful. However, it does not help long-term
+needs due to average evaporation and frequent usage (Sanders and Addo, 2018).
+Unlike such methods, chemical restrains such as Magnesium Chloride (MgCl2) can to be
+more successful due to their capability of binding the soil particles and keeping
+moisture which then enables long lasting dust control. This review integrates
+available literature on the effectiveness, environmental impacts of Magnesium
+Chloride to inform the scope of the project.
+2.1.
+Effectiveness of Magnesium Chloride
+may studies have shown Magnesium Chloride's ability to suppress dust because of its
+hygroscopic nature. The capacity to attract, absorb, and retain water. (University of
+Nevada, 2015) reported that the application of Magnesium Chloride solutions oxidized
+PM10 emissions by 78-85% for unpaved roads with a 4-6 week longevity under
+moderate traffic over the course of four to six weeks. Minnesota Department of
+Transportation (MnDOT) discovered that Magnesium Chloride 10–15% solutions
+preserved compliance against the EPA’s 24-hour average PM2.5 standard (≤35 μg/m3)
+while also achieving minimization of chloride leaching into the adjacent soils (MnDOT,
+2017). This corresponds with the current project results where a 15% Magnesium
+Chloride Solution achieved 80% reduction of PM2.5 (from 143 μg/m3 to 28.5 μg/m3).
+
+
+2.2.
+Environmental Concerns
+The need for Magnesium Chloride’s efficacy comes with possible concerns regarding
+leaching of chloride and other geological aspects. The EPA Clean Water Act guideline
+suggests 230 mg/L of Chloride in runoff as the limit to protect natural water bodies
+(EPA, 2020). Field studies conducted by Bolander and Yamada (2019) showed that the
+application of Magnesium Chloride above 20% exceeded this limit, while 15% or less
+kept soil chloride levels below 200 mg/kg, in accordance with the FAO’s non-saline
+soil guidelines. The post-application soil tests proposed by this project (Cl− = 90–180
+mg/kg) supports the hypothesis verifying 15% Magnesium Chloride as an
+environmentally safe solution when combined with vegetative buffers.
+
+2.3.
+Cost-Effectiveness and Practicality
+In cost-benefit analyses, long term benefits of Magnesium Chloride over water usage
+in maintenance is vastly evident. Sanders and Addo (2019) claimed that in arid
+regions, waterspouts require frequent reapplication resulting in labor and resource
+expenditure surging up to 300% compared to Magnesium Chloride.(MnDOT, 2017) also
+estimated that the efficacy of Magnesium Chloride in the 4-6 week period reduces
+maintenance costs of rural road networks by 30-50% during the entire year. The
+current cost analysis for this project is consistent with this: the cost to apply
+Magnesium Chloride at 15% concentration is $937.50 for a 250m road, while the cost
+for water over the same period is $1,200 for equivalent suppression.
+
+
+
+2.4.
+Gaps Addressed by This Project
+Much of the existing literature concentrates on Magnesium Chloride’s efficiency in
+isolation, rarely places it with water or performing detailed soil health assessments.
+For example, (Bolander and Yamada, 2019), while emphasizing leaching risks, did not
+analyze whether applying the dose in two parts would lessen those risks. This project
+aims to address these gaps by:
+1. Testing the real-world comparison of Magnesium Chloride and water.
+2. Split applications (0.25 L/m2 twice) to lower chloride concentration.
+3. Offering detailed soil data (EC, Mg2+) to evaluate the impacts over time.
+The literature suggests responsibly managing and applying Magnesium Chloride can
+provide benefits as a cost-effective dust suppressor, highlighting its potential.
+Integrating established findings and novel approaches like split dosing and thorough
+soil evaluation enables this project to develop practical guidelines for managing costs
+and environmental impact.
+
+2.5.
+Explanation of Magnesium Chloride’s Hygroscopic Nature and Dust Suppression
+Mechanism
+Magnesium Chloride (MgCl2) is a highly hygroscopic compound meaning it readily
+absorbs and retains moisture from the surrounding environment This unique property
+is central to its effectiveness in suppressing dust on unpaved roads. Below is a stepby-step explanation of how the hygroscopic process works:
+
+
+2.5.1. Hygroscopic Action
+Hygroscopic substances attract and hold water molecules from the air, even in low
+humidity conditions. Magnesium chloride dissolves into the absorbed moisture,
+forming a concentrated brine solution on the road surface.
+2.5.2. Moisture Retention and Soil Binding
+• Extended Dampness: Unlike water which evaporates quickly, Magnesium
+Chloride retains moisture for weeks. This prolonged dampness prevents soil
+particles from drying out and becoming air-bone.
+• Particle Aggregation: The brine solution acts as a “glue” coating soil particles
+and binding them together. This creates a cohesive surface layer that resists
+wind and traffic induced erosion.
+2.5.3. Dust Suppression Process
+• Application: Magnesium Chloride is sprayed onto the unpaved road after prewetting.
+• Moisture Absorption: Magnesium Chloride draws moisture from the air ,
+maintaining a damp surface.
+• Surface Stabilization: The brine solution fills gaps between soil particles
+forming a hardened crust that locks dust in place.
+• Longevity: The hygroscopic nature ensures that the crust remains intact for 2
+to 4 weeks even in dry or windy conditions.
+
+
+2.6.
+Advantages of Magnesium Chloride over Water
+Evaporation Resistance: Water evaporates within hours, requiring frequent
+reapplication. Magnesium Chloride’s moisture retention reduces reapplication needs
+by 90%
+Performance in Arid Climates: Magnesium Chloride can extract sufficient moisture
+even in low humidity environments, making it effective in dry regions.
+Environmental and Practical Considerations
+Reduce leaching: At recommended concentrations, Magnesium Chloride minimizes
+chloride runoff risks. Buffer zones further mitigate environmental impact.
+Safety: The stabilized surface reduces dust without making the road overly slippery,
+as excess moisture is absorbed into the soil Magnesium Chloride matrix.
+2.7.
+Methodologies To Investigate the optimum Magnesium Chloride (Controlled
+conditions)
+The objective is to determine the optimum concentration of magnesium chloride
+required to effectively suppress dust on an unpaved road, under controlled laboratory
+conditions.
+2.8.
+Materials and Equipment
+Road dust samples
+Collected from Bbaale- Galilaya road
+Magnesium chloride solutions of varying concentrations for example (0%, 2%, 5%, 10%
+and 15% by weight)
+
+
+Dust collection and measuring apparatus
+• Aerosol sensors
+• Dust samplers
+Control Environment Chamber
+To simulate temperature, humidity and wind speed conditions.
+Scales
+For weighing dust samples
+Watering Devices
+To simulate rainfall or moisture content
+Sample Preparation
+Collecting dust samples from multiple sections of the unpaved road.
+Sieve the samples to ensure uniform particle size distribution, removing large debris
+or aggregates.
+Dividing the dust into several batches for testing different concentrations of
+magnesium chloride.
+Dust Suppression Testing
+Applying each magnesium chloride solution dosage uniformly over separate dust
+samples.
+
+
+Allowing the samples to dry in a controlled environment simulating outdoor conditions
+including temperature, humididty, and wind speed.
+Using aerosol sensors to measure the amount of dust that is released into the air when
+air is blown over the treated samples, simulating wind or vehicle traffic.
+Simulated Rainfall Test
+After initial testing, simulate rainfall conditions by applying a measured amount of
+water to the treated samples
+Measure the magnesium Chloride runoff and the remaining dust binding effectiveness
+post rain exposure
+Reassess the dust release from the samples using the same method after the rainfall
+simulation. (Megan, 2022)
+Data Collection and Analysis
+For each magnesium chloride concentration, record the amount of dust released
+during the initial test and after the simulated rainfall.
+Analyze the relationship between Magnesium chloride concentration and the amount
+of dust suppressed.
+Determine the optimum concentration where dust suppression is maximized, and the
+runoff is minimized taking into account of environmental factors.
+2.9.
+Application of Magnesium Chloride on an unpaved road
+Road Preparation;
+
+
+To guarantee smoothness and get rid of any potholes or ruts, the road surface needs
+to be appropriately graded before magnesium chloride is applied. The magnesium
+chloride solution can be distributed more evenly on a road with a good gradient. To
+facilitate absorption, the surface should also be slightly damp.
+
+Solution Preparation;
+From the lab analysis and identification of the optimum magnesium chloride required
+to suppress dust on the unpaved road, the right amounts are prepared and loaded for
+application.
+
+Application
+A water truck fitted with a spray bar is used to apply the solution, distributing it
+uniformly over the road surface. Approximately 0.2 to 0.5 gallon per square yard is
+the usual application rate.
+
+
+
+
+2.10. Methodologies used to Investigate optimum Magnesium Chloride required to
+suppress dust along unpaved gravel roads (On-site conditions)
+
+
+
+
+
+Objectives and Parameters
+Objective;
+• Identify the Magnesium Chloride concentrations (5-25%) that achieves ≥ 70% PM
+2.5 reduction while maintaining soil chloride (Cl-) levels ≤200 mg/kg (EPA/FAO
+thresholds).
+Parameters;
+• PM2.5 suppression efficacy
+• Soil chloride content
+• Longevity
+• Cost per application
+Site Selection and Preparation
+Select Road Section
+• Choose a representative unpaved road (e.g., 250m length, 5m width).
+• Ensure consistent soil type (gravel-dominated, as per lab results; 65% gravel,
+5% fines).
+Divide into Test Sections
+Create segments (50m each)
+• Treat the segments with MgCl2 (5%, 10%, 15%, 20%, 25%)
+• Control segment (water-only)
+
+
+Baseline Data Collection
+• Measure PM2.5 (portable air monitors, e.g., TSI Dust TrakTM)
+• Test soil Cl-, Mg2+, and electrical conductivity (EC) via lab analysis
+
+Soil Preparation and Application
+Prepare Magnesium Chloride solutions:
+• Mix MgCl2 flakes with water to create 5%, 10%,15%, 20% and 25% solutions (by
+weight).
+Application Protocol:
+• Apply 0.5L/m2 uniformly using a calibrated sprayer.
+• For >15% concentrations, use split applications (e.g., 0.25 L/m2 twicw) to
+minimize leaching.
+Control Section
+• Apply water at the same time rate (0.5 L/m2) for comparison
+Monitoring and Data Collection
+Tests conducted:
+PM2.5 Suppression:
+• Tools; Portable PM monitors.
+• Frequency;
+1. Hourly for the first 24 hours
+
+
+2. Daily for a week 1
+3. Weekly for weeks 2-6
+Metric: Percentage reduction from baseline (e.g 150μg/m3 to 28.5μg/m3 at 15% MgCl2)
+Soil and Environmental Testing:
+Soil sampling
+Collect samples at 1m, 5m, and 10m from the road edge.
+Tests:
+• Chlorine (Cl-) using non chromatography
+• Magnesium (Mg2+) using the XRF method.
+• Electrical Conductivity (EC) using a field meter.
+• Frequency: Pre application, then bi weekly.
+• Durability Assessment:
+• Track PM2.5 rebound and road surface degradation under moderate traffic (≤50
+vehicles/day).
+Reapplication advised after heavy rains.
+Data Analysis
+PM2.5 Reduction Efficancy:
+• Calculate average PM2.5 for each concentration (e.g., 15% MgCl2: 28.5μg/m3)
+• Compare to EPA’s 24 hour standard (≤35μg/m3)
+Environmental Impact:
+
+
+• Ensure soil Cl- 200mg/kg and EC ≤4 dS/m (FAO threshold)
+• Example: Post application Cl- levels at 1m = 180mg/kg (complaint)
+Statistical Validation
+• Use ANOVA to comparePM2.5 concentrations.
+• Regression Analysis to correlate Magnesium chloride percentages with Chlorine
+leaching.
+Determine Optimal Concentration
+• Efficacy: ≥70% PM2.5 reduction (e.g., 30 MgCl2: 75% reduction)
+Safety:
+Soil Cl- ≤200 mg/kg
+Durability:
+≥4 weeks of suppression
+Result
+• 30% Magnesium Chloride is optimal
+• PM2.5 = 28.5 μg/m3 (EPA compliant)
+• Soil Cl- = 180mg/kg (this is with in allowable limits)
+
+
+
+
+
+Validation and Reporting
+• Peer review: Compare Results with literature (e.g., MnDOT’s 15-35%
+recommendation)
+• Final Report: Include tables/graphs of PM2.5 trends, soil data and cost
+comparisons.
+Recommendations
+• Use 30% MgCl2 at 0.5L/m2 for best results
+• Implement buffer zones and quarterly soil monitoring.
+Table 1 Post Analysis conducted
+Test
+Purpose
+Tools
+PM2.5 Monitoring
+Quantify dust suppression
+efficacy
+TSI DustTrackTM, hourly/
+daily readings
+Soil Chlorine Analysis
+Ensure compliance with
+EPA/FAO limits
+Ion chromatography, bi
+weekly sampling
+Electrical Conductivity
+Detect soil salinity risks
+Field EC meter
+Cost-Benefit Calculation
+Validate economic
+Feasibility
+Material cost tracking
+
+
+
+
+
+
+
+
+2.11. Effects of Magnesium Chloride on dust suppression.
+
+The impact of the Magnesium chloride the concentrations of particulate matter is
+however clearly propitious. As one would expect, it is largest immediately after
+applying the magnesium chloride, and diminishes steadily afterwards. The duration of
+the effect is estimated to 10 days, but with a rather large uncertainty (95%
+confidence intervals between 3 and 16 days). Estimated effect (reduced pollution
+level) of 70% on the concentration of the coarse particles PM10–PM2.5 and 56% on the
+concentration of PM10. The estimated effect on the fine particles PM2.5 is a
+modest 17%, and barely significant. (Roseland, 2008)
+2.12. Why use Magnesium chloride
+On Bbaale-Galilaya road, water is frequently utilized for dust suppression due
+to its affordability and ease of application. However, because water evaporates
+quickly, it is only useful temporarily and needs to be reapplied frequently.
+Understanding how magnesium chloride can provide longer-term dust
+suppression than water, especially in variable climatic conditions like humidity
+and temperature flactuations, is the main knowledge gap.
+Several studies compare MgCl2 with alternatives such as calcium chloride and organic
+suppressants. Research consistently demonstrates that magnesium chloride;
+
+
+
+• Offers longer lasting suppression than water
+• Stabilizes road surfaces by reducing gravel loss
+• Lowers frequency of reapplication compared to calcium chloride
+(Bolander, 1997).
+For example, projects by the Minnesota Local Road research Board have shown that
+magnesium chloride effectively reduces particulate matter while minimizing road
+maintenance.
+2.13. Environmental Impacts of Magnesium chloride
+Environmental concerns include potential contamination of nearby soil and water
+bodies dues to leaching. Studies recommend;
+• Proper application techniques to limit runoff.
+• Buffer zones near sensitive areas like wetlands.
+• Regular monitoring of chloride levels in the environment.
+Despite these risks, magnesium chloride is generally considered less harmful than
+other chemical suppressants for example (calcium chloride, petroleum-based
+Products, Synthetic Polymers, and Lignosulfonates) when applied responsibly
+(Reyier,1972).
+
+
+
+
+
+
+Through hygroscopic action and particle aggregation, magnesium chloride significantly
+decreases dust on unpaved roads, according to a thorough assessment. However,
+weather conditions like humidity, temperature, and precipitation might affect how
+effective it is. While high humidity improves its efficiency, large rains might dilute
+the chemical, making it less effective and requiring reapplication. Additionally,
+research indicates that frequent sprays might be necessary to sustain dust control
+over time (Subbir, 2021).
+
+
+
+
+
+
+CHAPTER 3: METHODOLOGY
+
+3.1.
+Determining the concentration of particulate matter present in dust
+•
+Selecting points of interest along the road section; Choosing five points along
+the 250meter road section on Bbaale-Galilaya road. These points having a
+distance of 50meters apart.
+•
+Measuring Particulate Matter concentration in the dust present at the
+selected points along the road section; A Blatan Air Quality monitor was setup
+at a height of two meters at each of the selected points and Particulate matter
+readings were taken at Peak hours for three days (morning and evening)
+3.2.
+Determining the different properties of Magnesium Chloride
+•
+Viscosity test; This was done using a digital viscometer thus measuring the
+viscosity of a Magnesium Chloride solution (35% weight of MgCl2).
+•
+Laboratory analysis; Elementary Analysis of Magnesium Chloride was done using
+XRF Method.
+3.3.
+Determining the optimum Magnesium Chloride required for dust suppression
+along Bbaale- Galilaya road
+•
+Testing varying concentrations of Magnesium Chloride (5%, 10%, 15%, 20%, 25%)
+through systematic field trials and soil analysis to determine the optimal
+
+
+percentage that balances dust suppression efficiency, durability, and
+Environmental compliance with the EPA standards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 4: RESULTS AND DISCUSSION
+
+4.1.
+Baseline PM2.5 Readings on the road section
+Below is a table of PM2.5 concentrations (μg/m3) for a 250meter unpaved road
+divided into 5 measurement points (50meter intervals).
+Table 2 PM2.5 Concentration Reesults
+PM 2.5 Concentration Results
+Location Time
+Period
+AVERAGE SD
+P50
+7-9AM
+82.3
+3.090057
+P50
+5-7PM
+86.67
+P100
+7-9AM
+12.49458
+P100
+5-7PM
+124.67
+P150
+7-9AM
+6.363961
+P150
+5-7PM
+P200
+9-7AM
+125.67
+4.002224
+P200
+5-7PM
+131.33
+P250
+7-9AM
+8.718627
+P250
+5-7PM
+117.33
+From the above results, Daily average Particulate Matter Vaues were calculated so as
+to generate a graph.
+
+
+Table 3 Daily average PM2.5
+Location
+Daily Average Pm
+P50
+84.485
+P100
+115.835
+P150
+138.5
+P200
+128.5
+P250
+111.165
+
+
+
+Figure 1 Daily Average PM at each point
+Trends:
+• Evening Peaks (5-7pm) show increased PM2.5 compared to morning (7-9am),
+likely because of heavier conditions and drier traffic.
+84.485
+115.835
+138.5
+128.5
+111.165
+Daily Average Pm
+Location
+A graph showing Daily Average PM at each
+Measurement Point
+
+
+Standards Comparisons:
+• All the PM2.5 value exceed WHO (15μ/m3) and EPA (35μ/m3) 24-hour guidelines
+Recommendation:
+Urgent dust suppression is advised due to the high Particulate matter readings that do
+not comply with the provided standards of Environmental Protection Agency and
+World Health organization.
+
+
+
+
+
+
+
+
+
+
+4.2.
+Elemental analysis for magnesium chloride by XRF method
+
+Figure 2 Elemental Analysis for Magnesium Chloride by XRF method
+
+•
+The high percentage (85.5%) of Magnesium oxide essentially represents a high
+hygroscopic nature hence high moisture retention levels which is the core
+mechanism behind MgCl2 dust suppressing effect.
+•
+Chlorine ions are inherently hygroscopic aiding in moisture absorption.
+
+Magnesium Oxide
+Calcium Oxide
+Chlorine
+Iron (III) Oxide
+Silicon dioxide
+Manganese (II) Oxide
+%m/m
+Elements
+Elemental Analysis
+
+
+4.3.
+Viscosity Test on Magnesium Chloride Solution (35% weight of MgCl2)
+
+Figure 3 Viscosity test on Magnesium Chloride solution
+• Magnesium chloride solution of (35% weight of MgCl2 ) had a viscosity of
+20mPa.s.
+• 20mPa.s is within acceptable ranges for field application (University of Nevada,
+Reno)
+
+
+Acceptable Minimum
+Magnesium Chloride
+Acceptable maximum
+Vicosity
+Sample
+
+
+4.4.
+Magnesium Chloride solution application in different percentage weights (
+5%, 10%, 15%, 20%, 25%)
+Table 4 Magnesium Chloride solution application in different percentage weights
+PM
+(μg/m3)
+Reading 1 Reading 2
+Reading 3
+Average
+Standard
+Deviation
+P50
+68.9
+72.8
+68.9
+3.9
+P100
+39.5
+43.2
+46.9
+43.2
+3.7
+P150
+28.5
+28.5
+2.5
+P200
+22.3
+24.1
+25.9
+24.1
+1.8
+P250
+21.7
+23.4
+21.7
+1.7
+
+
+• Low; Chloride runoff <5%, viscosity ≤20mPa.s.
+• Medium; Chloride runoff 5-10%, viscosity ≤30mPa.s.
+• High; Chloride runoff > 10%, viscosity > 30mPa.s.
+
+
+MgCl2 (%)
+PM (μg/m3)
+Standard Deviation EPA Compliances (≤35μg/m3) Viscosity(mPa.s)
+Environmental Impact
+68.9
+3.9 NO
+12 low
+43.2
+3.7 NO
+18 low
+28.5
+2.5 YES
+25 medium
+24.1
+1.8 YES
+32 high
+21.7
+1.7 YES
+38 high
+
+
+4.5.
+Magnesium Chloride application in different percentage weights
+
+Figure 4 Magnesium Chloride in application in different percentage weights
+
+• Optimum percentage: 15% magnesium chloride achieves EPA compliance
+(PM2.5 = 28.5μg/m
+3) while balancing environmental safety.
+• Derived from Baseline PM2.5 values with an 80% reduction.
+
+
+
+
+
+68.9
+43.2
+28.5
+24.1
+21.7
+MgCl2 (%)
+PM (μg/m3)
+Magnesium Chloride Solution in different
+Application Rates
+
+
+4.6.
+Comparison of Magnesium Chloride to Water in dust suppression
+
+Table 5 Comparison of Magnesium Chloride to Water in dust suppression
+
+Water; (Short Lived dust suppression)
+Water reduces PM2.5 temporarily (1-2 hours) but goes back to the baseline values of
+PM2.5 within 4hours because of evaporation.
+Magnesium Chloride: (Long Lived Dust Suppression)
+Magnesium Chloride complies to the EPA standards for 7days because of its
+hygroscopic characteristics that retain moisture and bind dust to the ground surface.
+
+
+
+
+
+
+
+
+
+PM2.5 Dust Concentration Post-Application
+Time Post Application Water (PM2.5, μg/m3) MgCl2 (15%) (PM 2.5,μg/m3) EPA Compiance (≤35 μg/m3)
+Baseine (0 hours)
+150 No
+1 hour
+28.5 YES (MgCl2)
+2 hours
+29 YES (MgCl2)
+4 hours
+30.1 YES (MgCl2)
+Day 2
+32.2 YES (MgCl2)
+Day 3
+33 YES (MgCl2)
+Day 7
+33.5 YES (MgCl2)
+
+
+
+
+
+
+
+4.7.
+Soil Analysis Report (Gravel Classification)
+
+Table 6 Soil Analysis
+Parameter
+Test Method
+Result
+Gravel Content (>4.75mm)
+
+ASTM D6913 (Sieve
+Analysis)
+65%
+Sand Content (0.075-4.75mm)
+ASTM D422
+30%
+Fines Content (0.075 mm)
+ASTMD422
+5%
+Liquid Limit (LL)
+ASTM D4318
+Non-plastic (NP)
+Plastic Index (PI)
+ASTM D4318
+Non-plastic (NP)
+Uniformity Coefficient (Cu)
+ASTM D6913
+4.2.
+Coefficient of Curvature (Cc)
+ASTM D6913
+1.1
+Maximum Dry Density (MDD)
+ASTM D1557 (Modified
+Proctor)
+115lb/ft3(1840
+kg/m3)
+Optimum Moisture Content
+(OMC)
+ASTM D1557
+• 65% Gravel content (particles >4.75mm) confirms the soil is predominantly
+gravel (ASTM D2487) requires ≥50% thus pointing to gravel dominance
+
+
+• Low fines and sand (30%) indicate minimal silt/clay contamination.
+Soil is classified as GW (Well-graded gravel) under the Unified Soil Classification
+System (USCS)
+
+4.8.
+Soil Analysis Post Magnesium Chloride Application
+
+Table 7 Soil Analysis Post Magnesium Chloride Application
+Parameter
+Sample Results
+Control Site
+Acceptable Range
+Compli
+Chloride (Cl-)
+1m:
+90mg/kg<br>3m:25mg/kg 15mg/kg
+≤200mg/kg(EPA/FAO) YES
+Magnesium (Mg2+)
+1m:2%<br>3m:1.2%
+1.00% ≤2.5%(USDA NRCS)
+YES
+Electrical
+Conductivity (EC)
+1m:3.1 dS/m<br>3m:1.2
+dS/m
+1 dS/m
+≤ 4 dS/m(FAO)
+YES
+pH
+1m:7.1<br>3m:7.2
+7.2 6.0-8.5 (EPA)
+YES
+Chloride Levels:
+• Highest near the road (1m: 180 mg/kg), but still below EPA/FAO’s threshold.
+• Levels of Chlorine reduce with distance hence showing minimal environmental
+impact.
+
+Magnesium Content:
+The levels are slightly high near the road (2.2%) though this is still within USDA’s 2.5%
+limit hence ensuring that there is no soil structure degradation.
+
+
+
+Electrical Conductivity (EC):
+All the values <4 dS/m, thus confirming that there is no salinity building up.
+
+pH Stability:
+Neutral pH (7.0-7.3) shows no acidification or alkalization from Magnesium Chloride.
+
+4.9.
+PRELIMINARY DESIGN
+Application Rate
+• Road Dimension;
+• Length: 250meters
+• Width: 5meters
+• Area: 250m × 5m =1250m2
+0.5L/m2 according to (Minnesota DOT recommendation for minimal leaching and
+effective suppression)
+Flow Rate 25L/min
+
+Total Magnesium Solution required:
+Total Volume = Area × Application rate = 1250 × 0.5 = 625L
+Time to Apply =
+Total Volume
+Flow Rate =
+625L
+25L = 25 minutes
+
+
+4.10. Design Drawing
+
+Figure 5 Proposed paved road cross section for Bbaale-Galilaya by Kayunga district local government
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS
+
+5.1.
+Conclusions
+This research identifies 15% Magnesium Chloride as the optimum concentration
+required for dust suppression on the Bbaale-Galilaya stretch.
+
+An 80% PM2.5 reduction (143μg/m3 to 28.5μg/m3) thus complying with the 24-hour
+EPA standards (≤35μg/m3)
+
+There was minimal environmental impact after a week of application of magnesium
+chloride levels ≤180mg/kg which is below the EPA and FAO standards.
+
+Magnesium Chloride displayed long lasting performance in dust suppression along the
+road for extended time periods.
+
+5.2.
+Recommendations
+Implement Monitoring protocols like quarterly soil tests for Chloride, Magnesium
+Chloride and Electrical to ensure long term environment safety
+Track PM2.5 levels pre and post application of magnesium chloride to validate its
+efficiency of dust suppression

@@ -1,0 +1,1803 @@
+EVALUATING THE POST-FLOODING RECOVERY POTENTIAL AND GROWTH
+RESPONSE OF DIFFERENT SOLANUM AETHIOPICUM (SHUM) GENOTYPES
+
+TONNY MUKISA
+S21B26/015
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN
+PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF
+AGRICULTURAL SCIENCE AND ENTREPRENEURSHIP OF UGANDA CHRISTIAN
+UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+The increasing occurrence of flooding events due to climate change poses a serious
+threat to crop production in sub-Saharan Africa, where Solanum aethiopicum Shum
+serves as an important leafy vegetable for food, nutritional and income security.
+This study evaluated the post-flooding recovery potential and growth responses of
+three Solanum aethiopicum Shum genotypes E11, E15, and E16 under controlled
+flooding conditions at Uganda Christian University. A randomized split plot design
+was used, subjecting plants to two weeks of partial submergence followed by
+recovery monitoring for a period of 14days. Results revealed significant genotypic
+variations in recovery time and, survival rates as measured using physiological
+parameters (such as chlorophyll content), and morphological traits (including leaf
+area, root length, and biomass accumulation). Genotype E11 exhibited the fastest
+recovery and highest survival rate (99.17%), while E16 demonstrated superior
+biomass production and root development. Analysis of the physiological traits
+showed that E15 and E16 maintained higher chlorophyll content during the
+recovery phase, indicating efficient restoration of photosynthetic capacity.
+Morphological recovery strategies differed, with E11 focusing on fewer but larger
+leaves, and E15 and E16 were favouring new leaf proliferation. These findings
+highlight the genetic diversity in flooding tolerance among Solanum aethiopicum
+Shum genotypes and underscore the potential for breeding flood-resilient cultivars
+to ensure food security in flood-prone regions.
+Key words:
+Solanum aethiopicum Shum, Flooding stress, Post-flooding recovery, potential
+genetic diversity, Morphological response, Physiological response, Flood
+tolerance breeding
+
+
+
+
+
+ii
+
+DECLARATION
+I, Mukisa Tonny hereby declare that this is my original work, and it’s not
+plagiarised and has not been submitted to any other institution for any award.
+
+Student’s name: Mukisa Tonny
+Signature:
+
+Date: 27th APRIL 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+APPROVAL
+This report has been submitted with the approval of the persons below as a
+requirement for the award of a bachelor of agricultural science and
+entrepreneurship
+Academic Supervisor
+Name: PAMELA NAHAMYA KABOD
+Signature:
+
+Date: 27th April, 2025
+Title: Lecturer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+I dedicate this research dissertation to all the different individuals that stood by
+me during the entire research journey. This includes my parents who provided
+financial support, my classmate who extended a helping hand, my supervisor
+Madam PAMELA NAHAMYA KABOD who offered wisdom and assistance.
+I also dedicate it to the Faculty of Agricultural Sciences to all teaching and nonteaching stuff who shaped my research journey till the end.
+Thank you all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENT
+I am deeply grateful to the Almighty God for granting me the strength, wisdom,
+and perseverance to complete this research.
+I extend my sincere appreciation to my supervisor, Madam PAMELA NAHAMYA
+KABOD, for her invaluable guidance, encouragement, and constructive feedback
+throughout the course of this study. Your support greatly contributed to the
+success of this dissertation. I also extend my sincere appreciation to Professor
+ELIZABETH KIZITO for the efforts she put insuring that I grasp different concepts in
+research.
+My heartfelt thanks go to the Faculty of Agricultural Science at Uganda Christian
+University for providing the necessary facilities and a conducive environment for
+my research.
+I also wish to thank my family and friends for their constant prayers, patience, and
+encouragement during this academic journey. Special thanks to the team at the
+UCU Seed Bank for supplying the seeds that made this study possible.
+Finally, I am grateful to all those who, in one way or another, contributed to the
+completion of this dissertation. Your contributions are deeply appreciated.
+
+
+
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT....................................................................................... i
+DECLARATION ................................................................................. ii
+APPROVAL .................................................................................... iii
+DEDICATION ................................................................................... iv
+ACKNOWLEDGEMENT ......................................................................... v
+LIST OF TABLES ............................................................................... ix
+LIST OF FIGURES .............................................................................. x
+LIST OF ACRONYMS AND ABBREVIATIONS .................................................. xi
+CHAPTER 1: INTRODUCTION ................................................................. 1
+1.1 Back ground ............................................................................ 1
+1.2 PROBLEM STATEMENT ................................................................. 3
+1.3 Purpose of study ....................................................................... 4
+1.4 objectives .............................................................................. 5
+1.4.1 Main objective .................................................................... 5
+1.4.2 Specific objectives ............................................................... 5
+1.5 Hypotheses ............................................................................. 5
+1.5.1 Hypothesis 1 ....................................................................... 5
+1.5.2 Hypothesis 2 ....................................................................... 5
+1.6 Scope of study ......................................................................... 5
+1.8 Justification ............................................................................ 6
+1.8 Significance ............................................................................ 6
+1.9 Theoretical frame work............................................................... 7
+1.10 Conceptual frame work ............................................................. 8
+CHAPTER 2: .................................................................................... 9
+2.0 LITERATURE REVIEW .................................................................. 9
+2.1 Introduction ............................................................................ 9
+2.2 Flooding Stress in Crop Plants ....................................................... 9
+2.3 Flooding Tolerance in Solanaceous Crops ......................................... 10
+
+vii
+
+2.4 Physiological and Biochemical Responses to Flooding in Plants ................ 10
+2.5 Recovery after Flooding Stress ..................................................... 10
+2.6 Objective one: Genotypic Variation in Flood Recovery. ........................ 11
+2.6.1 Rice Genotypes and Physiological Recovery.................................. 11
+2.6.2 Mungbean Genotypic Differences in Recovery Time ........................ 11
+2.6.3 Tomato Genotypes during Flood Stress ....................................... 11
+2.6.4 Natural Variation in Arabidopsis thaliana .................................... 12
+2.7 Objective 2: Agronomic Performance and Physiological/Morphological
+Changes..................................................................................... 12
+CHAPTER 3: METHODOLOGY................................................................ 14
+3.1 Research design ....................................................................... 14
+3.2 Area of study .......................................................................... 14
+3.3 Source of information ................................................................ 14
+3.3.1 Preparation of potting material ............................................... 14
+3.4 Raising seedlings and transplanting ................................................ 15
+3.5 Population and Sampling technique. ............................................... 15
+3.6 Application of floods ................................................................. 16
+3.7 Recovery phase ....................................................................... 16
+3.8 Variables and indicators ............................................................. 16
+3.9 Data collection for objective one .................................................. 16
+3.9.1 Parameters for objective one .................................................. 16
+3.9.2 Parameters for objective 2 ..................................................... 17
+3.10 Data collection instruments and equipment’s................................... 18
+3.11 Quality and error control........................................................... 18
+3.12 Statistical data analysis ............................................................ 18
+3.13 Field layout .......................................................................... 19
+3.14 Ethical considerations. ............................................................. 19
+3.15 Anticipated methodological constraints ......................................... 19
+
+
+viii
+
+CHAPTER 4 .................................................................................... 20
+4.0 Results ................................................................................. 20
+4.1 Growth parameters of three genotypes Solanum aethiopicum Shum of before
+flooding ..................................................................................... 20
+4.2 Growth parameters during flooding ................................................ 21
+4.3 Recovery time variations among the three genotypes........................... 23
+4.4 Agronomic performance of recovered genotypes ................................ 26
+4.4.1 Morphological parameters ...................................................... 26
+4.4.1 Physiological parameters ....................................................... 28
+4.4.3 Root length and Biomass accumulation ....................................... 33
+CHAPTER FIVE: ............................................................................... 35
+5.0 DISCUSSION ............................................................................ 35
+5.1 Discussion for results of objective one ............................................ 35
+5.1.1 Genotypic differences in recovery potential ................................. 35
+5.2 Discussion for results of objective two ............................................ 36
+5.2.1 Physiological adaptations for flood recovery ................................ 36
+5.3.2 Morphological responses and recovery mechanisms ........................ 37
+5.4 Implications for breeding flood-tolerant varieties ............................... 38
+CHAPTER SIX:................................................................................. 40
+6.0 CONCLUSIONS AND RECOMMENDATIONS ........................................... 40
+6.1 Summary of key findings............................................................. 40
+6.2 Conclusions ............................................................................ 41
+6.3 Recommendations for farmers ...................................................... 42
+6.4 Recommendations for breeding programs ......................................... 42
+6.5 Recommendations for future research ............................................ 42
+REFERENCES .................................................................................. 43
+AAppendix .................................................................................... 52
+
+
+
+ix
+
+LIST OF TABLES
+Table 1: Summary of Descriptive Statistics on the growth parameters of the three
+genotypes of Solanum aethiopicum Shum before the flood stress was applied. .... 20
+Table 2: Summary of Descriptive Statistics for growth parameters of three
+genotypes during flooding. ................................................................. 21
+Table 3: Number of days to recovery post flooding ..................................... 23
+Table 4: Survival rate (%) of the three genotypes of Solanum aethiopicum Shum
+after flooding period. ....................................................................... 25
+Table 5: Morphological performance of the three genotypes 7 days post flooding
+stress. ......................................................................................... 26
+Table 6: Physiological performance of three genotypes after 7 days post flooding
+stress. ......................................................................................... 28
+Table 7: Showing morphological performance of the three genotypes after 14days
+post flooding stress .......................................................................... 29
+Table 8: Physiological performance of the three genotypes 14days post flooding. 32
+Table 9: Root length, biomass accumulation and water content of the three
+genotypes at the end of the experiment. ................................................ 33
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1: A graph showing number of days each genotype took to recover. ........ 24
+Figure 2: A graph showing survival rates of the three genotypes ..................... 25
+Figure 3: A graph showing morphological parameters of the three genotypes 7 days
+post flooding ................................................................................. 27
+Figure 4: A graph showing a continuation of morphological parameters of the three
+genotypes 7 days post flooding ............................................................ 27
+Figure 5: A graph showing morphological parameters of the three genotypes 14
+days post flooding ........................................................................... 31
+Figure 6: A graph showing a continuation of morphological parameters of the three
+genotypes 14 days post flooding ........................................................... 31
+Figure 7: A graph showing average chlorophyll content for the three genotypes 14
+days post flooding. .......................................................................... 33
+Figure 8: A graph showing root length and biomass accumulation for the three
+genotypes ..................................................................................... 34
+Figure 9: Data sheet of the last week post flooding .................................... 53
+Figure 10: Data sheet at the end of experiment ........................................ 53
+Figure 13: sterilizing soil using steam .................................................... 54
+Figure 12: arranging pots aside after weighing .......................................... 54
+Figure 11: weighing 10kg of ................................................................ 54
+Figure 16: Carrying out data collection................................................... 54
+Figure 15: Transplanting seeding to pots ................................................. 54
+Figure 14: mixing soil with poultry manure .............................................. 54
+Figure 19: State of plants during flooding................................................ 54
+Figure 18: Placing plants in oven for dry weight ........................................ 54
+Figure 17: state of plants post flooding. ................................................. 54
+
+
+xi
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+PCD ......... programmed cell death
+NPQ......... non-photochemical quenching
+NPK........... nitrogen phosphorous potassium
+SE............... standard error
+LSD................ lowest significant difference
+SD ...... standard deviation
+CV..... coefficient of variance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 Back ground
+Solanum aethiopicum Shum also known as African eggplant, Solanum aethiopicum
+(shum), is a deciduous shrub in the family Solanaceae which is grown for its edible
+leaves that are cooked and eaten as vegetables. This species is believed to have
+originated from Africa and was domesticated from the wild Solanum anguivi Lam.
+(Anaso, 1991). African eggplant is a highly branching plant which can grow up to 2
+m (6.6 ft.) in height. It’s a short plant with small, smooth leaves. Its shoots are
+edible, but its small fruits are bitter and less preferred. The leaves of the plant are
+arranged alternately on the stems and have smooth or lobed margins. Leaf blades
+may reach up to 30 cm (11.8 in) in length and 21 cm (8.3 in) in width. The leaf
+petioles are oval or elliptical in shape, reaching up to 11 cm (4.3 in) in length.
+(Regine Tchientche Kamga et al., 2015). Plants produce clusters of up to 12 white
+flowers which develop into egg or spindle-shaped berries which are red to orange
+in colour with a smooth or grooved surface depending on variety. (Adeniji et al.,
+2019). African eggplant may also be referred to as scarlet eggplant, bitter tomato,
+mock tomato, garden egg or Ethiopian.
+Solanum aethiopicum Shum grows well in well drained deep soils and a pH of
+around 5.5-6.8. Solanum aethiopicum Shum also requires conditions that are warm
+and humid in order to thrive well. When planting Shum, for better performance in
+terms of yields, seeds are first planted in a nursery bed 15cm apart and 20cm with
+in rows (Aguessy et al., 2021). The seedlings are then transplanted to main garden
+when they reach 15cm-20cm in height. Shum benefits from frequent irrigation in
+the dry season particularly when fruiting. Young leaves of Solanum aethiopicum
+Shum can be harvested for 45-60 days of growth Shum. (G. Sseremba, 2019).
+Solanum aethiopicum Shum is known for its nutritional value and incomegenerating potential for farmers. The crop is rich in both macro- and micronutrient compared with other vegetables and is suitable for ensuring food and
+nutritional security. (Kamga, R.T). It also possesses several medicinal properties
+and is currently employed in the treatment of high blood pressure, diabetes,
+cholera, urinary complications as well as skin infections in humans. (Han et al.,
+2021). All these advantages show that Solanum aethiopicum Shum is an important
+
+
+crop in as far as food security is concerned in many parts of the country especially
+in local communities. Research shows that over four million individual in Uganda
+deal in the production, trade and consumption of Solanum aethiopicum Shum
+making it of economic importance to the economy of Uganda (Nakyewa et al.,
+2021). However, since Solanum aethiopicum Shum is cultivated mostly in wetlands
+since it’s a leafy vegetable and it requires enough water for leaf establishment, its
+production is threatened by prolonged flooding since wet lands are prone to
+flooding. This is due to climate change, poor drainage and many other human
+activities that disrupt the water movement and drainage hence causing floods.
+Flooding is an environmental stress that hinders crop growth and productivity
+severely especially in regions of Uganda that are prone to flooding due to extreme
+weather changes or climate change. Floods were the second gravest agricultural
+disaster, next to droughts, as they were responsible for $21B in crop and livestock
+loss from 2008 to 2018 in the developing world (FAO 2021). Flooding refers to an
+overflow of water onto normally dry land, which is mainly caused by heavy rainfall
+and river overflow. It can occur suddenly (flash flooding) or gradually (river
+flooding) and typically involves significant amounts of water covering an area
+(Mohammad et al., 2022). Flooding in plants (agriculture) can be classified in two
+different for categories depending on the depth of water. The two categories of
+flooding include water-logging and submergence. Water-logging refers to a
+condition where water exists on the surface and only plant roots are surrounded by
+water. On the other hand submergence is a condition where the whole plant is
+partially or completely covered by water (Tian et al., 2020). Flooding causes
+negative effects on the physiological, vegetative growth of vegetables. One of the
+symptoms of the damage caused by flooding is yellowing and death of leaves.
+(Gibbs and Greenway, 2003). The early death of leaves and retarded growth of
+shoots is as a result of the inhibition of nitrogen up take by the plant which
+eventually leads to leaf chlorosis. Leaf chlorosis which is as a result of Nitrogen
+deficiency implies that plants are not able to make their own food leading to
+destruction of the plant Hence a posing a threat to food security (Ezin et al.,
+2010). Plant failure to take up nutrients from the soil is due to oxygen deficiency
+caused by floods. Flooding restricts oxygen availability which is important for
+cellular respiration; the in availability of oxygen around the root zone causes
+
+
+anaerobic conditions that lead to shrinking of plant roots which makes it difficult
+for them to take up nutrients and water for the plant. Anaerobic conditions
+produced due to lack of oxygen, produces toxic by-products for example ethanol
+and lactate (Muhammad Arslan Ashraf, 2012). These two toxic chemicals
+accumulate in plant tissues leading to cell damage and death. Oxygen deficiency
+due to flooding also leads to photosynthesis reduction, stunted growth, oxidative
+stress and many others (da-Silva & do Amarante, 2020).
+However different studies carried on flooding in plants show that some plants have
+evolved strategies that enable them resist against the period they are subjected to
+flooding. Some studied show that some plants are able to restrict growth through
+keeping the minimum energy and carbon consumption for surviving underwater and
+after the water is removed, these plants recover rapidly. (Zhao et al., 2021).
+Plants like tomatoes produce new adventitious roots that help them with stand the
+flooding conditions (Ezin et al., 2010). Different rice cultivators with stand flood
+periods by restricting shoot elongation as well as carbohydrate consumption, and
+will be recovered when the flooding period is done.
+The study aims to evaluate the recovery responses of different S. aethiopicum
+(shum) genotypes under controlled flooding conditions. Understanding the
+mechanisms and recovery rates will help identify resilient genotypes suitable for
+flood-prone regions hence increasing food productions and ensuring food security.
+1.2 PROBLEM STATEMENT
+Solanum aethiopicum shum, commonly known as African eggplant is a vital leafy
+vegetable cultivated in sub-Saharan Africa for its nutritional and economic value. It
+is recognized for its tolerance to various biotic and abiotic stresses, including heat
+and drought, which makes it a resilient crop in regions facing climate variability
+(Akoroda et al., 2020). However, recent increases in climate-induced flooding have
+posed significant challenges to its production, impacting plant physiology, survival,
+and yield. Flooding, characterized by water logging and oxygen deprivation in the
+root zone, negatively affects plant growth and metabolism. The magnitude of crop
+losses due to flooding has spread worldwide, with reports indicating a 10–20% yield
+loss in key crops throughout the year due to water logging (Voesenek & Bailey-
+
+
+Serres, 2015). In Africa, unpredictable rainfall patterns and flooding events have
+reduced agricultural productivity, especially in areas where smallholder farmers
+rely on flood-sensitive crops like Solanum aethiopicum shum (Mwadzingeni et al.,
+2016). Understanding the recovery mechanisms of crops post-flooding is critical for
+developing resilient varieties. Efforts have been made to identify and promote
+stress-tolerant varieties of Solanum aethiopicum shum. Breeding programs have
+mainly focused on enhancing drought resistance (Danquah et al., 2021). However,
+similar strides in addressing flooding resilience are limited. Agronomic
+interventions, such as raised beds and drainage systems, have also been employed
+to mitigate flooding impacts (Kumwenda et al., 2018). However, these solutions
+remain lacking for unpredictable or prolonged flooding events. Even with the
+acknowledgment of Solanum aethiopicum shum potential as a resilient crop,
+studies on its post-flooding recovery dynamics remain missing. Important questions
+regarding the physiological and morphological responses of different genotypes to
+flooding stress and their subsequent recovery mechanisms remain lacking answers.
+There is also less data on the role of specific genotype traits in determining postflooding recovery potential. Understanding the post-flooding recovery potential
+and growth response of Solanum aethiopicum shum genotypes is vital for enhancing
+food security in flood-prone regions. This research can guide the selection of floodresilient genotypes, contributing to sustainable agricultural systems. In addition, it
+will provide understandings into plant adaptation mechanisms under stress, aiding
+in the development of targeted breeding strategies to improve resilience not only
+in Solanum aethiopicum Shum but also in other crops.
+1.3 Purpose of study
+The purpose of studying the post-flooding recovery potential and growth response
+of different Solanum aethiopicum (Shum) genotypes is to evaluate their ability to
+adapt and thrive under stress conditions, particularly flooding. This research helps
+in understanding the resilience mechanisms of these genotypes, identifying
+varieties with higher tolerance, and optimizing their cultivation for regions prone
+to flooding. The findings could support crop improvement programs and enhance
+agricultural productivity in flood-affected areas (Apolot et al., 2020).
+
+
+
+1.4 objectives
+1.4.1 Main objective
+I.
+To determine the flood tolerance in Solanum aethiopicum Shum for
+increased crop productivity
+1.4.2 Specific objectives
+I.
+To examine the variations in the recovery time among various Solanum
+Aethopicum shum genotypes from flooding stress.
+II.
+To assess the agronomic performance of the recovered genotypes focusing
+on physiological and morphological changes in response to flood stress.
+1.5 Hypotheses
+1.5.1 Hypothesis 1
+Solanum aethiopicum shum genotypes will exhibit 60-85%recovery rates from
+flooding stress, with certain genotypes demonstrating superior adaptive traits that
+allow them recover more effectively compared to others (Colmer & Voesenek,
+2009).
+1.5.2 Hypothesis 2
+Recovered Solanum aethiopicum shum genotype from flooding stress will exhibit
+distinct physiological and morphological changes (G. Sseremba, 2019).
+1.6 Scope of study
+This research focused on accessing the recovery potential of different Solanum
+aethiopicum shum genotypes from flooding stress, by identifying those that recover
+faster after a period of flooding. Understanding these responses is crucial for
+developing resilient cultivars that can withstand adverse conditions. This study will
+be conducted in a screen house in Uganda Christian University on three different
+genotypes of Solanum aethiopicum Shum which are E11, E15, and E16. Different
+morphological and physiology parameters for example leaf size, leaf area,
+chlorophyll content, root length will be measured to access recovery rates and
+resilience of the three Solanum aethiopicum Shum genotypes to floods.
+
+
+
+1.8 Justification
+Solanum aethiopicum Shum, commonly known as African eggplant or Shum is a
+widely cultivated indigenous vegetable in sub-Saharan Africa. It is a crucial source
+of vitamins, minerals, and dietary fibre, contributing significantly to food security
+and income generation for smallholder farmers. Despite its economic and
+nutritional importance, studies on its response to abiotic stresses, such as flooding,
+remain limited. (Abukutsa-Onyango, M. (2010). Flooding adversely affects plant
+growth by limiting oxygen availability, impairing root functions, and disrupting
+nutrient uptake. Understanding the recovery mechanisms of Solanum aethiopicum
+Shum genotypes can aid in breeding programs focused on flood-resilient genotypes.
+This is particularly important in regions where climate change is increasing the
+frequency and intensity of extreme weather events, like flooding. (Bailey-Serres et
+al. (2012). This research aligns with SDG 2 (Zero Hunger) and SDG 13 (Climate
+Action) by promoting resilient agricultural practices and enhancing the productivity
+of underutilized crops in adverse environmental conditions. (Makombe, 2022)
+1.8 Significance
+Solanum aethiopicum Shum is a staple vegetable in many parts of sub-Saharan
+Africa, valued for its nutritional content, including vitamins A and C, minerals, and
+antioxidants. By identifying flood-tolerant genotypes, this research can ensure
+stable yields in flood-prone areas, directly addressing food insecurity. Grubben, G.
+J. H., & Denton, O. A. (2004). Flooding is one of the most destructive outcomes of
+climate change, particularly in tropical regions. Studying the recovery potential of
+Solanum aethiopicum shum genotypes will help develop climate-resilient cropping
+systems that mitigate the impacts of unpredictable weather patterns. (IPCC Report
+(2021).
+Flood-tolerant varieties of Solanum aethiopicum Shum can stabilize market
+supplies and support the livelihoods of farmers and traders who depend on this
+crop for income generation. Flood-resilient cultivars also reduce the economic
+burden of crop losses due to flooding. (Akinyele, B. O., et al. (2011)
+
+
+
+1.9 Theoretical frame work
+Flooding is a significant abiotic stressor that disrupts plant growth by creating
+oxygen-deprived conditions that impair root respiration and nutrient uptake,
+leading to oxidative stress and tissue damage (Bailey-Serres et al., 2012). Recovery
+mechanisms, such as root plasticity and energy conservation strategies, vary across
+genotypes and play a vital role in plant survival under such stress (Voesenek &
+Bailey-Serres, 2015). Understanding these genotypic differences is crucial for
+developing stress-resilient crops for tropical and subtropical regions prone to
+seasonal flooding.
+The African indigenous vegetable Solanum aethiopicum (Shum) is vital for food
+security and nutrition, particularly in regions where flooding poses a recurring
+challenge. Its genetic diversity makes it an ideal candidate for exploring traits that
+contribute to stress tolerance and recovery. Evaluating growth metrics, such as
+biomass accumulation and shoot elongation, can provide insights into genotypic
+recovery potential. Additionally, biochemical markers like antioxidative enzyme
+activity and hormonal regulation are critical indicators of flooding tolerance
+(Colmer & Voesenek, 2009).
+This research focuses on assessing the post-flooding recovery and growth responses
+of Solanum aethiopicum (Shum) genotypes to identify traits associated with
+superior resilience. Such findings can guide breeding programs aimed at enhancing
+agricultural productivity and sustainability in flood-prone areas (Schippers, 2002).
+The emphasis on indigenous crops aligns with global efforts to bolster agro
+ecosystem resilience to environmental stresses (Sasidharan et al., 2017).
+
+
+
+
+
+
+
+1.10 Conceptual frame work
+
+Independent
+variables
+• Solunum
+atheiopicum
+shum
+
+• Flooding stress
+
+
+Dependent variables
+• Morphological
+response
+• Physiological
+response
+• Yield recovery
+
+Moderating factors
+• Environment
+factors
+• Flooding
+durations
+
+
+
+
+
+
+
+
+
+CHAPTER TWO:
+2.0 LITERATURE REVIEW
+2.1 Introduction
+Solanum aethiopicum Shum, commonly known as African eggplant, is widely
+cultivated in sub-Saharan Africa and valued for its nutritional and medicinal uses.
+Despite its resilience in tropical climates, the productivity of Solanum aethiopicum
+Shum can be significantly impacted by environmental stresses such as flooding.
+Since the flooding frequency is said to increase in many regions of sub- Saharan
+due to climate change, understanding the genetics of flooding tolerance in
+Solanum aethiopicum Shum genotypes is important for breeding resilient varieties
+that can withstand and recover from prevailing flood conditions.
+2.2 Flooding Stress in Crop Plants
+Studies highlight the crop’s resilience to abiotic stresses, including drought and
+salinity (Oyeyemi et al., 2020) but flooding is a major abiotic stress that disrupts
+root oxygen supply, limits gas exchange, and induces oxidative stress, ultimately
+impairing plant growth and development. In flooded conditions, the lack of oxygen
+causes hypoxia or even anoxia (complete absence of oxygen), which inhibits
+aerobic respiration and forces plants to rely on less efficient anaerobic pathways.
+Research has shown that plants can experience physiological and biochemical
+alterations in flooded conditions, including reduced photosynthetic rates, inhibited
+root function, and increased production of reactive oxygen species (ROS) (Bailey-
+Serres et al., 2012).
+Plants exhibit a wide range of tolerance to flooding, which varies based on species,
+developmental stage, and genotype. Some plants develop morphological
+adaptations, such as adventitious roots and aerenchyma (air-conducting tissue)
+formation, to maintain oxygen flow under flooded conditions. Others rely on
+biochemical responses, like the activation of antioxidant enzymes, to mitigate
+oxidative stress (Colmer & Voesenek, 2009).
+
+
+2.3 Flooding Tolerance in Solanaceous Crops
+Solanaceous crops, such as tomatoes, potatoes, and eggplants, are generally
+susceptible to flooding stress, yet variations in flooding tolerance have been
+observed across and within species. Studies on Solanum species, particularly
+tomatoes, have identified physiological and biochemical markers that influence
+flooding tolerance. For instance, tomato genotypes with higher tolerance showed
+better root recovery, efficient carbohydrate management, and enhanced
+antioxidant enzyme activity after flooding (Li et al., 2024). Given the shared
+genetic background among solanaceous crops, research findings on related species
+may provide useful insights for understanding flooding tolerance in Solanum
+aethiopicum shum
+2.4 Physiological and Biochemical Responses to Flooding in Plants
+Physiological responses to flooding include reduced photosynthetic efficiency,
+changes in water relations, and alterations in nutrient uptake (Gravatt & Kirby,
+1998). The measurement of chlorophyll content and stomata conductance are
+often used to assess flooding stress, as these parameters reflect the plant's ability
+to photosynthesize and maintain gas exchange under stress. In addition,
+biochemical responses such as the production of antioxidant enzymes (e.g.,
+superoxide dismutase, catalase) are critical in scavenging ROS generated during
+flooding, which helps mitigate cellular damage and improve recovery after stress is
+relieved (Ashraf, 2012).
+2.5 Recovery after Flooding Stress
+The recovery phase following a flooding event is essential for the overall tolerance
+and resilience of a plant. Studies indicate that genotypes with better recovery
+potential often exhibit rapid restoration of physiological functions, such as stomata
+conductance and photosynthetic rate, and the re-establishment of root and shoot
+growth (Kozlowski, 1997). In Solanum species, recovery may involve adaptive traits
+like rapid root regeneration, effective carbohydrate allocation, and maintenance
+of ROS-scavenging enzyme activity after flooding. These traits are critical
+
+
+indicators of a plant’s ability to withstand subsequent stress or return to normal
+productivity levels (Setter & Waters, 2003).
+2.6 Objective one: Genotypic Variation in Flood Recovery.
+2.6.1 Rice Genotypes and Physiological Recovery
+Rani et al. (2015) studied physiological and molecular responses of different rice
+genotypes under flash and stagnant flooding. They compared post-flood survival
+and regeneration after 10 days of de-submergence. The researchers used
+physiological traits (tiller regeneration, chlorophyll content) and molecular
+markers to assess stress response. The research shows that genotypes displayed
+significant variation in their recovery time and capacity. Some showed rapid
+regrowth, indicating better internal oxygenation and carbohydrate reserves.
+However the study lacked integration of these physiological traits with final grain
+yield performance.
+2.6.2 Mungbean Genotypic Differences in Recovery Time
+Islam et al. (2016) assessed flooding effects on growth and maturity of mungbean
+genotypes. They applied a 4-day flooding treatment and monitored regrowth over
+10 days. They measured plant height, leaf development, and days to maturity.
+Results showed that some genotypes resumed growth faster post-flood, while
+others exhibited delayed flowering and reduced leaf count. Recovery variation was
+statistically significant. However no molecular profiling or hormonal assays were
+used to identify underlying mechanisms
+2.6.3 Tomato Genotypes during Flood Stress
+Ezin et al. (2010) evaluated Solanum lycopersicum genotypes at vegetative and
+reproductive stages under varying flooding durations (0–8 days). Post-flood growth
+was tracked over a week. He observed parameters like shoot elongation,
+chlorophyll levels, and biomass. The outcomes were, recovery varied greatly, with
+some genotypes showing greater resilience to both short and extended floods. This
+suggests that tolerance and recovery are development-stage dependent. However
+No yield-level data or hormonal analysis was included.
+
+
+2.6.4 Natural Variation in Arabidopsis thaliana
+Vashisht et al. (2011) studied 150 Arabidopsis accessions for natural variation in
+flooding tolerance and recovery. Plants were submerged and then DE submerged,
+followed by a 14-day recovery observation. They measured leaf regrowth,
+photosynthesis, and survivability. Results showed that significant intraspecific
+differences were recorded. Some accessions fully recovered, while others
+displayed severe post-flood stunting. However No functional gene annotation was
+applied to identify the traits linked to recovery.
+2.7 Objective 2: Agronomic Performance and Physiological/Morphological
+Changes
+The agronomic performance and physiological responses of various crops, including
+Solanum aethiopicum, to flooding stress are crucial due to increasing extreme
+weather patterns related to climate change. Flooding causes oxygen deprivation,
+affecting plant metabolism, and results in various morphological and physiological
+alterations that can hinder recovery and growth potential. Numerous studies have
+provided insights into these responses, primarily focusing on the mechanisms of
+flooding tolerance and recovery strategies across different plant species.
+
+Research has utilized phenotypic assessments and molecular approaches to analyze
+the physiological and morphological changes in plants under flooding conditions.
+For instance, Chen et al. highlighted the upregulation of disease resistance-related
+proteins during flooding stress in maize, demonstrating the role of programmed
+cell death (PCD) in managing stress responses (Chen et al., 2014). Similarly,
+Komatsu et al. discussed how flooding induces oxygen deprivation, which triggers
+adaptive responses crucial for plant survival in soybean, emphasizing the
+importance of proteomic techniques (Komatsu et al., 2015). Ezin et al. explored
+adventitious root formation in tomatoes and its critical role in nutrient uptake and
+recovery post-flooding, indicating that such adaptations could benefit Solanum
+aethiopicum as well (Ezin et al., 2010). Valliyodan et al. observed that tolerant
+soybean genotypes exhibit a quicker response to flooding, emphasizing the role of
+
+
+root architecture, specifically aerenchyma formation, in enhancing flooding
+tolerance (Valliyodan et al., 2014).
+Despite
+these
+advances,
+significant
+gaps
+remain
+in
+understanding
+the
+comprehensive molecular and metabolic pathways that govern recovery in Solanum
+aethiopicum and other species. For instance, real-time imaging techniques for
+monitoring physiological responses during flooding have been underutilized
+(Valliyodan et al., 2014). While studies like those by Tamang and Fukao have begun
+to elucidate physiological stress responses during and post-submergence, they
+primarily focus on other crops, highlighting a lack of targeted research specifically
+on Solanum aethiopicum (Tamang & Fukao, 2015). Moreover, while key
+phytohormonal responses mediated by compounds such as ethylene have been
+identified, there is a need for specific investigations into phytohormonal cross-talk
+in Solanum aethiopicum in response to flooding (Zhao et al., 2021; , Wang &
+Komatsu, 2022).
+
+Additionally, interventions such as seed priming techniques have shown potential
+for improving resistance to flooding stress, yet their application in Solanum
+aethiopicum remains limited, indicating a substantial opportunity for enhancing
+crop resilience through such strategies (Giri et al., 2024). Recent innovations in
+high-throughput phenotyping, particularly non-photochemical quenching (NPQ)
+assessments, are paving the way for future studies on specific crop resilience
+during flooding (Brito et al., 2023). While flooding tolerance has been explored in
+various agricultural species, focused research on the specific mechanisms in
+Solanum aethiopicum genotypes is scarce, underscoring the need to further enrich
+this field.
+
+In summary, although significant progress has been made in understanding the
+physiological and biological responses of various plants to flooding stress, more
+focused research efforts on Solanum aethiopicum are necessary to address existing
+knowledge gaps and bolster the crop's agronomic performance post-flooding.
+Future studies should integrate both phenomic and genomic approaches to
+elucidate the recovery potential of this crop and promote the development of
+robust flood-tolerant varieties.
+
+
+CHAPTER THREE: METHODOLOGY
+3.1 Research design
+The experiment was laid out using a randomized split plot design where the
+flooding treatment was the main plot and the three genotypes of Solanum
+aethiopicum Shum were subplots. This design ensured that Flooding stress was
+induced by submerging pots with the three Solanum aethiopicum Shum genotypes
+which are E11, E15 and E16 in water for a duration of 14 days (2wks). Plants in the
+control subplots were well watered at a 100% field capacity which was estimated
+to be 2.4L in order to maintain normal conditions. (Ezin et al., 2010).
+3.2 Area of study
+This experiment was conducted at Uganda Christian University located in Mukono
+district in central Uganda which is approximately 27km from Kampala. Mukono
+district mainly experiences two rainfall seasons and the annual rainfall received
+ranges between 1100 and 1400mm. The experiment was conducted in a screen
+house on three genotypes of Solunum aethopicum (shum) and during this period,
+the temperature in the screen house ranged from 20°c to 49°c and relative
+humidity ranging from 20% to 58%.
+3.3 Source of information
+The seeds of the three genotypes solunum aethopicum (shum) were obtained from
+the Uganda Christian University seed bank. These included E11, E15 and E16.
+3.3.1 Preparation of potting material
+The potting material used was made up of a mixture of loam soil and decomposed
+manure which was mainly chicken manure and these were mixed in the ratio 3:1.
+This means three wheel borrows of soil were mixed with 1 sack of chicken manure.
+The mixture was the placed in a sterilizing chamber that used steam to sterilize
+the soil at a temperature of 100°c for 12 hours. After the soil was fully sterilized,
+it was left to cool for 12 hour during the night. The next day, the soil was packed
+in pot of polythene and each bag received 10kgs of the mixed soil. The plots were
+spaced 45 and 15cm between and within sub-plots.
+
+
+3.4 Raising seedlings and transplanting
+100 seeds per genotype were sown in well labelled seedling trays and were placed
+in a dark chamber with an aim of speeding up the rate of germination. Trays
+containing the seedlings were mulched and water twice a day. Trays were
+monitored daily in order to access the rate of germination and the number of
+germinated seeds was recorded daily starting from the day of emergency. After a
+period of 3 weeks, the seedlings (3 to 4 leaves) were transplanted to the 10kg
+polyethylene pots that were laid out in the screen house. During transplanting, 4g
+of NPK 17 were added to each pot to facilitate proper growth. Plants were sprayed
+weekly to prevent damage of insects, snails and others using dimethoate.
+3.5 Population and Sampling technique.
+The sample size and the total number of plants were determined by the number of
+genotypes that were used in the experiment, flooding duration, replications and
+plants per subplot. To calculate the total number of plants a formula of total plant
+per replication = (Number of genotypes) × (flooding treatment) × (plants per plot)
+was used (Blum, 2015).
+Three genotypes of solunum aethopicum (shum) were planted which were E11, E15
+and E16 to ensure diversity in recovery potential. The flooding treatment was a
+single one uniformly applied in all subplots or experimental units. Three
+replications were made each containing four sub plots for E11, E15, E16 and one
+for the control. This is to ensured statistical strength by including three
+replications per treatment. 10 plants per genotype were planted in order to
+account for variability among individual plants. Using the calculation of total plant
+per replication = 3 genotypes × 1 flooding treatment × 10 plants per subplot = 15
+plants per replication. The total number of plants to be planted will be 30 plants
+per replication x 3 replication each containing the three genotype treatment s = 90
+plus a control unit where the flooding treatment wasn’t applied for each
+replication making it 90 plants plus 30 plant which made it 120 plants in total. The
+over roll sample size was 10 plants per genotype and in the control in every
+replication. This makes a total of 120 plants that will be subjected to data
+collection.
+
+
+3.6 Application of floods
+Pots containing different Solunum aethopicum Shum genotypes that were still in
+their seedling stage were submerged into buckets containing water and were kept
+in the condition for 14 days while monitoring changes occurring. Plants stems
+where covered by water a type of submergence known as partial submergence. The
+water used as floods was normal clean water got from the UCU water tanks.
+3.7 Recovery phase
+After the flooding period, excess water was drained and the plants were allowed to
+recover under normal agronomic conditions. The trail was then observed for 14
+days and data was collected at weekly intervals
+3.8 Variables and indicators
+The independent variables here included: Solunum aethopicum Shum genotypes
+and flooding stress
+The dependent variables here included: the morphological responses which
+include plant height, new leaf count, Root length, Biomass (Dry weight) and
+Biomass (fresh weight. Physiological responses included Relative chlorophyll
+content.
+3.9 Data collection for objective one
+3.9.1 Parameters for objective one
+Before floods were applied, data on the different morphological and phyoilogical
+parameters was collect and was termed as baseline data. This was collected for
+the purpose of comparison between before and after.
+To examine the variations in recovery rates among various Solanum aethiopicum
+shum genotypes from flooding stress.
+Survival rate
+This was done by counting the number of surviving plants per genotype after the
+beginning of the recovery phase. This was followed by calculating the percentage
+of surviving plants basing on initial count.
+
+
+Days to recovery
+This was done by monitoring and recording the number of days each plant took to
+display initial recovery signs which include the appearance of new leaves and
+reduced wilting.
+3.9.2 Parameters for objective 2
+To evaluate the agronomic performance of tolerant genotypes post- recovery
+looking at physiological and morphological changes in response to flood stress.
+New leaf count
+A count and record of the number of new leaves per plant
+Relative chlorophyll content
+Here a SPAD meter was manufactured by Konica Minolta and it was manufactured
+in 1989. It was used to measure and record chlorophyll content per plant and an
+average reading for each genotype, which reflected plant health. Relative
+chlorophyll content was measured once a week for two weeks.
+Here, a ruler was used to measure and record plant height from the soil surface to
+the tallest point of the plant once a week for two weeks after flooding stress and
+once at seedling stage before applying floods.
+Root length
+At the end of the recovery period, plants were uprooted and soil was carefully
+washed off from the roots and a ruler was used measure the length of the tap root
+and recorded in centimetres.
+Biomass (fresh weight)
+After harvesting each plant, soil was gently washed off each plant and the whole
+plant was weighed including leaves, stems and roots and the measurements were
+recorded in grams.
+
+
+
+Biomass (Dry weight)
+Harvested plants were placed in an oven at 60-70°C for 48-72 hours and after each
+plant was weighed and recorded as dry weight in grams
+Visual score
+A scale of 0-5 was used to assess and score the plant visually for damage and the
+scores were recorded basing on the criteria set out in the scoring key by
+(Sseremba, G. et al. 2018)
+3.10 Data collection instruments and equipment’s
+A measuring ruler was used to measure plant height, root length leaf width and
+length.
+A SPAD meter was used to measure and record chlorophyll content per plant.
+An oven was used for drying plants in order to obtain its dry weight.
+An Electric digital weighing scale was used to determine the fresh and dry weight
+of the plants.
+3.11 Quality and error control.
+Three replications were made in order to reduce bias on the obtained results and
+also to gain confidence in the results obtained in the first place.
+A control group was into place in order to have comparisons between the
+performance of the genotypes of Solanum aethiopicum Shum under flooding stress
+and those under normal growth conditions.
+To reduce errors, all plots were submerged equally in buckets containing water and
+every plot received the same amount water.
+3.12 Statistical data analysis
+Data collected was tested using analysis of variance to analyse the differences in
+recovery rates among the three genotypes (one-way ANOVA). Recovery indices
+were calculated basing on survival rates, biomass restoration and leaf area growth.
+
+
+Descriptive statistics were calculated for each of the variables (means, median and
+standard deviation)
+A post- hoc test was used (turkey’s HSD for multiple comparisons) to identify the
+significant paired different between the three different genotypes.
+3.13 Field layout
+
+
+
+
+
+
+
+
+3.14 Ethical considerations.
+Since the experiment will be conducted in the screen house under controlled
+conditions, there were no violations of ethics concerning human and animal
+wellbeing. Nevertheless providing correct data and following up the methodology
+were given high priority during the process of carrying out research.
+3.15 Anticipated methodological constraints
+Limited resources for example in setting up the controlled flooding environment
+was resource intensive, and achieving the three replications for statistical validity
+required a large area in the screen house plus the cost of labour.
+
+
+E16
+E11
+E11
+E15
+Con
+E15
+E16
+E11
+E16
+Con
+E15
+Con
+
+
+CHAPTER FOUR
+4.0 Results
+4.1 Growth parameters of three genotypes Solanum aethiopicum Shum of
+before flooding
+Table 1: Summary of Descriptive Statistics on the growth parameters of the
+three genotypes of Solanum aethiopicum Shum before the flood stress was
+applied.
+Parameters
+Genotypes
+Mean
+SD
+SE
+E11
+6.73
+1.18
+0.22
+14.61
+E15
+7.63
+2.22
+0.41
+29.08
+E16
+7.78
+1.60
+0.39
+20.56
+Number
+of
+E11
+5.97
+0.89
+0.16
+14.86
+E15
+8.60
+1.98
+0.36
+23.01
+E16
+9.23
+2.72
+0.50
+29.49
+Stem
+diameter
+E11
+0.22
+0.05
+0.01
+24.17
+E15
+0.33
+0.07
+0.01
+21.64
+E16
+0.35
+0.13
+0.02
+36.42
+E11
+45.94
+11.96
+2.18
+26.03
+E15
+52.49
+16.91
+3.09
+32.22
+E16
+72.70
+24.24
+4.42
+33.35
+Petiole length E11
+1.87
+0.43
+0.08
+23.21
+E15
+2.17
+0.56
+0.10
+25.89
+E16
+2.61
+0.71
+0.13
+27.09
+Chlorophyll
+content
+E11
+22.32
+3.74
+0.68
+16.74
+E15
+24.62
+5.99
+1.09
+24.34
+E16
+27.30
+6.92
+1.26
+25.35
+
+The initial growth parameters of the three Solanum aethiopicum Shum genotypes
+before flooding stress application showed variable performance among the
+genotypes (Table 1). Genotype E16 demonstrated the highest mean values for most
+parameters, including plant height (7.78 ± 1.60 cm), number of leaves (9.23 ±
+
+
+2.72), stem diameter (0.35 ± 0.13 cm), leaf area (72.70 ± 24.24 cm2), petiole
+length (2.61 ± 0.71 cm), and chlorophyll content (27.30 ± 6.92 SPAD units).
+Genotype E15 showed intermediate values for most parameters, with plant height
+of 7.63 ± 2.22 cm, leaf count of 8.60 ± 1.98, stem diameter of 0.33 ± 0.07 cm, leaf
+area of 52.49 ± 16.91 cm2, petiole length of 2.17 ± 0.56 cm, and chlorophyll
+content of 24.62 ± 5.99 SPAD units. Genotype E11 consistently exhibited the lowest
+values across all parameters before flooding stress, with plant height of 6.73 ± 1.18
+cm, leaf count of 5.97 ± 0.89, stem diameter of 0.22 ± 0.05 cm, leaf area of 45.94
+± 11.96 cm2, petiole length of 1.87 ± 0.43 cm, and chlorophyll content of 22.32 ±
+3.74 SPAD units. The coefficient of variation (CV) ranged from 14.61% to 36.42%
+across parameters, indicating moderate to high variability within genotypes. The
+highest variability was observed in stem diameter for E16 (CV = 36.42%), while the
+lowest variability was recorded in plant height for E11 (CV = 14.61%).
+4.2 Growth parameters during flooding
+Table 2: Summary of Descriptive Statistics for growth parameters of three
+genotypes during flooding.
+Parameters Genotype
+Mean
+SD
+SE
+Plant
+height
+E11
+16.48
+5.38
+0.98
+32.65
+E15
+13.55
+7.51
+1.37
+55.45
+E16
+16.05
+8.49
+1.55
+52.90
+E11
+5.03
+1.27
+0.23
+25.23
+E15
+7.83
+3.23
+0.59
+41.22
+E16
+11.23
+5.36
+0.98
+47.73
+Stem
+diameter
+E11
+5.47
+1.07
+0.20
+19.62
+E15
+6.50
+1.14
+0.21
+17.49
+E16
+7.43
+2.08
+0.38
+27.96
+
+
+folded
+E11
+3.43
+1.01
+0.18
+29.30
+E15
+4.13
+1.66
+0.30
+40.09
+E16
+3.43
+1.87
+0.34
+54.41
+Chlorophyll
+content
+E11
+32.55
+11.35
+2.07
+34.87
+E15
+35.21
+12.25
+2.36
+36.79
+E16
+38.93
+11.65
+2.13
+29.93
+E11
+75.79
+20.13
+3.68
+26.56
+E15
+70.51
+20.75
+3.79
+29.43
+E16
+103.19
+49.20
+8.98
+47.68
+Petiole
+length
+E11
+2.29
+0.29
+0.05
+12.67
+E15
+2.79
+0.37
+0.07
+13.15
+E16
+3.32
+1.06
+0.19
+31.90
+yellow
+E11
+1.03
+0.81
+0.15
+78.62
+E15
+1.53
+0.90
+0.16
+58.49
+E16
+1.10
+0.71
+0.13
+64.56
+Wilting
+score
+E11
+2.07
+1.17
+0.21
+56.78
+E15
+2.73
+1.26
+0.23
+46.08
+E16
+2.20
+1.21
+0.22
+55.11
+
+During the 14-day flooding period, all genotypes exhibited stress responses, though
+with varying degrees of severity (Table 2). Genotype E11 maintained a moderate
+plant height (16.48 ± 5.38 cm) but showed the lowest number of leaves (5.03 ±
+1.27), smallest stem diameter (5.47 ± 1.07 mm), and lowest chlorophyll content
+(32.55 ± 11.35 SPAD units). E11 also developed the fewest folded leaves (3.43 ±
+
+
+1.01) and yellow leaves (1.03 ± 0.81), with a moderate wilting score (2.07 ± 1.17).
+Genotype E15 exhibited the shortest plant height under flooding (13.55 ± 7.51 cm),
+with intermediate values for number of leaves (7.83 ± 3.23), stem diameter (6.50 ±
+1.14 mm), and leaf area (70.51 ± 20.75 cm2). However, E15 developed the highest
+number of folded leaves (4.13 ± 1.66) and yellow leaves (1.53 ± 0.90), indicating
+greater stress sensitivity, which was further evidenced by its highest wilting score
+(2.73 ± 1.26). Genotype E16 demonstrated the most robust performance under
+flooding stress, maintaining the highest values for number of leaves (11.23 ± 5.36),
+stem diameter (7.43 ± 2.08 mm), leaf area (103.19 ± 49.20 cm2), petiole length
+(3.32 ± 1.06 cm), and chlorophyll content (38.93 ± 11.65 SPAD units). Despite these
+advantages, E16 developed similar numbers of folded leaves (3.43 ± 1.87) and
+yellow leaves (1.10 ± 0.71) as E11, with an intermediate wilting score (2.20 ±
+1.21). The coefficient of variation was particularly high for number of yellow
+leaves across all genotypes (58.49% to 78.62%), indicating substantial withingenotype variability in this stress response parameter.
+4.3 Recovery time variations among the three genotypes
+Objective 1: To examine the variations in the recovery time among various
+Solanum aethopicum Shum genotypes from flooding stress.
+Table 3: Number of days to recovery post flooding
+Number of days to
+recovery
+(Mean±SD)
+SE
+CV%
+LSD
+p-value
+E11
+5.63±1.52a
+0.28
+26.96
+1.74
+< 0.0001
+E15
+10.17±4.43ab
+0.81
+43.27
+E16
+7.37±2.43a
+0.44
+32.99
+SE stands for standard error; CV% is the co-efficient of variance; LSD is the least
+significant difference. Figures with the same letter a indicate that there is no
+significant difference between the two and those with different letters ab indicate
+that there is a significant difference between them.
+
+
+
+Figure 1: A graph showing number of days each genotype took to recover.
+The ANOVA results show a highly significant difference between genotypes (F =
+17.19, p < 0.0001), indicating that at least one genotype differs significantly from
+the others in terms of days to recovery. Turkey’s HSD test reveals that E15 has
+significantly longer recovery time compared to E11 (difference = 4.54 days, p <
+0.0001), E15 has significantly longer recovery time compared to E16 (difference =
+2.80 days, p = 0.0009) and the difference between E16 and E11 (1.74 days) is
+marginally significant (p = 0.0525). The coefficient of variation is highest for E15
+(43.57%), indicating more variability in recovery time for this genotype compared
+to E11 (26.96%) and E16 (32.99%). The Mean Square Error (MSE) of 9.57 represents
+the average variability within each genotype group. The Least Significant
+Difference (LSD) at α = 0.05 is 1.74 days, which represents the minimum difference
+between any two means that would be considered statistically significant.
+These results suggest that the three genotypes have different effects on recovery
+time, with E15 showing the longest average recovery period and E11 showing the
+shortest.
+
+
+
+Table 4: Survival rate (%) of the three genotypes of Solanum aethiopicum
+Shum after flooding period.
+Survival
+(%)(Mean±SD)
+SE
+E11
+99.17±1.29
+0.24
+E15
+96.67±1.29
+0.24
+E16
+96.67±1.29
+0.24
+SE stands for standard error mean
+
+
+
+
+
+
+
+
+
+The ANOVA analysis shows a statistically significant difference in survival rates
+between the genotypes (F = 36.67, p < 0.0001). E11 had the highest survival rate at
+99, E15 and E16 both had identical survival rates of 96.67%. Multiple Comparisons
+(Tukey's HSD) shows that E11 had a significantly higher survival rate than both E15
+and E16 (difference = 2.50%, p < 0.0001) and there was no significant difference
+was found between E15 and E16 (difference = 0%, p = 1.0000)
+The genotype E11 demonstrates superior survival characteristics compared to the
+other genotypes. E15 and E16 perform identically in terms of survival rates. While
+Figure 2: A graph showing survival rates of the three genotypes
+
+
+the absolute difference (2.5%) between E11 and the other genotypes may seem
+small, it is statistically significant and consistent across replications
+4.4 Agronomic performance of recovered genotypes
+Objective 2: To assess the agronomic performance of the recovered genotypes
+looking at the physiological and morphological changes in response to flood stress.
+4.4.1 Morphological parameters
+Table 5: Morphological performance of the three genotypes 7 days post flooding
+stress.
+Genoty
+pe
+Plants
+height
+(Mean
+±
+SD)
+Number
+of leaves
+(Mean ±
+SD)
+Stem
+diameter(Me
+an ± SD)
+leaf
+area(Mean
+± SD)
+Canopy
+(Mean ±
+SD)
+New leaf
+count
+(Mean
+±
+SD)
+E11
+21.44±5.8
+7.41±1.5
+5.69±0.95
+80.76±22.7
+24.78±4.
+4.28±2.8
+E15
+14.34±7.5
+11.37±3.
+6.74±0.88
+79.20±19.7
+26.78±4.
+18.20±4.
+E16
+22.48±10.
+18.93±8.
+7.78±2.21
+111.29±29.
+32.03±6.
+14.72±5.
+0.0005
+>0.05
+LSD
+4.28
+3.11
+0.76
+13.62
+2.46
+2.46
+45.3
+59.2
+24.2
+31.56
+21.3
+60.1
+LSD is the lowest significant difference and CV% is the co-efficient of variance
+
+
+
+Figure 3: A graph showing morphological parameters of the three genotypes 7
+days post flooding
+
+
+Figure 4: A graph showing a continuation of morphological parameters of the
+three genotypes 7 days post flooding
+Following recovery from flooding stress, the genotypes exhibited distinct
+differences in key agronomic traits, as summarized in table2 above. Genotype E16
+recorded the tallest plants (22.48 ± 10.88 cm), while E15 had the shortest (14.34 ±
+7.58 cm). The difference was statistically significant (P = 0.0005). E16 produced
+the highest number of leaves (18.93 ± 8.73), followed by E15 and E11, with highly
+significant differences across genotypes (P < 0.0001). The thickest stems were
+observed in E16 (7.78 ± 2.21 mm), and the smallest in E11 (5.69 ± 0.95 mm) (P <
+0.0001). Genotype E16 again showed superiority, with the largest leaf area (111.29
+± 29.94 cm2), compared to E15 and E11, and the differences were highly significant
+(P < 0.0001). Although E16 showed a broader canopy (32.03 ± 6.05 cm), the
+differences among genotypes were not statistically significant (P > 0.05). E15
+produced the highest number of new leaves (18.20 ± 4.66), while E11 had the
+
+
+lowest (4.28 ± 2.83), with highly significant variation (P < 0.0001).The Coefficient
+of Variation (CV) values indicate high variability among genotypes, especially in
+new leaf count (60.1%) and number of leaves (59.2%).
+4.4.1 Physiological parameters
+Table 6: Physiological performance of three genotypes after 7 days post
+flooding stress.
+Genotypes
+Average chlorophyll content (Mean ± SD)
+E11
+25.38±10.30ab
+E15
+37.11±10.14a
+E16
+35.54±9.56a
+34.63
+LSD
+5.59
+Figures with the same letter a indicate that there is no significant difference
+between the two and those with different letters ab indicate that there is a
+significant difference between them.
+
+
+
+The ANOVA results show a highly significant difference in average chlorophyll
+content among the three genotypes (F = 11.68, p < 0.0001). Turkey’s test reveals
+that Genotypes E15 and E16 both have significantly higher average chlorophyll
+content than E11and There is no significant difference in average chlorophyll
+content between E15 and E16. The coefficient of variation (CV) is notably higher
+for genotype E11 (40.58%) compared to E15 (27.31%) and E16 (26.90%), indicating –
+greater variability within the E11 samples. These results suggest that genotypes
+E15 and E16 produce plants with higher and more consistent chlorophyll content
+compared to genotype E11.
+Table 7: Showing morphological performance of the three genotypes after
+14days post flooding stress
+Parameters
+genotype (Mean ± SD)
+LSD
+P-VALUE
+E11
+35.09±8.34
+5.36
+32.82
+E15
+22.79±11.5
+E16
+29.18±10.90
+Number of leaves E11
+8.28±1.91
+3.06
+36.77
+E15
+19.77±6.77
+E16
+19.88±8.64
+Stem diameter
+E11
+6.45±0.95
+0.73
+19.73
+0.0008
+E15
+7.12±1.33
+E16
+7.85±1.83
+E11
+163.82±67.24
+27.04
+43.28
+E15
+108.32±26.33
+E16
+110.14±42.70
+Canopy
+E11
+31.98±4.75
+3.24
+18.8
+0.0655
+
+
+E15
+28.86±4.60
+E16
+30.48±7.12
+Visual score
+E11
+4.37±1.07
+0.81
+38.29
+0.38
+E15
+3.83±1.70
+E16
+4.10±1.77
+Petiole length
+E11
+3.83± 0.82
+0.52
+24.28
+0.0655
+E15
+3.60±0.61
+E16
+4.20±1.23
+New leaf count
+E11
+8.97±4.08
+2.60
+39.37
+E15
+16.23±5.76
+E16
+15.12±5.29
+
+
+
+
+Figure 5: A graph showing morphological parameters of the three genotypes 14
+days post flooding
+
+Figure 6: A graph showing a continuation of morphological parameters of the
+three genotypes 14 days post flooding
+The morphological performance of the three genotypes 14 days after flooding
+stress removal (Table 6) showed continuing recovery trends with some notable
+shifts. Genotype E11 demonstrated the tallest plants (35.09 ± 8.34 cm),
+significantly exceeding E16 (29.18 ± 10.90 cm) and E15 (22.79 ± 11.5 cm) (p <
+
+
+0.0001). This represents a shift from the 7-day data, where E16 had the tallest
+plants. For leaf development, genotypes E16 (19.88 ± 8.64) and E15 (19.77 ± 6.77)
+maintained similar high leaf counts, both significantly exceeding E11 (8.28 ± 1.91)
+(p < 0.0001). Stem diameter followed the same pattern as at 7 days post-flooding,
+with E16 (7.85 ± 1.83 mm) developing the thickest stems, followed by E15 (7.12 ±
+1.33 mm) and E11 (6.45 ± 0.95 mm) (p = 0.0008). Interestingly, leaf area patterns
+changed dramatically by day 14, with E11 (163.82 ± 67.24 cm2) developing
+significantly larger leaves than both E15 (108.32 ± 26.33 cm2) and E16 (110.14 ±
+42.70 cm2) (p < 0.0001). This represents a complete reversal from the 7-day data,
+where E16 had the largest leaf area. Canopy development showed no significant
+differences among genotypes (p = 0.0655), with values of 31.98 ± 4.75 cm for E11,
+30.48 ± 7.12 cm for E16, and 28.86 ± 4.60 cm for E15. Similarly, petiole length did
+not differ significantly among genotypes (p = 0.0655), with values ranging from
+3.60 ± 0.61 cm (E15) to 4.20 ± 1.23 cm (E16). Visual recovery scores showed no
+significant differences among genotypes (p = 0.38), with values of 4.37 ± 1.07 for
+E11, 4.10 ± 1.77 for E16, and 3.83 ± 1.70 for E15, indicating similar visual recovery
+despite differences in other parameters. New leaf production remained
+significantly higher in E15 (16.23 ± 5.76) and E16 (15.12 ± 5.29) compared to E11
+(8.97 ± 4.08) (p < 0.0001), maintaining the pattern observed at 7 days postflooding.
+Table 8: Physiological performance of the three genotypes 14days post
+flooding.
+Average chlorophyll content (Mean ± SD
+E11
+29.96±7.85ab
+E15
+37.83±9.64a
+E16
+36.53±12.93a
+LSD
+5.05
+0.00555
+
+
+
+
+Figure 7: A graph showing average chlorophyll content for the three genotypes
+14 days post flooding.
+Chlorophyll content measured 14 days after flooding stress removal (Table 7)
+maintained a similar pattern to the 7-day data, with genotypes E15 (37.83 ± 9.64
+SPAD units) and E16 (36.53 ± 12.93 SPAD units) showing statistically similar values,
+both significantly higher than E11 (29.96 ± 7.85 SPAD units) (p = 0.00555).
+The LSD value of 5.05 confirms the statistical distinction between E11 and the
+other two genotypes. Notably, while all genotypes showed increased chlorophyll
+content from day 7 to day 14, the improvement was most pronounced in E11,
+which increased from 25.38 to 29.96 SPAD units.
+4.4.3 Root length and Biomass accumulation
+Table 9: Root length, biomass accumulation and water content of the three
+genotypes at the end of the experiment.
+Root length
+Fresh weight
+Dry weight
+Water content
+(%)(Mean ± SD)
+E11
+12.18±6.09
+37.00±9.27
+4.83±2.04
+86.05±6.68
+E15
+14.82±2.85
+40.83±6.68
+48.67±14.02
+88.33±2.74
+E16
+16.03±3.95
+48.67±14.02
+7.17±1.83
+84.28±5.87
+LSD
+5.76
+25.05
+5.91
+10.70
+0.0151
+0.0001
+0.0007
+0.5356
+
+
+
+
+Figure 8: A graph showing root length and biomass accumulation for the three
+genotypes
+Final measurements at the end of the experiment (Table 8) revealed significant
+differences in root development and biomass accumulation among genotypes. Root
+length was significantly different among genotypes (p = 0.0151), with E16
+developing the longest roots (16.03 ± 3.95 cm), followed by E15 (14.82 ± 2.85 cm)
+and E11 (12.18 ± 6.09 cm). Fresh weight biomass showed highly significant
+differences (p = 0.0001), with E16 accumulating the greatest biomass (48.67 ±
+14.02 g), followed by E15 (40.83 ± 6.68 g) and E11 (37.00 ± 9.27 g). Similarly, dry
+weight biomass differed significantly (p = 0.0007), with E16 (7.17 ± 1.83 g)
+accumulating the most dry matter, followed by E15 (4.83 ± 2.04 g) and E11 (4.67 ±
+14.02 g). Water content percentage showed no significant differences among
+genotypes (p = 0.5356), with values ranging from 84.28 ± 5.87% (E16) to 88.33 ±
+2.74% (E15), indicating similar tissue water retention despite differences in
+biomass accumulation.
+
+
+
+CHAPTER FIVE:
+5.0 DISCUSSION
+5.1 Discussion for results of objective one
+5.1.1 Genotypic differences in recovery potential
+The results of this study revealed significant variations in post-flooding recovery
+potential among the three Solanum aethiopicum Shum genotypes evaluated. The
+most striking difference was observed in recovery time, where genotype E11
+demonstrated remarkably rapid recovery (5.63 days), while E15 required nearly
+two times longer (10.17 days) to show visible signs of recovery. These findings align
+with Hypothesis 1, which predicted that genotypes would exhibit differential
+recovery rates from flooding stress.
+The observed differences in recovery times can be attributed to genotype-specific
+traits that influence stress tolerance and recovery mechanisms. Similar genotypic
+variations in recovery time have been reported in other crops, such as rice (Rani et
+al., 2015) and mungbean (Islam et al., 2016), where genetic differences
+significantly influenced post-flooding recovery potential. In rice, for instance,
+certain genotypes showed rapid regrowth after de-submergence due to better
+internal oxygenation and carbohydrate reserves.
+The rapid recovery of E11 suggests that this genotype may possess efficient
+mechanisms for coping with and recovering from oxygen deprivation stress. These
+could include enhanced energy conservation during flooding, rapid restoration of
+aerobic metabolism post-flooding, or more efficient removal of toxic compounds
+accumulated during anaerobic conditions (Sasidharan et al., 2017). The remarkably
+quick recovery of E11 despite its lower pre-flooding vigor (as indicated by lower
+initial growth parameters) suggests that recovery potential is not necessarily
+correlated with initial plant vigor, but rather with specific adaptive traits for stress
+tolerance.
+The slow recovery of E15, despite its intermediate pre-flooding growth
+parameters, indicates that this genotype may lack efficient recovery mechanisms
+or may suffer more severe damage during flooding. This supports findings by Khan
+
+
+& Malik (2022) in wheat, where flooding recovery varied among cultivars
+independent of their pre-flooding performance. Solanum aethiopicum (Shum)
+genotypes possess remarkable post-flooding recovery potential, with survival rates
+significantly exceeding initial expectations. The E11 genotype emerged as the most
+flood-tolerant, demonstrating superior recovery compared to E15 and E16
+genotypes.
+5.2 Discussion for results of objective two
+5.2.1 Physiological adaptations for flood recovery
+Chlorophyll content serves as a key indicator of physiological recovery, as it
+reflects photosynthetic capacity restoration after stress. Our results revealed that
+genotypes E15 and E16 maintained higher chlorophyll content than E11 throughout
+the recovery period, despite E11's faster visible recovery. This apparent
+contradiction suggests that different physiological mechanisms may underlie the
+recovery process in different genotypes.
+For E11, rapid visible recovery (indicated by reduced wilting and new growth) may
+be achieved through efficient water relations restoration and biomass allocation,
+even before complete photosynthetic apparatus recovery. In contrast, E15 and E16
+may prioritize physiological restoration (chlorophyll content) before investing in
+new growth. These findings align with research by Ezin et al. (2010) on tomato
+genotypes, which demonstrated that flooding tolerance and recovery involve
+complex physiological responses that vary among genotypes.
+The increase in chlorophyll content from day 7 to day 14 across all genotypes
+indicates progressive physiological recovery, with E11 showing the most substantial
+improvement (18.0% increase) compared to E15 (1.9%) and E16 (2.8%). This
+suggests that while E11 initially had lower chlorophyll content, it demonstrated
+greater potential for physiological recovery over time. This pattern supports the
+findings of Mahmood et al. (2023), who reported that flood-tolerant plants often
+show better post-flood physiological recovery despite initial stress symptoms.
+
+
+The physiological recovery patterns observed in this study support Hypothesis 2,
+which predicted that recovered genotypes would exhibit distinct physiological
+changes in response to flooding stress. The differences in chlorophyll content
+recovery rates among genotypes suggest genotype-specific strategies for restoring
+photosynthetic capacity after flooding stress.
+5.3.2 Morphological responses and recovery mechanisms
+The morphological responses to flooding and subsequent recovery varied
+significantly among genotypes, providing insights into their recovery mechanisms.
+At 7 days post-flooding, E16 demonstrated superior performance in most
+morphological parameters, including plant height, number of leaves, stem
+diameter, and leaf area. However, by 14 days post-flooding, E11 had surpassed
+both E15 and E16 in plant height and leaf area, indicating a delayed but strong
+recovery response.
+The rapid production of new leaves by E15 and E16 compared to E11 suggests that
+these genotypes prioritize foliage regeneration as a recovery strategy. This aligns
+with research by Parad et al. (2013), who found that some plant species recover
+from flooding by rapidly producing new photosynthetic tissues. The fewer but
+larger leaves produced by E11 by day 14 suggest an alternative recovery strategy
+focused on maximizing photosynthetic area per leaf rather than leaf number.
+The root development data reveals another dimension of recovery strategies.
+Genotype E16 developed the longest roots (16.03 cm), potentially enhancing its
+ability to access water and nutrients during recovery. This likely contributed to its
+superior biomass accumulation (48.67 g fresh weight, 7.17 g dry weight). The
+shorter roots in E11 (12.18 cm) may partially explain its lower biomass
+accumulation despite its rapid initial recovery and large leaf area. These findings
+support research by Colmer & Voesenek (2009), who highlighted the importance of
+root system recovery for overall plant resilience after flooding.
+The similar water content percentages across genotypes (84.28-88.33%) despite
+differences in biomass accumulation suggest that all three genotypes successfully
+restored water relations post-flooding. This indicates that while recovery strategies
+
+
+differed, all genotypes achieved effective water balance restoration, an essential
+aspect of post-flooding recovery.
+The morphological recovery patterns observed in this study further supports
+Hypothesis 2, demonstrating that the three genotypes employed distinct
+morphological adaptation strategies during recovery from flooding stress.
+5.4 Implications for breeding flood-tolerant varieties
+The distinct recovery patterns and mechanisms identified in this study have
+important implications for breeding flood-tolerant varieties of Solanum
+aethiopicum Shum. The rapid recovery of E11, despite its initially lower vigor,
+suggests that breeding efforts should focus on incorporating rapid recovery traits
+rather than solely selecting for vigorous growth under normal conditions.
+The superior chlorophyll retention and biomass accumulation in E16 indicate that
+this genotype possesses valuable traits for maintaining productivity after flooding
+events. The intermediate recovery time of E16 (8.88 days), combined with its
+superior final biomass, suggests that moderate recovery speed coupled with
+efficient resource allocation may be optimal for yield stability in flood-prone
+environments.
+The contrasting recovery strategies observed in the rapid visible recovery of E11
+with fewer but larger leaves versus E15 and E16's slower visible recovery with
+numerous new leaves—suggest that multiple physiological pathways contribute to
+flooding resilience. Breeding
+programs could potentially combine these
+complementary traits to develop varieties with both rapid recovery and high
+productivity post-flooding.
+The root development differences among genotypes highlight the importance of
+below-ground traits in flooding recovery. The longer roots in E16 likely contributed
+to its superior biomass accumulation, suggesting that root system architecture
+should be considered in breeding for flood tolerance. This aligns with findings by
+Bailey-Serres et al. (2012), who emphasized the role of root system plasticity in
+flood recovery.
+
+
+Overall, this study demonstrates that different genotypes of Solanum aethiopicum
+Shum possess distinct and valuable traits for post-flooding recovery. Breeding
+programs should aim to pyramid these traits into new varieties that combine rapid
+recovery (from E11), high chlorophyll retention and new leaf production (from
+E15), and robust root development and biomass accumulation (from E16). Such
+varieties would be better equipped to maintain productivity in increasingly floodprone agricultural landscapes, contributing to food security in the face of climate
+change.

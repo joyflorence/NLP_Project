@@ -1,0 +1,1141 @@
+ASSESSING THE SUITABILITY OF A WASTEWATER EFFLUENT REUSE IN
+APPLICATION OF NON-POTABLE USE
+
+DOMINIC LOKWANG
+M22B32/021
+
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD
+OF THE DEGREE OF BACHELOR OF SCIENCE IN CIVIL AND ENVIRONMENTAL
+ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+February, 2026
+
+
+
+
+
+i
+
+ABSTRACT
+This project addresses the problem of high-quality potable water being used to
+carry out low quality tasks such as flushing in toilets and urinals by offering an
+affordable, yet environmentally friendly way of harnessing treated wastewater
+effluent for non-potable applications. This research aims to assess the raw quality
+(physicochemical and microbiological characteristics) of treated wastewater
+effluent from the UCU wastewater treatment plant and treat it with reference to
+how it complies with established reclaimed water standards for use in toilet and
+urinal flushing.
+Uganda Christian University (UCU) purchases large volumes of potable water from
+National Water and Sewerage Corporation (NWSC) on a monthly basis. This water is
+used to ensure smooth running university activities such as cleaning, cooking,
+drinking, and waste management. Studies show that about 20-40% of domestic
+water demand is consumed in toilet flushing and 50-70% of commercial water
+demand (Ilemobade et al., 2012).
+
+
+
+ii
+
+DECLARATION
+I, LOKWANG DOMINIC with registration number M22B32/021 hereby declare that
+this is my original work, is not plagiarized and has not been submitted to any other
+institution for any award.
+Student’s name: LOKWANG DOMINIC
+Sign: ............................................................. Date: ...................................................
+
+
+
+
+iii
+
+APPROVAL
+This research project report submitted by LOKWANG DOMINIC to the Department
+of Engineering and Environment at Uganda Christian University has been carried
+out and compiled under constant supervision.
+Eng. Prof. ELEANOR WOZEI
+Academic Supervisor (Uganda Christian University)
+Signature: ...........................................
+Date: ....................................................
+
+
+
+iv
+
+DEDICATION
+This report is dedicated to my brother as well as the father Dada Ross Romano, my
+wife Sagal Kevin and my children Dada Jerome, Nading Davin and Lopeyo Darius for
+their constant love and support throughout my education journey and through
+every season of my life thus far. This research is a testament of your loving
+guidance and perseverance to shape me into valuable citizen of this country. I am
+grateful for the sacrifices and investments you have made for my future.
+
+
+
+
+v
+
+ACKNOWLEDGEMENT
+I give all glory and thanks to God Almighty for His boundless grace, wisdom, and
+strength throughout the length of my academic life. without His guidance and
+favors, it would have been impossible to complete this study. In times of doubt and
+uncertainty, His presence was my hope and strength.
+I am highly grateful to my parents/supporters especial Dada Ross, Lokwang Alfred,
+Baatom Ben Koryang Nasur Charles, Lodung Francis, Bilamoe Reymond, Lopeyo
+Simon Nading and Bwire Paul Wafula my research partner) for their unlimited love,
+kindness, and sacrifices, their guidance and belief in me have been the foundation
+of my quest for studies. Their encouraging words and blessings have been the
+driving force that has helped me get to this milestone, and I will forever be
+thankful for their contribution to my life.
+I would also like to express my sincerest thanks to my supervisor, Eng. Prof.
+Eleanor Wozei, for her invaluable guidance, patience, and constructive criticism
+throughout the duration of this study. Her professionalism and dedication not only
+had an impact on the quality of this research but have compelled me to grow
+academically and personally too. In a special way, I thank my project partner
+Lokwang Dominic for his continuous contribution and support in the making of this
+research.
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ...................................................................................... i
+DEDICATION ................................................................................... iv
+ACKNOWLEDGEMENT ......................................................................... v
+LIST OF FIGURES ............................................................................ viii
+LIST OF TABLES ............................................................................... ix
+LIST OF ACRONYMS AND ABBREVIATIONS ................................................. x
+CHAPTER ONE: GENERAL INTRODUCTION ................................................ 1
+1.0 BACKGROUND ............................................................................. 1
+1.1.0 PROBLEM STATEMENT ........................................................... 1
+1.1.1 MAIN OBJECTIVES ................................................................ 2
+1.1.2 SPECIFIC OBJECTIVES ........................................................... 2
+1.1.3 RESEARCH QUESTIONS ............................................................. 2
+1.1.4 JUSTIFICATION .................................................................... 3
+1.1.5 CONTENT SCOPE.................................................................. 3
+1.1.6 GEOGRAPHICAL SCOPE .......................................................... 4
+TIME SCOPE .................................................................................. 4
+CHAPTER TWO: LITERATURE REVIEW ...................................................... 5
+2.0 INTRODUCTION......................................................................... 5
+2.1.2 Case Studies of Implemented Wastewater Effluent Reuse Systems .... 8
+Water Factory 21, Orange County California ....................................... 8
+2.1.3 Sembcorp NEWater plants, Singapore ........................................ 9
+Treatment Of Wastewater Effluent to Meet Non-Potable Water Quality ...... 13
+2.1.4 Depth filtration ................................................................. 14
+2.1.5 Estimating the performance of a depth filter in the reduction of the
+turbidity of wastewater secondary effluent. ....................................... 15
+CHAPTER THREE: METHODOLOGY ....................................................... 19
+3.1.0 Determining the Physicochemical and Bacteriological Characteristics
+of Raw Ucu Effluent. .................................................................. 20
+3.1LABORATORY TESTS ............................................................... 20
+3.1.0 Biochemical Oxygen Demand (BOD5) ....................................... 20
+3.1.1 COLOR ............................................................................ 22
+3.1.2 pH value ......................................................................... 23
+
+vii
+
+3.1.3 Total coliforms .................................................................. 23
+3.1.4 E. coli ............................................................................ 24
+3.1.5 TURBIDITY ....................................................................... 25
+CHAPTER FOUR: RESULTS AND DISCUSSION ............................................ 27
+4.1 INTRODUCTION....................................................................... 27
+4.1.0 Physicochemical and Bacteriological Characteristics of Raw Effluent
+from The Ucu Wastewater Treatment Plant. ..................................... 27
+TURBIDITY ................................................................................. 28
+COLOR ...................................................................................... 30
+ESCHERICHIA. COLI (E. Coli) ............................................................ 31
+pH VALUE .................................................................................. 32
+4.1.8 Determining the cost benefit analysis. ....................................... 66
+4.1.9 Concrete Mix Design ............................................................ 66
+5.0 Conclusion ............................................................................... 77
+The higher-pressure nodes may need regulation to prevent excessive pressure and
+potential pipe damage in low laying areas ............................................... 77
+References ................................................................................... 79
+
+
+
+
+
+viii
+
+LIST OF FIGURES
+Figure 1: Sembcorp NEWater Plant in Singapore (Changi Water Reclamation Plant &
+Sembcorp NEWater Plant, 2023) ........................................................... 10
+Figure 2: A Reclaimed water pumping station for instream flow and agricultural
+irrigation (Mujeriego et al., 2008). ....................................................... 13
+Figure 3: A flow chart showing the unit process technologies for removal of
+particulate matter from treated wastewater effluent (Metcalf & Eddy Inc. et al.,
+2014). .......................................................................................... 14
+Figure 4: A flow chart showing options for the reduction of effluent turbidity .... 16
+Figure 5: trend over seven-year period ................................................... 30
+Figure 6: E. Coli trend over seven-year period .......................................... 32
+Figure 7: pH trend over seven-year period .............................................. 33
+Figure 11: show load profile ............................................................... 11
+Figure 12:showing the Distribution network (EPANET 2.2) ............................. 19
+Figure 13:showing pressure distribution ................................................. 22
+Figure 14:showing the graph of demand distribution. ................................. 23
+Figure 15: showing elevation differences ................................................ 23
+Figure 16:Payback period ................................................................... 74
+Figure 17: map of ucu extracted using Google earth ..................................... 1
+
+
+
+ix
+
+LIST OF TABLES
+Table 1: Estimating the performance of a second depth filter ....................... 16
+Table 2: The parameters tested to determine the effluent quality (Public Utilities
+Board (PUB), 2014). ......................................................................... 26
+Table 3: Shows Time taken to fill a 19L bucket of influent ............................ 34
+This approach enables safe and reliable supply of water to be reused for sanitary
+flushing while preventing risks of cross connection with the potable water system.
+Table 4: showing calculation table .......................................................... 2
+Table 5:showing the cost benefit analysis. ................................................. 5
+Table 6: showing Dataset for the distribution line. (coordinates) ................... 12
+Table 7: showing nodes variations ........................................................ 19
+Table 8:showing Links variations .......................................................... 20
+Table 9:Showing material acquisition ..................................................... 68
+Table 10:showing estimated cost of the materials ...................................... 71
+Table 11:showing present value using volume of 50m3/day .......................... 75
+Table 12:showing price list from Gentex enterprises .................................. 2
+
+
+
+
+
+
+x
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+AWWTP..................................... Activated Waste Water Treatment Plant
+BOD.......................................... Biochemical Oxygen Demand
+CAPEX.......................................Capital expenditure
+DF...................................................Discounting factor
+DN................................................Nominal diameter
+HDPE.............................................High density pipe
+LPS........................................... Liters per second
+NWSC....................................... National Water and Sewerage Corporation
+TPV.............................................. Total present value
+UF............................................. Ultrafiltration
+US EPA.................................... United States Environmental Protection Agency
+O&M..........................................operation and maintenances
+PI............................................. Profitability index
+PUB.......................................... Public Utilities Board (in Singapore)
+PN.............................................Nominal pressure
+UCU..........................................Uganda Christian University
+U-PVC.......................................Unplasticized polyvinyl chloride
+UV........................................... Ultraviolet (radiation)
+VOCs........................................ Volatile Organic Compounds
+
+xi
+
+WHO........................................ World Health Organization
+
+
+CHAPTER ONE: GENERAL INTRODUCTION
+1.0 BACKGROUND
+Uganda Christian university is currently using high quality potable water for nonpotable use in toilet and urinals, irrigation leading to incorrection use of treated
+water consequently the university incurs a substantial burden due to its
+dependence on potable water supplied by national water and sewerage
+corporation. Over the last years, UCU spent between UGX 30million and UGX 40
+million per month on potable water, equivalent to approximately 6000 to 7000
+cubic meters monthly (Mangene, 2025)
+Implementation of a wastewater effluent reuse would reduce the demand of
+potable water hence enhance sustainable environment by reducing volume of
+treated effluent discharged to environment.
+UCU activated wastewater treatment plant was commissioned in 2006 the first
+facility of it is kind in Uganda, it handles wastewater generated from the university
+residences including cooking, cleaning, washing and human waste management.it
+waste constructed to support on decentralized waste management, wastewater
+from toilet, showers and laundry areas is processed through a treatment system
+consisting of solid waste removal biological decomposition and chlorination.
+Influent from campus activities is converted to treated effluent that is safe for
+discharge into environment.
+1.1.0 PROBLEM STATEMENT
+Uganda Christians university currently relies on potable water for non potale uses
+such as flushing toilets and urinal plus irrigation resulting to inefficient allocation
+
+
+of quality water, as potable water is being used for task that do not reuire such
+standards the practice is unsustainable and contribute to unnecessary strains on
+the university`s water resources. UCU Has it`s financial burdens incurred to NWSC
+for low grade over a period of five years, ucu has consistently spent between thirty
+million to forty million with equal volume of treated water of 6000 cubic metre to
+7000 cubic meter monthly
+Implementation of a wastewater effluent reuse would reduce the demand of
+potable water hence enhance sustainable environment by reducing volume of
+treated effluent discharged to environment.
+1.1.1 MAIN OBJECTIVES
+To Assess the suitability of a wastewater effluent reuse in application for nonpotable use
+1.1.2 SPECIFIC OBJECTIVES
+1. To determine the physicochemical and bacteriological characteristics of UCU
+effluent.
+2. Determine the quantity of effluent discharge and design a non-potable water
+distribution system
+3. To conduct a comprehensive cost benefit analysis of the wastewater effluent
+reuse.
+1.1.3 RESEARCH QUESTIONS
+1. What are the physicochemical and bacteriological characteristics of raw
+UCU effluent.
+2. What is the amount of effluent discharge from wastewater treatment plant.
+
+
+3. What is the cost-benefit analysis of the wastewater effluent reuse system.
+1.1.4 JUSTIFICATION
+INTRODUCTION
+Institutions typical have high demand on water usage leading to substantial
+economic burdens due to the large volumes of water required for daily operation,
+application .at Uganda Christian university, this challenge is intensified by the
+misallocation of high-quality drinking water paid to National water and sewerage
+corporation at a cost of 30 million-40 million with equal volume of 6000-7000 cubic
+m most of this water is used for sanitary use. As a result of significant and
+continuous increasing financial expense, limiting the effective and suitable
+management of its potable resources.to address the problem, the university must
+adopt an alternative water source capable of serving the non-potable appliances
+Globally, many institutions facing similar challenges have successfully implemented
+wastewater reuse system (PUB, 2014). The approach involves treated wastewater
+to acceptable standards for non-potable uses such as toilet flushing, landscape
+irrigation and industrial cooling of equipment. Wastewater reuse has proven
+effective inclosing the water loop and reducing dependence on potable water
+supplies.
+1.1.5 CONTENT SCOPE
+This research is focused on determining the suitability of a wastewater effluent
+reuse system for non-potable applications in Uganda Christian University. This
+study strives to treat and compare effluent produced by the Uganda Christian
+University activated wastewater treatment plant to the guidelines of treated
+wastewater effluent quality for non-potable use (toilet and urinal flushing).
+
+
+1.1.6 GEOGRAPHICAL SCOPE
+This study is to be carried out in Uganda Christian University in the Activated
+Wastewater treatment plant.
+TIME SCOPE
+This research project commenced in June 2025 and will be completed in December
+2025.
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.0 INTRODUCTION
+Review gives information on the current research on the use of wastewater
+effluent for non-potable applications such as flushing in toilets and urinals,
+irrigation, and cooling of machinery in industries to mention but a few.
+The treatment and reuse of wastewater effluent for non-potable applications is an
+admirable strategy used to conserve potable water supplies in urban areas. The
+initial stage is the treatment of the wastewater effluent to meet non-potable
+water quality standards for toilet flushing. This is to reduce the risk human
+contamination and user acceptance of the project. This can reduce the demand for
+potable water in a community (Pandey, 2022). When wastewater effluent is
+incorporated into waste management, there is a closed loop in which water is
+transformed from a discharged waste into a precious resource.
+2.1.1 Physicochemical and Bacteriological Characteristics Ucu Wastewater
+Effluent
+Ucu Effluent Quality
+Effluent quality refers to the chemical, physical, and biological characteristics of
+the effluent generated by the UCU wastewater treatment plant in regards to the
+intended use. For water to be acceptable for use by the population, there must be
+no risk of disease contraction by the users and an aesthetically acceptable outlook
+of the reused water.
+A total of six water quality parameters were selected for this study (PUB, 2014).
+They include:
+
+
+a) Turbidity.
+The turbidity of effluent indicates the presence of suspended particles in the
+effluent. Filtration is type of treatment widely used to reduce turbidity of water.
+in this process, the wastewater effluent is passed through the porous medium to
+remove particulate matter (J. Shanthi Sravan, Leonidas Matsakas and Sarkar,
+2024). Membrane technologies used include; microfiltration and ultrafiltration
+which are used for advanced wastewater treatment because they are effective in
+removing micron sized particles.
+, preventing salt water (seawater) contamination and augmenting the region’s
+drinking water supply. Another technology widely used in wastewater filtration is
+sand filtration. Larger suspended particles like silt are physically trapped in the
+spaces or pores between the sand grains as wastewater trickles through sand
+layers. In addition, through the process of adsorption, small colloidal particles that
+pass through the sand’s pore spaces are trapped by adhesion on the surface of the
+sand grains.
+a) Color.
+Color is an important physical parameter that informs about the wastewater
+effluent composition, condition, and potential contaminants therein.
+In the treatment of wastewater effluent, chemical methods of treatment are often
+employed. The coagulation and flocculation processes are widely employed
+because they are highly effective in the decolorization of water (Ho, Chua and
+Chong, 2020). This involves the addition of chemical coagulants to destabilize the
+suspended particles and colored compounds in the wastewater effluent.
+
+
+In the treatment of wastewater effluent, it is crucial to have a neutral pH. This is
+because extreme pH values are fatal to both aquatic life and cause damage to the
+piping and plumbing systems in place aimed towards the reuse of effluent (El-
+Khateeb, Nashy and Nayl, 2020).
+The fundamental principal in pH correction is the addition of an acidic or basic
+chemical to adjust the pH of the wastewater effluent to a neutral range. For
+example, between 6.0 – 9.0.
+b) Total coliforms
+Total coliforms are a group of bacteria that are no exactly harmful, however their
+presence in wastewater effluent indicates the presence of certain disease-causing
+microorganisms. Total coliforms are found in all parts of the environment such as
+the soil, in vegetation, and in the guts of warm-blooded animals (Solomon
+Oluwaseun Akinnawo, Peter Odunayo Ayadi and Mathew Temitope Oluwalope,
+2023).
+Chlorine is widely used as a disinfectant because it disrupts the microbial cell
+membranes and inactive enzymes crucial for cell survival of the bacteria. The
+effectiveness of the chlorination by chlorine depends largely on the chlorine
+dosage, contact time, pH, and the presence of other interfering substances.
+c) Escherichia coli (E. coli)
+E. Coli is a common bacterium found in the intestines or gut of warm-blooded
+animals, including humans. The presence of e. coli in wastewater effluent
+indicates fecal contamination, and the presence of pathogenic microorganisms
+
+
+that are a health risk to the public and to the environment (Pallavali, Shin and
+Choi, 2023).
+E. Coli and other pathogens can also be treated using chemical disinfection with
+chlorine disinfection being one of the most used methods. Another method is
+ozonation where ozone, a powerful oxidant and disinfectant is used to inactivate
+microorganisms. In some cases, ozonation is preferred because of its ability to
+disinfect without forming harmful disinfection byproducts (Solomon Oluwaseun
+Akinnawo, Peter Odunayo Ayadi and Mathew Temitope Oluwalope, 2023).
+d) BOD5
+Biochemical oxygen demand over 5 days is an important parameter to determine
+the quality of the wastewater effluent. The concentration of BOD5 in water is
+indicative of the level of organic pollution present in the water. It is used to
+quantify the amount of dissolved oxygen consumed in the decomposition of organic
+matter by microorganisms (Maddah, 2022). Presence in organic pollutants in
+wastewater effluent increases the risk to human health if this effluent is reused
+for toilet flushing.
+2.1.2 Case Studies of Implemented Wastewater Effluent Reuse Systems
+Water Factory 21, Orange County California
+Water factory 21 is a large-scale ground water recharging facility located in
+Fountain Valley, Orange County California. It was founded by the Orange County
+Water District to augment and protect the scarce groundwater aquifers from
+seawater intrusion. The ground water aquifers in Orange County faced a problem
+of the drop of groundwater levels caused by the over excavation of groundwater
+
+
+and the intrusion of seawater into the aquifers. The solution employed is the use
+of municipal sewage effluent generated by approximately 2.5 million residents to
+recharge the groundwater aquifers. The first objective was to treat the secondary
+effluent to a high quality for injection in to the ground (OCWD, 2018).
+A tertiary treatment train was used to treat the secondary effluent which involved
+lime clarification, carbon adsorption, reverse osmosis, and chlorination as a multibarrier treatment train. This treatment was focused on meeting drinking water
+quality standards. Injection wells were used to deliver the highly treated water
+into the aquifer, which then served as a natural storage and distribution reservoir
+Results showed that the Water Factory 21 provided a high-quality Groundwater
+Replenishment System, a supply system that can trace contaminants, and longterm water security in a semi-arid region.
+2.1.3 Sembcorp NEWater plants, Singapore
+The Sembcorp NEWater plant is the world’s largest water reclamation plant
+operated by the Public Utilities Board of Singapore. It has a capacity of 228,000
+cubic meters per day. The challenge of water scarcity and national security have
+been vital in the driving of Singapore’s NEWater program which has been a vital
+initiative ever since its establishment because the country previously relied on
+imported water. Therefore, to diversify the nation’s water supply the scheme
+began to treat secondary effluent generated from the comprehensive sewerage
+network of the Island known as the Deep Tunnel Sewerage System (PUB, 2018). The
+non-potable applications considered are: flushing of water closets and urinals,
+general washing, irrigation, and cooling-tower make-up.
+
+
+
+Figure 1: Sembcorp NEWater Plant in Singapore (Changi Water Reclamation Plant &
+Sembcorp NEWater Plant, 2023)
+The NEWater plants a treatment system that comprises of three stages to make the
+effluent reach non-potable water quality standards as per their PUB guidelines.
+They include:
+a) Microfiltration or ultrafiltration to remove suspended solids and colloids.
+b) Reverse osmosis to remove viruses and salts.
+c) Ultraviolet disinfection and chemical disinfection.
+NEWater facilities produce tens to hundreds of millions of gallons of water per day
+in aggregated capacity and significantly contribute to Singapore’s water supply. A
+single plant is reported to meet approximately 12% - 15% of the water demand.
+The reported output it was discovered to have a very high microbial and chemical
+quality suitable for industrial reuse and other non-potable applications.
+The distribution system comprises of a ‘purple pipe’ system that is used to deliver
+the treated effluent to the industrial facilities and the other non-potable water
+applications (Opening of Singapore’s Fifth and Largest NEWater Plant, The
+Sembcorp NEWater Plant, 2025).
+
+
+The system design and selection went on as follows. After the characterization of
+the wastewater effluent to be reused, the data collected was used to identify
+worst case loads, typical loads, seasonal loads, and shock loads. This enabled PUB
+to clearly define the feedwater quality. Afterwards, the boards used removal
+performance data for the candidate treatment technologies of interest (membrane
+filtration, reverse osmosis, ultraviolet disinfection, and advanced oxidation) which
+they often obtained from pilot plants, such as the 2000 full-scale demonstration
+plant which would establish the suitable treatment train to achieve their desired
+water quality. To set the target water quality, PUB referenced WHO and the US EPA
+to attain high water quality standards. The board created mass balance and
+removal requirements for each contaminant as well as calculated log reductions
+that the treatment process must achieve to produce the desired water quality of
+the effluent.
+Informed by the pilot and baseline data, PUB selected the three-stage treatment
+train for NEWater mentioned above.
+Arizona State University (ASU) Tempe Campus, USA
+The Tempe Campus once faced the problem of heavy reliance on municipal water
+sources for non-potable applications which resulted in high operational costs and
+the need for water independence in an arid climate. The solution employed was
+the establishment of a wastewater effluent reusing system to offset the cost
+incurred due to the use of clean water for non-potable applications. The effluent is
+generated by the campus community (students, faculties, and staff residents) and
+nearby community (Tortajada, 2014).
+
+
+The wastewater is obtained from the municipal secondary treatment plant back to
+the wastewater effluent reclamation plant on the Tempe Campus. The treatment
+methods used are typically sand filtration and chlorination to meet the strict
+health standards for non-potable uses. The distribution system employed consists
+of color-coded pipe networks (purple pipes) constructed within the campus
+grounds to distribute the treated wastewater effluent to large landscaping
+irrigation systems, athletic fields and most importantly, toilet and urinal flushing in
+academic buildings.
+Coastal Metropolitan Area Schemes - Catalonia Spain
+A Barcelona coastal metropolitan reuse scheme was developed to address seasonal
+water scarcity. In addition, they were also developed to reduce pressure on surface
+water and groundwater sources and to prevent seawater intrusion in the LIobregat
+delta aquifer. The scheme sources secondary effluent from the metropolitan
+wastewater treatment plants. The end uses of the effluent include agricultural
+irrigation, wetland restoration and the prevention of seawater intrusion through a
+barrier.
+To meet district end-use water quality standards, the schemes use a four-stage
+treatment system. That is to say, filtration, advanced biological and chemical
+treatment, and finally disinfection. For the distribution system, bulk conveyance
+pipelines, pumping stations, and reservoirs designed to meet seasonal peak
+demands as well as the need to meet the intrusion barrier (Mujeriego et al., 2008).
+
+
+
+Figure 2: A Reclaimed water pumping station for instream flow and agricultural
+irrigation (Mujeriego et al., 2008).
+Treatment Of Wastewater Effluent to Meet Non-Potable Water Quality
+The tested parameters that did not meet the Singapore PUB guideline quality for
+non-potable water for toilet and urinal flushing are, turbidity, E. Coli, Total
+coliforms. This necessitates the use of a sequence of treatment units to polish the
+effluent and disinfect it to reduce the risk of microbial contamination of the users
+of the effluent reuse system.
+To select the appropriate treatment method, the following were taken in to
+careful consideration;
+a) What is the current quality of the effluent?
+b) What is the target effluent quality?
+c) What adjustment is desired in the effluent?
+d) What sequence of unit processes is most suitable to achieve the desired
+effluent quality?
+
+
+
+Turbidity
+To polish the effluent and remove reduce its turbidity, a filtration unit is proposed
+to make the effluent more aesthetically acceptable.
+Filtration in the process of physically removing suspended particles, solids, and
+other fine particles from a liquid as it passes through a permeable barrier or a
+porous medium that retain these particles and allow the liquid filtrate to pass
+through the filter medium (Yogafanny et al., 2020).
+To select the type of filtration to be employed, the following technologies were
+identified and assessed basing on their capabilities, viability, and availability in
+Uganda
+Figure 3: A flow chart showing the unit process technologies for removal of
+particulate matter from treated wastewater effluent (Metcalf & Eddy Inc. et al.,
+2014).
+2.1.4 Depth filtration
+This is a physical unit process that involves the physical removal of particulate
+matter and colloidal solids to a small extent from liquids passed through granular
+filter media. Depth filters operate by straining, sedimentation, interception,
+impaction, and adsorption (Metcalf & Eddy Inc. et al., 2014). A depth filter is the
+proposed treatment unit for polishing the wastewater effluent because of the
+principal mechanisms by which it operates.
+Filtrarion
+Depth
+Filtration
+Surface
+filtration
+Micro and
+ultrafiltration
+Reverse
+osmosis
+Electrodialysis
+Adsorption
+
+
+The principal mechanisms by which depth filters remove particulate matter
+include;
+a) Straining: where particles larger than the pores in the medium are trapped
+mechanically (Jiang et al., 2021).
+b) Sedimentation: where heavy particles in the liquid settle on the filter
+medium.
+c) Interception: when particulate matter in the liquid being filtered comes into
+contact with the surface of the filtering medium as is moves in a streamline.
+d) Adhesion: which occurs when particles become attached to the surface of
+the medium as they pass through the filter.
+e) Flocculation: occurs in the interstices of the filter medium where larger
+particles form due to the velocity gradients of the liquid as it is being
+filtered. Afterwards the particles are removed by any one of the above
+mechanisms.
+2.1.5 Estimating the performance of a depth filter in the reduction of the turbidity
+of wastewater secondary effluent.
+To determine whether a depth filter will be effective in the polishing of effluent
+from the UCU AWWTP, the following equation was employed to estimate whether
+the filtrate turbidity would meet the required turbidity quality of <2NTU.
+Filter effluent turbidity, NTU = 0.5 NTU + 0.2 (Filter influent turbidity, NTU)
+(Metcalf & Eddy Inc. et al., 2014)
+
+
+
+
+From the above calculation, a depth filter cannot achieve the desired turbidity
+(<2NTU). This could mean that either a depth filter is not an appropriate
+technology for this treatment, or another treatment unit can be employed to
+reduce the effluent turbidity before it is fed into the depth filter.
+
+Figure 4: A flow chart showing options for the reduction of effluent turbidity
+Theoretically, a second depth filter can reduce the effluent turbidity to a level
+that can be polished by a primary depth filter that meet the turbidity limit of
+<2NTU as shown in the calculation below.
+Table 1: Estimating the performance of a second depth filter
+Calculation
+Check
+Comment
+Filter effluent turbidity, NTU
+= 0.5 NTU + 0.2 * 7.48 NTU
+= 0.5 NTU + 1.496 NTU
+= 1.996 NTU
+Filter effluent turbidity, NTU =
+0.5 NTU + 0.2 (Filter influent
+turbidity, NTU)
+(Metcalf & Eddy Inc. et al.,
+2014)
+
+
+
+
+
+Secondary
+Wastewater
+Effluent
+Abandon
+the depth
+A second
+depth
+A
+Roughing
+A flow
+equalization
+tank
+A
+sedimentatio
+n tank
+Micro and
+Ultrafiltration
+
+
+E. COLI AND TOTAL COLIFORMS
+To protect human health, the microbiological characteristics (E. Coli and total
+coliforms) will have to be treated to acceptable levels according to the Singapore
+Public Utilities Board non-potable water quality guidelines for toilet flushing.
+The first step is to reduce the turbidity of the effluent because harmful pathogens
+can hide within the particles and suspended solids present in effluent rendering
+the disinfection ineffective.
+Identified disinfection technologies include;
+Chlorine dosing: dosing with chlorine involves the variation of dosage and contact
+time in order to determine the optimum dose that meets the chlorine demand in
+the effluent. This also entails determining the amount of residual chlorine required
+to continue disinfecting the non-potable water in the distribution lines.
+For the purpose of disinfection, chlorine dosing will be employed in this research
+because it is a technology already in place at the UCU activated wastewater
+treatment plant to disinfect wastewater effluent.
+Ultraviolet radiation (UV): This is a type of technology that is employed to
+deactivate disease causing microorganisms by damaging their genetic makeup.
+When ultraviolet light is incident on the cells of microorganisms, it damages the
+nucleic acid, i.e. DNA and RNA, which are necessary for their reproduction and
+multiplication (Pecson et al., 2020). UV radiation kills all types of pathogens
+including viruses, protozoa, and bacteria. It is usually used in the disinfection of
+drinking water, wastewater, and water to be reused for various applications.
+
+
+Factors to be considered for UV dosing for effective disinfection include; the
+exposure time of water to the radiation, the availability of
+a) Water quality: Ultraviolet disinfection is only effective in water or
+wastewater effluent that has a low concentration of suspended solids,
+turbidity, and color (PUB, 2014).
+b) UV transmittance
+c) Residual disinfectant: UV disinfection does not provide residual disinfectant
+in the wastewater effluent. This necessitates the need for a chemical
+disinfectant such as chlorine to inhibit the growth the distribution system.
+
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.0 INTRODUCTION
+The reuse of treated wastewater (effluent) for non-potable applications (toilet
+flushing in particular) is a sustainable water conservation and resource
+management strategy. This chapter serves to provide an academic and scientific
+rationale for selecting key parameters to determine the physical, chemical, and
+biological parameters for the quality assessment of UCU’s effluent which is
+intended to be reused for toilet flushing. The selected parameters are relevant to
+guaranteeing the safety, aesthetic acceptability, and long-term viability of a water
+reusing system. The selection is justified by their impact on human health, system
+longevity, and user acceptance.
+There is no single, universal standard for non-potable water quality for flushing
+toilets. Instead, the standards for water reuse vary widely from country to country
+and are regulated by a "fit-for-purpose" approach, i.e., water quality is managed
+to be safe to use and to pose no hazard to public health and the environment.
+Given that this research is taking place in Uganda, a country that experiences
+tropical climate and tropical weather patterns, the Singapore non-potable water
+standards for toilet and urinal flushing will be used to ensure the treated effluent
+meets public health standards for Uganda’s climatic conditions. Singapore is
+located near the equator which results in a tropical climate with high
+temperatures and high humidity all year-long (Department of Statistics Singapore,
+2025).
+
+
+3.1.0 Determining the Physicochemical and Bacteriological Characteristics of
+Raw Ucu Effluent.
+Effluent discharged into water or on land by any establishment must be treated
+based on the best practicable means, that is to say, environmentally sound
+practice and in compliance with the relevant guidelines (Standards for Discharge of
+Effluent into Water or on Land Regulations, 1999). National Environment
+Management Authority
+Procedure for sample collection
+1. Prepare the necessary equipment and apparatus for the field work. This
+includes sample collection containers and gloves. The containers are
+cleaned using distilled water to prevent any contamination of the raw
+sample.
+2. The UCU AWWTP (sampling location) is then accessed with clearance from
+the plant operator. This is to ensure all project activities are authorized and
+do no cause alarm to the concerned officials of the plant. A 1.5L
+representative sample was obtained from the effluent discharge point in the
+UCU AWWTP. This procedure was repeated twice, once in the afternoon and
+once in the evening monitor any variation with in the day.
+3. The sample was then transported to the UCU Environmental Quality Lab in a
+cooler box to protect it from sunlight.
+3.1LABORATORY TESTS
+3.1.0 Biochemical Oxygen Demand (BOD5)
+BOD5 is a measure of the amount of dissolved oxygen in water required by
+microorganisms to aerobically breakdown (oxidize) organic matter present in a
+
+
+water sample with in a given period of 5 days. BOD concentration is indicative of
+the extent of organic pollution of the water or effluent in the case of this
+research. Water with a high BOD indicates a high concentration of organic
+pollutants.
+1. Collect raw effluent samples in clean sterilized containers.
+2. Two BOD bottles were obtained and cleaned with distilled water.
+3. 300ml of the collected samples were added into 2 BOD bottles. One for
+afternoon sample and another for evening sample.
+4. 50ml of Sodium thiosulphate solution were added into each BOD bottle. The
+bottles were then shaken gently to evenly mix the solution.
+5. Using a syringe, 1ml of manganese solution, sodium solution, and
+concentrated sulfuric acid were each added to the two samples in the BOD
+bottles and they are gently shaken to create a homogeneous solution.
+6. The bottles are then left to settle for about 2 minutes.
+7. Using a measuring cylinder, 100ml of each sample is added into a conical
+flask each.
+8. Place each of the conical flasks under a burette and read off the initial
+readings of the sodium thiosulfate solution in the burette. Titrate sodium
+thiosulfate into each of the conical flasks until the solutions become
+colorless.
+9. Read and record off the final burette reading.
+10. Incubate the two BOD bottles at 35oC for 5 days.
+11. After five days, repeat the procedure from step 5 to step 9.
+
+
+12. The BOD5 result is then calculated using the burette reading obtained.
+The collected samples were taken to the UCU Environmental Quality Lab to
+determine the physicochemical and bacteriological characteristics of the raw
+effluent from the UCU wastewater treatment plant. The parameters were selected
+based on the Public Utilities Board (PUB), of Singapore because this country
+experience tropical climates like Uganda, with no distinct seasons like winter and
+summer, but rainy and sunny weather all year long with high temperatures and
+high humidity (Department of Statistics Singapore, 2025).
+source of the effluent i.e. toilets and bathrooms in the halls of residence, staff
+quarters, lecture blocks, public sanitary facilities and the Janani Lowum dining hall
+in UCU.
+3.1.1 COLOR
+The effluent color is an aesthetic parameter that quantifies color imparted into
+water by dissolved substances (true color) and suspended materials (apparent
+color), indicating potential contamination and aesthetic issues (Omer, 2019). User
+perception is greatly dependent on the color of the effluent.
+1. The raw effluent sample is collected and inspected for its apparent color.
+2. The effluent samples’ color is determined using an optical apparatus by
+filling a blank with the sample until the bottom of the meniscus reaches the
+bottle’s mark.
+3. After inserting the blank into the apparatus, the read button is pressed. The
+color reading is taken and then recorded.
+
+
+3.1.2 pH value
+pH is the measure of how acidic or how basic the effluent is on a scale of 0 to 14.
+The pH of the effluent is critical for the effectiveness of other treatment measures
+such as chemical disinfection through chlorination. pH also influences the potential
+for corrosion of pipes and fixtures.
+1. A standard buffer solution with established pH values was used to calibrate
+the pH meter.
+2. The pH meter was used to determine the pH values of the raw effluent
+sample, then results were read and recorded.
+1. The petri dishes are then incubated at 36oC for 24 hours.
+2. After 24 hours had elapsed, the petri dishes were removed from the
+incubator colonies were counted. The number of colonies formed was then
+taken as the E. Coli colony count.
+3.1.3 Total coliforms
+Measuring total coliform concentration in wastewater effluent is significant as they
+are a composite parameter of water quality and treatment efficiency. While E. coli
+particularly points towards fecal contamination, the total coliform group consists
+of bacteria from a more diverse array of environmental sources such as soil, plant
+material, and putrefying organic matter. Total coliforms are largely harmless, but
+their existence shows there is a pathway present for more dangerous pathogens to
+enter the system.
+
+
+
+1. A culture media is prepared by mixing 2.55g of violet red agar in 100ml of
+distilled water, and boiled for 2 minutes with continuous mixing until it
+completely dissolves. Sterilized petri dishes are then filled with the agar
+and allowed to settle so that the agar cools and solidifies.
+2. The components of the membrane filtration are autoclaved to sterilize them
+and assembled afterwards.
+3. The collected effluent sample is well shaken and 100ml of the sample is
+poured into the funnel.
+4. After filtration, the sterilized forceps were used to place the filter paper in
+a violet red agar plate and then covered and labeled with the sample name.
+5. The petri dishes are then incubated at 36oC for 24 hours.
+6. After 24 hours of incubation, the petri dishes were removed from the
+incubator and the number of colonies formed are counted and considered as
+the total coliform result.
+3.1.4 E. coli
+3. 2.55g of MacConkey agar is mixed with 100ml of distilled water and boiled
+for 2 minutes with continuous mixing to ensure all the agar is dissolved into
+the water. 10ml of the agar is then poured into sterilized petri dishes and
+allowed to cool.
+4. The membrane filtration apparatus is then placed into an autoclave to
+sterilize them and assemble them afterwards.
+5. The raw effluent sample is thoroughly shaken and 100ml of the sample is
+measured and poured in the funnel in the membrane filter.
+
+
+6. After filtration, the funnel was removed and membrane filter paper was
+transferred to the MacConkey agar in the petri dishes using sterilized
+forceps.
+7. The MacConkey agar plates are then covered and labeled with sample name.
+3.1.5 TURBIDITY
+Turbidity is a measure of the clarity of the effluent indicating the presence of
+suspended particles such as silt, sludge and inorganic matter. Turbidity is critical in
+this study because suspended solids in the effluent can create a hiding place for
+pathogens, protecting them from disinfection treatment methods such as
+ultraviolet (UV) light. The turbidity of raw effluent was measured using a
+turbidimeter instrument and the SI units are NTU (Nephelometric Turbidity Units).
+1. Using a standard calibration solution with known turbidity values, the
+turbidimeter is calibrated.
+2. The raw effluent sample is collected from the effluent discharge point.
+3. The effluent sample is then placed in a turbidimeter which determines the
+turbidity by measuring the degree at which light is scattered at 900 by
+suspended particles.
+4. The result is then read and recorded from the turbidimeter in
+Nephelometric Turbidity Units.
+
+
+
+Table 2: The parameters tested to determine the effluent quality (Public Utilities
+Board (PUB), 2014).
+S/No. Parameter
+PUB guideline
+Unit
+Odor
+Non offensive
+
+Color
+<15
+Hazen units
+PH
+6-9
+
+Turbidity
+<2
+NTU
+BOD5
+<5
+Mg/l
+E. coli
+Non detectable
+CFU/100ml
+Total coliform
+<10
+CFU/100ML
+
+The sampling location is UCU Wastewater treatment plant in Mukono. The purpose
+of this sampling was to determine the characteristics of raw effluent which will
+inform the type of treatment required to meet the non-potable water standards
+for toilet flushing identified (Technical Guide for Greywater Recycling 1 st Edition:
+V2-Sep 2014). These guidelines were established to aid in the recycling of
+greywater for non-potable applications such as toilet and urinal flushing, general
+washing, irrigation, and cooling tower make up water.
+
+
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.1 INTRODUCTION
+secondary data was obtained from the UCU activated wastewater treatment plant
+office to help compare the parameter quality of the effluent. This information
+contained data collected on several parameters to determine the compliance of
+the plant to the National Standards for Wastewater effluent discharge into the
+environment from 2014 to 2023. three parameters (BOD5, E. Coli, and pH) in the
+secondary data are considered in this study and not all months of the years in that
+period are accounted.
+Effluent samples were collected at two different times: afternoon (2pm), and
+evening (4pm). The key parameters tested were pH, turbidity, color, E. coli, total
+coliform, and BOD5. The findings were guided by the Singapore’s Public Utilities
+Board's Technical Guide for Greywater Recycling (PUB, 2014), which was selected
+because it gives the non-potable water quality requirements for toilet and urinal
+flushing.
+4.1.0 Physicochemical and Bacteriological Characteristics of Raw Effluent from
+The Ucu Wastewater Treatment Plant.
+The parameters of interest are turbidity, pH, color, E. coli, total coliforms, and
+BOD5. These parameters will be monitored before treatment, after treatment and
+during distribution of the effluent.
+The standards and guidelines considered for this study are the National
+Environment Standards-for Discharge of Effluent into Water or Land and the
+Singapore Public Utilities Board (PUB) guidelines. They are contrasted with the
+obtained lab results as follows.
+
+
+TURBIDITY
+Turbidity is the measure of the cloudiness or haziness of the effluent caused by the
+presence of suspended particles like silt, clay, and organic matter. It is measured in
+Nephelometric Turbidity units (NTU).
+Secondary data obtained from the activated AWWTP did not provide information
+regarding the turbidity of the effluent.
+the turbidity value was found to be 18.2 NTU In the afternoon and was 34.9 NTU.
+the evening value This result is typical of secondary effluent which has not gone
+through tertiary treatment like filtration. The effluent turbidity values do not
+comply with the Singapore PUB guidelines, (<2 NTU). This might be an indication of
+an upset or hydraulic surge in the wastewater treatment process.
+For the atmospheric conditions, there was a rain storm before the evening sample
+was collected which might have resulted in disturbance of the wastewater in the
+wastewater treatment plant, resulting raising of any settled particles in the desludging chamber. This therefore explains why the evening turbidity value is higher
+that the afternoon value.
+The turbidity results support the necessity for filtration, specifically sand filtration
+given the high levels of turbidity. Reducing the turbidity of the effluent will
+prevent suspended particles from shielding pathogens from applied disinfectants
+such as chlorine.
+
+
+
+
+
+TOTAL COLIFORMS (TC)
+Total coliforms are group of bacteria indicating the general microbiological quality
+of water, rod shaped organism found widely in the environment (soil, plants)
+intestinal tracts of warm-blooded animals.
+The total coliform counts recorded 276CFU/100ml in the afternoon and
+95CFU/100ml in the evening showing the lower count in the evening than to the
+afternoon may be attributed to the dilution effect of rainfall.
+BIOCHEMICAL OXYGEN DEMAND BOD5
+Represent the amount of oxygen dissolved by aerobic microorganisms to break
+down organic matter in a sample water over a period of five days. the BOD5 value
+for afternoon and evening where within the limit according to Singapore PUB limit
+of <5mg/L meeting the environmental standards for effluent discharge and
+compliance with UCU wastewater treatment plant in removing soluble organic
+pollutants.
+
+
+
+Figure 5: trend over seven-year period
+BOD5 concentration shows the extents of organic pollution in water. BOD5 levels in
+effluent sample indicate a presence of organic matter from wastewater this allows
+insight into how effective treatment system is removing organic particle.
+treatment process, organic matter is reduced through the action of aeration where
+blowers are introduced into wastewater to provide air to promote aerobic
+microbial breakdown of the loaded organism in the effluent likely to originates
+from students’ residence and quest quarters, DH and campus offices where organic
+discharged into toilets and food rests flushed into the system.
+COLOR
+The clarity of the water is determined by Color, any total suspended particles
+change the color of water is the water quality parameter which refers to the
+presence of dissolved or suspended substances that cause water to appear
+discolored.
+the afternoon results were 8 PtCo in and 2.3 PtCo in the evening. These both
+complied with the PUB guidelines of <15 PtCo. A low color indicates a low
+BOD5
+Years
+
+
+concentration of organic compounds that may make water or effluent dirty and
+unappealing observation affecting public acceptance.
+ESCHERICHIA. COLI (E. Coli)
+E. coli is indicator used to assess the microbiological quality of wastewater
+effluent, its presence fecal contamination. According to PUB guidelines, treated
+wastewater must be zero E. coli in a 100ml sample (PUB, 2014). These stringent
+standards exist because, although E. coli its self is generally not pathogenic, serves
+as dependable indicator of the possible harmful fecal origin of pathogens like
+salmonella therefore detecting E. coli sign of treatment process has not fully
+eliminate fecal contamination.
+Microbial count from effluent show that contamination from human waste while E.
+coli colony counts are lower than those in raw sewage indicating that some
+pathogens are removal during treatment, they are capable of exceeding the limits.
+The afternoon sample recorded 385 CFU/100ml, evening 334 CFU/100ml both are
+not meeting guideline
+
+
+
+Figure 6: E. Coli trend over seven-year period
+In the secondary data, the E. Coli levels were significantly higher on 16th April,
+2020. In this period, the world was struck by the COVID-19 virus. The President of
+the Republic of Uganda initiated a lockdown in the country from 30th March to 30th
+June (Katana et al., 2024). The very high level of E. coli detected in the effluent
+on 16th April, 2020 could be a result of the scaling down of the wastewater
+treatment plant operations because the operators were either at home or had
+limited access to the premises.
+pH VALUE
+pH measures the acidity or alkalinity of the effluent by indicating the
+concentrations of hydrogen ions. the pH scale ranges from 0-14, with 7
+representing neutral value, values below 7indicate acidity while above 7 indicate
+alkalinity.
+The measured effluent pH value of 9.1 in the afternoon and 9.2 in the evening fall
+outside the Singapore PUB guideline range of 0.6-0.9. to adjust the effluent to the
+5,000,000
+10,000,000
+15,000,000
+20,000,000
+25,000,000
+E. Coli
+Years
+
+
+required range, dosing with sulfuric acid is necessary to slightly reduce pH. pH
+levels are likely to be influenced by alkaline cleaning products used in residence
+halls and staff houses and detergents as well as food waste from kitchens.
+Secondary data indicates that over the past seven years, the effluent pH has
+generally remained within the acceptable limits set by the Singapore PUB for nonpotable water used in toilets flushing. (6.0-9.0)
+From 18`th/November 2023 -15`th February 2025 effluent PH consistently
+remained within the range of 6-8. Data shows that the effluents the effluent was
+more acidic which may have resulted from the use of acidic cleaning products and
+disinfectants in campus toilets and bathrooms such as hydrochloric acid (HCL) the
+recent primary data shows that the effluent is slight alkaline suggesting increased
+use of alkaline compounds like sodium carbonate which elevate the pH
+
+Figure 7: pH trend over seven-year period
+
+
+pH
+Years
+
+
+4.1 Influent discharge.
+The wastewater treatment plant receives both grey and block from halls of
+residents, office and staff quarter and discharges all the liquid to the screening
+point as the past treatment process then later to equalization chamber and
+sedimentation take
+Table 3: Shows Time taken to fill a 19L bucket of influent
+S/No
+Volume (m3)
+Time (s)
+14.20
+15.30
+15.31
+
+Average time t to fill a 15L bucket.
+t = (14.20 + 15.30 + 15.31) / 3
+t = 15.27s
+influent discharge = volume of fluid / time (Munson, Young and Okiishi, 2019)
+Volume of effluent = 19 L
+Volume to SI units = 19/1000
+= 0.019m3
+influent discharge = 0.019m3/15.27s = 0.0012m3/s
+
+
+Effluent discharge, the effluent from the waste water treatment after
+convectional treatment is done is discharge to the environment through drain pipe
+of 110mm, for this purpose, the effluent need to retreated for non-potable use
+that toilet and urinal flushing (Putera ZXee, 2024).
+: Shows Time taken to fill a 19L bucket of effluent
+S/No
+Volume (m3)
+Time (s)
+8.23
+8.24
+8.27
+
+Average time t to fill a 19L bucket.
+t = (8.23 + 8.24 + 8.27) / 3
+t = 8.25 s
+Effluent discharge = volume of / time (Munson, Young and Okiishi, 2019)
+Volume of effluent = 19 L
+1m3=100l
+Volume to SI units = 19 / 1000
+Volume = 0.019m3
+Effluent discharge = 0.019m3/ 8.25 s
+= 0.0023m3/s
+
+
+4.1.1 Effluent treatment.
+According to parameter tested, most of the parameters did not meet the guideline
+standards, turbidity, color, total suspended solids PH, total collide forms and Ecoli. The suggested treatment process would be slow sand treatment think the
+rationale of the above can fall within the treatment mechanism incorporated with
+the plain sedimentation to allow for pretreatment and sludge settlement before
+discharging to the filters that may clog with the short time.
+Required parameters for the treatment process are flow rate of the effluent
+(Qm3/day) per day, surface area (A m2), filtration rate/day, filtration velocity, sand
+depth, filter bed volume sand porosity, contact time and pore volume.
+Designing a wastewater treatment system.
+Depth filtration: will involve the physical removal of suspended particles from the
+secondary effluent passed through a granular filter media.
+Mechanisms: straining, sedimentation, interception, adhesion, and flocculation.
+Effectiveness of depth filtration.
+Filter effluent turbidity, NTU = 0.5 NTU + 0.2 (filter influent turbidity, NTU)
+(Metcalf & Eddy Inc. et al., 2014).
+Effluent particle typical size: 51.01μm (using microscopic image analysis)
+Filter medium characteristics: 0.45mm (Metcalf et al., 2013)
+Filter Influent flowrate (0.0023 m3/s)
+Filtration rate: 2.5m3/m2hr
+The sand filter operation the filtration rate is relatively low (0.1and 0.3m3/hr.), for
+the filtration rate of 2.4 m3/m2.day which is moderate with the contact time of
+
+
+3.5hr which is ideal for biological activity and particles removal the area of 82.8m2
+and discharge of 8.28m3/hr. is under sand filtration.
+(ministry of water and environment water supply design manual second edition)
+Determine the volume/quantity of effluent to supply the sanitary applianc
+
+
+
+
+4.1.2 WATER DEMAND
+supply of treated effluent will as per the number of appliances to be supplied that
+is the number of flushing toilet and urinal in respect to the users, that is students
+and staff whose sanitary appliances are connected to existing wastewater
+treatment of UCU.
+effluent from the UCU wastewater treatment plant is used as treated pilot- scale
+horizontal subsurface constructed wetland. Once the quality of the effluent meets
+the target parameters for non- potable reuse, a dual-pipe water system will be
+installed to supply the recycled water for flushing toilets, urinals and for irrigation.
+(Mosher, 2015).
+According to Mosher (2015) design requirements, a separate reclaimed water
+distribution network should be developed to avoided cross contamination between
+potable water and non-potable water. The reused water will be conveyed from the
+clean water tank through outlet into a dedicated storage tank sized to hold a
+volume equivalent to at least 1.5 days of flushing demand. (Saudi Organisation for
+Standardization, Metrology and Quality, 2013).
+As recommended in the Handbook on Feasibility studies for water reuse system,
+backflow prevention devices and labelling at all outlets points will be part of the
+reuse system. A monitoring plan should encourage so that the treated water is in
+line with non- potable reuse standards taking a priority on parameters such as
+BOD, TSS coliforms, and turbidity. Continuous application of chlorine in the system
+to allow for periodic chlorination of the treated effluent to facilitate safe
+microbial quality during storage and transportation (New Zealand Water and
+Wastewater Association, 2002).

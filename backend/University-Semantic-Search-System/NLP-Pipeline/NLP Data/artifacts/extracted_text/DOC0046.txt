@@ -1,0 +1,1208 @@
+ 
+GREYWATER MANAGEMENT IN EDUCATIONAL FACILITIES : A CASE STUDY 
+OF BISHOP SECONDARY SCHOOL, MUKONO 
+ 
+BISMARK CHEPTOEK  
+S21B32/101  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+i 
+ 
+ABSTRACT  
+Greywater management in educational institutions presents a viable solution to water 
+scarcity and sustainability challenges. This research focuses on design and 
+implementation of a greywater treatment system for Bishop Secondary School, 
+Mukono. The research assessed the sources, volumes and characteristics of greywater 
+generated within the school identifying key physical chemical and biological 
+parameters. Preliminary tests indicated high COD, BOD, TSS, E.coli and TP values in 
+comparison to the national standards.  
+The main objective of this research and the design were achieved. The design consists 
+of a batch treatment system using kaolin clay as an adsorbent followed by filtration 
+through a sand and gravel column. This will ensure that the greywater is treated to 
+the required standards before reuse supplementing non drinking water needs such as 
+toilet flushing and cleaning.  
+The use of natural Kaolin clay enhanced the treatment process with high percentage 
+reduction in all quality i.e. BOD, COD, TSS, E.coli and TP with percentage reductions 
+between 10% and 55%.  
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+DECLARATION  
+I CHEPTOEK BISMARK hereby declare that this research proposal is my original work 
+and has never been submitted to any institution for any award. Any other sources of 
+information referred to are herein duly acknowledged.   
+Signature: …………………………………                                     Date: ……………………………….  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+APPROVAL  
+This is to certify that this research titled, “greywater management in educational 
+facilities” was carried out under my supervision as the academic supervisor and is now 
+ready for submission for examination.  
+Mr. Job Gava 
+Signature: ………………………                                                 Date: 
+…………………………………… Supervisor.  
+  
+ 
+
+iv 
+ 
+ 
+ACKNOWLEDGEMENT  
+First of all, I would like to thank the ALMIGHTY GOD for enabling me complete my 
+final year research and design project successfully.   
+Special thanks go to all the management of Bishop Secondary School, Mukono for 
+allowing me to do my research and for the unending advice and support. Sincere 
+thanks to the manager of the wastewater treatment plant.   
+Special thanks also go to my faculty supervisor, Mr. Job Gava for the follow up and 
+support during this period. I am so much grateful for your comments, advice and 
+encouragement. I would also like to thank my partner Mrs. Kobuzare Desire for the 
+work input during the period of this research.   
+Finally, I would like to thank my parents Mr. Kiplangat Alex and Mrs. Patrici Chemutai 
+for the emotional and financial support during this time.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+DEDICATION  
+This report is dedicated to my beloved parents and the family members who were 
+very patient with me during the course of this research. Thank you very much for the 
+continued words of encouragement and financial support towards the completion of 
+my final year project research and design.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+ 
+Table of Contents 
+ABSTRACT ....................................................................................................................................... i 
+DECLARATION ................................................................................................................................ ii 
+APPROVAL ..................................................................................................................................... iii 
+ACKNOWLEDGEMENT .................................................................................................................. iv 
+DEDICATION ................................................................................................................................... v 
+LIST OF FIGURES ........................................................................................................................... x 
+LIST OF ABBREVIATIONS ............................................................................................................ xii 
+CHAPTER ONE: INTRODUCTION .................................................................................................. 1 
+1.1Background and Introduction ........................................................................................... 1 
+1.2 PROBLEM STATEMENT ....................................................................................................... 2 
+1.3.1Main Objective ............................................................................................................ 2 
+1.3.2 Specific Objectives .................................................................................................... 2 
+1.3.3 Research Questions ................................................................................................... 3 
+1.4 JUSTIFICATION ................................................................................................................... 3 
+1.5 Geographical Scope .......................................................................................................... 5 
+CHAPTER TWO: LITERATURE REVIEW ....................................................................................... 6 
+2.1 Waste water ....................................................................................................................... 6 
+2.1.1 Legislation on wastewater ..................................................................................... 10 
+2.1.2 Wastewater Treatment Methods ........................................................................... 12 
+2.1.3 Decentralized Wastewater Treatment Systems ................................................. 15 
+2.1.4 Climate Change Impacts on Wastewater Treatment ........................................ 16 
+2.1.5 Removal of PPCPs .................................................................................................... 17 
+2.1.6 Resource Recovery from Wastewater .................................................................. 18 
+2.1.7 Water Reuse: ............................................................................................................ 18 
+2.2 Green and Nature-Based Treatment Solutions .......................................................... 19 
+2.2.1 Smart Water Technologies and Digitalization .................................................... 20 
+2.2.2 Social and Institutional Aspects of Wastewater Management ......................... 21 
+2.3 Grey water ........................................................................................................................ 22 
+2.3.1 PH in grey water ...................................................................................................... 23 
+
+vii 
+ 
+2.3.2 Solids in grey water ................................................................................................. 23 
+2.3.3 Biological Oxygen Demand (BOD) in grey water. ............................................... 24 
+2.3.5 Pathogens in grey water. ....................................................................................... 25 
+2.4 Greywater Treatment Technologies ............................................................................ 26 
+2.4.1. Physical and Chemical Treatment Methods....................................................... 26 
+2.4.2 Biological Treatment Processes ............................................................................ 26 
+2.4.3 Constructed Wetlands (CW) ................................................................................... 27 
+2.4.4 Membrane Bioreactor (MBR) Technology ............................................................. 28 
+2.4.5 Sand Filtration Systems .......................................................................................... 29 
+2.5 Coagulation and Flocculation Processes ..................................................................... 30 
+2.5.1 Major Mechanisms in Coagulation and Flocculation: ........................................ 31 
+2.6 Kaolinite and Its Properties as an Adsorbent ............................................................. 31 
+2.6.1Structural and Chemical Properties of Kaolinite ................................................ 31 
+2.6.2Adsorption Capacity of Kaolinite ........................................................................... 32 
+2.6.3 Application of Kaolinite in Greywater Treatment ............................................. 33 
+2.6.4 Adsorption Mechanism on Kaolinite ..................................................................... 33 
+CHAPTER THREE: METHODOLOGY ........................................................................................... 35 
+3.1Sample Collection ............................................................................................................. 35 
+3.1.1 Determination of the Physico-Chemical Quality of the Greywater ................ 35 
+3.1.2 Biochemical Oxygen Demand (BOD) ..................................................................... 35 
+3.1.3 Chemical Oxygen Demand (COD) .......................................................................... 36 
+3.1.4 Total Suspended Solids (TSS) ................................................................................. 36 
+3.1.5 Total Phosphorus (TP) ............................................................................................. 37 
+3.1.6 E. coli Determination .............................................................................................. 37 
+3.2 Determination of Optimum Dosage for Kaolin Powder ............................................ 37 
+3.3 Determination of Removal Efficiency .......................................................................... 37 
+3.4 Design of Greywater Treatment System ..................................................................... 38 
+CHAPTER FOUR: RESULTS AND DISCUSSION ........................................................................... 39 
+4.1 Sources and volumes of grey water generated per capita per day. ...................... 39 
+4.2 Physical, Chemical, and Bacteriological Properties of Greywater......................... 41 
+4.2.1 Physical Properties of Greywater ......................................................................... 41 
+4.2.2TOTAL PHOSPHATES ................................................................................................. 42 
+
+viii 
+ 
+4.2.3 pH Levels ................................................................................................................... 43 
+4.2.4 The biochemical oxygen demand (BOD) .............................................................. 44 
+4.2.5 Chemical Oxygen Demand (COD) Analysis ........................................................... 45 
+4.2.6 Escherichia coli (E. coli) ......................................................................................... 46 
+4.3 Percentage Removal of Contaminants in Greywater Treatment System .............. 47 
+4.3.1 Chemical Oxygen Demand (COD) .......................................................................... 47 
+4.3.2 Biochemical Oxygen Demand (BOD) ..................................................................... 48 
+4.3.3 Total Suspended Solids (TSS) ................................................................................. 49 
+4.3.4 Total Phosphorus (TP) ............................................................................................. 50 
+4.3.5 Escherichia coli (E. coli) ......................................................................................... 51 
+4.3.6 pH Adjustment ......................................................................................................... 52 
+4.4 Adsorption Isotherms of Greywater Contaminants on Kaolin Clay ......................... 53 
+4.4.1 Chemical Oxygen Demand (COD) .......................................................................... 53 
+4.4.2 Biochemical Oxygen Demand (BOD) ..................................................................... 55 
+4.4.3 Total Suspended Solids (TSS) ................................................................................. 56 
+4.4.5 Total Phosphorus (TP) ............................................................................................. 57 
+4.5 Greywater Treatment System Design .......................................................................... 57 
+4.5.1 Adsorption Tank Design .......................................................................................... 58 
+4.5.2 Filtration Tank Design ............................................................................................. 59 
+4.6 Integration of Adsorption and Filtration ..................................................................... 61 
+4.7 Design Calculations ......................................................................................................... 62 
+4.7.1 Filtration Tank: ........................................................................................................ 63 
+CHAPTER FIVE:  CONCLUSION AND RECOMMENDATIONS ..................................................... 66 
+5.1 CONCLUSION ..................................................................................................................... 66 
+5.2 RECOMMENDATIONS ........................................................................................................ 67 
+REFERENCES ................................................................................................................................ 69 
+APPENDICES ................................................................................................................................. 78 
+APPENDIX A: Pictorial ............................................................................................................ 78 
+Appendix B: Laboratory Results .......................................................................................... 79 
+ 
+ 
+
+ix 
+ 
+ 
+ 
+
+x 
+ 
+LIST OF FIGURES  
+Figure 1: showing the sources and total amount of grey water generated in 5 days .. 39 
+Figure 2: showing the proportion of grey water generated by boys dormitory and girls 
+dormitory in five days ........................................................................... 40 
+Figure 3: showing the trend   of the total suspended solids (TSS) in the grey water 
+generated by the sample A and sample B. ................................................... 42 
+Figure 4: showing the trend   of the total PHOSPHATES(TP) in the grey water 
+generated ......................................................................................... 43 
+Figure 5: showing the variation of pH in the grey water generated across five days .. 44 
+Figure 6: showing the proportion of BOD in the grey water generated across five days
+ ..................................................................................................... 45 
+Figure 7: showing the distribution of the COD in the grey water generated in five days.
+ ..................................................................................................... 46 
+Figure 8: showing the proportion of the total coliforms in the grey water generated 47 
+Figure 9: Percentage removal of COD ........................................................ 48 
+Figure 10: Percentage removal of BOD ....................................................... 49 
+Figure 11: : Percentage removal of TSS ...................................................... 50 
+Figure 12: Percentage removal of TP ......................................................... 51 
+Figure 13: Percentage removal of E.COLI .................................................... 52 
+Figure 14: Percentage of pH ................................................................... 53 
+Figure 15: Langmuir Isotherm for COD ....................................................... 54 
+Figure 16: Langmuir Isotherm for BOD ........................................................ 55 
+Figure 17: Langmuir Isotherm for TSS ........................................................ 56 
+
+xi 
+ 
+Figure 18: Langmuir Isotherm for TP ......................................................... 57 
+Figure 19 :Percentage removal ................................................................ 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xii 
+ 
+LIST OF ABBREVIATIONS  
+BOD – Biochemical Oxygen Demand  
+COD – Chemical Oxygen Demand  
+TSS – Total Suspended 
+Solids 
+TP– Total Phosphorous  
+mg/L – milligrams per litre  
+NWSC – National Water and Sewerage Cooperation  
+NEMA – National Environmental Management Authority  
+WHO – World Health Organization  
+UN – United Nations  
+ 
+ 
+
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+1.1Background and Introduction 
+Water resources sustainability has become a prime issue for almost all the educational 
+institutions across the globe, and so is water reuse technologies and practices. With 
+growing awareness towards environmental protection, schools are implementing 
+several ways of greening their environment, one of them is greywater management. 
+Greywater can be described as the wastewater originating from washbasins, showers, 
+sinks, and kitchens which are neither toilets nor urinals and it is considered safe for 
+use in irrigation and toilet flushing. Such a process is referred to as recycling of 
+greywater and is very important in achieving the water targets in educational 
+facilities as it greatly reduces water use, saves money and encourages acceptable 
+environmental practices (Vigneswaran et al., 2017).  
+Making use of water recycling systems allows educational establishments to be more 
+environmentally friendly. Schools are water-intensive environments that sometimes 
+use excessive amounts of water, especially in such areas as bathrooms, kitchens, and 
+hostels. Because of the worldwide water crisis, and also the rising cost of doing 
+business, many educational institutions have adopted the use of greywater recycling 
+systems in place (Leong et al., 2019). Greywater management in educational facilities 
+is not just an option for water conservation…. 
+
+2 
+ 
+1.2 PROBLEM STATEMENT 
+Greywater treatment for reuse is an important topic in the context of sustainable 
+water management, especially in areas facing water scarcity (Misra, 2020). Greywater 
+is wastewater that comes from household activities excluding sewage. It typically 
+contains a lower level of pathogens and contaminants than black water, making it less 
+hazardous to treat and reuse for non-potable purposes such as irrigation, toilet 
+flushing, and gardening (Al-Jayyousi, 2016).   
+With growing environmental awareness and increasing water demand, treating 
+greywater at the institutional level can help reduce freshwater consumption, lower 
+utility bills, and ease pressure on municipal wastewater systems (Eriksson et al., 
+2019). By reusing greywater, institutions can contribute to water conservation, 
+especially in regions where water resources are limited1.3OBJECTIVES  
+1.3.1Main Objective  
+To design a sustainable grey water management system for educational facilities with 
+a focus on Bishop Secondary School, Mukono.  
+1.3.2 Specific Objectives  
+1. To determine the sources and volumes of grey water generated per capita per day. 
+2. To assess the physical, chemical, and bacteriological properties of grey water. 
+3. To determine the optimum dosage of kaolin clay powder in treatment of greywater 
+4. To develop a grey water treatment system design  
+
+3 
+ 
+1.3.3 Research Questions   
+1. What are the sources and daily volumes of grey water generated at Bishop 
+Secondary School?   
+2. What are the physical, chemical, and bacteriological characteristics of the grey 
+water? 
+3. How can a sustainable grey water treatment system be designed to satisfy the 
+school's needs? 
+1.4 JUSTIFICATION 
+The global rise in fresh water demand and the decline in available water resources 
+increase the demand for sustainable water management strategies, especially in 
+water-stressed regions. Like many developing countries, Uganda faces challenges 
+related to water availability, accessibility, and quality (Nsubuga et al., 2014). The 
+high population in schools increases domestic water consumption and generation of 
+greywater. Taking an approximate daily water use of 30,000 liters per day at Bishops 
+Secondary School Mukono, 24,000 liters a day would be greywater. Although this is a 
+huge amount, the school currently manages greywater using soak pits, which may lead 
+to environmental contamination and loss of the opportunity for water reuse. 
+The existing greywater disposal practices using soak pits are inadequate in removing 
+pollutants, hence contaminating the groundwater and creating health hazards. If not 
+appropriately treated, greywater contains a high amount of contaminants in the form 
+of BOD, COD, suspended solids, and microbial pollutants (Al-Hamaiedeh & Bino, 
+2010). The World Health Organization and Ugandan standards dictate that such 
+
+4 
+ 
+contaminants should be brought within permissible limits for any kind of safe reuses 
+(WHO, 2017). However, the greywater from Bishop Secondary School, Mukono, is 
+untreated, which may pose health risks to the students and staff. There is a dire 
+need, therefore, for an efficient treatment of wastewater. In other related literature, 
+the application of natural adsorbents like clays was found effective in reducing both 
+organic and inorganic pollutants in wastewater (Sun et al., 2019). Kaolinite, a clay 
+mineral with a high cation exchange capacity and large specific surface area, has 
+demonstrated significant removal efficiencies for key contaminants like BOD, COD, 
+and suspended solids in various wastewater contexts (Iqbal et al., 2021). 
+Nevertheless, research on the practical application of kaolinite for greywater 
+treatment in institutional settings in developing countries remains limited. Most of 
+the literature focuses on synthetic grey water under ideal laboratory conditions but 
+does not consider real systems that could face different characteristics of water and 
+operational issues. 
+Furthermore, the economic feasibility of adapting kaolinite-based greywater 
+treatment systems into resource-constrained settings is relatively unexplored, as 
+reported by Ghaitidak & Yadav (2013). Bishops Secondary School Mukono currently 
+uses about 10 million UGX a month on its water expenses, hence the rationale for 
+cheap ways of reducing water consumption. Treated greywater can be reused for non-
+potable purposes such as toilet flushing, compound cleaning, and irrigation, which 
+would substantially reduce the school's reliance on piped water supplied by the 
+National Water and Sewerage Corporation. 
+
+5 
+ 
+1.5 Geographical Scope   
+The scope of the study is Bishop Secondary School, Mukono, The natural  
+Kaolin clay were obtained from Buwambo deposit 27km north of Kampala. 
+ 
+ 
+
+6 
+ 
+CHAPTER TWO: LITERATURE REVIEW 
+2.1 Waste water  
+Water, which makes up three-quarters of the earth's surface, is one of the necessary 
+components for human survival. Despite this abundance, only around 1% of fresh 
+water is available. By 2030, the world's water demand is predicted to have increased 
+from 4200 Bm3 in 2015 to 6900 Bm3(Nivesh et al., 2023). Many contaminants and 
+dangerous substances of various types and compositions are introduced by industrial 
+and other human-caused activities(Kathalingam et al., 2023). 
+Wastewater is water that has been used in homes, businesses, manufacturing 
+facilities, and farms. Any groundwater or storm water that enters the sewer system is 
+also included(Victoria, 2024). Water is composed of two hydrogen atoms and one 
+oxygen atom, it is not these constituents that make water important but the 
+contaminants in it. Taking an example of any chemical reaction, we would be 
+satisfied at a reaction purity yield of 99% as most reactions yield 70% to 90% purity. 
+However, for water, even 1% impurity is unacceptable. Many contaminants that we 
+consider insignificant in other products like food can prevent us from using water. In 
+other instances, a slight deviation in the quantity of the right compound can render 
+the water unpalatable or useless for many aquatic purposes(Russell, 2019). 
+Waste is an inevitable byproduct of human activity. Wastewater will be produced 
+from a large portion of this garbage. Numerous factors influence wastewater's amount 
+and quality. Not every industry or person generates the same quantity of waste. The 
+behavior, way of life, and standard of living of the residents, as well as the legal and 
+
+7 
+ 
+technical environment in which they live, all have an impact on the quantity and kind 
+of trash generated in households(Henze and Comeau, 2008). 
+There are different types of grey water as shown below 
+1 
+Adopted from: 2008 Mogens Henze. Biological Wastewater Treatment: Principles 
+Modelling and Design.  
+Households and residential areas are the source of domestic wastewater, sometimes 
+referred to as municipal sewage. Water from showers, bathtubs, sinks, toilets, 
+dishwashers, and washing machines is included (Noutsopoulos et al., 2018). Nutrients 
+(nitrogen and phosphorus from urine and detergents), Microorganisms (bacteria, 
+viruses, and parasites), Organic materials (food particles, human waste, soap 
+residues), q+and Chemicals (cleaning agents, personal care items) are all present in 
+this effluent (Hatley et al., 2024). When released into natural water bodies, 
+improperly treated household wastewater can lead to environmental contamination 
+and waterborne illnesses. Before being discharged or utilized again, it is typically 
+treated in sewage treatment facilities (Ilyas et al., 2019). 
+Wastewater from Institutions: This category of wastewater originates from public 
+buildings, offices, hospitals, schools, and universities. Similar to domestic 
+wastewater, it may contain higher levels of organic matter and chemical pollutants 
+
+8 
+ 
+because of the following: pharmaceuticals and biomedical waste from hospitals and 
+clinics; food waste and grease from institutional cafeterias; cleaning agents and 
+disinfectants from extensive sanitation processes; and laboratory discharges from 
+schools, research facilities, and hospitals. The treatment of wastewater in hospitals is 
+complicated by the presence of microorganisms, medications, and radioactive 
+elements. To avoid contaminating water sources, special handling and treatment 
+procedures are needed (Vlková et al., 2016, Castiglioni et al., 2018). 
+Industrial wastewater is produced by factories, manufacturing plants, and processing 
+industries. Its components vary by industry, but usually consists of the following: 
+Chemical pollutants (solvents, acids, and dyes from textile and chemical plants); 
+Heavy metals (lead, mercury, and arsenic from metal processing and electronics 
+industries); Oils and grease (from food processing and petroleum industries); and 
+high-temperature wastewater (from power plants and refineries). Industrial 
+wastewater is more toxic than domestic wastewater hence it requires particular 
+treatment prior reuse or disposal (Ahmed et al., 2021). Many industries including 
+those in Uganda pre-treat their wastewater before releasing it into municipal sewage 
+systems to avoid damaging sewer infrastructure and treatment plants (Godswill, 
+2017). 
+Rainwater or groundwater that seeps into sewer pipes via fractures, joints, or faulty 
+connections is referred to as infiltration from sewers (Zeydalinejad et al., 2024). Old, 
+aging sewer pipes with fractures and leaks, pipelines that are damaged or poorly 
+linked, high groundwater levels that push water into sewer systems, and tree roots 
+that get into sewer pipes are some of the causes of infiltration. Sewage treatment 
+
+9 
+ 
+facilities may become overloaded due to infiltration, which would increase 
+wastewater volume and treatment expenses. Additionally, it may result in sewage 
+system breakdowns, which could contaminate groundwater and surface water through 
+overflows (Lundberg, 2021). 
+Rainwater or melted snow that runs off of parking lots, roadways, rooftops, and other 
+impermeable surfaces is known as stormwater (Kostina et al., 2022). Stormwater is 
+not produced by human activity like wastewater from homes or businesses, but it can 
+contain a range of contaminants, including: Heavy metals (lead, zinc, and copper 
+from tires and industrial areas); oil and grease (from roads and vehicle emissions); 
+pesticides and fertilizers (from agricultural runoff); and sediments and debris (sand, 
+leaves, and plastic waste)(Pamuru et al., 2022). If stormwater is not adequately 
+managed, it can contaminate rivers, lakes, and groundwater because it bypasses 
+sewage treatment facilities. Retention ponds and stormwater drainage systems are 
+used by many communities to prevent flooding and remove contaminants from water 
+before it enters natural bodies (Ferzoco and McCauley, 2024). 
+The liquid that emerges from landfills, known as leachate, contains suspended and 
+dissolved elements from decomposing garbage. Rainwater seeping into solid trash and 
+dissolving pollutants is how it forms(Yaashikaa et al., 2022). When organic garbage 
+breaks down, it releases liquids that contain high levels of germs and poisons. 
+Hazardous and industrial waste also releases chemicals into nearby water sources. 
+Ammonia and nitrogen compounds from decomposing organic waste, heavy metals 
+from batteries, electronic waste, and industrial byproducts, and toxic organic 
+compounds from pesticides, solvents, and medications are frequently found in 
+
+10 
+ 
+leachate (Teng et al., 2021). Leachate from landfills can contaminate drinking water 
+supplies by leaking into groundwater if improperly handled. In order to avoid harming 
+the environment, landfills usually employ leachate collecting and treatment systems 
+(Wijekoon et al., 2022). 
+Wastewater gathered and treated from individual septic systems used in rural and 
+unsewered areas is referred to as septic tank wastewater, or on-site wastewater 
+(Ghangrekar, 2022). By separating solids from liquids, a septic tank enables heavier 
+materials to settle as sludge. Anaerobic bacterial digestion is used to partially 
+remediate wastewater. discharges liquid wastewater into a drain field, where leftover 
+impurities are filtered off by soil and microorganisms (Almomani, 2016). Pathogens 
+(bacteria, viruses, and parasites from human waste), nutrients (phosphorus and 
+nitrogen, which can contaminate groundwater), and organic matter that needs to be 
+broken down further by soil microbes are all still present in septic wastewater. 
+Sewage backups, unpleasant smells, and groundwater contamination can result from 
+poorly maintained septic systems. In order to avoid system breakdowns, routine 
+pumping and inspection are required (Haider et al., 2023). 
+2.1.1 Legislation on wastewater 
+The six’s United Nations Sustainable Development Goal (SDG) to ensure availability 
+and sustainable management of water and sanitation for all is being threatened by 
+the enormous amount of waste water generated and improperly managed. Target 6.3 
+of this SDG, “to improve water quality by reducing pollution, eliminating dumping and 
+minimizing release of hazardous chemicals and materials, halving the proportion of 
+
+11 
+ 
+untreated wastewater and substantially increasing recycling and safe reuse globally” 
+is greatly affecting the general realization of the SDG-6. This arises from the 
+increasing world population and industrialization which is proportional to the amount 
+of waste water generated(United Nations, 2016). 
+The United Nations advocates for the continuous improvement in the management of 
+all types of waste water. In the 2022 release of the United Nations Secretary-Generals' 
+Advisory Board on Water & Sanitation (UNSGAB) which stated: In an increasingly 
+urbanized world, severe health and pollution problems are caused by human sewage, 
+industrial and agricultural pollution, and city storm waters. According to rough 
+estimates, 80–90% of wastewater in developing nations is dumped straight into rivers, 
+lakes, and oceans, resulting in water-borne illnesses, impeding travel and economic 
+growth, and seriously harming the ecosystem. Sustainable finance mechanisms and a 
+cost-effective strategy are necessary for wastewater management and pollution 
+control. Preventing pollution must be a part of the economic equation since it can 
+increase agricultural and industrial production. Due to its reusability and potential as 
+a source of "new" water, treated water can lessen the environmental impact of cities, 
+farms, and industry. Urban wastewater that has been properly treated can be used 
+again for peri-urban farming and industry. Wastewater can be converted into energy. 
+Green jobs are produced by all of these initiatives(United Nations, 2022). 
+The main laws controlling wastewater management in East Africa are usually found in 
+each nation's "Water Act," which contains rules for water use, protection, and 
+management. These laws include provisions for wastewater discharge and treatment 
+standards, which are frequently enforced by the national environmental protection 
+
+12 
+ 
+agency of that country. Important features include the requirement for effluent 
+discharge permits and compliance with certain water quality standards when releasing 
+wastewater into the environment(Parliament of Kenya, 2016, Order of the 
+Government, 2020). 
+The "Water Act, 1995" (Cap 152), which is the main law governing wastewater in 
+Uganda, contains specific rules about waste discharge through the "Water (Waste 
+Discharge) Regulations, 1998" under Section 107 of the Water Act. The National 
+Environment Management Authority (NEMA) is in charge of enforcing these rules and 
+standards for effluent discharge into water bodies. In this law, “a person wishing to 
+discharge wastewater is supposed to apply to the director for a waste discharge 
+permit in the prescribed manner”(Parliament of Uganda, 1997). 
+2.1.2 Wastewater Treatment Methods 
+Treatment of wastewater is a critical process to clean water used for domestic, 
+industrial, and agricultural activities prior to release to the environment or re-use. 
+The primary reasons for wastewater treatment are to protect public health through 
+the elimination of pathogens and toxic chemicals, preventing water pollution of 
+natural watercourses, conserving freshwater resources through recycling, and 
+addressing environmental needs (Metcalf & Eddy, 2014; WHO, 2017). Wastewater can 
+be categorized into three broad types: domestic (municipal) wastewater, which is 
+generated in homes, schools, and offices and contains organic matter, nutrients, and 
+detergents; industrial wastewater, which is generated by refineries and factories and 
+can have heavy metals and poisonous chemicals; and agricultural wastewater, which 
+
+13 
+ 
+is generated in farms and animal operations and tends to be high in organics and 
+nutrients (Tchobanoglous et al., 2014; Ahmed et al., 2021; Mateo-Sagasta et al., 
+2017). 
+ 
+The treatment process is typically divided into initial, primary, secondary (biological), 
+and tertiary (refined) stages, each for different types of pollutants.  
+Initial treatment focuses on the removal of big debris and solids through screening 
+and grit removal to protect downstream equipment. Screening, however, involves 
+passing wastewater through bar racks or fine screens in an effort to screen out 
+materials like plastics and rags, while grit chambers practice sedimentation or 
+aeration to eliminate sand and gravel (Metcalf & Eddy, 2014). Flow equalization is 
+also utilized in industrial processes for equalizing discharge fluctuations in 
+wastewater and to prevent shock loads on biological treatment plants (EPA, 2000). 
+ 
+Primary 
+treatment 
+follows 
+preliminary 
+processes 
+and 
+primarily 
+involves 
+sedimentation, where the wastewater is retained in large tanks to allow settleable 
+solids to settle and floatables like oils and grease to float to the surface for scraping 
+off. Primary clarifiers, which are rectangular or circular, can remove 50–70% of 
+suspended solids and 25–40% of biochemical oxygen demand (BOD) (Tchobanoglous et 
+al., 2014). A alternative to sedimentation is dissolved air flotation (DAF), in which 
+minute air bubbles are supplied to induce floating of suspended solids on the top and 
+is particularly effective for oily wastewater (Rubio et al., 2002). 
+
+14 
+ 
+ 
+Secondary treatment involves breaking down dissolved and colloidal organic matter 
+through biological processes. The process used most frequently is the activated sludge 
+process, whereby the aerobic bacteria break down organic pollutants in aeration 
+tanks before separation from the treated water and biomass in secondary clarifiers. It 
+eliminates 85–95% BOD and is used most frequently in municipal treatment plants 
+(Metcalf & Eddy, 2014). Other biological treatment methods are trickling filters, 
+through which wastewater is passed over biofilm-covered media, and rotating 
+biological contactors (RBCs), which utilize rotating discs as a place for microbial 
+growth. These are simpler and have lower energy requirements but are not as 
+efficient as activated sludge, taking out an average 70–90% of BOD (EPA, 2000). 
+Membrane bioreactors (MBRs) combine biological treatment with ultrafiltration 
+membranes to produce high-quality effluent for reuse, but their cost hinders 
+widespread use (Judd, 2011). Anaerobic digestion is another biological process used 
+on high-strength industrial wastewater, where microorganisms break down organic 
+matter in the absence of oxygen, producing biogas as a by-product (Appels et al., 
+2008). 
+ 
+Tertiary treatment further processes the effluent to meet strict discharge standards 
+or enable reuse. Filtration techniques, such as sand filtration and membrane systems 
+(microfiltration, ultrafiltration, nanofiltration, and reverse osmosis), remove 
+remaining suspended solids, bacteria, and dissolved contaminants (Shannon et al., 
+2008). Disinfection is needed to remove pathogens and can be achieved through 
+
+15 
+ 
+chlorination, UV light, or ozonation, each with various benefits and drawbacks (EPA, 
+1999). Remineralization or nutrient removal, particularly for nitrogen and phosphorus, 
+might be necessary in an effort to prevent eutrophication of receiving waters. 
+Biological nitrification-denitrification denitrifies ammonia to nitrogen gas, and 
+chemical precipitation or enhanced biological phosphorus removal (EBPR) reduces the 
+phosphate content (Metcalf & Eddy, 2014). Advanced oxidation processes (AOPs), 
+e.g., ozone/hydrogen peroxide and Fenton's reagent, oxidize stable organic pollutants 
+by extremely reactive hydroxyl radicals (Oller et al., 2011). 
+ 
+Sludge produced during treatment also must be treated to reduce volume and 
+stabilize organic material. Thickening of the sludge, digestion (either anaerobic or 
+aerobic), and dewatering (either filter pressing or centrifugation) are standard 
+practices, and the resulting biosolids can either be land-applied as fertilizer, burned 
+to recover energy, or landfilled (EPA, 2000; Tchobanoglous et al., 2014). New 
+technologies such as microbial fuel cells (MFCs), wherein electricity is generated from 
+wastewater treatment, and algae systems, which trap nutrients in lieu of biomass 
+production for biofuels, are bright prospects for energy-neutral and sustainable 
+wastewater treatment (Logan et al., 2006; Park et al., 2011). 
+2.1.3 Decentralized Wastewater Treatment Systems 
+It is some of the present trends in wastewater management to see growing interest in 
+decentralized treatment for rural areas, small towns, and developing nations where 
+centralized systems are not feasible or economically impossible (Massoud et al., 
+
+16 
+ 
+2009). Some of these include package treatment plants, constructed wetlands, and 
+septic tank effluent filtration, which can be made specifically to suit the requirement 
+of a given community. Decentralized systems do offer advantages like lower cost of 
+infrastructure, reduced energy requirements, and potential reuse of water locally 
+(Libralato et al., 2012). There are limitations in some aspects like the requirements 
+for maintenance, reliability in operation, and regulation control, particularly in places 
+where technical capability is low (Tilley et al., 2014). Among some of the new 
+technologies in this field are the development of smart decentralized systems with 
+remote monitoring and automated control capabilities in order to enhance treatment 
+performance and minimize operator action (Rahman et al., 2020). 
+ 
+2.1.4 Climate Change Impacts on Wastewater Treatment 
+Climate change causes significant threats to the wastewater treatment sector by 
+increasing rainfall intensity, rising sea level, and climate temperature fluctuations 
+(Mills et al., 2020). These changes can lead to hydraulic overload of treatment 
+operations, reduced efficiency of treatment by temperature-sensitive biological 
+processes, and damage to infrastructure due to extreme weather (Delgado et al., 
+2022). It has been reported through studies that the biological nutrient removal 
+processes are the most temperature-sensitive, with nitrification efficiency greatly 
+compromised below 15°C (Gori et al., 2013). Adaptation strategies under 
+investigation include the development of climate-resilient treatment technologies, 
+such as hybrid constructed wetlands with adjustable flow paths and the integration of 
+sophisticated monitoring systems to identify and respond to process upsets (Burkhard 
+
+17 
+ 
+et al., 2022). Additionally, wastewater treatment plants are increasingly being viewed 
+as a climate change mitigation initiative through energy recovery (through biogas use 
+and anaerobic digestion) and carbon sequestration in biosolids (Mo & Zhang, 2013). 
+ 
+2.1.5 Removal of PPCPs 
+Presence of PPCPs in sewage has been seen as a critical environmental concern due to 
+the fact that they have proven to exert ecological impacts and disrupt conventional 
+treatment technologies (Luo et al., 2014). Over 100 different PPCPs have been 
+discovered in wastewater effluents across the world, including antibiotics, hormones, 
+antidepressants, and antimicrobial agents (Patel et al., 2019). Conventional activated 
+sludge treatment removes only 20-60% of such compounds, with removal efficiency 
+largely influenced by compound characteristics and operation conditions (Jelic et al., 
+2011). The following are some promising advanced treatment technologies for the 
+removal of PPCPs: 
+➢ Powdered activated carbon adsorption (removal efficiencies >90% for the 
+majority of compounds) 
+➢ Advanced oxidation processes (particularly ozone-based systems) 
+➢ Nanofiltration and reverse osmosis membranes 
+➢ Bioaugmentation using specialized microbial cultures (Kumar et al., 
+2022)Research gaps still remain in knowing the transformation products formed 
+during PPCP treatment and how they are potentially toxic, as well as how cost-
+effective removal technologies can be developed for application at full scale 
+(Yang et al., 2017). 
+
+18 
+ 
+2.1.6 Resource Recovery from Wastewater 
+The paradigm in wastewater management is shifting from treatment and disposal 
+towards resource recovery, viewing wastewater as a water, energy, nutrient, and 
+precious byproduct source (Puyol et al., 2017). Certain key resource recovery 
+strategies are: 
+➢ Nutrient Recovery: 
+➢ Struvite (MgNH4PO4·6H2O) precipitation for recovering phosphorus with up to 
+90% recovery efficiency 
+➢ Ammonia stripping and absorption for recovering nitrogen 
+➢ Bioelectrochemical systems for concurrent nutrient removal and recovery (Ye 
+et al., 2020) 
+➢ Energy Recovery: 
+➢ Anaerobic digestion with combined heat and power (CHP) systems 
+➢ Microbial fuel cells for electricity production in a direct way 
+➢ Thermal hydrolysis processes for enhancing production of biogas (McCarty et 
+al., 2011) 
+ 
+2.1.7 Water Reuse: 
+High-level treatment trains and potable reuse 
+Industrial reuse applications (cooling water, boiler feed water) 
+Agricultural irrigation using appropriately treated wastewater (Angelakis & Snyder, 
+2015) 
+
+19 
+ 
+Economic analyses have shown that energy savings from resource recovery can to a 
+great extent offset treatment expenses, with some plants being able to run in energy 
+self-sufficiency or even energy generation (Mo & Zhang, 2013). Mass applications are 
+hindered by high initial costs, regulatory constraints, and market ceilings on 
+recovered material products (Guest et al., 2009). 
+2.2 Green and Nature-Based Treatment Solutions 
+Nature-based solutions are being viewed more and more as sustainable alternatives or 
+supplements to conventional wastewater treatment (Zhang et al., 2021). They utilize 
+natural processes and often involve less energy input and environmental impact. Some 
+of the most important approaches are: 
+Constructed Wetlands: 
+➢ Horizontal and vertical flow secondary treatment systems 
+➢ Hybrid systems combining different wetland types 
+➢ Enhanced designs with aeration or specific media (Vymazal, 2018) 
+➢ Algal-Based Systems: 
+➢ High-rate algal ponds for wastewater treatment and biomass production 
+➢ Photobioreactors for particular nutrient removal 
+➢ Algal-bacterial symbiosis systems (Arashiro et al., 2020) 
+➢ Soil Aquifer Treatment: 
+➢ Managed aquifer recharge with treated wastewater 
+➢ Natural filtration through soil profiles 
+➢ Long-term storage with water quality improvement (Drewes & Khan, 2011) 
+
+20 
+ 
+Although they usually require more area than conventional treatment, they yield a 
+number of co-benefits like the provision of habitat, carbon sequestration, and 
+amenity value (Nivala et al., 2019). They are also still under study to optimize their 
+performance, reduce footprint requirements, and develop design guidelines for 
+different climatic conditions (Wu et al., 2021). 
+ 2.2.1 Smart Water Technologies and Digitalization 
+The industry 4.0 technology revolution of wastewater treatment is reshaping plant 
+operation and management (Hao et al., 2022). Key advancements are: 
+ 
+➢ Sensor Networks and IoT: 
+➢ Real-time monitoring of water quality parameters 
+➢ Wireless sensor networks for distributed measurement 
+➢ Smart meters for wireless flow measurement (Bao et al., 2021) 
+➢ Data Analytics and AI: 
+➢ Machine learning for process optimization 
+➢ Predictive maintenance algorithms 
+➢ Fault detection and diagnosis systems (Hreiz et al., 2021) 
+➢ Automation and Control: 
+➢ Advanced process control systems 
+➢ Digital twins for optimization and simulation 
+➢ Robotic inspection and maintenance (Zheng et al., 2022) 
+
+21 
+ 
+They provide more effective, regular, and cost-effective wastewater treatment and 
+bring new functionality to remote operation and decision support (Rivas et al., 2021). 
+Data integration, cybersecurity, and standardized protocols for smart water systems 
+are still areas of concern (Machell et al., 2022). 
+ 
+2.2.2 Social and Institutional Aspects of Wastewater Management 
+Effective wastewater management is a matter of considering social, economic, and 
+institutional factors over technical options (López et al., 2021). Some of the key 
+considerations are: 
+➢ Governance and Policy: 
+➢ Regulatory frameworks for wastewater reuse 
+➢ Water quality rules and enforcement 
+➢ Transboundary water management arrangements (Gupta & Pahl-Wostl, 2013) 
+➢ Economic and Financing Models: 
+➢ Public-private partnerships for infrastructure development 
+➢ Innovative financing tools (e.g., green bonds) 
+➢ Full cost recovery pricing approaches (Marlow et al., 2013) 
+➢ Community Engagement: 
+➢ Public acceptance of water reuse 
+➢ Stakeholder involvement in planning 
+➢ Education and sensitization programs (Dolnicar & Schäfer, 2009) 
+➢ Capacity Building: 
+
+22 
+ 
+➢ Workforce training and skills development 
+➢ Knowledge transfer programs 
+➢ Institutional strengthening (Murray & Buckley, 2010) 
+2.3 Grey water  
+Greywater, also known as sullage, grey water, or gray water in the US, is the term for 
+domestic wastewater produced in homes or workplaces, from streams that aren't 
+contaminated by feces, that is, all streams other than toilet wastewater. Sinks, 
+showers, bathtubs, washing machines, and dishwashers are some of the sources of 
+greywater. Greywater is typically safer to handle, easier to treat, and reusable on-
+site for non-potable uses including crop irrigation, landscape irrigation, and toilet 
+flushing because it has less pathogens than blackwater. Greywater may still include 
+some pathogens after cleansing the anal region in the bathtub or shower or from 
+washing filthy clothes (Wikipedia, 2025). 
+Greywater's composition varies significantly depending on where it comes from 
+(kitchen, laundry, or bathroom), and it is also impacted by the local water quality. 
+Grey water is likely to contain a wide range of contaminants, such as synthetic 
+chemicals, pathogenic organisms, fats, oil, grease, suspended and dissolved solids, 
+acidic and alkaline compounds, and heavy metals(Rakesh et al., 2020, Delhiraja and 
+Philip, 2020). 
+ 
+ 
+
+23 
+ 
+2.3.1 PH in grey water 
+Greywater typically has a pH between 5 and 9, which is largely determined by the 
+alkalinity and pH of the water supply. Fabric softeners, bleaching agents, and 
+disinfectants are among the substances that have a direct correlation with the pH of 
+grey water (Khajvand et al., 2022). Because detergents contain alkaline ingredients, 
+greywater, which comes primarily from laundry, will typically have a high pH. 
+Surfactants are the main chemical components of greywater, which is produced as a 
+result of washing or cleaning operations. The majority of cleaning products contain 
+these surfactants as their primary active ingredient. The bulk of cleaning and laundry 
+products are anionic, however they can also be cationic (Jena et al., 2023). Cationic 
+surfactants, which are often based on salt, are a source of ammonium in greywater. 
+Nitrates and phosphate, which are purportedly derived by ammonium and cationic 
+surfactants and laundry disinfectants, respectively, are additional components 
+discovered in greywater (Delhiraja and Philip, 2020). 
+2.3.2 Solids in grey water 
+The solid content of greywater in generally low, indicating that a large portion of the 
+contaminants in dissolved form (Rakesh et al., 2020). In Brazil, reports of suspended 
+solids ranged from 15 mg/L (Smith and Bani-Melhem, 2012) to 800 mg/L(Braga and 
+Varesche, 2014). Body care products, toothpaste, shaving waste, skin, hair, body 
+lipids, food particles, and fibers from different textiles are the sources of suspended 
+solids (Khalid and Abdollahi, 2021).  
+
+24 
+ 
+In greywater, dissolved solids make up a significant portion. TDS levels in greywater 
+collected from Chennai ranged from 712 mg L-1 to 990 mg L-1, according to (Abinaya 
+and Loganath, 2015). In Nagpur, 688.5 mg L-1 of dissolved solids were recorded by 
+(Shegokar et al., 2015). India has observed far higher rates, 6888 mg L-1 (Sharma and 
+Chhipa, 2014). Hardness in greywater is caused by a higher concentration of dissolved 
+divalent ions, such as calcium and magnesium. Sharma and Chhipa found an 
+exceptionally high hardness of 7028 mg L-1 in Jaipur (Sharma and Chhipa, 2014). 
+In addition to favoring unwanted microbiological growth, the high temperatures may 
+precipitate some carbonates, such CaCO3, and other inorganic salts that become less 
+soluble at high temperatures. According to reports, the amount of total suspended 
+particles in greywater might vary from 190 to 537 mg/L(Oteng-Peprah et al., 2018b). 
+ 
+2.3.3 Biological Oxygen Demand (BOD) in grey water. 
+Biological Oxygen Demand (BOD) refers to the oxygen requirement in the greywater 
+for microbial breakdown of organic compounds at a constant temperature. According 
+to(Smith and Bani-Melhem, 2012), there are much greater fluctuations in the BOD in 
+greywater (5 mg/L to 431 mg/L). BOD levels in Chennai ranged from 120 mg/L to 350 
+mg/L, according to (Abinaya and Loganath, 2015). (Mohammed Hasan Al-Mughalles et 
+al., 2012) found the same finding in Malaysia, with BOD in raw greywater ranging from 
+155 mg/L to 213 mg/L.  The dissolved organics and suspended food particles are the 
+primary sources of BOD in greywater.  
+2.3.4 Chemical Oxygen Demand (COD) in grey water. 
+
+25 
+ 
+In Brazil, industrial laundry greywater has COD levels of 4800 mg/L, according to 
+(Braga and Varesche, 2014). However, (Smith and Bani-Melhem, 2012)found that COD 
+levels in greywater were lower, ranging from 38 mg/L to 1843 mg/L.The findings of 
+(Tilve, 2014) revealed COD fluctuations in Nagpur ranging from 383.57 mg/L to 434 
+mg/L.. Likewise, (Abinaya and Loganath, 2015) found out COD values in grey water 
+ranging from 254 mg/L to 618 mg/L in Chennai. 
+2.3.5 Pathogens in grey water. 
+Greywater has been found to include a variety of bacterial pathogens or indicator 
+species, such as Clostridium spp., Bacteroidales spp., total and fecal coliforms, E. 
+Staphylococcus species, Shigella species, Salmonella species, Pseudomonas species, 
+Legionella species, streptococci, coli enterococci, Campylobacter species, and Vibrio 
+species. Determining the proper degree of reduction for reuse requires measuring the 
+quantities of these pathogens in greywater(Nagarkar et al., 2021). In one study, for 
+example, the total coliform levels in school greywater ranged from 89 to 352 most 
+probable number (MPN)/mL, with an average of 196 MPN/mL. No fecal coliforms were 
+found (Alsulaili and Hamoda, 2015). 
+There were also reports of the presence of pathogenic bacteria in greywater, 
+including respiratory pathogen Legionella pneumophila, enteric pathogen Escherichia 
+coli, and skin pathogen Pseudomonas aeruginosa. In addition to bacterial pathogens, 
+there were also reports of the pathogenic protozoan Cryptosporidium sp(Rakesh et 
+al., 2020). 
+
+26 
+ 
+2.4 Greywater Treatment Technologies 
+GWT technologies may be broadly classified into physical, biological, and chemical 
+treatment systems: 
+2.4.1. Physical and Chemical Treatment Methods 
+These procedures involve filtration and disinfection, which utilize mechanical 
+separation or chemical additives to remove contaminants. Procedures such as: 
+Filtration: Utilizes sand, activated carbon, or membrane filters to remove suspended 
+solids and organic matter. 
+Coagulation and Flocculation: Natural or chemical coagulants destabilize colloidal 
+particles, allowing them to clump and settle. 
+Disinfection: Chlorination, ozonation, or UV irradiation minimizes bacterial 
+contamination. 
+Membrane Filtration: High efficiency of removal is achieved through use of advanced 
+membrane bioreactors (MBRs) but at the expense of energy and cost-intensive, which 
+makes them unsuitable for low-income communities (Oteng-Peprah et al., 2018). 
+2.4.2 Biological Treatment Processes 
+Microbial decomposition of organic matter is the concern of biological treatment and 
+includes: 
+Aerobic Systems: Utilize oxygen in order to promote microbial action, e.g., biological 
+aerated filters and trickling filters. 
+
+27 
+ 
+Anaerobic Systems: Decompose organic matter in the absence of oxygen, producing 
+biogas as a waste product. 
+Membrane Bioreactors (MBRs): Combine biological treatment with membrane 
+filtration to produce high-quality effluent but are capital and energy intensive (Allen 
+et al.). 
+Although advanced biological systems such as MBRs and sequence batch reactors 
+produce high-quality greywater, their operating cost makes them unaffordable for 
+low- and middle-income countries. Other low-cost, natural treatment processes such 
+as coagulation and flocculation are thus ideal. 
+ 
+2.4.3 Constructed Wetlands (CW) 
+Procedure 
+Constructed wetlands (CWs) emulate natural wetlands to treat greywater using 
+physical, chemical, and biological actions. Two kinds exist: 
+Surface Flow Wetlands (SFW): Water overflows over a substrate where pollutants are 
+broken down by plants and microbial communities. 
+Subsurface Flow Wetlands (SSFW): Water passes through a porous medium (sand or 
+gravel) where microorganisms break down contaminants. 
+Treatment process: 
+Pre-treatment: Coarse solids removal by sedimentation or screening. 
+
+28 
+ 
+Primary Treatment: Greywater is passed through the wetland, where plants (e.g., 
+reeds, cattails) absorb nutrients, and microbial biofilms break down organic matter. 
+Post-treatment (Optional): Disinfection (e.g., UV or chlorination) if a higher effluent 
+quality is needed. 
+➢ Low energy consumption (utilizes natural processes). 
+➢ Low cost and minimal maintenance. 
+➢ Increases biodiversity by supporting plant and microbial life. 
+➢ Effective in removing organic matter, pathogens, and nutrients (N, P) (Alfiya et 
+al., 2017). 
+Disadvantage 
+➢ Needs large land area, thus unsuitable for urban application. 
+➢ Risk of clogging due to high solids content. 
+➢ Seasonal performance variations (reduced treatment during cold weather). 
+➢ Solutions to Challenges 
+➢ Pre-filtration (e.g., a settling tank) reduces clogging.Hybrid systems 
+(combination of SFW and SSFW) enhance efficiency.Insulation during cold 
+weather maintains microbial activity. 
+2.4.4 Membrane Bioreactor (MBR) Technology 
+Procedure 
+MBRs combine biological treatment with ultrafiltration (UF) or microfiltration (MF) 
+membranes. The process is: 
+
+29 
+ 
+Biological Degradation: Greywater is pumped into an aeration tank where activated 
+sludge breaks down organic contaminants. 
+Membrane Filtration: A submerged or external membrane module separates treated 
+water from biomass. 
+Disinfection (Optional): UV or chlorine delivers pathogen-free effluent. 
+Advantages 
+➢ High-quality effluent (low turbidity, pathogens, and BOD). 
+➢ Compact structure, suitable for urban and decentralized systems. 
+➢ Automated operation with real-time monitoring. 
+Disadvantages 
+➢ High energy requirement (aeration and membrane cleaning). 
+➢ Membrane fouling increases maintenance costs. 
+➢ Expensive initial investment. 
+➢ Solutions to Challenges 
+➢ Optimized aeration reduces energy consumption. 
+➢ Anti-fouling membranes (e.g., hydrophilic coatings) increase lifespan. 
+➢ Hybrid systems (e.g., MBR + constructed wetlands) cut costs. 
+2.4.5 Sand Filtration Systems 
+Procedure 
+Sand filtration treats greywater by physical screening and biological process in a layer 
+of sand and gravel. The process includes: 
+
+30 
+ 
+Pre-treatment: Coarse filtration removes big particles. 
+Filtration: Greywater passes through sand, where microbes disintegrate organics. 
+Disinfection (Optional): Chlorine or UV for safety. 
+Advantages 
+➢ Low-cost and simple operation. 
+➢ Effective in the removal of suspended solids and pathogens. 
+➢ No chemicals needed (green technology). 
+Disadvantages 
+➢ Low nutrient removal (N, P still present). 
+➢ Clogging in the long run, necessitating regular sand replacement. 
+➢ Efficiency variable with flow rate. 
+Solutions to Challenges 
+➢ Multi-stage filtration (e.g., inclusion of activated carbon) enhances quality. 
+➢ Automatic backwashing against clogging. 
+➢ Coupling with disinfection increases safety. 
+2.5 Coagulation and Flocculation Processes 
+Coagulation involves the addition of a chemical or natural coagulant to destabilize 
+surface charges of colloidal particles, allowing them to form larger aggregates (floc), 
+which can be separated by sedimentation or filtration (Patchaiyappan & Devipriya, 
+2021). 
+
+31 
+ 
+2.5.1 Major Mechanisms in Coagulation and Flocculation: 
+Double Layer Compression: 
+The addition of electrolytes increases ionic strength, reducing repulsion between 
+colloidal particles, leading to aggregation. 
+Charge Neutralization: 
+Opposite-charged coagulants neutralize suspended particle negative charges so that 
+particles can clump. 
+Adsorption: 
+Contaminants in water adhere to the surface of an adsorbent (e.g., clay or activated 
+carbon), which is simple to remove. 
+ 
+2.6 Kaolinite and Its Properties as an Adsorbent 
+2.6.1Structural and Chemical Properties of Kaolinite 
+Kaolinite is a 1:1 layered aluminosilicate clay mineral, consisting of one tetrahedral 
+sheet of silica (SiO₄) and one octahedral sheet of alumina (AlO₆). The layered 
+structure of kaolinite is the cause of its distinct properties, including its moderate 
+cation exchange capacity (CEC), low surface charge, and high chemical stability. The 
+general chemical formula of kaolinite is Al₂Si₂O₅(OH)₄. 
+The presence of hydroxyl (-OH) functional groups on the surface of kaolinite plays a 
+pivotal role in defining its adsorption properties. The functional groups provide active 
+sites for the interaction with a variety of contaminants through hydrogen bonding, ion 
+
+32 
+ 
+exchange, and electrostatic attraction. The type of these interactions relies on the 
+charge on the surface, pH environment, and ionic strength of the surrounding 
+environment. 
+ 
+2.6.2Adsorption Capacity of Kaolinite 
+Kaolinite is a potential adsorbent since it has the ability to react with a wide range of 
+pollutants including heavy metals, organic compounds, and suspended solids. 
+Adsorption is primarily governed by electrostatic forces, van der Waals, and hydrogen 
+bonding. These interactions enable the pollutants to be stripped from water and 
+therefore kaolinite can serve as a suitable material for greywater treatment and 
+water treatment. 
+Adsorption isotherm of kaolinite is described by adsorption isotherm models such as 
+the Langmuir and Freundlich isotherms. Monolayer adsorption on a homogeneous 
+surface is suggested by the Langmuir model while multilayer adsorption on a 
+heterogenous surface is taken into account in the Freundlich model. 
+Langmuir isotherm equation is expressed as: 
+qe=qmax*Ce/(1+KL*Ce) 
+where: 
+qe= amount of pollutant adsorbed per unit weight of kaolinite (mg/g) 
+ce= equilibrium concentration of the pollutant in solution (mg/L) 
+qmax= maximum adsorption capacity (mg/g) 
+
+33 
+ 
+KL= Langmuir constant (L/mg) 
+2.6.3 Application of Kaolinite in Greywater Treatment 
+Kaolinite is very promising in the treatment of greywater due to its ability to remove 
+a wide range of contaminants via adsorption, coagulation, and ion exchange. Kaolinite 
+encounters contaminants such as suspended solids, organic substances, and heavy 
+metals, hence improving the quality of water for reuse. Some of the variables that 
+influence the efficacy of kaolinite treatment of greywater include the following: 
+pH: The pH-sensitive surface charge on kaolinite influences the efficacy of adsorption. 
+Temperature: Adsorption capacity is increased by growing temperature due to 
+enhanced interaction rates and diffusion. 
+Contact time: Growing contact time results in higher adsorption equilibrium. 
+Dosage of Adsorbent: An increase in kaolinite dosage enhances removal efficiency of 
+contaminant but might cause aggregation effect which reduces the capacity of 
+adsorption. The kaolinite application must be optimized. 
+2.6.4 Adsorption Mechanism on Kaolinite 
+Generally, adsorption of contaminants over kaolinite involves cation exchange and 
+surface complexation mechanism. For the case of metal ions (M²⁺), the reaction of 
+exchange might be written as: 
+Al₂Si₂O₅(OH)₄ +M2+                       Al2Si2O5(OH)4M2+ 
+For organic contaminants, kaolinite functions primarily by van der Waals forces and 
+hydrogen bonding. The efficiency of kaolinite in the elimination of organic matter is 
+
+34 
+ 
+generally measured in terms of reduction in chemical oxygen demand (COD), and is 
+expressed as: 
+Adsorption capacity 
+(Reagan, 2019)  
+ 
+Ci obtained values after the kaolin treatment and the initial results for the grey water 
+quality  denoted as Ce.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+35 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.1Sample Collection 
+Grab sampling was used to collect the greywater samples. Grab sampling is a 
+technique where a single sample or measurement is taken at a specific time or for a 
+limited period of time. The sampling was conducted at Bishop Secondary School, 
+Mukono, where greywater was sampled from the boys' and girls' hostels. Samples were 
+collected three times a day (morning, midday, and evening) for five consecutive days. 
+The total greywater recorded during this time was 215,468L (Kobuzare & Cheptoek, 
+2025). 
+3.1.1 Determination of the Physico-Chemical Quality of the Greywater 
+3.1.2 Biochemical Oxygen Demand (BOD) 
+An aliquot of the sample was poured into a bottle, and the initial dissolved oxygen 
+(DO) content was determined with a dissolved oxygen meter. The sample was then 
+incubated at controlled temperature in the dark at 20°C for five days. 
+Microorganisms present in the sample degraded organic material during incubation, 
+which depleted the concentration of dissolved oxygen. A final DO concentration was 
+obtained after incubation by the same method used to obtain the initial 
+reading.Greywater BOD was calculated as the difference in initial and final dissolved 
+oxygen values, after compensation for any oxygen consumed by a blank. BOD value 
+was expressed as mg/L (milligrams of oxygen per liter) (Kobuzare & Cheptoek, 2025). 
+
+36 
+ 
+3.1.3 Chemical Oxygen Demand (COD) 
+To determine the COD of the greywater samples, there were used reagents like 
+potassium dichromate (K₂Cr₂O₇) as the oxidant and a catalyst in the form of silver 
+sulfate (Ag₂SO₄).The wastewater sample was put into a digestion tube. 
+The sample was supplemented with potassium dichromate and silver sulfate catalyst, 
+and then the vessel was sealed. 
+The mixture was subjected to heating in the range of 150-170°C for two hours to 
+oxidize the organic matter. 
+The excess potassium dichromate was discarded after cooling by titration with a 
+ferrous ammonium sulfate solution, which was noted as a ferroin color change from 
+orange to green for the endpoint. 
+The COD in the greywater sample was computed from the volume and concentration 
+of the used ferrous ammonium sulfate solution upon titration. COD was expressed as 
+mg O₂/L (Kobuzare & Cheptoek, 2025). 
+3.1.4 Total Suspended Solids (TSS) 
+TSS was determined by filtering a known volume of greywater through pre-weighed 
+filter paper, drying the residue at 105°C, and measuring the final weight. TSS 
+concentrations were higher in the girls' dormitory due to the high utilization of 
+detergents and more intense washing activities. The trend in TSS concentration was 
+uniform throughout the day with a moderate decrease in the afternoon. 
+
+37 
+ 
+3.1.5 Total Phosphorus (TP) 
+TP was analyzed using the ammonium molybdate method, where orthophosphate is 
+reacted to form a molybdenum blue complex, read spectrophotometrically. The TP 
+concentrations were higher in the girls' dormitory samples due to the use of more 
+concentrated detergents (Love Binti, 2023). 
+3.1.6 E. coli Determination 
+E. coli presence was determined using the membrane filtration method, whereby 
+greywater was filtered, placed on a growth medium, and left for incubation for 24 
+hours. Colonies were counted and are presented in CFU/100mL. E. coli concentration 
+was significantly reduced after treatment, indicating efficient removal of biological 
+impurities (Al-Jayyousi, 2016). 
+3.2 Determination of Optimum Dosage for Kaolin Powder 
+Different dosages of kaolin clay powder were added to greywater samples in order to 
+determine the ideal amount required for the removal of impurities. Results showed 
+that, with an increase in the mass of kaolin powder, the reduction in COD, BOD, TSS, 
+and TP concentrations also increased. Above 20g of kaolin powder per liter, dosage 
+increases gave very minimal additional contaminant removal.  
+3.3 Determination of Removal Efficiency 
+The efficiency of the treatment system was evaluated by comparing the initial and 
+final contaminant concentrations after treatment. Removal efficiencies for key 
+parameters were calculated as follows; 
+
+38 
+ 
+Removal efficiency 
+(Reagan, 2019)  
+Ci obtained values after the kaolin treatment and the initial results for the grey water 
+quality be denoted as Ce. 
+3.4 Design of Greywater Treatment System 
+The treatment system design was obtained from optimized column experiment data 
+to ensure efficient greywater treatment. A CAD plan was prepared to perfectly fit the 
+system into the facility. The design included significant components such as settling 
+tanks, adsorbent chambers, and filtration units, with appropriate piping and flow 
+control systems to manage water flow and treatment efficiency. 
+ 
+ 
+ 

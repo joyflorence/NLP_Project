@@ -1,0 +1,287 @@
+Fundamentals of Web Design
+BSIT, BSDS, BSCS
+
+Introduction to the Internet
+What is the Internet?
+❏
+Global system of interconnected computer networks.
+❏
+Enables communication between devices worldwide.
+History of the Internet:
+❏
+ARPANET (1969): The precursor to the Internet.
+❏
+Evolution: Transition to NSFNET and the commercial Internet.
+
+How the Internet Works
+Clients and Servers:
+❏
+Clients request data (e.g., browsers).
+❏
+Servers provide data (e.g., web servers).
+IP Address:
+❏
+Unique numerical label for devices on a network.
+Domain Name System (DNS):
+❏
+Converts domain names to IP addresses.
+Internet Protocols:
+❏
+HTTP/HTTPS: Web page transfer.
+❏
+FTP: File transfer.
+❏
+SMTP: Email transfer.
+
+The World Wide Web (WWW)
+What is the Web?
+❏
+Interlinked hypertext documents accessible via the Internet.
+Components of the Web:
+❏
+Web Pages: HTML documents.
+❏
+Web Browsers: Tools to access the web (e.g., Chrome, Firefox).
+❏
+URLs: Address for accessing web resources.
+Web Servers:
+❏
+Role: Host and deliver web pages.
+❏
+Examples: Apache, Nginx.
+
+How the Web Works
+Request/Response Cycle:
+❏
+HTTP Request: User requests a web page.
+❏
+HTTP Response: Server sends the web page back.
+Web Hosting:
+❏
+Hosting Services: Companies providing space for websites.
+❏
+Domain Registration: Process of acquiring a website domain.
+
+Introduction to Network Concepts
+Network Types:
+❏
+LAN (Local Area Network): Limited area networks.
+❏
+WAN (Wide Area Network): Broad area networks, e.g., the Internet.
+❏
+PAN (Personal Area Network): Network around a person’s workspace.
+IP Addressing:
+❏
+IPv4 vs. IPv6: Addressing systems for devices.
+❏
+Subnetting: Dividing a network into smaller sections.
+
+Network Protocols & Devices
+Protocols:
+❏
+TCP/IP: Fundamental communication protocols.
+❏
+DNS: Converts domain names to IP addresses.
+❏
+HTTP/HTTPS: Web communication protocols.
+Network Devices:
+❏
+Router: Directs data between networks.
+❏
+Switch: Connects devices within a network.
+❏
+Modem: Converts data for transmission over different media.
+
+Basic Internet Security Concepts
+Encryption:
+❏
+Symmetric vs. Asymmetric: Types of encryption.
+❏
+SSL/TLS: Protocols for secure web communication.
+Firewalls:
+❏
+Purpose: Protect networks by controlling traffic.
+❏
+Types: Hardware and software-based firewalls.
+Common Threats:
+❏
+Malware: Viruses, worms, Trojan horses.
+❏
+Phishing: Fraudulent attempts to obtain sensitive information.
+❏
+DDoS Attacks: Overwhelming a server to disrupt services.
+
+Best Practices for Internet Security
+Strong Passwords:
+❏
+Use complex, unique passwords.
+❏
+Change passwords regularly.
+Two-Factor Authentication (2FA):
+❏
+Adds a second layer of security.
+Regular Software Updates:
+❏
+Protect against vulnerabilities.
+
+Practical Session: Exploring the Web
+Web Browsing:
+❏
+Navigate websites to understand URLs and links.
+Viewing Page Source:
+❏
+Inspect HTML, CSS, and JavaScript of web pages.
+Setting Up a Basic Web Server:
+❏
+Use Python's SimpleHTTPServer or XAMPP.
+❏
+Host a basic HTML page locally.
+
+Practical Session: Network Exploration
+The ping Command:
+➔
+Test connectivity to websites.
+The traceroute Command:
+➔
+Explore the path data takes across the Internet.
+
+The Web
+
+What Does Web Mean?
+The Web is the common name for the World Wide Web, a subset of the Internet 
+consisting of the pages that can be accessed by a Web browser. Many people assume 
+that the Web is the same as the Internet, and use these terms interchangeably. 
+However, the term Internet actually refers to the global network of servers that 
+makes the information sharing that happens over the Web possible. 
+So, although the Web does make up a large portion of the Internet, but they are not 
+one and same.
+
+Vague but exciting!
+In March 1989, a proposal was sent internally at CERN outlying a universal linked 
+information system. Dubbed 'Information Management: A proposal', pictured below, the 
+proposal was created by Sir Tim Berners-Lee and was sent to his boss Mike Sendall, 
+who described it as 'vague but exciting...'.
+Sir Tim Berners-Lee’s vision for universality enabled the development of a 
+high-level network of content that allows any document to link to any other 
+documents.
+The World Wide Web was initially created to make it easier to share research papers. 
+It is a system of interlinked ‘hypertext’ documents that are accessed via the 
+Internet; in essence, an information space. While he did not invent hypertext 
+systems, Berners-Lee proposed using them 'to link and access information of various 
+kinds as a web of nodes in which the user can browse at will.'
+
+His 
+breakthrough 
+was 
+to 
+link 
+hypertext to the Internet and he used 
+three technologies to do this:
+●
+HyperText 
+Transfer 
+Protocol 
+(HTTP) is the foundation of data 
+communication for the Web.
+●
+HyperText Markup Language (HTML) 
+is the main markup language for 
+creating 
+Web 
+pages 
+and 
+information that can be displayed 
+on a Web browser.
+●
+Web 
+addresses 
+or 
+a 
+Uniform 
+Resource Locator (URL) are used 
+to reference a Web page.
+
+Regulation of the Web
+
+What is W3C?
+The World Wide Web Consortium is the main international standards organization for 
+the World Wide Web. Founded in 1994 and currently led by Tim Berners-Lee, the 
+consortium is made up of member organizations that maintain full-time staff working 
+together in the development of standards for the World Wide Web.
+The W3C community is passionate about creating free and open Web standards. They 
+value that the Web is:
+1.
+Universal, international and truly “World Wide”
+2.
+Available on any device, for any type of information, in any language
+3.
+Accessible by people with disabilities
+4.
+Royalty-free and built on open standards
+5.
+Powerful – The Open Web Platform makes Web pages themselves powerful tools
+6.
+Transformational for how business gets done; improving delivery, enhancing user 
+satisfaction, and reducing costs
+
+Quiz
+1.
+What is the difference between Internet and Web?
+2.
+What is the difference between HTML and HTTP?
+
+Diversity and Inclusion
+
+What is Web accessibility?
+The power of the Web is in its universality.
+Access by everyone regardless of disability is an essential aspect.
+Tim Berners-Lee, W3C Director and inventor of the World Wide Web
+The Web has become an essential aspect of our daily lives, and everyone should have 
+access to this technology. Web accessibility focuses on ensuring equivalent access 
+for people with disabilities. It is increasingly important to many organizations and 
+governments from around the world, and has many business benefits. Access to 
+information, including on the Web, is also recognized by the UN Convention on the 
+Rights of Persons with Disabilities (CRPD).
+
+Who is impacted?
+Web accessibility addresses all disabilities, including hearing, 
+learning and cognitive, neurological, physical, speech, and visual 
+disabilities. Some examples of Web accessibility features include:
+●
+Captions on audio and multimedia content for people who are hard of 
+hearing;
+●
+Clear and consistent layout for people with learning and cognitive 
+disabilities;
+●
+Keyboard support for people who do not use their mouse, for 
+example, people with physical disabilities;
+●
+Text alternatives for people with visual disabilities and who are 
+using screen readers.
+
+Web accessibility beneﬁts people with and without disabilities
+Web accessibility features also benefit many more users, such as:
+❏
+People with temporary situational limitations, such as a broken arm;
+❏
+People using mobile devices, televisions, and other access channels;
+❏
+People using older computers, with low bandwidth, and other limitations;
+❏
+People who are new to computers, to the Web, or to your own Website;
+❏
+People who are not fluent in the language of your particular Web site.
+The Web is an increasingly important resource in many aspects of life: 
+education, employment, government, commerce, health care, recreation, and 
+more. When Web pages, Web technologies, Web tools, or Web applications are 
+badly designed, they can create barriers that exclude people from using the 
+Web.
+
+Group Activity
+1.
+Why is Diversity and Inclusion an important aspect in web 
+design?
+2.
+As a web engineer and architect, how can you ensure 
+accessibility to be to websites that you develop?

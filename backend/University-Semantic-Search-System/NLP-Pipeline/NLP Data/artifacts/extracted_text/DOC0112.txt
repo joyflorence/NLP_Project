@@ -1,0 +1,1384 @@
+63
+7
+Techniques for linear systems of equations
+We consider the following system of n linear equations in n unknowns.
+ai1x1 + ai2 + · · · + ainxn = bi, i = 1, 2, . . ., n.
+Which can be presented in matrix form as
+Ax = b
+(81)
+where
+A =
+⎛
+⎜
+⎜
+⎜
+⎝
+a11
+a12
+· · · a1n
+a21
+a22
+· · · a2n
+...
+...
+...
+an1
+an2
+· · · ann
+⎞
+⎟
+⎟
+⎟
+⎠
+is the coefﬁcient matrix, x = (x1, x2, · · · , xn)T is the vector of unknowns and b =
+(b1, b2, · · · , bn)T is the known right hand side. The augmented matrix for the system
+is
+˜A =
+⎛
+⎜
+⎜
+⎜
+⎝
+a11
+a12
+· · · a1n
+b1
+a21
+a22
+· · · a2n
+b2
+...
+...
+...
+...
+an1
+an2
+· · · ann
+bn
+⎞
+⎟
+⎟
+⎟
+⎠
+(82)
+In this section we discuss methods of solving such systems other than using the
+inverse of A which is an expensive process. The methods are grouped into two
+categories: direct methods and indirect methods.
+7.1
+Direct Methods
+Direct methods obtain the solution in a ﬁnite number of steps and return an exact
+solution if all computations are done in inﬁnite precision. The idea is that a triangu-
+lar system is easy to solve by applying backward substitution (in case of an upper
+triangular system). How can we then reduce the given system to an equivalent tri-
+angular system?
+7.1.1
+Gaussian Elimination
+We assume that the system has a unique solution. The method reduces the system
+to an upper triangular system using elementary row operations.
+
+64
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+Example 7.1 Solve the following using Gaussian Elimination
+x1 + 2x2
+=
+−1
+2x1 + x2 + x3
+=
+3
+−2x1 −x2 + x3
+=
+1
+Solution: The augmented matrix is
+˜A =
+⎛
+⎝
+1
+2
+0
+−1
+2
+1
+2
+3
+−2
+−1
+1
+1
+⎞
+⎠
+Reducing ˜A to upper triangular gives
+⎛
+⎝
+1
+2
+0
+−1
+0
+1
+−1
+3
+−5
+3
+0
+0
+1
+2
+⎞
+⎠.
+Solving by back substitution gives: x3 = 2,
+x2 = −1,
+x1 = 1. Or the solution is
+x = (1, −1, 2)T.
+The gaussin elimination method is to systematically reduce the
+system (82) into a triangular system through a sequence of ﬁnite steps as described
+below.
+Let A(1) denote the initial augmented matrix
+(82). Re-arrange A(1) so that
+a11 ̸= 0. If this is not possible, then det(A) = 0 meaning the system is singular.
+Otherwise we have
+A(1) =
+⎛
+⎜
+⎜
+⎜
+⎝
+a(1)
+11
+a(1)
+12
+· · · a(1)
+1n
+b(1)
+1
+a(1)
+21
+a(1)
+22
+· · · a(1)
+2n
+b(1)
+2
+...
+...
+...
+...
+a(1)
+n1
+a(1)
+n2
+· · · a(1)
+nn
+b(1)
+n
+⎞
+⎟
+⎟
+⎟
+⎠
+Deﬁne the n −1 multipliers
+m(1)
+i1 = −a(1)
+i1
+a(1)
+11
+, i > 1.
+
+7.1
+Direct Methods
+65
+Then reduce A(1) →A(2) using the procedure
+m(1)
+i1 R1 + Ri →Ri , i > 1
+Example 7.2 From the previous example,
+m21 = −a21
+a11
+= −2
+1.
+□
+That is, by elementary row operations, we reduce all the entries below a(1)
+11 to
+zero so that we have
+A(2) =
+⎛
+⎜
+⎜
+⎜
+⎝
+a(1)
+11
+a(1)
+12
+· · · a(1)
+1n
+b(1)
+1
+0
+a(2)
+22
+· · · a(2)
+2n
+b(2)
+2
+...
+...
+...
+...
+0
+a(2)
+n2
+· · · a(2)
+nn
+b(2)
+n
+⎞
+⎟
+⎟
+⎟
+⎠
+Next deﬁne the n −2 multipliers
+m(2)
+i2 = −a(2)
+i2
+a(2)
+22
+, i > 2,
+and then reduce A(2) →A(3) using the operations
+m(2)
+i2 R2 + Ri →Ri , i > 2.
+This will generate
+A(3) =
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+a(1)
+11
+a(1)
+12
+a(1)
+13
+· · · a(1)
+1n
+b(1)
+1
+0
+a(2)
+22
+a(2)
+23
+· · · a(2)
+2n
+b(2)
+2
+0
+0
+a(3)
+33
+· · · a(3)
+3n
+b(3)
+3
+...
+...
+...
+...
+...
+0
+0
+a(3)
+n3
+· · · a(3)
+nn
+b(3)
+n
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+66
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+Assume a33 ̸= 0, obtain A(4) using the same procedure. Continue until you
+have
+A(n) =
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+a(1)
+11
+a(1)
+12
+a(1)
+13
+· · · a(1)
+1n
+b(1)
+1
+0
+a(2)
+22
+a(2)
+23
+· · · a(2)
+2n
+b(2)
+2
+0
+0
+a(3)
+33
+· · · a(3)
+3n
+b(3)
+3
+...
+...
+...
+...
+...
+0
+0
+0
+· · · a(n)
+nn
+b(n)
+n
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+A(n) is upper triangular and det(A(n)) ̸= 0.
+Deﬁnition 7.1 The numbers a(1)
+11 , a(2)
+22 , a(3)
+33 , . . . , a(n)
+nn are called pivot elements.
+The system can now be solved using backsubstitution. That is,
+xn = b(n)
+n
+a(n)
+nn
+and
+xi =
+1
+a(i)
+ii
+'
+b(i)
+i −
+n
+"
+j=i+1
+aijxj
+(
+, i = n −1, n −2, . . ., 1.
+Exercise 7.1.1-1: Solve using Gaussian Elimination:
+x1 + x2 + x3
+=
+−1
+2x1 + x2 + x3
+=
+−8
+4x1 + 6x2 + 8x3
+=
+14
+Deﬁnition 7.2 (Pivoting) The process of swapping two rows to avoid a zero pivot is called
+pivoting
+If the pivot element is so small compared to the elements below it in the same col-
+umn, we accumulate rounding errors and in the process we may end up with a
+completely wrong solution. Partial pivoting is used to reduce on the amount of
+rounding errors when we use Gaussian Elimination.
+
+7.1
+Direct Methods
+67
+Deﬁnition 7.3 (Partial Pivoting) The process of swapping rows to ensure that in each
+column the pivot element is the largest in absolute value of all elements in that column is
+called partial pivoting.
+Example 7.3 Solving
+0.003x1 + 59.14x2
+=
+59.17
+5.291x1 −6.130x2
+=
+46.78
+without pivoting using three dcimal places yields x1 = −10.00 , x2 = 1.001, a wrong
+solution. Such errors that arise because a computer can only store real numbers with
+a ﬁnite precision are called rounding errors.
+7.1.2
+Triangular LU Decomposition
+Given a system
+Ax = b
+where A is a nonsingular matrix, we decompose/factorise A as
+A = LU
+where L is lower triangular and U is upper triangular. Then the system becomes
+LUx = b
+(83)
+For a unique factorisation of A, we ﬁx L to be unit lower triangular (with only ones on
+the main diagonal) and the resulting triangular decomposition is more speciﬁcally
+known as the Doolittle factorisation. Then, let
+Ux = y
+(84)
+so that
+Ly = b.
+(85)
+We solve equation (85) by forward substitution to obtain y and then use y in equa-
+tion (84) to obtain x by backward substitution. If A is symmetric and positive def-
+inite, then we can ﬁnd the decomposition LU = A where U = Lt. This particular
+triangular decomposition, that is, LLt = A is the Choleski decomposition of A. Fur-
+ther if LU = A where U is unit upper triangular, then the decomposition is called a
+Crout decomposition.
+Example 7.4 Solve using triangular decomposition
+x1 + 2x2
+=
+−1
+2x1 + x2 + x3
+=
+3
+−2x1 −x2 + x3
+=
+1
+
+68
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+Solution: We have the system
+⎛
+⎝
+1
+2
+0
+2
+1
+1
+−2
+−1
+1
+⎞
+⎠x =
+⎛
+⎝
+−1
+3
+1
+⎞
+⎠
+Let A = LU, that is
+⎛
+⎝
+1
+2
+0
+2
+1
+1
+−2
+−1
+1
+⎞
+⎠=
+⎛
+⎝
+1
+0
+0
+l21
+1
+0
+l31
+l32
+1
+⎞
+⎠
+⎛
+⎝
+u11
+u12
+u13
+0
+u22
+u23
+0
+0
+u33
+⎞
+⎠.
+Multiplying out the right hand side gives
+A =
+⎛
+⎝
+u11
+u12
+u13
+l21u11
+l21u12 + u22
+l21u13 + u23
+l31u11
+l31u12 + l32u22
+l31u13 + l32u23 + u33
+⎞
+⎠.
+By equality of matrices, from the ﬁrst row we get,
+u11 = 1 , u12 = 2 , u13 = 0.
+From the second row,
+l21u11 = 2
+=⇒l21 = 2,
+l21u12 + u22 = 1 =⇒u22 = 1 −(2)(2) = −3,
+l21u13 + u23 = 1 =⇒u23 = 1.
+From the third row,
+l31u11 = −2
+=⇒l31 = −2,
+l31u12 + l32u22 = −1, =⇒l32 = −1(−1 + 4)/3 = −1,
+l32u13 + l32u23 + u33 = 1, =⇒u33 = 2.
+Hence we have
+L =
+⎛
+⎝
+1
+0
+0
+−2
+1
+0
+−2
+−1
+1
+⎞
+⎠and U =
+⎛
+⎝
+1
+2
+0
+0
+−3
+1
+0
+0
+2
+⎞
+⎠
+
+7.2
+Iterative methods for linear systems
+69
+Solving Ly = b, that is,
+⎛
+⎝
+1
+0
+0
+2
+1
+0
+−2
+−1
+1
+⎞
+⎠
+⎛
+⎝
+y1
+y2
+y3
+⎞
+⎠=
+⎛
+⎝
+−1
+3
+1
+⎞
+⎠,
+by forward substitution gives y1 = −1, y2 = 5 and y3 = 4.
+Then solving Ux = y, that is,
+⎛
+⎝
+1
+2
+0
+0
+−3
+1
+0
+0
+2
+⎞
+⎠
+⎛
+⎝
+x1
+x2
+x3
+⎞
+⎠=
+⎛
+⎝
+−1
+5
+4
+⎞
+⎠,
+by back substitution gives x3 = 2, x2 = −1 and x1 = 1, that is, x = (1, −1, 2)T.
+Exercise 7.1.2-2:
+Solve by LU decomposition:
+x1
++
+5x2
++
+4x3
++
+3x4
+=
+−5
+2x1
++
+7x2
++
+6x3
++
+10x4
+=
+7
+3x1
++
+2x2
++
+8x3
++
+255x4
+=
+65
+2x1
++
+x2
+−
+2x3
++
+27x4
+=
+20
+7.2
+Iterative methods for linear systems
+Iterative methods for
+Ax = b
+(86)
+are of the form
+x(k+1) = Gx(k) + c, k = 0, 1, 2, . . ..
+(87)
+The matrix G is the called the iteration matrix and the vector c is called the iteration
+vector. The scheme generates a sequence of vectors x(k), k = 0, 1, 2, . . ., which if
+converges, it converges to the solution x of the system. The principal of the schemes
+discussed here is the same but the difference is in how the iteration matrix G and
+vector c are formulated from A and b.
+
+70
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+7.2.1
+Jacobi Iteration Scheme
+In this case we decompose A into
+A = L + D + U
+where L is the strictly lower part of A, D is the diagonal of A and U is the strictly
+upper part of A. Then (86) becomes
+(L + D + U)x = b.
+(88)
+This can be rewritten as
+(L + U)x + Dx = b
+to give
+Dx = −(L + U)x + b.
+Hence we have
+x = −D−1(L + U)x + D−1b.
+We now set
+x(k+1) = −D−1(L + U)x(k) + D−1b, k = 0, 1, 2, . . ..
+(89)
+Equation (89) is in the form
+x(k+1) = Gjx(k) + cj
+and is the Jacobi iteration scheme where
+Gj = −D−1(L + U)
+is the Jacobi iteration matrix and
+cj = D−1b
+is the Jacobi iteration vector.
+Example 7.5 Solve using Jacobi iteration
+10x1
++
+x2
++
+x3
+=
+24
+−x1
++
+20x2
++
+x3
+=
+21
+x1
++
+−2x2
++
+100x3
+=
+300
+Solution: From
+A =
+⎛
+⎝
+10
+1
+1
+−1
+20
+1
+1
+−2
+100
+⎞
+⎠and b =
+⎛
+⎝
+24
+21
+300
+⎞
+⎠,
+
+7.2
+Iterative methods for linear systems
+71
+we gget
+L =
+⎛
+⎝
+0
+0
+0
+−1
+0
+0
+1
+−2
+0
+⎞
+⎠,
+D =
+⎛
+⎝
+10
+0
+0
+0
+20
+0
+0
+0
+100
+⎞
+⎠, and U =
+⎛
+⎝
+0
+1
+1
+0
+0
+1
+0
+0
+0
+⎞
+⎠.
+We can now form
+Gj = −D−1(L + U) = −
+⎛
+⎝
+1
+10
+0
+0
+0
+1
+20
+0
+0
+0
+1
+100
+⎞
+⎠
+⎛
+⎝
+0
+1
+1
+−1
+0
+1
+1
+−2
+0
+⎞
+⎠= −
+⎛
+⎝
+0
+1
+10
+1
+10
+−1
+20
+0
+1
+20
+1
+100
+−2
+100
+0
+⎞
+⎠
+and
+cj = D−1b =
+⎛
+⎝
+1
+10
+0
+0
+0
+1
+20
+0
+0
+0
+1
+100
+⎞
+⎠
+⎛
+⎝
+24
+21
+300
+⎞
+⎠=
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠
+The Jacobi iterations for the problem are then given by
+x(k+1) =
+⎛
+⎝
+0
+−1/10
+−1/10
+1/20
+0
+−1/20
+−1/100
+2/100
+0
+⎞
+⎠x(k) +
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠, k = 0, 1, 2, . . ..
+(90)
+Let
+x(0) =
+⎛
+⎝
+0
+0
+0
+⎞
+⎠,
+then
+x(1) =
+⎛
+⎝
+0
+−1/10
+−1/10
+1/20
+0
+−1/20
+−1/100
+2/100
+0
+⎞
+⎠
+⎛
+⎝
+0
+0
+0
+⎞
+⎠+
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠=
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠,
+
+72
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+x(2) =
+⎛
+⎝
+0
+−1/10
+−1/10
+1/20
+0
+−1/20
+−1/100
+2/100
+0
+⎞
+⎠
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠+
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠=
+⎛
+⎝
+1.995
+1.02
+2.997
+⎞
+⎠,
+x(3) =
+⎛
+⎝
+0
+−1/10
+−1/10
+1/20
+0
+−1/20
+−1/100
+2/100
+0
+⎞
+⎠
+⎛
+⎝
+1.995
+1.02
+2.997
+⎞
+⎠+
+⎛
+⎝
+2.4
+1.05
+3
+⎞
+⎠=
+⎛
+⎝
+1.9983
+0.9999
+3.0005
+⎞
+⎠
+Continuing this way we ﬁnd that the iteration converges to:
+x =
+⎛
+⎝
+2.000
+1.000
+3.000
+⎞
+⎠.
+7.2.2
+Gauss-Seidel Iteration
+In this case, after decomposing (86) into the form (88), we write is as
+(L + D)x = −Ux + b.
+This is rearranged to obtain
+x = −(L + D)−1Ux + (L + D)−1b.
+We set
+x(k+1) = −(L + D)−1Ux(k) + (L + D)−1b, k = 0, 1, 2, . . ..
+(91)
+Equation (91) is in the form
+x(k+1) = Ggx(k) + cg
+and is the Gauss-Seidel iteration scheme, where,
+Gg = −(L + D)−1U
+is the Gauss-Seidel iteration matrix and
+cg = (L + D)−1b
+is the Gauss-Seidel iteration vector.
+Example 7.6 Solve the previous example using Gauss Seidel iteration.
+
+7.2
+Iterative methods for linear systems
+73
+Solution:
+Gg = −(L + D)−1U =
+⎛
+⎝
+0
+−1/10
+1/10
+0
+−1/200
+−11/200
+0
+9/10000
+−1/10000
+⎞
+⎠
+and
+cg = (L + D)−1b =
+⎛
+⎝
+2.4
+1.17
+1.9994
+⎞
+⎠.
+Let
+x(0) =
+⎛
+⎝
+0
+0
+0
+⎞
+⎠,
+then
+x(1) =
+⎛
+⎝
+0
+−1/10
+1/10
+0
+−1/200
+−11/200
+0
+9/10000
+−1/10000
+⎞
+⎠
+⎛
+⎝
+0
+0
+0
+⎞
+⎠+
+⎛
+⎝
+2.4
+1.17
+1.9994
+⎞
+⎠=
+⎛
+⎝
+2.4
+1.17
+1.9994
+⎞
+⎠,
+x(2) =
+⎛
+⎝
+0
+−1/10
+1/10
+0
+−1/200
+−11/200
+0
+9/10000
+−1/10000
+⎞
+⎠
+⎛
+⎝
+2.4
+1.17
+1.9994
+⎞
+⎠+
+⎛
+⎝
+2.4
+1.17
+1.9994
+⎞
+⎠
+Continuing this way we ﬁnd that the iteration converges to
+x =
+⎛
+⎝
+2.000
+1.000
+3.000
+⎞
+⎠.
+
+74
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+7.3
+Convergence of the iteration scheme
+Observe that the iterations above are actually ﬁxed point iterative schemes. Thus, If
+x∗is the solution then,
+x∗= Gx∗+ c.
+(92)
+Subtracting (92) from (87) gives
+x(k+1) −x∗= G(x(k) −x∗).
+(93)
+Deﬁne
+e(k) = x(k) −x∗
+as the error in x(k). Then from (93) we have
+e(k+1) = Ge(k) = G2e(k−1) = G3e(k−2) = · · · = Gk+1e(0).
+(94)
+where e(0) is the error in the initial guess to the solution. This helps us prove the
+following theorem
+Theorem 7.1 (Convergence if G is convergent) The iterative scheme (87) converges to
+a limit with any arbitrary choice of the initial approximation x(0) if and only if G is a con-
+vergent matrix.
+Proof:
+If G is a convergent matrix, then Gn →O as n →∞, where O is the zero matrix.
+Then using this in (93) gives
+e(k+1) = Gk+1e(0) →Oe(0) = 0 as k →∞.
+Hence the scheme converges. On the other hand, since e(0) is ﬁxed at the begining
+of the scheme, then Gk+1e(0) →0 =⇒G(k+1) →O as k →∞.
+□
+The spectral radius of the iteration matrix G is also fundamental in determining the
+convergence of the scheme (87).
+Theorem 7.2 (Convergence if ρ(G) < 1) The iterative scheme (87) converges if and only
+if the spectral radius of G is less than 1, that is ρ(G) < 1.
+Proof:
+Let
+GV = VΛ
+be an eigen value decomposition of G, that is, Λ is a diagonal matrix of eigenvalues
+of G and V is a matrix whose columns are eigenvectors of G. For convergence, we
+have that
+e(k) = Gke(0) →0 as k →∞.
+
+7.3
+Convergence of the iteration scheme
+75
+This means that Gk →O as k →∞since e(0) is ﬁxed by the initial guess. Since Gk
+has the same eigenvectors as G, to be precise,
+GkV = VΛk,
+then Gk →O if and only if Λ →O. This means that λi →0 as k →∞for all i, since
+Λ is a diagonal matrix of eigenvalues of G, λi, i = 1, 2, 3, · · · , n. That is to say, we
+have convergence if and only if |λi| < 1 ∀i. Thus we have convergence if and only
+if ρ(G) < 1.
+Rate of convergence
+Now, suppose G has n eigenvectors and eigenvalues Vi and λi respectively, i =
+1, 2, 3, . . ., n. We can use the vi’s as a basis for e(0) so that
+e(0) =
+n
+"
+i=1
+αivi,
+(95)
+for some αi ∈R, i = 1, 2, . . ., n. Then
+e(1) = Ge(0) = G
+n
+"
+i=1
+αivi =
+n
+"
+i=1
+αiGvi =
+n
+"
+i=1
+αiλivi.
+Similarly
+e(2) = Ge(1) = G
+n
+"
+i=1
+αiλivi =
+n
+"
+i=1
+αiλiGvi =
+n
+"
+i=1
+αiλ2
+ivi.
+Proceeding in a similar way gives
+e(k) =
+n
+"
+i=1
+αiλk
+i vi.
+(96)
+This further shows that e(k) →0 as k →∞if and only if λk
+i →0 as k →∞∀i. In
+particular, the behaviour of e(k) will be dominated by the largest λi, that is, if
+ρ = max
+i
+|λi|,
+
+76
+7
+TECHNIQUES FOR LINEAR SYSTEMS OF EQUATIONS
+then ρ determines the rate of convergence of the scheme. The smaller the value of ρ,
+the faster the convergence.
+Example 7.7 How many iterations does it take to reduce the initial error by a factor
+10−3?
+Solution: Let ρ be the spectral radius of G. Then show that
+e(k) = ρke(0)
+=⇒||e(k)|| = ρk||′e(0)||.
+So after the kth iteration, we want that ρk = 10−3, =⇒k = log 10−3/log ρ
+Deﬁnition 7.4 The number log ρ is called the speed of convergence.
+Theorem 7.3 (Convergence due to Diagonal dominance) If A is strictly diagonally
+dominant, then the sequence of solutions produced by either Jacobi or Gauss-Seidel itera-
+tion converges to the solution of Ax = b for any x(0).
+Proof: A square matrix A is said to be strictly diagonally dominant if
+|aii| >
+n
+"
+j=1,j̸=i
+|aij| for all i = 1, 2, 3, . . ., n.
+For Jacobi,
+G = −D−1(L + U),
+then
+∥x∥∞= ∥L + U∥∞
+∥D∥∞
+=
+max
+1≤i≤n
+%
+j=1,j̸=i
+|aij|
+max
+1≤i≤n |aii|
+< 1
+since A is strictly diagonally dominant.
+Exercise 7.3-1: Check that
+A =
+⎛
+⎝
+3
+−1
+1
+1
+−4
+2
+−2
+−1
+5
+⎞
+⎠
+
+7.3
+Convergence of the iteration scheme
+77
+is strictly diagonally dominant.
+Exercise 7.3-2:
+(a) Consider the iteration scheme (87). Show that ∥e(k+1)∥≤∥G∥k∥e(0)∥.
+(b) Check for the convergence of the Jacobi and Gauss-Seidel schemes for linear
+systems whose:
+(i)
+A =
+⎛
+⎝
+3
+3
+3
+0
+2
+1
+1
+0
+2
+⎞
+⎠,
+b =
+⎛
+⎝
+6
+5
+4
+⎞
+⎠
+(ii)
+A =
+⎛
+⎝
+1
+0
+1
+−1
+1
+0
+1
+2
+3
+⎞
+⎠,
+b =
+⎛
+⎝
+6
+3
+3
+⎞
+⎠
+(c) Verify that the spectral radius for Gauss-Seidel is less than that for Jacobi, that
+is, ρ(Gg) < ρ(Gj). The implication of this is that the Gauss-Seidel scheme
+converges faster than the Jacobi scheme.

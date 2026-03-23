@@ -1,0 +1,1239 @@
+Chapter 5
+Polynomial Interpolation
+Interpolation is often used to approximate a value of some function f using two known values
+of that function at other points.
+
+5.1
+Direct Method
+Using the similarities of triangles,
+f(b) −f(a)
+b −a
+= f(c) −f(a)
+c −a
+f(b) −f(a) = (b −a)
+(c −a)[f(c) −f(a)]
+thus
+(c −a) [f(c) −f(a)]
+(5.1)
+and
+
+(c −a)
+(5.2)
+Example 5.1.1 Given the data below
+Time
+Distance
+1.) Find the distance traveled when t = 2.3 hrs.
+Then a = 2, c = 3, & b = 2.3
+f(a) = 39, f(c) = 67, & f(b)?
+(c −a) [f(c) −f(a)] = 39 + (2.3 −2)
+(3 −2) (67 −39) = 47.4
+2.) The time taken when the distance traveled is 80 miles.
+Then a = 3, c = 4, & b =?
+f(a) = 67, f(c) = 100, & f(b) = 80
+
+(c −a) = 3 + (80 −67)
+(100 −67)(4 −1) = 3.39394
+Example 5.1.2
+The bus stages along Kampala-Jinja are 10 km apart. An express bus traveling between the two towns only stops at these stages except in case of an emergency when its
+permitted to stop at a point between the two stages.
+The fares (fee) between the first, second, third and fourth stages from Jinja are Sh 110, Sh 150, Sh 185
+and Sh 200 respectively. On a certain day, a passenger paid to travel from Jinja in the bus
+upto the fourth stage, but he fell sick and had to be left on a health center 33 km from Jinja.
+1.) Given that he was refunded money for the distance he had not traveled, find the approximate
+amount of money he received.
+Distance (x)
+Amount Paid
+Page 122 of 196
+
+Then a = 30, c = 40, & b = 33
+f(a) = 185, f(c) = 200, & f(b)?
+(c −a) [f(c) −f(a)] = 185 + (200 −185)
+(40 −30) (33 −30) = 189.5
+The journey he had moved costed him Sh 189.5, thus he was refunded
+200 −189.5 = 10.5 shillings
+2.) Another person who had only Sh.165 was allowed to board a bus but would be left at a
+point worth his money, how far from Jinja would he be left.
+Then a = 20, c = 30, & b =?
+f(a) = 150, f(c) = 185, & f(b) = 165
+
+(c −a) = 20 + (165 −150)
+(185 −150)(30 −20) = 24.286 km
+Example 5.1.3 The table below shows the values of cos x.
+80◦x′
+cos 80◦x′
+0.1736
+0.1708
+0.1679
+0.1650
+0.1622
+.01593
+(i) Find the value of cos 80◦35′.
+Then a = 30′, c = 40′, & b = 35′
+f(a) = 0.1650, f(c) = .01622, & f(b)?
+(c −a) [f(c) −f(a)] = 0.1650 + (−0.0028)
+10′
+5′ = .01636
+(ii) Find the cos−1 0.1655.
+Then a = 20′, c = 30′, & b =?
+f(a) = 0.1679, f(c) = 0.1650, & f(b) = 0.1655
+b = a+
+
+(c−a) = 20′ + (0.1655 −0.1679)
+(0.1650 −0.1679)(30′ −20′) = 20′ +8.276′ = 28.276′
+cos−1 0.1655 = 80◦28.3′
+Example 5.1.4 Use Linear interpolation to find the root of the equation x3 −x−1 = 0 which
+lies between (1, 2)
+x
+f(x)
+−1
+Recall that a value x is a root or a solution to an equation f(x) if x satisfy it, i.e if f(x) = 0.
+The question is to find the value of x at f(x) = 0.
+Then a = 1, c = 2, & b =?
+f(a) = −1, f(c) = 5, & f(b) = 0
+
+(c −a) = 1 + (0 −−1)
+(5 −−1)(2 −1) = 1.16667
+Page 123 of 196
+
+Example 5.1.5 Use linear interpolation to estimate the root of the equation
+x3 −2x −5 = 0
+which lies in the interval (2, 3).
+2.0588
+Example 5.1.6 Use linear interpolation to estimate the root of the equation
+x2 −2 = 0
+which lies in the interval (−2, −1).
+−1.3333
+Example 5.1.7 The following data gives the distance covered by a particle for a certain period
+of time.
+Time (s)
+Distance(m)
+Estimate the time taken by a particle to cover a distance of 6 m.
+1.5 s
+5.1.1
+Application
+Linear interpolation is often used to fill the gaps in a table. Suppose you have a table listing
+the population of some country in 1970, 1980, 1990 and 2000, and that you want to estimate
+the population in 1994. Linear interpolation gives you an easy way to do this.
+The basic operation of linear interpolation between two values is so commonly used in computer
+graphics that it is sometimes called a lerp in the jargon of computer graphics. The term can
+be used as a verb or noun for the operation. e.g. ”Bresenham’s algorithm lerps incrementally
+between the two endpoints of the line.”
+Lerp operations are built into the hardware of all modern computer graphics processors. They
+are often used as building blocks for more complex operations: for example, a bilinear interpolation can be accomplished in three lerps. Because this operation is cheap, it’s also a good way
+to implement accurate lookup tables with quick lookup for smooth functions without having
+too many table entries.
+5.1.2
+History
+Linear interpolation has been used since antiquity for filling the gaps in tables, often with
+astronomical data. It is believed that it was used in the Seleucid Empire (last three centuries
+BC) and by the Greek astronomer and mathematician Hipparchus (second century BC). A
+description of linear interpolation can be found in the Almagest (second century AD) of Ptolemy.
+5.1.3
+Extensions
+In demanding situations, linear interpolation is often not accurate enough (since not all points
+can be approximated to be on a straight line). In that case, it can be replaced by polynomial
+interpolation or spline interpolation.
+Linear interpolation can also be extended to bilinear interpolation for interpolating functions
+of two variables. Bilinear interpolation is often used as a crude anti-aliasing filter. Similarly,
+trilinear interpolation is used to interpolate functions of three variables. Other extensions of
+linear interpolation can be applied to other kinds of mesh such as triangular and tetrahedral
+meshes.
+Page 124 of 196
+
+5.2
+Lagrange Interpolation
+We may know the value of a function f at a set of points x1, x2, . . . , xN. How do we estimate
+the value of the function at any point x∗; how do we compute f(x∗). In general this is done
+by developing a smooth curve though the points (x1, f(x1)), (x2, f(x2)), ...(xN, f(xN)).
+Lagrange interpolation is a way to pass a polynomial of degree N −1 through N points.
+Lagrange polynomials are the interpolating polynomials that equal zero in all given points,
+save one. Say, given points x1, x2, . . . , xN, Lagrange’s polynomial number k is the product
+Pk(x) = (x −x1)
+(xk −x1) · (x −x2)
+(xk −x2) · · · (x −xk−1)
+(xk −xk−1) · (x −xk+1)
+(xk −xk+1) · · · (x −xN)
+(xk −xN)
+such that Pk(xk) = 1 and Pk(xj) = 0, for j different from k. In terms of Lagrange’s polynomials
+the polynomial interpolation through the points (x1, y1), (x2, y2), . . . , (xN, yN) could be defined
+simply as
+P(x) = y1P1(x) + y2P2(x) + ... + yNPN(x)
+Definition 5.2.1
+Polynomial interpolation is a method of constructing a function and estimating values at non-tabular points between x0 and xn.
+5.2.0.1
+Alternatively
+Let f(x) be a continuous function on [a, b], such that
+f(xk) = f(xk),
+k = 0, 1, ..., n,
+with xk ∈[a, b]. We call the set of points {xk} tabular points (or interpolating points), while
+the set of values {f(xk)} are called the tabular values of f(x). We seek for a polynomial of
+degree n, such that
+Pn(xk) = f(xk), for k = 0, 1, 2, . . . n.
+(5.3)
+Such a polynomial is called Lagrange’s interpolation polynomial.
+However, the process of
+calculating f(x), x ∈[a, b], x ̸= xk ∀k from 0 to n, is called interpolation.
+We now proceed to derive a formula for Pn(x). However, there is need to introduce some key
+definitions.
+Definition 5.2.2
+Let {Dk : k = 0, 1, ..., n} be any set of numbers. We define the products;
+n
+Y
+k=0
+Dk = D0.D1...Dn
+and
+n
+Y
+j=0
+j̸=k
+Dk = D0.D1...Dj−1.Dj+1...Dn
+.
+This definition is important in the following defining equation for Lagrange’s interpolating
+polynomial.
+Page 125 of 196
+
+Theorem 5.2.1
+The Lagrange’s interpolation polynomial Pn(x) is given by,
+Pn(x) =
+n
+X
+k=0
+(5.4)
+with
+Lk(x) =
+n
+Y
+j=0
+j̸=k
+ x −xj
+xk −xj
+
+(5.5)
+Proof: Because Pn(x) is of degree n, we may write
+Lk(x) = αk
+n
+Y
+j=0
+j̸=k
+,
+αk constant.
+For Pn(x) to satisfy equation (5.3) we must have,
+Lk(xj) = δkj( Kroneker
+delta)
+with
+δkj =
+
+
+
+1,
+j = k
+0,
+j ̸= k
+(5.6)
+With the condition (1.3) we have,
+αk =
+nQ
+j=0
+j̸=k
+This completes the proof.
+Remark 5.2.1
+Let us have some examples of interpolating polynomials
+Page 126 of 196
+
+5.2.1
+Linear Interpolating Polynomials
+When n = 1, in equation (5.4) we have the polynomial as
+X
+k=0
+= L0(x)f(x0) + L1(x)f(x1)
+But Lk(x) =
+n
+Y
+j=0
+j̸=k
+therefore L0(x) =
+
+
+Thus,
+
+
+f(x1)
+(5.7)
+Which is known as Lagrange’s interpolating polynomial of degree one, popularly known as
+Linear interpolating polynomial.
+Example 5.2.1
+Construct a linear interpolation polynomial for the data,
+x
+f(x)
+1.0000
+2.7183
+Hence interpolate f(0.5).
+We have that
+x0
+x1
+x
+f(x)
+1.0000
+2.7183
+f(x0)
+f(x1)
+Substituting in equation (5.7) for linear interpolation we have,
+
+
+f(x1)
+=
+x −1
+0 −1
+
+f(0) +
+x −0
+1 −0
+
+f(1)
+= (1 −x)(1.0000) + (x)(2.7183)
+= 1.0000 + 1.7183x
+Hence
+P1(0.5) = 1.0000 + (1.7183)(0.5)
+= 1.0000 + 0.8592
+= 1.8592
+In fact the data in this particular example describes the graph of f(x) = ex on [0, 1].
+■
+Page 127 of 196
+
+Example 5.2.2 Find the linear Lagrange interpolating polynomial, P1(x), that passes through
+the points (1, 2) and (3, 4).
+x0
+x1
+x
+f(x)
+f(x0)
+f(x1)
+The function P1 can be obtained directly by substituting the the points (1, 2) and
+(3, 4) into the formula (5.7) for linear interpolation above to get:
+
+
+f(x1)
+=
+x −3
+3 −1
+
+f(1) +
+x −1
+3 −1
+
+f(3)
+=
+x −3
+3 −1
+
+(2) +
+x −1
+3 −1
+
+(4)
+= 2(3 −x) + 4(x −1)
+3 −1
+= 6 −2x + 4x −4
+= 2x + 2
+= x + 1
+Figure 5.1: Graphical illustration of linear interpolation
+■
+Page 128 of 196
+
+Example 5.2.3 Estimate the value of
+√
+5 using the linear Lagrange interpolating polynomial
+P1(x) that passes through the points (1, 1) and (9, 3) and evaluate the error of this approximation with the true value of
+√
+5 ≈2.23606...
+x0
+x1
+x
+f(x)
+f(x0)
+f(x1)
+The function P1 can be obtained directly by substituting the the points (1, 1) and
+(9, 3) into the formula (5.7) for linear interpolation above to get:
+
+
+f(x1)
+=
+x −9
+9 −1
+
+f(1) +
+x −1
+9 −1
+
+f(9)
+=
+x −9
+9 −1
+
+(1) +
+x −1
+9 −1
+
+(3)
+= 1(9 −x) + 3(x −1)
+9 −1
+= 9 −x + 3x −3
+= 2x + 6
+= x + 3
+Figure 5.2: Graphical illustration of linear interpolation
+Now our approximation of f(5) =
+√
+5 is given by P1(5):
+P1(5) = 5 + 3
+= 2
+As we can see, our approximation is an underestimate of the true value of
+√
+5. We
+only obtained one significant digit of accuracy.
+■
+Page 129 of 196
+
+5.2.2
+Quadrative Interpolating Polynomials
+When n = 2 in equation (5.4) we get
+P2(x) =
+X
+k=0
+= L0(x)f(x0) + L1(x)f(x1) + L2(x)f(x2)
+with Lk(x) =
+n
+Y
+j=0
+j̸=k
+then
+(x0 −x1)(x0 −x2)
+(x1 −x0)(x1 −x2)
+(x2 −x0)(x2 −x1)
+Thus, we have,
+P2(x) = (x −x1)(x −x2)
+(x0 −x1)(x0 −x2)f(x0) + (x −x0)(x −x2)
+(x1 −x0)(x1 −x2)f(x1) + (x −x0)(x −x1)
+(x2 −x0)(x2 −x1)f(x2)
+Which is called a quadratic interpolating polynomial. Generally they are better interpolating
+polynomials than the linear ones.
+Example 5.2.4
+You are given that, f(0) = −2, f(2) = 4, and f(3) = 10. Find a Lagrange
+polynomial of degree 2 that fits the data.
+Since x0 = 0,
+x1 = 2 and x2 = 3 therefore f(x0) = −2,
+f(x1) = 4,
+f(x2) = 10.
+But
+L0 = (x −x1).(x −x2)
+(x0 −x1)(x0 −x2) = (x −2)(x −3)
+(−2)(−3)
+= 1
+6x2 −5
+6x + 1
+L1 = (x −x0).(x −x2)
+(x1 −x0)(x1 −x2) = (x −0)(x −3)
+(2 −0)(2 −3)
+= −1
+2x2 + 3
+2x
+L2 = (x −x0).(x −x1)
+(x2 −x0)(x2 −x1) = (x −0)(x −2)
+(3 −0)(3 −2)
+= 1
+3x2 −2
+3x
+P2(x) = f(x) = L0f(x0) + L1f(x1) + L2f(x2)
+f(x) = (−2)
+1
+6x2 −5
+6x + 1
+
++ (4)
+
+−1
+2x2 + 3
+2x
+
++ (10)
+1
+3x2 −2
+3x
+
+= x2 + x −2
+Thus P2(x) can be used to interpolate f(x) at any of the non tabular points.
+Page 130 of 196
+
+Example 5.2.5 Construct the quadratic Lagrange interpolating polynomial P2(x) that interpolates the points (1, 4), (2, 1), and (5, 6).
+x0
+x1
+x2
+x
+f(x)
+f(x0)
+f(x1)
+f(x2)
+such that
+(x0 −x1)(x0 −x2) = (x −2)(x −5)
+(1 −2)(1 −5)
+(x1 −x0)(x1 −x2) = (x −1)(x −5)
+(2 −1)(2 −5)
+(x2 −x0)(x2 −x1) = (x −1)(x −2)
+(5 −1)(5 −2)
+with
+f(x0) = 4, f(x1) = 1, f(x2) = 6
+we have
+P2(x) = 4(x −2)(x −5)
+(1 −2)(1 −5) + 1(x −1)(x −5)
+(2 −1)(2 −5) + 6(x −1)(x −2)
+(5 −1)(5 −2)
+P2(x) = (x −2)(x −5) −1
+3(x −1)(x −5) + 1
+2(x −1)(x −2)
+= x2 −5x −2x + 10 −1
+3x2 + 5
+3x + 1
+3x −5
+3 + 1
+2x2 −1
+2x −x + 1
+= x2 −5x −2x + 10 −1
+3x2 + 2x −5
+3 + 1
+2x2 −1
+2x −x + 1
+=
+
+x2 −1
+3x2 + 1
+2x2
+ 
+−5x −2x + 2x −1
+2x −x
+
++
+
+10 −5
+3 + 1
+
+= 7
+6x2 −13
+2 x + 28
+Page 131 of 196
+
+Figure 5.3: Graphical illustration of quadratic interpolation, the graph of y = P2(x)
+■
+Example 5.2.6 Find the Lagrange interpolation expansion for f(x) = x2 −2x + 1 relative to
+x0 = −1 , x1 = 0, and x2 = 1 .
+The Lagrange polynomials are
+L0 =
+(x −0)(x −1)
+(−1 −0)(−1 −1) = 1
+2(x2 −x)
+L1 = (x + 1)(x −1)
+(0 + 1)(0 −1) = −(x2 −1)
+L2 = (x + 1)(x −0)
+(1 + 1)(1 −0) = 1
+2(x2 + x)
+Because f(−1) = 4 , f(0) = 1 , and f(1) = 0 , the expansion is
+P2 = L0f(x0) + L1f(x1) + L2f(x2)
+= 41
+2(x2 −x) + 1
+ −(x2 −1)
+
++ 0
+1
+2(x2 + x)
+
+= 2(x2 −x) −(x2 −1)
+= x2 −2x + 1
+Therefore
+f(x) = x2 −2x + 1
+We note that, both equations are the same.
+■
+Page 132 of 196
+
+Example 5.2.7 Construct the quadratic Lagrange interpolating polynomial P2(x) that interpolates the points (1, 2), (3, 4), and (5, 6).
+x0
+x1
+x2
+x
+f(x)
+f(x0)
+f(x1)
+f(x2)
+such that
+(x0 −x1)(x0 −x2) = (x −3)(x −5)
+(1 −3)(1 −5)
+(x1 −x0)(x1 −x2) = (x −1)(x −5)
+(3 −1)(3 −5)
+(x2 −x0)(x2 −x1) = (x −1)(x −3)
+(5 −1)(5 −3)
+with
+f(x0) = 2, f(x1) = 4, f(x2) = 6
+we have
+= 2(x −3)(x −5)
+(1 −3)(1 −5) + 4(x −1)(x −5)
+(3 −1)(3 −5) + 6(x −1)(x −3)
+(5 −1)(5 −3)
+= 1
+4(x −3)(x −5) −(x −1)(x −5) + 3
+4(x −1)(x −3)
+= 1
+4x2 −3
+4x −5
+4x + 15
+4 −x2 + 5x + x −5 + 3
+4x2 −3
+4x −9
+4x + 9
+= x + 1
+Figure 5.4: Graphical illustration of quadratic interpolation, the graph of y = P2(x)
+Note that this example shows that P2 need not be quadratic and may be a polynomial
+of lesser degree.
+■
+Page 133 of 196
+
+5.2.3
+The Cubic Interpolating Polynomial
+When n = 3 in equation (5.4) we get,
+P3(x) =
+X
+k=0
+= L0(x)f(x0) + L1(x)f(x1) + L2(x)f(x2) + L3(x)f(x3)
+and with Lk(x) =
+n
+Y
+j=0
+j̸=k
+then,
+(x0 −x1)(x0 −x2)(x0 −x3)
+(x1 −x0)(x1 −x2)(x1 −x3)
+(x2 −x0)(x2 −x1)(x2 −x3)
+(x3 −x0)(x3 −x1)(x3 −x2)
+Thus,
+P3 =
+(x0 −x1)(x0 −x2)(x0 −x3)f(x0) +
+(x1 −x0)(x1 −x2)(x1 −x3)f(x1)
++ (x −x0)(x −x1)(x −x3)
+(x2 −x0)(x2 −x1)(x2 −x3)f(x2) +
+(x3 −x0)(x3 −x1)(x3 −x2)f(x3)
+Construction of the cubic polynomials from available data will be tested in the text questions at
+the end of this lecture. Note that the higher degree Lagrange polynomials can be constructed
+with ease.
+Page 134 of 196
+
+5.2.4
+Higher Order Lagrange Interpolating Polynomials
+Definition 5.2.3 The nth Order Lagrange Interpolating Polynomial that passes through the
+n + 1 points (x0, f(x0)), (x1, f(x1)), . . . , (xn, f(xn)) where x0, x1, . . . , xn are distinct numbers is
+Pn(x) = f(x0)L0(x) + f(x1)L1(x) + · · · + f(xn)Ln(x)
+(5.8)
+with
+Lk(x) =
+(x −x0)(x −x1) . . . (x −xk−1)(x −xk+1). . . (x −xn)
+(xk −x0)(xk −x1) . . . (xk −xk−1)(xk −xk+1) . . . (xk −xn) =
+n
+Y
+j=0
+j̸=k
+(x −xi)
+(xk −xi)
+(5.9)
+Example 5.2.8 Find the quartic Lagrange interpolating polynomial, P4(x), that interpolates
+the points (−1, 4), (1, 1), (2, 0), (6, 4), and (7, −1).
+Applying the formula above directly and we get that:
+P4(x) = y0L0(x) + y1L1(x) + y2L2(x) + y3L3(x) + y4L4(x)
+P4(x) = y0
+Q ln
+j=0,j̸=0(x −xj)
+Qn
+j=0,j̸=0(x0 −xj) + y1
+Qn
+j=0,j̸=1(x −xj)
+Qn
+j=0,j̸=1(x1 −xj) + y2
+Qn
+j=0,j̸=2(x −xj)
+Qn
+j=0,j̸=2(x2 −xj) + y3
+Qn
+j=0,j̸=3(x −xj)
+Qn
+j=0,j̸=3(x3 −xj)
+P4(x) = 4
+(x −x1)(x −x2)(x −x3)(x −x4)
+(x0 −x1)(x0 −x2)(x0 −x3)(x0 −x4) + 1
+(x −x0)(x −x2)(x −x3)(x −x4)
+(x1 −x0)(x1 −x2)(x1 −x3)(x1 −x4)
++ 4
+(x −x0)(x −x1)(x −x2)(x −x4)
+(x3 −x0)(x3 −x1)(x3 −x2)(x3 −x4) −1
+(x −x0)(x −x1)(x −x2)(x −x3)
+(x4 −x0)(x4 −x1)(x4 −x2)(x4 −x3)
+P4(x) = 4
+(x −1)(x −2)(x −6)(x −7)
+(−1 −1)(−1 −2)(−1 −6)(−1 −7) + 1(x + 1)(x −2)(x −6)(x −7)
+(1 + 1)(1 −2)(1 −6)(1 −7)
++ 4(x + 1)(x −1)(x −2)(x −7)
+(6 + 1)(6 −1)(6 −2)(6 −7) −1(x + 1)(x −1)(x −2)(x −6)
+(7 + 1)(7 −1)(7 −2)(7 −6)
+P4(x) = 1
+84(x −1)(x −2)(x −6)(x −7) −1
+60(x + 1)(x −2)(x −6)(x −7)
+−1
+35(x + 1)(x −1)(x −2)(x −7) −
+240(x + 1)(x −1)(x −2)(x −6)
+= −3
+80x4 + 11
+30x3 −13
+16x2 + 13
+30x + 1
+The graph of y = P4(x) is given below
+■
+Page 135 of 196
+
+5.2.5
+Uniqueness of Lagrange Interpolating Polynomials
+Theorem 5.2.2
+Lagrange’s interpolation polynomial Pn(x) is unique.
+Proof:
+The proof proceeds by contradiction. Let Pn(x) and Qn(x) be two different
+polynomials which interpolate f(x) over the set of points {xk : k = 0, 1, . . . , n} which
+belong to the interval [a, b], then
+Pn(xk) = Q(xk) = f(xk), for k = 0, 1, 2, . . . , n.
+Lets define,
+r(x) = P(x) −Q(x) ∀x ∈[a, b],
+then r(x) has at most degree n. Since r(xk) = 0 for k = 0, 1, 2, . . . , n, it has n + 1
+distinct zeros in [a, b]. This contradicts the fundamental law of algebra which states
+that a non-zero polynomial of degree n cannot have more than n zeros and so Pn(x)
+and Qn(x) are the same polynomials.
+■
+Note 5.2.1
+The uniqueness means that you cannot find any other polynomial of the same
+degree which can interpolate the data.
+Page 136 of 196
+
+Exercise 5.2.1
+1.) Construct a linear interpolating polynomial P1(x) for the function f(x) = 1
+x on the interval
+[1, 2]. Use your polynomial to interpolate f(x) at x = 1.2 .
+2.) Given that x0 = 0,
+x1 = 1
+2 and x2 = 1 for f(x) = ex. Construct a Lagrange polynomial
+that agrees with f(x) at the interpolating points.
+3.) Find a third degree Lagrange polynomial that goes through the points (0, 0), (1, 1), (8, 2)
+and (27, 3).
+Use the polynomial to find q for (20, q). Also construct a linear interpolating polynomial
+using only (8, 2) and (27, 3), then use the linear polynomial to estimate q. Compare the
+estimated qs and comment on your results given that the data is of the function y = x
+3.
+4.) Find the interpolating polynomials going through
+(a) (0, 1) and (2, 3)
+(b) (−1, a), (0, b) and (1, c)
+(c) (0, 1), (1, 0), (2, 1) and (3, 0)
+5.) Given the table below, use Lagrange’s interpolation polynomials of degree one, two and
+three to find f(2.5)
+x
+2.0
+2.2
+2.4
+2.6
+f(x)
+0.5102
+0.5208
+0.5104
+0.4813
+(a) For n = 1, since need to predict f(2.5) then x0 = 2.4, x2 = 2.6
+P1(x) = ( x −x1
+)f(x0) + ( x −x0
+)f(x1)
+= ( x −2.6
+2.4 −2.6)0.5104 + ( x −2.4
+2.6 −2.4)0.4813
+= 0.49585
+so for x = 2.5, f(2.5) = 0.49585
+(b) For n = 2, x0 = 2.2, x1 = 2.4, x2 = 2.6
+= (x −x0)(x −x2)
+(x1 −x0)(x1 −x2)f(x1) + (x −x0)(x −x1)
+(x2 −x0)(x2 −x1)f(x2)
+= 0.53814
+6.) Repeat questions in linear-interpolation (review-section) using the Lagrange linear interpolating polynomial. comment on the accuracy of the two techniques.
+Page 137 of 196
+
+5.2.6
+Error analysis in Lagrange’s interpolation
+Truncation errors in Lagrange interpolation
+We assume that f(xk) ≡f(xk),
+k = 0, 1, 2, . . . , n are exact and we consider the truncation
+error e(x) = f(x) −Pn(x) for x ∈[a, b] and Pn(x) the Lagrange polynomial of degree n as
+defined in earlier.
+Apart from the fact that e(xk) = 0, for k = 0, 1, 2, . . . , n with xk ∈[a, b], we can say nothing
+more about e(x) for any x ̸= xk.
+In addition we have that f(x) has at least n+1 continuous derivatives on [a, b], then it is possible
+to express e(x) in terms of f n+1(x). We now state without proof two necessary Lemmas.
+Lemma 5.2.1
+Given
+qn+1(x) =
+n
+Y
+k=0
+(x −xk),
+x ∈[a, b]
+of degree (n + 1),
+q′
+n+1(x) is of degree n such that
+q′
+n+1(xj) =
+n
+X
+k=0
+k̸=j
+(xj −xk)
+Lemma 5.2.2
+Let a function g(x) be defined on [a, b]. Let {Sk : k = 0, 1, . . . , n} be a set of distinct points
+each belonging to [a, b], with S0 < S1 < S2 < . . . < Sn. Suppose that:
+(i) g(n)(x)(n ≥integer) is continuous on [S0, Sn].
+(ii) g(Sk) = 0, k = 0, 1, . . . , n.
+Then there is at least a number ξ ∈(S0, Sn) such that , g(n)(ξ) = 0
+Lemma 5.2.3
+The expression in the truncation error e(x) is given by:
+e(x) =
+n
+Y
+k=0
+(x −xk)f (n+1)(ξ)
+(n + 1)!
+with ξ = ξ(x) and mink(x, xk) < ξ < maxk(x, xk)
+Proof
+For points x = xk,
+k = 0, 1, 2, . . . , n, the theorem is trivially satisfied.
+Suppose x ̸= xk, we define
+q(t) =
+n
+Y
+k=0
+(t −xk)
+and
+g(t) = f(t) −Pn(t) −q(t)
+q(x)(f(x) −Pn(x)) for t, x ∈[a, b].
+Page 138 of 196
+
+Now g(xk) = 0,
+k = 0, 1, 2, . . . n Also g(x) = 0 (x ̸= xk). So for each fixed x ̸= xk, g(t) has
+n + 2 distinct zeros.
+Since g(t) satisfies all the conditions of Lemma 1.2, we deduce that there is a number ξ such
+that g(n+1)(ξ) = 0 where
+min
+k (x, xk) < ξ < max
+k (x, xk).
+Now
+g(n+1)(t) = f (n+1)(t) −P (n+1)
+n
+(t) −(f(x) −Pn)q(n+1)(t)
+q(x)
+= f (n+1)(t) −(n + 1)!(f(x) −Pn(x))
+q(x)
+Since
+P n+1(t) = 0
+and
+qn+1(t) = (n + 1)!
+The result of the theorem follows when t = ξ.
+Example 5.2.9
+Using two point linear interpolation of ex on [0, 1] therefore
+ex = x(x −1)
+eξ,
+ξ ∈(0, 1).
+But x(x −1) is maximum or minimum at x = 1
+2 with maximum absolute value equal to 1. So
+e(x) has a maximum value equal to e
+8 = 0.3398 (4dp)
+5.2.7
+Rounding errors in Lagrange polynomials
+Errors known as rounding errors are usually introduced in the functional evaluation of f(xk).
+Suppose rounding errors Ek occur in the data f(xk) = f(xk),
+k = 0, 1, 2, . . . , n respectively.
+Let P(x) and P ⋆(x) denote, respectively, the interpolating polynomials using exact and inexact
+data.
+Thus,
+Pn(x) =
+n
+X
+k=0
+(f(xk) + Ek)Lk(x)
+P ⋆
+n(x) =
+n
+X
+k=0
+f(xk)Lk(x)
+so |Pn(x) −P ⋆
+n(x)| ≤
+n
+X
+k=0
+|Ek||Lk(x)|
+Which is the rounding error bound. If data was rounded to m decimal places, then the absolute
+maximum error is |Ek| ≤1
+2 × 10−m for each k = 0, 1, . . . , n.
+Example 5.2.10
+Find the rounding error bound in linear interpolation, of ex for x ∈[0, 1],
+when data were rounded to four digits.
+Page 139 of 196
+
+|P1(x) −P1 ∗(x)| ≤1
+210−4(|L0(x)| + |L1(x)|)
+Now,
+L0(x) = 1 −x
+and
+L1(x) = x
+and so on
+[0, 1], |L0(x)| + |L1(x)| = 1 −x + x = 1.
+Thus,
+|P1(x) −P ⋆
+1(x)| ≤1
+210−4,
+which says that the effect of rounding errors in the data, on P1(x) maintains the same maximum
+magnitude.
+Example 5.2.11
+The table below gives the tabulated values of the probability integral,
+I =
+r
+π
+ x
+e
+−t2
+2 dt
+Use linear interpolation to find the value of I when x = 1.125. Estimate also the error bound
+on the truncation error over [1, 1.25]
+x
+1.00
+1.05
+1.10
+1.15
+1.20
+1.25
+I
+0.683
+0.705
+0.729
+0.750
+0.770
+0.789
+Note 5.2.2
+At the tabular points x0, x1, ..., xn, the truncation error is zero, hence we can write
+f(x) = Pn(x) + R
+n
+Y
+i=0
+(x −xi) (R constant depending on x)
+Let,
+F(x) = f(t) −Pn(t) −{f(x) −Pn(x)}
+nQ
+i=0
+(t −xi)
+nQ
+i=0
+(x −xi)
+(∗)
+then
+F(xi) = f(xi) −Pn(xi) = 0,
+i = 0, 1, 2, . . . n
+Further
+F(x) = f(x) −Pn(x) −f(x) + Pn(x) = 0,
+∀x ∈(a, b),
+x ̸= xi,
+necessarily and i = 0, 1, 2, . . . n.
+Thus, F(t) vanishes in (a, b) at n + 2 distinct points. On applying Rolle’s theorem repeatedly
+we conclude that there exists c ∈(a, b) such that, F (n+1)(c) = 0.
+Differentiating equation (∗) (n + 1) times and putting t = c, gives,
+f(x) = Pn(x) +
+n
+Y
+i=0
+(x −xi)f (n+1)(c)
+(n + 1)!
+For linear interpolation, n = 1, so,
+P1(x) = x −x1
+f(x0) + x −x0
+f(x1)
+Page 140 of 196
+
+with
+x0 = 1.10,
+x1 = 1.15
+⇒f(x0) = .729,
+f(x1) = 0.750
+thus ,
+P1(1.125) = (1.125 −1.15)(0.729)
+−0.05
++ (1.125 −1.10)(0.75)
+0.05
+= 0.5(0.729 + 0.750) = 0.7395
+Truncation error
+Y
+i=0
+(x −xi)f (2)(c)
+2!
+Now (x −x0)(x −x1) is minimum at x = x0 + x1
+and is equal to (x1 −x0)2
+in magnitude.
+f ′(x) =
+r
+πe
+−x2
+2 ,
+f ′′(x) = −
+√
+π xe
+−x2
+f ′′′(x) = −
+√
+π e
+−x2
++
+√
+π x2e
+−x2
+and is 0 if x = ±1. Thus ,
+|f ′′(x)| ≤
+√
+π√e
+A bound on the truncation error is given by,
+(0.05)2
+8π
+r
+e ≃0.00009
+Exercise 5.2.2
+1.) Compute a bound on the truncation error for ex on [1, 1.4] when fourth degree polynomial
+is used to interpolate ex.
+2.) Obtain error bounds for both linear and quadratic interpolation for sin hx over the interval
+[1.90, 2.10]
+3.) A table of values for x4 −x
+is constructed for 0 ≤x ≤1 in such a way that the error
+in linear interpolation does not exceed ε if rounding errors were neglected. Show that for
+uniform spacing h, then h does not exceed the value 2
+√
+2ε.
+4.) Find the rounding error bound when quadratic interpolation, of ex for x ∈[0, 1], when data
+were rounded to four digits.
+Note 5.2.3
+Use Lagrange interpolation to find an appropriate function passing through the
+given points. Sketch a graph of this function based only on the given points and what you
+think the curve must be. Compare your sketch with the graph created by graphing technology.
+1.) A linear function passing through the points (−1, 3) and (2, 1).
+2.) A quadratic function passing through the points (−1, 3), (0, 2), and (2, 1).
+Page 141 of 196
+
+3.) A cubic function passing through the points (−1, 3), (0, 2), (1, 5), and (2, 1).
+4.) A quartic (fourth degree) polynomial function passing through (−2, 4), (−1, 3), (0, 2), (1, 5),
+and (2, 1).
+Note 5.2.4
+Finding a quadratic function that resembles other functions: By choosing three
+noncolinear points on any curve we can use Lagrange’s interpolation to find a parabola that
+passes through those points. For each of the following functions find a parabola that passes
+through the graphs of the functions when at points with the indicated first coordinates. Use
+graphing technology to draw a sketch of the function and the quadratic function you find.
+Discuss how you might use the function you find to estimate the value of the given function.
+(a) f(x) = x5 −4x3 + 2; x = 0, 1, 2.
+(b) f(x) = √x; x = 0, 1, 4.
+(c) f(x) = 2x; x = −1, 0, 1.
+(d) f(x) = 2x; x = 0, 1, 2.
+(e) f(x) = sin
+  π
+2x
+
+; x = 0, 1, 2.
+(f) f(x) = cos
+  π
+2x
+
+; x = −1, 0, 1 .
+Describe a general procedure for finding a polynomial function of degree n that passes through
+n + 1 given points with distinct first coordinates.
+Note 5.2.5
+Lagrange’s interpolation formula has the disadvantage that the degree of the
+approximating polynomial must be chosen at the outset; an alternative approach is discussed in
+the next Step. Thus, Lagrange’s formula is mainly of theoretical interest for us here; in passing,
+we mention that there are some important applications of this formula beyond the scope of this
+book - for example, the construction of basis functions to solve differential equations using a
+spectral (discrete ordinate) method.
+Note 5.2.6
+Given the data below,
+x
+-3
+f(x)
+-28
+Use linear interpolation to approximate
+(a) f(3).
+(b) f(x) if x = 5.
+(c) x if f(x) = 12.
+(d) the root/solution of f(x).
+f(x) = 8x −4
+Example 5.2.12
+Use Lagrange’s polynomial to approximate f(2) for
+x0
+x1
+x
+f(x)
+Page 142 of 196
+
+f(x) = 8x −3
+L0(x) = (x −x1)
+(x0 −x1) = 1
+2(3 −x)
+L1(x) = (x −x0)
+(x1 −x0) = 1
+2(x −1)
+P1(x) = L0(x)f(x0) + L1(x)f(x1)
+= 1
+2(3 −x)(5) + 1
+2(x −1)(21)
+= 1
+2[15 −5x + 21x −21]
+= 1
+2[16x −6]
+≈8x −3
+f(2) = 8(2) −3 = 13
+Example 5.2.13
+The Lagrange basis polynomials (n=N-1) on the data to approximate
+f(3.5)
+x0
+x1
+x2
+x
+f(x)
+(x0 −x1)(x0 −x2) = 1
+3(x −2)(x −4)
+(x1 −x0)(x1 −x2) = −1
+2(x −1)(x −4)
+(x2 −x0)(x2 −x1) = 1
+P2(x) = L0(x)f(x0) + L1(x)f(x1) + L2(x)f(x2)
+= 1
+3(x −2)(x −4)(3) −1
+2(x −1)(x −4)(2) + 1
+= (x −2)(x −4) −(x −1)(x −4) + 1
+= 1
+6x2 −3
+2x + 13
+≈0.1667x2 −1.5x + 4.3333
+f(3.5) ≈0.1667(3.5)2 −1.5(3.5) + 4.3333 ≈1.125075
+Note 5.2.7
+Lagrange error for n = 2,
+f(x) = P2(x) + f (3)(ξ)
+3!
+(x −x0)(x −x1)(x −x2), ξ ∈[a, b], where {x0, x1, x2} ⊆[a, b]
+Page 143 of 196
+
+Note 5.2.8
+The identity
+n
+X
+k=0
+Lk(x) = 1
+(established by setting f(x) = 1) may be used as a check. Note also that with n = 1 we recover
+the linear interpolation formula:
+P1(x) = L0(x)f(x0) + L1(x)f(x1)
+= (x −x1)
+(x0 −x1)f(x0) + (x −x0)
+(x1 −x0)f(x1)
+= f(x0) + (x −x0)
+(x1 −x0)[f(x1) −f(x0)]
+Example 5.2.14
+Use Lagrange’s interpolation formula to find the interpolating polynomial
+P3(x) through the points (0, 3), (1, 2), (2, 7), and (4, 59) and then find the approximate value of
+P3(3).
+x0
+x1
+x2
+x3
+x
+f(x)
+Here n = 3 = 4 −1
+The Lagrange coefficients are:
+(x0 −x1)(x0 −x2)(x0 −x3) = (x −1)(x −2)(x −4)
+(0 −1)(0 −2)(0 −4) = −1
+8(x3 −7x2 + 14x −8)
+(x1 −x0)(x1 −x2)(x1 −x3) = (x −0)(x −2)(x −4)
+(1 −0)(1 −2)(1 −4) = 1
+3(x3 −6x2 + 8x)
+(x2 −x0)(x2 −x1)(x2 −x3) = (x −0)(x −1)(x −4)
+(2 −0)(2 −1)(2 −4) = −1
+4(x3 −5x2 + 4x)
+(x3 −x0)(x3 −x1)(x3 −x2) = (x −0)(x −1)(x −2)
+(4 −0)(4 −1)(4 −2) = 1
+24(x3 −3x2 + 2x)
+(The student should verify that [L0(x) + L1(x) + L2(x) + L3(x) = 1]
+Hence, the required polynomial is
+P3(x) = −3
+8(x3 −7x2 + 14x −8) + 2
+3(x3 −6x2 + 8x)
+−7
+4(x3 −5x2 + 4x) + 59
+24(x3 −3x2 + 2x)
+= 1
+
+−9x3 + 63x2 −126x + 72 + 16x3 −96x2 + 128x −42x3 + 210x2 −168x + 59x3 −177x2 + 118x
+
+= 1
+
+−9x3 + 63x2 −126x + 72 + 16x3 −96x2 + 128x −42x3 + 210x2 −168x + 59x3 −177x2 + 118x
+
+= 1
+
+24x3 + 0x2 −48x + 72
+
+= x3 −2x + 3
+Page 144 of 196
+
+Consequently f(3) ≈P(3) = 33 −2(3) + 3 = 24, However, note that, if the explicit form of
+the interpolating polynomial were not required, one would proceed to evaluate P3(x) for some
+value of x directly from the factored forms of Lk(x). Thus, in order to evaluate P3(3), one has
+L0(3) =
+(x0 −x1)(x0 −x2)(x0 −x3) = (3 −1)(3 −2)(3 −4)
+(0 −1)(0 −2)(0 −4) = 1
+4. etc.
+Exercise 5.2.3
+Given that f(−2) = 46, f(−1) = 4, f(1) = 4, f(3) = 156, and f(4) = 484,
+use Lagrange’s interpolation formula to estimate the value of f(0).
+Example 5.2.15
+Use Lagrange interpolation polynomial for the data below
+x0
+x1
+x2
+x3
+x
+f(x)
+to show that P(x) = x3 −x2 + x + 2 The Lagrange coefficients are:
+(x0 −x1)(x0 −x2)(x0 −x3) = (x −2)(x −4)(x −5)
+(1 −3)(1 −4)(1 −5) = −1
+12(x3 −11x2 + 38x −40)
+(x1 −x0)(x1 −x2)(x1 −x3) = (x −1)(x −4)(x −5)
+(2 −1)(2 −4)(2 −5) = 1
+6(x3 −10x2 + 29x −20)
+(x2 −x0)(x2 −x1)(x2 −x3) = (x −1)(x −2)(x −5)
+(4 −1)(4 −2)(4 −5) = −1
+6(x3 −8x2 + 17x −10)
+(x3 −x0)(x3 −x1)(x3 −x2) = (x −1)(x −2)(x −4)
+(5 −1)(5 −2)(5 −4) = 1
+12(x3 −7x2 + 14x −8)
+(The student should verify that [L0(x) + L1(x) + L2(x) + L3(x) = 1] Hence, the required
+polynomial is
+P3(x) = −1
+12(x3 −11x2 + 38x −40)[3] + 1
+6(x3 −10x2 + 29x −20)[8]
++1
+6(x3 −8x2 + 17x −10)[54] + 1
+12(x3 −7x2 + 14x −8)[107]
+=
+
+−3x3 + 33x2 −114x + 120 + 16x3 −160x2 + 464x −320 −108x3 + 864x2 −1836x + 1080 + 107x3 −749x2 + 1498x −
+= 1
+
+−3x3 + 33x2 −114x + 120 + 16x3 −160x2 + 464x −320 −108x3 + 864x2 −1836x + 1080 + 107x3
+= 1
+
+12x3 −12x2 + 12x + 24
+
+= x3 −x2 + x + 2
+Consequently f(3.5) ≈P(3.5) = (3.5)3 −(3.5)2 + (3.5) + 2 = 36.125,
+Page 145 of 196

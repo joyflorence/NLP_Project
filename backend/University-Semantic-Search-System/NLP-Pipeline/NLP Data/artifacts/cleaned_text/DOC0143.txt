@@ -1,0 +1,1372 @@
+ICT SERVICES AND THE FINANCIAL PERFORMANCE OF COMMERCIAL
+BANKS: A CASE STUDY OF CENTENARY BANK MUKONO BRANCH
+DANIEL OKWIR
+J23B05/038
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF BUSINESS
+ADMINISTRATION OF UGANDA CHRISTIAN UNIVERSITY
+October, 2024
+
+i
+
+DECLARATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii
+
+APPROVAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+DEDICATION
+I dedicate this research report to all those who have supported, encoraged, challenged and
+inspired me and especially to my beloved parents MR. RICHARD OUNI and MRS. LILLY
+AKELLO, all lecturers and friends for all their guidance, love and attention which has made it
+possible for me to make up to this point and as well as to my supervisor MR. AGUME
+ANTHONY who bestowed us with courage, committment and the awareness to follow the best
+possible route while writing my research report.
+May God reward you abudantly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+ACKNOWLEDGEMENT
+I am grateful to God for granting me good health that has enabled me complete this research
+study.
+I am most grateful to my beloved parents, MR. RICHARD OUNI and MRS. LILLY AKELLO
+for their tremendous support and moral guidance during my study. I will always remain indebted
+to them for all their support.
+I would like to extend great thanks to my supervisor, MR. AGUME ANTHONY, for his
+enthusiasm patience, intellectual guidance, wide research experience and moral support.
+My profound gratitude also goes to my academic mentors and friends whose efforts and
+encouragement offered deep insight to my study.
+Finally, my heartfelt thanks go to entire staff of Uganda Christian University whose knowledge,
+advice and support has enabled me complete this research report successfully. I also can’t forget
+Centenary bank, Mukono branch and its staff members for giving me the opportunity to interact
+with the institution and attain relevant information from its well composed and competent staff.
+“Glory to the Almighty God”
+
+
+
+
+
+
+
+
+
+
+v
+
+TABLE OF CONTENTS
+DECLARATION ........................................................................................................................ i
+APPROVAL .............................................................................................................................. ii
+DEDICATION .......................................................................................................................... iii
+ACKNOWLEDGEMENT ......................................................................................................... iv
+LIST OF TABLES .................................................................................................................. viii
+LIST OF FIGURES .................................................................................................................. ix
+LIST OF ACRONYMS ...............................................................................................................x
+ABSTRACT ............................................................................................................................. xi
+CHAPTER ONE: INTRODUCTION ......................................................................................1
+1.0 Introduction ...........................................................................................................................1
+1.1 Background of the study ........................................................................................................1
+1.2 Problem statement .................................................................................................................3
+1.3 Purpose of the study ..............................................................................................................4
+1.4 Objectives of the study ..........................................................................................................4
+1.5 Research questions ................................................................................................................5
+1.6 Scope of the study .................................................................................................................5
+1.6.1 Content scope .....................................................................................................................5
+1.6.2 Geographical scope ............................................................................................................5
+1.7 Significance of the study .......................................................................................................5
+1.8 Conceptual framework ..........................................................................................................6
+CHAPTER TWO: LITERATURE REVIEW ..........................................................................8
+2.0 Introduction ...........................................................................................................................8
+2.1 Evolution of ICT services. .....................................................................................................8
+2.2 ICT Services in Banking........................................................................................................8
+2.3 The effect of Automated teller machines (ATMs) on the financial performance of .............. 10
+
+vi
+
+2.4 The effect of online banking on the financial performance of commercial banks ................. 11
+2.5 Challenges affecting ICT services........................................................................................ 13
+2.6 Solutions to the challenges affecting ICT services. .............................................................. 15
+CHAPTER THREE: METHODOLOGY .............................................................................. 16
+3.0 Introduction ......................................................................................................................... 16
+3.1 Research design ................................................................................................................... 16
+3.2 Study area and study population .......................................................................................... 16
+3.3 Sample size determination ................................................................................................... 16
+3.4 Sampling techniques............................................................................................................ 17
+3.5 Sources of data collection .................................................................................................... 18
+3.5.1 Primary sources ................................................................................................................ 18
+3.5.2 Secondary sources ............................................................................................................ 18
+3.6 Data collection instruments ................................................................................................. 18
+3.6.1 Questionnaires .................................................................................................................. 18
+3.6.2 Key Informant Interviews ................................................................................................. 19
+3.6.3 Observations..................................................................................................................... 19
+3.7 Data collection tools ............................................................................................................ 19
+3.7.1 Questionnaire guide .......................................................................................................... 19
+3.7.2 Key informant interview guide ......................................................................................... 20
+3.7.3 Observation checklist ....................................................................................................... 20
+3.8 Data Quality checks............................................................................................................. 20
+3.8.1 Validity ............................................................................................................................ 20
+3.8.2 Reliability......................................................................................................................... 21
+3.8.3 Sustainability .................................................................................................................... 21
+3.9 Data analysis techniques ...................................................................................................... 21
+3.9.1 Analysis of quantitative data ............................................................................................. 22
+
+vii
+
+3.9.2 Analysis of qualitative data ............................................................................................... 22
+3.10 Ethical considerations ........................................................................................................ 22
+3.10.1 Anticipated limitations and delimitations of the study ..................................................... 22
+CHAPTER FOUR: DATA PRESENTATION AND INTERPRETATION ......................... 24
+4.0 Introduction ......................................................................................................................... 24
+4.1 Findings on demographic characteristics of respondents ...................................................... 24
+4.1.2. Gender of the respondents ............................................................................................... 24
+4.1.2. Age of the respondents .................................................................................................... 25
+4.1.3. Education level of the respondents ................................................................................... 26
+4.1.4. Department respondents belong to ................................................................................... 26
+4.1.5. Period spent serving in Centenary bank- Mukono branch ................................................. 27
+4.2. Correlation analysis on ICT services and financial performance of Centenary bank, Mukono
+branch. ...................................................................................................................................... 28
+4.3. Regression analysis on online banking and financial performance of Centenary bank,
+Mukono branch. ........................................................................................................................ 30
+CHAPTER
+FIVE:
+SUMMARY
+OF
+FINDINGS,
+CONCLUSIONS
+AND
+RECOMMENDATIONS ........................................................................................................ 34
+5.0 Introduction ......................................................................................................................... 34
+5.1 Summary of the findings ..................................................................................................... 34
+5.2 Conclusion .......................................................................................................................... 35
+5.3 Recommendations ............................................................................................................... 35
+5.4 Area for Further Research ................................................................................................... 36
+REFERENCES ......................................................................................................................... 37
+QUESTIONNAIRE ON ICT SERVICES AND FINANCIAL PERFORMANCE OF
+COMMERCIAL BANKS ......................................................................................................... 39
+
+
+
+viii
+
+LIST OF TABLES
+Table 1: Correlation Matrix ....................................................................................................... 29
+Table 2: Model Summary results ............................................................................................... 30
+Table 3: Goodness of Fit of Regression (ANOVAa) .................................................................. 31
+Table 4: Regression Coefficientsa .............................................................................................. 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF FIGURES
+Figure 1: Conceptual frame work ................................................................................................7
+Figure 2: Gender ....................................................................................................................... 24
+Figure 3: Age ............................................................................................................................ 25
+Figure 4: Level of education ...................................................................................................... 26
+Figure 5: Department ................................................................................................................ 27
+Figure 6: Period spent serving in Centenary bank- Mukono ....................................................... 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF ACRONYMS
+ICT
+
+-
+Information and Communication Technology
+IT
+
+-
+Information Technology
+PIN
+
+-
+Personal Identification Number
+ATM
+-
+Automated Teller Machine
+ROI
+
+-
+Return on Investment
+ABM
+-
+Automated Banking Machine
+MB
+
+-
+Mobile Banking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi
+
+ABSTRACT
+The sole purpose of this study was to assess ICT services and financial performance of
+commercial banks, a case study of Centenary bank, Mukono branch. The objectives of the study
+were to find out the effect of ATMs on performance of Centenary bank, Mukono branch, to find
+out the effect of online banking on performance of Centenary bank, Mukono branch, to analyze
+the challenges affecting ICT services at Centenary bank, Mukono branch.
+A descriptive research design was used to obtain information and focused on a target population
+of 50 employees while using a selection of only 44 employees as the sample size. Data was
+collected from both primary and secondary sources with employment of questionnaires and
+interview guides as instruments to collect primary data. Secondary data like theoretical
+framework was compiled from existing scholarly work and others like definitions were compiled
+from google scholar search engine.
+It was concluded that there is a positive significant relationship between; (1) automatic teller
+machine with a positive correlation coefficient of 0.426* and (2) online banking with a positive
+correlation coefficient of 0.433* on the financial performance of Centenary bank, Mukono
+branch. The correlation of the different observations means any change in the usage of
+independent variables will cause a change in financial performance. For example, an
+increase/decrease in usage of online banking can lead to an increase/decrease in financial
+efficiency thus making overall the relationship to be predictive.
+It was recommended to the management of Centenary bank, Mukono branch that;
+i.
+A better system to monitor all ATM transactions should be developed.
+ii.
+An effective mobile banking system should be redeveloped or advanced to minimize the
+level of fraud.
+iii. Should promote e-banking workshops and training to their customers to make them userfriendly as it argued that it would encourage many clients to buy e-banking products and
+grow trust in e-banking.
+
+
+CHAPTER ONE
+INTRODUCTION
+1.0 Introduction
+This study aims at examining ICT services and the financial performance of commercial banks in
+Uganda: a case study of Centenary Bank, Mukono Branch. In brief, it has background of the
+study, statement of the problem, research objectives and hypothesis, scope of the study,
+justification, significance of the study and conceptual framework.
+1.1 Background of the study
+Globally, the value of information technology (IT) infrastructure in today’s organizations is of
+growing importance. As the main component of the IT investment, the development of an
+effective IT infrastructure is placed among the top concerns of overall IT management. Firms
+spend a considerable amount of money and time to build IT infrastructure. The world has
+witnessed great development and rapid change in the global banking environment with ICT
+taking a centre stage in every aspect of human life (Riordan, 2012). Consequently, the banking
+industry has undergone drastic changes such as restructuring, ease of access to clients’
+information, lower costs of producing existing financial services, and use of ICT in the daily
+operations of banks that has changed the banking sector both domestically and internationally
+(LFB, 2010).
+ICT is an umbrella term that covers computer hardware, software, communication and network
+systems (Andersen, 2011). Sajuyigbe and Alabi (2012) posited that ICTs encompass
+technologies that can process different kinds of information (audio, video, text, and data), and
+facilitate different forms of communications among human agents, and among information
+systems. ICT innovations consist of software developed to improve production processes and
+performance in firms (Lawrence, 2010). In the financial services industry, innovation is viewed
+as the act of creating and popularizing new financial instruments, technology and markets, which
+facilitate access to information, trading and means of payment (Solans, 2013).
+Financial services refer to services provided by the finance industry. The finance industry
+encompasses a broad range of organizations that deal with the management of money. Among
+
+
+these organizations are credit unions, banks, credit card companies, insurance companies,
+consumer finance companies, stock brokerages, investment funds and some government
+sponsored enterprises.
+According to Scott (2019) financial services are the main output of a financial sector. The
+financial sector responds to the need for financial services that help with borrowing and funding,
+lending and investing, buying and selling securities, users of financial services are individuals,
+families, governmental authorities and non-financial business. The creators and producers of
+these services are financial institutions, like banks and security firms. Although financial services
+are not tangible goods like stereo systems, cars, and computer, they nevertheless have the
+attributes of “products”. This is because financial services have utility by serving consumer's
+need for assistance in monetary affairs. Marketing professors refer to products as “anything
+offered to a market that is intended for use or consumption, or attention or experience, in order to
+meet needs” (Scott, 2019).
+Before the introduction of ICT, business transactions especially among commercial banks were
+done manually in Uganda, but after the introduction of ICT the use of sophisticated technology
+based on automation and interconnection of computers and other electronic devices are
+becoming the norm rather than exception (Masinge, 2010). ICT has specifically resulted in a
+total alteration of the norms on the performance of commercial banks in Uganda and on the
+provision of client facilities in the banking sector (Leidner, 2014).
+In Uganda, Centenary Bank has upgraded the capability of its IT infrastructure facilities with the
+establishment of a new banking system, internet banking, mobile banking and spread of the
+bank’s service points across the country (Barclays Bank Annual Report, 2016). In Centenary
+Bank just like in other financial institutions the demand for e-banking services is growing and
+opportunities lie in IT infrastructure capabilities so as to meet the existing demand for the
+services. During the period 2011 to 2015, Centenary Bank undertook the implementation of
+performance improvement programs to obtain the required capacity. The programs included both
+strategic internal reforms and private sector participation in the operations of the bank
+(Centenary Bank Annual Report, 2012).
+
+
+In addition to core banking, the new system includes modules for various other banking and
+financial needs including e-banking, mobile banking, treasury, wealth management, customer
+relationship management, business analytics, operational data store and specialized core banking
+solution for regional rural banks (The Economic Times, 2011).
+Despite the existence of a robust ICT framework, Centenary Bank has recorded discrepancies in
+the dissemination of its financial services to its customers evidenced by growth in loan arrears,
+operational costs, bad loans against declining profitability and revenues. Most of these problems
+are linked to failure to realize projected profits which continues to affect the level of liquidity at
+the bank. According to the Bank of Uganda Financial Stability Report (2016), the total assets of
+the bank grew by 5.5% in 2016 which was lower than the growth rate of 15.9% in 2015.
+Customer deposits reduced to 7.5% in 2016, compared to 16.5% in 2015. The decline in deposits
+occurred amidst a rise in the cost of deposit funding which rose from 10.4% to 12.2% in 2016.
+On the other hand, the 2016 financial stability report showed that total interbank values traded
+and bank credit during 2016 continued to decline at the bank which was blamed on the
+slowdown in economic activity coupled with the bank’s reduction in lending in light of rising
+non-performing loans (BOU Financial Stability Report, 2016). It is however not empirically
+proven whether the ICT implementation challenges have been responsible for the poor
+performance of these financial services which forms the basis of this study.
+1.2 Problem statement
+Successful Information Technology Infrastructure utilization in the financial sector is
+increasingly becoming a central component for financial services performance globally. Like
+many other developing countries, financial institutions in Uganda are attaching at most
+significance to Information Technology Infrastructure capability as a strategy for enhancing
+effective and efficient financial services delivery and subsequent sustainability (Bank of Uganda
+Quarterly Report, 2015). The banking service industry in particular, has affected the use of ICT
+services such as; the internet as an option to offer remote services to its customers as opposed to
+using only the traditional face to face service delivery (Hernando & Nieto, 2007). ICT Banking
+services in form of Automated Teller Machines, mobile banking and internet banking are key to
+improving the quality of delivery of financial services of commercial banks (Mattila, 2016).
+
+
+Unfortunately, the use of these ICT channels has been slow in Uganda (Woherem, 2021).
+Despite acknowledging the ICT benefits in commercial banking financial services, Uganda has
+been slow in usage of adequate modern innovation within its commercial banks (Abukhzam&
+Lee, 2020). This situation is still persistent (Joseph, 2020) where few Ugandans have the
+knowledge, skills, and behaviours to enable them effectively use digital devices such as
+smartphones, tablets, laptops and desktop Personal Computers (PCs) for purposes of
+communication, expression, bank services, collaboration, and advocacy. This scenario seems still
+evident in Mukono District especially, among clients of Centenary bank in Mukono.
+Long queues are still a common sight especially at the beginning of the school term in Mukono
+municipality when school fees have to be paid and at the end of the month when salaries are
+usually paid out (Ndyayambaje, 2021). This may be an indication of ICT and usage challenges in
+the banking sector in Mukono district which might have a significant negative effect on. It is
+therefore against this background that the researcher developed interest to assess the effects of
+ICT services on the performance of commercial banks in Uganda: a case study of Centenary
+Bank, Mukono Branch.
+1.3 Purpose of the study
+The purpose of the study was to examine the effect of ICT services on the performance of
+commercial banks in Uganda: a case study of Centenary Bank, Mukono Branch.
+1.4 Objectives of the study
+i.
+To find out the effect of Automated Teller Machines (ATMs) on the financial
+performance of Centenary bank, Mukono branch.
+ii.
+To find out the effect of online banking on the financial performance of Centenary bank,
+iii. To analyze the challenges affecting the adoption of ICT services at centenary bank,
+iv. To suggest solutions to the problems facing adoption of ICT services at Centenary bank,
+
+
+1.5 Research questions
+i.
+What is the effect of ATMs on the performance of centenary bank, Mukono branch?
+ii.
+What is the effect of online banking on the performance of centenary bank, Mukono
+branch?
+iii. What challenges are affecting centenary bank in adopting ICT services?
+iv. What are the possible solutions to the challenges affecting adoption of ICT services at
+Centenary bank, Mukono branch
+1.6 Scope of the study
+1.6.1 Content scope
+The study mainly focused on the effect of ICT services on performance of commercial banks in
+Uganda: a case study of Centenary Bank, Mukono branch. It specifically looked at; finding out
+the effect for the use of ATMs on performance of centenary bank, finding out the effect for the
+use of online banking and the determining the challenges faced by centenary bank in the
+adoption of these ICT financial services.
+1.6.2 Geographical scope
+This study was carried out in Centenary Bank, Mukono branch located along Kampala-Jinja
+highway, Mukono. It was chosen because it’s one of the commercial banks in Uganda that was
+the first to introduce the use of ICT systems for better quality delivery of financial services in its
+operations.
+1.7 Significance of the study
+The findings and recommendations of this study can be useful to the executive members of
+Centenary bank and other commercial banks in Uganda as they may learn from this study and
+understand how best ICT as a financial innovation strategy can be replicated in their operations
+to improve their financial services.
+
+
+The findings of the study may also be vital to policy makers as it clearly pointed out the effect of
+Information Technology Infrastructure on financial services in the financial sector as well as
+other factors which affect performance. The possible solutions to these causes may be used by
+policy makers since they are a point of reference while writing company and government
+policies.
+This study can be of interest to academicians and future researchers as it can add value to the
+existing body of knowledge on ICT in banking in Uganda and the impact of these ICT banking
+services on the performance of financial services in commercial banks like Centenary bank.
+1.8 Conceptual framework
+A conceptual framework is an analytical tool with several variations and contexts. It can be
+applied in different categories of work where an overall picture is neded (Colander & David,
+2013). ICT services involve the automated delivery of new and traditional banking products
+provided directly to the customer through electronic, interactive communication channels.
+(Ravindra Kumar -2012). ICT services include the systems that enable financial institution
+customer individual or business to access accounts, transact business to access accounting
+transact business or obtain information on financial product through a public or individual
+network, including the internet.
+ICT services constitute electronic alternative network of payments and benefit of services. The
+need of creation of electronic alternative channels has been distinguished well in advance by the
+foreign banking organizations, which relied mainly on the outburst that was observed in the use
+of internet. The benefits are many, both for the customers and for the banks. The banks that are
+activated in the Internet are susceptible mainly to the systematic, law part and to the reputational
+risk and the customers of the electronic banking channel are puzzled concerning the subject of
+safety of their transactions and personal data. Service sector witnessed a rapid change, primarily
+due to the pressure of forces affecting the context. The more force behind this inflation of
+technology, which has brought in a level playing field for businesses by eliminating
+geographical, regulatory, and industrial barriers. Also with the ongoing creation of new products
+and services, opportunities in the market are increasing, which further adds to the significance of
+developing more information and customer oriented business and management processes.
+
+
+Electronic payment systems and transactions methods of ICT are opening doors of progression.
+As a result of the advancement in these technologies, a more effective banking system is
+expected. Technology enables institutions to respond effectively to the demand of its customers
+thereby leading to efficiency.
+Figure 1: Conceptual frame work
+Independent Vriable
+
+
+
+Dependents Variable
+
+
+
+
+
+
+
+
+
+
+Source: Adopted from Nelsen (2015) and modified by the researcher, 2024
+
+
+
+
+
+ICT services
+ Automated Teller Machine
+(ATM)
+ Online banking
+ Mobile banking
+Performance of commercial banks
+ Return On Investment (ROI)
+ Solvency
+ Efficiency
+ Profitability
+
+
+CHAPTER TWO
+LITERATURE REVIEW
+2.0 Introduction
+The integration of Information and Communication Technology (ICT) in the banking sector has
+transformed the landscape of financial services globally. This literature review aimed at
+exploring the relationship between ICT services and the financial performance of commercial
+banks, examining various studies and perspectives to understand how ICT adoption impacts
+efficiency, profitability, and competitive advantage.
+2.1 Evolution of ICT services.
+ICT in banking has evolved significantly over the past few decades. Early implementations
+focused on basic automation of accounting and record-keeping processes. Over time,
+advancements in technology led to the development of sophisticated systems such as online
+banking platforms, mobile applications, and blockchain-based solutions. The widespread use of
+ICT services in banking is driven by the need for operational efficiency, improved customer
+experience, and regulatory compliance.
+2.2 ICT Services in Banking
+Definition and Components
+ICT services in banking encompass a wide range of technologies and applications, including
+Automated Teller Machines (ATMs), online banking, mobile banking. These technologies
+facilitate the efficient processing of transactions, enhance customer service, and support
+decision-making processes.
+Automated Teller Machine (ATM), also known as Automated Banking Machine (ABM) is a
+computerized telecommunications device that provides the clients of a financial institution with
+access to financial transactions in a public space without the need for a cashier, human clerk or
+bank teller. On most modern ATMs, the customer is identified by inserting a plastic ATM card
+with a magnetic stripe or a plastic smart card with a chip that contains a unique card number and
+some security information such as an expiration date. Authentication is provided by the customer
+
+
+entering a personal Identification Number (PIN). Using an ATM, customers can access their
+bank accounts in order to make cash withdrawals, credit card cash advances, and check their
+account balances as well as purchase prepaid cell phone credit. This improves convenience since
+customers can withdraw money from their point of reach without necessarily visiting the bank.
+This increases efficiency and mitigates the costs of transactions leading to improved
+performance. This is consistent with Fannie Mae Foundation report of that indicated that
+automated teller machine as used in banking sector serve approximately 420 million transactions
+annually for a total of $3.3 billion in gross annual revenues.
+Rose (2009), describes ATMs as follows: “an ATM combines a computer terminal, recordkeeping system and cash vault in one unit, permitting customers to enter the bank’s book keeping
+system with a plastic card containing a Personal Identification Number (PIN) or by punching a
+special code number into the computer terminal linked to the bank’s computerized records 24
+hours a day”. Once access is gained, it offers several retail banking services to customers. They
+are mostly located outside of banks, and are also found at airports, malls, and places far away
+from the home bank of customers. They were introduced first to function as cash dispensing
+machines. However, due to advancements in technology, ATMs are able to provide a wide range
+of services, such as making deposits, funds transfer between two or more accounts and bill
+payments.
+Bahia (2007), defines online banking as the provision of financial services and markets using
+online communication and computation and today retail banks are switching to multi-channel
+distribution of financial services in hybrid platforms where the traditional services of banks are
+provided through both “bricks and mortar” branches and Internet. Online banking technologies
+have proliferated in recent years, and the availability of a wide range of products has led to
+increasing use among consumers. These technologies include direct deposit, computer banking,
+stored value cards, and debit cards. Banks and other financial institutions have worked hard to
+develop and deploy these technologies because of their potential to increase efficiency, cut costs,
+and attract new customers. Consumers are attracted to these technologies because of
+convenience, increasing ease of use, and, in some instances, cost savings (Egland et al. 2008).
+
+
+
+2.3 The effect of Automated teller machines (ATMs) on the financial performance of
+commercial banks.
+Banks tend to utilize this electronic banking device, as all others for competitive advantage. The
+combined services of both the Automated and human tellers imply more productivity for the
+bank during banking hours. Also, as it saves customers time in service delivery as alternative to
+queuing in bank halls, customers can invest such time saved into other productive activities.
+ATMs are a cost-efficient way of yielding higher productivity as they achieve higher
+productivity per period of time than human tellers (an average of about 6,400 transactions per
+month for ATMs compared to 4,300 for human tellers (Rose, 2009). Furthermore, as the ATMs
+continue when human tellers stop, there is continual productivity for the banks even after
+banking hours.
+Ogbuji et al. (2012) observed the Automated Teller Machines (ATMs) is one of existing
+replacements of the cascading labor intensive transaction system effected through what is
+popularly referred to as paper-based payment instruments. An automatic teller machine allows a
+bank customer to conduct his/her banking transactions from almost every other ATM machine in
+the world. The ATM, therefore, performs the traditional functions of bank cashiers and other
+counter staff. It is electronically operated and as such response to a request by a customer is done
+instantly.
+The combined services of both the Automated and human tellers imply more productivity for the
+bank during banking hours. Also, as it saves customers time in service delivery as alternative to
+queuing in bank halls, customers can invest such time saved into other productive activities.
+ATMs are a cost-efficient way of yielding higher productivity as they achieve higher
+productivity per period of time than human tellers (an average of about 6,400 transactions per
+month for ATMs compared to 4,300 for human tellers Rose (2001). Furthermore, as the ATMs
+continue when human tellers stop, there is continual productivity for the banks even after
+banking hours.
+According to a study by Tiwari, Buse, and Herstatt (2006), the use of ICT in risk management
+reduces the likelihood of financial losses due to fraud and improves the overall stability of the
+banking system. The integration of ICT in banking also enhances risk management practices.
+
+
+Advanced ICT systems facilitate real-time monitoring of transactions, fraud detection, and
+compliance with regulatory requirements. This is 24/7 monitoring of ATMs remotely by banks
+allowing them to quickly identify and respond to any potential security threats or technical
+issues. Also ATMS can be configured to limit the amount of cash that can be withdrawn or
+transferred, reducing the risk of large scale fraud or theft.
+2.4 The effect of online banking on the financial performance of commercial banks
+Malhotra and Singh (2009) argue that through the use of a system that allows individuals to
+perform banking activities at home or from their offices or over the internet. Some online banks
+are traditional banks which also offer online banking, while others are online only and have no
+physical presence (Bradley and Stewart, 2003). Online banking through traditional banks enables
+customers to perform all routine transactions, such as account transfers, balance inquiries, bill
+payments, and stop-payment requests, and some even offer online loan applications (Kannabira
+and Narayan, 2005).
+The transition to online banking, as opined in Chemtai (2016) offers major opportunities in terms
+of competitive advantage. Specifically, it provides banks with the opportunity to develop a
+stronger and more durable business relationship with their customers. For instance, it makes
+access to finance from banks attractive with funds appearing to be much more available (Salehi
+and Alipour, 2010), and customers are given the opportunity to conduct banking transactions
+with great peace of mind and at their convenience (Offei and Nuamah-Gyambrah, 2016). Before
+the introduction of electronic banking, transactions took a lot of time to execute and this was
+tiring. Now, services are rendered quicker with transactions much more accurate hereby saving
+time, as well as reducing human errors and clerical overhead cost.
+Internet as a tool can cross the traditional boundaries to define customer, market, and product.
+Banks act vital roles in financial intermediation, because banks need to undertake the risk of
+finding ways to leverage customer deposits and banks’ liabilities, and the internet has opened
+new ways of exerting this function. Much research has addressed the potential impact of the
+internet on many different industries including the banking industry. However, earlier studies did
+not clearly show the relationship between internet banking and bank performance (Callaway,
+2011). According to Malhotra and Singh (2009), Egland, Furst, Nolle and Robertson (1998) did
+
+
+the first study in 1998 which investigated 8,983 banks in US in order to analyse the performance
+and structure of banks, but they failed to show the relationship between internet banking and
+bank performance.
+According to Nathan (2009), online banking services have provided numerous benefits for both
+banks and customers. The first benefit for the banks offering electronic banking service is better
+branding and better response to the market. Those banks that would offer such service would be
+perceived as leaders in technology implementation. As a result, they would enjoy a better brand
+image. The other benefits are possible to measure in monetary terms. The main goal of every
+company is to maximise profits for its owner and other stakeholders (Pyun, Scruggs and Nam,
+2012).
+Online Banking provides clear advantages to both the financial institutions and the customers.
+From the banks’ perspective, Internet Banking has very low cost transactions, compared to
+human teller banking. According to The Fourth International Conference on Electronic Business
+(ICEB2004) / Beijing, e-banking reduces the following expenses (Wright & Ralson, 2002): (1)
+Banks can reduce customer service staff as customers use more self-service functions; (2) There
+is less cheque processing costs due to an increase in electronic payments.; (3) Costs of paper and
+mail distribution are reduced as bank statements and disclosures are presented online; (4) There
+is less data entry as applications are completed and processed online by customers. On the other
+hand, according to KPMG 6 (1998), bank’s revenue increases from Internet Banking due to: (1)
+Increased account sales; (2) Wider market reach; (3) New fee-based income; (4) New market
+opportunities; (5) Improved customer satisfaction.
+Bahia (2007) and Vila et al (2013) also provide evidence respectively for cost reduction and
+productivity gains as a result of technological change for European Union banks. Carlson and
+Lang (2001) showed that E-banking lowers operational costs while increasing customer
+satisfaction and retention in the Turkish retail banking sector. Meuter (2010) suggests that ebanking is driven largely by the prospects of operating costs minimization and operating
+revenues maximization. According to Ombati et al (2011), Technology (IT) offers banks the
+potential to dramatically reduce operating costs and improves the quality of management
+information hence making banking more profitable.
+
+
+The study by Iacono and Orlikowski (2004) has found that trust significantly affects attitude
+towards e-banking acceptance. To encourage e-banking adoption, banks need to develop
+strategies that improve the customer’s trust in the underlying technology. The other factors
+include quick response, assurance, follow-up and empathy. Security, correct transaction,
+customer control on transaction (personalization), order tracking facilities and privacy are other
+important factors in the online service that affect the customer satisfaction. Akerlof and
+Girardone (2011), show that E- banking results in cost and efficiency gains for banks yet very
+few banks are using it.
+2.5 Challenges affecting ICT services.
+Adesina & Ayo (2010) point out that lack of top management commitment to use of ICT services
+is a major challenge faced by commercial banks. They note that for a successful implementation
+of e-banking the top management must be committed both in word and in execution. Turban et
+al., (2000) cited that it is important for the management to be involved in the financing and
+participate in the day to day running of the e-banking operations. Management may commit
+resources to information systems for various reasons including cost cutting, new revenue
+potential, improved competitiveness and quality of products and services because of perceived
+benefits of e-banking.
+Among the various reasons, cost effectiveness stands out as the most significant factor
+influencing management adoption and implementation of e-banking services (Sayar and Wolfe,
+2007). On the other hand, some organizations are faced with having top managers and employees
+who are resistance to change and this may cause an organization to lag behind in this competitive
+world.
+Aliyu & Tasmin (2012) assert that most banks face challenges of operational risks and
+reputational risks in ICT services. Operational risk of ICT services is the central of system
+availability and security to the dependability on new technology which provides services.
+Security threats can be internal or external to the system such as system hacking, viruses and due
+to this, banking regulators and supervisors must check that banks have the right measures in
+place to secure data integrity and confidentiality for the institution and customers (Sayar and
+Wolfe, 2007). ICT services carry legal risks for both the banks and customers. Banks have grown
+
+
+geographically faster in terms of services which they render through e-banking compared to the
+traditional banking method (Mols, 2008).
+Ceylan & Emre (2011) argue that a low qualification of IT personnel to handle ICT financial
+services has been a major challenge for bank’s ICT services. Shah and Siddiqui (2006) found in
+their study on e-banking at the Woolwich bank in UK, that the availability of highly skilled
+human resources is critical in implementing e-banking products and services. The greatest
+challenge facing developing countries is the development of the qualified human capital needed
+to operate a modern economy and society effectively and especially in firms like the banks
+which need more qualified technical experts of the Information Technology because of
+sensitivity of transactions involved. Exploiting the human potential is a major means to meeting
+the developmental needs of organizations and countries in general and which also enhance
+competitiveness in the global economy at large (Milek et al., 2011).
+According to Chang & Dutta (2012), most banks especially in developing countries suffer a
+challenge of limited customer awareness about e-banking services offered since most of these
+people are illiterate and given that there is a low level of usage of banks in these countries by the
+people. Awareness among consumers about the e-banking facilities and procedures is still at
+lower side in Indian scenario. Banks are not able to disseminate proper information about the
+use, benefits and facility of internet banking. Less awareness of new technologies and their
+benefits is among one of the most ranked barrier in the development of e-banking (Dube et al.,
+2009).
+Ferreira, Manso & Silva (2010) assert that the increased competition in the banking sector has
+made very many banks conscious about their operations which have greatly slowed down the
+whole process of ICT services. The nationalized banks and commercial banks have the
+competition from foreign and new private sector banks. Competition in banking sector brings
+various challenges before the banks such as product positioning, innovative ideas and channels,
+new market trends, cross selling ad at managerial and organizational part this system needs to be
+manage, assets and contain risk. Banks are restricting their administrative folio by converting
+manpower into machine power i.e. banks are decreasing manual powers and getting maximum
+work done through machine power. Skilled and specialized man power is to be utilized and result
+oriented targeted staff will be appointed (Alawneh and Hattab, 2009).
+
+
+In conclusion, from the above reviews of literature by different scholars on the challenges
+hindering ICT services, it can be noted that most banks have faced many challenges ranging
+from limited capacity in terms of skilled human resources and capital, risks involved in ebanking and low levels of awareness from the masses about the electronic banking services.
+However, the literature does not clear spell out whether every bank faces such challenges in the
+implementation of ICT services which creates a gap where the researcher intends to establish
+whether Centenary bank, Mukono also faces the same challenges in the implementation of ICT
+services.
+2.6 Solutions to the challenges affecting ICT services.
+Alshahrani, A. A., & Alghamdi, H. S (2018) assert that banks can empower their customers by
+providing them with the necessary tools, training and, support to effectively use and manage ICT
+services. This can improve offering regular training sessions, providing access to online
+resources, and fostering a culture of innovation and collaboration.
+According to Yusuf, M. O & Yusuf, M. O, (2017) banks can invest in robust cyber security
+measures to protect sensitive customer data and ensure compliance with regulatory requirements.
+This can include implementing encryption technologies, conducting regular security audits, and
+providing employee training on cyber security best practices. Thus, this can help to curb down
+operational and reputational risks associated with the adoption of ICT services.
+Yiu, C.S., & Grant, K., & Edgar, D., (2017) assert that banks can explore cost-effectiveness ICT
+solutions that offer good return on investment. This can involve negotiating better deals with
+suppliers, adopting open-source software, or leveraging cloud computing to reduce infrastructure
+costs.
+Monitor and evaluate ICT services. According to Moyo, S., & Moyo, S. (2018) monitoring ICT
+services ensures that they are meeting customer needs and improving financial performance.
+Evaluation of ICT enables banks to get feedback from its customers basing on how they feel
+about nature of services offered by the banks. This ensures timely rectification of challenges by
+commercial banks.
+
+
+
+CHAPTER THREE
+METHODOLOGY
+3.0 Introduction
+This chapter discusses, the methods that were used to conduct the study research design, study
+population, sample size and selection sampling techniques and procedure, data collection
+methods and instruments, validity and reliability of instruments procedure of data collection and
+data analysis, limitations of the study and ethical consideration,
+3.1 Research design
+This study used a cross-sectional survey research design, where data from respondents was
+collected at a single point in time without repetition from representative population. It was also
+used because it helped the researcher to capture information based on data gathered for a specific
+point in time. The data gathered was from a pool of participants with varied characteristics and
+demographics known as variables. More so, through the use of the cross-sectional research
+design, the research findings helped in removing assumptions and replaced them with actual data
+on the specific variables studied during the time period accounted for.
+3.2 Study area and study population
+The study was carried out in Centenary Bank, Mukono branch located along Kampala-Jinja
+highway, Mukono. It was chosen because it is one of the commercial banks in Uganda that was
+the first to introduce the use of ICT systems for better quality delivery of financial services in its
+operations.
+The study targeted a population of 50 respondents from different departments like the credit
+department, loans department, operations department and administration.
+3.3 Sample size determination
+According to Katamba & Nsubuga (2014) sample size is the portion or subset of the total
+population. The sample size was determined using the calculation formula of Yamane’s (1970)
+formula as follows;
+
+
+n=
+N
+1 + N(e)2
+“n” is sample size, “N” is population, “e” is error (0.05) or level of confidence 95%
+“N” (population) = 50 employees of Centenary Bank, Mukono branch
+n=
+1 + 50(0.05)2
+n=
+1 + 50(0.0025)
+n=
+1 + 0.15
+n= 50
+1.15
+n = 44 employees
+Therefore, from the calculation above, the sample size was 44 respondents who were employees
+of Centenary Bank, Mukono branch from the different departments.
+Selection of Participants for qualitative data collection.
+A total of 3 key informants who were the bank branch manager and there assistants were
+purposively selected since they were the ones tasked with strategizing and implementing ICT
+services in the bank in order to improve service delivery and profitability in the bank.
+3.4 Sampling techniques
+A total of 44 employees from the different departments in Centenary bank, Mukono branch were
+selected using simple random sampling technique where samples will be randomly selected from
+the employees in these departments in the bank.
+These were determined and selected randomly by use of the records from the human resource
+manager of the bank and later contacted for their consent.
+
+
+
+3.5 Sources of data collection
+The study considered two data sources, primary and secondary data.
+3.5.1 Primary sources
+The study employed primary sources of data which was obtained from the personnel working in
+the organization and the departmental heads with the help of closed questionnaire and statements
+to capture their opinion. This is because primary sources enable the researcher to get first-hand
+information from the respondents.
+3.5.2 Secondary sources
+Secondary sources of data were used to gather information from already existing materials like
+authentic books, journals, reports and internet and for this case secondary data was mainly
+obtained from the records kept so as not to alter facts. This was be supplemented by data
+extracted from text books, organizational documents, newspapers, internet and other sources
+available in libraries. Secondary data was considered because it provides analysis, commentary,
+evaluation, context, and interpretation but also supplements the primary data sources.
+3.6 Data collection instruments
+Bryman (2006) defines the data collection methods as the act of collecting data for purposes of
+making decisions about the study problem. The researcher used quantitative and qualitative data
+collection methods including questionnaires, key informant interviews, document review and
+observation.
+3.6.1 Questionnaires
+According to Katamba & Nsubuga (2014) a questionnaire survey is a set of questions designed
+by the researcher for purpose of collecting data. The questionnaire included open ended
+questions which require the respondent to give more details about the subject matter and because
+they give the respondents opportunity to express their opinion in free-flowing manner giving
+them time to think before answering questions since it avoids personal contact.
+
+
+Semi structured or closed ended questions where answers are provided was also be used and the
+respondents were only required to tick the best suitable answer about the subject matter. Since
+the researcher used questionnaires, he was be involved in the process of guiding the respondents
+in ensuring that the right information was collected from the bank employees.
+3.6.2 Key Informant Interviews
+Key informant interviews were used to conduct face to face interviews with key informants who
+are the bank branch manager and his assistants. An unstructured informant interview guide was
+used as a tool for collecting in depth information from the key informants. The interview guide
+had a list of topical issues and questions which were explored in the course of conducting the
+interviews. The guide was drawn with the questions soliciting for the perception on the effects
+ATMS and Online banking on the performance of centenary bank. The key informant interviews
+were used because they provide in-depth data which may not have been possible to obtain when
+using a questionnaire.
+3.6.3 Observations
+Observation is a method of data collection where researchers use their eyes to observe specific
+concerns within a specific research area. Therefore, the researcher used observation to identify
+ICT services offered by Centenary bank hence was able to see what people actually did rather
+than what they said.
+3.7 Data collection tools
+
+These refer to tools used to collect data questionnaires or computer assisted interviewing system
+(Canals, 2017). The researcher gathered data through interviewing, questionnaire, observation
+and organizational reports and manuals.
+3.7.1 Questionnaire guide
+The data collection tool here was a questionnaire guide. Questionnaire guides were used to
+collect quantitative data from the selected employees from the selected departments in Centenary
+Bank, Mukono branch. Questionnaire guides were used for this category of respondents to save
+time because their number was big to interview.
+
+
+The standard questionnaire contained a list of possible alternatives from which respondents
+selected the answer that best suited the situation.
+The questionnaire included closed-ended questions for each of the four objectives where the
+answers were provided and the respondents were requested to tick their preferred option.
+3.7.2 Key informant interview guide
+This tool was used to collect information that cannot be directly observed and that was good for
+the research problem which depended on respondents’ opinions. It was also good because it gave
+the researcher control over the line of questioning hence saving time. Data obtained during the
+interview supplemented that obtained through the questionnaire. Interviews were conducted with
+3 key informants who were the bank branch manager and his assistants since they are the ones
+tasked with strategizing and implementing ICT services in the bank in order to improve service
+delivery and profitability in the bank.
+3.7.3 Observation checklist
+An observation guide was an important tool that helped to maintain the observer’s focus while it
+also gave the observer scope to reflect on the particular context associated with each site (Davies
+& Spencer, 2010. It reminded the observer of the key points of observation.
+3.8 Data Quality checks
+3.8.1 Validity
+Validity was done in order to find out whether the questions were capable of capturing the
+intended data. The researcher’s supervisor reviewed the questions to see whether they were
+capable of capturing the intended response. Validity was an indication of how sound research
+was. The researcher gave the supervisor the research instruments to rate the items that were valid
+to collect data using content validity.
+The research instruments were pre-tested to ensure the right skips, correct spelling errors and
+ensure that the questions asked were clear thus minimizing errors in the final data collection
+instruments enhancing validity of results. Therefore, validity was measured by addressing how
+accurate the instruments measured the outcomes or how they constructed an intervention that it
+
+
+attempted to affect. In context, an instrument is valid if it happens to measure what the researcher
+intends to measure. The standard measurements were used in analyzing data at univariate,
+bivariate and multivariate levels.
+3.8.2 Reliability
+Reliability is the degree to which an assessment tool produces stable and consistent results
+Riordan (2012).
+The researcher pre-tested the research instruments before they were distributed to the
+respondents for reliability. The pre-test was done from ten customers of other commercial
+banks of Mukono branch which enabled the researcher to have reliable tools for the study.
+The study was carried out on some of the few respondents on this research topic before the
+questionnaires were sent to different respondents. Therefore, reliability was ensured by first
+conducting a pre-test and followed by a post-test of the research. Reliability of the empirical
+measurements was done by using the retest method in which the same test was given to some
+of the people after a period of time. The reliability of the test was therefore estimated by
+examining the consistency of the responses between the two variables/sets.
+3.8.3 Sustainability
+
+The data that was suitable for one enquiry was not necessarily found suitable in another enquiry.
+Hence, if the available data was found to be unsuitable, they would not be used by the researcher.
+In this context, the researcher carefully scrutinized the definition of various terms and units of
+collection used at the time of collecting the data from the primary source originally.
+Similarly, the object, scope and nature of the original enquiry were also studied. When the
+researcher found differences in these, the data remained unsuitable for the present enquiry and
+were not used.
+3.9 Data analysis techniques
+Data analysis involved sorting, inspecting, cleaning and coding of the data ready for presentation
+(Babbie, 2011).
+
+
+3.9.1 Analysis of quantitative data
+The data collected was coded, keyed into SPSS (a computer software database), organized, and
+cleaned for any errors that might occur during data collection. The data was then analyzed using
+statistics with aid of the SPSS and Microsoft Excel (computer software). Qualitative statistical
+technique was used to describe and summarize data. The results were then interpreted in the form
+of descriptive statistics the frequencies and percentages. Descriptive statistics was used to
+analyze respondents’’ demographics such as age, gender among others. Inferential statistics such
+as correlations and regressions were used to analyze relationship between ICT services and
+performance of Centenary bank, Mukono branch. The findings were presented in form of tables
+and figures.
+3.9.2 Analysis of qualitative data
+
+Qualitative data was edited and reorganized into meaningful phrases. In other words, a thematic
+approach was used to analyze qualitative data where themes, categories and patterns were
+identified. The recurrent themes, which emerged in relation to each guiding question from the
+interviews, will be presented in the results, with selected direct quotations from participants
+presented as illustrations.
+3.10 Ethical considerations
+Ethics are the norms or standards for conduct that distinguish between right and wrong. They
+help to determine the difference between acceptable and unacceptable behaviors (Devlin, 2006).
+Ethical standards prevent against the fabrication or falsifying of data and therefore, promote the
+pursuit of knowledge and truth which is the primary goal of research (May, 2011).
+Ethical behavior is also critical for collaborative work because it encourages an environment of
+trust, accountability, and mutual respect among researchers. The handling of these ethical issues
+greatly affects the integrity of the research results.
+3.10.1 Anticipated limitations and delimitations of the study
+Some respondents were not willing to provide information because of being suspicious of where
+the information would be taken. This was solved through the nice remarkable reputation in the
+
+
+study context as a learning institution and also obtaining an introductory letter from the
+university.
+The researcher was limited by funds that were needed to facilitate the research such as
+motivating the respondents, printing fees and even daily transport to the organization to collect
+data. However, the researcher used self-initiatives and strategies to mobilize financial assistance
+from family.
+Some people delayed to bring back the questionnaires which affected the researchers target time
+planned to analyze his study. This was solved by issuing more questionnaires beyond the target
+and this helped me to cover up the gaps for those who had failed to return the questionnaires.
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+DATA PRESENTATION AND INTERPRETATION
+4.0 Introduction
+This chapter comprises of a presentation of results and their interpretation. The presentation in
+this chapter shows the results according to the objectives of the study. The chapter begins with
+the demographic characteristics of the respondents such as age, gender and educational level
+among others which were all presented using illustrations.
+4.1 Findings on demographic characteristics of respondents
+4.1.2. Gender of the respondents
+The figure below summarizes the gender of the responds that are staff of Centenary bank-
+Mukono branch and the data in the figure was interpreted below.
+Figure 2: Gender
+
+Findings in the figure 2 above show that the majority of the questionnaires were filled by males
+represented by 54.5% and the rest were females represented by 45.5% and therefore, there were
+more male respondents than female respondents in this survey. However, the inclusion of both
+
+
+male and female in the survey was to get a balance view of responses from different people in
+the banking institution.
+4.1.2. Age of the respondents
+The figure below summarizes the gender of the responds that are staff of Centenary bank
+Mukono branch and the data in the figure is interpreted below.
+Figure 3: Age
+
+Findings in the figure 3 above show that the vast majority of the respondents fell between the age
+group of 31-40 years represented by 43.2%, followed by the respondents who fell between the
+age group of 21-30 years represented by 34.1%, whereas 22.7% of the respondents fell in the age
+group of 41-50 years. This therefore implies that there was no age discrimination since
+information was obtained from people with different age groups. It also shows that there is a
+mixture of experience and new employees that have come on board which is good for the
+sustainability of the banking institution.
+
+
+
+
+4.1.3. Education level of the respondents
+The figure below summarizes the education level of the respondents that are staff of Centenary
+bank Mukono branch and the data in the figure was interpreted below.
+Figure 4: Level of education
+
+Findings in the figure 4 above revealed that employees of Centenary bank Mukono are well
+educated since majority of the respondents represented by 52.3% hold bachelors’ degrees,
+followed by 27.3% of the respondents who have attained other qualifications like ACCA, CPA,
+and Post Graduate Diplomas, whereas 20.4% of the respondents noted that they hold master’s
+degrees. This implies that Centenary bank Mukono branch employs well qualified employees
+due to the nature of work employees are expected to perform. The education level of respondents
+was very necessary in this study in order to get views and opinions from people with different
+levels of education.
+4.1.4. Department respondents belong to
+The figure below summarizes the departments the respondents that are staff of Centenary bank
+Mukono branch belong to and the data in the figure was interpreted below.
+
+
+Figure 5: Department
+
+Findings in the figure 5 above revealed that majority of respondents represented by 38.6% are
+from the loans department in Centenary bank Mukono, followed by those who are from the
+credit department in Centenary bank Mukono represented by 31.8%, followed by those who are
+from the administration department in Centenary bank Mukono represented by 18.2%, whereas
+those who are from the Information Technology (I.T) department in Centenary bank Mukono
+constituted the minority represented by 11.4% each of the total population. This implies that
+information was gotten from different departments in the banking institution which helped in
+gathering of information and different views of people about the topic in particular.
+4.1.5. Period spent serving in Centenary bank- Mukono branch
+The figure below summarizes the period respondents that are staff of Centenary bank Mukono
+branch have spent serving there and the data in the figure was interpreted below.
+
+
+
+
+
+Figure 6: Period spent serving in Centenary bank- Mukono
+
+Findings from the figure 6 above show that majority of respondents represented by 40.9% have
+spent between 1-5 years serving in Centenary bank Mukono branch, followed by those who have
+spent 6-10 years serving in Centenary bank Mukono branch represented by 27.3%, followed by
+those who have spent more than 10 years serving in Centenary bank Mukono branch represented
+by 18.2%, where those who have spent less than 1 year serving in Centenary bank Mukono
+branch represented the minority 13.6% of the total population. The findings imply that the
+respondents have the necessary and efficient knowledge about the topic under study since
+majority of the respondents have spent reasonable time serving in Centenary bank Mukono
+branch.
+4.2. Correlation analysis on ICT services and financial performance of Centenary bank,
+This study was set to investigate the relationship between ICT services and financial
+performance of commercial banks, a case of Centenary bank Mukono branch. This was done by
+running a correlation analysis using Pearson Product Moment Correlation coefficient between
+the composite score of ICT services and financial performance of Centenary bank Mukono
+
+
+branch and the two components of ICT services which included; ATMs and online banking in
+relation to financial performance of Centenary bank, Mukono branch as indicated in the
+conceptual framework. A correlation to be considered significant, the P-value ﴾Sig. (2.tailed﴿
+values must be less than 0.05 (for 95% confidence level) or less than 0.01 (for 99% confidence
+level) and the findings are shown in Table 1 below.
+Table 1: Correlation Matrix
+Variables
+Mean
+St. Dev.
+
+1. Automatic teller machine
+4.26
+.635
+
+
+2. On line banking
+4.45
+.369
+.381*
+.380*
+
+3.Financial performance of
+Centenary bank, Mukono branch
+3.99
+.752
+.426*
+.433*
+
+Note:
+a) 1= Automatic teller machine; 2= On line banking; and 3= Financial performance of Centenary
+bank, Mukono branch.
+b) *P < .05, ** p < .01 level of Significance
+In relation to ICT services and financial performance of Centenary bank, Mukono branch results
+as in Table 1 revealed that there is a positive significant relationship between automatic teller
+machine and financial performance of Centenary bank, Mukono branch (r = .426*, p < .05). This
+implies that the existence of a working automatic teller machine has enabled Centenary bank
+Mukono branch to improve its financial performance since the ATM machine works 24 hours a
+day and given that customers of the bank use the ATM when depositing and withdrawing money
+since they have the knowledge and skills of using ATM machines and because it saves
+customers’ time spent in queues.
+The findings relate with the literature by Ogbuji et al. (2012) who observed that ATM is one of
+existing replacements of the cascading labor-intensive transaction system effected through what
+is popularly referred to as paper-based payment instruments. An automatic teller machine allows
+
+
+a bank customer to conduct his/her banking transactions from almost every other ATM machine
+in the world. The ATM, therefore, performs the traditional functions of bank cashiers and other
+counter staff. It is electronically operated and as such response to a request by a customer is done
+instantly.
+Furthermore, the results as in Table 1 revealed that there is a positive significant relationship
+between online banking and financial performance of Centenary bank, Mukono branch (r =
+.433*, p < .05). This implies that the use of online banking has enabled Centenary bank, Mukono
+branch to improve its financial performance since online banking saves time of the customers
+spent in queues and given that making transactions online by customers improves management
+quality by reducing transaction processing time, ease in auditing, risk management and loan
+administration in the banking institution. The findings are in line with the literature by Babbel &
+Santomero, (2017) who argued that online banking provides higher degree of convenience that
+enables customers to access internet banking services at all times and places. Apart from that, the
+ease of access of computers is perceived as a measure of relative advantage
+4.3. Regression analysis on online banking and financial performance of Centenary bank,
+The overall model made a significant contribution, accounting for 58.8% of the variability in
+employee performance (Total ∆R2 = .588, p = .000). Table 2 below importantly shows the R-
+Square (R2) and R-Square Change (∆R2) for each model, showing its contribution to the overall
+model. These values are interpreted alongside the ANOVA Table 3 providing the F values for
+each model together with the levels of significance.
+Table 2: Model Summary results
+Model
+R
+R Square
+Adjusted
+R
+Square
+Std. Error of the Estimate
+.654a
+.597
+.588
+.736
+a. Predictors: (Constant), Automatic teller machine, Online banking
+b. Dependent Variable: Financial performance of Centenary bank, Mukono branch.
+
+
+According to the results in the table 2 above, it is revealed that the combined effect of the
+predictor variables of Automatic teller machine online banking) explains 59.7% of the variations
+in financial performance of Centenary bank, Mukono branch. This implies that the model is
+satisfactory as much of the variation is accounted for by the dependent variables identified in the
+model.
+Table 3: Goodness of Fit of Regression (ANOVAa)
+Model
+Sum of Squares
+Df
+Mean Square
+F
+Sig.
+
+Regression
+50.193
+25.097
+80.829
+.000b
+Residual
+3.087
+.016
+
+
+Total
+53.280
+
+
+
+a. Dependent Variable: Financial performance of Centenary bank, Mukono branch
+b. Predictors: (Constant), Automatic teller machine, online banking
+As shown in table 3 above, it is revealed that the model fit tested in the table 2 (model summary)
+is significant at 95% confidence level (p≤0.05). This implies that all the two predictor variables
+that is to say online banking and Automatic teller machine were statistically significant in
+explaining changes in financial performance of Centenary bank, Mukono branch as demonstrated
+by a p-value of 0.000 which is less than the acceptance critical value of 0.05. This is further
+proved by the regression coefficients in table 4 below;
+
+
+
+
+
+
+
+Table 4: Regression Coefficientsa
+Model
+Unstandardized
+Coefficients
+Standardized
+Coefficients
+T
+Sig.
+(p-value)
+B
+Std. Error
+Beta
+(Constant)
+.217
+.077
+
+2.802
+.006
+Automatic teller machine
+.721
+.088
+.665
+8.798
+.000
+Online banking
+.982
+.171
+.855
+9.530
+.000
+a. Dependent Variable: Financial performance of Centenary bank, Mukono branch
+Table 4 above displays the regression coefficients of the independent variables. The results show
+that Automatic teller machine and online banking affect the financial performance of Centenary
+bank, Mukono branch positively and significantly. Regression results indicate that automatic
+teller machine and financial performance of Centenary bank, Mukono branch had a positive and
+significant relationship (beta=.665, p<0.05). The findings imply that any change or improvement
+in automatic teller machine by one unit leads to change in the financial performance of
+Centenary bank, Mukono branch by .665 units.
+Finally, results indicate that online banking and the financial performance of Centenary bank,
+Mukon branch had a positive and significant relationship (beta=.855, p<0.05). The findings
+imply that any change or improvement in online banking by one unit leads to change in the
+financial performance of Centenary bank, Mukono branch by .855 units and the reverse is true.
+From the above results, the researcher therefore extracts the regression equation (line of best fit)
+Y on X as shown below;
+The researcher adopted the following regression equation:
+Y= β0+βx1+βx2+ε
+
+Where; Y = Financial performance of Centenary bank, Mukono branch.
+β = Beta
+
+
+β0 = Constant
+x1 = Automatic teller machine
+x2 = Online banking
+ε = The standard error
+Y= β0+βx1+βx2+ε
+By substituting from the above equation
+Y = .217+.665x1 +.855x2 +.077
+These results imply that if 0.217 is held constant, a unit consideration of automatic teller
+machine results a 0.665 increase in financial performance of Centenary bank, Mukono branch.
+Finally, it was established by the study that a unit consideration of online banking increased
+financial performance of Centenary bank, Mukono branch by 0.855.
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+SUMMARY OF FINDINGS, CONCLUSIONS AND RECOMMENDATIONS
+5.0 Introduction
+The chapter presents discussions of the results that were presented in chapter four. It also relates
+these results to similar studies which were carried out elsewhere as revealed by different
+scholars. This chapter also provides conclusions and recommendations basing on the findings of
+the study and suggests areas for further research.
+5.1 Summary of the findings
+From the study findings, it can be concluded that there is a positive significant relationship
+between automatic teller machine and financial performance of Centenary bank, Mukono branch
+(r = .426*, p < .05). This is because the existence of a working automatic teller machine enables
+the Centenary bank, Mukono branch to improve its financial performance since the ATM
+machine works 24 hours a day and given that customers of the bank use the ATM when
+depositing and withdrawing money since they have the knowledge and skills of using ATM
+machines and because it saves customers’ time spent in queues. Further findings from the
+regression model indicate that if other factors are held constant, automatic teller machine
+explains 66.5% of the variations in financial performance of Centenary bank, Mukono branch.
+Finally, the study concluded that there is a positive significant relationship between mobile
+banking and performance of the financial sector of Uganda (r = .433*, p < .05). This is because
+the use of online banking enables Centenary bank, Mukono branch to improve its financial
+performance since online banking system provides high degree of convenience to the bank
+customers and given that the online banking service helps to reduce transaction costs for
+customers of the bank. Further findings from the regression model indicate that if other factors
+are held constant, online banking explains 85.5% of the variations in financial performance of
+Centenary bank, Mukono branch.
+
+
+
+
+5.2 Conclusion
+From the study findings, it can be concluded that there is a positive significant relationship
+between automatic teller machine and financial performance of Centenary bank, Mukono branch
+(r = .426*, p < .05) since the existence of a working automatic teller machine enables Centenary
+bank, Mukono branch to improve its financial performance. This is simply because the ATM
+machine works 24 hours a day. Finally, it can be concluded that there is a positive significant
+relationship between online banking and financial performance of Centenary bank, Mukono
+branch (r = .433*, p < .05) since the use of online banking enables Centenary bank, Mukono
+branch to improve its financial performance. This is because online banking system provides
+high degree of convenience to the bank customers.
+5.3 Recommendations
+From the above discussions of findings and conclusion, the following measures are
+recommended in response to ICT services and financial performance of commercial banks; a
+case of Centenary bank, Mukono Branch.
+From the study findings, it can therefore be recommended that the management of Centenary
+bank, Mukono branch should develop a better system to monitor all ATM transactions so that
+there is effectiveness in online banking and to ensure that the loopholes in the system are
+covered. This can help to enhance financial performance of Centenary bank, Mukono branch.
+Furthermore, the study recommends that management of Centenary bank, Mukono branch
+should develop an effective mobile banking system and make sure they always have a mobile
+banking plan that enables them have minimum fraud at all times, this helps them to control credit
+and hence enhances the financial performance of commercial banks.
+Finally, the study recommends that the management Centenary bank and other financial
+institutions should promote e-banking workshops and training of their customers to make them
+user-friendly.
+
+
+
+
+5.4 Area for Further Research
+Since this study investigated ICT services and financial performance of commercial banks; a
+case of Centenary bank, Mukono branch, the study recommends that; similar study should be
+done for comparison purposes and to allow for generalization since it only focused on Centenary
+bank, Mukono branch in particular and areas for further studies include:
+The researcher recommends that more research should be done on the factors influencing the
+adoption of online banking in financial institutions in Uganda.
+The researcher also recommends that more research should be done on the technological
+challenges and scaling of online banking especially in other banks.
+Finally, the researcher recommends that more research should be done on the marketing
+strategies and adoption of online banking services among bank customers in Uganda.

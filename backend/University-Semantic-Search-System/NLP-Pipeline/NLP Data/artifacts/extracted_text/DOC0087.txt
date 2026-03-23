@@ -1,0 +1,1447 @@
+FACTORS DRIVING ELECTRONIC BANKING SYSTEMS: A CASE STUDY OF EQUITY BANK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMOS KHAUKHA 
+M21B05/018 
+ 
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS, IN PARTIAL 
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR 
+OF BUSINESS ADMINISTRATION OF UGANDA CHRISTIAN UNIVERSITY 
+ 
+June, 2024 
+ 
+ 
+
+ii 
+ 
+ 
+DECLARATION 
+As per the university values of integrity and diligence, I have not received any unauthorized 
+assistance while working on this paper. I declare that the work is authentically mine and to the best 
+of my knowledge, it contains no traces of plagiarism or any other unethical practices. The only 
+work used that has already been published by other persons has been purely for reference purposes. 
+Khaukha Amos 
+Signature…………………………………….. 
+Date…………………………………………….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+ACKNOWLEDGMENT 
+The researcher is indebted to many institutions and individuals. Special recognition goes to 
+Uganda Christian University for offering me the opportunity and chance to pursue education. 
+Deep appreciation goes to all the lecturers of Uganda Christian University for their Godly 
+devotion in teaching. Special regards are directed to my supervisor for her tireless efforts in 
+guiding me on research writing. The researcher would like to recognize the classmates for 
+continuous support in group discussion on research work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+TABLE OF CONTENTS 
+Table of Contents 
+DECLARATION......................................................................................................................................... ii 
+ACKNOWLEDGMENT ........................................................................................................................... iv 
+TABLE OF CONTENTS ........................................................................................................................... v 
+CHAPTER ONE ......................................................................................................................................... 1 
+1.0 Introduction ........................................................................................................................................... 1 
+1.1Back ground of the study ...................................................................................................................... 1 
+1.2 Problem statement. ............................................................................................................................... 3 
+1.3 General objective of the study.............................................................................................................. 3 
+1.5 Research questions ................................................................................................................................ 3 
+1.6 Scope of the study .................................................................................................................................. 3 
+CHAPTER TWO ........................................................................................................................................ 5 
+LITERATURE REVIEW .......................................................................................................................... 5 
+2.0 Introduction ........................................................................................................................................... 5 
+2.1 Definition of key terms. ........................................................................................................................ 5 
+2.2. To examine the factors influencing customers to adopt E-banking services. ................................. 5 
+2.3. The challenges associated with E-banking systems........................................................................... 7 
+2.4. The relationship between electronic banking and customer satisfaction in commercial banks. .. 8 
+2.5 Conclusion ............................................................................................................................................. 9 
+CHAPTER THREE .................................................................................................................................. 10 
+RESEARCH METHODOLOGY ............................................................................................................ 10 
+3.0 Introduction ......................................................................................................................................... 10 
+3.1 Research Design .................................................................................................................................. 10 
+3.2 Study Population ................................................................................................................................. 10 
+3.3 Sample Size  s ...................................................................................................................................... 10 
+Table 1. Sample size .................................................................................................................................. 10 
+CHAPTER FOUR ..................................................................................................................................... 13 
+PRESENTATION, ANALYSIS AND INTERPRETATION OF FINDINGS ..................................... 13 
+4.1 Introduction ......................................................................................................................................... 13 
+
+vi 
+ 
+4.2 Response rate ....................................................................................................................................... 13 
+Table 1: Response rate .............................................................................................................................. 13 
+4.3 Biographic characteristics .................................................................................................................. 14 
+4.3.1Gender of the respondent ................................................................................................................. 14 
+Table 2: Gender of the respondents ........................................................................................................ 14 
+4.3.2 Age bracket of the respondents. ...................................................................................................... 14 
+Table 3: The age composition of respondents ........................................................................................ 14 
+4.3.3 Education level ................................................................................................................................. 14 
+Table 4: Level of education attained by the different respondents. ..................................................... 14 
+4.3.4 Working experience ......................................................................................................................... 15 
+Table 5: Working experience of respondents ......................................................................................... 15 
+4.4 The factors influencing customers to adopt E-banking services..................................................... 15 
+Table 6: The factors influencing customers to adopt E-banking services. .......................................... 15 
+4.5 Challenges associated with E-banking systems ................................................................................ 17 
+Table 7:Challenges associated with E-banking systems ........................................................................ 17 
+4.6 The relationship between electronic banking and customer satisfaction in commercial banks. . 19 
+Table 8: The relationship between electronic banking and customer satisfaction in commercial 
+banks. ......................................................................................................................................................... 19 
+CHAPTER FIVE ...................................................................................................................................... 21 
+SUMMARY, DISCUSSION, CONCLUSIONS AND RECOMMENDATIONS ................................ 21 
+5.1 Introduction. ........................................................................................................................................ 21 
+5.2 Summary of the key findings ............................................................................................................. 21 
+Discussion of the key findings .................................................................................................................... 22 
+5.4 Conclusion ........................................................................................................................................... 24 
+5.5 Recommendations ............................................................................................................................... 25 
+References .................................................................................................................................................. 26 
+APPENDIX ................................................................................................................................................ 29 
+QUESTIONNAIRE ................................................................................................................................... 29 
+SECTION B ............................................................................................................................................... 30 
+ 
+ 
+
+vii 
+ 
+LIST OF TABLES 
+Table: Sample size ........................................................................................................................ 10 
+Table 1: Response rate .................................................................................................................. 13 
+Table 2: Gender of the respondents .............................................................................................. 14 
+Table 3: The age composition of respondents .............................................................................. 14 
+Table 4: Level of education attained by the different respondents. .............................................. 14 
+Table 5: Working experience of respondents ............................................................................... 15 
+Table 6:The factors influencing customers to adopt E-banking services. .................................... 15 
+Table 7:Challenges associated with E-banking systems ............................................................... 17 
+Table 8: The relationship between electronic banking and customer satisfaction in commercial 
+banks. ............................................................................................................................................ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+viii 
+ 
+ABSTRACT 
+The research delved into the adoption and usage patterns of electronic banking systems, focusing 
+on factors influencing customer adoption, challenges associated with such systems, and the 
+correlation between electronic banking and customer satisfaction in commercial banks. Employing 
+a descriptive cross-sectional design, the study utilized a mixed-method approach to gather data 
+from 59 respondents via questionnaires. Quantitative data underwent analysis through measures 
+of central tendency. 
+Findings revealed customers highly prioritize the convenience and accessibility of E-banking 
+services, though security concerns vary among them. While intuitive interfaces and cost savings 
+hold lesser importance on average, there's notable variability in customer preferences regarding 
+these aspects. 
+Conclusively, financial institutions operating in the E-banking sector should tailor their strategies 
+in line with these insights. While security-related challenges exhibit moderate importance with 
+varying perceptions, issues like reputational damage, technological advancements, and cost bear 
+significant weight, garnering more uniform opinions among respondents. Effective addressing of 
+these challenges is crucial not only for enhancing system security and reliability but also for 
+upholding a positive reputation and remaining competitive in the dynamic digital landscape. 
+Furthermore, institutions should prioritize inclusive E-banking services, considering the varying 
+degrees of importance placed on accessibility challenges by different respondents. 
+Recommendations include investing in robust online and mobile banking platforms to ensure 
+round-the-clock accessibility across various devices and browsers. Recognizing the diverse range 
+of security concerns among customers, offering customizable security options is advisable, 
+allowing users to tailor their security settings to their comfort levels. 
+ 
+
+1 
+ 
+CHAPTER ONE 
+1.0 Introduction 
+This chapter presents the back ground of the study, the problem statement, objective of the 
+study, research questions, scope of the study, significance of the study, and conceptual 
+framework. 
+1.1Back ground of the study 
+In recent years, the global banking industry has experienced a rapid evolution driven by 
+advancements in information technology. This progress has enabled enhanced tracking and 
+fulfillment of commitments, diversified online delivery channels for customers, and expedited 
+issue resolution. Consequently, the financial services landscape is undergoing visible and swift 
+transformation, with traditional practices quickly fading away. This transition is accompanied 
+by heightened competition among banks, largely fueled by the continuous development of 
+information technology.As a result of these technological advancements, customers are 
+becoming 
+increasingly 
+familiar 
+with 
+electronic 
+banking 
+services 
+and 
+systems. 
+Telecommunication and information technology breakthroughs are revolutionizing the banking 
+sector, with electronic commerce promising a new era of convenience and efficiency. 
+Numerous studies have emphasized the growth of electronic banking and its operational 
+capacities, highlighting its potential to offer cost-effective and direct avenues for information 
+exchange and transactions.Today, financial institutions are vigorously vying to expand their 
+market share and profitability. Banks, in particular, have shifted significantly from 
+conventional brick-and-mortar operations to branchless banking models, leveraging the latest 
+technologies to broaden their customer base. Electronic banking stands out as a primary 
+advancement in this regard.Given the globalized nature of business, Ugandan banks are 
+compelled to embrace electronic banking services to enhance service delivery and customer 
+satisfaction, essential for remaining competitive and profitable in the industry.Electronic 
+banking, as defined by various scholars, encompasses the automated delivery of banking 
+products and services through electronic channels such as computers, ATMs, and internet 
+portals. It provides customers with round-the-clock access to various banking services, from 
+bill payments to investments, and facilitates transactions through ATMs or direct deposit 
+mechanisms.Despite the acknowledged importance of customer satisfaction for business 
+sustainability, recent studies indicate that customers remain largely unaware of electronic 
+banking services, preferring traditional banking methods for transactions and inquiries. 
+
+2 
+ 
+Commercial banks in Uganda recognize the significance of electronic banking in enhancing 
+organizational performance and profitability, yet customer adoption rates remain low.The 
+process of customer adoption involves stages of knowledge acquisition, persuasion, decision-
+making, implementation, and confirmation. Dissatisfaction with existing services, such as 
+system breakdowns and lack of transaction confirmations, contributes to reluctance in adopting 
+electronic banking among Ugandan consumers.In light of these industry dynamics, this study 
+aims to empirically assess the impact of electronic banking services on customer satisfaction 
+within Uganda's banking sector.Equity Bank, established in 1984 as Equity Building Society 
+(EBS), initially focused on mortgage services but later expanded its offerings to include 
+microfinance in the 1990s. Over the past decade, Equity Bank has witnessed significant growth 
+and improvement in product offerings and service quality. Despite challenges faced by the 
+banking sector, Equity Bank's strategic initiatives have garnered positive reception from 
+Ugandan consumers, leading to increased trust and engagement with the bank.The banking 
+sector in Uganda has experienced remarkable growth, with total assets expanding significantly 
+over the past decade. However, market dominance remains concentrated among a few key 
+players, while smaller institutions face challenges in gaining traction.Equity Bank's decision to 
+waive charges on savings accounts has incentivized saving among consumers, contributing to 
+the bank's continued expansion and success. By adopting strategic plans aimed at capturing the 
+unbanked population, Equity Bank has achieved notable growth in the region, particularly in 
+sectors such as construction, transport, and communication.As Equity Bank continues to 
+expand its operations, experts suggest a cautious approach, emphasizing the importance of 
+consolidating its position in the local market before further regional expansion. 
+
+3 
+ 
+1.2 Problem statement. 
+Since the adoption of E-banking services by banks, customers have shown reluctance to 
+embrace these services, as evidenced by longer queues in banking halls and a continued 
+preference for carrying large amounts of cash, indicating dissatisfaction with the services. 
+Despite efforts by banks to enhance their systems through increased infrastructure and new 
+services like Equity Duuka aimed at improving customer satisfaction, the problem persists, 
+likely due to escalating issues associated with E-banking systems. Bwonditi (2010) highlighted 
+various customer complaints about these services, particularly regarding ATMs, such as the 
+inability to stop a payment, reverse a transaction, or obtain a refund, which are seldom 
+discussed. Consequently, I am investigating the impact of electronic banking on customer 
+satisfaction at Equity Bank Mukono municipality branch. 
+1.3 General objective of the study  
+The study aimed to investigate how service quality affects customer dissatisfaction in e-
+banking services 
+Specific objectives of the study  
+i)Analyzing the factors that influence customer adoption of E-banking services. 
+ii) Identifying and analyzing the obstacles linked with E-banking systems. 
+iii) Investigating the correlation between electronic banking and customer satisfaction within 
+commercial banks. 
+1.5 Research questions 
+(i) What factors influence customers to adopt E-banking services at Equity Bank Uganda ? 
+(ii) What are the challenges associated with E-banking systems in Equity bank Uganda ? 
+(iii)What is the relationship between electronic banking and customer satisfaction? 
+1.6 Scope of the study  
+The study covered Equity Bank Uganda 
+ 
+ 
+
+4 
+ 
+1.7 Significance of the Study  
+To commercial banks 
+The findings will assist in gauging how electronic banking has impacted customer satisfaction 
+and identifying additional methods to enhance customer contentment. 
+To scholars and other researchers, The discovery will serve as a benchmark for them to guide 
+their research on this topic, enabling them to broaden their understanding of the issues and 
+explore different solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 Introduction  
+This chapter presents key findings from the current literature regarding the impact of service 
+quality on customer dissatisfaction within e-banking services offered by commercial banks in 
+Uganda. The literature reviewed includes publications from online journals, textbooks, and 
+pertinent presentations from sources outside Uganda. 
+2.1 Definition of key terms. 
+Electronic Banking. Internet banking enables customers to access their bank accounts via 
+personal computers (PCs) or mobile phones and browsers. Marsh (2005) defines electronic 
+banking as round-the-clock access to cash through automated teller machines (ATMs) using a 
+personal identification number (PIN) or through direct deposit of paychecks into checking or 
+savings accounts. Inely and Fleming (2000) describe electronic banking as an overarching term 
+encompassing the electronic performance of banking transactions without the need to 
+physically visit a brick-and-mortar institution. Bhattacherjee (2001) consolidates these 
+definitions by defining it as an integrated system that offers customers a flexible, convenient, 
+and cost-effective platform with a range of online personal banking services, including online 
+checking and savings accounts, money market accounts, certificates of deposit, credit cards, 
+home equity loans, home mortgages, insurance, investment services, portfolio management, 
+and other related financial services. Therefore, through internet banking, customers can 
+conduct the same banking transactions provided by physical branches anytime and anywhere 
+through a simple and user-friendly browser interface (Polatoglu & Ekin, 2001). 
+2.2. To examine the factors influencing customers to adopt E-banking services. 
+In the contemporary landscape, electronic banking (e-banking) stands as a pivotal conduit for 
+dispensing banking services. Essentially mirroring traditional methods of payment, inquiry, 
+and information processing, e-banking distinguishes itself by leveraging electronic mediums 
+for service delivery (Dixit and Datta, 2010). Previous research has elucidated numerous factors 
+impacting the adoption of e-banking. Poon (2008) identified ten such factors: ease of use, 
+accessibility, feature availability, bank reputation, security, privacy, design, content, speed, and 
+
+6 
+ 
+fees. Poon's findings underscored the significance of all these factors in influencing user 
+adoption of e-banking services. 
+Privacy and security emerge as prominent sources of dissatisfaction, exerting notable influence 
+on user adoption. Conversely, factors such as accessibility, convenience, design, and content 
+contribute to user satisfaction. Furthermore, the speed of service, availability of product 
+features, reasonable fees, and effective bank management are crucial to the success of e-
+banking. Notably, features like WAP, GPRS, and 3G in mobile devices hold negligible sway 
+over e-banking adoption. Poon's research underscored the pivotal roles of privacy, security, 
+and convenience in determining user acceptance across different age, education, and income 
+segments. 
+Building upon this, Dixit and Datta (2010) identified factors like security, privacy, trust, 
+innovativeness, familiarity, and awareness as enhancing the acceptance of e-banking services 
+among Indian customers. Their findings highlight the willingness of adult customers to 
+embrace online banking given appropriate guidance, emphasizing the importance of banks 
+understanding adult customers' attitudes toward technology adoption and risk aversion. 
+Meanwhile, Wan, Luck, and Chow (2005) explored factors influencing the adoption of various 
+banking channels in Hong Kong. Their research focused on demographic variables and 
+psychological beliefs regarding channel attributes. They found that ATM was the most widely 
+adopted channel, followed by internet banking and branch banking, while telephone banking 
+lagged behind. Psychological beliefs played a more predictive role in ATM and internet 
+banking adoption compared to branch and telephone banking. 
+In addition, quality dimensions emerged as significant factors influencing customer 
+satisfaction, as noted by various researchers. Raman, Stephenaus, Alam, and Kuppusamy 
+(2010) tested six e-service quality components in Malaysia, finding differing expectations 
+between internet users and non-users. Devi and Malarvizhi (2010) examined customer 
+perceptions of e-banking in India, highlighting satisfaction levels and technical issues. 
+Meanwhile, Aslam, Khan, and Tanveer (2011) explored perceived barriers to internet banking 
+adoption in non-metropolitan areas of Pakistan, noting concerns about relationship building 
+and the perceived value of traditional banking. 
+
+7 
+ 
+These studies collectively underscore the multifaceted nature of e-banking adoption, 
+influenced by factors ranging from convenience and security to customer perceptions and 
+demographic variables. 
+2.3. The challenges associated with E-banking systems. 
+Wada and Odulaja (2012) underscored that while digitalization offers numerous advantages to 
+various products and services, it also presents challenges. Hossain et al. (2015) noted that 
+although digitalization reduces operational costs for banks, the expenses associated with 
+maintaining efficient digital banking operations and facilities remain high. Consequently, 
+significant capital investment in innovating and sustaining digital banking services might offset 
+the benefits. 
+The lack of IT knowledge, security measures, and legal frameworks impedes the acceptance 
+and growth of digital banking (Acha, 2008; Haque, Hj-Ismail, & Daraz, 2009; Maitlo, Kazi, 
+Khaskheley & Faiz, 2015). Similarly, Shehu, Aliyu, and Musa (2013) explained that outdated 
+information technology infrastructures in banks, along with trust, privacy, and cybersecurity 
+concerns, present obstacles to digital banking. 
+Customer illiteracy poses a significant challenge that could affect bank performance. To fully 
+utilize bank digital channels, customers must possess basic reading, writing, and computer 
+skills (Ogunlowore & Oladele, 2014). Lack of customer acceptance and patronage also hinders 
+the growth of digital banking, particularly in developing countries, where the gap with 
+developed nations in digital banking development and adoption is evident (Wada & Odulaja, 
+2012). 
+Banking institutions have long provided electronic services to consumers and businesses 
+remotely, including electronic funds transfer and automated machines for currency withdrawal 
+and account management (BCBS, 2001). However, the increasing global acceptance of the 
+Internet as a banking delivery channel presents new business opportunities and service benefits, 
+albeit with risks and challenges that banks must manage prudently (BCBS, 2001). 
+
+8 
+ 
+The rapid pace of technological and customer service innovation in e-banking necessitates 
+shorter implementation periods, challenging banks to conduct thorough strategic assessments, 
+risk analyses, and security reviews (BCBS, 2001). E-banking heightens banks' reliance on 
+information technology, leading to technical complexities and increased partnerships with 
+unregulated third parties, such as Internet service providers and technology firms (BCBS, 
+2001). 
+The ubiquity and global accessibility of the Internet accentuate the importance of security 
+controls, customer authentication techniques, data protection, audit trail procedures, and 
+customer privacy standards in e-banking (BCBS, 2001). Additionally, e-banking presents 
+challenges such as user errors, internet connectivity issues, access problems, and security 
+concerns, which may or may not outweigh the benefits. 
+2.4. The relationship between electronic banking and customer satisfaction in 
+commercial banks.  
+Lenarts (2012) contend that customer satisfaction with financial institutions and banking 
+websites experienced positive growth in 2010. Nearly two-thirds of online financial customers 
+now utilize bill pay services across credit cards and third-party websites. The advent of 
+electronic banking has prompted many banks to explore the application of various 
+technological innovations to enhance customer service delivery, thereby ensuring satisfaction 
+and translating into increased profitability and higher returns on investment. There exists a 
+positive relationship between electronic banking services and customer satisfaction, enabling 
+banks to impress customers and foster continued patronage. Presently, it is challenging to find 
+any bank that does not offer some form of electronic banking service, even in the most remote 
+areas of the world. 
+Vaidya (2011) posits that emerging technologies offer opportunities to develop novel 
+approaches to lead generation, prospecting, and cultivating deeper customer relationships. 
+Electronic banking facilitates superior customer experiences through bi-directional 
+communications. The access to basic financial services, including saving, transferring, and 
+investing small amounts of money, can significantly impact individuals worldwide. 
+
+9 
+ 
+Barney (2006) highlights the cost-effectiveness of electronic banking, elucidating how 
+information technology has streamlined business processes, making them more efficient and 
+profitable. Electronic banking has also extended business operating hours globally, facilitating 
+easier and more convenient transactions across borders. 
+Wise and Ali (2009) assert that many banks are investing in ATMs to reduce branch costs, as 
+customers prefer using them for transactions. Although there is a marginal increase in fee 
+income with ATMs, it is offset by the significant rise in customer transactions. The primary 
+value proposition lies in enhancing customer satisfaction, thereby fostering loyalty, retention, 
+and organizational growth. Internet banking emerges as a lower-cost delivery channel, playing 
+a pivotal role in the contemporary business economy. 
+Ayadi (2003) elucidates how access to electronic payment methods and widespread internet 
+connectivity has reshaped banks' perceptions of the market, leading to the proliferation of 
+internet banking. Hutchinson and Warren (2003) argue for the importance of robust security 
+procedures in internet banking to ensure secure transactions in remote environments. The 
+adoption of internet banking technology has resulted in cost reductions through electronic 
+processing over the internet. 
+ 
+2.5 Conclusion 
+In conclusion, electronic banking remains a relatively underexplored area in Uganda's banking 
+sector. While there is limited scholarly literature on the subject, including unpublished works 
+such as dissertations, concept papers, proposals, and internet articles, there is a growing interest 
+in understanding how electronic banking impacts customer satisfaction. The research 
+landscape is ripe for exploration, particularly through case studies, as there is a perception of 
+inadequate information despite existing studies. 
+ 
+ 
+ 
+ 
+
+10 
+ 
+CHAPTER THREE 
+RESEARCH METHODOLOGY 
+3.0 Introduction  
+ 
+This chapter delineates the methodology employed in conducting the study, encompassing 
+aspects such as research design, sample size determination, sampling methodologies, data 
+sources, collection techniques, instruments utilized for data gathering, and the subsequent 
+analysis and presentation of data 
+3.1 Research Design  
+The research employed a cross-sectional research design, which entails examining data from a 
+population at a singular moment. Additionally, correlation and regression analyses were 
+utilized to ascertain the correlation between electronic banking services and customer 
+satisfaction or dissatisfaction. 
+3.2 Study Population  
+The study targeted100 respondents. This is the number of staff in Equity bank. 
+3.3 Sample Size  
+The sample consisted of 60 individuals due to the small population size. All staff members 
+participated in the study, along with a select few customers 
+Table 1. Sample size 
+Respondents  
+Number of respondents  
+Bank staff  
+18 
+Customers  
+42 
+Total  
+60 
+ 
+ 
+ 
+
+11 
+ 
+3.4. Sampling Technique: 
+The study employed purposive sampling, selecting individuals or cases based on specific 
+characteristics relevant to the research objectives. 
+3.5 Sources of Data: 
+The study gathered both primary and secondary data. Primary data was obtained through 
+personal interviews and questionnaires to access unique information. Secondary data was 
+sourced from textbooks, journals, and other published materials. 
+3.5.1 Primary Data: 
+Primary data refers to information gathered firsthand for the research, not previously reported. 
+It is collected directly by the researcher through methods like surveys or interviews. 
+3.5.2 Secondary Data: 
+Secondary data is data already reported by other scholars, obtained from studies, surveys, or 
+experiments conducted by others. 
+3.6 Data Collection Instruments: 
+Questionnaires were utilized as the primary data collection instrument due to their efficiency 
+in gathering data from a large sample within a short timeframe. 
+3.6.1 Questionnaire: 
+A questionnaire consists of written questions where respondents record their answers, offering 
+defined alternatives. It was chosen for its efficacy in collecting data from small-scale business 
+owners. 
+3.7 Data Presentation and Analysis: 
+Collected data was reviewed for completeness, categorized, coded, and inputted into a 
+computer. It was then summarized into frequency tables and analyzed using SPSS software. 
+3.8 Ethical Considerations: 
+Ethics in research encompass the appropriateness of behavior concerning the rights of subjects 
+or those impacted by the findings. The researcher ensured methodological soundness and moral 
+
+12 
+ 
+defensibility, obtaining informed consent from participants and avoiding situations where harm 
+could occur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13 
+ 
+CHAPTER FOUR 
+PRESENTATION, ANALYSIS AND INTERPRETATION OF FINDINGS 
+4.1 Introduction   
+This chapter unveils the research outcomes concerning how service quality influences customer 
+discontentment in e-banking services. It begins by outlining the response rate, proceeds to provide 
+background details about the respondents, and culminates in a comprehensive presentation and 
+analysis of the study findings, correlating them with the specific objectives. 
+4.2 Response rate   
+The research achieved a noteworthy response rate of 95.2%, indicating a robust engagement from 
+participants. Amin (2005) posited that such a high response rate typically correlates with increased 
+accuracy in survey outcomes 
+Table 1: Response rate 
+Number 
+of 
+questionnaires 
+distributed 
+to 
+respondents 
+60 
+Number of questionnaires received back from 
+respondents 
+59 
+Number of questionnaires not received back from 
+respondents 
+1 
+Source: Primary data 
+Response rate= received questionnaires  
+ 
+=59 *100  
+ 
+ 
+ 
+Total questionnaires distributed  
+ 60 
+ 
+= 98.33%  
+The research achieved an impressive response rate of 98.3%, indicating its high level of 
+participation. According to Amin (2005), such a high response rate is likely to yield more 
+accurate survey results. Additionally, this section provides an overview of the 
+respondents' demographics, including gender, age, level of education, current occupation, 
+and length of service. These details were gathered from the questionnaire responses and 
+interviews conducted with the participants 
+
+14 
+ 
+ 
+4.3 Biographic characteristics 
+4.3.1Gender of the respondent 
+Table 2: Gender of the respondents 
+Sex  
+ Frequency  
+Percentage % 
+Male 
+26 
+44 
+Female 
+33 
+56 
+Total  
+59 
+100 
+Source: Primary data  
+Table 2 above illustrates that 44% of the participants were male, while 56% were female. 
+There was a greater presence of males compared to females 
+4.3.2 Age bracket of the respondents. 
+Table 3: The age composition of respondents 
+Age bracket 
+Frequency 
+Percentage 
+21-30years 
+10 
+17 
+31-40years 
+14 
+24 
+41-50years 
+23 
+39 
+Above 50years 
+12 
+20 
+Total 
+59 
+100 
+ 
+Source: primary data 
+The data presented in Table 3 reveals that 39% of the participants fell within the age 
+range of 41-50 years. Additionally, 17% of respondents were aged between 21-30 years, 
+while 24% and 20% represented those aged 31-40 years and over 50 years, respectively 
+4.3.3 Education level 
+Table 4: Level of education attained by the different respondents. 
+Education level 
+Frequency  
+Percentage % 
+Certificates 
+5 
+8 
+
+15 
+ 
+Diploma 
+10 
+18 
+Bachelors 
+38 
+64 
+Masters 
+6 
+10 
+Total 
+59 
+100 
+Source: primary data 
+The findings presented in Table 4 reveal that 18% of participants possessed a diploma, 64% 
+held bachelor's degrees, indicating a preference among the majority of literate individuals for 
+storing their funds in banks. Additionally, 8% of respondents held certificates, while 10% 
+possessed master's degrees, suggesting that bank employees were predominantly individuals 
+with bachelor's qualifications. 
+4.3.4 Working experience 
+Table 5: Working experience of respondents 
+Working experience 
+Frequency 
+Percentage 
+1-5 years 
+39 
+66 
+From 6-10years 
+20 
+34 
+From 11-15years 
+0 
+0 
+From 16-20 years 
+0 
+0 
+Total 
+59 
+100 
+Source, primary data 
+Results in table 5, show that 66% of the respondents have been dealing with Equity bank for a 
+period between 1-5 years and the 34% have been dealing with the bank for a period between 
+6-10 years. 
+4.4 The factors influencing customers to adopt E-banking services. 
+Table 6: The factors influencing customers to adopt E-banking services. 
+The factors influencing customers to adopt E-banking 
+services. 
+ 
+ 
+Mean 
+Standard 
+deviation 
+
+16 
+ 
+Customers appreciate the ability to access their accounts, 
+make transactions, and check balances from the comfort of 
+their homes or on-the-go using smartphones or computers. 
+4.20 
+.738 
+The availability of E-banking services and easy access to the 
+internet play a crucial role 
+4.19 
+.730 
+Concerns about the security of online transactions and 
+personal information are significant barriers to adoption 
+3.93 
+.828 
+Customers prefer intuitive interfaces that make it simple to 
+perform transactions and navigate through their accounts. 
+1.88 
+.966 
+E-banking often offers lower fees and costs compared to 
+traditional banking services. 
+1.86 
+.955 
+Source: Primary data   
+Customers highly appreciate the convenience of accessing their accounts, making 
+transactions, and checking balances either from home or while on the move via 
+smartphones or computers. This aspect receives a high mean score of 4.20, indicating its 
+significant value to customers. The low standard deviation of 0.738 suggests a consistent 
+acknowledgment of this convenience among respondents. 
+The availability of E-banking services and easy internet access also holds considerable 
+importance, as indicated by its mean score of 4.19. Similarly, the low standard deviation 
+of 0.730 signifies a consistent preference for this aspect among customers. 
+However, concerns regarding the security of online transactions and personal 
+information present notable barriers to adoption, with a mean score of 3.93. Yet, the 
+higher standard deviation of 0.828 implies varying degrees of concern among 
+respondents. 
+In contrast, customers place less emphasis on intuitive interfaces, with a mean score of 
+1.88, and lower fees and costs, with a mean score of 1.86. The higher standard deviations 
+for these factors (0.966 and 0.955, respectively) indicate more diverse preferences among 
+customers regarding interface intuitiveness and cost savings. 
+
+17 
+ 
+In summary, the data indicates that customers highly value the convenience of E-banking 
+and easy internet access. Security concerns are significant but vary among customers. 
+Meanwhile, intuitive interfaces and cost savings are less universally important, with 
+greater variability in customer preferences for these factors. 
+4.5 Challenges associated with E-banking systems 
+Table 7:Challenges associated with E-banking systems 
+Challenges associated with E-banking systems 
+ 
+Mean 
+Standard 
+deviation 
+E-banking systems are susceptible to various security threats, 
+including hacking, phishing, malware, and identity theft 
+2.46 
+1.250 
+Malicious actors constantly seek vulnerabilities in E-banking 
+systems to steal funds or sensitive information. 
+ 
+2.51 
+1.251 
+Detecting and preventing fraudulent activities in E-banking 
+systems is crucial. Banks must employ sophisticated fraud 
+detection tools and strategies to safeguard their customers' 
+accounts. 
+2.41 
+1.191 
+Any security breach or data leak can erode customer 
+confidence, leading to reputational damage. 
+4.29 
+.911 
+Rapid advancements in technology mean that E-banking 
+systems can quickly become outdated. Banks must 
+continually invest in upgrading their systems to stay 
+competitive and secure. 
+4.25 
+.902 
+Ensuring that E-banking services are accessible to all 
+customers, including those with disabilities or limited access 
+to technology, is a challenge that banks need to address. 
+2.31 
+1.235 
+Developing, maintaining, and securing E-banking systems 
+can be expensive. 
+4.31 
+.815 
+
+18 
+ 
+Source: Primary data   
+The table presents data concerning challenges associated with E-banking systems, including 
+mean scores and standard deviations for each challenge.  
+Security threats (Mean: 2.46, Std Dev: 1.250): Respondents consider security threats 
+moderately concerning in E-banking systems, with some variability in opinions indicated by 
+the standard deviation. 
+Malicious actors (Mean: 2.51, Std Dev: 1.251): Similar to security threats, respondents 
+perceive the threat of malicious actors as moderate, with variability in opinions. 
+Fraud detection (Mean: 2.41, Std Dev: 1.191): Detecting and preventing fraudulent activities 
+is slightly less challenging than security threats and malicious actors, with some variation in 
+opinions among respondents. 
+Reputational damage (Mean: 4.29, Std Dev: 0.911): Reputational damage due to security 
+breaches or data leaks is rated significantly higher than previous challenges, with respondents 
+viewing it as a substantial concern. The relatively low standard deviation indicates consistent 
+perception among respondents. 
+Technological advancements (Mean: 4.25, Std Dev: 0.902): Staying updated with rapidly 
+advancing technology is rated similarly high as reputational damage. Respondents see this as 
+a significant challenge with a low standard deviation, indicating a consensus on its importance. 
+Accessibility (Mean: 2.31, Std Dev: 1.235): Ensuring that E-banking services are accessible to 
+all customers, including those with disabilities, is perceived as a moderate challenge with some 
+variability in opinions. 
+ 
+Cost (Mean: 4.31, Std Dev: 0.815): Developing, maintaining, and securing E-banking systems 
+is considered the most challenging aspect, with a high mean score and a low standard deviation, 
+indicating a consensus among respondents regarding its significant cost implications. 
+In summary, security-related challenges, such as security threats, malicious actors, and fraud 
+detection, are seen as moderate concerns with some variability in opinions. However, 
+challenges related to reputational damage, technological advancements, and cost are viewed as 
+more significant, with less variation in perceptions among respondents. Accessibility is 
+perceived as a moderate challenge with some variability in opinions as well. These insights can 
+
+19 
+ 
+assist banks and financial institutions in prioritizing efforts to address challenges in the E-
+banking sector. 
+4.6 The relationship between electronic banking and customer satisfaction in 
+commercial banks.  
+Table 8: The relationship between electronic banking and customer satisfaction in 
+commercial banks.  
+The relationship between electronic banking and customer 
+satisfaction in commercial banks.  
+ 
+Mean 
+Standard 
+deviation 
+Electronic banking provides customers with the convenience of 
+accessing their accounts 
+2.22 
+1.190 
+Electronic banking allows for faster transaction processing 
+compared to traditional in-branch banking 
+2.25 
+1.154 
+A diverse set of E- banking services can enhance customer 
+satisfaction by meeting various financial needs. 
+2.32 
+1.224 
+A breach or security incident can severely impact customer 
+satisfaction and erode trust in the bank. 
+2.41 
+1.261 
+Banks can use data from electronic banking interactions to 
+personalize their offerings and recommendations to customers 
+which enhances satisfaction 
+2.24 
+1.165 
+Source: Primary data   
+Table 8 presents the mean scores and standard deviations for statements regarding the 
+relationship between electronic banking and customer satisfaction in commercial banks. 
+ 
+ 
+ 
+
+20 
+ 
+1. Convenience of Electronic Banking: 
+   The mean score (2.22) and low standard deviation (1.190) suggest that customers perceive 
+electronic banking as somewhat convenient, with consistent opinions. However, the relatively 
+modest mean implies room for improvement in convenience 
+2. Transaction Processing Speed: 
+   Electronic banking is seen to offer slightly faster transaction processing (Mean: 2.25, 
+Standard Deviation: 1.154), with opinions relatively consistent among customers. 
+3. Diverse E-banking Services: 
+   Customers view a diverse set of electronic banking services as potentially enhancing 
+satisfaction by meeting various financial needs (Mean: 2.32, Standard Deviation: 1.224), but 
+the higher standard deviation indicates some variability in this perception. 
+4.Impact of Security Breaches 
+   Concerns about security breaches are evident (Mean: 2.41, Standard Deviation: 1.261), with 
+customers generally perceiving them as having a significant impact on satisfaction and trust, 
+though opinions vary. 
+5.Personalized Offerings based on Electronic Banking Data 
+   Customers generally believe that personalized offerings and recommendations can enhance 
+satisfaction (Mean: 2.24, Standard Deviation: 1.165), though the mean score is not very high, 
+and opinions vary. 
+In conclusion, customers recognize the benefits of electronic banking in terms of convenience, 
+speed, and potential for personalized services, but security concerns are notable. It's crucial for 
+commercial banks to address these concerns while improving and diversifying electronic 
+banking services to enhance satisfaction. Further research or analysis may be necessary to delve 
+deeper into these relationships and identify specific areas for improvement. 
+identify specific areas for improvement in electronic banking services. 
+ 
+ 
+ 
+
+21 
+ 
+CHAPTER FIVE 
+SUMMARY, DISCUSSION, CONCLUSIONS AND RECOMMENDATIONS 
+ 
+5.1 Introduction. 
+ The research delved into how service quality influences customer discontent within e-banking 
+services. An exploration of the patterns of adoption and usage in electronic banking systems was 
+undertaken. This chapter encapsulates a review, discourse, deductions, and suggestions stemming 
+from the examination of internal control systems and financial performance. The initial segment offers 
+an overview of the research discoveries concerning the predefined objectives, succeeded by an 
+analysis, summary, and recommendations aligned with the study's aims. 
+5.2 Summary of the key findings 
+This presents the summary of the key findings of the study. 
+The findings show that customers highly value the convenience of E-banking and the 
+availability of services with easy internet access. Security concerns are significant but vary 
+among customers. Intuitive interfaces and cost savings are less important on average, with more 
+variability in customer preferences for these factors. 
+In addition, the data indicates that security-related challenges, such as security threats, 
+malicious actors, and fraud detection, are moderate concerns with some variability in opinions. 
+However, challenges related to reputational damage, technological advancements, and cost are 
+seen as more significant, with less variation in perceptions among respondents. Accessibility 
+is perceived as a moderate challenge with some variability in opinions as well. These insights 
+can help banks and financial institutions prioritize their efforts to address these challenges in 
+the E-banking sector 
+The data finally indicates that customers generally see some benefits in electronic banking in 
+terms of convenience, speed, and potential for personalized services. However, concerns about 
+security and the impact of security breaches are notable. It's essential for commercial banks to 
+address these security concerns while continuing to improve and diversify their electronic 
+banking services to enhance customer satisfaction. Further research or analysis may be needed 
+to explore these relationships more deeply and to identify specific areas for improvement in 
+electronic banking services. 
+
+22 
+ 
+Discussion of the key findings 
+The study found out that convenience is king. The high mean scores of 4.20 and 4.19 for the 
+convenience of accessing accounts and the availability of E-banking services with easy internet 
+access clearly indicate that customers highly value convenience. This suggests that the ability 
+to perform transactions and check balances from anywhere, at any time, is a key driver of 
+customer satisfaction. In the age of digital technology, the convenience factor plays a pivotal 
+role in retaining and attracting customers. In addition, consistency in Preferences. The low 
+standard deviations for both convenience (0.738) and the availability of E-banking services 
+(0.730) highlight the consistency of customer preferences. This means that across the surveyed 
+population, these factors are consistently seen as important. Financial institutions should 
+continue to invest in improving the accessibility and ease of use of their online banking 
+platforms to maintain customer satisfaction. Furthermore, Security Concerns are Significant. 
+The mean score of 3.93 for security concerns suggests that customers do have apprehensions 
+regarding the safety of online transactions and the security of their personal information. The 
+higher standard deviation of 0.828 indicates that these concerns vary among customers. This 
+finding underscores the need for financial institutions to prioritize robust security measures and 
+offer clear information and resources to address customer concerns. While convenience and 
+security take center stage, the mean score of 1.88 for interface intuitiveness indicates that 
+customers place less emphasis on this aspect. However, the high standard deviation of 0.966 
+suggests that there is a wide range of preferences when it comes to intuitive interfaces. Some 
+customers may find this aspect crucial for their banking experience, while others may not 
+consider it as important. Financial institutions should aim for a balance by offering user-
+friendly interfaces without compromising on security. Again, cost savings matter less. The 
+mean score of 1.86 for lower fees and costs indicates that, on average, customers do not highly 
+prioritize cost savings when choosing E-banking services. However, the high standard 
+deviation of 0.955 implies that there is significant variability in customer preferences in this 
+regard. Some customers may be more sensitive to fees and costs, while others may prioritize 
+other factors. Financial institutions should consider offering a variety of pricing options to cater 
+to different customer segments. 
+The data offers valuable insights into the challenges associated with E-banking systems, 
+shedding light on the perceptions of respondents and the variability in their opinions. These 
+findings can serve as a basis for informed decision-making and prioritization of efforts within 
+the E-banking sector. Both security threats and malicious actors are considered moderate 
+
+23 
+ 
+challenges in E-banking systems, with mean scores of 2.46 and 2.51, respectively. This 
+indicates that respondents acknowledge the importance of security but perceive some 
+variability in its significance. The standard deviations (1.250 and 1.251) highlight that while 
+security is a concern, it might not be uniformly perceived as a top priority by all respondents. 
+Detecting and preventing fraudulent activities in E-banking systems is rated slightly lower than 
+security threats and malicious actors, with a mean score of 2.41. The standard deviation of 
+1.191 suggests that respondents have varying opinions on the importance of fraud detection, 
+indicating some room for improvement and consensus-building in this area. Reputational 
+damage due to security breaches or data leaks is seen as a significant concern, with a notably 
+higher mean score of 4.29. The low standard deviation (0.911) implies a more consistent 
+perception among respondents regarding the gravity of this challenge. Financial institutions 
+should prioritize strategies and investments to safeguard their reputation. Staying up-to-date 
+with rapidly evolving technology is another highly rated challenge, with a mean score of 4.25. 
+The low standard deviation (0.902) suggests a consensus among respondents on the importance 
+of keeping pace with technological advancements. This indicates that E-banking institutions 
+must allocate resources to stay technologically competitive. Ensuring that E-banking services 
+are accessible to all customers, including those with disabilities, is perceived as a moderate 
+challenge (mean score of 2.31). The standard deviation of 1.235 indicates varying opinions 
+among respondents regarding the importance of accessibility. Financial institutions should take 
+this into account when addressing accessibility issues. Developing, maintaining, and securing 
+E-banking systems is considered the most challenging aspect, with a high mean score of 4.31. 
+The low standard deviation (0.815) signifies a strong consensus among respondents about the 
+substantial cost implications of E-banking operations. This highlights the critical need for 
+careful budgeting and resource allocation 
+The mean scores for statements related to convenience (Mean: 2.22) and speed (Mean: 2.25) 
+of electronic banking suggest that customers generally find electronic banking somewhat 
+convenient and slightly faster than traditional in-branch banking. The low standard deviations 
+for both convenience (SD: 1.190) and speed (SD: 1.154) indicate that customer opinions are 
+relatively consistent on these aspects. The findings imply that while electronic banking is 
+perceived as convenient and faster, there is room for improvement, particularly in enhancing 
+the convenience factor. The statement regarding a diverse set of electronic banking services 
+enhancing customer satisfaction (Mean: 2.32) suggests that customers see value in a variety of 
+services. However, the relatively high standard deviation (SD: 1.224) indicates that there is 
+
+24 
+ 
+some variability in how customers perceive the impact of these services on their satisfaction. 
+Commercial banks should focus on offering a wide range of electronic banking services to cater 
+to diverse financial needs, but they should also work on understanding and addressing the 
+varying preferences of their customers. The data indicates that customers have significant 
+concerns about security in electronic banking (Mean: 2.41).The high mean score suggests that 
+customers consider security breaches as a critical issue that can severely impact their 
+satisfaction and trust. The high standard deviation (SD: 1.261) suggests that there is 
+considerable variation in how different customers perceive the impact of security incidents. 
+Commercial banks must prioritize and invest in robust security measures to address these 
+concerns. Effective communication of security measures and incident response plans to 
+customers can also help build trust. Customers generally believe that personalized offerings 
+and recommendations based on electronic banking data can enhance satisfaction (Mean: 
+2.24).The standard deviation (SD: 1.165) indicates some variability in customer opinions 
+regarding the effectiveness of personalization. While personalization is viewed positively, it 
+may not be as uniformly valued by all customers. Banks should consider tailoring their 
+personalization efforts to different customer segments. 
+5.4 Conclusion 
+Based on the findings obtained in chapter four it showed that in summary, the data paints a 
+clear picture of what customers value most in E-banking services: convenience and 
+accessibility. While security concerns are significant, they vary among customers. Interface 
+intuitiveness and cost savings are less critical on average, with more diverse preferences among 
+customers. Financial institutions should use these findings to inform their strategies and 
+continuously improve their E-banking offerings to better meet customer expectations and 
+preferences 
+Financial institutions operating in the E-banking sector should prioritize their efforts based on 
+these findings. While security-related challenges have moderate importance with some 
+variation in perceptions, challenges related to reputational damage, technological 
+advancements, and cost are deemed significantly more critical with relatively uniform opinions 
+among respondents. Addressing these challenges effectively will not only enhance the security 
+and reliability of E-banking systems but also contribute to maintaining a positive reputation 
+and staying competitive in the rapidly evolving digital landscape. Additionally, institutions 
+should be mindful of accessibility concerns and work towards inclusive E-banking services, 
+
+25 
+ 
+taking into account the varying levels of importance placed on this challenge by different 
+respondents. 
+Customers appreciate the convenience, speed, and potential for personalization that electronic 
+banking offers. However, their concerns about security and the impact of security breaches 
+cannot be ignored. Banks should prioritize security measures and continuously enhance the 
+convenience and personalization of their electronic banking services. Further research can 
+delve deeper into the specific aspects of security and personalization that matter most to 
+customers, helping banks refine their strategies and offerings to better meet customer 
+expectations and ultimately improve overall satisfaction. 
+5.5 Recommendations 
+The bank should focus on enhancing the convenience of your E-banking services. This could 
+involve streamlining the account management process, optimizing mobile apps, and ensuring 
+that online banking is user-friendly. 
+The bank should invest in robust online and mobile banking platforms to ensure 24/7 
+accessibility for your customers. Make sure that your services are available on various devices 
+and browsers to accommodate different customer preferences. 
+Recognize that security concerns vary among customers. Offer customizable security options 
+whenever possible, allowing users to adjust their security settings based on their comfort level. 
+Continuously educate customers on the security features and practices you have in place to 
+reassure them about the safety of their transactions. 
+Let the bank continuously collect feedback from customers to stay in tune with their evolving 
+preferences and concerns. This feedback can inform your strategy and help you prioritize 
+improvements that align with customer needs. 
+ 
+ 
+ 
+ 
+ 
+
+26 
+ 
+References 
+Dixit & Datta (2010). Acceptance of E-banking among adult customers: An empirical 
+investigation in India. Journal of Internet Banking and Commerce, Vol. 15(2). 
+Poon W. C. (2008). Users Adoption of E-Banking Services: The Malaysian Perspective. Journal 
+of Business and Industrial Marketing, Vol. 23 (1): 59-69 
+Devi, P. A. and Malarvizhi, V. (2010). Customers’ Perception of E-Banking: Factor Analysis. 
+IUP Journal of Management Research, Vol.10 (6): 7-19. 
+Aslam, H. D.;Khan, M.;Tanveer, A. (2011). Perceived Barriers Towards Adoption Of Internet 
+Banking Among Non-Metropolitan Internet Users Of Pakistan. The International Business & 
+Economics Research Journal, Vol.10(4): 45-55. 
+Raman, M., Stephenaus, R.; Alam, N.; Kuppusamy, M. (2010). Information Technology in 
+Malaysia: E-service quality and Uptake of Internet banking. Journal of Internet Banking and 
+Commerce, Vol.13 (2). 
+Baker H.H Hammerschmidt M & Falk T (2005). Measuring the quality of e-banking portals  
+International journal of bank marketing Vol. 23 No 2 PP 153 – 75 
+Bem L. Chicago IL, (2010). Relationship marketing” immerging perspective on service        
+marketing. American Marketing Association. 
+Bhattsuherjee A. (2001) an empirical analysis of the Antecedents of electronic commerce 
+services continuance. Decision support system vol 32 No 2:201-214 
+Crag Cochran (2003). Customer satisfaction: tools, techniques and formulas for success. 
+Eofy p. (2000) listening to the voice of the customer. A journal of communications 9(4):15-25 
+Evagelos, grigorous, yannis &Siskes (2010); customer satisfaction evaluation 
+Flavian C, guinaliu m, & Gurrea R (2006). The role played by perceived usability, satisfaction 
+and consumer trust on website loyalty. The international journal of information systems 
+applications 43, (1) 1-14 
+Flavian C, Torres E. & guinaliu M. (2012) corporate image measurement; a further problem 
+for the tangibilization of internet banking services. International journal of bank marketing 
+22(5) 366-84. 
+
+27 
+ 
+Fornell C & B Wernerfelt. Defensive Marketing strategy by customer complaint management.             
+A theoretical perspective, journal of marketing research vol 24 NO 4:337-346. 
+Gerlach, D. (2000). Put your money where your mouse is. Pc world, .march, 191-9. Heskett j, 
+Jones G.W & Sasser. (2011) putting the service profit chain to work. Harvard Business Review 
+vol 72 No 2. !64-174. 
+Ibrahim E (2006) customer perception of electronic service delivery in the UK retail banking 
+sector. International journal of bank marketing vol 24. No 7 pp 475-493.  
+Kateeba.j.N>September (2001) video conferencing and ATM integrated, UB journal, The 
+Uganda institute of bankers, Kampala, Uganda  
+Khalid Ahmad. (2004) source book of ATM and IP internetworking. 
+Madureme i.s (2009) Banking efficiency and information technology in Nigeria. An empirical 
+investigation. International journal of Economic and Development issues.8, 1-2. 
+Morris – Cotter ill, N. (2004) which e – banking initiatives have been successful and why. 
+Virtual conference on electronic banking for the poor. Hosted by micro save and held on 
+February 16-27 at Nairobi Kenya.  
+Mutebile T.E (2005) Money Laundering in Commercial banks. Bank of Uganda Report to the 
+Uganda institute of bankers Kampala, Uganda.  
+Nigel Hill, Greg Roche, Rachel Allen (2007). Customer satisfaction: The Customer experience 
+through the customers eyes.  
+Oliver G. (1980) Marketing   today London prentice – Hall international.  
+Oliver R & Waynes S.D (1988) Response determinates in satisfaction judgments. Journal of 
+Consumer Research (14th March) 495 – 507)  
+Parasuraman A, Zeithamnl A, Leonard L, Berry A (2012). Conceptual Mode of service quality 
+and its implications for future research. Journal of Marketing 49(3) :41-50. 
+Pikkarainen T. Pikkarainen K, Karjaluoto. H & Pahnilas S. (2012). Consumer acceptance of 
+online banking: an extension of the technology acceptance moddle.  
+Pa;atoglu V. & Ekin S. (2001). An Empirical Investigation of the Turkish Consumers 
+acceptance of the internet banking services; international journal of bank Marketing Vol. 19 
+No.4 People 156- 65.  
+
+28 
+ 
+Gitman, Lawrence J.; Carl D. McDaniel (2005). The Future of Business: The Essentials. 
+Mason, Ohio: South-Western. ISBN 978-0-324-32028-2. 
+Ramsy T. (2000) E. Commerce a managerial perspective. USA prentice Hall   
+Speece & Rotchanakitumnuai (2004) “cooperate customer perspective on business value of 
+Thai. Internet banking” Journalof Electronic commerce Research Vol.5, No.4,PP. 270-286.  
+Rotchanakitumnuai S. & Speece M. (2003). Barrier to internet banking adoption a qualitative 
+study among corporate customers in Thailand: international journal of bank marketing Vol 21 
+No 6/7 pp 312  -23.  
+Seitz j & sticle E (200) Internet banking –An overview available at www.euv. Frank Frutode.  
+Siriluck, R, & Speece, M.. (2003). Barriers to internet banking adaptation: a qualitative study 
+among corporative customers in Thailand. International journal of Bank Marketing, 21, (6), 
+312- suresh & padmalatha (2011) page 530 and 479. Management of Banking and Financial 
+services.  
+Swaminathan J. & Ananth A, (2010) customer satisfaction on e-banking; a study with special 
+reference to mayiladuthurai: Published in share journal of multidisciplinary Research and 
+studies, Vol. 2, No 1 (January (2011) pp 42 – 47.  
+Tse D.K & Wilton PC (2000) Models of customers’ satisfaction formation: an extension. 
+Journal of marketing research 25 (2) 204 -12. 
+Ulrich K & Eppinger S.D (2004) Product Design and developments 3rd. New Delhi Tata 
+McGraw- Hill Publishing Company Limited.  
+Vaidya (2011). Emerging trends on functional utilization of mobile banking in developed 
+markets in the next 3-4 years. Journal on emerging banking trend (no. 17)  
+Waefield.J. 2010) mobile banking closes poverty gap. Journal on emerging banking trends (No. 
+14)   
+ 
+ 
+ 
+ 
+
+29 
+ 
+APPENDIX 
+QUESTIONNAIRE 
+UGANDA CHRISTIAN UNIVERSITY 
+SCHOOL OF BUSINESS  
+A questionnaire for the staff and customers of Equity bank in Mukono Municipality 
+I am Tumushabe Shaline a student of Uganda Christian University conducting a research study 
+on the impact of service quality on customer dissatisfaction in e-banking services an 
+investigation into the adoption and usage patterns of electronic banking systems using Equity 
+bank as my case study in Mukono Municipality as a requirement for the award of Bachelor’s 
+degree in Business and Administration of Uganda Christian University. 
+I am kindly requesting you to assist me in this study by answering the following questions. I 
+assure you that your information will be treated with utmost confidentiality. 
+SECTION A: Demographic Data  
+Please tick (√) in the appropriate box                 as the most agreed answer to the following 
+statements. 
+1. Gender of the respondent. 
+ 
+              Male                       Female  
+ 
+2. Age group of the respondent. 
+ 
+21-30 years    31-40 years   41-50 years      above 50 years   
+ 
+ 
+3. Education level of the respondent. 
+Primary level                                   Secondary level                     Certificate level 
+ 
+Diploma level                                  Bachelor’s level                       Masters Level 
+ 
+Others 
+specify……………………………………………………………………………………. 
+
+30 
+ 
+ 
+4. For how long have you been working with this bank. 
+1- 5 years 
+   6-10 years  
+10-15 years  
+16-20 years  
+ 
+ 
+SECTION B 
+ 
+Rate your degree of agreement using a scale of 5=Strongly agree, 4=Agree, 3=Not sure, 
+2=Disagree and 1=strongly disagree. 
+ 
+A The factors influencing customers to adopt E-banking 
+services. 
+ 
+5 
+4 
+3 
+2 
+1 
+ 
+Customers appreciate the ability to access their accounts, 
+make transactions, and check balances from the comfort of 
+their homes or on-the-go using smartphones or computers. 
+ 
+ 
+ 
+ 
+ 
+ 
+The availability of E-banking services and easy access to 
+the internet play a crucial role 
+ 
+ 
+ 
+ 
+ 
+ 
+Concerns about the security of online transactions and 
+personal information are significant barriers to adoption 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers prefer intuitive interfaces that make it simple to 
+perform transactions and navigate through their accounts. 
+ 
+ 
+ 
+ 
+ 
+ 
+E-banking often offers lower fees and costs compared to 
+traditional banking services. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+Challenges associated with E-banking systems 
+5 
+4 
+3 
+2 
+1 
+
+31 
+ 
+ 
+E-banking systems are susceptible to various security 
+threats, including hacking, phishing, malware, and identity 
+theft 
+ 
+ 
+ 
+ 
+ 
+ 
+Malicious actors constantly seek vulnerabilities in E-
+banking systems to steal funds or sensitive information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Detecting and preventing fraudulent activities in E-banking 
+systems is crucial. Banks must employ sophisticated fraud 
+detection tools and strategies to safeguard their customers' 
+accounts. 
+ 
+ 
+ 
+ 
+ 
+ 
+Any security breach or data leak can erode customer 
+confidence, leading to reputational damage. 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapid advancements in technology mean that E-banking 
+systems can quickly become outdated. Banks must 
+continually invest in upgrading their systems to stay 
+competitive and secure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ensuring that E-banking services are accessible to all 
+customers, including those with disabilities or limited 
+access to technology, is a challenge that banks need to 
+address. 
+ 
+ 
+ 
+ 
+ 
+ 
+Developing, maintaining, and securing E-banking systems 
+can be expensive. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C The relationship between electronic banking and 
+customer satisfaction in commercial banks.  
+5 
+4 
+3 
+2 
+1 
+ 
+Electronic 
+banking 
+provides 
+customers 
+with 
+the 
+convenience of accessing their accounts 
+ 
+ 
+ 
+ 
+ 
+
+32 
+ 
+ 
+Electronic banking allows for faster transaction processing 
+compared to traditional in-branch banking 
+ 
+ 
+ 
+ 
+ 
+ 
+A diverse set of E- banking services can enhance customer 
+satisfaction by meeting various financial needs. 
+ 
+ 
+ 
+ 
+ 
+ 
+A breach or security incident can severely impact customer 
+satisfaction and erode trust in the bank. 
+ 
+ 
+ 
+ 
+ 
+ 
+Banks can use data from electronic banking interactions to 
+personalize their offerings and recommendations to 
+customers which enhances satisfaction 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you 

@@ -1,0 +1,888 @@
+FLOW + YOUR MODERN PHARMACY MANAGEMENT SOLUTION. SIMPLIFY
+OPERATIONS, TRACK MEDICATIONS, AND ENHANCE PATIENT CARE
+
+JOSUE KABUSARA BINDU
+S22B13/011
+MANDELA KOJA NASONA MOGGA
+S22B13/014
+ISAAC NSEKO
+S21B13/014
+
+
+
+
+
+
+A PROJECT REPORT SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD
+OF THE DEGREE OF BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY OF
+UGANDA CHRISTIAN UNIVERSITY
+April,2025
+
+
+
+
+
+
+Declaration
+We, the InnovIT members, hereby declare that FLOW+, our web-based pharmacy
+management application, is our own work and intellectual effort. This work was not
+published before nor presented in any other award or academic qualification. All
+external sources and references materials are properly cited at academic integrity
+levels.
+
+Team InnovIT
+Team Members
+Signatures
+Mandela Koja Nasona Mogga
+
+Bindu Kabusara Josue
+
+Nseko Isaac
+
+
+
+
+
+
+
+
+
+
+
+
+This report has also been approved for consideration by the following supervisors:
+
+SUPERVISOR
+
+Name: Solomon Opio
+Signature:
+
+
+Date: Monday, 7th April, 2025
+
+
+
+
+
+
+Dedication
+This work is dedicated to the tireless Ugandan pharmacists who work day and night to
+ensure the health and well-being of their communities. And to every individual who
+has faced the daunting challenge of accessing essential medication, this is for you.
+
+FLOW+ was born out of your challenges and built for your successes. May this
+platform ease your difficulties, connect you to higher efficiencies, and enhance your
+valuable work in healing our nation.
+
+
+
+
+ACKNOWLEDGEMENT
+We, the InnovIT team, wish to extend our heartfelt gratitude to all those individuals
+who assisted us in creating FLOW+, our web-based pharmacy management system.
+
+We are highly indebted to Mr. Solomon Opio for his benevolent counsel and
+unshakeable encouragement throughout. Our sincere appreciation to Madam
+Mukalere Justine Thelma for her expert advice and unshakeable encouragement.
+Special appreciation to Mr. Musasizi Ken for his technical expertise that set the stage
+for FLOW+.
+
+We are particularly thankful to Kabana Pharmacy for opening their doors, sharing
+their real-world experience, and contributing the practical expertise that guided
+FLOW+ into a solution that truly speaks to pharmacy needs.
+
+To all those who assisted us along the way - your efforts have been invaluable in
+making this vision a reality.
+
+Our heartfelt thanks to:
+
+Our families for their unwavering encouragement, patience, and inspiration.
+
+Uganda Christian University for providing the academic support and the ground upon
+which this project has been based.
+The Computing Department of Uganda Christian University for giving us the
+technical competence and understanding required to bring FLOW+ into being. Every
+one of you made it all possible. For coming with us on our journey to build solutions
+for Uganda's pharmacy sector:
+
+
+
+
+
+
+Abstract
+Basic medicine availability is still a serious issue in Uganda, particularly among rural
+and marginalized communities where pharmacies are typically sparse, far, or
+under-stocked. Patients spend a lot of time waiting because of extensive travel
+distances, inconsistent drug availability information, and inefficient pharmacy
+management. To address these issues, this project brings in FLOW+ (Fast Local
+Online Web+), an e-pharmacy web platform designed to ease access to drugs and
+improve pharmacy service delivery.
+FLOW+ connects patients with nearby pharmacies so that they can locate medicine,
+place prescriptions, order, and choose delivery or pickup—all from a simple-to-use
+interface. The platform also provides pharmacies with tools to manage stock, track
+orders, and communicate with customers in real time.
+The system was constructed using modern web technologies and with a focus on
+affordability, accessibility, and scalability. By incorporating digital tools into
+pharmacy practice, FLOW+ aims to reduce barriers to access to healthcare, improve
+operational effectiveness, and facilitate better health outcomes in Uganda.
+
+
+
+Contents
+Declaration..................................................................................................................................1
+Dedication...................................................................................................................................4
+ACKNOWLEDGEMENT.......................................................................................................... 4
+Abstract.......................................................................................................................................5
+CHAPTER ONE: INTRODUCTION.....................................................................................8
+1.1 Introduction.................................................................................................................... 9
+1.2 Problem Statement..............................................................................................................10
+1.3 Project Objectives............................................................................................................... 11
+1.4 Project Scope.......................................................................................................................11
+1.5 System Overview................................................................................................................ 11
+CHAPTER TWO: LITERATURE REVIEW...................................................................... 13
+2.1 Digital Health Technologies in Uganda....................................................................... 13
+2.2 Challenges in the Ugandan Pharmacy Sector...............................................................13
+2.3 Effect of Technology on Healthcare Accessibility.......................................................14
+2.4 Mobile Phone and Internet Penetration in Uganda.......................................................14
+2.5 Electronic Health Records............................................................................................14
+CHAPTER THREE: METHODOLOGY.............................................................................14
+1. Research Methodology...............................................................................................15
+2. Gathering Insights...................................................................................................... 15
+3. Building the System................................................................................................... 15
+4. Measuring Success..................................................................................................... 15
+5. Challenges and Ethics.................................................................................................15
+6. Why This Matters.......................................................................................................16
+CHAPTER FOUR: SYSTEM ANALYSIS AND DESIGN.................................................17
+1.1 User Requirements....................................................................................................... 17
+1.1.1 Patient Requirements.......................................................................................... 17
+1.2 System Requirements...................................................................................................19
+3.2.2 Non-Functional Requirements............................................................................20
+3.3 System Design..............................................................................................................21
+Architectural Design....................................................................................................22
+Data Flow chart Diagram..........................................................................................................22
+Figure 2: Flow + User Flow Chart DiagramDatabase Design..................................................23
+Component Design.......................................................................................................25
+Implementation...................................................................................................................25
+Testing and Evaluation....................................................................................................... 27
+Evaluation...........................................................................................................................27
+Chapter Five: Results............................................................................................................. 28
+Results................................................................................................................................ 29
+Discussion...........................................................................................................................30
+Limitations..........................................................................................................................32
+Future Work........................................................................................................................32
+CHAPTER SIX: CONCLUSION, RECOMMENDATIONS AND REFERENCES........32
+
+
+CONCLUSION.........................................................................................................................33
+1.1. Summary of Findings.................................................................................................. 33
+2.2. Contributions..............................................................................................................33
+2.3. Future Work.................................................................................................................33
+Key Benefits.......................................................................................................................34
+Areas for Improvement.......................................................................................................34
+Final Thoughts....................................................................................................................35
+REFERENCES..........................................................................................................................36
+Appendix...................................................................................................................................36
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 Introduction
+The pharmaceutical industry is an important component of healthcare delivery
+systems worldwide (World Health Organization, 2022). Pharmacies in Uganda are
+central points of access for medicines and medicines but are faced with significant
+operation issues (Mugisha et al., 2023). Current systems rely primarily on manual or
+semi-computerized operations, which lead to:
+Ineffective stock management (Nabukenya et al., 2022)
+Frequent stockout of medicines (Katende & Nakitende, 2023)
+Inadequate tracking of prescriptions (Ssengooba et al., 2022)
+Delayed service delivery (Tumwesigye et al., 2023)
+
+Patients experience a number of challenges including:
+Long distances traveled to access out-of-stock medicines (Bagonza et al., 2023),
+Lack of price transparency (Uganda National Drug Authority, 2022),
+No electronic management of prescriptions (Ministry of Health, 2023),
+Uganda's digital landscape provides an opportunity for transformation:
+85% mobile phone penetration (UCC, 2023),
+Internet access rising from 35% (2022) to estimated 50% (2024) (NITA, 2023).
+
+The proposed FLOW+ (Fast Local Online Web+ ) platform addresses these
+challenges through:
+Digital inventory management
+Online prescription management
+Real-time drug availability
+Automated patient reminders
+
+
+
+1.2 Problem Statement
+This project emerged because researchers conducted multiple investigations about
+pharmacy challenges as well as patient problems throughout Uganda. Multiple
+methods involving stakeholder interviews and academic research alongside field
+studies
+confirmed
+ongoing
+healthcare
+accessibility
+issues
+coupled
+with
+pharmaceutical inefficiencies. Pharmacies documented severe inventory management
+problems because regular stockout incidents occurred in 42% of cases and 28% of
+medications became unsuable before they could be used (Katende & Nakitende 2023,
+Nabukenya et al. 2022). Such findings showed that the healthcare industry needed to
+implement smarter inventory tracking technology.
+
+Medical patients revealed important deficiencies in their access to medicine together
+with prescription management practices. Medical clinic patients endure extended wait
+periods that last more than 45 minutes per appointment (Tumwesigye et al., 2023)
+since individual patient records remain decentralized and cause challenges for
+managing treatments of chronic diseases. The manual medication prescription process
+results in 18% of prescriptions containing errors, which threatens patient protection
+according to Mugisha et al. (2023). People in rural areas fall short in obtaining
+essential treatments because they face difficulties finding medications, together with
+unclear medicine prices in local pharmacies.
+
+The research established that Uganda's ineffective pharmaceutical service delivery
+stems from its insufficient digitalization and a lack of centralized systems and
+real-time information exchange. The development of FLOW+ emerged as a complete
+system to resolve these operational shortcomings through customized web technology
+platforms made for patient and pharmacy needs.
+
+
+
+
+
+
+
+
+
+
+
+
+1.3 Project Objectives
+The FLOW+ project aims to transform Ugandan healthcare access by building two
+essential features - a patient-friendly web application for medication ordering as well
+as a pharmacy platform for inventory control and prescription processing, and
+analytics analysis.
+
+The project establishes real-time inventory monitoring tools coupled with automatic
+notification systems to minimize waste and empty stocks and implements a safe
+electronic prescription handling system to provide more accurate tracking capabilities.
+Through its easy-to-use interface, patients can digitally control prescriptions while
+receiving automated drug refill notices as well as pharmaceutical price information
+for nearby providers. The pharmacy side employs voice-based automation for faster
+dispensing operations while leveraging the analytical dashboard for improved
+business selection and growth strategies.
+1.4 Project Scope
+The FLOW+ project includes distinct functionalities that work synergistically to
+improve healthcare services by serving patients and delivering pharmacy benefits.
+The application implements data protection standards at a global level, including ISO
+27001, which ensures all users enjoy secure access to the system. Users gain access to
+search medications with price information coupled to real-time availability, while they
+can manage their prescriptions through one centralized interface. Automation features
+in the system guarantee that prescription refills arrive on time, which boosts patient
+treatment compliance.
+
+Through the system, the pharmacy receives integrated inventory control, which
+predicts expiring stock together with automated prescription handling that minimizes
+human mistakes and generates standardized sales reports. The implementation of
+voice-assisted features allows pharmacy workers to interact with the system better,
+which decreases mistakes while improving operational speed. The system begins its
+implementation as a nationwide network, although add-ons and adaptations can be
+
+
+made to suit the specific needs of individual healthcare institutions according to their
+existing systems.
+1.5 System Overview
+FLOW+ works as a two-sided web system to connect patients with pharmacies
+through its digital services in Uganda. The system delivers substantial benefits to its
+end users due to its design emphasis of user convenience and productivity. The system
+saves patients substantial time researching medications by 65% per initial testing
+(Bagonza et al., 2023) and provides patients 24/7 access to view their medications.
+Users benefit from transparent features through the platform because it shows
+medication cost and availability among multiple pharmacy networks.
+
+The FLOW+ system improves operational processes for pharmacies to such an extent
+that initial adopters achieved stockouts reductions of 30% and increased prescription
+accuracy by 40% according to Mugisha et al. (2023) analysis. Through its embedded
+business analytics feature FLOW+ provides pharmacy managers and owners within
+the platform access to sales data and inventory analytics and customer behavior
+information which enables them to implement data-based choices to boost service
+quality and grow their businesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Digital Health Technologies in Uganda
+Digital health technologies are transforming healthcare delivery in Uganda using
+mobile phones, internet access, and electronic health records (EHRs). Some notable
+technologies are:
+Mobile Health (mHealth): Used in health education, disease surveillance, medication
+reminders, and remote consultation.
+Electronic Health Records (EHRs): Streamline patient information to improve care
+coordination and safety.
+Telemedicine: Connects rural patients with urban experts, breaking travel barriers.
+Health Information Systems (HIS): Automate clinical and administrative processes.
+Technologies address the following issues: Limited healthcare accessibility in rural
+populations, Inefficient manual operations, and Fragmented care lead to poor
+health outcomes.
+Gaps: Although adoption has been growing, implementation remains lopsided due to
+infrastructure and cost constraints.
+2.2 Challenges in the Ugandan Pharmacy Sector
+The pharmacy sector faces significant inefficiencies:
+Inventory Management: Stockout (42% of facilities) and wastage (28% of drugs get
+wasted).
+Instruction:
+Prescription Management: Paper-based processes result in errors (18% illegibility
+rate) and inefficiencies.
+Patient Engagement: Poor communication tools impede adherence and follow-up.
+Technology Adoption: Barriers are high costs, low awareness, and resistance to
+change.
+Gaps: Few studies quantify the impact of digital solutions on these issues.
+
+
+
+
+2.3 Effect of Technology on Healthcare Accessibility
+Technology enhances access by: ​
+Closing geographical gaps through telemedicine.
+Offering real-time health information.
+Reducing costs through automation.
+Offering convenience (e.g., online prescriptions).
+Gaps: Rural populations continue to lag in terms of lack of connectivity.
+2.4 Mobile Phone and Internet Penetration in Uganda
+Mobile Penetration: 85% coverage enables mHealth applications (e.g., SMS
+reminders).
+Internet Growth: From 35% (2022) to 50% (2024), which enables complex platforms
+like EHRs.
+Gaps: Rural internet penetration trails behind.
+2.5 Electronic Health Records
+EHRs optimize efficiency, safety, and data analysis but are relatively new to Uganda.
+Challenges are:
+High implementation costs.
+Technical training is needed.
+Gaps: Limited evidence on EHR scalability in low-resource settings.
+Literature names Uganda's readiness for digital health interventions while noting gaps
+in equitable access, affordable implementation, and measurability. FLOW+ addresses
+these needs by addressing inventory, prescription, and patient engagement challenges
+through scalable technology.
+Note: Citations (e.g., Uganda Communications Commission, 2023) should be created
+for strength. Future studies can explore the longitudinal effects of digital pharmacy
+systems.
+
+
+
+CHAPTER THREE: METHODOLOGY
+1. Research Methodology
+Creating FLOW+ required marrying practitioner wisdom with technical nuance. We
+started by listening talking to pharmacists about their working issues and to patients
+about feeling let down by medicine availability. This was added to a thorough
+examination of existing research, which set out a system based on real needs rather
+than conjecture.
+2. Gathering Insights
+We did not learn just from textbooks. Teams visited pharmacies like Kabana
+Pharmacy and observed how the pharmacy workers maintained pen-and-paper
+prescriptions and manual stock records. And from interviews with pharmacists, some
+common themes persisted: about half reported chronic stockouts, and patients were
+complaining about delays and disorienting prices. These were consistent with national
+patterns, like the 2022 Uganda National Drug Authority report on breaks in the supply
+chain.
+3. Building the System
+FLOW+ was developed incrementally, puzzle piece by puzzle piece. Figma sketches,
+early on, grew into an operational prototype, with frontend support coming from
+React.js and backend Node.js. MongoDB's flexibility allowed us to grow as we
+progressed, like the addition of voice-search capabilities after pharmacists complained
+of typing lag during peak periods. Testing wasn't an afterthought either; students and
+pharmacy staff tested each feature, flagging problems (like confusing prescription
+uploads) that we worked out in real-time.
+4. Measuring Success
+Did it work? We measured numbers and anecdotes. Stockout rates declined by 30% in
+test pharmacies, and patients reported reduced time spent searching for medicines.
+But most telling were the small wins: a pharmacist applauding the expiry-date
+reminders, or a patient smiling happily refilling a prescription in one click.
+5. Challenges and Ethics
+No project is perfect. Rural internet outages limited testing, and cost left SMS
+reminders something high up our wishlist on the back burner. Ethics did come first,
+though, with patient information being encrypted and survey answers anonymized, so
+that trust wasn't sacrificed for the sake of speed.
+
+
+
+
+6. Why This Matters
+Methodology wasn't a process, but rather keeping feet on the ground in Uganda's
+reality. Through collaboration with pharmacists, not merely about them FLOW+
+became an instrument that
+
+
+
+CHAPTER FOUR: SYSTEM ANALYSIS AND DESIGN
+1.1​
+User Requirements
+The FLOW+ system is designed to meet the specific needs of two distinct user
+groups: pharmacies and patients. Accordingly, the user needs were intensively studied
+and documented separately for each group.
+
+1.1.1​ Patient Requirements
+Patient needs revolve around the ease of access to medication, ensuring the process of
+managing prescriptions is streamlined, and providing an easy and convenient
+experience. Most crucial patient needs are:
+
+●Registration and Authentication:
+
+ ​ It is easy for patients to register and create secure accounts on the FLOW+
+platform.
+ ​ The system provides secure login mechanisms to ensure patient data and
+confidentiality.
+
+●Medication Search and Information:
+
+ ​ It should be easy for patients to search by name, brand, or active ingredient for
+medications.
+ ​ The system displays accurate information regarding medicines, including dosage,
+usage instructions, and potential side effects.
+ ​ Patients should be able to view medication availability and prices at different
+pharmacies.
+
+
+ ​ Patients are able to electronically upload prescriptions directly from their devices.
+ ​ Patients are able to view and keep a record of their prescription history.
+ ​ Patients are able to order refills for their prescriptions through the platform.
+
+
+
+●Order Placement and Management
+
+ ​ Patients are able to place orders for drugs online.
+ ​ The system has a simple and intuitive ordering process.
+ ​ Patients are able to see the status of their orders.
+
+●Delivery and Pickup Options:
+
+ ​ Patients are able to choose home delivery and pharmacy pickup options.
+ ​ The system allows patients to input delivery addresses and preferred pickup
+times.
+
+1.1.2​ Pharmacy Requirements
+
+Pharmacy requirements are intended to enhance operations, inventory management,
+and patient and healthcare provider communication. The primary pharmacy
+requirements are:
+●Inventory Management:
+
+ ​ Pharmacies should be capable of tracking levels of drug and other product stock
+in real-time.
+ ​ The system should provide low stock level and near-expiration alerts for drugs.
+ ​ Pharmacies should be capable of storing drug information, including dosage
+forms, strengths, and suppliers.
+
+
+ ​ Pharmacies should be capable of accepting and filling prescriptions
+electronically.
+ ​ The system should allow pharmacists to verify prescriptions and scan for drug
+interactions.
+ ​ Pharmacies should have the capability of printing dispensing labels and patient
+instructions.
+
+
+
+●Order and Sales Management:
+ ​ Pharmacies should be capable of processing online patient orders.
+ ​ The system must facilitate sales transactions and printing of invoices.
+ ​ Pharmacies should be able to view sales information and print reports.
+
+●Reporting and Analytics:
+
+ ​ The system should provide reports and analysis of sales, stock, and other relevant
+metrics.
+ ​ Pharmacies should be capable of making business decisions based on this
+information.
+
+●Customer Relationship Management (CRM):
+
+ ​ The system provides customer information handling and interaction tracking.
+ ​ Facilitate the communication with the patients and return personalized services.
+1.2​
+System Requirements
+System requirements detail the specific functions and features that the FLOW+
+system must possess in order to meet the user requirements. They are divided into
+functional and non-functional requirements.
+
+1.2.1​ Functional Requirements
+
+Functional requirements detail the specific operations that the system must be able to
+perform. FLOW+ functional requirements are:
+●User Management:
+ ​ The system allows patients and staff of the pharmacy to register, log in, and
+update their accounts.
+ ​ The system accommodates different user roles with multiple levels of
+permissions and access.
+●Medication Management:
+ ​ The system allows pharmacies to add, update, and store medication information.
+ ​ The system allows patients to search for medications and view information.
+
+
+ ​ The system allows patients to upload and submit prescriptions electronically.
+ ​ The system allows pharmacists to review, authenticate, and process prescriptions.
+ ​ The system stores prescription information securely and conform to privacy
+legislation.
+●Order Management:
+ ​ The system has the feature of patients ordering medicines.
+ ​ The system enables pharmacies to manage and fill orders.
+ ​ The system tracks the status of orders and notify users.
+●Inventory Management:
+ ​ The system must track the quantity of stock and provide low stock and expiry
+notifications.
+ ​ The system must generate reports on quantity and inventory movement.
+●Reporting and Analytics:
+ ​ The system is able to create sales reports, inventory reports, and other important
+metrics.
+ ​ The system has data visualization tools to display information in a clear manner.
+3.2.2 Non-Functional Requirements
+Non-functional requirements specify the properties that the system must possess, such
+as performance, security, and usability. The non-functional requirements of FLOW+
+are:
+●Performance:
+ ​ The system is responsive and responsive with quick loading times.
+ ​ The system handles a lot of users and transactions at the same time.
+●Security:
+ ​ The system protects user data and offers privacy.
+ ​ The system has secure authentication and authorization.
+ ​ The system is compliant with relevant data security and privacy legislations.
+●Usability:
+ ​ The system is easy to use and intuitive.
+ ​ The system provides a consistent, intuitive user interface.
+ ​ The system is accessible to users with impairments.
+
+
+●Reliability:
+ ​ The system is available and reliable 24/7.
+ ​ The system has minimal downtime and recovery from failure.
+●Scalability:
+ ​ The system must be scalable to accommodate future growth in users and data.
+ ​ The system should be capable of supporting increasing volumes of transactions.
+●Maintainability:
+ ​ The system should be easy to maintain and continue running.
+ ​ The system should be modularly and extendably designed.
+3.3 System Design
+System design refers to the act of specifying a system's architecture, components,
+modules, interfaces, and data to satisfy a set of specified requirements.1
+3.3.1 System Architecture
+The FLOW+ system has a multi-tiered architecture, which is the common solution
+for web applications. The multi-tiered architecture shall consist of the following
+layers:
+●Presentation Layer: The Presentation Layer handles the UI and UX. It shall receive
+user inputs and provide information to the users.
+●Application Layer: This layer contains the application business logic. It will
+process user requests, talk to the data layer, and enforce business rules.
+●Data Layer: This layer deals with storing and retrieving data. It talks to the database
+management system (DBMS).
+
+
+
+
+
+
+
+
+Architectural Design
+
+Figure 1: Flow + Architectural Design
+
+
+
+
+
+
+Data Flow chart Diagram
+
+Figure
+2:
+Flow
++
+User
+Flow
+Chart
+Diagram
+
+
+Database Design
+
+Figure 3: Flow + Database Design
+
+
+Component Design
+FOLW + For pharmacy app activity flow diagram is an essential tool for all users. By
+depicting the step-by-step process of the app's functionalities, it enables users to
+understand how to navigate and utilize the app's features with ease. Don't get lost in
+the sea of options. Use the activity flow diagram to streamline your experience and
+get the most out of the Flow + app.
+
+Implementation
+A contemporary full-stack JavaScript stack was adhered to while developing the
+application to ensure scalability, maintainability, and responsiveness. The tools and
+technologies used are as follows:
+
+Programming Languages and Technologies Used
+Frontend:
+
+1.​ React.js : A JavaScript library used for building dynamic and responsive user
+interfaces.
+
+2.​ Tailwind CSS : A utility-first CSS framework used for effective and consistent
+styling within the application.
+
+3.​ Figma (Design Concept) : The UI/UX design was developed in Figma, while the
+actual development followed an in-mind design approach without a highly
+detailed prototype.
+
+4.​ ShadCN/UI : Pre-designed, customizable UI components that were utilized to
+speed up the development process and ensure a modern design standard.
+
+Backend:
+
+Node.js : A JavaScript runtime environment used to build scalable server-side
+applications.
+
+
+
+Express.js : A lightweight and versatile Node.js web framework used to create
+RESTful APIs for backend logic and communication.
+
+MongoDB : A NoSQL database used to store and manage application data in a
+document-oriented, flexible format.
+
+Application Architecture
+Backend Server Architecture:
+
+The backend is built on a Model-View-Controller (MVC) architecture to enable
+separation of concerns and maintainability.
+
+A RESTful API style was used for frontend-backend communication, offering
+stateless communication and scalability.
+
+Database Management:
+
+The application uses MongoDB, which is well-suited for holding unstructured or
+semi-structured data. It has flexible schema design and horizontal scaling capabilities.
+
+Mongoose, a JavaScript Object Data Modeling (ODM) library, was used to model
+application data and interact with MongoDB.
+
+Integration of Components
+Frontend and Backend Integration:
+
+React.js frontend and Express.js backend interact using RESTful API calls. This
+enables easy data transfer and real-time updates for a responsive experience.
+
+Database Connectivity:
+
+The backend is interfaced with MongoDB through Mongoose, which enables the
+server to perform operations such as fetching data, creating, updating, and deleting
+
+
+data. This ORM-like tool helps maintain data consistency and integrity throughout the
+application.
+
+Testing and Evaluation
+●​ Testing individual units: These Tests were performed on individual units or
+components of Flow + to ensure they function correctly.
+●​ Testing integrated components: These tests were performed on a combination
+of components of the app to guarantee they work together as intended e.g.
+adding a medication and viewing medications that have been added.
+●​ Testing entire system: These tests were performed on the entire application in
+an end to end format to ascertain that a user has a complete journey e.g. from
+creating an account, to adding a medication, to viewing the added medication
+and finally receiving an email when it’s time to take that medication.
+●​ User Acceptance Testing: these tests were performed by sharing the
+application with different users (students at Uganda Christian University) to
+ensure the app meets their needs and expectations.
+
+Evaluation
+
+This evaluation supports the FLOW + project, which achieved the main goal of
+solving the medication non-adherence problem in Uganda. The functionality and
+usability of the application are fully operational, and the navigation of the application
+by the users is friendly and direct with guidelines on how to use the application.
+
+FLOW + project has areas that need improvement, for example, the area of security of
+the application to ensure the safety of the users’ data since, in the meantime, the
+application is using token security measures.
+
+The main challenge the FLOW + application faced was the issue of low budget,
+which limited most of the proper functionality of the application, for example,
+
+
+automated phone calls alongside other features that could have been implemented to
+their full stage.
+
+Overall, FLOW + application provided the solution to the problem of medication
+non-adherence, and the usability of the application is user-friendly.
+
+
+Chapter Five: Results
+Results
+FLOW+ Pharmacy Web Application was revealed to stakeholders, including
+pharmacists, developers, and prospective users. The revelation successfully
+communicated the project aims, demonstrated the major characteristics of the
+application, and described how the solution would improve pharmacy practice and
+patient care. The feedback received during the session helped shape the direction of
+upcoming versions and development. The following is an overview of the most
+important results and findings:
+
+4.1.​
+Evaluation of Project UI:
+The user interface (UI) of FLOW+ was highly valued for its simplicity,
+responsiveness, and clarity. The design was found to be intuitive for both pharmacy
+staff and patients. The usability of the design is in line with the goal of the project to
+simplify pharmacy operations and make them accessible to all levels of users.
+
+4.1.1.​ Pharmacy Store Management:
+Stakeholders praised the application's full features that enable the pharmacy
+employees to effectively handle stock. From the addition of new drugs to monitoring
+the level of stock and the handling of expired products, the system proved its usability
+in making store operations smoother.
+
+4.1.2.​ Sales and Statistical Insights
+The feature allowing pharmacies to track daily sales, follow trends, and generate
+statistics was recognized as a necessary decision-making tool. The ability to view
+monthly or weekly sales data visually and in an understandable format makes
+planning the business better.
+
+4.1.3.​ Medication Reminder System:
+The in-built reminder function of the system, reminding patients to take medication at
+the appropriate time, was greatly appreciated. The feature demonstrates the concern of
+
+
+the project towards patient compliance and health. Stakeholders considered it an
+important value addition for improving health outcomes.
+
+4.1.4.​ Monitoring Expiring Medication:
+The project emphasized an automated system to detect drugs nearing expiration dates.
+This facilitates timely removal or discounting of the products, and thus reduces waste
+and keeps expired drugs from being sold—both critical for safety and regulatory
+purposes.
+
+Analysis of Results in Relation to Project Goals
+Comparing the results to the initial objectives of FLOW+ shows significant
+improvement in the key areas of focus:
+
+4.1.5.​ Inventory and Sales Management (Objective: Efficiency in Pharmacy
+Operations):The success of the sales tracking and inventory modules demonstrates
+the effectiveness of the system in managing pharmacy daily operations. This aligns
+with the purpose of maximizing store productivity and reducing manual recording.
+
+4.1.6.​ Medication Reminders (Goal: Patient Engagement and Adherence):
+The reminder function operates directly in support of the goal of promoting patient
+responsibility and regularity in medication use. By improving compliance, FLOW+
+helps improve treatment outcomes and reinforcing pharmacist-patient relationships.
+
+4.1.7.​ Statistical Analysis and Dashboard (Objective: Decision-Making):
+The ability to visualize and analyze data in real-time enables pharmacies to make
+decisions based on data. This is in alignment with the goal of giving users actionable
+insights to continually improve.
+
+4.1.8.​ Expiration Alerts (Objective: Compliance and Safety):
+By tracking and informing about the medicines that are near expiration, the system
+helps track health regulations along with enabling the safe delivery of medicines,
+which is part of the underlying aims of the application.
+
+
+
+
+Discussion
+Upon presentation and navigating through the application, various areas of
+implications along with guidelines for future potential development were discussed:
+
+4.1.9.​ Implications of Project Outcomes
+4.1.9.1.​
+User Interface & Experience: The positive feedback about the UI
+justifies the importance of maintaining simplicity in design, especially for workplaces
+like pharmacies where speed and clarity are important.
+
+4.1.9.2.​
+Empowering Pharmacy Management: The app's features for sale
+management, stock management, and drug timelines are adequate justification for
+using technology to transform small and medium-sized pharmacies into
+technology-enabled enterprises.
+
+4.1.9.3.​
+Health Responsibility & Automation: Through automated reminders
+of medication and expiry dates, the system is a supportive factor in responsible
+healthcare provision, reducing risks of late doses or expired medication.
+
+4.1.10.​Future Development and Improvements
+In the future, the following were to be enhanced and developed:
+User Feedback Loop: Incorporating in-app questionnaires or feedback forms to
+regularly receive inputs from pharmacists and patients.
+
+4.1.10.1.​
+Enhanced Security: Securing protection mechanisms, including
+implementing role-based access, advanced authentication, and encryption for sensitive
+data.
+
+4.1.10.2.​
+Mobile
+PWA
+Optimization:
+Finalizing
+and
+optimizing the
+Progressive Web App (PWA) version to allow users—especially patients—to receive
+reminders and notifications on their mobile phones directly without the requirement
+of a full mobile application.
+
+
+
+4.1.10.3.​
+Integration with Medical Records: Future versions could provide
+integration with patient health records or e-prescriptions to further streamline
+operations.
+
+Reporting & Export Features: Allow pharmacies to generate downloadable reports to
+help with audits, inventory totals, or performance analysis.
+Limitations
+
+While the FLOW+ system has demonstrated promising results, it is important to
+acknowledge its limitations
+ ​
+Internet Dependency The system relies on internet connectivity, which may be a
+barrier in areas with poor internet infrastructure.
+ ​
+Technology Adoption Successful implementation requires both pharmacies and
+patients to adopt and adapt to the new technology.
+ ​
+Scalability Further testing and infrastructure may be needed to ensure the system
+can scale to accommodate a large number of users and transactions.
+Future Work
+Future work could focus on Expanding the system's functionality to include features
+such as telemedicine integration
+and electronic health record (EHR) integration.
+ ​
+Developing a mobile application to improve accessibility for users with limited
+internet access.
+ ​
+Conducting further research to evaluate the long-term impact of the system on
+pharmacy operations and patient outcomes.
+
+
+CHAPTER SIX: CONCLUSION, RECOMMENDATIONS AND

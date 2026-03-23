@@ -1,0 +1,1279 @@
+INVESTIGATING THE USE OF BASALT ROCK POWDER IN THE PARTIAL REPLACEMENT
+OF CEMENT IN PLAIN CONCRETE
+
+
+
+
+KELLY WAYOMIRWOTH
+S18B32/802
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+
+
+April 2024
+
+
+
+i
+
+ABSTRACT
+This research study focused on investigating the optimum replacement of Basalt Rock
+powder (BRP) that can be used to partially replace cement as a cement supplementary
+material (SCM) while achieving the maximum suitable compressive strength. The Basalt
+rocks used in this study were collected and crushed from Mugarama site in Kibaale
+District to form powder. The physical and mechanical properties of concrete ingredient
+such as sand and coarse aggregates were determined and these included sieve analysis,
+ACV, AIV, moisture content, flakiness index, specific gravity and water absorption. The
+properties of the BRP were determined by carrying out different tests such as sieve
+analysis, x-ray fluorescence, water absorption with results provided in chapter 4 below.
+The control mix of a cement content 430Kg, fine aggregate, 675kg, water 206kg and
+coarse aggregate of 1007kg. The percentage replacement of cement with BRP varied
+from 0, 10,15,20,25 and 30%. Concrete cubes of sizes 150mmx150mmx150mm were
+casted and evaluated for 7 and 28 days.
+Increase in percentage replacement of cement with BRP showed an increase in
+compressive strength from 0% to 15% attaining the highest value of 43.9Mpa and then
+gradually decreased with increasing percentage replacement of BRP. The setting time
+decreases while workability increases, with an increase in BRP percentage
+replacement. The compressive strength, setting time and workability were all lying in
+the acceptable ranges according to literature, 43.9Mpa, 7.7hrs and 87mm respectively.
+The 15% is the optimum percentage replacement since its strength is well above the
+control concrete of 40.5Mpa, and target strength of 35.1Mpa.
+
+
+ii
+
+DECLARATION
+I, Wayomirwoth Kelly hereby declare that this is my original work, is not plagiarized
+and has not been submitted to any other institution for any award
+WAYOMIRWOTH KELLY
+S18B32/802
+Signature .......................................
+
+Date: .......................................
+
+
+
+
+
+iii
+
+APPROVAL
+This final year research project report has been submitted by WAYOMIRWOTH KELLY to
+the department of Engineering and Environment at Uganda Christian University for
+examination with my approval as the university supervisor
+SIGNATURE .............................................
+
+DATE: ..........................................
+MR NATHAN NATUKUNDA
+(ACADEMIC SUPERVISOR)
+
+
+iv
+
+ACKNOLEDGMENT
+This far the Lord has brought us, we would really love to give the Almighty God all the
+thanks, for protecting and blessing us throughout this research period. If it wasn’t for
+God, this research would have rather been more difficult but thank God the ends have
+come to meet.
+I do extend my gratitude to my beloved Mum and Dad and siblings, for the constant
+reminders, prayers and provision, so much support to enable me have a successful
+research experience. They have been the major motivation towards this research
+success.
+I give thanks to the department of Engineering and Environment, for this program that
+gives students the opportunity to apply the knowledge acquired in class
+I sincerely appreciate my academic supervisor, MR NATHAN NATUKUNDA for all the
+guidance and insights he provided whenever we reached out to him
+It has also been a major blessing to have such a committed project partner Kugonza
+Martin, it was really great working together. I also give thanks to other class mates
+(Ssebulime Rodney and Kyesigwa Raymond) and a friend (Manede Eric) who constantly
+were there to help whenever contacted;
+I do appreciate the staff team and China lab, for their complete support, guidance and
+provision of facilities while carrying out the various laboratory tests as required to
+achieve the research’s objectives.
+
+
+
+v
+
+TABLE OF CONTENTS
+DECLARATION ...................................................................................... i
+APPROVAL ......................................................................................... iii
+ACKNOLEDGMENT ................................................................................ iv
+ACCRONYMS/ABBREVIATIONS ................................................................ xiii
+ABSTRACT .......................................................................................... i
+CHAPTER ONE: INTRODUCTION ................................................................ 1
+1.1 Background ................................................................................ 1
+1.2 PROBLEM STATEMENT ................................................................... 2
+1.3 OBJECTIVES OF STUDY .................................................................. 3
+1.31 MAIN OBJECTIVE ........................................................................ 3
+1.3.2 SPECIFIC OBJECTIVES ................................................................. 3
+1.4 RESEARCH QUESTIONS ................................................................... 4
+1.5 SCIENTIFIC JUSTIFICATION .............................................................. 4
+1.6 SCOPE ...................................................................................... 5
+1.6.1 GEOGRAPHICAL SCOPE ............................................................... 5
+1.6.2 TIME SCOPE ............................................................................. 5
+1.6.3 CONTENT SCOPE ....................................................................... 5
+CHAPTER TWO: LITERATURE REVIEW ........................................................ 6
+2.0 INTRODUCTION .............................................................................. 6
+
+vi
+
+2.1 THEORETICAL REVIEW ................................................................... 6
+2.1.1 CONCRETE ............................................................................... 6
+2.1.1.1 TYPES OF CONCRETE GRADES AND THEIR USES ............................. 7
+2.1.1.2 CONSTITUENTS OF CONCRETE .................................................. 7
+2.1.2 BASALT ROCK POWDER ............................................................ 12
+2.1.3 AREA OF APPLICATION ............................................................ 13
+2.2 EMPIRICAL LITERATURE REVIEW ...................................................... 13
+2.2.1 BASALT ROCK POWDER ............................................................ 13
+2.3 RESEARCH GAP ........................................................................... 14
+CHAPTER THREE: METHODOLOGY ........................................................... 15
+3.1 MATERIAL ACQUISITION ................................................................ 15
+3.1.1 NATURAL COARSE AGGREGATE, FINE AGGREGATE (SAND) ................. 15
+3.1.2 CEMENT ............................................................................... 16
+3.1.3 WATER ................................................................................ 16
+3.1.4 BASALT ROCK POWDER ............................................................ 16
+3.2 PROPERTIES OF CONCRETE MATERIALS TO BE USED IN THE BASALT ROCK
+POWDER CONCRETE (BRP CONCRETE) .................................................... 16
+3.2.1 SIEVE ANALYSIS ..................................................................... 16
+3.2.2 FLAKINESS INDEX (FI) – BS 812: SECTION 105.1 1990 ....................... 17
+3.2.3 WATER ABSORPTION ............................................................... 18
+
+vii
+
+3.2.4 SPECIFIC GRAVITY/RELATIVE DENSITY .......................................... 18
+3.2.5 AGGREGATE CRUSHING VALUE (ACV) ........................................... 18
+3.2.6 AGGREGATE IMPACT VALUE (AIV) ............................................... 19
+3.3 PHYSICAL AND CHEMICAL PROPERTIES OF BASALT ROCK POWDER ............ 19
+3.3.1 SIEVE ANALYSIS – BS EN 933-1:1997 ............................................ 19
+3.3.2 RELATIVE DENSITY AND WATER ABSORPTION ................................. 19
+3.3.3 BULK DENSITY ....................................................................... 20
+3.3.3 X-RAY FLOURESCENCE (XRF) ..................................................... 20
+3.4 CONCRETE MIX DESIGN FOR M25 ..................................................... 21
+3.5 DETERMINING PROPERTIES OF THE OPTIMIZED CONCRETE MIX WITH BASALT21
+3.5.1 FRESH CONCRETE SLUMP TEST .................................................. 21
+3.5.2 HARDENED CONCRETE COMPRESSIVE STRENGTH TEST ...................... 22
+CHAPTER FOUR: DISCUSSION OF RESULTS ................................................. 24
+4.1 DETERMINATION OF PHYSICAL PROPERTIES OF CONCRETE AGGREGATES ..... 24
+4.1.1 SIEVE ANALYSIS TEST ON AGGREGATES ........................................ 24
+4.1.2 FINENESS MODULUS ................................................................ 27
+4.1.3 FLAKINESS INDEX (FI) .............................................................. 28
+4.2 AGGREGATE CRUSHING VALUE (ACV) TEST ON COARSE AGGREGATES ......... 28
+4.3 AGGREGATE IMPACT VALUE (AIV) TEST ON COARSE AGGREGATES ............. 29
+4.1
+LOS ANGELES ABRASION VALUE (LAAV) TEST ON COARSE AGGREGATES ...... 30
+
+viii
+
+4.2
+PARTICLE DENSITY AND WATER ABSORPTION FOR COARSE AGGREGATES ..... 31
+4.3.1 PARTICLE SIZE DISTRIBUTION TEST ON AGGREGATES ........................ 32
+4.3.2 RELATIVE DENSITY AND WATER ABSORPTION FOR BASALT ROCK POWDER
+................................................................................................ 33
+4.4 DETEMINATION OF THE CHEMICAL COMPOSITION OF BRP ....................... 34
+4.4.1 X-RAY FLOURESCENCE TEST ...................................................... 34
+4.5 STIPULATIONS FOR PROPORTIONING ................................................ 35
+4.6 OPTIMAL PERCENTAGE REPLACEMENT OF PHYSICAL AND MECHANICAL
+PROPERTIES OF CONCRETE INCORPORATED WITH BASALT ROCK POWDER AND
+CEMENT ......................................................................................... 36
+4.6.1 SLUMP TEST ......................................................................... 36
+4.6.2 SETTING TIME ...................................................................... 39
+4.6.3 COMPRESSIVE STRENGTH TEST ................................................... 41
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATIONS. ................................ 44
+5.1 CONCLUSION .............................................................................. 44
+5.2 RECOMMENDATION ...................................................................... 45
+REFERENCES ..................................................................................... 46
+APPENDICES ...................................................................................... 49
+
+
+ix
+
+LIST OF TABLES
+Table 1: The material cost for the cube that is replaced 15% of Cement with BRP in
+the concrete mix ................................................................................ 23
+Table 2: Sieve analysis results of coarse aggregates ..................................... 24
+Table 3: Sieve analysis results for fine aggregates (Sand) .............................. 25
+Table 4: Flakiness index value ............................................................... 28
+Table 5: AIV mean value calculations for coarse aggregates ........................... 30
+Table 6: LAAV calculations for coarse aggregates ........................................ 30
+Table 7: The calculated relative density and water absorption values .............. 31
+Table 8: Summary of coarse and fine aggregates classification Results .............. 31
+Table 9: Sieve Analysis results for Basalt Rock Powder ................................. 32
+Table 10: The calculated particle density and water absorption results ............ 33
+Table 11: Results for Chemical composition of Basalt Rock Powder .................. 34
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1: Basalt rock powder ................................................................. 13
+Figure 2: Types of Slumps ................................................................... 22
+Figure 3: Particle size distribution chart for coarse aggregates ........................ 25
+Figure 4: Particle size distribution chart for fine aggregates .......................... 27
+Figure 5: Graph for ACV ....................................................................... 29
+Figure 6: BRP particle size distribution chart ............................................. 33
+Figure 7: A graph for workability of BRP concrete ....................................... 37
+Figure 8: A graph for workability of BRP concrete showing the standard error bars
+and a linear forecast trend line .............................................................. 39
+Figure 9: A graph for setting time of BRP concrete ...................................... 40
+Figure 10: A graph for the mean compressive strength values of BRP concrete ... 41
+
+
+
+
+
+
+
+
+
+
+xii
+
+LIST OF APPENDICES
+Appendix A: Preliminary Design .............................................................. 49
+Appendix B: Design Mix ......................................................................... 49
+Appendix C: Activities Grant Chart .......................................................... 50
+Appendix D: Budget for Activities ............................................................ 50
+Appendix E: Design Mix Manual ............................................................... 51
+Appendix F: Certified Results ................................................................. 52
+Appendix G: Laboratory tests and materials ............................................... 81
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xiii
+
+ACCRONYMS/ABBREVIATIONS
+ACI
+–
+AMERICAN CONCRETE INSTITUTE
+ACV
+–
+AGGREGATE IMPACT VALUE
+AIV
+–
+AGGREGATE CRUSHING VALUE
+ASTM
+–
+AMERICAN STANDARD FOR TESTING MATERIALS
+BRP
+-
+BASALT ROCK POWDER
+BS
+–
+BRITISH STANDARD
+CSCEC -
+CHINA STATE CONSTRUCTION ENGINEERING CORPORATION
+etc
+-
+et cetera (and many others)
+FI
+-
+FLAKINESS INDEX
+i.e.
+-
+That is to say
+LTD
+-
+LIMITED
+mm
+-
+millimeter
+SCM
+-
+Supplementary Cementitious Materials
+SD
+-
+Standard Deviation
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1 Background
+Concrete is a man-made building substance that has been used for decades in the
+construction industry and is known to be the second most used substance on the planet,
+after water. Concrete is a mixture of majorly; coarse aggregates, sand, cement and
+water (Azad, 2019).
+Production of concrete is associated with lots of environmental concerns due to the
+over consumption of raw materials, energy and labor. Cement as one of the key
+ingredients in concrete, consumes a lot of energy during its production while still
+releasing about 0.55-0.94 tons of carbon dioxide emissions per ton, possessing about 7%
+of the world’s total carbon dioxide emissions (Li, 2022). Several researches have been
+carried out to find alternatives or supplements to cement in concrete, especially on
+natural pozzolans like fly ash, silica fume, blast furnace slag, volcanic pumice etc. Also,
+more research investigated agricultural waste like coconut, maize, rice, sugar cane and
+industrial by products like basalt rock powder, waste foundry sand etc as Supplementary
+Cementitious Materials (SCM) (Qiao, 2019). But with all these studies, there’s limited
+knowledge regarding the potential use of Basalt rock powder in concrete production,
+given that little have been investigated towards achieving the appropriate particle size
+and optimum percentage for partial cement replacement.
+Basalt rock is an igneous rock that covers about 30% of the Earth’s surface making it
+the most rock, therefore its volume is abundant as it is available in most continents.
+This igneous rock is a dark colored, fine grained, rock that forms as a result of volcanic
+
+
+activity, when basaltic lava, the molten magma from the mantle, cools down. The dark
+color is due to the presence of the minerals such as plagioclase, pyroxene (augite),
+olivine with possible minor glass. Basalt rocks are largely found in various parts of
+Uganda including Mbale district, Kibaale district, Kisoro district etc, and can be
+identified by their black or grayish-black rock color, fine and even grain texture with
+no crystals or minerals discernible to the naked eye.
+Basalt rock has been used in the construction industry for various applications but
+majorly as aggregates due to its availability, sustainability, durability and strength
+properties (Qiao, 2019). Basalt rock powder (BRP) has a large specific surface area and
+high SiO2 and Al2O3 contents thus when used as a supplementary cementitious
+material, it can have a positive impact on the mechanical properties. This is because
+basalt rock powder forms a gel on hydration, when Calcium Oxide from Cement reacts
+with SiO2, resulting into nucleation of the C-S-H and strengthening the bond between
+basalt and the matrix (Li, 2022). This research will investigate the optimum percentage
+of Basalt Rock Powder that can be used to partially replace cement in concrete, to
+produce a high-performance concrete which is economical and environmentally
+sustainable.
+1.2 PROBLEM STATEMENT
+Cement production contributed to the release of about 2.3 gigatons of carbon dioxide
+in 2019, possessing about 7% of the world’s total carbon dioxide emissions. This is
+expected to reach 4.83 billion metric tons in 2030. A solution for decreasing the CO2
+emissions determined by the cement industry is its replacement by supplementary
+cementitious materials - SCMs, (Adrian, 2022).
+
+
+As a result, cement is expensive both economically and environmentally, such that
+much research is being carried out to adopt more sustainable alternatives. A partial
+replacement of cement with basalt rock powder, will not only reduce cost in concrete
+production, decrease gas emissions leading to greenhouse effect, minimize harmful
+environmental impacts, reduce the consumption of natural resources and the energy
+but also improve the compressive strength of concrete (Qiao, 2019).
+A study shows that 10 to 25% basalt rock is appropriate for replacing Portland cement
+partially, while still another study indicates that the optimum fine aggregate
+replacement is about 20–30% and it depends more on rock dust fineness. So, there’s
+need to carry out a profound-research to establish the optimum ratio for partial
+replacement of cement in concrete with regard to the fineness of the basalt rock
+powder. This will help to produce a high-performance concrete with improved strength
+properties, economically cheap and environmentally friendly.
+1.3 OBJECTIVES OF STUDY
+1.31 MAIN OBJECTIVE
+To investigate the use of Basalt Rock Powder in the Partial replacement of
+cement in concrete.
+1.3.2 SPECIFIC OBJECTIVES
+1. To determine the physical and mechanical properties of concrete aggregates
+2. To determine the physical properties and chemical composition of basalt rock
+powder
+
+
+3. To determine the properties of fresh concrete at different proportions of
+basalt rock powder with cement.
+4. To determine the properties of hardened concrete at different proportions of
+basalt rock powder.
+1.4 RESEARCH QUESTIONS
+1. What are the physical and mechanical properties of the concrete aggregates?
+2. What are the physical properties and chemical composition of Basalt rock
+powder?
+3. How is the properties fresh concrete mixes at different proportions of basalt
+rock powder with cement determined?
+4. What is the properties of hardened concrete at different proportions of basalt
+rock powder determined?
+1.5 SCIENTIFIC JUSTIFICATION
+According to previous research, basalt rock powder is proven to have good durability,
+strength and resistance to wear and erosion, readily available at an economically
+sustainable cost and suitable for use in concrete (Qiao, 2019). Also, basalt can be
+utilized in its natural state depending on its grain size for cementitious composites, due
+to its influence as a pozzolanic active component (Scheinherrová, 2022)
+This study therefore investigates the partial replacement of cement with a natural
+pozzolanic material to improve the strength of concrete while providing a natural
+alternative for cement, thereby reducing carbon emission, energy consumption and
+natural resource depletion among others.
+
+
+1.6 SCOPE
+1.6.1 GEOGRAPHICAL SCOPE
+The basalt rocks were collected from a quarry site called Mugarama in Kibbale after
+being crushed with a geo-crusher. The course and fine aggregate materials collected
+from Zirobwe Quarry site under China State Company. The cement (Tororo Portland
+Cement CEM I/42.5) was collected from a Hardware shop in Namasuba
+The laboratory tests were carried out from China State Laboratory in Nyanama Zone,
+Mutundwe.
+1.6.2 TIME SCOPE
+This research started in September 2023. After approval the laboratory tests started on
+11th January 2024 and the report was produced on 9th April 2024
+1.6.3 CONTENT SCOPE
+This research focused on the use of basalt rock powder in concrete and is limited to;
+1)
+Collection and crushing of basalt rock samples from the field in Kibaale district.
+2)
+Breaking down of basalt rock samples into powder and testing for their physical,
+mechanical and chemical properties.
+3)
+Carrying out laboratory tests on workability of fresh concrete, compressive
+strength of hardened concrete and obtain optimal replacement percentage of
+cement in concrete with basalt rock powder. The various tests were carried at
+China State laboratory in Kampala
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.0 INTRODUCTION
+This chapter provides theoretical literature review about basalt rock powder, its
+properties and its constituents and previous research about the use of basalt rock
+powder in concrete. This chapter also provides a critique of existing literature and
+identifying the research gap thus contributing to the scientific knowledge of the
+research. It also includes reviews on the research problem with reference to existing
+theories and studies in regards to the research topic. The part of Empirical literature
+review is also included which covers largely the studies carried out by different
+researchers about the use of basalt rock powder as a partial or full replacement of fine
+aggregates in conventional concrete in the construction industry.
+2.1 THEORETICAL REVIEW
+2.1.1 CONCRETE
+Type of concrete in our study is plain concrete which is the common, conventional
+concrete that contain the major ingredients; fine aggregates (sand), coarse aggregates
+(gravel), cement and water. Concrete is preferred for its ability to be easily molded
+into various structures and also having sufficient strength and structural properties
+highly regards its need in the construction environment now and the future to come,
+although it is not homogeneous (Narayanan, 2013). Due to advancement in technology
+and the need for a sustainable environment, there has been considerable discoveries
+and studies towards concrete to future exhaustion of concrete materials, carbon foot
+print, excessive energy usage and economic concerns. As a result, thorough research is
+
+
+being undertaken of supplementary cementitious materials such as agricultural waste,
+mining waste, stone powders among others (Qiao, 2019).
+2.1.1.1 TYPES OF CONCRETE GRADES AND THEIR USES
+Concrete are graded depending on their strength and composition, since different
+grades are suitable for a different purpose and this strength is determined after the 28
+days of initial construction. The following are the most available concrete grades
+according to Warsaw, 2014;
+i.
+Concrete grade M10, mix ratio (design mixes) 1:3:6 and Strength of 10Mpa. This
+is used for constructing pathways and non-structural work
+ii.
+Concrete grade M15, mix ratio (design mixes) 1:2:4 and Strength of 15Mpa. This
+is used for constructing pavement kerbs and floor binding
+iii.
+Concrete grade M20, mix ratio (design mixes) 1:1.5:3 and Strength of 20Mpa,
+used for constructing domestic floors and foundations with light weight. It is also
+good for workshop bases, garages, driveways, internal floor slabs and low volume
+roads
+iv.
+Concrete grade M25, mix ratio (design mixes) 1:1:2 and Strength of 25Mpa, used
+for construction in all areas of multi-purpose concrete mix, usually in deep
+foundations
+v.
+Concrete grade M30, mix ratio (design mixes) 1:1:1 and Strength of 30Mpa. This
+is the most weather resistant grade and can take heavy road traffic. It is the
+lowest grade of concrete mix
+2.1.1.2 CONSTITUENTS OF CONCRETE
+Concrete is widely and extensively most used construction material in the works of civil
+
+
+and construction World. Concrete is used in the construction field in foundation,
+constructing roads, making pavements, parking structures, overpasses, and block walls
+among others.
+Concrete as a material consists at least 75% of aggregate by volume and is obtained
+from a proportionate mixture of cement binder, sand, aggregates, and water. Sand,
+cement and water forms a paste which hardens as result of chemical reaction between
+the water and cement. The formed paste binds the aggregates together into a solid
+rock. The strength and durability of concrete is dependent on the properties of its
+ingredients, mix proportions, method of compaction with other factors and also control
+during placing, compaction and curing.
+The properties of concrete are divided into two; fresh concrete properties and harden
+concrete properties.
+Fresh concrete properties: These include workability, segregation and bleeding. To
+determine the workability of fresh concrete tests such as slump tests, compaction
+factor test and flow table test are carried out and this helps to determine the strength
+and durability of concrete.
+Harden concrete properties: various tests are carried out on hardened concrete to
+determine properties such as strength, durability, and permeability. Tests on hardened
+concrete such as compressive strength test, flexural strength test, tensile strength test,
+modulus of elasticity test are carried out to determine the strength properties of
+concrete
+
+
+2.1.1.2.1 CEMENT
+This is a pulverized material produced by blending a mixture of lime containing
+materials and clay materials such that it exhibits adhesive and cohesive properties
+which make it capable of bonding mineral fragments into compact whole for use in
+building of structures. Ingredients such as lime (CaO), silica (SiO2), aluminium oxide
+(Al203) and iron oxide (Fe2O3) are heated at very high temperatures to form a rock like
+substance which is ground into fine powder called Cement. Cement it itself is not a
+binder, but develops the binding property as a result of hydration from chemical
+reactions between cement minerals and water. (Proxald. 2015). The most common
+type of cement is known as Portland cement, which is used as an ingredient in concrete
+production (Kaushik, 2004). There are majorly two types of Portland cement, namely;
+Ordinary Portland Cement (OPC) which is produced by an automated, dry manufacturing
+process under strict quality assurance at all manufacturing stages and Portland
+Pozzolana Cement (PPC) which is produced by using a pozzolanic material as the main
+ingredients used in the preparation and should not exceed 30% of the total OPC (Kim,
+2010). Cement is classified into five classes according to ASTM C 150 from Type I to
+Type V depending on the purpose and use in the building and construction industry.
+Ordinary Portland Cement (OPC)
+This is produced by an automated, dry manufacturing process under strict quality
+assurance at all stages. It comes in a range of specifications to suit a number of
+conditions and applications such as dry lean mixes, general purpose ready mixes, high
+strength pre-cast and pre-stressed concrete (Ashok et al., 2016).
+
+
+Portland cement clinker is typically made by heating a mixture of limestone and clay
+to a temperature of about 14000C to 16000C. The main compounds in the clinker are
+Cao, SiO2, Al2O3 and Fe2O3, which account for 61-67%, 19-23%, 2.5-6% and 0-06% of
+the mass of the clinker respectively (Aslantas, 2010). The available grades in Uganda
+are OPC-42 Grade and OPC-52 Grade.
+Portland Pozzolana Cement (PPC)
+PPC id produced by using pozzolanic materials as one of the main ingredients. The
+percentage of pozzolanic material used in the preparation should not exceed 30% of the
+total OPC (Kim 2010). There is reduction in the cement strength with exceeded
+percentage. PPC is gains higher compressive strength with age, highly resistant to
+Sulphur attacks, better workability during concrete production, low heat generation
+during the setting and gains high tensile strength.
+Cement consist of types that are primarily classified according to ASTM C 150 into five
+classes;
+I.
+Type I cement is general purpose cement suitable for all uses not requiring
+the special properties of other types. It is commonly used for pavements,
+floors, reinforced concrete buildings, bridges, tanks, reservoirs, pipe,
+masonry units and precast concrete products, thus more economical than
+type II cement. 7
+II.
+Type II cement is used where relatively low heat generation is desired or
+where moderate sulfate attack may occur. The C3A content increase of
+early heat is comparatively lower than that of other cement types.
+
+
+III.
+Type III cement provides more rapid development of strength at an early
+age after contact with water because of its higher surface area and
+increased C35 content. It is mostly used when high strength is desirable
+IV.
+Type IV cement is needed where heat generation from hydration should
+be minimized such as in mass concrete structures. It generates less heat
+at a slower rate than the other cement types since its C25 content is
+higher and C35 content increased. As a result, this type has greater
+resistance to sulfate attack than for type I or type II, with less rapid
+strength development having equal strength at advanced ages.
+V.
+Type V cement is used where high sulfate resistance is desired say in
+foundation and marine structures. The C3A content of the cement is
+limited to less than 5% in the specification when a sulfate expansion test
+is not available.
+2.1.1.2.2 AGGREGATE
+Aggregates make up 70% of the concrete volume, hence the main constituent materials
+in concrete production according to Gnanavel 2014. Aggregates are mostly derived from
+crushed solid rock or weathered rock, resulting to broad category of grains, classified
+by particle size and consistency in construction. Coarse aggregates have particle size
+larger than 4.75mm (No. 4 sieve) while the fine particles have particle sizes smaller
+than 4.75mm but larger than 75mm (No. 200 sieve) (Newman, 2013). Aggregates
+exhibits properties which affect the performance of the concrete, since they form
+mortar grout and fill voids in concrete along with cement past.
+
+
+2.1.1.2.3 WATER
+Water plays a vital role in cement hydration where minerals in cement form chemical
+bonds with water molecules and makes the concrete workable (Kucche, 2015). Water
+greatly affects the workability of concrete which largely depends on the water/ratio;
+an increase in the sizes of aggregates, a reduction in water/cement ration and use of
+rounded aggregates will reduce the water demand, thus leading to a reduced slump.
+For strong and workable concrete, the water/cement ration should be balance, since
+too much water reduces concrete strength, while overly reduced water makes the
+concrete unworkable (Kosmatka, 2014).
+2.1.2 BASALT ROCK POWDER
+This is a fine-grained material that is obtained by crushing basalt rocks and is typically
+dark in color, ranging from black to dark gray, due to its high content of dark-colored
+minerals such as pyroxene and olivine. Basalt rock has been used in the construction
+industry for various applications but majorly as aggregates due to its availability,
+sustainability, durability and strength properties (Qiao, 2019). Basalt rock powder (BRP)
+has a large specific surface area and high SiO2 and Al2O3 contents thus when used as a
+supplementary cementitious material, it can have a positive impact on the mechanical
+properties. This is because basalt rock powder forms a gel on hydration, when Calcium
+Oxide from Cement reacts with SiO2, resulting into nucleation of the C-S-H and
+strengthening the bond between basalt and the matrix (Li, 2022).
+
+
+
+Figure 1: Basalt rock powder
+2.1.3 AREA OF APPLICATION
+The BRP concrete will be largely utilized in construction of columns, pavements and
+sidewalks. This is because the study aims at producing a compressive structure with the
+ability resist compressive loads other than tensile Loads
+2.2 EMPIRICAL LITERATURE REVIEW
+2.2.1 BASALT ROCK POWDER
+Basalt rock powder can be used as a supplementary material in concrete to improve its
+mechanical strength. A study investigated the feasibility of using BRP and Superfine
+sand as partial replacement for Portland cement and artificial sand in mortar. The
+results showed that the use of BRP and superfine sand as partial replacement materials
+for Portland cement and artificial sand respecting in cement mortar is feasible (Qiao,
+2019). Another study investigated the effect of basalt powder on hydration, rheology
+and strength development of cement past. The results showed that the use of basalt
+powder can improve the strength development of cement paste (Li, 2022). Also,
+another study investigated the effect of Basalt Powder on the properties of Cement
+Composites. The results obtained show that the basaltic powder has a positive effect
+
+
+on the consistency of fresh cement composites and strength of the hardened composite
+(Unčík, 2013). Also, when carried out on Basalt powder as a supplementary
+cementitious material in cement past for CCS wells, due to basalt powder
+characteristics, the chemical resistance increased resistance for formulation of cement
+having low Basalt powder quantity as a result of porosity and permeability reducing,
+due to the gaps getting filled in the network of porous cement (Ponzi, 2021). According
+to Dobiszewska M (2018), the addition of waste basalt powder as a replacement of sand
+in concrete improves its compressive and flexural strength due to the filler effect, and
+also results in a denser and stronger interfacial transition zone microstructure. Also,
+according to the microstructural analysis, the presence of basalt powder in concrete
+mixes is beneficial for cement hydration products and basalt powder substituted
+concretes have lower porosity within the interfacial transitional zone (Dobiszewska,
+2020).
+2.3 RESEARCH GAP
+Several researches have been carried out on basalt rock powder as a partial
+replacement of cement in cement mortar and partial replacement of sand in concrete
+and lots of evidence have been provided for the improvements in strength. However,
+the research on determining the optimum percentage of basalt rock powder with known
+fineness for partial replacement of cement in conventional concrete is lacking and this
+is what our research is focusing to archive.
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.0 INTRODUCTION
+This chapter contains the descriptions of materials used in the experimentations during
+the study. The chapter gives explanations of various tests performed to achieve our set
+of objectives such as the sieve analysis test (particle size distribution, aggregate
+crushing value, aggregate impact value (AIV), water absorption, flakiness index,
+specific gravity, compressive strength test, abrasion test, porosity and permeability
+test. All in all, this chapter gives details on;
+a) The materials acquired from various locations; Sand, cement, coarse aggregates
+and basalt rock powder.
+b) Properties of concrete ingredients and basalt rock powder; sieve analysis of both
+fine and coarse aggregates, flakiness index, specific gravity, water absorption,
+aggregate impact value, aggregate crushing value, silt content.
+c) The mix design proportions, slump test, casting of cubes and curing of the cubes
+d) Properties of optimized BRP concrete; compressive strength, porosity and
+permeability.
+3.1 MATERIAL ACQUISITION
+The following materials were acquired from various locations; Sand, cement, coarse
+aggregates and basalt rock powder;
+3.1.1 NATURAL COARSE AGGREGATE, FINE AGGREGATE (SAND)
+The coarse aggregates, fine aggregates (fine sand) were given freely by a team of
+technicians at China lab which reduced on the hustle for materials. A number of tests
+
+
+were conducted on these materials like sieve analysis test, ACV, AIV, specific gravity,
+abrasion value test, flakiness etc.
+3.1.2 CEMENT
+The type of cement used in this study was Portland Tororo cement (Portland Pozzolana
+Cement) as it conforms to the KS EAS 18-1 cement standards as adopted from the EN-
+197 specification that is equivalent to the Uganda specification US EAS 18-1. Cement as
+a material act as a binding agent when it’s mixed with water, since a chemical reaction
+takes during the hardening process of cement while binding together with aggregates.
+3.1.3 WATER
+National water and sewage cooperation was the provider for our water source. It is
+important to note that water as material influences workability and strength of
+concrete greatly and this depends on the quantity used during mix of fresh concrete.
+3.1.4 BASALT ROCK POWDER
+The basalt rock powder was obtained by crushing basalt rocks at Mugarama Stone Quarry
+in Kibaale District with a geo crusher and then pounded to the smallest particle size of
+5mm and below, that were sieved for various tests and experiments such as; sieve
+analysis tests, specific gravity, x-ray fluorescence etc.
+3.2 PROPERTIES OF CONCRETE MATERIALS TO BE USED IN THE BASALT ROCK
+POWDER CONCRETE (BRP CONCRETE)
+3.2.1 SIEVE ANALYSIS
+This method is used for the determination of the particle size distribution of the
+materials and the test will be carried out to determine the physical property of course
+
+
+and fine aggregates (sand). The result will help in the understanding of aggregates
+distribution with size so as to conform to standard of design and control requirements
+and specifications. The following steps are taken to determine the particle size
+distribution of aggregates
+1. Sample to be tested are dried to a constant weight at a temperature of 110+50C
+and weighed
+2. The samples are then sieved through sieves of different sizes in accordance with
+BS EN 1629 or IS sieves. After sieving, the material on each sieve is weighed
+3. Cumulative weight passing through each sieve is calculated as a percentage of
+total sample weight
+4. Fineness modulus is obtained by adding cumulative percentage of aggregates
+retained on each sieve and diving the sum by 100
+5. A graph of cumulative percentage passing against sieve sizes is plotted on a semilog graph with particle size as abscissa (log scale) and the aggregates are
+classified using unified classification system.
+3.2.2 FLAKINESS INDEX (FI) – BS 812: SECTION 105.1 1990
+Flakiness index is one of the tests used to classify aggregates and stones. Aggregates
+are classified as flaky when they have a thickness of less than 60% of their mean sieve
+size. Flaky particles are separated from the mass of aggregates retained on FI sieves
+expressed as a percentage. Thus, FI is the mass of aggregates in percentage with
+minimum dimension less than 0.6 times its mean dimension. The test only applies to
+material that are passing 63 mm sieve and is retained on a 6.30 mm BS test sieve.
+
+
+3.2.3 WATER ABSORPTION
+The water absorption test was carried out to determine the maximum amount of water
+the coarse aggregates can absorb as per BS: 812: 1975. This test gives an idea on the
+strength of coarse aggregates and their internal structure. From analysis of results, it’s
+easier whether your aggregates are more porous or less porous in nature.
+3.2.4 SPECIFIC GRAVITY/RELATIVE DENSITY
+The specific gravity test is performed to measure the quality or strength of coarse
+aggregates to be used in construction. It is observed at the end of this test that
+aggregates with low specific gravity are known to be weak material compared to
+aggregates with higher specific gravity.
+While carrying out these tests, a sample not less than 2kg is used and the apparatus
+include perforated wire basket, plastic coated with wire hangers for suspending it from
+the balance, dry soft absorbent cloth, water-tight container for suspending the basket,
+shallow tray of minimum 650 sq.cm area, air-tight container of a capacity similar to the
+basket and an oven are used in the process.
+Both water absorption test and specific gravity test are considered to be a measure of
+strength of the material. Specific gravity is the ratio of the weight of a given volume of
+aggregate to the weight of an equal volume of water. It is the measure of strength or
+quality of the specific material. The apparent specific gravity of the commonly used
+rocks ranges from 2.6 to 2.7 as per standards BS: 812: 197
+3.2.5 AGGREGATE CRUSHING VALUE (ACV)
+ACV test is conducted to understand how coarse aggregates resist gradually applied
+compressive load up to crushing point (A measure of resistance). For weak aggregates,
+
+
+the integrity of the structure is likely to be adversely affected. The ACV is determined
+by measuring the material passing a specified sieve after crushing under a load of
+400kN. The test can be applied to a standard fraction aggregate passing a 14mm sieve
+and retained on a 10mm sieve. Note that the method is not suitable for testing
+aggregates with an ACV higher than 30. In such cases the method for Ten percent fines
+value (TFV) is applicable, as per CML Test no. 2.7
+3.2.6 AGGREGATE IMPACT VALUE (AIV)
+The AIV test is performed to assess the mechanical degradation of coarse aggregates by
+subjecting them to a known load and their resistance determined. The test is a measure
+of toughness of coarse aggregates to resist their disintegration on due to impact as per
+BS 812: Part 112: 1990. A 28 cylindrical measure and plunger, compression testing
+machine and test sieves of sizes 14mm and 10mm were used to determine the AIV of
+the aggregates.
+3.3 PHYSICAL AND CHEMICAL PROPERTIES OF BASALT ROCK POWDER
+3.3.1 SIEVE ANALYSIS – BS EN 933-1:1997
+Sieve analysis is the method of determining the particle size distribution of the
+materials. This test will be carried out to determine the physical property of stone dust.
+This test was carried out to know particles distribution with size so as to conform to
+design standards and control requirements.
+3.3.2 RELATIVE DENSITY AND WATER ABSORPTION
+The relative density test is carried out to measure the quality or strength of basalt rock
+powder to be used in the construction while the maximum amount of water that the
+
+
+basalt rock powder absorbs was determined by carrying out the water absorption test
+as per BS: 812: 1975. To get the idea on strength of basalt rock powder and the internal
+structure, the water absorption test is key.
+3.3.3 BULK DENSITY
+During the determination of the mass or weight of the basalt rock powder that is
+required to fill a specific unit volume of concrete, the bulk density test is used. The
+higher the bulk density, the higher the volume of basalt rock powder that the concrete
+mix will occupy
+3.3.3 X-RAY FLOURESCENCE (XRF)
+This is a technique that analytically determines the composition of elements of several
+materials like rocks, sediments and fluids. In X-ray fluorescence, the emitted X-rays are
+detected and analyzed to determine the elemental composition.
+Sample Preparation
+Basalt rock powder (BRP) is typically prepared by two common forms; compressed
+powder pellets where the powdered sample is compressed into pellet using a hydraulic
+press and Fused Glass Discs where the sample is mixed with a flux usually Lithium
+compound and heated to form a glass disc. These sample forms ensure uniformity and
+facilitate X-ray penetration.
+The XRF spectrometer consists of X-ray tube, sample holder, X-ray detector and
+spectrometer which is calibrated using known standard samples. After detection,
+analysis, quantification and calibration, the software analyses the XRF data and
+provides elemental concentrations with major elements; Na Mg, Al, Si, Ca etc.
+
+
+3.4 CONCRETE MIX DESIGN FOR M25
+There is various mix design but for our project the M25 is the most favorable since the
+concrete in our study has a pozzolana material. With reference to various literature
+studied, this research has been able to develop the mix design. So, several trial mixes
+were carried out based on literature, so as to get the final mix to be used to get the
+results presented in the report
+Test: Compressive Strength
+During compressive strength test, numerous cubes were to be used for triplicates per
+replacement with basalt rock powder. Three cubes were casted for each set of
+replacement, therefore using the standard for experiment referred to as “triplicates”
+for the compressive strength test which had two sets of days i.e. 7 and 28 curing days.
+There was casting of control experiment and the following percentages; 0%, 10%, 15%,
+20%, 25% and 30%. As a result, the cubes casted were 36 in total.
+3.5 DETERMINING PROPERTIES OF THE OPTIMIZED CONCRETE MIX WITH BASALT ROCK
+POWDER
+3.5.1 FRESH CONCRETE SLUMP TEST
+This slump test was carried out to evaluate the flow characteristics of freshly mixed
+concrete containing basalt rock powder and the other normal concrete ingredients and
+it will be carried out in accordance with BS 1881: Part 102: 1983. The slump test was
+performed by concrete placing in a cone of inverted shape at three levels, and then the
+concrete tamped down up to when it’s full using a metal tamping rod. Using the handles
+on both sides, lifting of the cone off working surface is performed carefully. Measuring
+of the height between the slumped height of fresh concrete and slump cone original
+
+
+height. Normally, the desired slumps for fresh concrete should range between 4 to 5
+inches to obtain an ideal balance between workability and consistency
+Preparation of test cubes from fresh concrete
+This process involves the making of concrete cubes for testing of compressive strength,
+porosity and permeability where 3 concrete cubes shall be casted for each trial mix and
+then place for 7 and 28 curing days.
+Procedure
+A thin layer of oil is applied on the inside faces of cube mold plates, after carrying out
+the slump test of already mixed fresh concrete. Then a sample of fresh concrete is put
+into the mold in three layer and after every layer a tapping rod is used to compact the
+concrete in order to remove voids.
+
+Figure 2: Types of Slumps
+(Image source: civiltoday.com)
+3.5.2 HARDENED CONCRETE COMPRESSIVE STRENGTH TEST
+The term compressive strength defines the ability of material or structure to carry the
+loads on its surface without any crack or deflection. The test is carried out in
+accordance with BS 1881 part 116: 1983 and it will be performed on cubes of hardened
+concrete containing basalt rock powder after curing of 7 days and 28days
+Procedure for performing compressive strength test on concrete cubes
+
+
+Fresh concrete is poured in the mold of 15x15x15cm (150x150mx150) in three layers
+and after every layer it is compacted using tamping rod properly to remove voids. After
+it is left for 24 hours and then the molds are removed and cubes placed in water for
+curing of 7 and 28 days. After the set of curing days, the cubes are tested by
+compression machine where load is applied gradually at the rate of 140kg/cm2 per
+minute till the specimen fails, then the compressive strength computed by dividing the
+applied Load with cross-sectional area of the cube.
+Table 1: The material cost for the cube that is replaced 15% of Cement with BRP
+in the concrete mix
+Material
+Unit
+Quantity
+(Kgs)
+Rate (Ugshs)
+Total cost (Ugshs)
+Sand
+Kgs
+37125
+Coarse aggregate
+Kgs
+55385
+Cement
+Kgs
+301000
+Water
+Ltrs
+3.5
+BRP
+Kgs
+64.5
+Total
+
+
+396489
+
+
+CHAPTER FOUR: RESULTS AND DISCUSSION
+4.0 INTRODUCTION
+This chapter shows the results obtained from the various tests conducted on the
+materials used in the concrete mix and explained using tables and graphs.
+4.1 DETERMINATION OF PHYSICAL PROPERTIES OF CONCRETE AGGREGATES
+4.1.1 SIEVE ANALYLSIS TEST ON AGGREGATES
+This test also known as gradation test, is very essential as it helps technicians in the
+quality control of aggregate samples. This is used in determining the distribution of
+aggregate particles by size in order to comply with the design, production control
+requirements and verification specifications. This test ensures the separation of fine
+particles with the coarse ones during test process using various sieves sizes for the
+sample material. As a result the retained mass of a material on every sieve size is used
+for fineness modulus determination.
+Table 2: Sieve analysis results of coarse aggregates
+Sieve size
+Partial
+Cumulative Cumulative
+Governing Specification
+(BS 882:1992 Table 3)
+Standard
+%age
+mm
+g
+G
+%
+%
+Lower
+Limit
+Upper
+Limit
+37.5
+0.0
+0.0
+100.0
+
+
+20.0
+11.0
+0.2
+99.8
+14.0
+963.0
+21.6
+78.4
+10.0
+1494.0
+54.8
+45.2
+5.0
+1884.0
+96.7
+3.3
+2.36
+104.0
+99.0
+1.0
+
+Figure 3: Particle size distribution chart for coarse aggregates
+From the above graphs, each of the sieve sizes fall shows a percentage passing within
+the envelopes according to BS 812:1992 Table 3 and thus suitable for use in concrete.
+Aggregate size affect much on the properties of hardened concrete and fresh concrete
+a major component of the mix design.
+Table 3: Sieve analysis results for fine aggregates (Sand)
+Sand
+mm
+Mass after washing on 0.075mm sieve(g)
+961.6
+
+
+Sieve
+size:(mm)
+Lower
+limit
+Upper
+limit
+Wt.
+Retained on
+size
+mass
+on
+size
+percentage
+retained on size
+Percentage
+14.0
+
+
+0.0%
+100.0%
+10.0
+100%
+100%
+0.0
+0.0
+0.0%
+100.0%
+5.0
+89%
+100%
+1.2
+1.2
+0.1%
+99.9%
+2.36
+60%
+100%
+8.0
+9.2
+0.9%
+99.1%
+1.18
+30%
+100%
+95.6
+104.8
+10.4%
+89.6%
+0.60
+15%
+100%
+381.4
+486.2
+48.4%
+51.6%
+0.30
+5%
+70%
+345.0
+831.2
+82.8%
+17.2%
+0.15
+0%
+15%
+76.2
+907.4
+90.4%
+9.6%
+
+
+
+
+Figure 4: Particle size distribution chart for fine aggregates
+A well graded aggregate with a narrower particle size distribution. The fineness modulus
+also gives lower value of 2.3 hence finer sand. The visualized date in the grading curve
+indicates fine aggregates being within the standard for use in the concrete mix.
+4.1.2 FINENESS MODULUS
+This is a numerical index of fineness that gives idea of the mean size of the particles in
+the aggregates and used as a method of standardization of the grading of the
+aggregates. It can therefore be used as the measure of workability of sand according to
+ASTM (ASTM C33 1954). Fineness modulus can be computed as 600 minus total sums of
+cumulative percentages retained on sieve and then divided by 100. The fineness
+modulus is also used in mix design since the gradation of fine aggregates determines
+the density and permeability of the concrete, high fineness modulus implies low density
+and low permeability of concrete. Thus a fineness modulus of 2.3 is fine aggregate
+suitable for concrete matrix used good strength and durability.
+
+
+4.1.3 FLAKINESS INDEX (FI)
+This is the percentage by weight of particles whose average least dimension is less than
+three-fifths (0.6 times) of their mean dimension, thus the particle is considered as flaky
+if its thickness is less than o.6 times the mean sieve size of the fraction. Flaky particles
+have a large surface area relative to its small volume, hence it decreases the workability
+of concrete mix. The flaky particles can affect the durability of concrete as they tend
+to be oriented in one plane, with water and voids forming underneath.
+Table 4: Flakiness index value
+Sum of Mass retained
+g
+3302.2
+Sum of Corrected Mass passing slots
+g
+516.2
+Flakiness Index FI = (M3/M2)*100
+%
+15.6
+A flakiness index value of 15.6% a good unflaky sample of aggregates as these particles
+affect the durability of concrete. The value is within the acceptable range for many
+concrete applications and suitable to improve concrete performance and mix design
+optimization.
+4.2 AGGREGATE CRUSHING VALUE (ACV) TEST ON COARSE AGGREGATES
+This is the percentage by weight of crushed material obtained when test aggregates are
+subjected to a specified load under standardized conditions. Aggregate crushing value
+test on coarse aggregates gives a relative measure of the resistance of an aggregate
+crushing under gradually applied compressive load. According to BS 8122 PART 110, ACV
+gives the relative measure of crushing under an increasing compressive load. The
+method is applicable to aggregates passing a 14.0 mm test sieve and retained on a 10.0
+mm
+test
+sieve.
+
+
+
+Figure 5: Graph for ACV
+The graph gives an ACV of 13.5% against the maximum value 25, indicating a good
+aggregate strength hence less disintegration against pressure. Lower ACV implies the
+aggregates are stronger, which indicates that the aggregates are more durable with
+longer service life thus very valuable performance. The crushing value should not
+exceed 25% for construction as per standard BS 812 PART 110: 1990. If the ACV is 25 or
+more, the result may be anomalous and thus the ten percent fines value should be
+determined instead.
+4.3 AGGREGATE IMPACT VALUE (AIV) TEST ON COARSE AGGREGATES
+The ACV test is used to determine the aggregate impact value which gives a relative
+measure of the resistance of an aggregate of sudden shock or impact, which in some
+aggregates differ from their resistance to a slowly applied compressive load. The AIV is
+obtained by calculating the percentage loss of weight particles passing 2.36 mm sieve
+by the application of load by means of 15 blows of standard hammer and drop under
+specified condition.
+
+
+Table 5: AIV mean value calculations for coarse aggregates
+
+As per BS 812 PART 110: 1990 and the above specifications, the AIV for concrete in nonwearing areas is to be less than 45% by weight and 25% in wearing areas say runaways.
+From the results above of coarse aggregates, a mean value of 16.4 % was obtained and
+thus the coarse aggregates are suitable for use in concrete.
+4.1 LOS ANGELES ABRASION VALUE (LAAV) TEST ON COARSE AGGREGATES
+Table 6: LAAV calculations for coarse aggregates
+
+LAAV of 19.6% suggests a strong resistance to abrasion. The LAAV represents the
+percentage of material lost by weight during the abrasion test. A higher LAAV indicates
+
+
+a greater abrasion of the aggregate and by extension, potentially reduced durability of
+the concrete. If the LAAV exceeds allowable limits, adjustments can be made in the
+aggregate selection or mix design to improve resistance
+4.2 RELATIVE DENSITY AND WATER ABSORPTION FOR COARSE AGGREGATES
+Table 7: The calculated relative density and water absorption values
+
+Water absorption test is to determine the amount of water absorbed by aggregate using
+the specified conditions. According to the test carried out, little quantity of water is
+absorbed by the coarse aggregates as shown in results that is 0.36% thus meaning
+water absorption consideration can be neglected in the mix design, as per BS 882: Part
+2 1995, the standard water absorption should less than 2%
+Relative density test is carried out as a measure of quality for coarse aggregates and it
+is also denotes a measure of the specific gravity of the aggregates
+The apparent specific gravity of the commonly used rocks ranges from 2.6 to 2.7 as per
+standards BS 882: 1992. According to the results obtained as shown in appendix
+apparent specific gravity of the coarse aggregates used was 2.665 coarse aggregates
+thus the aggregates are suitable for use in concrete since they are in recommended
+range as per standard.
+Table 8: Summary of coarse and fine aggregates classification results
+
+
+4.3 DETERMINATION OF THE PHYSICAL PROPERTIES OF BASALT ROCK
+4.3.1 PARTICLE SIZE DISTRIBUTION TEST ON AGGREGATES
+Table 9: Sieve Analysis results for Basalt Rock Powder
+Sieve
+size
+(mm)
+Partial
+(g)
+(g)
+Retained %age
+(%)
+Passing (%)
+5.00
+0.0
+0.0
+0.0
+100.00
+2.36
+0.2
+0.2
+0.0
+99.96
+1.18
+0.2
+0.4
+0.1
+99.92
+0.60
+2.5
+2.9
+0.6
+99.44
+0.30
+65.2
+68.1
+13.1
+86.88
+0.15
+97.2
+165.3
+31.8
+68.16
+0.075
+183.3
+348.6
+67.2
+32.85
+
+
+
+
+Figure 6: BRP particle size distribution chart
+The powder is composed of both fine particles and coarse particles compared to the
+fine aggregates. About 32.8% passes through the 0.075mm sieve, the percentages to be
+used in casting concrete cubes so as to have finer powder reacting with other concrete
+ingredients. The sieve analysis test was conducted for BRP with maximum particle size
+of 5mm and grading curve indicates that 32.85% passed through the 0.075mm, the
+target particle size. However, since the powder (BRP) exhibited relatively uniform
+particle characteristics throughout its composition, the additional insights gained from
+a hydrometer test will not substantially alter the conclusion drown from the sieve
+analysis results ( Mir, 2021).
+4.3.2 PARTICLE DENSITY AND WATER ABSORPTION FOR BASALT ROCK POWDER
+Table 10: The calculated particle density and water absorption results
+
+
+
+The apparent particle density which relates to the relative density (specific gravity) is
+3.0376mg/m3 indicating that the mass of BRP particles per unit volume, taking into
+account any void spaces within the particles. The Water absorption of 3.8% indicates
+the absorption capacity of BRP weight in the water when fully saturated. Since BRP
+moderately absorbs water, the total water content of the mixture shall be adjusted to
+compensate, and this is vital in achieving desired workability, strength and durability
+of concrete with calculated W/C ratio in accordance to BS 812: Part 2: 1995
+4.4 DETEMINATION OF THE CHEMICAL COMPOSITION OF BRP
+4.4.1 X-RAY FLOURESCENCE TEST
+Table 11: Results for Chemical composition of Basalt Rock Powder
+
+The X-ray fluorescence indicates that in chemical composition, the, SiO2, Fe2O3, CaO
+and Al2O3 are most dominant. These chemical compositions in concrete, influence
+
+
+strength, durability, setting time, color effects and also indicates the presence of
+mineral compositions of plagioclase, pyroxene and olivine (Ponzi, 2021). The powder is
+from a mafic rock, resulting to Pozzolanic reaction during concrete mix.
+4.5 STIPULATIONS FOR PROPORTIONING
+(a) Concrete Strength/Cylindrical/ (Mpa) = 21.3 Cylindrical Strength, 150 x 300mm
+Cube = Cylinder/0.85= 25.1
+(b) Type of Cement = PPC PPC 32.5 N/mm2, Portland Cem II
+(c) Maximum Nominal Size of Aggregate = 19 mm as per ACI standards
+(d) Minimum Cement Content = 320 kg/m3 for 20mm Nominal size as per ACI
+(e) Max. Water-Cement ratio = 0.50 from ACI 211.1-91, Table A1.5.3.4
+(b) for Severe conditions
+(f) Exposure conditions = Severe
+(g) Workability, Slump (mm) = 100 mm from ACI 211.1,1991, Table
+A1.5.3.3
+(h) Method of Concrete Placing = Chute Non-Pumpable
+(i) Placing & Mixing Condition = Good from ACI 318-19
+(j) Type of Coarse Aggregate = Crushed Angular Aggregate
+(k) Maximum Cement Content = 500 kg/m3 as per Uganda General
+Specification, Section 6404 (a)
+
+
+(l) Fine Aggregate Type = Natural Sand
+Laboratory Trial Batch For 1m3 for 0.2025m3 (6 cubes)
+1. Cement = 430 kg = 8.708 kg
+2. Water = 206 kg = 4.169 kg
+3. Fine Aggregate FA = 675 kg = 13.679 kg
+4. Coarse aggregate CA = 1007 kg = 20.401 kg
+5. Total in the mix = 2319 kg = 47.0 kg
+Average W/C ratio = 0.48 (Approximately 0.50)
+4.6 OPTIMAL PERCENTAGE REPLACEMENT OF PHYSICAL AND MECHANICAL
+PROPERTIES OF CONCRETE INCORPORATED WITH BASALT ROCK POWDER AND
+CEMENT
+4.6.1 SLUMP TEST
+This test is carried out to determine the workability accordance to BS 1881: 1983
+British Standards so as to ascertain the workability of fresh concrete for each mix in
+the research. The test is a measure of the consistency of the fresh concrete and how
+easily the concrete can be cast and compacted to form the required shape without any
+segregation
+
+
+
+Figure 7: A graph for workability of BRP concrete
+From the graph above, it can be noticed that the slump increases with increase in BRP
+content in the concrete mix. As the percentage of BRP increases from 0% to 30%, the
+slump values also show a general increasing trend. A slump value of 81mm for 0% BRP
+suggests a moderately stiff concrete mix, whereas higher slump values for BRP
+incorporated mixes indicated improved workability.
+This increase in slump indicates that the addition of BRP enhances the workability of
+the concrete mixes, potentially due to the finer particle size and smoother surface
+texture of the BRP compared to cement particles according to Li, 2022
+Standard Deviation
+The standard deviation is the average amount of variability in your dataset, telling us
+on average how far each value lies from the mean. A high standard deviation means
+that values are generally far from the mean, while a low standard deviation indicates
+that the values are clustered close to the mean (Bhandari, 2021)
+
+
+Sample, 81mm, 85mm, 87mm, 90mm, 93mm, 98mm for 0%, 10%, 15%, 20%, 25% and
+30% BRP content by volume fraction respectively
+Mean= 81 + 85 + 87 + 90 + 93 + 98
+
+Mean= 89mm
+Variance
+= (81 −89)2 + (85 −89)2 + (87 −89)2 + (90 −89)2 + (93 −89)2 + (98 −89)2
+
+Variance= 30.33mm
+Standard Deviation (SD) = √Variance
+Standard Deviation= √30.33 = 5.51mm
+This gives an approximate deviation of 6 SD. This means that the average deviation of
+individual values form the mean slump value of 89 mm is approximately 7mm, providing
+a valuable information about the variability and precision of slump measurements in
+the study on BRP concrete. It helps to assess the reliability of the mean value and
+informs decisions related to mix design, construction practices and quality control in
+concrete production.

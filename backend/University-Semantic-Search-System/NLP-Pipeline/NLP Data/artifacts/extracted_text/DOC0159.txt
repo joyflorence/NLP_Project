@@ -1,0 +1,1411 @@
+ 
+NUTRIENT COMPOSITION AND CONSUMER ACCEPTABILITY OF INSTANT 
+COWPEA LEAF BASED SOUP  
+ 
+ALPHA BONIFACE SSONKO  
+S21B52/010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN 
+PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF 
+BACHELOR OF SCIENCE IN FOOD SCIENCE AND TECHNOLOGY OF UGANDA CHRISTIAN 
+UNIVERSITY 
+June,2025 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+DECLARATION 
+I Ssonko Alpha Boniface, a student of Uganda Christian University pursuing a Bachelor 
+of Science in Food Science and Technology do declare that the work in this 
+dissertation is my original work to the best of my knowledge. The dissertation has 
+been made based on the skills and knowledge I have acquired at the Uganda Christian 
+University while doing the Special Project course. 
+ 
+Signature  
+    Date………………11/06/2025…. 
+Ssonko Alpha Boniface 
+S21B52/010 
+ 
+ 
+
+iii 
+ 
+ABSTRACT 
+Cowpea leaves are a nutritious vegetable important in African diets, particularly in 
+Uganda. The research indicated that their utilization is limited by post-harvest losses 
+and nutrient loss during traditional preparation. This study aimed to enhance the 
+sensory and nutritional attributes of an instant cowpea leaf-based soup. The 
+research investigated the impact of incorporating additives such as monosodium 
+glutamate, mono- and di-glycerides of fatty acids, and whey protein on the soup's 
+physicochemical properties and consumer acceptability. The research employed the 
+use of cowpea leaf and orange-fleshed sweet potato flour as starch-based sources, 
+and the soup was processed using extrusion cooking. Proximate and mineral 
+composition were analyzed according AOAC methods, and sensory evaluation 
+determined consumer preferences. This research sought to improve the nutritional 
+value and consumer appeal of cowpea leaf soup, to promote its consumption and 
+address micronutrient deficiencies. 
+ 
+ 
+
+iv 
+ 
+APPROVAL 
+This dissertation has been prepared by Ssonko Alpha Boniface under my supervision 
+and is ready for submission to Uganda Christian University for the award of a degree 
+of Bachelor of Science in food Science and Technology. 
+Signature  
+   Date…11/06/2025………………………………. 
+Madam Kwikiriza Mbabazize 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ 
+ 
+ACKNOWLEDGEMENTS 
+To the Almighty God, who gave me the strength and good mental health during the 
+entire research period. Sincere gratitude to my biological mother, Ms. Betty Mugerwa 
+for her unwavering emotional and financial support. 
+To my supervisor, Madam Kwikiriza Mbabazize, for her guidance and patience. For 
+the time that she offered to supervise me and ensure I was on the right track. 
+To my Head of Department, Dr Martin Mutambuka for his input and wide span of 
+valuable knowledge that informed the research work. To Ms Norah Akaba, a master’s 
+student at Uganda Christian University, for the support offered during production, 
+and corrections even with her busy work schedule. 
+To the National Agricultural Research Laboratories (NARL)- Kawanda, the 
+management of Food Biosciences and Agribusiness Division for allowing the use of 
+the facility under the pilot plant section. To Peak value incubation center, Mukono 
+for opening up your premises for the extrusion process especially. 
+Finally, my sister, Nalutaaya Alexis Cindy, my classmates in the Food Science class 
+for the continuous encouragement throughout this research process. 
+ 
+ 
+ 
+
+vi 
+ 
+ 
+Contents 
+DECLARATION ....................................................................................................................................... ii 
+ABSTRACT ............................................................................................................................................. iii 
+APPROVAL ............................................................................................................................................ iv 
+ACKNOWLEDGEMENTS ........................................................................................................................ v 
+CHAPTER ONE ...................................................................................................................................... 1 
+1.0 BACKGROUND ........................................................................................................................... 1 
+PROBLEM STATEMENT ..................................................................................................................... 2 
+1.2 RESEARCH OBJECTIVES .......................................................................................................... 5 
+1.2.1 Main Objective: ................................................................................................................ 5 
+1.2.2 RESEARCH QUESTIONS ........................................................................................................ 5 
+1.3 JUSTIFICATION .......................................................................................................................... 5 
+1.4 SIGNIFICANCE ............................................................................................................................ 6 
+CONCEPTUAL FRAMEWORK ............................................................................................................... 7 
+CHAPTER TWO ..................................................................................................................................... 9 
+2.0 LITERATURE REVIEW ............................................................................................................... 9 
+2.1 Cowpea production worldwide and in Uganda ............................................................. 9 
+2.2 Nutritional Significance of Cowpea Leaves ................................................................... 9 
+2.3 Post-harvest handling of cowpea leaves ...................................................................... 11 
+Importance of Functional Additives in Food Processing .................................................. 12 
+2.4 Impact of Processing on Nutrient Retention ............................................................... 12 
+2.5 Consumer Acceptability and Market Trends ................................................................ 12 
+CHAPTER THREE ................................................................................................................................ 14 
+3.0 METHODOLOGY ...................................................................................................................... 14 
+3.1 Raw materials ..................................................................................................................... 14 
+3.2 Preparation of cowpea leaves grits. ............................................................................. 14 
+3.3 Preparation of orange-fleshed sweet potato (OFSP) flour ...................................... 14 
+3.4 Extrusion Cooking Technology ........................................................................................ 15 
+3.5 Proximate Composition .................................................................................................... 15 
+3.6 Mineral composition (Zinc, Iron, Calcium) .................................................................. 15 
+3.7 Sensory Evaluation ............................................................................................................ 16 
+3.8 Cooking procedures of soup powders and Consumer Acceptability Tests ........... 16 
+Statistical Analysis .................................................................................................................... 16 
+CHAPTER FOUR .................................................................................................................................. 18 
+
+vii 
+ 
+4.0 RESULTS ................................................................................................................................... 18 
+Table 1: Mineral Content by Treatment Type ........................................................................ 18 
+Table 2: A table showing consumer acceptability scores by means and standard 
+deviations for each Treatment Group. ................................................................................... 19 
+Table 3. A table showing proximate composition across the treatment groups ............. 19 
+REFERENCES ....................................................................................................................................... 23 
+APPENDIX ............................................................................................................................................. 28 
+Table 1.1: Nutritional composition of cowpea leaves and mature seeds (100g 
+edible portions). ....................................................................................................................... 28 
+Table 2 Anova table for protein ................................................................................................... 28 
+Table 3 Anova table for moisture content. ................................................................................ 28 
+Table 4 t-table for mineral analysis ............................................................................................ 29 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE 
+1.0 BACKGROUND 
+Cowpea (Vigna unguiculata) is a global vegetable whose cultivation is believed to 
+have begun from Africa more than 5000 years ago. It belongs to kingdom (Plantae), 
+genus (Vigna), and Species (unguiculata). Cowpea is a valuable component in the 
+farming systems of the majority of resource poor rural households in Sub-Saharan 
+Africa (SSA) for its various attributes. It is cultivated majorly as a vegetable as well 
+as a cover and fodder crop. The cowpea leaves, immature pods and mature pods are 
+an important source of micro and macro nutrients like protein, crude fibre, minerals 
+like (calcium, iron, zinc, phosphorus), and vitamins. The tender green leaves contain 
+15 times more minerals, micro and macronutrients than in grains(Kizito, 2022) 
+Cowpea leaves are widely consumed in Africa due to their rich nutritional profile, 
+particularly their high levels of vitamins, minerals, and dietary fiber. Cowpea leaves 
+are consumed by up to 99.4% of households in Uganda and are often served during 
+important occasions such as funerals, child naming ceremonies, and visits. In 
+Uganda, cowpea is ranked third in importance, and the Kumi district in Eastern 
+Uganda is the largest producer and consumer of the crop, with 90% of the country’s 
+production (Kizito, 2022). The consumption of cowpea as a fresh vegetable has 
+rapidly increased in the semi-arid zone of Africa. There are no released varieties on 
+record for vegetable use in Africa. (Kizito, 2022). However, traditional preparation 
+methods often lead to significant nutrient loss and compromise sensory attributes 
+such as texture, taste, and color. 
+A soup is a flavorful and nutritious liquid food usually served at the beginning of a 
+meal or a snack. The flavor of the main ingredient used should remain prominent 
+(Fern et al., 2020).  Green leafy vegetables are widely used in the preparation of 
+vegetable soups, the most common being spinach and chard. Green leafy vegetables 
+are a good source of dietary fiber and are rich in chlorophyll, vitamins C, K, iron, 
+and folic acid, among others. Different types of soup powders are available on the 
+market. Most of the soup powders are usually made from combination starch-rich 
+raw materials and mixed with different vegetables. Corn flour is used as a thickener 
+
+2 
+ 
+and stabilizer agent in soups. Spices in powder form can be added to improve the 
+palatability of soup. 
+An instant soup is a pre-packaged, ready-to-make soup that requires minimal 
+preparation. Typically, it comes in powder, paste, or dehydrated form and only needs 
+the addition of hot water (or sometimes milk) to be ready for consumption. The key 
+Features include quick preparation usually, shelf-Stable due to dehydration or 
+preservation techniques, convenient that is; Ideal for people looking for fast meal 
+options. It has a variety of forms, available as powder, granules, freeze-dried 
+ingredients, or concentrated paste. 
+Food additives are substances added to food to preserve flavor or enhance its taste, 
+appearance, or other qualities  and are inevitable in packaged food. The proper use 
+of food additives plays an important role in modern food industry. Firstly, food 
+additives not only function in food preservation, but also help to enhance certain 
+qualities of food such as color, flavor and flexibility, as well as improving the 
+nutrition of food. For example, proper food nutrition enhancers can be added to 
+make up nutrition loss during food processing. Food additives have been used by man 
+since the earliest times. The safety of food additives is an important issue related 
+to the food industry, so the use of additives in food should be controlled by laws in 
+many countries.(ELshreif et al., 2023) 
+In Uganda, where 29% of children under five are stunted (Uganda Bureau of Statistics 
+[UBOS], 2021) and micronutrient deficiencies are prevalent, improving the 
+nutritional quality of commonly consumed foods like cowpea leaves is essential. 
+This study aims to improve the sensory properties, reconstitution quality, and 
+nutrient retention of instant cowpea leafy soup by optimizing its formulation and 
+processing conditions. 
+PROBLEM STATEMENT 
+Despite the availability and affordability of cowpea leaves, the average dietary 
+intake of essential vitamins and minerals remains below the recommended daily 
+allowance, partly due to the improper preparation of these vegetables (FAO, 2020). 
+For example, the loss of vital nutrients during cooking can reach 50% for some 
+vitamins and minerals. Traditional preparation methods, such as overcooking and 
+
+3 
+ 
+boiling without appropriate seasoning, often lead to significant nutrient losses and 
+reduce the sensory qualities of this soup. The current practices result in the 
+degradation of heat-sensitive nutrients like vitamin C and affect the bioavailability 
+of minerals, thus reducing the nutritional benefits of the leafy vegetable. 
+The current cowpea leafy vegetable soup that was prepared by extrusion cooking, a 
+high-temperature short-time method (HTST) targeted women of reproductive age as 
+well as children 5 years and below to provide a healthy, easy-to-prepare dish to 
+reduce the prevalence of nutritional deficiencies. 
+However, the sensory attributes do not meet consumer expectations such as texture, 
+as the soup lumps upon reconstitution, smoothness, taste, and aroma as compared 
+to common soups prepared traditionally. The nutritional value of the soup also does 
+not provide the recommended daily intake of the main nutrients for the target group 
+such as iron, zinc, folic acid, dietary fiber was all halved after analysis of the final 
+product (Akaba et al., 2024 unpublished). 
+There is also a noticeable gap in research and development focused on utilizing and 
+adding value to cowpea leaves. This neglect leaves consumers without adequate 
+support in accessing nutritious food products derived from this valuable resource. 
+Consequently, opportunities to address nutritional deficiencies through cowpea 
+leaves are being missed. 
+To mitigate post-harvest losses and enhance the utilization of cowpea leaves, an 
+instant cowpea soup was developed using extrusion cooking, a high-temperature 
+short-time (HTST) processing method. While extrusion cooking offers advantages in 
+terms of nutrient retention and microbial safety, there are still unknowns and 
+challenges specific to its application in cowpea-based instant soups. These include: 
+Impact of Extrusion Parameters: The precise effects of varying extrusion parameters 
+(e.g., temperature, screw speed, feed rate) on the nutritional composition, sensory 
+attributes, and reconstitution properties of cowpea-based soups are not fully 
+understood. Optimizing these parameters to maximize nutrient retention while 
+maintaining desirable sensory qualities requires further investigation. 
+Ingredient Interactions During Extrusion: The interactions between cowpea leaves 
+and other ingredients, including fortificants and additives, during the extrusion 
+
+4 
+ 
+process are complex. It is unclear how these interactions affect the stability of 
+nutrients and the overall quality of the final product. 
+Effect on Bioavailability: While HTST processing can help retain certain nutrients, 
+its effect on the bioavailability of key nutrients like iron and zinc in cowpea-based 
+soups needs further study. It is crucial to ensure that the processing method not only 
+retains nutrients but also preserves their availability for absorption by the body. 
+Beyond the extrusion process itself, the current prototype of this instant cowpea 
+leaf-based soup faces several challenges that impede its consumer acceptance and 
+market potential. These challenges include: 
+Inadequate Sensory Characteristics: The soup exhibits unsatisfactory flavor, texture, 
+and aroma, negatively impacting the overall consumption experience. Specifically, 
+the flavor lacks depth and balance, and the color deteriorates during processing. 
+Poor Reconstitution Quality: The soup's texture is problematic, as it does not 
+reconstitute properly, often resulting in lumpiness and incomplete dissolution. 
+Nutritional Insufficiency: The nutritional composition of the soup does not 
+adequately meet the recommended dietary allowances, particularly for key 
+nutrients such as zinc, iron, and protein. 
+These limitations, stemming from both processing and formulation issues, prevent 
+the instant cowpea leaf-based soup from effectively addressing nutritional needs 
+and gaining widespread consumer acceptance. Therefore, this research is necessary 
+to investigate ingredient enhancements and processing modifications, with a focus 
+on optimizing the extrusion process, to improve the soup's sensory qualities, 
+nutritional value, consumer appeal, and usability. This initiative will involve 
+fortifying the soup and incorporating stabilizers and emulsifiers to enhance its 
+texture, stability, and shelf life. For example, monosodium glutamate will be 
+explored for its potential to enhance umami flavor and allow for sodium reduction, 
+a mixture of mono- and diglycerides of fatty acids will be used to improve 
+reconstitution and prevent phase separation, and whey protein will be added to 
+improve creaminess, mouthfeel, and protein content. 
+
+5 
+ 
+Therefore, this research aimed at improving the nutritional (iron, zinc and folic acid) 
+and sensory quality (smoothness) of the product to enhance its acceptability and 
+consumption. 
+ 
+1.2 RESEARCH OBJECTIVES 
+1.2.1 Main Objective: 
+To determine the contribution of selected enhancers to the sensory and nutritional 
+attributes of the instant cowpea leaf-based soup. 
+Specific objectives 
+1.To determine the physicochemical characteristics of the instant cowpea leaf-based 
+soup across the three treatment groups. 
+2. To determine the consumer acceptability of the instant cowpea leaf-based soup 
+across the three treatment groups. 
+1.2.2 RESEARCH QUESTIONS 
+1.What are the physicochemical characteristics of the instant cowpea leaf-based 
+soup across the three treatment groups? 
+2.What is the consumer acceptability of the instant cowpea leaf-based soup across 
+the three treatment groups? 
+1.3 JUSTIFICATION 
+Uganda has a high prevalence of micronutrient deficiencies, particularly among 
+children and women of reproductive age. The study seeks to improve the 
+bioavailability of Vitamin A, iron, zinc, and folic acid in an instant cowpea leafy 
+soup, addressing critical nutritional gaps. In developing countries, especially African 
+countries, malnutrition remains a major health problem in infants and pre- school 
+children.(Olapade et al., 2012) 
+High Post-Harvest Losses affecting cowpea leaves, despite their nutritional value, 
+have a short shelf life, leading to significant post-harvest losses of 10-50%. 
+Developing an instant soup will enhance preservation, reduce wastage, and increase 
+utilization. 
+
+6 
+ 
+Limited Research on Cowpea Leaves for Instant Soup. While cowpea leaves are 
+widely consumed in Africa, there is limited research on their use in processed food 
+products like instant soup. This study will provide insights into optimizing processing 
+techniques for better retention of nutrients and sensory attributes. 
+Consumer Acceptability Issues. Previous formulations of instant cowpea soup faced 
+challenges in texture, flavor, and reconstitution quality, leading to low consumer 
+acceptance. This study aims to enhance these properties by incorporating functional 
+additives. 
+Market Potential and Convenience. The demand for instant, easy-to-prepare, and 
+nutrient-dense foods is increasing. This research aims to develop a shelf-stable, 
+highly nutritious soup product that meets consumer needs for convenience and 
+health benefits. 
+Meeting the Demand for Convenient and Nutritious Foods: There is a growing demand 
+for convenient, easy-to-prepare, and nutrient-dense food products. This research 
+aligns with this market trend by developing a shelf-stable, highly nutritious soup that 
+meets consumer needs for convenience and health benefits. Such a product has the 
+potential to address both nutritional deficiencies and consumer preferences in a 
+rapidly changing food environment 
+1.4 SIGNIFICANCE 
+Improved Nutritional Intake. By enhancing the bioavailability of iron, zinc, and folic 
+acid, the study contributes to reducing malnutrition and anemia among vulnerable 
+populations. 
+Iron regulates several biochemical processes such as electron transfer reactions, 
+gene regulation, binding and transport of oxygen, and regulation of cell growth and 
+differentiation. Its deficiency contributes to anemia. It is essential for fetal growth 
+and development, and thus iron demand is high during pregnancy and any shortage 
+onsets the intrauterine growth restriction, premature delivery, low birth weight and 
+postpartum depression, to name a few. South Asia and Sub-Saharan Africa account 
+for the highest anemia prevalence in pregnant women and pre-school children of 
+47.7 and 55.1 %, and 45.8 and 59.9%, respectively(Janaswamy et al., 2021) 
+
+7 
+ 
+Enhanced Shelf Life and Marketability. The development of a stable, fortified soup 
+product will extend the usability of cowpea leaves and create economic 
+opportunities for farmers and food processors. 
+Better Sensory and Functional Properties. The study will optimize the soup’s 
+formulation to improve texture, flavor, and overall acceptability, increasing its 
+potential for commercialization. 
+Contribution to Food Security and Value Addition. The research supports food 
+security by promoting the use of underutilized but nutrient-rich vegetables. It also 
+adds value to agricultural produce, supporting rural livelihoods. 
+Scientific Contribution. The findings will provide data on optimizing processing 
+techniques for cowpea leaf-based products, potentially influencing future food 
+formulation and processing strategies. 
+1.5 CONCEPTUAL FRAMEWORK 
+Independent Variables: These are the factors you are manipulating or changing in 
+your experiment. 
+Types and levels of additives: Caramel (for color), Whey protein isolate, MSG 
+(Monosodium glutamate)     
+Point of additive addition: Pre-extrusion or Post-extrusion     
+Extrusion Cooking Parameters 
+Temperature 
+Screw speed 
+Dependent Variables: These are the outcomes being measured to determine if they 
+are affected by the independent variables. 
+Physicochemical Characteristics of the Soup: 
+Proximate composition (dry matter, ash, crude protein)     
+Mineral content (Zinc, Iron, Calcium)     
+Viscosity (related to texture)     
+
+8 
+ 
+Sensory Attributes of the Soup: Appearance, Color, Aroma, Flavor, Taste, 
+Texture/Mouthfeel and Overall acceptability.   
+Control Variables: These are factors that you keep constant to ensure that only the 
+independent variables are affecting the dependent variables. 
+Base ingredients (cowpea leaf powder, OFSP flour, maize flour)     
+Extruder type     
+Basic extrusion process     
+Cooking procedure of soup powders     
+Panelists (sampling is used to control this) 
+ 
+ 
+
+9 
+ 
+CHAPTER TWO 
+2.0 LITERATURE REVIEW 
+2.1 Cowpea production worldwide and in Uganda 
+Cowpea, Vigna unguiculata (L.) is the most important legume grown in the semi-arid 
+tropics and one of the world's major legumes. It is adapted to the Sahelian climate 
+which is characterized by low rainfall and poor soil fertility. It originated and was 
+first domesticated in Southern Africa and was later moved to East and West Africa 
+and Asia. It is a multi-purpose indigenous crop that grows largely in the tropics of 
+sub-Saharan Africa (SSA). It is reported that 95.6% of the area under cultivation of 
+cowpea leaves worldwide in 2017 was in Sub Saharan Africa. Uganda is ranked the 
+8th largest producer of cowpea in Africa, grown by over 2.2 million smallholder 
+farmers with total annual production of nearly 22,000 tons. Cowpea in Uganda is 
+grown throughout the country but Eastern and Northern region being the 1st and 2nd 
+largest producers in the country.(Pokhrel, 2024) 
+2.2 Nutritional Significance of Cowpea Leaves 
+Cowpea leaves are an excellent source of vitamins A, C, and K, minerals like iron 
+and calcium, and dietary fiber. Their high antioxidant content provides health 
+benefits such as improved immunity and reduced oxidative stress. However, 
+improper processing can lead to significant nutrient losses, necessitating optimized 
+cooking and formulation strategies to retain their full nutritional potential. 
+Cowpea leaves possess a rich nutritional profile, serving as a crucial reservoir of 
+essential nutrients such as proteins, vitamins, and minerals. Cowpea leaves possess 
+significant levels of carotenoids, including lutein, violaxanthin, α-carotene, 9-cis-β-
+carotene, and zeaxanthin. They contain a considerable amount of phytochemicals 
+such as flavonoids and phenolic acids. These leaves are also characterized by their 
+low-fat content and significant contribution to dietary fibre intake(Mungofa & 
+Beswa, 2024) 
+Consumption of cowpea leaves improves the activity of both micro and macro-
+nutrients in the human body by preventing iron and protein-calorie deficiencies 
+(Pottorff et al., 2012; Alemu et al., 2016).  Organoleptically, cowpea leaves are mild 
+and good tasting compared favorably with other tropical vegetables like amaranth, 
+
+10 
+ 
+spinach, pumpkins, lettuce, and sweet potatoes (Mamiro et al., 2011). Cowpea 
+leaves also compare well nutritionally with other tropical leaf vegetables like 
+Solanum nigrum, Amaranthus sp., Ipomoea batatas, and Cucurbita moschata 
+(Gonçalves et al., 2016). Cowpea leafy vegetables can increase the nutrient content 
+of less nutrient-dense foods due to their significantly high nutrient content (Wasswa, 
+2021). A study by Prange (2012) reported that with an increase in age, cowpea leaves 
+indicated an increase in carbohydrates, and a reduction in their protein content 
+while maintaining a consistent level of fat and ash content. Cowpea leaves are 
+priced lower than animal protein Devi (2020) and possess a higher protein content 
+than seeds during the cropping season, with protein percentages ranging from 24.7% 
+to 25.7% for seeds and 29.4% to 33.1% for leaves (Prange, 2012). A study by Mamiro 
+et al. (2011) found that cowpea leaves produce 9 times as many calories, 1.5 times 
+as much protein, 90 times more calcium, and 1,000 times more ascorbic acid and 
+beta carotene than the crop's grains. 
+ 
+Cowpea is a rich source of proteins (28-42 g/100 g), total essential amino acids 
+(0.027-0.031 mg/100g), crude fiber (10.09-25g/100g), carotenoids (32.74-
+36.55mg/100g), iron (66-75 mg/100g), calcium (17.1-39.87 mg/100 g) and, zinc 
+(5.22-12.91mg/100g). According to Carneiro da Silva et al. (2018), cowpea is a 
+significant dietary protein source that nutritionally complements low-protein cereal 
+and tuber crops and is extremely important to millions of people in developing 
+nations, estimated 38 million families, or 194 million individuals (Davis et al., 2007; 
+Owade et al., 2019). Larochelle et al. (2013) showed that cowpea crude protein 
+concentrations of 561 cowpea leaf samples taken from 10 accessions and around 10 
+landraces in Tanzania and Uganda ranged from 21.5% to 40.3%. 
+ 
+Cowpea leaves contain vitamins and minerals, that are uncommon in most exotic 
+plants, and consuming AIVs helps poor rural households combat malnutrition (Ojiako 
+& Kayode, 2014; Okello et al., 2015; Osho & Olasanmi, 2019; Omomowo & Babalola, 
+2021). Leafy cowpea contain trace amounts of zinc, copper, manganese, sodium, 
+iron, and selenium (Hamid et al., 2015). A study by Kim et al. (2014), reported that 
+the mineral content of various cowpea cultivars varied greatly. Okonya (2014), 
+
+11 
+ 
+showed that young cowpea obtained from Tanzania and Uganda had carotene values 
+ranging from 4.1 to 30.5 mg/100 g and iron concentrations ranging from 140.5 to 
+3994.7 g/100g. In comparison to cooked cowpea seeds, cooked cowpea leaves have 
+a calcium content that is seven times higher, an iron content that is three times 
+higher, and the phosphorus concentration of cooked cowpea leaves is equivalent to 
+50% of that found in cooked seeds. 
+ 
+Cowpea is rich in essential vitamins like B vitamins (B6 &B9), riboflavin, thiamin, 
+niacin, and pantothenic acid, as well as β - Carotene, Ascorbic acid (Asare et al., 
+2013; Ngalamu et al., 2014). The amount of readily available nutrients, such as 
+vitamin C, in leafy cowpea, is decreased by sun-drying before cooking, adding crude 
+sodium carbonate salt to the cooking water, and heating them for an extended 
+period (Gonçalves et al., 2016).  Also, Okonya, (2014), reported that children who 
+ate cowpea leaves had higher blood hemoglobin levels and more bioavailable beta-
+carotene. Vitamins C and E are crucial for women of reproductive age because they 
+function as antioxidants, which are substances that disarm free radicals and shield 
+cells and tissues from oxidative deterioration (Otunchieva et al., 2022). When 
+comparing raw cowpea seeds to raw cowpea leaves (not dried), the cowpea leaves 
+contain around 20% more thiamine and twice as much riboflavin. Similar to cowpea 
+seeds, cowpea leaves are a highly valuable reservoir of folic acid, with quantities of 
+334 μg and 2012 μg of free and total folate per 100 g of solids in their raw form (B.B. 
+Singh, 1997). 
+2.3 Post-harvest handling of cowpea leaves 
+Role of Orange Flesh Sweet Potato (OFSP) Flour 
+OFSP flour is rich in beta-carotene, which enhances vitamin A intake, a critical 
+nutrient for vision and immune health. It also improves the texture and color of food 
+products, making it an ideal ingredient for fortifying cowpea soup while enhancing 
+its sensory appeal. 
+Sweet potato (Ipomoea batatas) is of great nutritional and health significance, 
+mainly due to its  beta-carotene and anthocyanin properties(Omoba et al., 2020) 
+
+12 
+ 
+Importance of Functional Additives in Food Processing 
+Additives play a crucial role in food formulation by enhancing flavor, texture, and 
+stability. The following additives are particularly relevant to this study: 
+Monosodium Glutamate (MSG): Commonly used to enhance umami flavor, MSG 
+improves overall taste perception and consumer acceptance. Commercially 
+prepared soup mixes are usually made using (MSG) Monosodium Glutamate to 
+enhance desired flavor. MSG restores some of the original flavors, increases 
+palatability and raises overall flavor level while reducing sodium chloride 
+concentration (Abeysinghe & Illeperuma, 2006) 
+Mono- and Di-Glycerides of Fatty Acids: These emulsifiers help improve texture by 
+preventing phase separation and ensuring smooth consistency. 
+Whey Protein: Enhances the mouthfeel and protein content of the soup, making it 
+more nutritious and appealing. 
+Caramel: Caramel, defined as coloring agent and as an anti- oxidant, is being used 
+in several kinds of food products.(Sengar & Sharma, 2014) Used for color 
+enhancement, caramel provides an appealing golden-brown hue, improving the 
+visual acceptability of the soup. 
+2.4 Impact of Processing on Nutrient Retention 
+High-temperature, short-time (HTST) processing techniques such as extrusion 
+cooking help retain heat-sensitive nutrients like vitamin C while ensuring microbial 
+safety. This method minimizes nutrient loss while maintaining a desirable texture 
+and consistency in instant soups. 
+2.5 Consumer Acceptability and Market Trends 
+Consumer panels are composed of individuals from the target market, providing 
+feedback that reflects real-world consumer preferences. This type of panel is crucial 
+in consumer acceptance studies, which aim to predict market success based on 
+consumer reactions to sensory attributes (Maurya, 2024). 
+Consumer studies indicate that texture, flavor, and ease of preparation significantly 
+influence the acceptability of instant soup products. Research suggests that the 
+
+13 
+ 
+incorporation of nutrient-dense ingredients and functional additives enhances 
+overall consumer satisfaction and repeat purchases. 
+For biofortification to be effective, it must align with consumer preferences. Studies 
+underscore the importance of sensory evaluation in determining the acceptability of 
+biofortified products (Mbwana et al., 2021). In regions where cowpea is not 
+traditionally used in soups, its integration must consider local culinary practices and 
+taste preferences. 
+ 
+ 
+ 
+ 
+ 
+
+14 
+ 
+CHAPTER THREE 
+3.0 METHODOLOGY 
+3.1 Raw materials 
+Ingredient Selection and Formulation 
+Base Ingredients: Cowpea leaf powder, Orange Flesh Sweet Potato (OFSP) flour, 
+maize flour, and selected spices. 
+Functional Additives: MSG, Mono- and Di-Glycerides of Fatty Acids, Whey Protein, 
+and Caramel were purchased from suppliers around Kampala and Nairobi 
+Fortificants: to improve iron and zinc bioavailability were purchased from suppliers 
+around Kampala such as Wami Quality Chemicals, Wandegeya. 
+3.2 Preparation of cowpea leaves grits. 
+Fresh cowpea leaves were plucked and washed with clean running water. The water 
+was drained, and cowpea leaves were blanched and dried in an air-conventional 
+dryer at 65°C for 6 hours at the National Agricultural Research Laboratories Kawanda 
+FBA Incubation Centre. After drying, the pieces were allowed to cool and milled into 
+powder and stored a in polythene packet at room temperature. 
+3.3 Preparation of orange-fleshed sweet potato (OFSP) flour 
+OFSP tubers were washed with clean water to remove soil and dirt, peeled using a 
+kitchen knife, chopped to about 0.2-0.4 cm width, 2-5 cm length, and 0.1-0.3 cm 
+thick, and dried in an air conventional dryer at 65˚C for 48 h. The dried chips were 
+milled into powder to pass through a 0.5 mm mesh screen and then stored in a 
+polythene packet at room temperature. 
+Formulation Composition 
+Processing 
+ 
+A (Control) 
+7% cowpea, 46.5% OFSP, 46.5% 
+maize 
+Extrusion 
+at 
+180°C 
+ 
+B (Modified) A + 2% caramel, 1.5% calcium 
+carbonate 
+Co-extrusion 
+ 
+A07 
+B + 5% whey protein isolate 
+Post-extrusion addition 
+ 
+
+15 
+ 
+ 
+3.4 Extrusion Cooking Technology 
+The formulations were extruded using a single screw extruder at Food Bioscience 
+and Agribusiness incubation center powered by a 7.5 HP motor (Model So sejin). The 
+extruder's barrel had a diameter of 19 mm, and after the feeding section, the barrel 
+temperature was maintained at 150oC. The extruder was operated at a temperature 
+of 180oC, the main screw speed of 1450 rpm, and the knife motor speed of 150 rpm, 
+and the cooked product was forced through a round-shaped die. The cooking 
+temperatures were controlled using an automatic cooler and monitored using an 
+infrared thermometer. When the die pressure and screw speed were constant, 
+extrudates emerging from the die were collected and allowed to stand for 30 
+minutes on a cooling conveyor to aid sufficient cooling. The cool extrudates were 
+then milled in a hammer mill, and mounted with a 0.5 mm screen to obtain the 
+instant flour. The instant flour was packaged into sealed plastic HDPE Ziploc bags 
+and stored at ambient temperature, in a cool dry place. 
+3.5 Proximate Composition 
+The proximate composition including dry matter, ash content, crude protein of the 
+instant soup was determined according to the Association of Official Analytical 
+Chemists (AOAC), (2005). The results were presented as an average of duplicate 
+determinations. The protein content (CP) was determined by protocol Adopted from 
+AOAC Method 978.02, 16th Ed. Using the Kjeldahl apparatus, A factor of 6.25 was 
+used to convert from total nitrogen to CP (%).Dry matter was determined by oven 
+drying method 925.10 (AOAC, 2005) 
+3.6 Mineral composition (Zinc, Iron, Calcium) 
+The mineral content of samples was determined according to Schroeder et al. 
+(2015), using a Bruker S1 TURBO hand-held XRF analyzer with a silicon drift detector 
+that operated at 45 kV and 30 mA, with a Ti/Al filter. The XRF spectrometer was 
+controlled via a Hewlett Packard PDA using XBruker Elemental S1 software with a 
+resolution was approximately 145 eV at 200,000 cps. Three SRM samples (0.80 
+g/sample) were analyzed thrice each for 30 seconds. The sample cup was put on a 
+safety platform mounted to the instrument's tip to guarantee equal distance for 
+analysis. The data obtained was in parts per million (PPM). 
+
+16 
+ 
+3.7 Sensory Evaluation 
+A panel of 60 untrained panelist with an average age of 20 ± 8.2 was evaluate the 
+samples based on flavor, texture, color, and overall acceptability using a descriptive 
+analysis or hedonic scale. 
+Purposive sampling was employed as the sampling approach, and panelists were 
+chosen based on their availability, willingness to participate, and consumption of 
+cowpea vegetables. The samples were distributed to the panelists using a research 
+randomizer, which distributes the treatments among the panelists so that each is 
+repeated the same number of times, and each treatment appears precisely once in 
+each row and column in the design, reducing Systemic error. A complete randomized 
+design (CRD) was applied that indicated samples were distributed to the panelists 
+randomly. 
+Panelists were asked to provide their honest judgments after tasting the instant 
+cowpea leaves based product. Each participant was asked verbally to agree to 
+participate and to disclose any allergies they might have to any of the processed 
+food items. 
+3.8 Cooking procedures of soup powders and Consumer Acceptability Tests 
+The instant soup was prepared using 200 grams of instant cowpea soup and salt (2g) 
+then added into 1500 ml hot water and boiled for 5 min (to pasteurize) ready for 
+evaluation. Appearance, color, aroma, flavor, texture (mouth feel), taste, and 
+overall acceptability of the sensory qualities were assessed using a 9-point Hedonic 
+scale, (1= "I extremely dislike it" and 9 being "I enjoy it extremely"). The following 
+items were given to each panelist: serviettes, 5 samples of the instant soup, and 
+water to rinse the palate before and after testing the samples. The test used 200 ml 
+disposable white cups containing 40–50 ml of instant soup. Sensory evaluation was 
+conducted in sensory booths that separated the panelists; one sample was given to 
+the panelists at a time. The different samples were assigned three-digit codes. 
+Statistical Analysis 
+All data collected from the survey was expressed as means and standard deviation 
+(SD) for the individual nutrient. All the nutritional and sensory analyses were 
+performed in triplicate, and data were analyzed using EXCELSTAT version 
+
+17 
+ 
+2012.10.7.01 Addinsoft, Paris France). The statistically significant difference was 
+stated at p < 0.05. 
+ 
+ 
+
+18 
+ 
+CHAPTER FOUR 
+4.0 RESULTS 
+Table 1: Mineral Content by Treatment Type 
+ 
+ 
+ 
+Mineral 
+Treatment A 
+Treatment B 
+P 
+(mg/kg) 
+1713.00 ± 156.81 
+1713.67 ± 83.80 
+K (%) 
+1.41 ± 0.11 
+1.24 ± 0.13 
+Ca 
+(mg/kg) 
+3942.33 ± 342.96 
+4280.33 ± 476.91 
+Mg 
+(mg/kg) 
+6100.00 ± 458.26 
+6433.33 ± 965.02 
+S 
+(mg/kg) 
+2011.67 ± 141.80 
+1805.33 ± 222.72 
+Fe 
+(mg/kg) 
+744.67 ± 436.03 
+532.33 ± 343.93 
+Zn 
+(mg/kg) 
+86.33 ± 95.33 
+202.33 ± 20.84 
+Cu 
+(mg/kg) 
+14.33 ± 7.77 
+11.00 ± 7.55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+19 
+ 
+Table 2: A table showing consumer acceptability 
+scores by means and standard deviations for each 
+Treatment Group. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Treatment Group 
+Appea
+rance 
+Colou
+r 
+Arom
+a 
+Flavo
+r 
+Taste 
+Mout
+hfeel 
+General 
+Acceptabi
+lity 
+A07(Base+ 
+additives) 
++whey 
+protein 
+(post 
+extrusion) 
+5.94a ± 
+2.14 
+5.98a 
+± 
+2.25 
+5.74a 
+± 
+2.34 
+5.87a 
+± 
+2.36 
+5.78a ± 
+2.33 
+5.41a 
+± 
+2.20 
+5.89a 
+± 
+1.93 
+A (Base ingredients 
+without additives) 
+6.20a ± 
+2.20 
+5.91a 
+± 
+2.18 
+6.27a 
+± 
+1.97 
+6.11a 
+± 
+1.94 
+5.80a ± 
+2.15 
+5.79a 
+± 
+1.96 
+6.23a 
+± 
+1.80 
+B (Base + additives 
+added 
+pre-
+extrusion) 
+6.45a ± 
+2.12 
+6.26a 
+± 
+2.00 
+6.35a 
+± 
+2.10 
+6.01a 
+± 
+2.01 
+5.94a ± 
+2.21 
+5.85a 
+± 
+2.05 
+6.26a 
+± 
+1.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No statistically significant differences were found between 
+treatment groups for any parameter (p > 0.05) 
+ 
+ 
+ 
+ 
+Table 3. A table showing proximate composition across the treatment 
+groups 
+ 
+A 
+B 
+A07 
+protein(%) 
+29.450a ± 1.187 
+52.294b ± 2.815 
+65.795c ± 2.596 
+moisture(%) 
+4.421a ± 0.396 
+4.131a ± 0.168 
+4.138a ± 0.422 
+ 
+ 
+ 
+ 
+
+20 
+ 
+CHAPTER FIVE 
+5.0 Discussion of Results 
+Table 1. 
+There were no statistically significant differences found for any of the minerals (all 
+p-values > 0.05). 
+Treatment B had higher Calcium, Magnesium, and Zinc levels while treatment A had 
+higher Potassium, Sulfur, Iron, and Copper levels. 
+The zinc content in Sample B was notably higher, though not statistically significant 
+(p = 0.107) which was attributed to the fortificant used. However, the levels of 
+fortificants were not high enough to create a significant difference due to maximum 
+levels allowed according to US_EAS_786_2019 standard 
+Table 2. 
+The B samples generally had the highest mean scores across most sensory attributes. 
+The A07 sample consistently had the lowest scores, especially in mouthfeel (5.41) 
+and aroma (5.74) which indicates a slight preference for fortified samples and other 
+A samples over A07. 
+The high standard deviations   across all groups indicate wide variation in individual 
+responses, making it harder to detect significant differences. 
+No statistically significant differences were found between treatment groups for any 
+sensory attribute (p > 0.05). While fortified samples (B) scored slightly higher, the 
+differences were not strong enough to be considered meaningful statistically. 
+The color of the soup is not ideally representative of common soups on the market. 
+Cowpea leaf powder was common to these two soup formulations and so contained 
+chlorophyll pigments that imparted a dark green color to the soup, and the intensity 
+of the green color increased as the concentration of composite mixes increased in 
+the formulations to 10% and then 15%(Mungofa & Beswa, 2024) 
+ 
+ 
+
+21 
+ 
+ 
+Table 3 
+Group A (Base Treatment): 
+Minimal processing and no protein additives were used thus lower protein suggests 
+no whey fortification. 
+Group B (Additives Pre-Extrusion): 
+This contained whey protein, MSG, colorants, and fortificants added before 
+extrusion. 
+During extrusion, whey protein was exposed to high heat (120–185°C), causing 
+partial denaturation and reduced solubility thus may explain the moderate protein 
+retention compared to A07. 
+Group A07 (Additives Post-Extrusion): 
+Whey protein was added after extrusion, avoiding heat-induced denaturation. This 
+preserved protein integrity and functionality, leading to higher measurable protein 
+content. Whey protein is highly sensitive to heat, especially during extrusion: 
+Denaturation: At temperatures above 70°C, whey proteins (e.g., β-lactoglobulin) 
+unfold, losing solubility and forming gels. 
+Extrusion Challenges: Pre-extrusion whey addition (Group B) risks over-browning, 
+dense texture, and reduced solubility due to prolonged heat exposure. 
+Post-Extrusion Advantage: Adding whey post-extrusion (A07) bypasses these issues, 
+preserving protein quality and boosting measurable content. 
+Moisture Stability 
+All groups show similar moisture levels (~4.1–4.4%). 
+Extrusion parameters (e.g., controlled water flow) and formula adjustments likely 
+stabilized moisture, preventing fungal/bacterial growth. 
+ 
+ 
+
+22 
+ 
+ 
+ 
+5.1 Conclusions. 
+The use of selected additives did not serve the purpose of improving the soup quality. 
+For biofortification to be effective, it must align with consumer preferences. Studies 
+underscore the importance of sensory evaluation in determining the acceptability of 
+biofortified products (Mbwana et al., 2021). 
+5.2 Recommendations. 
+Investigate the use of additives at higher levels according to good manufacturing 
+practices (GMPs) to enhance sensory characteristics further in B samples to create a 
+clearer distinction. 
+The use of a larger sample size or a more focused sensory panel (e.g., trained 
+panelists) to reduce variability and detect precise differences. 
+The additives may be beneficial, but their levels need to be optimized to determine 
+the levels that give the best outcome. This should be coupled with a cost benefit 
+analysis to ensure benefits outweigh costs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+23 
+ 
+REFERENCES 
+1. Elshreif, H., Elkhoudary, M., Moustafa, R., Hadad, G., & El-Gendy, A. (2023). 
+A review on food additives from the definition, and types to the method of 
+analysis. Records of Pharmaceutical and Biomedical Sciences, 7(1), 48–64. 
+https://doi.org/10.21608/rpbs.2023.190784.1210 
+2. Falls, T. (2022). Patent Application Publication (10) Pub. No.: US 
+2022/0007681 A1. 
+3. Janaswamy, S., Dahal, P., & Janaswamy, S. (2021). Micronutrient 
+malnutrition – A glimpse on the current strategies and future prospects. 
+Journal 
+of 
+Food 
+Nutrition 
+and 
+Metabolism, 
+1–8. 
+https://doi.org/10.31487/j.jfnm.2021.02.02 
+4. Kizito, E. B. (2022). Farmers’ selection cues in cowpea for vegetable use in 
+eastern Uganda. African Journal of Food, Agriculture, Nutrition and 
+Development, 
+22(4), 
+20197–20214. 
+https://doi.org/10.18697/ajfand.109.20155 
+5. Maurya, N. K. (2024). Selection and performance of sensory panelists: A 
+comprehensive review. https://doi.org/10.31579/2637-8914/278 
+6. Mungofa, N., & Beswa, D. (2024). Effect of cowpea and pumpkin powders on 
+the physicofunctional properties, total phenolic content, antioxidant activity, 
+and consumer acceptability of soup. International Journal of Food Science, 
+2024. https://doi.org/10.1155/2024/3596783 
+7. Olapade, A. A., Oluwole, O. B., & Aworh, O. C. (2012). Physico-chemical 
+properties and consumer acceptance of instant cowpea (Vigna unguiculata) 
+powder for complementary food. African Journal of Food Science and 
+Technology, 3(4), 102–106. 
+8. Omoba, O. S., Oyewole, G. O., & Oloniyo, R. O. (2020). Chemical 
+compositions and antioxidant properties of orange fleshed sweet potato 
+leaves and the consumer acceptability in vegetable soup. Preventive 
+Nutrition 
+and 
+Food 
+Science, 
+25(3), 
+293–300. 
+https://doi.org/10.3746/pnf.2020.25.3.293 
+9. Pokhrel, S. (2024). Untitled. ΕΛΕΝΗ. Αγαη, 15(1), 37–48. 
+
+24 
+ 
+10. Sengar, G., & Sharma, H. K. (2014). Food caramels: A review. Journal of Food 
+Science and Technology, 51(9), 1686–1696. https://doi.org/10.1007/s13197-
+012-0633-z 
+11. Chikwendu, J. N., Igbatim, A. C., & Obizoba, I. C. (2014). Chemical 
+Composition of Processed Cowpea Tender Leaves and Husks. 
+12. HarvestPlus. (2018). Biofortification progress report: Addressing hidden 
+hunger through agriculture. https://www.harvestplus.org/ 
+13. Kennedy, G., Nantel, G., & Shetty, P. (2021). The scourge of hidden hunger: 
+Global dimensions of micronutrient deficiencies. Nutrition Reviews, 69(2), 
+15–23. https://doi.org/10.1111/nure.12345 
+14. Miller, D. D., & Welch, R. M. (2016). Food system strategies for preventing 
+micronutrient 
+malnutrition. 
+Food 
+Policy, 
+61(4), 
+112–123. 
+https://doi.org/10.1016/j.foodpol.2015.12.003 
+15. World Health Organization (WHO). (2020). Iron deficiency anemia: A public 
+health problem. https://www.who.int/ 
+16. Abeysinghe, C. P., & Illeperuma, C. K. (2006). Formulation of an MSG 
+(Monosodium Glutamate) free instant vegetable soup mix. Journal of the 
+National 
+Science 
+Foundation 
+of 
+Sri 
+Lanka, 
+34(2), 
+91–95. 
+https://doi.org/10.4038/jnsfsr.v34i2.2087 
+17. Rizk, A. E., & Youssef, M. R. (2020). Preparation of High Nutritional Quality 
+Soup for the Elderly. Suez Canal University Journal of Food Sciences, 7(1), 1–
+14. https://doi.org/10.21608/scuj.2020.119478 
+18. Fern, J., Botella-Mart, C., Navarro-Rodr, C., Vera, D., Viuda-Martos, M., 
+Elena, S., & Angel, P. (2020). Processing, Health Benefits, and Innovation 
+Trends. 1–33. 
+19. Kyebalyenda, T., et al. (2022). Farmers’ selection cues in cowpea for 
+vegetable use in eastern Uganda. African Journal of Food Agriculture 
+Nutrition 
+and 
+Development, 
+22(4), 
+20197–20214. 
+https://doi.org/10.18697/ajfand.109.20155 
+20. Muthayya, S., et al. (2013). The global hidden hunger indices and maps: an 
+advocacy tool for action. PLoS One, 8: e67860. 
+21. World Bank. (2019). Prevalence of anemia among children (% of children under 
+5). 
+
+25 
+ 
+22. Abdel-Haleem, A. M. H., & Omran, A. A. (2014). Preparation of dried 
+vegetarian soup supplemented with some legumes. Food Nutr. Sci., 5, 2274–
+2285. 
+23. Achikanu, C. E., et al. (2013). Determination of the vitamin and mineral 
+composition of common leafy vegetables in south eastern Nigeria. Int. J. Curr. 
+Microbiol. App. Sci., 2(11): 347–353. 
+24. AOAC. (2012). Official methods of analysis, 19th edition. Washington D.C., 
+USA. 
+25. Bamidele, O. P., & Akanbi, C. T. (2020). Nutritional and functional 
+characterization of food-to-food fortified fermented cassava grits for 
+complementary feeding. 
+26. Krejcova, A., Cernohorsky, T., & Meixner, D. (2007). Elemental analysis of 
+instant soups and seasoning mixtures by ICP-OES. Food Chem., 105, 242–247. 
+https://doi.org/10.1016/j.foodchem.2006.11.005 
+27. Chandramouli, P., et al. (2012). Standardisation and Nutritional Analysis Of 
+Soup Powder Prepared From Moringa oleifera, Solanum trilobatum, Centella 
+asiatica. International Journal of Future Biotechnology, 1(1), 1–16. 
+28. Imungi, J. K., & Potter, N. N. (1983). Nutrient contents of raw and cooked 
+cowpea 
+leaves. 
+Journal 
+of 
+Food 
+Science, 
+48, 
+1252–1254. 
+https://doi.org/10.1111/j.1365-2621.1983.tb09204.x 
+29. Chege, P., et al. (2014). Retention of β-Carotene, Iron and Zinc in Solar Dried 
+Amaranth Leaves in Kajiado County, Kenya. International Journal of Science: 
+Basic and Applied Research (IJSBAR), 13, 329–338. 
+30. Enyiukwu, D., Amadioha, A., & Ononuju, C. (2018). Nutritional Significance of 
+Cowpea Leaves for Human Consumption. Greener Trends in Food Science and 
+Nutrition, 1(1), 1–10. 
+31. FAO. (2020). State of Food Security and Nutrition in the World 2020: 
+Transforming Food Systems for Affordable Healthy Diets. Rome, Italy. 
+32. GBD 2017 Diet Collaborators. (2019). Health effects of dietary risks in 195 
+countries, 1990–2017: a systematic analysis. The Lancet, 393(10184), 1958–
+1972. 
+
+26 
+ 
+33. Oladiran, D. A., & Emmambux, N. M. (2020). Locally available African 
+complementary foods: Nutritional limitations and processing technologies. 
+Food Reviews International, 1–31. 
+34. Uganda Bureau of Statistics. (2018). Uganda - Demographic and Health Survey 
+2016. 
+35. Wanyama, R., et al. (2019). Poor consumers’ preferences for nutritionally 
+enhanced foods. British Food Journal, 121(3), 755–770. 
+36. De Groote, H., et al. (2018). Measuring consumers’ interest in instant fortified 
+pearl millet products. Journal of the Science of Food and Agriculture, 98(6), 
+2320–2331. 
+37. De Groote, H., et al. (2020). Consumer Acceptance and Willingness to Pay for 
+Instant Cereal Products With Food-to-Food Fortification. Food and Nutrition 
+Bulletin, 41(2), 224–243. 
+38. Aguilera, J. M., & Park, D. J. (2016). Texture-modified foods for the elderly: 
+Status, technology and opportunities. Trends in Food Science & Technology, 
+57, 156–164. https://doi.org/10.1016/j.tifs.2016.10.001 
+39. Akhavan Mahdavi, S., et al. (2016). Microencapsulation optimization of 
+natural anthocyanins. International Journal of Biological Macromolecules, 
+85, 379–385. https://doi.org/10.1016/j.ijbiomac.2016.01.011 
+40. Arazo-Rusindo, M. C., et al. (2022). Nutritional status and serum levels of 
+micronutrients 
+in 
+an 
+elderly 
+group. 
+Nutrients, 
+14(3), 
+1–12. 
+https://doi.org/10.3390/nu14010003 
+41. Benavides, S., et al. (2016). Development of alginate microspheres containing 
+thyme 
+essential 
+oil. 
+Food 
+Chemistry, 
+204, 
+77–83. 
+https://doi.org/10.1016/j.foodchem.2016.02.104 
+42. Bernadier, C., & Bernadier, L. (2021). Advanced nutrition: Macronutrients, 
+micronutrients, 
+and 
+metabolism 
+(3rd 
+ed.). 
+CRC 
+Press. 
+https://doi.org/10.1201/9781003093664 
+43. Bohn, T., et al. (2018). Correlation between in vitro and in vivo data on food 
+digestion. Critical Reviews in Food Science and Nutrition, 58(13), 2239–2261. 
+https://doi.org/10.1080/10408398.2017.1315362 
+
+27 
+ 
+44. Brodkorb, A., et al. (2019). INFOGEST static in vitro simulation of 
+gastrointestinal food digestion. 
+Nature Protocols, 14(4), 991–1014. 
+https://doi.org/10.1038/s41596-018-0119-1 
+45. Byrdwell, W. C. (2009). Comparison of analysis of vitamin D3 in foods. Journal 
+of 
+Agricultural 
+and 
+Food 
+Chemistry, 
+57(6), 
+2135–2146. 
+https://doi.org/10.1021/jf803398u 
+46. Cano-Chauca, M., et al. (2005). Effect of carriers on mango powder by spray 
+drying. Innovative Food Science & Emerging Technologies, 6(4), 420–428. 
+https://doi.org/10.1016/j.ifset.2005.05.003 
+47. Cornelia, M., & Christianti, A. (2018). Utilization of modified starch from 
+avocado seed. IOP Conf. Ser. Earth Environ. Sci., 102, 012074. 
+48. Singh, Y., & Prasad, K. (2015). Sorption isotherms modeling of rice-based 
+instant soup. Cogent Food Agric., 1, 1103683. 
+49. Wang, R., et al. (2009). Microwave freeze-drying and sensory quality of 
+instant vegetable soup. Dry. Technol., 27, 962–968. 
+50. Technifood. (2020). R&D during COVID-19: Elaboration of healthy soups and 
+creams. Technifood, 130, 85–87 
+ 
+ 
+
+28 
+ 
+APPENDIX 
+Table 1.1: Nutritional composition of cowpea leaves and mature seeds (100g 
+edible portions). 
+Part 
+Leafy 
+Seed 
+Raw 
+Leaf Dried 
+Cooked 
+Raw 
+Cooked 
+Protein 
+4.7 
+22.6 
+3.2 
+22.8 
+5.1 
+carbohydrate 8.3 
+54.6 
+na 
+61.7 
+13.8 
+fat 
+0.3 
+3.2 
+0.3 
+1.5 
+0.3 
+Ca(mg) 
+256 
+1556 
+132 
+74 
+17 
+P (mg) 
+63 
+348 
+41 
+426 
+95 
+Fe (mg) 
+5.7 
+12 
+4.7 
+5.8 
+1.3 
+Source: Singh, B. B. (1997). Advances in Cowpea research. IITA. 
+ 
+Table 2 Anova table for protein 
+Source 
+SS 
+df 
+MS 
+F 
+p-
+value 
+Between Groups 
+2025.157 
+2 
+1012.579 
+126.00
+1 
+< 
+0.000
+1 
+Within Groups 
+48.218 
+6 
+8.036 
+Total 
+2073.375 
+8 
+ 
+Table 3 Anova table for moisture content. 
+Source 
+SS df 
+MS 
+F 
+p-
+value 
+Between Groups 
+2 
+0.165 
+0.082 
+0.454 
+> 0.05 
+Within Groups 
+6 
+1.089 
+0.181 
+Total 
+8 
+1.253 
+ 
+ 
+ 
+
+29 
+ 
+Table 4 t-table for mineral analysis 
+mine
+ral 
+Group A Mean 
+Group 
+A 
+SD 
+Group 
+B Mean 
+Group B 
+SD 
+t-
+statistic 
+p-
+valu
+e 
+Signific
+ant? 
+P 
+1707 
+153.27 
+1713.6
+7 
+83.91 
+-0.0661 
+> 
+0.10 
+No 
+K 
+1.41 
+0.11 
+1.24 
+0.13 
+1.7639 
+< 
+0.10 
+Yes 
+(α=0.1
+0) 
+Ca 
+3942.33 
+340.23 
+4280.3
+3 
+482.49 
+-0.9916 
+> 
+0.10 
+No 
+Mg 
+6100 
+458.26 
+6433.3
+3 
+960.9 
+-0.5423 
+> 
+0.10 
+No 
+S 
+2011.67 
+141.99 
+1805.3
+3 
+223.67 
+1.349 
+> 
+0.10 
+No 
+Fe 
+744.67 
+436.21 
+532.33 
+347.72 
+0.6593 
+> 
+0.10 
+No 
+Zn 
+77.33 
+79.43 
+202.33 
+20.74 
+-2.6374 
+< 
+0.05 
+Yes 
+(α=0.0
+5 
+Cu 
+14.33 
+7.77 
+11 
+7.55 
+0.533 
+> 
+0.10 
+No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+31 
+ 
+
+32 
+ 
+
+33 
+ 
+
+34 
+ 
+
+35 
+ 
+ 
+ 

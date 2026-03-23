@@ -1,0 +1,1368 @@
+THE COST OF MOTORCYCLE ACCIDENTS IN UGANDA
+
+
+By
+
+Richard Sebaggala
+Fred Matovu (PhD)
+Dan Ayebale (PhD)
+Vincent Kisenyi
+Mesharck Katusiimeh (PhD)
+
+
+
+
+October, 2014
+
+
+
+Acknowledgements
+We are grateful to CrossRoads and UKAID who financially and technically supported this
+research effort. Special thanks go to technical team at CrossRoads, reviewers, various
+institutions and all persons who supported this work in different capacities.
+
+
+
+
+Abstract
+Understanding the cost of the road traffic accidents (RTAs) has been of interest to many
+scholars and policy makers for a long time. In Uganda like many developing countries in
+
+
+Africa, injuries due to motorcycle accidents represent a major but often neglected
+emerging public health problem and contribute significantly to the overall road traffic
+injuries. This research study therefore explored the costs of motorcycle accidents and
+the pain, grief and sufferings of the motorcycle accident victims using a multi-method
+approach. Unlike many studies on cost of accidents which use the traditional human
+capital approach, this study in addition to the human capital approach, applied the
+Willingness-to-pay (WTP) approach to estimate the cost of motorcycle accidents. WTP
+method was used to estimate the value that boda boda riders would pay for reducing
+the risk of loss of life based on Contingent Valuation (CV) method. We extend the
+analysis to also explore the key coping mechanisms adopted by the Boda-boda riders
+amidst the challenges the riders face when they suffer motorcycle accidents.
+The data were obtained from multiple sources, including a survey of 1600 boda boda
+cyclists in Kawempe and Central divisions in Kampala City, interviews with accident
+victims and their immediate family members, traffic police records, hospitals and
+national statistics on selected economic aggregates. The results show that motorcycle
+accidents are associated with huge economic and non-economic burden borne by the
+accident victims and the society as a whole. The study established that it costs
+approximately 7 million shillings (or 2800 USD) to treat a boda boda accident victim who
+is severely injured. Based on annual police statistics on motorcycle accidents for 2012;
+the Ugandan economy losses more than UGX 3 billion (1.2m USD) value of output due
+to days away from productive work as result of severe injuries and death. Likewise, the
+cost of motorcycle repairs amounted to UGX 350 million (140,000 USD).
+
+The study also estimated the value of preventing motorcycle accidents. The estimates
+show that on average boda boda riders are willing to pay Ug Shs 222,550 (89 USD) a
+year for a reduction in mortality risks associated with motorcycle accidents that translate
+into UGX 4.45 billion (US$1.78m), the value of statistical life (VOSL). Overall, the
+combined economic burden of the motorycle accidents (repairs, medical costs, lost
+output and imputed cost of pain grief and suffering) were estimated to be approximately
+US$ 3.6 million annually. This cost is about 0.02% of Uganda’s GDP in 2013. The key
+policy implication of the study is that reducing motorcycle causalities and fatalities will
+reduce social and economic sufferings of victims, unlock growth and free resources for
+more productive use. The findings provide the cost-benefit analysis of any investment in
+areas that will promote the prevention, treatment, care and management of motorcycle
+accidents in Uganda.
+
+
+Introduction
+Injuries due to motorcycle accidents represent a major but often neglected emerging
+public health problem in developing countries and contribute significantly to the overall
+road traffic injuries (Peden, 2004; Kobusingye, et al, 2001; 2002). Available evidence
+from annual crime reports shows that road safety in Uganda is poor and has
+deteriorated over the last 20 years. The increase in the rate of road accidents is mainly
+due to the growing number of vehicles and lack of appropriate road safety interventions.
+The number of people who die due to road traffic accidents has grown from 660 in 1991
+to 2,954 in 2010. According to Annual Crime and Traffic Road Safety Report, 2011, 17.3
+percent of deaths were due to motorcycle accidents. Estimates from the World Health
+Organization show that by 2020, deaths from traffic accidents are projected to rank
+second to HIV/AIDs (WHO, 2005).
+
+The growth of hired/commercial motorcycles (commonly known as boda boda in
+Uganda) as a mode of transportation in Uganda has increased road safety challenges
+(Annual Traffic Report, 2011). Statistics show that Kampala city alone is estimated to
+have between 50,000-80,000 boda boda cyclists and that two patients die on average
+every week as a result of boda boda accidents. The national referral hospital (Mulago
+Hospital) alone receives between 10 and 20 victims of boda boda accidents daily. Boda
+boda business is a money-making activity involving many players; and given the rate of
+unemployment in Uganda, the number of boda boda motorcyclists is expected to
+increase so will the motorcycle accidents. Evidence shows that as the number of
+motorcycles rises, the number of accidents, especially to motorcycle riders, will increase
+(Umar et al, 1995; Widyastuti, 2012). The empirical evidence elsewhere shows that the
+probability of a motorcyclist being injured in an accident is higher than that for car users
+(see Widyastuti and Bird, 2004). The pain, grief, suffering and loss of life as well as the
+economic consequences of boda boda accidents can be huge for the individual victims,
+their families and the country at large, but are seldom estimated empirically.
+Notwithstanding the above, the continued increase in the number of boda boda
+accidents has created demand for necessary road safety improvements. However,
+
+
+information and evidence on the costs of boda boda accidents such as the immediate
+hospitalization and rehabilitation costs and indirect costs to the society (e.g. opportunity
+cost in terms of lost labour and output; lost financial support to the families and relatives
+of the victims; costs in terms of disability and death of victims) have not been fully
+examined and this explains partly why interventions to prevent the problem are very few
+and largely adhoc in Uganda. There has been little effort to estimate the costs of boda
+boda accidents in Uganda. A recent study conducted by Makerere University College of
+Health Sciences and the department of Orthopaedics is the only available study on
+costs of boda boda accidents. The study revealed that at least 62.5% of the budget
+allocated to the directorate of Surgery at Mulago hospital is spent on victims of
+accidents involving boda boda and that the average cost of treating a boda boda victim
+with head injuries or broken limbs is about UGX 700,359 (or US$280) 1. However, this
+study does not provide a full scale and magnitude of the costs of boda boda accidents
+because it focuses on costs borne by the health system (Kigera et al, 2010).
+Government and other stakeholders need accurate information and evidence
+particularly on how much saving can be gained by implementing road safety
+improvements to address boda boda causalities. Anecdotal information and reporting of
+accidents by the media and police traffic department limits our understanding of the
+extent to traffic safety problem to design appropriate policy action. Interventions for
+effective road injury prevention need to be based on data and objective information, not
+on anecdotal evidence. Therefore, there was a need for a comprehensive research
+study which estimates both direct and indirect costs of boda boda accidents in Uganda.
+The present study is the first of its kind to provide a comprehensive estimate of the
+costs of boda boda accidents using the widely used traditional human capital method
+and the willingness-to-Pay method.
+
+1 The average exchange rate at the time of the study was 1US$ = UGX 2500
+
+
+Study aims and objectives
+The main aim of the research study was to build evidence on the cost of motorcycle
+accidents in Uganda and provide the rationale for investing in national road safety
+programmes. The specific objectives of the study were:
+(i) To estimate the direct and indirect costs of motorcycle accidents
+(ii) To establish the pain, grief and suffering of motorcycle accident victims
+(iii) To draw policy recommendations for improving road safety in Uganda
+Methodology
+Interventions to improve road safety require information on the benefits of improved
+safety based on imputed values or valuation of human life. There are various
+techniques available to value road casualties and these include: Gross Output method
+(Human Capital Approach), the Net Output method, the Life Insurance approach, the
+Court Awards approach (the amounts awarded by the Courts for compensation to
+survivors or surviving dependants in the case of a fatality), Implicit public sector
+valuation approach, the friction-cost approach (valuing the cost involved in replacing
+the killed or injured person to restore the previous production level) and Willingness to
+pay method.
+
+The traditional method of valuation is the human capital method. This method involves
+estimating an ex-post sum of various identifiable costs, such as loss of work income and
+medical expenses minus the pain and suffering (Abelson, 2008). However, since the
+fundamental premise of welfare economics is that public policy decisions should reflect
+the preference of those who will be affected by them; willingness-to-pay approach has
+become conceptually more satisfactory way of measuring the costs of accidents
+(Abelson, 2008; Maier et al, 1989). According to Widyastuti and Mulley (2005), the use
+of the human capital approach to estimate the cost of accidents alone is inappropriate
+and a combination of human approach and individual willingness to pay is
+recommended. Therefore, this study established the medical and repair costs and lost
+
+
+output as a result of boda boda accidents, and what individuals are willing to pay for
+reduced risk of injury or death due to boda accidents. The use of the two approaches
+provides more value for estimating human cost.
+
+Studies by TRL (1995) and Silcock and TRL (2003) have concluded that human capital
+method should be supplemented with some human element which is very subjective.
+The subjective costs have been valued using the Willingness to Pay (WTP) method.
+The WTP measures by how much the concerned individuals are ready to pay in order to
+improve their safety and thus provide information on the extent of the need to promote
+an effective intervention to the affected community.
+
+Economic reasoning suggests that the missing price information associated with safety
+issues can only be substituted by the amount people are willing to pay for the respective
+“product”. The method evaluates how individuals value safety, rather than react to how
+much an accident might have costed them (Widyastuti, 2012). The WTP method is
+considered appropriate where there is need to pursue social welfare as a result of
+accident reduction (Jacobs et al., 2000); provides a practical of understanding the value
+the individuals or community places on road safety (Sakashita, et al, (2012); and a
+conceptually more satisfactory way of addressing the issue of accident loss (Maier et al,
+1989). Estimating the cost of boda boda accidents using the combination of gross
+output and individual willingness to pay methods provides a better value and offers
+policy recommendations that justify interventions to reduce road accidents in general
+and boda boda accidents in particular.
+
+However, given that the majority of boda boda riders come from poor backgrounds; the
+direct financial and opportunity costs of accidents are the tip of the iceberg in
+comparison to the pain, grief and suffering of those involved in boda boda accidents. In
+most of the studies using the human capital approach, a fixed percentage to the direct
+cost and loss of productivity has always been added to represent the pain, grief and
+suffering.
+
+
+Willingness-To-Pay method (WTP)
+The value of individual life reflect what people would be willing to pay (or sacrifice) to
+obtain benefits or to avoid costs (Jones-Lee, 1989). This ex-ante approach involves
+some assessment of risk and the willingness of individuals to commit resources in
+exchange for reducing this risk to an acceptable level. This trade-off between risk and
+economic resources, measured in terms of the marginal rate of substitution of wealth for
+risk of death or injury, accords well with the fundamental principle of social cost-benefit
+analysis that public sector allocative decisions should be based upon the preferences of
+those who will be affected by the decision concerned.
+
+WTP method was used to estimate the value that individuals would pay to avoid the
+intangible costs that result from injury in a motorcycle accident or death. The
+implementation of the WTP is through a survey questionnaire and there are two
+methods of collecting data in order to estimate how much an individual would be willing
+to pay for a reduction in the risk of sustaining an accident. These are: the “Revealed
+Preferences” and the “Stated Preference” approaches. The State Preference technique
+is more appropriately used when the WTP information cannot be verified from the
+market and is considered superior because it is possible to ask questions directly about
+the trade-off between risk and money; and it is also possible to consider a wider and
+more systematic range of trade-offs than is available in the Revealed Preference
+approach (Widyastuti, 2012).
+
+Researchers implementing the Stated Preference technique have commonly used the
+Contingent valuation (CV) approach (Chaturabong, 2010). This approach was adopted
+in this current study. The questionnaire was designed to determine the amount of
+money that each motorcycle user would pay to reduce the risk of loss of life from
+motorcycle accidents. Data gathered on the number of accidents, number of severities
+of motorcyclist per each severity type (fatal, slight and serious) and demographic
+information for motorcycle deaths and injuries obtained from police reports were used to
+present a picture of the probability of casualty involved in the accident. The
+
+
+questionnaire comprised of questions related to (a) the socioeconomic characteristics
+and household characteristics of motorcyclists; (b) the riding behavior and the risktaking behaviors of motorcycle users such as size of engine, helmet use, experience of
+involving in the accident; and (c) the valuation questions which were designed to ask
+the respondents to provide the estimates of the relevant rates that they are willing to
+pay for a reduction in the probability of fatality and injury due to the boda boda
+
+In the design of CV questions, three scenarios were used to elicit respondents’
+willingness-to-pay. In each scenario both open-ended and closed-ended questions were
+used. The first scenario is to evaluate the WTP of respondents in their own risk of
+death, the second scenario is to evaluate the WTP to reduce the risk of severe injury,
+and the third scenario is to evaluate the WTP of respondents to participate in proposed
+Kampala city authority interventions to streamline boda boda industry and reduce
+accidents. According to Chaturabong et al, (2010), for the closed-ended question (also
+referred to as a “dichotomous choice” or “referendum” question), the respondent is
+asked whether he or she is willing to pay a specified amount of money presented as the
+value of the risk reduction. The respondent is expected to answer “yes” or “no.” For the
+opened-ended question, the respondents is asked to state the maximum amount that
+he or she is willing to pay for the good that is being valued (in this case, accident risk
+reduction).
+
+
+First Scenario: Risk of Fatality
+In the first scenario, the respondents were told that it is estimated that in Uganda , an
+average of 10 out of 100,000 people die as result of road accidents in a year. In the
+closed-ended question, the respondents were asked: “Are you willing to pay a certain
+amount of money to reduce the fatality risk from 10 to 5 deaths in every 100,000 people
+or 50% reduction in fatality risk?” The respondent then answered “yes” or no”. In the
+open-ended question, the respondents were simply asked “How much they are willing to
+
+
+pay to reduce fatality risk from 10 to 5 deaths in every 100,000 people or 50% reduction
+in fatality risk”.
+
+Second Scenario: Risk of Severe Injury
+In the second scenario, the respondents were asked to imagine that they have to wear
+the helmet while riding motorcycle. The cost of helmet is 50,0002 Uganda shilling per
+helmet, the probability to have severe injury due to the motorcycle accident is
+10/100,000 each year.
+
+In the closed-ended question, the respondent were asked: “Are you willing to pay
+50,000 shillings to buy a helmet which can reduce the risk of severe injury from 10 to 3
+severe injured people in every 100,000 people or reduction in risk of severe injury by
+70%?” The respondent then answered “yes” or no. The second question asked if
+respondents are willing to pay for the Helmet if the price is increased- over a range of
+price figures up to the average maximum price derived from the pilot.”
+
+
+Third Scenario: Boda boda streamlining program by KCCA
+As earlier pointed out, KCCA has planned to streamline the boda boda industry through
+a number of efforts that include registration of boda boda riders in city, training of riders,
+issuing operational permits, supply reflector jackets and helmets, gazzetting stages and
+introduction of wardens, among others. Out of these proposed interventions, we
+considered two options: (i) supply of reflector jackets and helmets and (ii) training. This
+is because these interventions are directly related to reducing accidents. The closed
+ended question was: If it costs Uganda shillings 100,0003 (and higher price ranges) to
+get a reflector jacket and helmet (or training) would you be willing to pay this amount to
+reduce by half the number of boda boda accidents and injury each year in Kampala?
+The second question was: “What is the maximum amount of money would you pay to
+
+2 The average cost of a helmet
+3 The range of actual costs were established from the market and KCCA
+
+
+get a reflector jacket and helmet (or training) to reduce by half the number of boda boda
+accidents and injury each year in Kampala?
+
+According to Krupnick et al, (2002), many contingent valuation (CV) studies fail to pass
+the test of internal and external validity because of three types of problems: (1)
+rrespondents may not understand the risk changes they are asked to value; (2)
+respondents may not believe that the risk changes apply to themselves; and (3)
+respondents may lack experience in trading money for quantitative risk changes or lack
+the realization that they engage in this activity. These pitfalls are challenging because of
+the low level of education of the respondents, and our approach to dealing with the
+problem was to explain to respondents using real examples about probabilities and risk
+reductions during contingent valuation survey. Evidence shows that a brief training of
+the respondents in the survey regarding probability, risk, and risk changes enables the
+respondents to process risk information better and thus become more elaborate about
+their preferences for risk reduction (Mahmud, 2005). This fact was established during
+pre-test of the survey instruments and was highly emphasized during data collection.
+
+In the CV questionnaire, we exposed the concepts of probability of different events
+occurring, risks, and implications of risk changes such as flipping a coin, to determine
+which team starts a football match, and buying a lottery ticket as examples to introduce
+the concept of probabilities to the respondents. Mortality risk was discussed using the
+example of risk of dying from traffic accidents. The respondents were asked test
+questions after each example. If the respondent got the answer right, then the
+enumerator would proceed to WTP questions otherwise the process was repeated until
+the respondent got it right.
+
+Computation of Value of Statistical Life
+The aim of using the willingness to pay approach described above was to estimate the
+boda boda rider’s marginal rate of substitution (MRS) between money and the reduction
+of risk of being killed in a boda boda accident. Therefore to compute the value of
+
+
+statistical life (VOSL) and its covariates, we apply similar approach as Maier et al,
+(1989). If we denote the i-th boda boda rider’s marginal rate of substitution byMRSi .
+
+Then the estimate for MRSi =
+,
+,
+/
+b
+b
+i
+i
+=
+
+
+For example, in the study, boda boda riders were asked their willingness to pay to
+reduce the fatality risk from 10 to 5 deaths in every 100,000 people or 50% reduction in
+fatality risk and if the answer is bi , then the marginal rate of substitution can be
+estimated. In a population of N boda boda riders, the average of MRS (∑
+i
+i N
+MRS
+1 ) is
+interpreted as the willingness to pay for a risk reduction which reduces the expected
+number of the deaths by 1(5). This is referred to as the Value of Statistical Life (VOSL)
+or the marginal value of safety (MVS). Based on individual evaluations, we examined
+the influence of socioeconomic characteristics of rider and different attributes (age,
+education, rider’s experience, marital status, monthly income, motorcycle ownership,
+number of dependents, ever experienced an accident). In the estimating the regression
+model, we adopted log-linear model (where MVS is in logs) specification over linear
+specification with the help of the Box-cox test4.
+
+Computation of lost output/ productivity
+Lost output/productivity refers to the losses suffered by the country as a result of the
+loss of productive capacity of people affected by motorcycle accidents. The total
+average lost output for a fatal motorcycle accident is the sum of each future year’s lost
+output, which was estimated based on the following formula adopted from ( Anh et al,
+2005):
+
+4 Box Cox = N/2*log (RSS
+largest/RSS
+smallest) ~ χ
+. If estimated value exceeds critical value (from tables
+Chi-squared at 5% level with 1 degree of freedom is 3.84) reject the null hypothesis that the models are
+the same (ie there is a significantly different in terms of goodness of fit).
+
+
+
+Lost output (fatality) =
+)
+(
+(
+)
+∑
+=
++
++
+N
+i
+i
+r
+i
+g
+W
+
+Where
+W= average yearly per capita gross domestic product
+r= discount rate
+g= growth rate of the economy
+i= average number of years of lost output per fatal accident
+
+In the study, we included both the average and median age of victims in fatal accidents
+for better information estimated at 35 and 28 years respectively5. The average loss of
+productive years is computed based on a retirement age of 60 years. Hence, the
+average number of years foregone by a fatal motorcycle accident is 25 and 32
+respectively. The average GDP per capita is 1.4 m Uganda shillings ($558) in 2013. The
+average growth rate of the economy for the last 10 years is 7%. Therefore, the g
+considered in this study is 7%. The discount rate (r) considered is 12% based on prime
+Interest rates in Uganda (Central Bank Rate). The N is 571, based on the number
+motorcyclists who were reported dead by the police in 2011/2012 (Annual Police
+Report, 2012).
+
+The table 1.1 summarizes the cost components that were computed under the human
+capital approach/Gross Output Method.
+Table 1.1: Cost components of human capital approach
+Component of
+costs
+Data requirements
+Data sources
+Estimation
+Hospital /Medical
+costs
+-Hospitalization
+days
+(serious
+and
+slight
+injuries); daily hospital
+costs for a serious
+-Hospital
+medical
+records
+(
+) GP
+HC
+DST
+MC
+i
+i
+i
+i
++
+=
+*
+
+Where:
+MCi is medical cost of a
+serious or slight injury
+
+5 These figures were obtained from Mulago hospital data base of people who died as a result boda boda accidents.
+
+
+and slight causalities
+and;
+and
+general
+practitioner costs for
+serious
+and
+slight
+causalities.
+
+causality;
+DSTi is duration of stay, (days
+of hospitalization) for injury
+causality
+HCi is daily hospital costs for
+injury causality; and GPi is
+general practitioner costs for
+injury causality.
+Lost
+output/productivity
+Fatal causalities and
+permanent
+disabilities
+-Average age of fatal
+cases
+-Average age of
+retirement
+-Average income
+(monthly earnings)
+-Hospital and
+medical
+records from
+health
+facilities
+-Police traffic
+department
+Lost labor output of fatalities
+and
+permanent
+disabilities
+were computed over the rest of
+their
+expected
+productive
+working life and discounted to
+an equivalent present value.
+
+
+
+Serious and slight
+causality
+-Time lost due to
+serious and slight
+injury causality
+
+Calculated as the average daily
+wage rate of each person
+involved in the crash, multiplied
+by the number of days off work,
+and summing up for all the
+people involved in the crash.
+Motorcycle
+damage
+-Motorcycle damage
+cost
+
+Calculated as the average cost
+of motorcycle repairs multiplied
+by the number of motorcycles
+involved in the boda boda
+
+Qualitative data collection
+In order to establish the pain, grief and suffering of boda boda accident victims, in-depth
+interviews were conducted. In-depth interviews were conducted with victims of boda
+boda accidents identified through the division chairpersons and where possible from
+Mulago hospital which has reasonable number of boda boda accident victims. The indepth interviews elicited rich descriptions of the experiences of the victims. This method
+provided holistic data that depict systemic influences and effects of these accidents, the
+constraints and opportunities of the victims and how they think and act towards the
+phenomenon under study. In this study, the common threads were victims of boda boda
+accidents with permanent disabilities and serious injuries. Standard procedures for
+conducting key informant interviews were followed.
+
+
+Data sources
+The study adopted a multi-approach method to estimate the costs of motorcycle
+accidents. Therefore, data used in estimating the direct and indirect costs of motorcycle
+accidents and the pain, grief and sufferings of the motorcycle accident victims were
+obtained from multiple sources, including a survey of 1600 boda boda cyclists in
+Kawempe and Central divisions in Kampala City, traffic police records, hospitals and
+national statistics on selected economic aggregates. The boda boda cyclists who
+participated in the survey were randomly selected from boda boda stages with the help
+of stage boda boda chairpersons. In order to establish the pain, grief and suffering of
+boda boda accident victims, in-depth interviews were also conducted with victims of
+boda boda accidents and their immediate family members.
+
+
+
+
+Descriptive findings
+A total of 1600 respondents were interviewed in this study. The respondents were
+hired/commercial motorcycle users (boda boda riders) who work in Kampala City.
+Tables 1.2 show the socio-economic characteristics of boda boda cyclists. Although
+many people view boda boda business as an extremely odd job and implies that only
+the less educated and less significant section of the people are the ones engaged in it,
+our survey results reveals that more than 50% of the boda boda riders had received
+secondary education and higher; 83% married, 79.1 previously employed, 62.8% relying
+on boda boda business, nothing else; and 73% own the motorcycles they ride.
+Table 1.2: Socio-economic characteristics boda boda cyclists
+Characteristics
+Frequency(n=1600)
+Percent
+Education
+No education
+5.2
+Primary education
+44.5
+Secondary education
+47.7
+Post secondary
+2.6
+Marital status
+Single
+15.7
+Married
+1,334
+83.4
+Divorced/separated
+0.9
+Previous employment status
+Employed
+1,265
+79.1
+Additional sources of income
+Nothing else
+1,004
+62.8
+Farming
+13.4
+salaried employment
+1.7
+Other
+17.6
+Casual workers (building/driving)
+4.6
+Motorcycle ownership
+self fully paid
+52.4
+self on loan
+20.5
+Contracted
+26.6
+Others
+0.44
+
+
+
+
+The results in table1.3 shows that boda boda riders on average earn more than the
+average monthly income of a Ugandan from all sources standing at UGX 303,700
+according to Uganda Bureau of Statistics Household Survey, 2009/2010. For instance
+the average daily and weekly income of boda boda cyclist in Kampala is 22, 237 and
+131, 574 Uganda shillings respectively. According to estimates of the 2012 statistical
+abstract based on the Household consumption expenditure data of Uganda Bureau of
+statistics, about 50% of the richest households in Kampala spent at least Shs.
+475,500/= per month on consumption as of financial year 2009/10 (in 2005/06
+constant prices). Therefore, putting these figures into perspective of the boda boda
+rider’s incomes per month; it implies that the boda boda riders are among the richest
+income earners in Uganda. What is not clear is whether the boda boda riders know this
+fact because it has bearing on their spending behavior in particular and attitude to road
+safety in general.
+
+The table also shows that average age of the boda boda riders is 30 years. This implies
+that the majority of boda boda riders are the young population of Uganda. In respect to
+the number of dependants and experience with boda boda business, it is evident in
+table 4.2 that the average number of dependents per cyclist is 5.5 and rider’s
+experience of 5.8 years. One can infer from the rider’s experience result and the fact
+that the majority of riders had been previously employed (79%) and focused on boda
+boda business alone (63%; that boda boda riders are not mainly in the boda boda
+occupation because of economic hardship and high rate of unemployment but rather out
+of their objective choice like other people are in their other occupations. This implies
+that boda boda riders do appreciate and love their occupation and for purposes of the
+safety, they will be willing to accept any change that improves their work and welfare.
+
+
+
+
+Table 1.3: Descriptive statistics
+Variable
+Obs
+Mean
+Std. Dev.
+Min
+Max
+Daily income
+1,600
+22,236.9
+7,701
+5,000
+60,000
+Weekly income
+1,600
+131,573.8
+47,047
+10,000
+420,000
+Age (years)
+1,600
+30.3
+6.1
+Number of dependents
+1,549
+5.5
+3.2
+Rider’s experience
+1,600
+5.8
+3.7
+0.08
+
+Incidence and severity of motorcycle accidents
+Out of 1600 motorcycle riders who participated in the survey, 55.1% of boda boda riders
+had experience at least an accident. Figure 1 shows that 34.2% of the riders had
+experienced more than one accident in their life time as boda boda riders. The
+respondents were further asked whether they know any of their friends or associates
+who have been involved in a motorcycle accident that resulted in an injury. More than
+96% of the respondents responded in the affirmative. These figures indicate that
+majority of the boda boda riders get involved in motorcycle accidents that results into
+injury.
+
+
+
+
+
+
+Severity of physcial injuries
+Boda boda riders who reported to have been involved in motorcycle accidents where
+asked to indicate the level of physical injuries sustained and whether the rider was
+wearing a helmet or not. The severity of physical injuries sustained was classfied
+based on four categories. No injury meant the rider did not visit a health facility; minor
+injuries for those who visited the health facility but not hospitalised nor had any
+breakage or scratch; moderate injuries for those who visited healthy facilities and had
+some breakage or needed aftercare; and serious injuries for those who had been
+hopsitalised at least one day.
+
+
+
+
+
+
+The results presented in figure 3 above show that 44.1% of boda boda riders who had
+experienced accidents reported that the accidents resulted into serious injuries requiring
+them to be hospitalised at least one day. In economic sense, this implies that most of
+the motorcycle accidents have economic repurcusions on the riders in form of medical
+expenses and days away from work. In the figure 4, the total number of days away from
+work are presented. Figure 4 shows that on average boda boda riders spend
+approximately one and half months away from work due to injuries sustatined from
+
+
+
+
+Helmet use and severity of injuries
+The use of the helmets has been established as one of the effective ways of protecting
+motorcyclist from head injuries and fatalities resulting from motorcycle crashes. It is
+common in Uganda, to find motorcyclist with helmets but not using them. Therefore, in
+this study, riders who reported accidents where asked whether they had used a helmet.
+Out of the 882 boda boda cyclist who had reported involvement in any motorcycle
+accidents, more than 80% had used a helmet at the time of accident (figure 5).
+
+
+
+
+
+
+In figure 6, we compared the level of severity of physical injuries sustained and helmet
+use. The results depict that the number of boda boda riders who had helmets reported
+less severe injuries. However, we did not find significant differences in the number days
+away from work as results of severe injuries between the helmet users and non users.
+
+
+
+
+Rider’s perception on the causes of motorcycle accidents
+A total of 1600 respondents to the questionnaire listed what they considered to be the
+main causes of fatal motorcycle accidents. Altogether, their responses led to a list of
+many causes that were categorized into seven broad categories. These categories are
+alcohol/drug abuse, reckless/bad driving, over speeding, bad roads, overloading and
+others. Figure 7 below presents the percentage responses. Reckless driving (61.3%)
+and over speeding (13%) were the most common cause of motorcycle accidents given
+by the respondents. This implies that the risky behavior of the boda boda riders is
+reported to be responsible for the majority of fatal motorcycle accidents in Kampala.
+Bad roads (slippery surface, pot holes, bends etc) and alcohol/drug abuse were
+mentioned by 12% and 7% of the respondents respectively as one of the major causes
+of fatal motorcycle accidents in Kampala.
+
+
+
+Respondents were also asked to indicate the percentage contribution of the various
+factors in the crashes involving boda boda riders in the last year. The findings are
+presented in figure 8 below. In the figure, it is also evident that the majority of riders put
+blame on the reckless riding and speeding as the major factors responsible for serious
+
+
+motorcycle accidents. However, the figure also shows that drink riding, inexperience on
+the road and poor road conditions on average contributed more than 50% of the serious
+crashes involving boda boda riders in Kampala. Overloading and rider’s fatigue were
+on average blamed for causing 38% and 31% of the serious crashes involving boda
+boda riders.
+
+
+
+
+
+
+Nonetheless, riders where asked the category of the road users responsible for
+motorcycle accidents. The following figure 9 depicts who to blame for motorcycle
+accidents in Kampala. The majority of the riders (58.4%) thought that it is themselves
+who were primarily to blame for accidents involving motorcycles. Commuter taxis, other
+vehicles, and poor roads were also blamed for the significant number of motorcycle
+
+
+
+
+
+
+
+Finally, six types of accidents were listed and the boda boda riders were asked to
+choose what they thought motorcyclists were most at risk at. The results shown in
+Figure 10 reflect a strong opinion that most motorcyclist are at risk of being hit while
+overtaking other road users. This implies that boda boda riders are especially
+vulnerable to collisions when overtaking other roads users . About to 20% of
+respondents indicated being vulnerable to being hit from behind by other road users and
+collisions with right-turning vehicles. ,. Approximately 10% of riders regarded collisions
+with left turners as being a particularly risky manoeuvre. Few boda boda riders regarded
+loss of control and overshooting bends as a major cause of accidents experienced by
+motorcyclist.
+
+
+
+
+
+Empirical findings
+This part presents the cost components of motorcycle accident in Uganda. The cost
+components are estimated into two groups: tangible costs and intangible costs. The
+study computed the cost of treatment (medical expenses), repair costs lost output due
+severe and fatality, value of statistical life based willingness to pay approach and pain,
+grief and suffering.
+Medical costs of motorcycle accidents
+Although medical costs constitute only a small proportion of the total costs of
+motorcycle accidents, the medical costs consitute the first and most tangible economic
+burden experienced by the victim and the immediate family members and friends. The
+figures in table 1.4 presents the total medical cost based on data estimates from the
+survey and mulago hospital. The results shows that the medical costs per cyclist who is
+
+
+seriously injured translate into 7,977135 Uganda Shiilings. If we consider the the data
+from Uganda Police department between January-December, 2012 in which 3043
+motorcyclists were reported to have been seriously injured as a result of motorcycle
+accidents in Uganda, this translates into 24,274,423,022 shilllings, apprpximately 24
+billion Uganda shillings.
+Table 1.4: Medical cost of boda boda accidents
+Components
+Amounts/
+days
+Total medical
+cost
+(DST*HS)+GP in
+Ugshs per cyclist
+DST
+
+
+Duration of days from work as result of
+injury/days of hospitalization (obtained
+from the survey)
+46.6
+
+HS
+
+Hospital cost for injury causality (average
+treatment cost of injury obtained from
+survey)
+156,154
+GP
+General
+practitioner
+costs
+for
+injury
+causality (obtained from Mulago study and
+represent the average cost to maintain a
+boda boda patient
+700,359
+Total
+
+7,977,135.40
+If consider the total number persons who were
+seriously injured as a result of motorcycle accidents
+between January-December 2012 based on Police
+Data
+24,274,423,022
+Source: Survey, Police Traffic Department, and Mulago study
+
+Nevertheless, for better information even when we consider slightly lower estimates
+from mulago hospital study by Kigera et al (2010) of 56,740 Ug shs and 8.3 days as the
+average cost of maintaining a patient in wards and hospitalization days respectively,
+medical cost of motorcycle accidents both to the individual and the country as whole is
+substantial as indicated in table 1.5 below.
+
+
+Table 1.5 Medical cost of boda boda accidents
+Components
+Amounts/days
+Total medical
+cost
+(DST*HS)+GP
+in Ugshs per
+cyclist
+DST
+Days of hospitalization
+8.3
+
+HS
+Average cost of maintaining a patient in
+wards
+56,740
+GP
+General practitioner costs for injury
+causality (obtained from Mulago study
+and represent the average cost to
+maintain a boda boda patient
+700,359
+Total
+
+1,171,301
+If consider the total number persons who were seriously
+injured as a result of motorcycle accidents between
+January-December 2012 based on Police Data
+3,534,268,943
+Source: Survey, Police Traffic Department, and Mulago study
+
+Lost output/productivity
+Analysis of the survey data reveals that an estimated 389 boda boda riders were away
+from work due to serious injuries from motorcycle accidents, amounting to an average
+of 46.6 lost days of work (Table 1.6). Valuing this missed time at the workers’ actual
+daily incomes, an estimated 403 million shillings of economic output was lost due to
+time off from productive activities. Using Police data in 2012 which reported 3,043
+motorcycle accidents with serious injuries and based on average number days away
+from work and average daily income from the survey, it is evident in the Table 3.5 that
+over 3 billion shillings of economic output was lost in 2012.
+
+In addition, computation of the lost output due to premature death from motorcycle
+accidents was 446,963 per cyclist, translating into 255,216,071 Uganda shillings in
+2012, if we consider the number of persons killed as results of motorcycle accidents in
+January-December 2012 and average of age death at 35. The computation of
+economic loss based on median age 28 still presents a huge economic loss to the
+
+
+nation amounting to 185,382,316 Uganda shillings. These findings imply that
+prevention of fatality from motorcycle accidents and disability from severe injuries could
+have significant economic payoff.
+Table 1.6: Lost output due serious motorcycle accidents and fatality
+Lost productivity due to serious motorcycle injury
+
+Number of days
+away from work
+due serious injury
+from accidents
+(average)
+Average
+daily
+income
+Number of
+people
+involved
+(Ughs)
+Study sample
+46.6
+22237
+403,098,994
+Police data
+46.6
+22237
+3,043
+3,153,291,101
+Lost productivity due to fatality motorcycle accidents
+
+average GDP per
+capita (W)
+(1+g)i
+(1+r)i
+(Ughs)
+W((1+g)I
+/(1+r)i)
+Average age
+1,400,000
+(1+0.07)^25
+(1+0.12)^25
+
+446,963
+Median age
+1,400,000
+(1+0.07)^32
+(1+0.12)^32
+
+324,663
+Based on Police data 2012 where 571 persons died as result of motorcycle
+accidents =N
+Average age
+Lost output=
+)
+(
+(
+)
+∑
+=
++
++
+N
+i
+i
+r
+i
+g
+W
+
+
+255,216,071
+Median age
+
+185,382,316
+Source: Survey, Police Traffic Department, Mulago Hospital and Ministry of Finance,
+Planning and Economic Development
+
+
+Repair costs
+In the survey we established the cost of repairs for those respondents who experienced
+motorcycle accidents. Results in table 1.7 shows that on average boda boda riders
+spend three times their daily incomes on motorcycle repairs (79,524 Ugshs). However,
+
+
+the average costs for severe injuries were slightly higher (115098 Ugshs) implying that
+the costs of motorcycle repair rises with severity of the accident. Therefore, a total of 70
+and 44 million shillings on average was incurred as cost of repairs for overall accident
+victims and those who reported severe physical injuries respectively. Estimating the
+repairs costs based on 3043 severe motorcycle accidents reported by Police data in
+2012, the country lost approximately 350 million shillings in repair costs.
+Table 1.7: Repair costs due motorcycle accidents
+Variable
+Number
+Mean
+Std Deviation
+Repair
+costs
+882 accidents
+victims
+79,524
+129,744.70
+70,140,168
+Repair
+costs
+389 severe
+injury victims
+115097.7
+161329.3
+44,773,005
+Source: Survey results
+
+WIllingess to pay (WTP) for fatality reduction
+In any attempt to value the impact of any policy on society, reserchers measures
+peoples’ strength of preference for safety initiatives using the WTP approach and
+compute the VOSL. The VOSL should be thought of as convenient way to summarize
+the value of small reductions in mortality risks. This is what economist refer to as
+monetary value of reducing mortarity risks, commonly called “value of life”. The
+expression “value of life” is an unfortunate reduced form of the value of statistical life
+(VOSL). Alternative terms for VOSL are value per ststistical life; value per life saved;
+and value of prevented fatality. The VSL does not measure what an individual is willing
+to pay to avoid death with certainty. It measures the willingness to pay for a very small
+change in risk. To understand the VOSL concept and our computations, the highlight
+below demonstrate the concept and how we arrived at the figures presented in table 3.7
+with an example:
+
+
+Suppose that in City composed of 100,000 identical individuals (in this case motorcycle
+riders in Kampala), there is an investment project that will make the city's roads safer.
+However, it is known based on Police Data that on average 10 motorcyclists die every
+year on these roads, and the project is expected to reduce from 10 to 5 the number of
+expected fatalities per year. Ths implies that the annual risk of dying due motorcycle
+accident is 10 in 100,000 and the anticipated project or intervention would reduce this
+number from 10 to 5 in 100,000. In statistical sense, this means that the project or any
+safety intervention would reduce the annual risk of dying from motorcycle accidents by
+0.0005 (5/100,000). In a population of 100,000, any safety intervention is expected, in a
+statistical sense, to result in 5 fewer death from motorcycle accidents each year.
+Suppose now that each member of the city (in this case a boda rider) is willing to pay
+222550 (average amount we obtained from survey) annually to reduce the risk dying
+from motorcycle accidents from 10 to 5 in 100,000 (half the numder of fatalities in
+100,000). Therefore, the value of preventing one fatality in one accident is defined as
+the aggregate amount that all affected individuals in society are willing to pay for these
+small risk reductions. The corresponding VOSL would be Ug Shs 222550/(5/100,000) =
+(222550*100000)/5 = 4,450,000,000 ($1,780,000). This represents the estimated value
+of life.
+
+In the study out of the 1600 boda boda riders who participated in the survey, over 96%
+of boda boda riders interviewed were willing to pay for a risk reduction which reduces
+the expected number of deaths from 10 to 5 out of 100,000. This implies that boda boda
+riders in Kampala are willing to pay price to reduce the risk of fatal motorcycle accident.
+Figure 11 presents the distribution of the willingness to pay values. It is evident in the
+figure that boda boda riders are willing to pay between 3,000 and 5 millions shillings to
+reduce the number of deaths from motorcycle from 10 to 5 out of 100,000. However, the
+majority are willing to pay less than 100,000 shillings and between 100,000-500,000
+shillings (49.3%). The avearge amount the riders were willing to pay was 222550,
+impling that on average boda boda riders are willing to forfeit 222,550 a year in order to
+
+
+obtain reduction in risk of dying from motorcycle accidents from 10 in 100, 000 to 5 in
+100,000.
+
+Table 1.8 presents the value of statistical life for Ugnada by means of contigent
+valuation. In th questionnaire results on willingness to pay to reduce fatality from
+motorcycle accidents indicate that boda boda riders were prepared to pay, on average
+222550 Ug shs for a risk reduction of five chance in 100,000 that they would be killed in
+the year due to motorcycle accidents. Therefore, the `value of an average life' in this
+instance would be (222550 x 100,000)/5 =4.45 billion Uganda shillings. This is defined
+as the total amount that boda boda riders selected in Kampala would pay per year to
+save 5 statistical lives resulting from motorcycle accidents.
+
+
+Table 1.8: The value of statistical life(VOSL)
+
+
+Average of MRS for all
+respondents give the WTP
+for a risk reduction which
+reduces expected deaths by
+1(5)
+Marginal rate of
+substitution
+(MRSi)
+Income change due a unit change
+in a risk given by:
+,
+,
+/
+b
+b
+i
+i
+=
+
+ bi represent the average
+amount the boda boda riders
+were willing to pay
+Total WTP
+This value is referred to as the
+value of saving statistical life or
+marginal value of safety
+4,450,000,000 ($1,780,000)
+
+
+Economic Burden of Motorcycle Accident Costs
+To estimate the economic burden of motorcycle accidents in Uganda, medical costs of
+accidents, lost output due to severe injury and fatality, repair costs and human costs
+(pain, grief and suffering). The computation of lost output is based on 2012 Police Data
+that reported the number of persons killed and injured from motorcycle accidents. In
+2012, there were 3043 officially reported severe accidents from motorcycle accidents
+and 571 people who died. These figures exclude the number persons who had minor
+injuries. In the estimation of medical expenses, the computations are based on results
+obtained from a study in Mulago on the cost of treating a boda boda patient. Pain, grief
+and suffering are calculated as a percentage of lost labour output due injury and fatality.
+The percentages considered are based Asian Development Bank estimates of 28% and
+50% of the total cost of a fatal and injury accident respectively. Table 1.9 shows the
+estimated economic burden of motorcycle accidents in Uganda is Ug shs 8,
+902,482,162 (approx US$ 3.6 million). Although these figures do not take into account
+the administrative and funeral costs of motorcycle accidents, the estimates reveal that if
+motorcycle accidents continue, country’s growth prospects will fall by US$ 3.6 million
+
+
+annually. Medical expenses and lost output due to severe injury are the biggest
+component of motorcycle costs contributing 40% and 35% respectively.
+
+Table 1.9: Estimates of national motorcycle costs
+Item
+(Ug shs)
+% Contribution
+Medical expenses
+3,534,268,943
+39.7
+Lost output due severe injury
+3,153,291,101
+35.4
+Lost output due to fatality
+225,216,071
+2.5
+Repair costs
+350,000,000
+3.9
+Human costs( Pain, grief and suffering)
+1,639,706,050
+18.4
+Total
+8,902,482,165
+(US$3.6 million)
+100.0
+
+Factors influencing WTP values
+The relationship between the WTP values (rider’s marginal value of safety) and the
+underlying influence of socio-economic factors was investigated by means of a
+regression analysis. In this study, the log-linear regression model was applied to
+analyse the significant factors influencing willingness to pay of respondents. The
+independent variables considered in the analysis include the age in complete years,
+motorcycle riding experience, education dummies, marital status, motorcycle ownership
+status and dummy if ever experienced an accident. The results of regression analysis
+are presented in the table 1.10 below.
+
+
+Table 1.10: Regression analysis results
+LnMVS
+Coef.
+Robust Std. Err.
+T
+P-value
+Age
+0.007
+0.006
+1.080
+0.282
+Monthly_income
+0.000
+0.000
+2.270
+0.023*
+Riding experience
+-0.005
+0.010
+-0.460
+0.649
+Primary
+-0.190
+0.143
+-1.330
+0.182
+Secondary
+-0.159
+0.142
+-1.120
+0.264
+Married
+-0.150
+0.084
+-1.780
+0.076**
+Number of_Dependants
+0.001
+0.011
+0.080
+0.936
+Ever_Had_Accident
+-0.049
+0.062
+-0.780
+0.436
+Owns_motorcycle
+0.217
+0.071
+3.060
+0.002*
+Constant
+21.289
+0.226
+94.370
+0.000
+“*” statistically significant at 5%; and “**” statistically significant at 10%
+
+The results in the table 1.10 above show that only three variables were statistically
+significant. These include income, marital status and motorcycle ownership. From
+economic point of view, positive significant effect of income concurs with many studies
+that have found that higher incomes are associated with higher WTP values. As
+expected riders who own motorcycles significantly and positively influence WTP values.
+Surprisingly however, being married is associated with less WTP values when
+comparing with unmarried motorcycle riders. In many studies, age has proved to an
+important factor explaining willingness to pay for safety. In this study surprisingly, age is
+not statistically significant although it has the right sign. The other factors that are
+insignificant are education, number of dependents, riding experience and accident
+experience. The negative coefficient on education and riding experience suggest that
+these variables not only being unimportant in rider’s risk evaluation but they are
+associated with lower MVS.
+
+
+WTP to reduce the risk of Severe Injury
+In the survey respondents were asked whether they are willing to pay 20,000 shillings
+for a helmet which reduces the risk of severe injury from 10 to 3 out of 100,000 people
+or reduction in risk of severe injury by 70%. The results in figure 12 show that over 95%
+of the boda boda riders who participated in the study were willing to pay 20,000 shillings
+to get a helmet which reduce the risk of severe injury by 70%. However, the willingness
+to pay for a helmet reduced more significantly as we varied the cost of helmet from
+20,000 to 140,000 shillings. This implies that although the majority of boda boda riders
+are willing to pay price premiums to acquire helmets that reduce severe injury, their
+willingness to pay undoubtedly is conditioned by the price of the helmet. For example,
+the willingness to pay for a helmet dropped to 12% for a price between 80,000 and
+100,000 shillings and subsequently to 5% for prices above 100,000. Therefore, any
+efforts to promote the use of quality helmets which are normally priced above 100,000
+shillings on the domestic market, one should consider price subsidization policy for the
+majority of the boda boda riders to acquire them.
+
+
+
+
+
+
+
+Finally, we explored the willingness to pay 100,000 shillings to obtain a reflector jacket
+and helmet/training to reduce half the number of boda boda accidents and injury in
+Kampala. These are some of the interventions KCCA has proposed to implement in the
+efforts to streamline the boda boda industry in Kampala. The results in the figure 13
+below shows that 53.46% of the riders interviewed were not willing to pay for these
+activities. This implies that KCCA will face some challenges in changing the face of
+boda boda industry in Kampala. A well integrated programme that incoorpotates the
+views of different stakeholder in the boda boda industry is need to have smooth
+transition from disorganised to organised industry.
+
+
+
+
+
+
+
+
+
+Conclusions and recommendations
+The descriptive analysis from the study show that the incidence and risk of motorcycle
+accident is high and boda boda riders themselves are hugely to blame in most of the
+accidents they get involved in. Therefore, safety initiatives should mostly target the
+behaviours of motorcycle riders alongside other road users. For instance, public
+awareness campaigns are needed to change the behaviour of motorcycle riders and
+also in supporting the enforcement of legislative traffic regulations and measures. It is
+perhaps true that most boda boda riders do not understand the health and economic
+implications associated with their reckless behaviour. The study results provide rich
+information that is helpful for fact-based advocacy to change behaviour of boda riders.
+Information on the cost of accidents to the individual and society as a whole can be
+used by Boda boda associations, Local administrations and authorities and civil society
+organizations to influence behaviour change among boda boda riders. For instance, the
+awareness campaigns from these stakeholders should communicate to the riders the
+health and economic consequences of undesirable traffic behaviour and associated
+motorcycle accidents. The police should intensify the use of the combination of
+enforcement and penalties to prevent the violation of traffic regulations and increase
+road safety.
+This study highlights the direct and indirect cost of motorcycle accidents in Uganda
+using a multi-method approach. The quantitative estimates and descriptions from the
+qualitative interviews have provided both the tangible and intangible costs of motorcycle
+accidents (both for fatality and severe injuries) and estimates are considered to be huge
+for a poor developing country. This information should serve to provide a momentum for
+safety improvement of motorcycle industry in Kampala and the rest of the country.
+In the first part of cost estimation of motorcycle accidents, the study provides estimates
+of intangible costs (such as medical expenses, lost output/productivity due injury and
+death and repair costs). The estimates show that motorcycle accidents are associated
+with huge burdens borne by the accident victims and their families and friends, as well a
+society as a whole. The estimation and presentation of these costs highlights the need
+
+
+for every member of society to recognize and be aware of the importance of road
+safety. Clearly, the results show that it costs approximately 7 million shillings to treat a
+boda boda accident victim who is severely injured; and more 3 billion Uganda shillings
+was lost due to lost days away from productive work as result of severe injuries and
+death. The motorcycle repair costs accumulated to 350 million Uganda shillings based
+on 2012 police data on motorcycle accidents.
+
+The study also provides estimates of the value of preventing motorcycle accidents
+based on the willingness-to-pay method using a contingent evaluation. The estimates
+show that on average boda boda riders are willing to sacrifice Ug shs 222,550 a year
+for reduction in mortality risks associated with motorcycle accidents that translate into
+4.45 billion shillings ($1 1,780,000), the value of statistical life (VOSL). This implyies
+that boda boda riders are willing to trade 4.45 billion shillings per year for a risk
+reduction which reduces the expected number of motorcycle fatalities from 10 to 5 lives.
+This represents the monetary value of increased safety and shows that boda boda
+riders are concerned about traffic safety and willing to trade a sizeable amount of
+money for improved safety. The estimates are quite comparable to those from other
+developing countries. Regression analysis results of the factors influencing marginal
+value of safety (MVS) reveal that income, marital status and ownership of motorcycles
+significantly influences rider’s evaluation of safety. The results on the effects of
+motorcycle ownership on MVS should of interest to government and boda boda
+associations in efforts to streamline boda boda industry. The efforts that enable the
+riders to own the motorcycles seem to affect safety evaluations.
+
+In the summary, the economic burden motorcycle costs were approximately US$ 3.6
+million. Although these figures do not take into account the administrative and funeral
+costs of motorcycle accidents, the estimates reveal that if motorcycle accidents
+continue, the country’s growth prospects will fall by US$ 3.6 million annually. Medical
+expenses and lost output due to severe injury are the biggest component of motorcycle
+
+
+costs contributing 40% and 35% respectively. The fact that the current initiatives and
+level of investment are inadequate to halt or reverse the rising motorcycle fatalities and
+injuries, the political will and funding levels in the sector should be commensurate with
+the scale of accidents and associated economic costs.
+
+The qualitative part of the study reveals that the effect of pain, grief, and suffering when
+the Boda-boda rider gets an accident goes beyond the individual life of the rider and
+affects the work, health and the family life of the rider. Therefore in seeking to design
+intervention programs to help the riders involved in motorcycle accidents, it is important
+for such programs to adopt a holistic approach to be effective. In addition, there is need
+for intervention programs at both family-and-work level which can help the riders and
+their families to quickly recover from the pain, grief and suffering they face. What is
+clearly demonstrated in the study is that the family and the work place are the key areas
+of support for the rider to deal with the demise of the motorcycle accidents yet there was
+no report of any systematic intervention program in our interviews which is utilizing
+these institutions to help the riders overcome the cost of pain, grief and suffering caused
+by motorcycle accidents. Therefore, the existing boda boda associations and leadership
+structure at boda boda stage level should be empowered to have organized
+welfare/health care systems that can assist members when they face accidents.
+It is also demonstrated in the study that coping by Boda-boda accident victims is
+complicated by lack of professional support. The provision of professional support
+tailored to the unique conditions faced by the Boda-boda RTA victims should be a
+critical focus for effective policy intervention. We suggest the strategy of working with
+the family of the riders and the Boda-boda leadership stage structures to effectively
+extend such services. The study also offers some key insights into the necessary reform
+in the health system geared towards effectively meeting the needs of motorcycle
+accidents victims in the Boda-boda sector. Specifically, we recommend the need to
+promote health insurance tailored for the Boda-boda riders for them to afford
+personalized health care in the event of the RTA, and programs that geared at changing
+
+
+the perception health workers towards boda boda accident victims. This can go a long
+way in addressing the cost of pain, grief and suffering they endure.
+Policy implications
+The paper presents the monetary value of increased safety from motorcycle accidents
+in Uganda and more specifically, the study presents both social and economic rationale
+for safety investments and interventions to improve the road traffic safety for
+motorcyclists. The key policy implication of the study is that reducing motorcycle
+causalities and fatalities will reduce social and economic sufferings of victims, unlock
+growth and free resources for more productive use. The findings provide the costbenefit analysis of any investment in areas that will promote the prevention, treatment,
+care and management of motorcycle accidents in Uganda.

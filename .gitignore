@@ -5,19 +5,24 @@ env/
 
 # Environment variables
 .env
+frontend/.env
+backend/.env
+
+# Node / frontend build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+*.tsbuildinfo
 
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
-
-# Build files
-build/
-dist/
-*.egg-info/
 
 # IDE files
 .vscode/
@@ -25,9 +30,9 @@ dist/
 
 # Runtime cache / generated index state
 backend/data/*.json
-University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/cache/
-University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/data/raw_pdfs/
-University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/logs/
+backend/University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/cache/
+backend/University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/data/raw_pdfs/
+backend/University-Semantic-Search-System/NLP-Pipeline/NLP Data/backend/logs/
 
 # OS files
 .DS_Store

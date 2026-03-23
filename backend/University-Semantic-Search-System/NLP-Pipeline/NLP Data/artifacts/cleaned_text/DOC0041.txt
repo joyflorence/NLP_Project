@@ -1,0 +1,336 @@
+October 2016 417
+© 2016 The Authors. The Bulletin of the Ecological Society of America, published by Wiley Periodicals, Inc., on behalf of the Ecological Society of America.
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+Scientific Writing Made Easy: A Step-­by-­Step Guide to Undergraduate
+Writing in the Biological Sciences
+Sheela P. Turbek,1 Taylor M. Chock,1 Kyle Donahue,1 Caroline A. Havrilla,1 Angela M. Oliverio,1,2
+Stephanie K. Polutchko,1 Lauren G. Shoemaker,1 and Lara Vimercati1
+1Department of Ecology and Evolutionary Biology, University of Colorado, Boulder,
+UCB 334, Ramaley Hall, Boulder, Colorado 80309 USA
+2Cooperative Institute for Research in Environmental Sciences, University of Colorado,
+UCB 334, Boulder, Colorado 80309 USA
+Abstract. Scientific writing, while an indispensable step of the scientific process, is often overlooked in
+undergraduate courses in favor of maximizing class time devoted to scientific concepts. However, the ability to effectively communicate research findings is crucial for success in the biological sciences. Graduate
+students are encouraged to publish early and often, and professional scientists are generally evaluated by
+the quantity of articles published and the number of citations those articles receive. It is therefore important
+that undergraduate students receive a solid foundation in scientific writing early in their academic careers.
+In order to increase the emphasis on effective writing in the classroom, we assembled a succinct step-­by-­
+step guide to scientific writing that can be directly disseminated to undergraduates enrolled in biological
+science courses. The guide breaks down the scientific writing process into easily digestible pieces, providing concrete examples that students can refer to when preparing a scientific manuscript or laboratory
+report. By increasing undergraduate exposure to the scientific writing process, we hope to better prepare
+undergraduates for graduate school and productive careers in the biological sciences.
+An introduction to the guide
+While writing is a critical part of the scientific process, it is often taught secondarily to scientific concepts
+and becomes an afterthought to students. How many students can you recall who worked on a laboratory
+assignment or class project for weeks, only to throw together the written report the day before it was due?
+Note: Charlene D’Avanzo is the editor of
+Ecology 101. Anyone wishing to contribute articles or reviews to this section should contact
+her at the School of Natural Sciences, Hampshire
+College, 893 West Street, Amherst, MA 01002.
+E-mail: cdavanzo@hampshire.edu
+
+For many, this pattern occurs because we focus almost exclusively on the scientific process, all but
+neglecting the scientific writing process. Scientific writing is often a difficult and arduous task for many
+students. It follows a different format and deviates in structure from how we were initially taught to
+write, or even how we currently write for English, history, or social science classes. This can make the
+scientific writing process appear overwhelming, especially when presented with new, complex content.
+However, effective writing can deepen understanding of the topic at hand by compelling the writer to
+present a coherent and logical story that is supported by previous research and new results.
+Clear scientific writing generally follows a specific format with key sections: an introduction to a
+particular topic, hypotheses to be tested, a description of methods, key results, and finally, a discussion
+that ties these results to our broader knowledge of the topic (Day and Gastel 2012). This general format
+is inherent in most scientific writing and facilitates the transfer of information from author to reader if
+a few guidelines are followed.
+Here, we present a succinct step-­by-­step guide that lays out strategies for effective scientific writing
+with the intention that the guide be disseminated to undergraduate students to increase the focus on the
+writing process in the college classroom. While we recognize that there are no hard and fast rules when
+it comes to scientific writing, and more experienced writers may choose to disregard our suggestions
+these guidelines will assist undergraduates in overcoming the initial challenges associated with writing
+scientific papers. This guide was inspired by Joshua Schimel’s Writing Science: How to Write Papers
+that Get Cited and Proposals that Get Funded—an excellent book about scientific writing for graduate
+students and professional scientists—but designed to address undergraduate students. While the guide
+was written by a group of ecologists and evolutionary biologists, the strategies and suggestions presented here are applicable across the biological sciences and other scientific disciplines. Regardless of
+the specific course being taught, this guide can be used as a reference when writing scientific papers,
+independent research projects, and laboratory reports. For students looking for more in-­depth advice,
+additional resources are listed at the end of the guide.
+To illustrate points regarding each step of the scientific writing process, we draw examples throughout the
+guide from Kilner et al. (2004), a paper on brown-­headed cowbirds—a species of bird that lays its eggs in the
+nests of other bird species, or hosts—that was published in the journal Science. Kilner et al. investigate why
+cowbird nestlings tolerate the company of host offspring during development rather than pushing host eggs
+out of the nest upon hatching to monopolize parental resources. While articles in the journal Science are especially concise and lack the divisions of a normal scientific paper, Kilner et al. (2004) offers plenty of examples
+of effective communication strategies that are utilized in scientific writing. We hope that the guidelines that
+follow, as well as the concrete examples provided, will lead to scientific papers that are information rich, concise, and clear, while simultaneously alleviating frustration and streamlining the writing process.
+Undergraduate guide to writing in the biological sciences
+The before steps
+The scientific writing process can be a daunting and often procrastinated “last step” in the scientific
+process, leading to cursory attempts to get scientific arguments and results down on paper. However,
+scientific writing is not an afterthought and should begin well before drafting the first outline. Successful
+
+
+October 2016 419
+writing starts with researching how your work fits into existing literature, crafting a compelling story,
+and determining how to best tailor your message to an intended audience.
+Research how your work fits into existing literature.—It is important to decide how your research
+compares to other studies of its kind by familiarizing yourself with previous research on the topic.
+If you are preparing a laboratory write-­up, refer to your textbook and laboratory manual for background information. For a research article, perform a thorough literature search on a credible search
+engine (e.g., Web of Science, Google Scholar). Ask the following questions: What do we know
+about the topic? What open questions and knowledge do we not yet know? Why is this information important? This will provide critical insight into the structure and style that others have used
+when writing about the field and communicating ideas on this specific topic. It will also set you up
+to successfully craft a compelling story, as you will begin writing with precise knowledge of how
+your work builds on previous research and what sets your research apart from the current published
+literature.
+Understand your audience (and write to them).—In order to write effectively, you must identify
+your audience and decide what story you want them to learn. While this may seem obvious, writing
+about science as a narrative is often not done, largely because you were probably taught to remain dispassionate and impartial while communicating scientific findings. The purpose of science writing is not
+explaining what you did or what you learned, but rather what you want your audience to understand.
+Start by asking: Who is my audience? What are their goals in reading my writing? What message do
+I want them to take away from my writing? There are great resources available to help science writers
+answer these questions (Nisbet 2009, Baron 2010). If you are interested in publishing a scientific paper,
+academic journal websites also provide clear journal mission statements and submission guidelines for
+prospective authors. The most effective science writers are familiar with the background of their topic,
+have a clear story that they want to convey, and effectively craft their message to communicate that story
+to their audience.
+Introduction
+The Introduction sets the tone of the paper by providing relevant background information and clearly
+identifying the problem you plan to address. Think of your Introduction as the beginning of a funnel:
+Start wide to put your research into a broad context that someone outside of the field would understand,
+and then narrow the scope until you reach the specific question that you are trying to answer (Fig. 1;
+Schimel 2012). Clearly state the wider implications of your work for the field of study, or, if relevant,
+any societal impacts it may have, and provide enough background information that the reader can understand your topic. Perform a thorough sweep of the literature; however, do not parrot everything you find.
+Background information should only include material that is directly relevant to your research and fits
+into your story; it does not need to contain an entire history of the field of interest. Remember to include
+in-­text citations in the format of (Author, year published) for each paper that you cite and avoid using
+the author’s name as the subject of the sentence:
+“Kilner et al. (2004) found that cowbird nestlings use host offspring to procure more food.”
+Instead, use an in-­text citation:
+
+“Cowbird nestlings use host offspring to procure more food.”(Kilner et al. 2004)
+Upon narrowing the background information presented to arrive at the specific focus of your research,
+clearly state the problem that your paper addresses. The problem is also known as the knowledge gap,
+or a specific area of the literature that contains an unknown question or problem (e.g., it is unclear why
+cowbird nestlings tolerate host offspring when they must compete with host offspring for food) (refer
+to the section “Research how your work fits into existing literature”). The knowledge gap tends to be a
+small piece of a much larger field of study. Explicitly state how your work will contribute to filling that
+knowledge gap. This is a crucial section of your manuscript; your discussion and conclusion should all
+be aimed at answering the knowledge gap that you are trying to fill. In addition, the knowledge gap will
+drive your hypotheses and questions that you design your experiment to answer.
+Your hypothesis will often logically follow the identification of the knowledge gap (Table 1). Define
+the hypotheses you wish to address, state the approach of your experiment, and provide a 1–2 sentence overview of your experimental design, leaving the specific details for the methods section. If your
+methods are complicated, consider briefly explaining the reasoning behind your choice of experimental
+design. Here, you may also state your system, study organism, or study site, and provide justification for
+why you chose this particular system for your research. Is your system, study organism, or site a good
+representation of a more generalized pattern? Providing a brief outline of your project will allow your
+Introduction to segue smoothly into your Materials and Methods section.
+Materials and Methods
+The Materials and Methods section is arguably the most straightforward section to write; you can even
+begin writing it while performing your experiments to avoid forgetting any details of your ­experimental
+Fig. 1. Framing a scientific paper. The structure of a paper mirrors that of an hourglass, opening broadly and
+narrowing to the specific question, hypothesis, methods, and results of the study. Effective papers widen again in
+the discussion and conclusion, connecting the study back to the existing literature and explaining how the current
+study filled a knowledge gap.
+
+
+October 2016 421
+design. In order to make your paper as clear as possible, organize this section into subsections with
+headers for each procedure you describe (e.g., field collection vs. laboratory analysis). We recommend
+reusing these headers in your Results and Discussion to help orient your readers.
+The aim of the Materials and Methods section is to demonstrate that you used scientifically valid
+methods and provide the reader with enough information to recreate your experiment. In chronological
+order, clearly state the procedural steps you took, remembering to include the model numbers and specific settings of all equipment used (e.g., centrifuged in Beckman Coulter Benchtop Centrifuge Model
+Allegra X -­15R at 12,000 × g for 45 minutes). In addition to your experimental procedure, describe any
+statistical analyses that you performed. While the parameters you include in your Materials and Methods
+section will vary based on your experimental design, we list common ones in Table 2 (Journal of Young
+Investigators 2005) that are usually mentioned. If you followed a procedure developed from another
+paper, cite the source that it came from and provide a general description of the method. There is no
+need to reiterate every detail, unless you deviated from the source and changed a step in your procedure.
+However, it is important to provide enough information that the reader can follow your methods without referring to the original source. As you explain your experiment step by step, you may be tempted
+to include qualifiers where sources of error occurred (e.g., the tube was supposed to be centrifuged for
+5 minutes, but was actually centrifuged for 10). However, generally wait until the Discussion to mention
+these subjective qualifiers and avoid discussing them in the Materials and Methods section.
+The Materials and Methods section should be written in the past tense:
+“On hatch day, and every day thereafter for 9 days, we weighed chicks, measured their tibia
+length, and calculated the instantaneous growth constant K to summarize rates of mass gain and
+skeletal growth.” (Kilner et al. 2004)
+While it is generally advisable to use active voice throughout the paper (refer to the section “­Putting
+It All Together,” below), you may want to use a mixture of active and passive voice in the Materials and
+­Methods section in order to vary sentence structure and avoid repetitive clauses.
+Table 1. Constructing a hypothesis.
+A hypothesis is a testable explanation of an observed occurrence in nature, or, more specifically, why something you observed is occurring. Hypotheses relate directly to research questions, are written in the present
+tense, and can be tested through observation or experimentation. Although the terms “hypothesis” and “prediction” are often incorrectly used interchangeably, they refer to different but complementary concepts. A
+hypothesis attempts to explain the mechanism underlying a pattern, while a prediction states an expectation
+regarding the results. While challenging to construct, hypotheses provide powerful tools for structuring
+­research, generating specific predictions, and designing experiments.
+Example:
+Observation: Brown-­headed cowbird nestlings refrain from ejecting host offspring from the nest even though
+those offspring compete for limited parental resources.
+Research question: Why do nestling cowbirds tolerate the presence of host offspring in the nest?
+Hypothesis: The presence of host offspring causes parents to bring more food to the nest.
+Prediction: Cowbird nestlings will grow at a faster rate in nests that contain host offspring.
+
+Results
+The Results section provides a space to present your key findings in a purely objective manner and
+lay the foundation for the Discussion section, where those data are subjectively interpreted. Before
+diving into this section, identify which graphs, tables, and data are absolutely necessary for telling your
+story. Then, craft a descriptive sentence or two that summarizes each result, referring to corresponding
+table and figure numbers. Rather than presenting the details all at once, write a short summary about
+each data set. If you carried out a complicated study, we recommend dividing your results into multiple
+sections with clear headers following the sequence laid out in the Materials and Methods section.
+As you relate each finding, be as specific as possible and describe your data biologically rather than
+through the lens of statistics. While statistical tests give your data credibility by allowing you to attribute
+observed differences to nonrandom variation, they fail to address the actual meaning of the data. Instead,
+translate the data into biological terms and refer to statistical results as supplemental information, or even
+in parenthetical clauses (Schimel 2012). For example, if your dependent variable changed in response to
+a treatment, report the magnitude and direction of the effect, with the P-­value in parentheses.
+“By day 8, cowbirds reared with host young were, on average, 14% heavier than cowbirds
+reared alone (unpaired t16 = −2.23, P = 0.041, Fig. 2A).”(Kilner et al. 2004)
+If your P-­value exceeded 0.05 (or your other statistical tests yielded nonsignificant results), report
+any noticeable trends in the data rather than simply dismissing the treatment as having no significant
+effect (Fry 1993). By focusing on the data and leaving out any interpretation of the results in this section,
+you will provide the reader with the tools necessary to objectively evaluate your findings.
+Discussion and conclusion
+The Discussion section usually requires the most consideration, as this is where you interpret
+your results. Your Discussion should form a self-­contained story tying together your Introduction
+Table 2. Common parameters included in the Materials and Methods section.
+• Site characterization:
+Study organism used, its origin, any pre-­experiment handling or care
+Description of field site or site where experiment was performed
+• Experimental design:
+Step-­by-­step procedures in paragraph form
+Sample preparation
+Experimental controls
+Equipment used, including model numbers and year
+Important equipment settings (e.g., temperature of incubation, speed of centrifuge)
+Amount of reagents used
+Specific measurements taken (e.g., wing length, weight of organism)
+• Statistical analyses conducted (e.g., ANOVA, linear regression)
+
+
+October 2016 423
+and Results sections (Schimel 2012). One potential strategy for writing the Discussion is to begin by
+explicitly stating the main finding(s) of your research (Cals and Kotz 2013). Remind the reader of the
+knowledge gap identified in the Introduction to re-­spark curiosity about the question you set out to
+answer. Then, explicitly state how your experiment moved the field forward by filling that knowledge
+gap.
+After the opening paragraph of your Discussion, we suggest addressing your question and hypotheses
+with specific evidence from your results. If there are multiple possible interpretations of a result, clearly
+lay out each competing explanation. In the cowbird example, a higher feeding rate in the presence of
+host offspring could indicate either (1) that the parents were more responsive to the begging behavior
+of their own species or (2) that the collective begging behavior of more offspring in the nest motivated
+the host parents to provide additional food (Kilner et al. 2004). Presenting and evaluating alternative
+explanations of your findings will provide clear opportunities for future research. However, be sure to
+keep your Discussion concrete by referring to your results to support each given interpretation.
+Intermingled with these interpretations, reference preexisting literature and report how your results
+relate to previous findings (Casenove and Kirk 2016). Ask yourself the following questions: How do
+my results compare to those of similar studies? Are they consistent or inconsistent with what other
+researchers have found? If they are inconsistent, discuss why this might be the case. For example, are
+you asking a similar question in a different system, organism, or site? Was there a difference in the
+methods or experimental design? Any caveats of the study (e.g., small sample size, procedural mistakes,
+or known biases in the methods) should be transparent and briefly discussed.
+The conclusion, generally located in its own short section or the last paragraph of the Discussion,
+represents your final opportunity to state the significance of your research. Rather than merely restating
+your main findings, the conclusion should summarize the outcome of your study in a way that incorporates new insights or frames interesting questions that arose as a result of your research. Broaden your
+perspective again as you reach the bottom of the hourglass (Fig. 1). While it is important to acknowledge
+the shortcomings or caveats of the research project, generally include these near the beginning of the
+conclusion or earlier in the Discussion. You want your take-­home sentences to focus on what you have
+accomplished and the broader implications of your study, rather than your study’s limitations or shortcomings (Schimel 2012). End on a strong note.
+Putting it all together
+No matter how many boards you stack on top of each other, you still need nails to prevent the pile
+from falling apart. The same logic applies to a scientific paper. Little things—such as flow, structure,
+voice, and word choice—will connect your story, polish your paper, and make it enjoyable to read.
+First, a paper needs to flow. The reader should easily be able to move from one concept to another,
+either within a sentence or between paragraphs. To bolster the flow, constantly remind yourself of the
+overarching story; always connect new questions with resolutions and tie new concepts to previously
+presented ideas. As a general rule, try to maintain the same subject throughout a section and mix up sentence structure in order to emphasize different concepts. Keep in mind that words or ideas placed toward
+the end of a sentence often convey the most importance (Schimel 2012).
+
+The use of active voice with occasional sentences in passive voice will additionally strengthen your writing.
+Scientific writing is rife with passive voice that weakens otherwise powerful sentences by stripping the subjects of action. However, when used properly, the passive voice can improve flow by strategically placing a
+sentence’s subject so that it echoes the emphasis of the preceding sentence. Compare the following sentences:
+“The cowbird nestlings tolerated the host nestlings.”(active)
+“The host nestlings were tolerated by the cowbird nestlings.”(passive)
+If host nestlings are the focus of the paragraph as a whole, it may make more sense to present the passive
+sentence in this case, even though it is weaker than the active version. While passive and active voices can
+complement each other in particular situations, you should typically use the active voice whenever possible.
+Lastly, word choice is critical for effective storytelling (Journal of Young Investigators 2005). Rather
+than peppering your report or manuscript with overly complicated words, use simple words to lay the
+framework of your study and discuss your findings. Eliminating any flourish and choosing words that
+get your point across as clearly as possible will make your work much more enjoyable to read (Strunk
+and White 1979, Schimel 2012).
+Editing and peer review
+Although you have finally finished collecting data and writing your report, you are not done yet!
+Re-­reading your paper and incorporating constructive feedback from others can make the difference
+between getting a paper accepted or rejected from a journal or receiving one letter grade over another on
+a report. The editing stage is where you put the finishing touches on your work.
+Start by taking some time away from your paper. Ideally, you began your paper early enough that you
+can refrain from looking at it for a day or two. However, if the deadline looms large, take an hour break
+at the very least. Come back to your paper and verify that it still expresses what you intended to say.
+Where are the gaps in your story structure? What has not been explained clearly? Where is the writing
+awkward, making it difficult to understand your point? Consider reading the paper out loud first, and
+then print and edit a hard copy to inspect the paper from different angles.
+Editing is best done in stages. On the first run-­through of your paper, make sure you addressed all of
+the main ideas of the study. One way to achieve this is by writing down the key points you want to hit
+prior to re-­reading your paper. If your paper deviates from these points, you may need to delete some
+paragraphs. In contrast, if you forgot to include something, add it in. To check the flow of your paragraphs, verify that a common thread ties each paragraph to the preceding one, and similarly, that each
+sentence within a paragraph builds on the previous sentence. Finally, re-­read the paper with a finer lens,
+editing sentence structure and word choice as you go to put the finishing touches on your work. Grammar
+and spelling are just as important as your scientific story; a poorly written paper will have limited impact
+regardless of the quality of the ideas expressed (Harley et al. 2004).
+After editing your own paper, ask someone else to read it. A classmate is ideal because he/she understands the assignment and could exchange papers with you. The editing steps described above also
+
+
+October 2016 425
+apply when editing someone else’s paper. If a classmate is not available, try asking a family member or
+a friend. Having a fresh set of eyes examine your work may help you identify sections of your paper that
+need clarification. This procedure will also give you a glimpse into the peer review process, which is
+integral to professional science writing (Guilford 2001). Don’t be discouraged by negative comments—
+incorporating the feedback of reviewers will only strengthen your paper. Good criticism is constructive.
+Conclusion
+While the basics of writing are generally taught early in life, many people constantly work to refine
+their writing ability throughout their careers. Even professional scientists feel that they can always write
+more effectively. Focusing on the strategies for success laid out in this guide will not only improve your
+writing skills, but also make the scientific writing process easier and more efficient. However, keep in
+mind that there is no single correct way to write a scientific paper, and as you gain experience with scientific writing, you will begin to find your own voice. Good luck and happy writing!
+Additional resources
+For those interested in learning more about the skill of scientific writing, we recommend the following resources. We note that much of the inspiration and concrete ideas for this step-­by-­step guide
+originated from Schimel’s Writing Science: How to Write Papers that Get Cited and Proposals that Get
+Funded.
+1. Journal of Young Investigators. 2005. Writing scientific manuscripts: a guide for undergraduates. Journal of Young Investigators, California.
+2. Lanciani, C. A. 1998. Reader-friendly writing in science. Bulletin of the Ecological Society
+of America 79: 171–172.
+3. Morris, J., T. Jehn, C. Vaughan, E. Pantages, T. Torello, M. Bucheli, D. Lohman, and R. Jue.
+2007. A student’s guide to writing in the life sciences. The President and Fellows of Harvard
+University, Massachusetts.
+4. Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get
+funded. Oxford University Press, Oxford.
+Acknowledgments
+We thank Nichole Barger and the University of Colorado, Boulder 2016 graduate writing seminar for
+helpful discussions that greatly enhanced the quality of this essay.
+Potential Conflicts of Interest
+None.
+Literature Cited
+Baron, N. 2010. Escape from the ivory tower: a guide to making your science matter. Island Press,
+Washington, D.C.
+
+Cals, J. W., and D. Kotz. 2013. Effective writing and publishing scientific papers, part VI: discussion.
+Journal of Clinical Epidemiology 66:1064.
+Casenove, D., and S. Kirk. 2016. A spoonful of science can make science writing more hedged.
+­Electronic Journal of Science Education 20:138–149.
+Day, R., and B. Gastel. 2012. How to write and publish a scientific paper. Cambridge University Press,
+Cambridge.
+Fry, J. C. 1993. Biological data analysis: a practical approach. IRL Press Ltd, Oxford.
+Guilford, W. H. 2001. Teaching peer review and the process of scientific writing. Advances in
+­Physiology Education 25:167–175.
+Harley, C. D., M. A. Hixon, and L. A. Levin. 2004. Scientific Writing And Publishing-­A Guide For
+Students. Bulletin of the Ecological Society of America 85:74–78.
+Journal of Young Investigators. 2005. Writing scientific manuscripts: a guide for undergraduates.
+­Journal of Young Investigators.
+Kilner, R., J. Madden, and M. Hauber. 2004. Brood parasitic cowbird nestlings use host young to
+­procure resources. Science 305:877–879.
+Nisbet, M. C. 2009. Framing science: a new paradigm in public engagement. Pages 40–67 in L. Kahlor
+and P. Stout, editors. Understanding science: new agendas in science communication. Taylor and
+Francis, New York, New York.
+Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded.
+Oxford University Press, Oxford.
+Strunk, W., and E. B. White. 1979. The elements of style. Third edition. Macmillan Publishing Co, New
+York, New York.

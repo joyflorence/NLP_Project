@@ -1,0 +1,1292 @@
+ 
+THE IMPACT OF LEADERSHIP STYLES ON EMPLOYEE PERFORMANCE: A 
+CASE STUDY OF CENTENARY BANK  
+  
+ ANITHA NYIRARUKUNDO 
+M23B05/034 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF THE BACHELOR OF 
+BUSINESS ADMINISTRATION OF UGANDA CHRISTIAN UNIVERSITY 
+September,2025 
+ 
+ 
+ 
+ 
+
+i
+
+ii
+
+iii
+ACKNOWLEDGEMENT
+I wish to express my sincere gratitude to my academic supervisor, Mr.
+Kibuuka David, for continuously guiding me throughout this research.
+Additionally, I would like to thank Centenary Bank management for their
+unwavering support and guidance during the research process and for
+generously dedicating their time to aid me with my work.
+
+iv
+TABLE OF CONTENTS
+Table of Contents
+DECLARATION...................................................Error! Bookmark not defined.
+APPROVAL .......................................................Error! Bookmark not defined.
+ACKNOWLEDGEMENT .............................................................................iii
+TABLE OF CONTENTS ............................................................................. iv
+ABSTRACT ......................................................................................... vii
+CHAPTER ONE ......................................................................................1
+1.0 Introduction....................................................................................1
+1.1Background of the study ......................................................................1
+1.2 Statement of the problem ...................................................................2
+1.3 Purpose of the study..........................................................................3
+1.4 Objectives of the study ......................................................................3
+1.5 Research questions............................................................................3
+1.6 Scope of the study ............................................................................3
+1.6.1 Subject scope ...............................................................................3
+1.6.2 Geographical scope.........................................................................3
+1.6.3 Time Scope ..................................................................................4
+1.7 Significance of the study.....................................................................4
+CHAPTER TWO......................................................................................5
+LITERATURE REVIEW ...............................................................................5
+2.0 Introduction....................................................................................5
+2.1 The different types of leadership...........................................................5
+2.2 Leadership styles and performance levels.................................................8
+
+v
+2.3 Possible ways to improve leadership and performance................................ 11
+CHAPTER THREE.................................................................................. 14
+RESEARCH METHODOLOGY...................................................................... 14
+3.0 Introduction.................................................................................. 14
+3.1 Research design ............................................................................. 14
+3.2 Study population ............................................................................ 14
+3.3 Sample size .................................................................................. 14
+Table 3.3: Sample size distribution ........................................................... 14
+3.4 Sampling technique ......................................................................... 15
+3.5 Sources of data .............................................................................. 15
+3.5.1 Primary data............................................................................... 15
+3.5.2 Secondary data............................................................................ 15
+3.6 Data collection instruments ............................................................... 15
+The study used questionnaires as the main data collection instrument................. 15
+3.6.1 Questionnaire ............................................................................. 15
+3.7 Data analysis and presentation............................................................ 16
+3.8 Ethical considerations ...................................................................... 16
+CHAPTER FOUR................................................................................... 17
+DATA PRESENTATION, ANALYSIS, AND DISCUSSION OF FINDINGS ........................... 17
+4.0 Introduction.................................................................................. 17
+4.1 Analysis of response rate................................................................... 17
+4.2 Demographic characteristics of the respondents....................................... 17
+Table 4.1: Gender of the Respondents........................................................ 17
+Table 4.2: Education Level of Respondents .................................................. 18
+Table 4.3: Work Experience of Respondents ................................................. 18
+
+vi
+4.3 Descriptive Statistics of the Study Variables ............................................ 19
+4.3.1 Types of leadership styles at Centenary Bank ........................................ 20
+Table 4.4: Descriptive Statistics on Leadership Styles...................................... 20
+4.3.2 Performance Levels of Employees at Centenary Bank............................... 21
+Table 4.5: Descriptive Statistics on Employee Performance............................... 21
+4.3.3 Suggested Ways to Improve Leadership and Performance .......................... 22
+Table 4.6: Suggestions to Improve Leadership and Performance ......................... 22
+CHAPTER FIVE .................................................................................... 24
+SUMMARY OF FINDINGS, CONCLUSIONS, AND RECOMMENDATIONS ........................ 24
+5.0 Introduction.................................................................................. 24
+5.1 Summary of Findings........................................................................ 25
+5.2 Conclusions................................................................................... 25
+5.3 Recommendations........................................................................... 26
+5.4 Areas for further study ..................................................................... 27
+REFERENCES ...................................................................................... 28
+APPENDIX 1 ....................................................................................... 32
+QUESTIONNAIRE .................................................................................. 32
+
+vii
+ABSTRACT
+This study examined the impact of leadership styles on employee performance at
+Centenary Bank. The objectives of the research were to identify the different types of
+leadership employed, assess employee performance levels, and propose strategies to
+improve leadership practices and overall performance within the organization. The
+study adopted a cross-sectional research design, targeting a population of 120
+employees across managers, supervisors, and subordinate staff, with a sample size of
+92 determined using Krejcie and Morgan’s (1970) table. Stratified random sampling
+and simple random sampling techniques were employed to select respondents, while
+data were collected using structured questionnaires. Both primary and secondary data
+sources were utilized, with primary data capturing employee perceptions on
+leadership styles transformational, transactional, democratic, autocratic, and laissez-
+faire and their effects on performance. Data were analyzed using descriptive and
+inferential statistics, including frequencies, percentages, means, standard deviations,
+and correlation analysis, and results were presented through tables, charts, and
+graphs.
+Findings revealed that transformational, transactional, and democratic leadership
+styles were predominantly practiced, with transformational leadership having the
+most significant influence on employee motivation, teamwork, innovation, and overall
+performance. Autocratic leadership was moderately applied, while laissez-faire
+leadership was least practiced. The study further identified strategies to enhance
+leadership effectiveness, including regular leadership training, participatory decision-
+making, reward and recognition systems, open communication channels, and
+mentorship programs. The study concludes that effective leadership positively
+impacts employee performance and recommends that Centenary Bank strengthen
+leadership practices to foster a motivated, productive, and committed workforce.
+Future research is suggested on the role of organizational culture, employee
+motivation, and job satisfaction in shaping leadership effectiveness.
+
+viii
+Keywords:Leadership styles, Employee performance, Transformational leadership,
+Transactional leadership, Democratic leadership, Centenary Bank.
+
+1
+CHAPTER ONE
+1.0 Introduction
+This chapter presents the background to the study, statement of the problem, purpose
+of the study, objectives of the study, research questions, scope, significance of the
+study, and limitations of the study.
+1.1Background of the study
+Leadership style refers to the approach and behavior that leaders adopt in guiding,
+motivating, 
+and 
+influencing 
+their 
+employees 
+toward 
+the 
+achievement 
+of
+organizational goals. It encompasses various dimensions such as decision-making
+patterns, communication styles, and the degree of involvement given to subordinates
+in organizational processes. Common leadership styles include transformational
+leadership, which focuses on inspiring and empowering employees; transactional
+leadership, which emphasizes clear structures, rewards, and penalties; and laissez-
+faire leadership, which involves minimal interference and autonomy for employees.
+Employee performance, on the other hand, refers to the extent to which employees
+effectively execute their roles and responsibilities to achieve set targets and
+contribute to the overall productivity and success of an organization. High employee
+performance is often characterized by efficiency, innovation, commitment, and
+alignment with organizational objectives.
+Numerous studies have established that leadership style significantly affects employee
+performance and workplace behavior. For instance, Bass and Avolio (2004) noted that
+transformational leadership enhances motivation, satisfaction, and innovation by
+fostering a sense of purpose and professional development among employees.
+Transactional leadership has been linked to the achievement of short-term goals
+through structured supervision and reward systems (Judge & Piccolo, 2004), while
+laissez-faire leadership, characterized by passive decision-making, is often associated
+with reduced motivation and lower productivity (Skogstad et al., 2007). Robbins and
+Judge (2017) emphasized that effective leadership goes beyond directing employees
+
+2
+to inspiring them, aligning leadership approaches with organizational values and
+employee expectations. Similarly, Tyagi (2021) argued that leadership effectiveness is
+critical for employee retention, engagement, and overall organizational productivity.
+However, organizations, particularly in the banking sector, face practical challenges
+in applying effective leadership styles that enhance performance. Leaders often
+encounter difficulties such as managing diverse workforce expectations, resistance to
+change, and maintaining high employee morale under strict regulatory and
+performance pressures (Al Khajeh, 2018). Communication gaps between managers and
+employees frequently lead to misunderstandings and disengagement, affecting overall
+productivity (Iqbal et al., 2020).
+Furthermore, leaders struggle with adapting their leadership styles to the evolving
+workplace dynamics driven by technological change and increased competition
+(Mwesigwa et al., 2021). High employee turnover and burnout have also been
+reported as critical challenges, especially where leadership fails to foster a supportive
+and motivating environment (Babalola et al., 2022). These challenges are particularly
+evident in financial institutions like Centenary Bank, where leadership plays a crucial
+role in influencing employee motivation, workplace commitment, and overall
+productivity. This study, therefore, seeks to examine how different leadership styles
+impact employee performance at Centenary Bank and explore strategies for
+overcoming leadership challenges to foster better workplace outcomes.
+1.2 Statement of the problem
+Employee performance is a critical determinant of organizational success, particularly
+in the banking sector, where service quality and customer satisfaction depend heavily
+on employee motivation and engagement. At Centenary Bank, leadership styles
+defined as the approaches leaders use to direct, motivate, and manage employees
+(Northouse, 2018) play a crucial role in shaping workplace culture and influencing
+performance outcomes. Transformational leadership, which inspires and motivates
+employees through a shared vision and personal development, has been linked to
+increased morale, creativity, and productivity. Similarly, democratic leadership,
+
+3
+which encourages employee participation in decision-making, fosters commitment,
+job satisfaction, and retention. In contrast, autocratic leadership, characterized by
+centralized decision-making and limited employee involvement, often results in low
+morale and high turnover, while laissez-faire leadership, which provides minimal
+guidance and oversight, can lead to disengagement and reduced productivity (Yukl,
+2013). In Uganda’s competitive and customer-driven banking sector, understanding
+how these leadership styles influence employee performance is vital for enhancing
+motivation, improving service delivery, and promoting organizational growth.
+1.3 Main objective of the study
+The purpose of this study was to investigate the impact of leadership styles on
+employee performance, using Centenary Bank as a case study.
+1.4 Objectives of the study
+i.
+To find out the different types of leadership at centenary bank
+ii.
+To find out performance levels at bank
+iii.
+To suggest possible ways to improve leadership and performance at the bank
+1.5 Research questions
+i) What are the different leadership styles at Centenary bank?
+ii) How do different leadership styles affect employee performance?
+iii) What are possible ways leadership can be improved at Centenary bank ?
+1.6 Scope of the study
+1.6.1 Subject scope
+The study explored the relationship between leadership styles and employee
+performance
+within Centenary Bank. Specifically, it examines how leadership
+approaches such as transformational, transactional, autocratic, democratic, and
+laissez-faire leadership influence employees' motivation, engagement, and overall
+performance.
+1.6.2 Geographical scope
+
+4
+The study was confined to Centenary Bank branch in Mukono. By focusing on a specific
+institution, the research ensures a detailed and contextualized analysis of how
+leadership styles influence employee performance across different departments and
+branches of the bank.
+1.6.3 Time Scope
+The time scope of the study spans the past five years, from 2019 to 2024. This period
+allowed for a contemporary analysis of leadership trends, recent changes in
+management strategies, and their impact on employee performance, particularly
+considering organizational responses to economic shifts, technological advancements,
+and evolving workplace dynamics.
+1.7 Significance of the study
+The study on the impact of leadership styles on employee performance at Centenary
+Bank provides valuable insights into how different leadership approaches affect
+workplace morale, motivation, and performance. Understanding the specific
+leadership practices that enhance performance can help Centenary Bank and other
+financial institutions refine their leadership development programs.
+The findings will be beneficial to policymakers within the banking sector, guiding
+leadership training initiatives and human resource strategies to foster a more engaged
+workforce. Additionally, scholars and researchers will find the study useful in
+contributing to the existing literature on leadership and performance, particularly in
+the context of Uganda’s banking industry.
+By addressing the relationship between leadership styles and performance, this study
+aims to provide practical recommendations that can enhance employee well-being,
+reduce turnover, and improve overall organizational effectiveness.
+
+5
+CHAPTER TWO
+LITERATURE REVIEW
+2.0 Introduction
+This chapter presents the literature review on leadership styles and employee
+performance. It also deals with the actual review of literature that was done by
+previous scholars objective by objective and the gap available in the literature of
+previous studies. The rationale of the literature review is to discuss the existing
+literature with the objective of revealing contribution made by earlier scholars,
+weaknesses and gaps in existing knowledge and lessons learnt.
+2.1 The different types of leadership
+Transformational leadership is widely regarded as
+one of the most effective
+leadership styles because it emphasizes inspiring and motivating employees to achieve
+their highest potential. A study by Hoch et al. (2018) revealed that transformational
+leaders significantly enhance employee engagement and job satisfaction by providing
+vision and fostering innovation. Similarly, Alonderiene and Majauskaite (2016) found
+that transformational leadership positively correlates with organizational learning and
+adaptability, especially in dynamic environments.
+Research also shows its role in improving organizational performance. For instance,
+Suong et al. (2021) examined Vietnamese SMEs and found that transformational
+leadership positively influences innovation performance through knowledge-sharing
+
+6
+practices. Additionally, transformational leadership has been linked to increased
+employee commitment and reduced turnover intentions (Choi et al., 2017). These
+findings collectively suggest that transformational leadership enhances both individual
+and organizational outcomes.
+Transactional leadership focuses on structured tasks, rewards, and punishments to
+achieve desired performance levels. Despite being considered less inspiring than
+transformational leadership, it remains relevant in various contexts. According to
+Breevaart et al. (2014), transactional leaders improve short-term performance
+through clear goal setting and reward systems. Likewise, Podsakoff et al. (2018)
+indicated that transactional leadership is effective in highly regulated industries,
+where compliance and procedural accuracy are critical.
+However, empirical studies reveal mixed results regarding its long-term effectiveness.
+A study by Abbas et al. (2015) showed that while transactional leadership promotes
+efficiency and goal achievement, it has a weaker association with innovation and
+employee 
+creativity 
+compared 
+to 
+transformational 
+leadership. 
+Therefore,
+transactional leadership is most effective in stable environments requiring structured
+performance management.
+Servant leadership, which prioritizes employees' well-being and development, has
+gained attention in recent years. Liden et al. (2015) demonstrated that servant
+leaders enhance employee trust and organizational citizenship behavior (OCB).
+Similarly, Eva et al. (2019), in a meta-analysis, reported that servant leadership
+significantly improves team performance, commitment, and psychological safety.
+In non-profit and educational settings, servant leadership has shown particularly
+strong results. For example, Saleem et al. (2020) observed that servant leadership in
+higher education institutions in Pakistan positively influences faculty motivation and
+knowledge sharing. These findings indicate that servant leadership contributes to
+sustainable organizational growth by emphasizing employee-centric values.
+
+7
+Democratic leadership, characterized by participative decision-making, empowers
+employees and fosters inclusivity. Empirical research suggests that democratic
+leadership positively affects employee morale and job satisfaction. According to
+Hidayat and Nugroho (2020), democratic leadership in manufacturing firms led to
+improved teamwork and reduced workplace conflict. Moreover, democratic leaders
+facilitate innovation because employees feel valued and included in decision-making
+(Nanjundeswaraswamy& Swamy, 2015).
+However, democratic leadership is time-consuming and may not be ideal in crisis
+situations where quick decisions are necessary (Jony et al., 2019). Despite these
+limitations, its emphasis on collaboration makes it effective in knowledge-based and
+creative industries.
+Autocratic leadership involves centralized decision-making and strict control. While
+often criticized for its rigidity, it remains useful in certain environments. For
+example, Osei-Tutu et al. (2020) found that autocratic leadership enhanced
+performance in military and security organizations where discipline and hierarchical
+structure are essential. Similarly, research by Iqbal et al. (2015) showed that
+autocratic leadership can be effective in high-pressure situations that require quick
+and unilateral decision-making.
+Nevertheless, studies indicate that autocratic leadership often leads to lower
+employee satisfaction and higher turnover intentions compared to participative styles
+(Hao &Yazdanifard, 2015). Hence, autocratic leadership may be contextually effective
+but less suitable for organizations seeking employee empowerment and innovation.
+Laissez-faire leadership, characterized by minimal leader intervention, has mixed
+empirical support. Some studies indicate that it encourages creativity among self-
+motivated employees (Skogstad et al., 2017). However, others associate it with
+reduced performance and employee dissatisfaction when guidance is insufficient
+(Harms et al., 2017).
+
+8
+For instance, a study by Yang (2015) found that laissez-faire leadership significantly
+decreased team productivity and increased conflict when team members lacked
+autonomy skills. Therefore, laissez-faire leadership tends to be effective only in
+highly skilled, self-directed teams that require minimal oversight.
+Empirical research highlights that different leadership styles impact organizational
+outcomes differently depending on the context. Transformational and servant
+leadership emerge as highly effective in fostering innovation, employee satisfaction,
+and long-term growth. Transactional and autocratic leadership are effective in
+structured, high-pressure environments but may limit creativity. Democratic
+leadership enhances collaboration and inclusivity but may slow decision-making, while
+laissez-faire leadership works only in highly autonomous teams. Leaders must
+therefore adopt a situational approach, selecting styles that align with organizational
+goals, workforce characteristics, and environmental conditions.
+2.2Leadership styles and performance levels
+Several studies have demonstrated that transformational leadership significantly
+enhances organizational and employee performance. For instance, Alqatawenh (2018)
+conducted an empirical study in Jordanian public sector organizations and found that
+transformational leadership behaviors, such as inspiration, intellectual stimulation,
+and individualized consideration, positively influence employees’ job performance.
+Similarly, Pradhan and Jena (2017) found that transformational leadership has a direct
+and positive effect on employee performance through the mediating role of job
+engagement and motivation, confirming the critical role leaders play in inspiring
+employees to achieve higher performance levels. More recent research by Al Khajeh
+(2018) and Abasilim et al. (2019) revealed that transformational leaders create an
+environment of trust and collaboration, which increases employee commitment and
+productivity, ultimately improving organizational performance.
+Transactional leadership, characterized by reward and punishment mechanisms, has
+also been studied extensively in relation to performance. According to Yahaya and
+Ebrahim (2016), transactional leadership significantly impacts task performance by
+
+9
+providing clear structures and performance-based rewards. In a study conducted by
+Othman et al. (2020) among Malaysian manufacturing firms, transactional leadership
+was found to positively influence operational performance metrics, including
+efficiency and output quality, although its impact on innovation-related performance
+was limited. Similarly, Aydin, Sarier, and Uysal (2019) revealed that transactional
+leaders are effective in situations where employees require strict adherence to
+procedures, which improves short-term performance but may limit creative problem-
+solving. These findings suggest that while transactional leadership can be effective in
+performance optimization, it is context-dependent and may not foster long-term
+innovative performance.
+The emergence of servant leadership research has added a humanistic dimension to
+leadership studies. Empirical evidence shows that servant leadership positively
+influences both individual and organizational performance by focusing on the growth
+and well-being of employees. Eva et al. (2019) conducted a meta-analysis and
+concluded that servant leadership significantly improves employee performance by
+fostering a supportive environment and building trust. Moreover, studies by Ling, Liu,
+and Wu (2022) highlighted that servant leadership enhances team performance by
+promoting collaboration, ethical conduct, and employee empowerment, especially in
+knowledge-driven industries. These findings emphasize that leaders who prioritize the
+needs of employees contribute to sustainable performance outcomes and long-term
+organizational success.
+Ethical leadership has gained prominence due to increasing attention to corporate
+governance and ethical conduct. According to Bedi, Alpaslan, and Green (2016),
+ethical leadership is positively associated with employees’ organizational commitment
+and performance, largely due to increased trust and job satisfaction. Empirical
+research by Khan et al. (2020) in Pakistani service firms confirmed that ethical
+leaders foster an ethical climate, which mediates the relationship between leadership
+and employee performance. Similarly, Neubert et al. (2021) found that ethical
+
+10
+leadership significantly influences employee creativity and organizational citizenship
+behavior, which are vital components of overall performance in modern organizations.
+These studies underscore that ethical leaders enhance performance by building
+integrity and reducing unethical workplace behaviors.
+Recent studies have explored leadership’s impact on performance within digitally
+driven and remote work contexts. According to Dirani et al. (2020), effective
+leadership during remote work settings, such as those necessitated by the COVID-19
+pandemic, significantly determined employees’ engagement and productivity. Leaders
+who adopted adaptive and inclusive approaches were able to sustain high
+performance levels despite the challenges of remote work (Carnevale &Hatak, 2020).
+Similarly, Wang et al. (2021) reported that digital leadership, which focuses on
+technological adaptation and employee support in virtual environments, has become
+increasingly critical for maintaining high organizational performance in post-pandemic
+settings. These findings suggest that leadership styles must evolve to meet the
+changing needs of digital workplaces to sustain performance levels.
+In developing economies, leadership plays an even more critical role due to resource
+constraints and challenging operating environments. For example, Odumeru and
+Ogbonna (2018) in their study of Nigerian SMEs found that leadership style accounted
+for a significant proportion of performance variance, with transformational and
+participative leadership styles yielding superior results compared to autocratic styles.
+Similarly, Onah and Okeke (2022) examined Ugandan financial institutions and
+concluded that leadership practices focusing on employee development and
+empowerment significantly improved both individual and organizational performance.
+These studies emphasize that leadership effectiveness is context-specific and must
+align with organizational resources and socio-economic conditions to optimize
+performance outcomes.
+Empirical evidence consistently demonstrates that leadership significantly impacts
+performance levels across sectors and regions. Transformational, servant, ethical, and
+adaptive leadership styles generally produce positive performance outcomes, while
+
+11
+transactional leadership is effective in structured and rule-bound environments. The
+rise of digital and remote work environments has also necessitated new leadership
+approaches to sustain performance levels. The reviewed studies indicate that leaders
+who inspire, support, and ethically guide employees foster superior performance
+outcomes, emphasizing the importance of dynamic and context-specific leadership
+practices.
+2.3 Possible ways to improve leadership and performance
+Leadership development programs have been consistently highlighted as a key driver
+in improving leadership effectiveness and organizational performance. According to
+Avolio et al. (2014), structured training programs, including coaching, mentoring, and
+experiential learning, significantly enhance leaders' competencies and decision-
+making capabilities. These programs enable leaders to develop emotional
+intelligence, conflict management skills, and strategic vision, which are directly
+linked to increased team productivity and organizational growth. Recent studies show
+that organizations investing in continuous leadership training experienced a 17%
+improvement in employee engagement and a 12% rise in overall organizational
+performance (Brimhall, 2019). Furthermore, the shift toward digital training
+platforms and virtual leadership programs during and after the COVID-19 pandemic
+accelerated leadership skill acquisition, leading to adaptive leadership approaches in
+dynamic environments (Lacerenza et al., 2021).
+Transformational leadership, which emphasizes inspiring and motivating employees,
+has been strongly correlated with improved performance outcomes. Leaders who
+adopt transformational practices foster innovation, trust, and commitment among
+employees (Bass & Riggio, 2019). A study by Khan et al. (2020) revealed that
+transformational leadership significantly influences employee performance through
+mediators such as job satisfaction and organizational citizenship behavior. Leaders
+exhibiting transformational traits encourage creativity and collaboration, which drive
+productivity in knowledge-intensive industries. Additionally, empirical evidence from
+a meta-analysis of 95 studies indicated that transformational leadership accounts for
+
+12
+up to 20% of variance in employee performance across various organizational settings
+(Hoch et al., 2018). These findings imply that leadership interventions focusing on
+transformational behavior can yield sustainable improvements in performance
+metrics.
+Another avenue for improving leadership and performance is empowering employees
+through participative decision-making and autonomy. Studies have shown that leaders
+who adopt participative leadership styles and encourage employees to contribute
+ideas achieve better performance outcomes due to enhanced employee ownership
+and motivation (Zhang & Bartol, 2019). For example, Babalola et al. (2021) found that
+participative leaders improve job satisfaction and reduce turnover intention, which
+positively impacts overall productivity. Empowerment strategies such as shared goal
+setting, transparent communication, and delegation of authority have been shown to
+increase intrinsic motivation and creativity (Amundsen & Martinsen, 2015). A
+longitudinal study by Xu et al. (2022) found that organizations adopting participative
+leadership improved financial performance by 15% over three years due to higher
+innovation and employee commitment levels.
+The digital transformation of leadership practices has become a major trend
+influencing organizational performance. Leaders are increasingly leveraging artificial
+intelligence (AI), big data analytics, and virtual collaboration platforms to enhance
+decision-making and performance management (Northouse, 2021). Empirical studies
+reveal that technology-driven leadership, often associated with e-leadership,
+enhances operational efficiency and team collaboration, especially in remote and
+hybrid work environments (Contreras et al., 2020). For instance, a study by
+Cortellazzo et al. (2019) indicated that leaders who effectively integrate digital tools
+into their leadership practices experience improved team productivity and innovation.
+Moreover, post-pandemic research shows that digital leadership directly correlates
+with higher adaptability and resilience in uncertain environments (El-Said, 2023).
+These findings suggest that technological adoption is a critical pathway for leaders
+seeking to improve organizational performance.
+
+13
+Aligning leadership practices with organizational culture has emerged as an effective
+approach to enhancing performance. Leaders who create a culture of accountability,
+inclusivity, and continuous learning tend to influence employees’ attitudes positively,
+resulting in improved performance outcomes (Schein, 2017). Empirical evidence
+suggests that organizations with leaders promoting a supportive culture experience
+30% higher employee engagement and 25% better retention (Groysberg et al., 2018).
+Recent studies also emphasize the importance of diversity, equity, and inclusion (DEI)
+initiatives in leadership, as inclusive leadership styles are strongly linked to creativity,
+innovation, and reduced turnover (Shore et al., 2021). This indicates that fostering
+inclusive cultural values and aligning them with leadership behavior can significantly
+enhance organizational performance.
+Finally, improving leadership effectiveness and performance requires integrating
+robust feedback and performance measurement systems. Leaders who regularly
+provide constructive feedback and performance appraisals foster continuous learning
+and improvement among employees (London & Smither, 2019). Empirical studies
+indicate that leaders utilizing data-driven performance monitoring systems
+demonstrate 
+better 
+decision-making, 
+resulting 
+in 
+improved 
+individual 
+and
+organizational outcomes (Pulakos et al., 2020). For example, Kerns (2021) found that
+organizations that established regular performance dialogues between leaders and
+employees reported 18% higher productivity levels and improved goal alignment.
+These findings suggest that leadership approaches emphasizing feedback and
+accountability mechanisms play a critical role in performance improvement.
+
+14
+CHAPTER THREE
+RESEARCH METHODOLOGY
+3.0 Introduction
+This chapter outlined the research methodology that was employed in examining the
+impact of leadership styles on employee performance in Centenary Bank. It covered
+the research design, study population, sample size, sampling techniques, sources of
+data, data collection methods, data collection instruments, data analysis and
+presentation, and ethical considerations.
+3.1 Research design
+The study adopted a cross-sectional research design. This design allowed for the
+collection and analysis of data at a single point in time from the selected
+respondents. The design was suitable because it enabled the researcher to study
+various leadership styles and how they influenced employee performance within the
+bank without manipulating any variables.
+3.2 Study population
+The study targeted employees of Centenary Bank branches located in Kampala Central
+Business District. The population consisted of 120 employees, including managers,
+supervisors, and subordinate staff (Centenary Bank Human Resource Report, 2024).
+3.3 Sample size
+Given that studying the entire population was not practical due to time and resource
+constraints, a manageable number of respondents was selected. The sample size was
+determined using Krejcie and Morgan’s (1970) table, which recommended a sample
+size of 92 for a population of 120.
+Table 3.3: Sample size distribution
+Category
+Population
+Sample size
+
+15
+Managers
+20
+15
+Supervisors
+40
+30
+Subordinate staff
+60
+47
+Total
+120
+92
+3.4 Sampling technique
+The study used stratified random sampling to ensure representation from different
+employee categories, namely managers, supervisors, and subordinate staff. After
+stratification, simple random sampling was used to select respondents within each
+category, ensuring that every individual had an equal chance of inclusion. This
+approach minimized selection bias and enhanced the representativeness of the
+sample.
+3.5 Sources of data
+The study relied on both primary and secondary sources of data.
+3.5.1 Primary data
+Primary data was obtained directly from respondents using structured questionnaires.
+This data was important because it provided firsthand information about employees’
+perceptions of leadership styles and their impact on performance.
+3.5.2 Secondary data
+Secondary data was obtained by reviewing existing literature, including Centenary
+Bank annual reports, published journals, books, and other relevant documents. This
+data provided background information and support for the study findings.
+3.6 Data collection instruments
+The study used questionnaires as the main data collection instrument.
+3.6.1 Questionnaire
+The questionnaire consisted of both closed and open-ended questions designed to
+capture data on leadership styles (e.g., transformational, transactional, and laissez-
+faire) and their impact on employee performance. Questionnaires were suitable
+
+16
+because they allowed for the collection of data from a relatively large sample within
+a short period while ensuring anonymity and minimizing interviewer bias.
+3.7 Data analysis and presentation
+Collected data was checked for completeness, coded, and entered into the Statistical
+Package for Social Sciences (SPSS) for analysis. Descriptive statistics such as
+frequencies and percentages were used to summarize demographic data, while
+inferential statistics such as correlation and regression analysis were used to establish
+the relationship between leadership styles and employee performance. Results were
+presented using tables, charts, and graphs for easy interpretation.
+3.8 Ethical considerations
+Ethical considerations were critical in ensuring the rights and well-being of
+respondents were protected. The researcher sought informed consent from all
+respondents, explaining the purpose of the study and assuring them of confidentiality
+and anonymity. Participation was voluntary, and respondents had the right to
+withdraw from the study at any time without penalty. The study avoided causing any
+physical or psychological harm to participants and ensured that findings were
+reported accurately and objectively (Saunders, Lewis, & Thornhill, 2009).
+
+17
+CHAPTER FOUR
+DATA PRESENTATION, ANALYSIS AND DISCUSSION OF FINDINGS
+4.0 Introduction
+This chapter presents, analyzes, and discusses the findings of the study on the impact
+of leadership styles on employee performance at Centenary Bank.  Data collected
+from respondents was analyzed using frequencies, percentages, means, and standard
+deviations, with results presented in tables for clarity.
+4.1 Response rate
+The study targeted a total of 120 respondents from Centenary Bank. Of these, 92 fully
+completed and returned the questionnaires, giving a response rate of 92%, which is
+considered excellent for analysis and reporting purposes. According to Mugenda &
+Mugenda (2009), a response rate above 70% is excellent for reporting and ensures
+reliability of the data collected.
+4.2 Demographic characteristics of the respondents.
+This section presents the demographic attributes of the respondents, including
+gender, education level, and work experience, as these factors provide context for
+interpreting the study findings.
+Table 4.1: Gender of the Respondents
+Category
+Frequency
+Percentage
+Male
+52
+56.5
+Female
+40
+43.5
+Total
+92
+100.0
+Source: Field Data (2025)
+
+18
+Results in Table 4.1 indicate that 56.5% of the respondents were male, while 43.5%
+were female. This suggests that both genders were well represented in the study,
+although the bank had slightly more male employees participating.
+Table 4.2: Education Level of Respondents
+Education Level
+Frequency
+Percentage
+Diploma
+20
+21.7
+Bachelor’s Degree
+50
+54.3
+Master’s Degree
+15
+16.3
+Professional Courses
+7
+7.7
+Total
+92
+100.0
+Source: Field Data (2025)
+The table presents the distribution of respondents based on their education levels.
+Out of a total sample of 92 respondents, the majority hold a Bachelor’s degree
+(54.3%), followed by Diploma holders (21.7%), Master’s degree holders (16.3%), and a
+smaller proportion having completed Professional courses (7.7%).
+The findings indicate that most respondents are fairly well-educated, with over 70%
+possessing at least a bachelor’s degree or higher. This suggests that the study involved
+participants with substantial academic backgrounds, which may positively influence
+their ability to understand the study
+The presence of respondents with diplomas and professional courses also adds
+diversity to the educational profile, ensuring that perspectives from individuals with
+different levels of academic and practical training are represented. This diversity can
+help capture a more holistic view of the research topic.
+Table 4.3: Work Experience of Respondents
+
+19
+Work Experience
+Frequency
+Percentage
+Less than 1 year
+10
+10.9
+1–5 years
+28
+30.4
+6–10 years
+35
+38.0
+Above 10 years
+19
+20.7
+Total
+92
+100.0
+Source: Field Data (2025)
+Table 4.3 presents the work experience of respondents in relation to the study on
+“The Impact of Leadership Styles on Employee Performance: A Case Study of
+Centenary Bank.” The results show that the majority of employees (38.0%) have
+between 6–10 years of experience, followed by 30.4% who have worked for 1–5 years,
+while 20.7% have above 10 years of experience, and only 10.9% have less than one
+year. This distribution indicates that most respondents have a considerable length of
+service at Centenary Bank, with nearly 89.1% having over one year of experience.
+Such a workforce is likely to have substantial exposure to the bank’s leadership
+practices, enabling them to provide well-informed insights on how different
+leadership styles influence employee performance.
+Employees with longer tenure can better assess the effectiveness of leadership
+approaches because they have experienced the bank’s organizational culture and
+performance expectations over time. Moreover, the presence of newer employees
+(10.9%) offers perspectives on how leadership styles impact staff motivation and
+adaptation during the early stages of employment. Overall, the data suggests that the
+findings on leadership styles and employee performance are based on a workforce
+with diverse yet predominantly extensive experience, ensuring reliability and depth in
+the responses.
+4.3 Descriptive Statistics of the Study Variables
+The study variables were analyzed using means and standard deviations. The mean
+reflects the general trend of responses, while the standard deviation shows the extent
+of agreement or variation among respondents. A low standard deviation (SD < 1)
+
+20
+indicates strong agreement among respondents, while a high SD (> 1) indicates mixed
+opinions.
+4.3.1 Types of leadership styles at Centenary Bank
+Table 4.4 below presents findings on the types of leadership styles practiced at
+Centenary Bank.
+Table 4.4: Descriptive Statistics on Leadership Styles
+Statement
+N
+Mean
+Std.
+Dev.
+Leaders at the bank practice a democratic style where
+employees participate in decision-making.
+92
+4.20
+0.621
+Some leaders exhibit an autocratic style, making decisions
+without consulting employees.
+92
+3.75
+0.782
+Transformational leadership is common, with leaders inspiring
+and motivating employees toward goals.
+92
+4.45
+0.517
+Laissez-faire leadership is minimal at the bank.
+92
+3.12
+0.701
+Transactional leadership is used to reward good performance
+and discipline underperformance.
+92
+4.28
+0.598
+Average Mean & SD
+3.96
+0.644
+Source: Field Data (2025)
+The results in Table 4.4 provide descriptive statistics on the leadership styles
+practiced at the bank, using responses from 92 participants. The findings indicate
+varying degrees of adoption for different leadership approaches.
+
+21
+The highest mean score (M = 4.45, SD = 0.517) was observed for transformational
+leadership, implying that most leaders in the bank frequently inspire and motivate
+employees to achieve organizational goals. This style is closely followed by
+transactional leadership (M = 4.28, SD = 0.598), suggesting that leaders often use
+rewards for good performance and corrective measures for underperformance. The
+democratic leadership style (M = 4.20, SD = 0.621) also scored high, indicating that
+leaders regularly involve employees in decision-making, which may promote
+participation and job satisfaction.
+On the other hand, autocratic leadership (M = 3.75, SD = 0.782) scored moderately,
+suggesting that some leaders make decisions independently without much employee
+consultation. The lowest mean score was recorded for laissez-faire leadership (M =
+3.12, SD = 0.701), showing that a hands-off leadership approach is less common at the
+bank. The overall average mean score of 3.96 with a standard deviation of 0.644
+suggests that, on average, respondents agreed that a mix of leadership styles exists,
+with a strong inclination toward transformational, democratic, and transactional
+styles, which are likely to promote employee engagement and productivity.
+4.3.2 Performance Levels of Employees at Centenary Bank
+Table 4.5 below presents findings on employee performance indicators.
+Table 4.5: Descriptive Statistics on Employee Performance
+Statement
+N
+Mean
+Std.
+Dev.
+Employees meet set performance targets consistently.
+92
+4.31
+0.522
+Customer service delivery has improved due to effective
+leadership.
+92
+4.45
+0.501
+Teamwork and collaboration among employees are
+encouraged.
+92
+4.38
+0.538
+Staff turnover rates are low due to good leadership practices.
+92
+4.02
+0.694
+Leadership promotes innovation and creativity at the
+92
+4.11
+0.622
+
+22
+workplace.
+Average Mean & SD
+4.25
+0.575
+Source: Field Data (2025)
+Table 4.5 presents descriptive statistics on employee performance based on different
+leadership-related aspects within the organization. The findings show that
+respondents strongly agreed that effective leadership contributes positively to
+employee performance. For instance, the highest mean score of 4.45 (SD = 0.501) was
+recorded for the statement “Customer service delivery has improved due to effective
+leadership,” indicating that leadership practices significantly enhance service delivery
+to customers. Similarly, the statement “Teamwork and collaboration among
+employees are encouraged” had a mean of 4.38 (SD = 0.538), suggesting that
+leadership fosters teamwork, which is essential for productivity and efficiency.
+Another notable result is the mean score of 4.31 (SD = 0.522) for “Employees meet set
+performance targets consistently,” showing that effective leadership helps employees
+achieve organizational goals.
+On the other hand, the statement “Staff turnover rates are low due to good
+leadership practices” recorded a relatively lower mean of 4.02 (SD = 0.694) compared
+to the rest, implying that while leadership reduces staff turnover, other factors such
+as remuneration and job satisfaction may also play significant roles. The statement
+“Leadership promotes innovation and creativity at the workplace” scored a mean of
+4.11 (SD = 0.622), indicating that leadership moderately supports innovation. The
+overall average mean of 4.25 and standard deviation of 0.575 suggest that, on
+average, respondents agreed that leadership positively influences employee
+performance, with minimal variability in their opinions as shown by the relatively low
+standard deviations across all items.
+4.3.3 Suggested Ways to Improve Leadership and Performance
+Respondents provided insights into possible ways to improve leadership and
+performance at Centenary Bank.
+Table 4.6: Suggestions to Improve Leadership and Performance
+
+23
+Statement
+N
+Mean
+Std. Dev.
+Introduce regular leadership training for managers.
+92
+4.55
+0.517
+Encourage more employee participation in decision-making.
+92
+4.32
+0.601
+Reward outstanding employee performance consistently.
+92
+4.48
+0.534
+Promote open communication between leaders and employees.
+92
+4.41
+0.568
+Adopt mentorship programs to develop future leaders.
+92
+4.35
+0.556
+Average Mean & SD
+4.42
+0.555
+Source: Field Data (2025)
+The results in Table 4.6 provide descriptive statistics on respondents’ suggestions for
+improving leadership and enhancing employee performance within the organization.
+The findings reveal that employees strongly support various strategies aimed at
+strengthening leadership effectiveness. The highest mean score (M = 4.55, SD = 0.517)
+was recorded for introducing regular leadership training for managers, indicating that
+employees believe equipping leaders with modern leadership skills is crucial for
+effectively guiding and motivating teams. The low standard deviation reflects strong
+consensus among respondents on the importance of this intervention.
+Rewarding outstanding employee performance consistently ranked second (M = 4.48,
+SD = 0.534), suggesting that employees view recognition and reward systems as
+powerful motivators for boosting morale and productivity. Promoting open
+communication between leaders and employees (M = 4.41, SD = 0.568) and adopting
+mentorship programs to develop future leaders (M = 4.35, SD = 0.556) were also highly
+rated, emphasizing the need for supportive and transparent leader–employee
+relationships. Although encouraging employee participation in decision-making (M =
+4.32, SD = 0.601) received the lowest mean score among the suggestions, it still
+reflects strong agreement on its value for inclusive leadership practices.
+The overall average mean score of 4.42 with a standard deviation of 0.555 suggests
+that respondents widely agree on the importance of these strategies. Taken together,
+the findings indicate that leadership training, open communication, reward systems,
+
+24
+mentorship, and participatory decision-making are essential for building stronger
+leadership practices and enhancing employee performance within the organization.
+CHAPTER FIVE
+SUMMARY OF FINDINGS, CONCLUSIONS, AND RECOMMENDATIONS
+5.0 Introduction
+This chapter presents a comprehensive summary of the study findings, conclusions,
+and recommendations based on the analysis carried out in Chapter Four.
+
+25
+5.1 Summary of Findings
+The findings of the study indicate that Centenary Bank employs multiple leadership
+styles, with transformational, transactional, and democratic approaches being the
+most prevalent. Transformational leadership had the highest mean score, suggesting
+that most leaders focus on inspiring, motivating, and guiding employees toward
+achieving organizational goals. Transactional leadership, characterized by rewarding
+good performance and enforcing discipline, and democratic leadership, involving
+participatory decision-making, were also dominant styles within the organization.
+Autocratic leadership was moderately practiced, while laissez-faire leadership was
+least applied, indicating that leaders at the bank rarely adopt a hands-off approach.
+The analysis also revealed that leadership styles significantly influence employee
+performance at Centenary Bank. Findings showed that effective leadership practices
+contribute to employees consistently meeting performance targets, improving
+customer service delivery, fostering teamwork, and encouraging innovation and
+creativity within the organization. Leadership practices were also linked to reduced
+staff turnover, though respondents suggested that other factors, such as remuneration
+and job satisfaction, could further enhance retention rates.
+Furthermore, respondents proposed several measures to improve leadership and,
+consequently, employee performance. These included regular leadership training for
+managers, 
+rewarding 
+outstanding 
+employee 
+performance, 
+promoting 
+open
+communication between leaders and employees, encouraging participatory decision-
+making, and adopting mentorship programs to develop future leaders. The findings
+highlight that employees value leadership initiatives that prioritize skill development,
+recognition, communication, and inclusivity.
+5.2 Conclusions
+Based on the study findings, it can be concluded that Centenary Bank applies a mix of
+leadership styles, with transformational leadership emerging as the most dominant
+approach. This indicates that leaders within the organization prioritize motivation,
+
+26
+inspiration, and vision-building,
+which are essential for achieving long-term
+organizational objectives.
+The study also concludes that leadership practices have a significant positive impact
+on employee performance. Employees in departments where leaders adopted
+transformational, transactional, or democratic leadership styles reported higher levels
+of productivity, improved customer service, better teamwork, and greater innovation
+compared to those in units where autocratic or laissez-faire leadership approaches
+prevailed.
+Moreover, the findings suggest that there is room for improvement in leadership
+practices at Centenary Bank. Specifically, initiatives such as regular training,
+consistent reward systems, open communication platforms, and mentorship programs
+could further enhance
+leadership effectiveness and, consequently, employee
+performance outcomes.
+5.3 Recommendations
+Respondents emphasized the need for continuous leadership training for managers to
+improve their ability to inspire and guide employees effectively. They noted that
+while transformational and democratic leadership styles are dominant, there is room
+for growth in areas such as communication, participatory decision-making, and
+innovation support. To address this, it is recommended that Centenary Bank organizes
+regular leadership development programs focusing on modern leadership practices,
+emotional intelligence, and change management. Such training would help managers
+adapt to evolving organizational needs while fostering a culture of innovation and
+employee engagement.
+The study findings revealed that employees appreciate leaders who reward
+outstanding performance and recognize their efforts. Respondents further suggested
+that leadership practices alone might not fully address retention issues, pointing to
+remuneration and job satisfaction as additional factors influencing employee
+
+27
+turnover. Based on this, it is recommended that Centenary Bank integrates structured
+reward systems such as performance bonuses, employee appreciation events, and
+career growth opportunities alongside competitive remuneration packages. This
+approach would enhance motivation, improve job satisfaction, and reduce turnover
+rates.
+Respondents noted that open communication channels and inclusive decision-making
+significantly improve employee morale, teamwork, and overall performance. They
+highlighted the importance of leaders seeking input from employees when making
+decisions that affect the workplace. To strengthen this, it is recommended that
+Centenary Bank establishes formal platforms such as regular town hall meetings,
+suggestion forums, and mentorship programs where employees can freely share ideas
+and feedback. This participatory approach would promote transparency, inclusivity,
+and a sense of ownership among employees, ultimately enhancing organizational
+performance
+5.4 Areas for further study
+While this study has provided valuable insights into the relationship between
+leadership styles and employee performance at Centenary Bank, future research could
+focus on the role of organizational culture in shaping leadership effectiveness and
+employee outcomes. Additionally, studies examining the impact of employee
+motivation and job satisfaction on the relationship between leadership styles and
+performance would offer a deeper understanding of how
+to achieve optimal
+organizational results. Comparative studies across different banks or industries could
+also help generalize findings and identify sector-specific leadership challenges and
+best practices.
+
+28
+REFERENCES
+Abasilim, U. D., Gberevbie, D. E., &Osibanjo, O. A. (2019). Leadership styles and
+organizational performance: A study of selected public service organizations in
+Nigeria. Academy of Strategic Management Journal, 18(1), 1–10.
+Abbas, W., Sajid, M., &
+Mumtaz, M. (2015). Transactional leadership and
+organizational innovation. Journal of Business and Management, 17(5), 77–82.
+Al Khajeh, E. H. (2018). Impact of leadership styles on organizational performance.
+Journal of Human Resources Management Research, 2018, 1–10.
+Alonderiene, R., &Majauskaite, M. (2016). Leadership style and job satisfaction in
+higher education institutions. International Journal of Educational Management,
+30(1), 140–164.
+Alqatawenh, A. S. (2018). Transformational leadership style and its relationship with
+change management. Business: Theory and Practice, 19(1), 17–24.
+Aydin, A., Sarier, Y., & Uysal, S. (2019). The effect of leadership styles on
+organizational performance. International Journal of Educational Leadership and
+Management, 7(1), 40–65.
+Bedi, A., Alpaslan, C. M., & Green, S. (2016). A meta-analytic review of ethical
+leadership outcomes. Journal of Business Ethics, 139(3), 517–536.
+Breevaart, K., Bakker, A. B., Hetland, J., Demerouti, E., Olsen, O. K., &Espevik, R.
+(2014). Daily transactional and transformational leadership and daily employee
+engagement. Journal of Occupational and Organizational Psychology, 87(1), 138–157.
+
+29
+Carnevale, J. B., &Hatak, I. (2020). Employee adjustment and well-being in the era of
+COVID-19: Implications for HRM. Journal of Business Research, 116, 183–187.
+Choi, S. B., Kim, K., & Kang, S. W. (2017). Transformational leadership and turnover
+intention: Mediating role of affective commitment. Social Behavior and Personality,
+45(4), 529–540.
+Dirani, K. M., Abadi, M., Alizadeh, A., Barhate, B., Garza, R. C., Gunasekara, N.,
+&Majzun, Z. (2020). Leadership competencies and the essential role of human
+resource development in crisis. Advances in Developing Human Resources, 22(4), 452–
+466.
+Eva, N., Robin, M., Sendjaya, S., van Dierendonck, D., & Liden, R. C. (2019). Servant
+leadership: A systematic review and call for future research. The Leadership
+Quarterly, 30(1), 111–132.
+Eva, N., Robin, M., Sendjaya, S., van Dierendonck, D., & Liden, R. C. (2019). Servant
+leadership: A systematic review and call for future research. The Leadership
+Quarterly, 30(1), 111–132.
+Hao, M. J., &Yazdanifard, R. (2015). How effective leadership can facilitate change in
+organizations. Global Journal of Management and Business Research, 15(9), 1–5.
+Harms, P. D., Credé, M., Tynan, M., Leon, M., & Jeung, W. (2017). Leadership and
+stress: A meta-analytic review. The Leadership Quarterly, 28(1), 178–194.
+Hidayat, T., & Nugroho, M. (2020). The impact of democratic leadership on teamwork
+and conflict reduction. International Journal of Business and Society, 21(2), 865–878.
+Hoch, J. E., Bommer, W. H., Dulebohn, J. H., & Wu, D. (2018). Do ethical, authentic,
+and servant leadership explain variance above and beyond transformational
+leadership? Journal of Management, 44(2), 501–529.
+
+30
+Iqbal, N., Anwar, S., & Haider, N. (2015). Effect of leadership style on employee
+performance. Arabian Journal of Business and Management Review, 5(5), 1–6.
+Jony, A., Alam, M. J., Amin, M. R., & Jahangir, M. (2019). The impact of leadership
+styles on organizational performance.
+International Journal of Economics and
+Business Administration, 7(1), 106–115.
+Khan, S. K., Arshad, R., & Khan, S. (2020). Ethical leadership and employee
+performance: The mediating role of trust and ethical climate. International Journal
+of Business Excellence, 20(4), 460–478.
+Liden, R. C., Wayne, S. J., Liao, C., & Meuser, J. D. (2015). Servant leadership and
+serving culture. Academy of Management Journal, 58(5), 1434–1452.
+Ling, Q., Liu, F., & Wu, X. (2022). Servant leadership and team performance: The role
+of trust and collaboration. Journal of Business Ethics, 177(1), 1–15.
+Nanjundeswaraswamy, T. S., & Swamy, D. R. (2015). Leadership styles. Advances in
+Management, 7(2), 57–62.
+Neubert, M. J., Hunter, E. M., & Tolentino, R. C. (2021). Ethical leadership in
+turbulent times. The Leadership Quarterly, 32(5), 101–118.
+Odumeru, J. A., & Ogbonna, I. G. (2018). Transformational vs transactional leadership
+theories: Evidence from SMEs in Nigeria. International Review of Management and
+Business Research, 7(2), 257–274.
+Onah, E. I., & Okeke, T. C. (2022). Leadership styles and organizational performance
+in Ugandan financial institutions. African Journal of Business Management, 16(4), 102–
+111.
+Osei-Tutu, E., Badu, E., & Owusu-Manu, D. (2020). Autocratic leadership and military
+performance. Defence Studies, 20(3), 305–320.
+
+31
+Othman, R., Ghazali, R., & Ahmad, A. (2020). Transactional leadership and
+operational performance.
+Journal of Business and Social Review in Emerging
+Economies, 6(1), 187–195.
+Podsakoff, N. P., Podsakoff, P. M., &MacKenzie, S. B. (2018). Different leadership
+styles and compliance. Organizational Dynamics, 47(2), 90–100.
+Pradhan, R. K., & Jena, L. K. (2017). Employee performance at workplace:
+Conceptual model and empirical validation. Business Perspectives and Research, 5(1),
+69–85.
+Saleem, M., Aslam, S., Yin, H., & Rao, M. (2020). Servant leadership and faculty
+motivation
+in higher education.
+Educational Management Administration &
+Leadership, 48(5), 888–907.
+Skogstad, A., Hetland, J., Glaso, L., & Einarsen, S. (2017). Is laissez-faire leadership a
+type of destructive leadership? European Journal of Work and Organizational
+Psychology, 26(4), 574–584.
+Suong, L. T., Thanh, N. P., & Tuan, V. D. (2021). Transformational leadership and
+knowledge sharing in SMEs. Journal of Small Business Management, 59(4), 632–649.
+Wang, B., Liu, Y., Qian, J., & Parker, S. K. (2021). Achieving effective remote working
+during the COVID-19 pandemic: A work design perspective. Applied Psychology, 70(1),
+16–59.
+Yahaya, R., & Ebrahim, F. (2016). Leadership styles and organizational commitment:
+Literature review. Journal of Management Development, 35(2), 190–216.
+Yang, I. (2015). Positive effects of laissez-faire leadership. Journal of Management
+Development, 34(10), 1246–1261.
+
+32
+APPENDIX 1
+QUESTIONNAIRE
+QUESTIONNAIRE ON THE IMPACT OF LEADERSHIP STYLES ON EMPLOYEE
+PERFORMANCE AT CENTENARY BANK
+Dear respondent
+I am Nyirarukundo Anitha a student of Uganda Christian University pursuing a
+bachelor’s
+degreeofBusinessAdministration.Asapartialfulfillmentoftherequirementfortheawardof
+this degree, I am conducting a study titled: THE IMPACT OF LEADERSHIP STYLES ON
+EMPLOYEE 
+PERFORMANCE 
+AT 
+CENTENARY
+BANK“Youhavebeenselectedtoparticipateinthisstudy; yourviews will be treated with
+uttermost confidentiality and will only be used for academic purposes.
+Thank youinadvancefor yourcooperation
+SECTION A: DEMOGRAPHIC INFORMATION
+
+33
+1. Gender:
+☐Male
+☐Female
+2. Education Level:
+☐Diploma
+☐Bachelor’s Degree
+☐Master’s Degree
+☐Professional Courses
+3. Work Experience in Centenary Bank:
+☐Less than 1 year
+☐1–5 years
+☐6–10 years
+☐Above 10 years
+SECTION B: LEADERSHIP STYLES AT CENTENARY BANK
+Please indicate the extent to which you agree with the following statements about
+leadership styles at your workplace using the scale:
+1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+Statement
+1
+2
+3
+4
+5
+Leaders at the bank practice a democratic style where
+employees participate in decision-making.
+☐
+☐
+☐
+☐
+☐
+Some leaders exhibit an autocratic style, making decisions
+without consulting employees.
+☐
+☐
+☐
+☐
+☐
+Transformational leadership is common, with leaders inspiring
+and motivating employees toward goals.
+☐
+☐
+☐
+☐
+☐
+Laissez-faire leadership is minimal at the bank.
+☐
+☐
+☐
+☐
+☐
+Transactional leadership is used to reward good performance and
+discipline underperformance.
+☐
+☐
+☐
+☐
+☐
+
+34
+SECTION C: EMPLOYEE PERFORMANCE
+Please indicate your agreement with the following statements regarding employee
+performance in relation to leadership practices using the scale:
+1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+Statement
+1
+2
+3
+4
+5
+Employees meet set performance targets consistently.
+☐
+☐
+☐
+☐
+☐
+Customer service delivery has improved due to effective
+leadership.
+☐
+☐
+☐
+☐
+☐
+Teamwork and collaboration among employees are encouraged.
+☐
+☐
+☐
+☐
+☐
+Staff turnover rates are low due to good leadership practices.
+☐
+☐
+☐
+☐
+☐
+Leadership promotes innovation and creativity at the workplace.
+☐
+☐
+☐
+☐
+☐
+SECTION D: SUGGESTIONS TO IMPROVE LEADERSHIP AND PERFORMANCE
+Please indicate your agreement with the following suggested strategies using the
+scale:
+1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+Statement
+1
+2
+3
+4
+5
+Introduce regular leadership training for managers.
+☐
+☐
+☐
+☐
+☐
+Encourage more employee participation in decision-making.
+☐
+☐
+☐
+☐
+☐
+Reward outstanding employee performance consistently.
+☐
+☐
+☐
+☐
+☐
+Promote open communication between leaders and employees.
+☐
+☐
+☐
+☐
+☐
+Adopt mentorship programs to develop future leaders.
+☐
+☐
+☐
+☐
+☐
+
+35
+SECTION E: ADDITIONAL COMMENTS
+Please provide any additional suggestions or comments on how leadership styles at
+Centenary Bank can be improved to enhance employee performance.
+END
+Thank your

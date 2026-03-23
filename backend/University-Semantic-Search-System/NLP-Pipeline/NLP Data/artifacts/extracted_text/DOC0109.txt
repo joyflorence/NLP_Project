@@ -1,0 +1,1137 @@
+ 
+ASSESSING THE EFFECT OF TEBUCUNAZOLE ON ASPERGILLUS FLAVUS 
+AND FUSARIUM VERTICILLIOIDES GROWTH IN MAIZE SEEDS IN UGANDA  
+ 
+ RITAH MUTAMBI 
+S21B26/ 023  
+  
+ 
+ 
+ 
+ 
+ 
+ A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN 
+PARTIAL FULFILLMENT FOR THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF 
+BACHELOR OF AGRICULTURAL SCIENCE AND ENTREPRENEURSHIP OF UGANDA 
+CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+ 
+ i 
+ 
+ABSTRACT 
+Tebuconazole, a triazole fungicide is used for effective control of the fungal 
+pathogens in other crops. Little information regarding the use of tebuconazole 
+fungicide is known. Therefore, this study aims at evaluating the effect of 
+tebuconazole on growth of A. flavus and F. verticillioides in maize seeds. Completely 
+randomized design (CRD) with three replications was used to determine fungal growth 
+and changes in physical traits of maize seeds and the germination rate. Data was 
+collected on fungal growth (colonies, capping, and abnormal seeds) and seedling 
+growth. The results showed that was a significant difference (p< 0.004) among the 
+tebuconazole concentrations on the fungal growth, physical traits and germination 
+rate of maize seeds.  The high dose had the highest normal seeds (72.65 ± 16.14a) 
+with the lowest number of abnormal seeds (23.47 ± 15.14c) and capping (5.13 ± 
+8.45ab) while Control had the lowest number normal seeds (50.57 ± 28.33c) with 
+highest number of abnormal seeds (44.40 ± 27.57a) and capping (7.94 ± 8.04a). White 
+fungal colonies were present in 100% of the samples across all treatments, high dose 
+was the most effective in reducing presence of yellow, green, grey and brown fungal 
+colonies. The highest germination percentage (96.67 ± 4.880c) was recorded in the 
+control while the recommended dose had the lowest germination percentage (63.33 ± 
+9.759a). Since, the recommended dose (0.5ml) of tebuconazole effectively controlled 
+the fungus, it is the most effective dosage for controlling of A. flavus and F. 
+verticillioides in maize seeds. 
+ 
+ 
+
+ 
+ ii 
+ 
+DEDICATION 
+I dedicate my research to my family, my parents Miss Korweto Leonida and Mr 
+Muhwezi John Wilbroad, and my sisters who supported me financially and spiritually 
+throughout my studies.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ iii 
+ 
+DECLARATION 
+I, Mutambi Ritah, declare that this research dissertation is done by me and it’s my 
+original work and has not been submitted by any other institute for a degree award. 
+Signature: .............................................. 
+Date: .............................................. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ v 
+ 
+ACKNOWLEDGEMENT 
+I thank the Almighty GOD for his unending grace, wisdom and strength throughout this 
+journey of my Bachelor’s degree.  
+I thank my supervisor, Madam Namutosi Winnie, for her guidance, insightful feedback 
+and unwavering support. 
+ I am also grateful to Prof. Elizabeth Kizito to the guidance and support throughout 
+the proposal to dissertation writing. Thanks to the Faculty of Agriculture lecturers for 
+providing a supportive academic environment. I also appreciate Miss linet for support 
+and providing materials to carry out my in-virto experiment. 
+ I appreciate Dr. Jennifer Bisikwa and Mr. Ian Benywanira of Makerere University for 
+the opportunity given to work with them in this research. They provided the facilities 
+and resources necessary for conducting this research.  
+ 
+ 
+May the Almighty GOD Bless You Abundantly! 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ vi 
+ 
+TABLE OF CONTENTS.  
+ABSTRACT ............................................................................................ i 
+DEDICATION ......................................................................................... ii 
+DECLARATION ...................................................................................... iii 
+APPROVAL .......................................................................................... iv 
+ACKNOWLEDGEMENT ............................................................................... v 
+CHARPTER ONE ...................................................................................... 1 
+1.1 Background. .................................................................................. 1 
+1.2 Statement of the problem. ................................................................ 4 
+1.3 Main objective. .............................................................................. 6 
+1.3.1 Specific objectives. .................................................................... 6 
+1.3.2 Hypothesis. .............................................................................. 6 
+1.4 Significance. ................................................................................. 6 
+1.5 Justification. ................................................................................. 7 
+1.6 Scope of the study. ......................................................................... 7 
+1.7 Theoretical framework. .................................................................... 8 
+1.7.1 Conceptual framework. .................................................................. 9 
+CHARPTER TWO ................................................................................... 10 
+2.0 Literature review. ......................................................................... 10 
+2.1.1 Importance of maize ................................................................. 10 
+2.1.2 Storage conditions for maize quality preservation. ............................. 11 
+2.1.3 Fungal community dynamics influencing aflatoxin contamination. .......... 11 
+2.1.4 Morphological and toxigenic variability in A. flavus populations. ............ 12 
+
+ 
+ vii 
+ 
+2.1.5 Climatic drivers of fungal proliferation and aflatoxin production. ........... 12 
+2.1.6 Fusarium pathogens: Prevalence and genetic diversity in maize. ............ 12 
+2.1.7 Deterioration of seed quality due to fungal colonization. ..................... 13 
+2.1.8 Musty odor development as an indicator of fungal activity. .................. 13 
+2.1.9 Current control methods of A. flavus and F. verticillioides in maize seeds 13 
+2.1.10 Tebuconazole: Efficacy, regional variations, and resistance. ............... 14 
+2.2 Identification of the fungal growth in maize seeds. .............................. 14 
+3.0 CHARPTER THREE ............................................................................ 15 
+3.1 Specific objective 1. To assess the effect of tebuconazole dosage on A.flavus 
+and F.verticillioides growth and physical traits in maize seed. ........................ 15 
+3.1.2 Study site. ............................................................................. 15 
+3.1.3 Materials. .............................................................................. 15 
+3.1.4 Experimental design. ................................................................ 15 
+3.1.5 Data collection........................................................................ 16 
+3.1.6 Data analysis. ......................................................................... 17 
+3.2 Specific objective 2. To assess the effect of tebuconazole dosage on the 
+germination of maize seeds. ................................................................. 17 
+3.2.1 Study site .............................................................................. 17 
+3.2.2 Materials. .............................................................................. 18 
+3.2.3 Experimental design. ................................................................ 18 
+3.2.4 Data collection........................................................................ 19 
+3.2.5 Data analysis. ......................................................................... 19 
+ 
+
+ 
+viii 
+ 
+CHARPTER FOUR .................................................................................. 20 
+4.1 For objective One: To assess the effect of tebuconazole dosage on A.flavus and 
+F.verticillioides growth and physical traits in maize seed. ............................. 20 
+4.1.1 Effect of tebuconazole on fungal growth. .......................................... 20 
+4.1.2 Effect of tebuconazole dosage fungal growth and appearance of physical 
+traits. ............................................................................................ 21 
+4.2 For Objective 2: To assess the effect of tebuconazole dosage on the germination 
+of maize seeds. ................................................................................. 22 
+4.2.1 Effect of tebuconazole dosage on germination percentage. ..................... 22 
+CHAPTER FIVE ..................................................................................... 23 
+5.0 DISCUSSION. ................................................................................ 23 
+CHAPRTER SIX ..................................................................................... 25 
+6.1 Conclusions. ................................................................................ 25 
+6.2 Recommendations. ........................................................................ 25 
+References ...................................................................................... 27 
+Appendices ...................................................................................... 30 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ ix 
+ 
+LIST OF TABLES 
+Table 1:  Effect of tebuconazole on fungal growth ......................................... 20 
+Table 2: Effect of tebuconazole dosage fungal growth and appearance of physical 
+traits ................................................................................................ 21 
+Table 3: Effect of tebuconazole dosage on germination percentage and seedling 
+growth .............................................................................................. 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ x 
+ 
+LIST OF FIGURES 
+Figure 1: Experimental layout .................................................................. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ xi 
+ 
+LIST OF ABREVIATIONS. 
+F.verticilliodes                     Fusarium verticillioides. 
+A.flavus                                Aspergillus flavus. 
+FH                                      High dose of tebuconazole. 
+FL                                      Low dose of tebuconazole. 
+FR                                      Reference dose  
+PC                                   Recommended dose of tebuconazole. 
+NC                                    Control. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 1 
+ 
+CHARPTER ONE 
+1.0 INTRODUCTION 
+1.1 Background. 
+Maize is one of the staple food crops for most of the population in African including 
+Uganda.  Maize is the one of the most important cereal crops cultivated throughout 
+the year. It is used as feed (63.0%), food 23.0%) and in starch industries (12.0%), and 
+also widely used for the production of biofuels and industrial products. It is used in 
+manufacturing starch and glucose in industries dealing with poultry and animal feeds. 
+(Tang et al., 2022). The demand for starch consumption in food is growing at 10−12% 
+yearly. It has greater calorific value and rich in amino acids with less toxins compared 
+to grains like millet and broken rice. (Buyinza & Wambede, 2008) 
+Despite the economic importance of Maize, more than 60 diseases attack maize 
+during production and storage hence reducing the production and productivity of 
+maize. (Xu et al., 2023) Fungi are one of the principal causes of deterioration and 
+yield loss to maize farmers and seed companies during storage. Maize is susceptible to 
+contamination by aflatoxin, which are produced by fungi called Aspergillus flavus 
+(Sserumaga et al., 2020). During seed storage, the common fungal species include: 
+Aspergillus flavus and fusarium verticillioides. These fungus mostly affect seed 
+quality through production of mycotoxins that  cause  discoloration of seeds, 
+reduction in seed viability and germination where the mycotoxins can directly damage 
+the embryo  leading to decreased germination rates and also increase susceptibility to 
+diseases which  makes them more vulnerable to fungal diseases thus reducing quality 
+and yield in maize production.(Sserumaga et al., 2020) Aspergillus flavus thrives and 
+
+ 
+ 2 
+ 
+multiplies in storage areas with high moisture and temperature and it is a major 
+producer of aflatoxin which is a toxic secondary metabolites that pose serious health 
+risks to both humans and animals. (Mateo et al., 2017).Aspergillus flavus has L Morph 
+type with large sclerotia that produces fewer conidia compared to the S morph type.  
+The L morph type of Aspergillus flavus is the most prevalent type found in Uganda. 
+Aspergillus flavus colonies have varying appearances with green, yellow and black 
+mycelium. (El-Dawy et al., 2024)  Aspergillus flavus destroys stored seeds causing loss 
+of viability which impacts the ability of the seeds to germinate successfully, and a 
+musty odor which indicates spoilage and potential health risks. The prevalence and 
+severity of aflatoxin in maize depend on the composition of Aspergillus populations 
+present.  The toxigenicity of There are varying levels of aflatoxin in the Aspergillus 
+flavus strains where some strains produce high levels of aflatoxin while others 
+produce little or nothing hence the maize stored is affected by a specific strain 
+depending on its ability to produce the aflatoxin.(Massomo, 2020). Aspergillus ssp 
+produces different aflatoxin for example Aspergillus flavus produces B1and B2 
+aflatoxin while A.parasiticus produces G1 and G2 aflatoxin which is known as the most 
+potent in potent aflatoxin production. 
+The color colonies for fusarium verticillioides are pink, grey and white and it is the 
+most prevalent disease in the Ugandan maize exhibited with a genetic differentiation 
+from the strains that are in other countries. (Wokorach et al., 2021 The infection 
+caused by F.verticilliodes during the maize seed storage is severe and leads to high 
+levels of damage where it damages embryo and endosperm which causes low levels of 
+germination when the seeds are planted.  (Moharana et al., 2020) It also causes other 
+
+ 
+ 3 
+ 
+symptoms like visible rotting on the seeds which affects their quality and produces 
+Fumonisin that are toxic to human health and the animals. The Fumonisin 
+contamination known as a group of mycotoxins.  F. verticillioides causes visible rot 
+symptoms on stored seeds hence affecting their quality and produces fumonisins 
+known as a group of mycotoxins that pose serious health risks to humans and animals. 
+In addition, Uganda fusarium strains exhibit a unique haplotype diversity which leads 
+to a localized evolutionary patterns and adaptation. (Xu et al., 2023) 
+There are different methods of seed treatments to control fungal diseases which 
+include biological methods like use of trichoderma harzianum which can parasitize 
+and kill other fungi including Aspergillus and Fusarium. Physical methods like hot 
+water treatment where seeds are soaked in hot water to kill fungal spores on the seed 
+surface for a specific time and temperature and also seed sorting and selection where 
+damaged, discolored, or moldy seeds are removed visibly before storage to reduce 
+overall fungal load. Chemical seed treatments include: Carboxyl a systemic fungicide 
+that controls seed-borne diseases like smuts, Thiram a contact fungicide that protects 
+the seed surface from fungal infections and prodione a broad-spectrum fungicide 
+effective against a wide range of fungi, including Aspergillus and Fusarium. Chemical 
+seed protectants have been recommended for the control of seed borne diseases, but 
+have not been completely effective and can also cause phytotoxicity and negative 
+growth.  The storage resistance of seeds that have been treated with saromyl 
+fungicide was used as a reference for maize storage seeds (Rahmawati and Aqil, 
+2021). 
+
+ 
+ 4 
+ 
+Tebuconazole is a triazole systemic fungicide that is used worldwide in the agriculture 
+sector to protect the crops from a variety of fungal pathogens. (Rajasekar et al., 
+2015) Its efficacy it affected by the regional variation for example in India which is 
+subtropical, tebuconazole has shown significant efficacy against fungal pathogens 
+while in warmer climates , studies have shown resistance rates of up to 95% in treated 
+corn seeds under high dosages. (Smith et al., 2023).  This research evaluated the 
+impact of different tebuconazole dosages on the growth of A. flavus and F. 
+verticillioides in stored maize seeds, as well as its effects on seed germination rates 
+and physical traits, to determine optimal application strategies in Uganda.    
+1.2 Statement of the problem. 
+Maize is one of the most important crops in Uganda that highly contributes to food 
+security and economic stability though its production and storage is greatly damaged 
+by fungal pathogens especially Aspergillus flavus and fusarium verticillioides. These 
+two fungi affect the quality of the seeds and also reduce its germination rates, they 
+also produce aflatoxin that are harmful to both humans and animals. Despite the 
+economic importance of maize to our country, the contamination caused by these two 
+fungi during maize seed storage still remains a significant challenge leading to post 
+harvest losses and reduced market value  (Sserumaga et al., 2020; Xu et al., 2023). 
+Aspergillus flavus and Fusarium verticillioides are the predominant fungal species 
+affecting maize during storage in Uganda. These fungi thrive in warm and humid 
+conditions, which are common in the region, and their presence leads to seed 
+discoloration, reduced germination rates, and mycotoxin contamination (Massomo, 
+2020; Wokorach et al., 2021). 
+
+ 
+ 5 
+ 
+The control methods used include: Biological, physical and chemical methods that are 
+used to manage fungal growth. Tebuconazole, a triazole fungicide that is a chemical 
+method has shown efficacy in the control of the fungal pathogens in other crops and 
+countries. (Rajasekar et al., 2015; Gxasheka et al., 2020). However the effectiveness 
+of tebuconazole in controlling A.flavus and F. verticillioides in maize under the 
+Ugandan storage conditions is still not known though it is widely used in control of 
+fungal pathogens, there is limited information on its effectiveness in managing of 
+Aspergillus flavus and fusarium verticillioides. The optimal dosage of tebuconazole 
+for controlling these two fungi is not well established. There is lack of the 
+standardized dosage level with no negative effect on the germination and physical 
+traits of maize seeds (Tang et al., 2022). 
+There is a need to determine the efficacy of tebuconazole in controlling Aspergillus 
+flavus and Fusarium verticillioides growth in stored maize under Ugandan conditions. 
+Specifically, the optimal dosage of tebuconazole that effectively inhibits fungal 
+growth while maintaining or improving seed germination rates and physical 
+characteristics must be established though the impact of tebuconazole on seed 
+quality during storage needs to be evaluated to provide practical recommendations 
+for maize farmers and storage facility managers. (Sserumaga et al., 2020) This study 
+aims at evaluating the effect of tebuconazole on the growth of Aspergillus flavus and 
+fusarium verticillioides in the stored maize seeds and finding out the impact it has on 
+the germination rate and physical traits. This experiment will consist of varying doses 
+of tebuconazole in order to identify the optimal concentration that will effectively 
+control these two fungi growth without affecting the seed quality. The findings of this 
+
+ 
+ 6 
+ 
+study will provide a clear view on how to develop am effective seed treatment 
+strategy to mitigate fugal contamination in the maize seed storage in order to 
+improve food security. 
+1.3 Main objective. 
+ To evaluate the effect of tebuconazole on fungal growth and seed quality of 
+maize for effective management of fungal diseases and reduce the yield losses 
+caused during storage. 
+1.3.1 Specific objectives. 
+1. To assess the effect of tebuconazole dosage on Aspergillus flavus and Fusarium 
+verticillioides growth and physical traits in maize seed. 
+2. To assess the effect of tebuconazole dosage on the germination percentage of 
+maize seeds. 
+1.3.2 Hypothesis. 
+1. Increased dosages of tebuconazole reduce the growth of A. flavus and F. 
+verticillioides in maize seeds. 
+2. Low to moderate dosages of tebuconazole affect the germination percentage of 
+maize seeds negatively. 
+1.4 Significance. 
+The results of this study will provide scientific evidence for the efficacy of 
+tebuconazole in controlling local fungal growth and its impact on maize seed quality 
+during storage. The results will provide valuable information for policymakers and 
+regulatory agencies involved in setting standards for the use of fungicides in 
+
+ 
+ 7 
+ 
+agriculture. The study will also benefit maize farmers, food and feed industries, 
+researchers and extension workers by providing them with practical recommendations 
+for the safe and effective use of tebuconazole to prevent fungal contamination of 
+1.5 Justification. 
+Tebuconazole, a triazole fungicide has shown promising results in controlling a wide 
+range of fungal pathogens including Fusarium species in various crops. (Gxasheka et 
+al., 2020). Previous studies have demonstrated the efficacy of tebuconazole in 
+inhibiting mycelia growth of F. verticillioides and reducing fumonisin production in 
+vitro(Falca & Mycotoxin, 2011).However, there is a lack of information regarding the 
+use of tebuconazole as a seed dressing agent for maize in Uganda due to the varying 
+climatic conditions. This research will address this knowledge gap by investigating the 
+effects of different tebuconazole concentrations on fungal growth, specifically 
+targeting the dominant A. flavus and fusarium verticillioides. The study will also 
+examine the impact of tebuconazole on seed germination and other crucial physical 
+characteristics of maize seeds. The findings will provide a practical solution for fungal 
+control and the optimal dosage will reduce wastage and develop effective fungicide 
+application guidelines that will have no negative effect on maize seed physical 
+characteristics and germination rate valuable information for developing effective 
+seed treatment strategies. 
+1.6 Scope of the study. 
+This study will be conducted to evaluate the effect of tebuconazole on fungal growth 
+and maize seed characteristics and germination.  The focus will be on maize seeds 
+treated with tebuconazole during storage. The study will be conducted at Makerere 
+
+ 
+ 8 
+ 
+agricultural research institute at kabanyolo. The fungi used in the study will be 
+isolated from maize samples collected from different storage facilities in Uganda. 
+1.7 Theoretical framework. 
+Dependent variables: Seed weight was assessed by using a weighing scale in grams. 
+The color of the fungal colonies growing on the seeds were assessed visually. Seeds 
+were visually assessed for any abnormalities including discoloration, shriveling and 
+rotting. Normal seeds are classified as healthy and had no signs of fungal growth or 
+any other physical damage. Capping were assessed visually by counting the number of 
+capped seeds. Germination percentage is determined by counting the number of 
+seeds that have germinated expressing this as a percentage of the total number of 
+seeds (10). (Moharana et al., 2020) 
+Independent variables : A range of tebuconazole concentration were used 0ml for no 
+control, 0.5ml as high dose, 0.6ml as recommended dose, 0.8ml as lower dose and 
+1.125 dose as reference dose. Distilled water was used to dilute the tebuconazole 
+fungicide. 
+Control variable: Light was controlled during the experiment in the laboratory. 
+(Moharana et al., 2020) 
+ 
+ 
+ 
+ 
+
+ 
+ 9 
+ 
+1.7.1 Conceptual framework.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 10 
+ 
+CHARPTER TWO 
+2.0 Literature review. 
+2.1.1 Importance of maize  
+ Maize (Zea mays) is a critical staple food for many populations worldwide, 
+particularly in Sub-Saharan Africa, including Uganda. It serves as the most significant 
+cereal crop and a staple food for the majority of households, contributing over 40% to 
+total calorie intake through versatile consumption as fresh cobs, "posho," and 
+porridge, and as a key food source for institutions. Economically, it stands as the 
+primary income source for numerous farmers, especially smallholders, supporting the 
+livelihoods of over two million households, traders, and millers, and has evolved into 
+a major non-traditional export crop boosting foreign exchange and underpinning 
+industries like brewing and livestock feed. Agriculturally, maize is widely cultivated 
+across Uganda, predominantly by smallholder farmers who account for the majority of 
+production and marketable surplus, making it a government priority for enhanced 
+output.  (Tang et al., 2022) 
+Aflatoxin contamination in maize in Uganda. 
+However, maize crops are highly susceptible to fungal infections, which can lead to 
+significant yield losses and pose severe health risks due to aflatoxin contamination 
+(Sserumaga et al., 2020). Aflatoxins, a group of carcinogenic and immunosuppressive 
+mycotoxins produced primarily by Aspergillus flavus, contaminate maize during 
+storage, especially in warm and humid environments. Several reports indicate 
+alarming levels of aflatoxin contamination in maize from various regions in Uganda, 
+
+ 
+ 11 
+ 
+leading to economic losses from trade restrictions and reduced market value 
+(Sserumaga et al., 2020). 
+2.1.2 Storage conditions for maize quality preservation.  
+Maintaining maize seed quality and preventing spoilage require adherence to specific 
+storage conditions. Proper post-harvest management is essential, with a target 
+moisture content of 13% recommended to inhibit fungal growth (Campos et al., 2015). 
+Well-ventilated storage structures, such as raised platforms, are crucial for promoting 
+air circulation and preventing moisture accumulation. Effective drying methods, like 
+sun drying, should be employed to remove excess moisture and prevent mold growth. 
+These practices reduce the risk of fungal growth and aflatoxin contamination during 
+storage (Campos et al., 2015). 
+2.1.3 Fungal community dynamics influencing aflatoxin contamination.  
+Aspergillus section Flavus communities are composed of diverse individuals exhibiting 
+varying phenotypic and genotypic characteristics (Sserumaga et al., 2020). The 
+composition of these communities significantly influences the incidence and severity 
+of aflatoxin contamination. Understanding the interactions and dynamics within these 
+fungal communities is crucial for developing effective control strategies. Factors such 
+as fungal strain, environmental conditions and agricultural practices can all impact 
+the prevalence and toxigenicity of Aspergillus species in stored maize (Sserumaga et 
+al., 2020). 
+
+ 
+ 12 
+ 
+2.1.4 Morphological and toxigenic variability in A. flavus populations.  
+Aspergillus flavus strains are categorized into different morph types, including the L 
+and S morph types. In Uganda, the L morph type is more prevalent, accounting for 
+approximately 6.66% of the A. flavus population (Massomo, 2020). The S morph type is 
+known to produce higher levels of aflatoxin compared to the L morph type, posing a 
+greater risk of contamination (Massomo, 2020).  
+2.1.5 Climatic drivers of fungal proliferation and aflatoxin production.  
+Climatic conditions play a significant role in the growth and aflatoxin production of A. 
+flavus. A relatively hot and dry weather with an optimal growth rate of around 31°C 
+favors fungal proliferation. High temperatures (exceeding 25°C) and high humidity 
+(above 70%) create conducive environments for the spread of infection and the 
+growth of aflatoxin (Marín et al., 2013).  
+2.1.6 Fusarium pathogens: Prevalence and genetic diversity in maize.  
+Fusarium verticillioides is another common fungal pathogen in maize, often found in 
+multiple haplotype groups (Marín et al., 2013). This pathogen is prevalent in Ugandan 
+maize, exhibiting genetic differentiation from strains found in other countries 
+(Wokorach et al., 2021). F. verticillioides can cause severe damage to maize seeds 
+during storage, leading to the production of fumonisins, which are toxic to human and 
+animal health (Moharana et al., 2020). The unique haplotype diversity of Ugandan 
+Fusarium strains indicates localized evolutionary patterns and adaptation, requiring 
+region-specific management strategies (Xu et al., 2023). 
+
+ 
+ 13 
+ 
+2.1.7 Deterioration of seed quality due to fungal colonization.  
+The invasion and growth of A. flavus in maize seeds result in a loss of seed viability 
+(Moharana et al., 2020). The fungus uses the seed's stored reserves as a food source, 
+leading to a decline in the seed’s ability to germinate. Fungal activity degrades the 
+seed's physical and biochemical composition, resulting in an overall decline in seed 
+quality (Moharana et al., 2020).  
+2.1.8 Musty odor development as an indicator of fungal activity.  
+The metabolic activity of A. flavus during its growth and colonization processes 
+produces volatile compounds, resulting in a musty odor (Moharana et al., 2020). These 
+compounds are byproducts of the fungus breaking down the seed’s components. The 
+presence of a musty odor serves as an indicator of fungal activity and potential 
+spoilage of stored maize. (Moharana et al., 2020). 
+2.1.9 Current control methods of A. flavus and F. verticillioides in maize seeds 
+Various methods exist for controlling fungal diseases in stored maize, including 
+biological, physical, and chemical approaches. Biological methods involve using 
+beneficial microorganisms like Trichoderma harzianum to parasitize and kill other 
+fungi (Xu et al., 2023). Physical methods include hot water treatments and seed 
+sorting to reduce the fungal load. Chemical seed treatments, such as carboxyl, 
+thiram, and prodione, have been used to control seed-borne diseases (Rahmawati and 
+Aqil, 2021). Tebuconazole, a triazole systemic fungicide, has shown promise in 
+protecting crops from fungal pathogens. It has curative and protective properties. It is 
+a large class of compounds that were developed in 1960s to solve the problem of 
+fungal growth which causes diseases in plants, it is widely used in agriculture sector 
+
+ 
+ 14 
+ 
+with the aim of protecting crops from a variety of fungal pathogens (Rajasekar et al., 
+2015).  
+2.1.10 Tebuconazole: Efficacy, regional variations, and resistance. 
+Tebuconazole's efficacy is influenced by regional variations and climatic conditions. In 
+subtropical regions like India, it has demonstrated significant efficacy against fungal 
+pathogens (Rajasekar et al., 2015). However, in warmer climates, studies have 
+reported resistance rates of up to 95% in treated corn seeds under high dosages (Smith 
+et al., 2023) Fusarium species, particularly F. verticillioides, are highly prevalent in 
+Ugandan maize and exhibit significant genetic differentiation from strains in other 
+countries, evidenced by variations in the TEF-α1 gene sequence.  (Wokorach et al., 
+2021). 
+2.2 Identification of the fungal growth in maize seeds. 
+Capping: High number of maize seeds that were capped indicated high levels of fungal 
+colonization while lower number of capped seeds indicated low levels of fungal 
+growth. (Moharana et al., 2020). Fungal colonies: Presence of different fungal color 
+colonies indicated the presence or incidence of the fungal species. (Adolph, 2016) 
+Normal seeds: High number of normal seeds indicated tebuconazole effectiveness to 
+control fungal growth and maintain seed quality and lower number of normal seeds 
+indicated the resistance of fungal pathogens and changes in the seed quality. 
+Abnormal seeds: High number of abnormal seeds indicated the resistance of fungal 
+pathogens and changes in the seed quality while lower number of abnormal seeds 
+indicated tebuconazole effectiveness to control fungal growth and maintain seed 
+quality. (Moharana et al., 2020). 
+
+ 
+ 15 
+ 
+3.0 CHARPTER THREE 
+3.1 Specific objective 1. To assess the effect of tebuconazole dosage on A.flavus 
+and F.verticillioides growth and physical traits in maize seed. 
+3.1.2 Study site. 
+The study was conducted at Makerere University Agricultural Research Institute 
+Kabanyolo. MUARIK is located on spatial coordinates 0˚27'60''N, 32˚36'24'' E at an 
+altitudinal range of 1250 m to 1320 m above mean sea level. The study site is within 
+the administrative boundaries of Nangabo Sub County, Wakiso district and about 14 
+km north of Kampala, Uganda’s capital city. Kabanyolo is part of the Lake Victoria 
+basin that receives an average annual precipitation of 1218 mm and slightly drier 
+periods in June to July and December to February. The average annual temperature is 
+21.5˚C. (Makerere University et.at. 2025) 
+3.1.3 Materials. 
+Healthy maize seeds, tebuconazole fungicide, reference chemical (metalaxyl), 75 
+plastic tins, syringe, weighing scale and distilled water. 
+3.1.4 Experimental design. 
+Completely Randomized Design (CRD) with three replications for statistical validity 
+including treatment groups. (Moharana et al., 2020) Healthy maize seeds were 
+obtained from a maize storage facility.300g of maize seed was weighed for each 
+plastic tin using a weighing scale. Treatments were inoculated with the infected 
+maize seed except the control treatment group. 
+
+ 
+ 16 
+ 
+The tebuconazole treatments groups included; 0ml (control), 0.5ml (recommended 
+dose), 0.6ml (low dose), 0.8ml (high dose) and 1.125ml (reference dose) which were 
+diluted with distilled water (3ml). (Moharana et al., 2020) 
+The solution was mixed with the seeds, shaking manually in plastic bags for the 
+uniform distribution of the fungicide.  The maize seeds were then placed in the 
+plastic tins to observe the fungal growth. Maize seeds in the tins were monitored for 
+fungal growth and changes in physical traits of the seeds every after 7days for a 
+month. (Moharana et al., 2020). 
+Experimental layout. 
+ 
+Figure 1: Experimental layout 
+3.1.5 Data collection. 
+Data collected: Quantitative and qualitative data was collected. 
+
+ 
+ 17 
+ 
+Variables: Independent variable (tebuconazole concentration), dependent variables 
+(fungal colonies, capping, abnormal seeds and normal seeds), control variable (light) 
+A sample of 100 maize seeds were chosen to assess the number of abnormal seeds, 
+normal seeds and capping visually.  The color of the fungal colonies growing on the 
+seeds were assessed visually. (Adolph, 2016). Seeds were visually assessed for any 
+abnormalities including discoloration, shriveling and rotting. (Moharana et al., 2020). 
+Normal seeds were classified as healthy and had no signs of fungal growth or any 
+other physical damage. (Moharana et al., 2020) 
+3.1.6 Data analysis. 
+Data was entered in excel then imported to Genstat 12edition for analysis. Descriptive 
+statistics was done to calculate mean and standard deviation for numerical variables 
+(normal, abnormal seed and capping), and for categorical variables (high dose, low 
+dose, reference dose, Control, and recommended dose. (Moharana et al., 2020). One 
+way ANOVA was done to compare means of dependent variables across different 
+treatment groups. This was followed by Duncan's multiple range test was used to 
+determine which treatments are significantly different from each other. 
+3.2 Specific objective 2. To assess the effect of tebuconazole dosage on the 
+germination of maize seeds. 
+3.2.1 Study site 
+This study was conducted from Uganda Christian University, Mukono main campus 
+with approximately 8,000 students, is in the town of Mukono, approximately 25 
+kilometers (16 mi), by road, east of Uganda's capital city, Kampala, on the Kampala-
+
+ 
+ 18 
+ 
+Jinja Highway. The coordinates of the main campus are 0°21'27.0"N, 32°44'29.0"E 
+(Latitude: 0.357500; Longitude: 32.741389) with a tropical rainforest climate. (Uganda 
+Christian Unversity.et al., 2025) 
+3.2.2 Materials. 
+ 
+Healthy maize seeds, tebuconazole fungicide, reference chemical (metalaxyl), 75 
+sterilized petri dishes, pipettes, gloves, cotton and distilled water 
+3.2.3 Experimental design. 
+Completely Randomized Design (CRD) with three replications for statistical validity 
+including treatment groups. 
+Healthy maize seeds were obtained from storage maize facilities. Maize seeds were 
+soaked in distilled water for 12 hours to improve germination.  
+Tebuconazole concentrations were prepared, low dose(0.5ml),high dose(0.8ml), 
+recommended dose (0.6ml) and reference dose (1.125ml) that were diluted with 
+0.3ml of distilled water. (Moharana et al., 2020). The maize seeds were treated, 
+apart from control group where the mixture and the seeds were put in polyethene bag 
+and shaken manually for uniform distribution of the fungicide.  
+Treated 10 maize seeds, apart from control group were placed in each petri dish.  
+Moist cotton was placed in the petri dishes where the treated seeds were placed. The 
+seeds were then covered with a black polyethene back to trap moisture and prevent 
+direct light from inhibiting germination. (Moharana et al., 2020) 
+
+ 
+ 19 
+ 
+Moisture of the cotton was monitored daily and watered to prevent inhibition of seeds 
+causing by drying of the seeds.  The germination process took 7days. (Moharana et al., 
+2020) (figure 1). 
+3.2.4 Data collection. 
+Data collected: Quantitative data was collected. 
+Variables: Independent variable (tebuconazole concentrations, distilled water), 
+dependent variable (germination percentage, root length and shoot length), control 
+variable (light) 
+The number of maize seeds that germinated were recorded after 7days using the 
+excel sheet.  
+Germination percentage was calculated by dividing the number of germinated seeds 
+by the total number of seeds in each petri dish, which expressed the result as a 
+percentage. The root and shoot length data was collected using a ruler in cm by 
+measuring the root and length of the seedlings. (Moharana et al., 2020)  
+3.2.5 Data analysis. 
+Data was entered in excel then imported to Genstat 12edition for analysis. Descriptive 
+statistics was done to calculate mean and standard deviation for numerical variables 
+(germination percentage, shoot length and root length), and for categorical variables 
+(high dose, low dose, reference dose, Control, and recommended dose. One way 
+ANOVA to compare means of dependent variables across different treatment groups 
+and correlation analysis to determine the relationship between germination 
+percentages, root and shoot lengths. Duncan's multiple range test used to determine 
+which treatments are significantly different from each other. (Moharana et al., 2020) 
+
+ 
+ 20 
+ 
+CHARPTER FOUR 
+4.0 RESULTS 
+4.1 For objective One: To assess the effect of tebuconazole dosage on A.flavus 
+and F.verticillioides growth and physical traits in maize seed.  
+4.1.1 Effect of tebuconazole on fungal growth. 
+The results showed that there was a significant difference at p- 0.004 among the 
+dosages of tebuconazole on fungal growth on maize seeds (Table 1). White fungal 
+colonies were present in 100% of the samples across all treatments, suggesting 
+potential resistance to tebuconazole. The high dose of tebuconazole appeared to be 
+most effective in reducing the presence of yellow, green, grey, and brown fungal 
+colonies. 
+Table 1:  Effect of tebuconazole on fungal growth 
+Treatment 
+White (%) Yellow (%) Green (%) 
+Grey (%) 
+Brown (%) 
+Recommended 
+ Dose 
+100.0 
+24.4 
+6.7 
+0.0 
+17.8 
+Reference dose 
+93.3 
+2.2 
+0.0 
+0.0 
+0.0 
+Low dose 
+95.6 
+13.3 
+20.0 
+31.1 
+22.2 
+High dose 
+100.0 
+13.3 
+6.7 
+8.9 
+11.1 
+Control 
+100.0 
+11.1 
+28.9 
+48.9 
+17.8 
+P-value 
+< 0.05 
+< 0.01 
+< 0.001 
+< 0.001 
+< 0.01 
+
+ 
+ 21 
+ 
+4.1.2 Effect of tebuconazole dosage fungal growth and appearance of physical 
+traits. 
+The results showed that there was a significant difference at p- 0.001 among the 
+dosages of tebuconazole on physical traits of maize seeds (normal seeds, abnormal 
+and capping) table 2. High dose of tebuconazole resulted in the highest number of 
+normal seeds (72.65 ± 16.14a) and the lowest number of abnormal seeds (23.47 ± 
+15.14c), hence there was effective control of fungal growth. The control group had 
+the lowest number of normal seeds (50.57 ± 28.33c) and the highest number of 
+abnormal seeds (44.40 ± 27.57a), hence there was significant fungal impact in the 
+absence of treatment. 
+Table 2: Effect of tebuconazole dosage fungal growth and appearance of physical 
+traits 
+Treatment 
+Normal Seeds  
+Abnormal Seeds  
+Capping  
+Recommended dose 
+65.73 ± 21.39b 
+29.97 ± 20.76b 
+6.86 ± 7.45ab 
+Reference dose 
+62.42 ± 25.84b 
+34.83 ± 24.87ab 
+3.84 ± 4.31b 
+Low dose 
+53.14 ± 26.77c 
+42.77 ± 20.62a 
+7.80 ± 7.59a 
+High dose 
+72.65 ± 16.14a 
+23.47 ± 15.14c 
+5.13 ± 8.45ab 
+Control  
+50.57 ± 28.33c 
+44.40 ± 27.57a 
+7.94 ± 8.04a 
+P-value 
+<0.001 
+<0.001 
+<0.01 
+LSD 
+8.24 
+7.95 
+2.47 
+P=0.004 shows significant difference, a, b, c ab separates means of the different 
+treatments 
+
+ 
+ 22 
+ 
+4.2 For Objective 2: To assess the effect of tebuconazole dosage on the 
+germination of maize seeds.  
+4.2.1 Effect of tebuconazole dosage on germination percentage. 
+ 
+The results showed that there was a significant difference at p- 0.004 among the 
+dosages of tebuconazole on germination of maize seeds and seedling traits. Table 3 
+indicates that low dose of tebuconazole resulted in the highest germination 
+percentage (96.67 ± 4.880c), shoot length (5.327 ± 3.619b) and root length (7.247 ± 
+4.391c) while the recommended dose of tebuconazole resulted in the lowest 
+germination percentage (63.33 ± 9.759a), shoot length (3.420 ± 2.723a) and root 
+length (5.200 ± 1.715b).  
+Table 3: Effect of tebuconazole dosage on germination percentage and seedling 
+growth 
+Treatment 
+Germination % 
+Shoot length 
+Root length 
+High dose 
+70.00 ± 8.452b 
+4.387 ± 1.230ab 
+2.987 ± 1.183a 
+Low dose 
+96.67 ± 4.880c 
+5.327 ± 3.619b 
+7.247 ± 4.391c 
+Reference 
+Dose 
+80.00 ± 22.361b 
+4.493 ± 1.702ab 
+4.193 ± 1.688b 
+Control 
+83.33 ± 4.880b 
+4.213 ± 1.409a 
+3.800 ± 1.440b 
+Recommended 
+Dose 
+63.33 ± 9.759a 
+3.420 ± 2.723a 
+5.200 ± 1.715b 
+P value 
+0.001 
+0.001 
+0.01 
+LSD 
+5.737 
+1.3727 
+1.662 
+P=0.004 shows significant difference, a, b, c, ab separates means of different 
+treatments.  
+
+ 
+ 23 
+ 
+CHAPTER FIVE 
+5.0 DISCUSSION. 
+5.1 For objective one: To assess the effect of tebuconazole dosage on A.flavus 
+and F.verticillioides growth and physical traits in maize seed. 
+The findings of this study confirm tebuconazole's effectiveness in reducing fungal 
+growth and maintaining the physical quality of maize seeds during storage.  
+Specifically, the high dose of tebuconazole led to a higher number of normal seeds 
+and a lower number of abnormal seeds, indicating effective control of fungal growth.  
+This aligns with previous research demonstrating tebuconazole's ability to protect 
+crops from various fungal pathogens. (Rajasekar et al. (2015) which shows that 
+tebuconazole's efficacy in protecting crops from fungal pathogens.  However, the 
+consistent presence of white fungal colonies across all treatments, as observed in this 
+study, suggests potential resistance or the presence of non-targeted fungal species 
+which is the same observation that was reported in warmer climates with resistance 
+rates of up to 95% in treated corn seeds under high dosages. (Smith et al. 2023) 
+Implication. 
+Tebuconazole significantly affects the growth of A. flavus and F. verticillioides, as 
+well as the physical traits of maize seeds. 
+For objective two:  To assess the effect of tebuconazole dosage on the 
+germination of maize seeds. 
+The results indicated that low to moderate dosages of tebuconazole (0.5–0.6 ml) had 
+minimal negative effects on germination percentage hence safe for seed viability.  
+
+ 
+ 24 
+ 
+This finding is consistent with the broader understanding that while fungicides can 
+protect seeds from fungal pathogens, they must do so without compromising the 
+seed's ability to germinate.  However, the reference dosage (1.125 ml) negatively 
+impacted germination due to phytotoxicity which can damage the seed embryo and 
+inhibit germination.  The same observation was reported regarding the importance of 
+establishing optimal tebuconazole dosages to avoid negative effects on germination 
+and physical traits of maize seeds where high doses of tebuconazole affected 
+germination with an incidence of 10-20% (Tang et al. 2022). 
+Implication.  
+Low to moderate dosages of tebuconazole have minimal negative effects on seed 
+germination and they are safe for seed viability. 
+Limitations. 
+The study observed white fungal colonies in 100% of the samples across all 
+treatments, suggesting potential resistance to tebuconazole or the presence of non-
+targeted fungal species.   
+The research did not include field trials in different environmental conditions and 
+with different maize varieties, which could limit the generalizability of the results.   
+ 
+ 
+ 
+ 
+
+ 
+ 25 
+ 
+CHAPRTER SIX 
+6.0 CONCLUSIONS AND RECOMMENDATIONS 
+6.1 Conclusions. 
+The results from objective one for assessing the effect of tebuconazole dosage on 
+A.flavus and F.verticillioides growth and physical traits in maize seed showed that 
+there was a significant difference (<0.004) among the tebuconazole concentrations on 
+the fungal growth and physical traits of maize seeds, therefore I fail to reject my 
+hypothesis which states that increased dosages of tebuconazole reduce the growth of 
+A. flavus and F. verticillioides in maize seeds. 
+The results from objective two for assessing the effect of tebuconazole dosage on the 
+germination percentage of maize seeds showed that was a significant difference (< 
+0.004) among the tebuconazole concentrations on germination percentage, therefore 
+I fail to reject my hypothesis which states that low to moderate dosages of 
+tebuconazole affect the germination percentage of maize seeds. 
+6.2 Recommendations.  
+A recommended dose of tebuconazole (0.5ml) is recommended for usage due to its 
+effectiveness to control fungal growth and minimal effect on the germination 
+percentage.  
+Investigate long-term effects of tebuconazole on maize crop performance and explore 
+integrated approaches combining chemical and biological treatments. 
+Filed trials should be conducted in different environmental conditions and with 
+different maize varieties to ensure generalizability. The presence of white fungal 
+
+ 
+ 26 
+ 
+colonies across all treatments suggests potential resistance to tebuconazole hence it 
+is recommended to conduct further investigations to identify the specific fungal 
+species present and their susceptibility to tebuconazole. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 27 
+ 
+References 
+Adolph, R. (2016). 無No Title No Title No Title. 1, 1–23. 
+Buyinza, M., & Wambede, N. (2008). Extension for Agroforestry Technology Adoption: 
+Mixed Intercropping of Crotalaria (Crotalaria grahamiana) and Maize (Zea Mays L.) in 
+Kabale District, Uganda. Environmental Research Journal, 2(3), 131–137. 
+Campos, E. V. R., De Oliveira, J. L., Da Silva, C. M. G., Pascoli, M., Pasquoto, T., 
+Lima, R., Abhilash, P. C., & Fernandes Fraceto, L. (2015). Polymeric and Solid Lipid 
+Nanoparticles for Sustained Release of Carbendazim and Tebuconazole in Agricultural 
+Applications. Scientific Reports, 5(March), 1–14. https://doi.org/10.1038/srep13809 
+Chen, X., Abdallah, M. F., Landschoot, S., Audenaert, K., Saeger, S. De, Chen, X., & 
+Rajkovic, A. (2023). Mycotoxins : Global Distribution and Scenarios of Interactions in 
+Maize. 1–21. 
+El-Dawy, E. G. A. M., Gherbawy, Y. A., & Hussein, M. A. (2024). Characterization of 
+Aspergillus section Flavi associated with stored grains. Mycotoxin Research, 40(1), 
+187–202. https://doi.org/10.1007/s12550-023-00514-1 
+Eli, K. (2022). Management of Fusarium graminearum and its mycotoxins in Ontario 
+maize. 
+Gxasheka, M., Wang, J., Gunya, B., Mbanjwa, V., Tyasi, L., Dlamini, P., & Gao, J. 
+(2020). Archives of Phytopathology and Plant Protection In vitro effect of some 
+commercial fungicides on mycelial growth of Fusarium species causing maize ear rot 
+
+ 
+ 28 
+ 
+disease in China. Archives of Phytopathology and Plant Protection, 0(0), 1–13. 
+https://doi.org/10.1080/03235408.2020.1844531 
+Mahapatra, S., & Das, S. (2022). Evaluation of Fungicides, Botanicals and Biocontrol 
+Agents for Management of Southern Leaf Blight of Maize ( Bipolaris maydis ) with 
+Effective Benefit Cost Ratio. 13(November), 1252–1260. 
+Marín, P., Ory, A. De, Cruz, A., Magan, N., & González-jaén, M. T. (2013). 
+International Journal of Food Microbiology Potential effects of environmental 
+conditions on the ef fi ciency of the antifungal tebuconazole controlling Fusarium 
+verticillioides and Fusarium proliferatum growth rate and fumonisin biosynthesis. 165, 
+251–258. 
+Massomo, S. M. S. (2020). Aspergillus flavus and aflatoxin contamination in the maize 
+value chain and what needs to be done in Tanzania. Scientific African, 10, e00606. 
+https://doi.org/10.1016/j.sciaf.2020.e00606 
+Mateo, E. M., Gómez, J. V., Gimeno-adelantado, J. V., Mateo-castro, R., & Jiménez, 
+M. (2017). Assessment of azole fungicides as a tool to control growth of Aspergillus 
+flavus 
+and 
+aflatoxin 
+B 
+1 
+and 
+B 
+2 
+production 
+in 
+maize. 
+0049(March). 
+https://doi.org/10.1080/19440049.2017.1310400 
+Moharana, A., Mohanty, S. K., & Bastia, R. (2020). Standardisation of polymer coating 
+in maize for maintenance of seed quality during storage. Journal of Pharmacognosy 
+and Phytochemistry 9(5), 177–185. https://doi.org/10.22271/phyto.2020.v9.i5c.12207 
+
+ 
+ 29 
+ 
+Rajasekar, M., Rabert, G. A., & Manivannan, P. (2015). Triazole induced changes on 
+biochemical and antioxidant metabolism of Zea mays L . ( Maize ) under drought 
+stress. 1(1), 35–42. https://doi.org/10.5455/jpsp.2015-08-024 
+Scaglioni, P. T., Blandino, M., Scarpino, V., Giordano, D., Testa, G., & Badiale-
+Furlong, E. (2018). Application of Fungicides and Microalgal Phenolic Extracts for the 
+Direct Control of Fumonisin Contamination in Maize. Journal of Agricultural and Food 
+Chemistry, 66(19), 4835–4841. https://doi.org/10.1021/acs.jafc.8b00540 
+Sserumaga, J. P., Ortega-Beltran, A., Wagacha, J. M., Mutegi, C. K., & 
+Bandyopadhyay, R. (2020). Aflatoxin-producing fungi associated with pre-harvest 
+maize contamination in Uganda. International Journal of Food Microbiology, 
+313(September 2019), 108376. https://doi.org/10.1016/j.ijfoodmicro.2019.108376 
+Tang, X., Chen, S., Yan, X., Wang, Z., Yuan, H., & Chen, S. (2022). Factors Underlying 
+the Prevalence of Pythium Infection of Corn Seeds Following Seed Treatment 
+Application of Tebuconazole. 
+Wokorach, G., Landschoot, S., Audenaert, K., Echodu, R., & Haesaert, G. (2021). 
+Genetic characterization of fungal biodiversity in storage grains: Towards enhancing 
+food 
+safety 
+in 
+northern 
+Uganda. 
+Microorganisms, 
+9(2), 
+1–18. 
+https://doi.org/10.3390/microorganisms9020383 
+Xu, Y., Zhang, Z., Lu, P., Li, R., Ma, P., Wu, J., Li, T., & Zhang, H. (2023). Increasing 
+Fusarium verticillioides resistance in maize by genomics-assisted breeding: Methods, 
+progress, 
+and 
+prospects. 
+Crop 
+Journal, 
+11(6), 
+1626–1641. 
+https://doi.org/10.1016/j.cj.2023.07.004 
+
+ 
+ 30 
+ 
+Appendices 
+Appendix 1: Pictures showing setting up of the experiment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 31 
+ 
+Appendix 2: Pictures showing effect of tebuconazole on fungal growth on maize. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 32 
+ 
+Appendix 3: Pictures showing monitoring and data collection. 
+ 
+ 
+ 
+ 
+ 

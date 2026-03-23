@@ -1,0 +1,105 @@
+Software Project Management Course Outline
+
+Course Overview:
+
+
+The Project Management Fundamentals for Technology and Software Development Projects
+course is designed to provide students with a comprehensive understanding of project
+management principles, methodologies, and best practices. Students will learn how to
+effectively manage projects focusing on software development and other technology related
+initiatives. The course will cover key project management concepts, tools, and techniques
+specific to technology and software development, helping students develop the necessary
+skills to lead and manage projects successfully.
+
+Course Outline:
+
+
+Module 1: Introduction to Project Management.
+●​
+Understanding the role and importance of project management.
+●​
+Key project management terms and definitions.
+●​
+Project life cycle and phases in technology and software development projects.
+●​
+Project stakeholders and their roles in technology projects.
+●​
+Project success factors.
+
+
+Module 2: Project Initiation in Technology and Software Development Projects
+●​
+Project identification and selection.
+●​
+Defining project objectives and scope for software development.
+●​
+Conducting feasibility studies.
+●​
+Stakeholder analysis and engagement.
+●​
+Developing a project plan.
+
+
+Module 3: Project Planning for Technology and Software Development Projects
+●​
+Breaking down work structure based on the project plan.
+●​
+Activity sequencing and scheduling.
+●​
+Estimating activity durations and resources.
+
+●​
+Developing a project schedule with timelines.
+●​
+Risk identification and assessment.
+●​
+Change management
+
+
+Module 4: Project Execution in Technology and Software Development Projects
+●​
+Team building and communication strategies.
+●​
+Managing project risks and issues in software development.
+●​
+Procurement and vendor management.
+●​
+Quality assurance and control.
+●​
+Monitoring and controlling project progress.
+
+
+Module 5: Project Closure in Technology and Software Development Projects
+●​
+Project handover and acceptance procedures.
+●​
+Lessons learned and post-project review.
+●​
+Project documentation and archiving.
+●​
+Finalizing project contracts and financials.
+
+
+Module 6: Agile Project Management for Technology and Software Development
+●​
+Introduction to Agile methodologies in software development.
+●​
+Scrum framework and roles.
+●​
+Agile planning and estimation.
+●​
+Sprint execution and monitoring.
+●​
+Agile project reporting and adaptation.
+●​
+Continuous Integration and Continuous Delivery (CI/CD)
+
+
+
+Software tools:
+
+
+●​ Zenhub : $12 / user / month
+●​ Slack : free
+●​ GitHub : $ 3.67 / user / month
+●​ Google Drive : free

@@ -1,0 +1,1171 @@
+ASSESSING THE USE OF POLY ALUMINIUM COATED GRANULES FROM
+WATER TREATMENT SLUDGE TO ENHANCE THE DEWATERING OF FECAL
+SLUDGE IN SLUDGE DRYING BEDS : A CASE STUDY LUBIGI FECAL SLUDGE
+AND WASTEWATER TREATMENT PLANT
+
+ANDREW NDAMIRA MUHWEZI
+S21B32/090
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT
+Lubigi fecal sludge and waste water treatment plant currently operates using nonconventional technology for treatment with drying of fecal sludge by evaporation and
+percolation. Although the plant has the capacity to manage human excreta from both
+the onsite and offsite sanitation facilities, there is high solid loading due to the
+incoming large volumes of waste what exceed the design capacity of the plant and a
+problem of longer drying periods than intended. There is need for optimum utilisation
+of the sludge drying beds and the treatment plant all together. This study aimed at
+assessing the use of water treatment sludge granules coated with poly aluminium
+chloride from water treatment sludge to enhance dewatering of fecal sludge.
+The raw fecal sludge samples were analysed for parameters of pH, electrical
+conductivity, moisture content and total solids. Water treatment sludge was also
+characterised using the X-ray fluorescence technique so as to determine whether the
+content of aluminium oxide present is suitable for the preparation of poly aluminium
+chloride.
+Water treatment sludge granules coated with poly aluminium chloride showed potential
+in dewatering of fecal sludge with the lowest moisture content of 25.3% and maximum
+total solids of 74.7% achieved with the 4g/l dosage.
+
+
+
+
+ii
+
+DECLARATION
+I, MUHWEZI ANDREW NDAMIRA hereby declare that this is my original work, is not
+plagiarised and has not been submitted to any institution for any award.
+
+Name: MUHWEZI ANDREW NDAMIRA
+Signature: ......................
+Date: ...............
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii
+
+This is to certify that all the works in this report was done by MUHWEZI ANDREW
+NDAMIRA and is ready for submission with approval.
+
+Project supervisor: ELEANOR WOZEI (PhD)
+Signature: ...................
+Date: ...........................
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+DEDICATION
+I dedicate this research work my family which has supported me throughout my
+academic journey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+ACKNOWLEDGEMENT
+I am grateful to the almighty God for granting me life and good health which has
+enabled me achieve this. I am grateful to my family which has supported me throughout
+the entire journey financially, emotionally and spiritually.
+I would like to thank Professor Eleanor Wozei, my project supervisor for her guidance,
+encouragement and time she gave up to ensure that this project is successful. Her
+mentorship has been incredible and instrumental towards the shaping of this research.
+I would like to thank the field personnel who have assisted me in carrying out field visits
+and laboratory analysis. I would like to thank Mr. Baayo Robert, Ms. Irene Adong, Eng.
+Christopher Kanyesigye, Eng. Phillip Muhumuza of National Water and Sewerage
+Corporation and Mr. Kasaka Moses of Geochemistry laboratory at Makerer University for
+providing a conducive environment for fulfilment of objectives of this research.
+
+
+
+
+
+
+
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT .................................................................................................................................................... i
+DECLARATION ............................................................................................................................................ ii
+APPROVAL .................................................................................................................................................. iii
+DEDICATION ............................................................................................................................................... iv
+ACKNOWLEDGEMENT ................................................................................................................................ v
+LIST OF TABLES .................................................................................................................................... ix
+LIST OF FIGURES .................................................................................................................................... x
+LIST OF APPENDICES ............................................................................................................................ xi
+CHAPTER 1: INTRODUCTION ................................................................................................................... 1
+1.2 BACKGROUND ................................................................................................................................. 1
+1.2 PROBLEM STATEMENT .................................................................................................................. 3
+1.3 OBJECTIVES OF THE STUDY ........................................................................................................ 4
+1.3.1 Main objective ........................................................................................................................ 4
+1.3.2 Specific objectives ................................................................................................................ 4
+1.4 Research questions ....................................................................................................................... 4
+1.5 Justification .................................................................................................................................... 4
+1.6 Significance of the study ............................................................................................................. 6
+CHAPTER 2: LITERATURE REVIEW ......................................................................................................... 7
+2.1 Water treatment sludge ............................................................................................................... 7
+2.2 Fecal sludge .................................................................................................................................... 8
+
+vii
+
+2.2.1 Management of fecal sludge in Uganda ............................................................................ 9
+2.2.2 Waste water and fecal sludge treatment process ....................................................... 10
+2.2.4 Challenges faced in fecal sludge management. ........................................................... 14
+2.3 Sludge drying beds ...................................................................................................................... 14
+2.4 Poly aluminium chloride ............................................................................................................ 15
+CHAPTER 3: METHODOLOGY ................................................................................................................ 16
+3.1 Introduction .................................................................................................................................. 16
+3.2 Area of study ................................................................................................................................ 16
+3.3 INFORMATION SOURCES ............................................................................................................. 16
+3.3.1 Research design ..................................................................................................................... 17
+3.4 MATERIAL AND METHODS ........................................................................................................... 18
+3.4.1 Determining the physical chemical parameters of fecal sludge. ............................. 18
+3.4.2 Characterisation of water treatment sludge ................................................................ 20
+3.5 Determination of dosage of water treatment sludge granules required ............................. 22
+CHAPTER 4: RESULTS AND DISCUSSION ............................................................................................. 23
+4.1 Introduction .................................................................................................................................. 23
+4.2 Fecal sludge analysis .................................................................................................................. 23
+4.3 Water treatment sludge ............................................................................................................. 24
+4.4 Effect of water treatment sludge granules coated with Poly aluminium chloride ..... 26
+4.4.1 Moisture content .................................................................................................................. 27
+
+viii
+
+4.4.2 Total solids ............................................................................................................................ 28
+4.4.3
+Dosage in wet conditions .............................................................................................. 29
+4.5 DESIGN ............................................................................................................................................ 30
+4.5.1 Fecal sludge generated ...................................................................................................... 31
+CHAPTER 5: CONCLUSION AND RECOMMENDATION ........................................................................ 36
+5.1 Conclusion ..................................................................................................................................... 36
+5.2 Recommendations ....................................................................................................................... 36
+REFERENCES ............................................................................................................................................. 38
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF TABLES
+Table 1: Percentage composition of water treatment sludge ............................... 7
+Table 2: Averaged sample results of fecal sludge characterisation ...................... 23
+Table 3: Chemical composition of water treatment sludge ............................... 25
+Table 4: Design Calculations ................................................................... 31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+LIST OF FIGURES
+Figure 1 Sanitation service chain (Medland et., 2016) ....................................... 9
+Figure 2 8mm screens at Lubigi ................................................................ 11
+Figure 3 Grit chamber ........................................................................... 12
+Figure 4 Sedimentation tank ................................................................... 12
+Figure 5 Aerobic pond ........................................................................... 13
+Figure 6 Sludge drying beds .................................................................... 15
+Figure 7 Preparation of fecal sludge samples for laboratory analysis .................... 18
+Figure 8 Determination of pH and electrical conductivity ................................. 19
+Figure 9 granulation of water treatment sludge (left) Figure 10 Synthesis of poly
+aluminium chloride (right) ..................................................................... 22
+Figure 11 Percentage composition of water treatment sludge ........................... 25
+Figure 12 Relationship of moisture content and granule dosage ......................... 26
+Figure 13 Relationship of total solids concentration with granule dosage .............. 27
+Figure 14 Variation of moisture content with time ......................................... 28
+Figure 15 Variation of total solids with time ................................................ 29
+Figure 16 Design layout ......................................................................... 35
+
+
+
+
+
+
+xi
+
+LIST OF APPENDICES
+Appendix 1: Drawing ........................................................................... 43
+Appendix 2: Results of Fecal sludge characterisation for sample 1 .................. 44
+Appendix 3 Results of fecal sludge characterisation for sample 2 .................... 45
+Appendix 4: Results for fecal sludge characterisation for sample 3 .................. 46
+Appendix 5: Initial results of raw fecal sludge after dosing ............................ 47
+Appendix 6: Results of water treatment sludge composition .......................... 48
+Appendix 7: Results before dosing .......................................................... 49
+Appendix 8: Results after first week of dosing ........................................... 50
+Appendix 9: Results after second week of dosing ........................................ 51
+Appendix 10: Results after third week of dozing ......................................... 52
+Appendix 11: Results after fourth week of dosing ....................................... 53
+
+
+
+
+
+
+
+
+
+CHAPTER 1: INTRODUCTION
+1.2 BACKGROUND
+Fecal sludge refers to the raw slurry or partially digested semi-solids resulting from a
+combination of Blackwater and human excreta (Strande, 2014). Management of fecal
+sludge is an important practice in sanitation maintenance and some of the activities
+and techniques include storage, collection, transportation, treatment and then
+disposal. On site facilities such as pit latrines, toilets, pour flash latrines and septic
+tanks are used in fecal sludge management at household levels (Emmanuel, 2019). In
+the world today, around 2.7 billion people are estimated to live in areas without proper
+sanitary facilities. According to the estimate world population of 5 billion people by
+2030 (WHO, 2014), around 1 billion of the onsite sanitation facilities will be located in
+urban areas (Hu et al., 2016) which would increase the amount of fecal sludge
+generated and thus require management. This provides a big challenge in the effective
+management of sludge in developing countries for example looking at the Republic of
+Uganda where over 90% of the population depends on the onsite sanitation facilities
+which are operated and maintained through empting, transporting and then treatment
+at the different fecal sludge treatment facilities (Gibson et al., 2018). Looking at
+Kampala, around 390 m3/day of fecal sludge is produced with an addition of 150 m3/day
+from the neighbouring districts. All this sludge is transported to Lubigi fecal sludge and
+wastewater treatment plant. This plant operates under the National Water and
+Sewerage Corporation and is located in Namungoona. It was commissioned in 2014 with
+a design capacity of 500 m3/day of wastewater and 400 m3/day of fecal sludge. For the
+fecal sludge section, the plant operates at 50% over the design capacity (KCCA, 2020).
+
+
+Water treatment sludge refers to the residue produced from the water treatment
+processes of coagulation, flocculation and sedimentation. The Ggaba III water
+treatment plant produces about 113000 metric tons of water treatment sludge per year
+(Muhabuzi el al., 2023). The sludge contains aluminium salts such as aluminium
+hydroxide as the largest component, non-toxic elements and organic matter (Shi et al.,
+2023). It is considered as waste and it is ever increasing due to treatment of water on
+a daily basis. Some water treatment plants consider managing the water treatment
+sludge through disposing it off to the landfills but scientific research has been or is
+being done to utilise this sludge through sustainable resource management.
+
+
+
+
+
+
+
+
+
+
+
+1.2 PROBLEM STATEMENT
+The Lubigi fecal sludge and waste water treatment plant currently faces a challenge of
+slow dewatering process of sludge in the drying beds. The sludge currently dries for 6-
+8 months although the sludge drying beds were designed with a drying period of 1-2
+months (site visit, 2024). This is attributed to the stickiness in sludge that makes the
+solid liquid separation process slow and thus exceeding the design period of 4 weeks
+(Rost, 2018). The plant has 48 sludge drying beds with with a capacity of 71 m3. The
+units are lined with sand filtering membrane on top of the gravel to allow slow sludge
+dewatering through infiltration (Lindberg, 2018). The remaining semisolid is left to dry
+for about 4-8 weeks and further stored for 6 months to remove pathogens making it
+suitable and safe for use (Rost, 2018; Velkushanova et al., 2021). The slow dewatering
+may also be a result of clogging of the filter beds, particle size of sand and the mix
+ratios of the sludge (Ngabirano, 2023). There is need to quicken the dewatering process
+and such that its then disinfected allow safe use for other applications like agriculture,
+making of fire briquettes. This project aimed at using water treatment sludge granules
+coated with poly aluminium chloride obtained from water treatment sludge to enhance
+the dewatering process of fecal sludge in the sludge drying beds at Lubigi Fecal sludge
+and waste water treatment plant.
+
+
+
+
+
+
+1.3 OBJECTIVES OF THE STUDY
+1.3.1 Main objective
+The main objective of this research study is to access the use of water treatment sludge
+granules coated with poly aluminium chloride to enhance the dewatering of fecal
+sludge.
+1.3.2 Specific objectives
+To determine the parameters of fecal sludge. (Moisture content . pH, electrical
+conductivity and total solids)
+To determine the parameters of water treatment sludge.
+To evaluate the enhancement in dewatering of fecal sludge achieved with using water
+treatment granules coated with poly aluminium chloride.
+1.4 Research questions
+What are the parameters of fecal sludge at Lubigi fecal sludge and waste water
+treatment plant?
+What are the parameters of water treatment sludge?
+How much dewatering of fecal sludge in sludge drying beds can be achieved with the
+use of water treatment sludge granules coated with Poly aluminium chloride?
+
+1.5 Justification
+This study aims at using water treatment sludge granules coated with poly aluminium
+chloride to enhance the dewatering of fecal sludge in the sludge drying beds. With the
+
+
+increasing challenges in fecal sludge management in developing countries and given the
+increase in the population increases the generation of fecal sludge. This triggers the
+need to look into potential ways of reducing the sludge and this could be through
+decreasing the dewatering time as well as ensuring safe use of this fecal sludge after it
+has been treated.
+Water treatment sludge refers to the residue generated during the water treatment
+process and this sludge contains not only aluminium compounds but also other non toxic
+elements and organic matter (Shi et al., 2023). The dried water treatment also contains
+aluminium based salts and this increases the settling velocity of the solid sludge thus
+enhancing the dewatering the dewater ability although the properties of this sludge
+could be improved as the sludge is reacted with poly aluminium chloride. The dried
+water treatment sludge contains aluminium hydroxide which when reacted with
+hydrochloric acid dissolves the aluminium salt and removing undissolved solids thus
+forming a solution containing aluminium chloride.
+Al(OH)3(aq) + 3HCl(aq) → AlCl3(aq) + 3H2O(l)
+The solution is further reacted with water to undergo hydrolysis thus forming aluminate
+species that enhance the formation of poly aluminium chloride. The obtained solution
+is then reacted with sodium hydroxide in the polymerization process to yield a solution
+containing poly aluminium chloride (Adamu, 2023)
+Al(OH)3(aq) + NaOH(aq) → Aln(OH)mCl3n-m (aq) + nNaCl(aq)
+Poly aluminium chloride produced from the reaction of the water treatment sludge with
+hydrochloric acid and through the polymerisation process has stable polymer chains
+
+
+which enhance its flocculation and coagulations capabilities. This enables it to
+effectively bind the suspended solid and colloidal particles into large particles thus
+facility solid – liquid separation (Jin, 2016). This helps in enhancing the dewatering
+process. The end product from polymerisation contain sodium chloride which is also a
+good component to enhance the dewatering of sludge because its efficient in changing
+the surface charges and viscosity, the calcium ions compress the colloid double layers
+(Xinhau, 2013).
+1.6 Significance of the study
+Improving the dewatering process of the fecal sludge reduces the sludge volumes being
+handled at the plant which serves as a key component for the fecal sludge management.
+This also provides a better and efficient method for the treatment of sludge in that the
+risks associated with the pathogens are minimised such that the fecal sludge can be
+safely used for other uses without compromising the health of the users. This would
+also address the sustainable development goal number 6 of the United Nations which
+aims at ensuring proper management of sanitation.
+Utilising Poly aluminium chloride from water treatment sludge granules also promotes
+the sustainable practice in waste water management and resource management
+(Debasree, 2024).
+
+
+
+
+
+CHAPTER 2: LITERATURE REVIEW
+2.1 Water treatment sludge
+Water treatment sludge refers to the by-product from the purification process of
+drinking water. It is generated from both the sedimentation process, sand filters and
+the back washing process during the cleaning of the filters. This sludge contains
+aluminium oxide and other non-toxic elements such as silicon dioxide, calcium oxide,
+magnesium oxide, iron (III) oxide and sodium oxide (Zhao et al., 2021).
+Table 1: Percentage composition of water treatment sludge
+components
+Percentage composition
+Ahmad et al., 2016
+Naayo, 2024
+SiO2
+52.78
+58.955
+Al2O3
+14.38
+38.614
+Fe2O3
+5.2
+2.031
+CaO
+4.39
+9.499
+K2O
+3.62
+0.177
+MgO
+3.08
+-
+NaO2
+0.97
+-
+TiO2
+0.61
+-
+P2O5
+0.17
+0.403
+MnO
+0.08
+8.71
+ZnO
+0.01
+-
+TiO2
+-
+0.443
+
+
+Cr2O3
+-
+0.731
+Cl
+-
+0.051
+
+With the increasing demand for potable water which is due to the rapidly growing world
+population and the urban expansion has also resulted into the generation and
+accumulation of large water treatment sludge volume which call for an economical and
+environmentally sustainable management measures. Currently, a few practices have
+been developed to manage this waste and these include resource recovery, use of water
+treatment sludge as an adsorbent for heavy metals as well as the use of this water
+treatment sludge in brick making (Dassanayake et al., 2015). Water treatment sludge
+from Ggaba III
+
+2.2 Fecal sludge
+Fecal sludge refers to the human waste collected from onsite sanitation facilities such
+as pit latrines, ventilated improved pit latrines, composting latrines and septic tanks.
+Waste in the septic tanks decomposes over time and before it is transported to the
+treatment plant using cesspool emptier trucks to treatment plants (Reno, 2015).
+Fecal sludge may be categorised basing on its concentration in categories such as liquid
+fecal sludge, slurry fecal sludge, semi-solid fecal sludge and solid fecal sludge (Strande,
+2021). Fecal sludge may also be further catergorised basing on the methods of
+treatment and these include digested sludge, primary sludge, mixed sludge and mineral
+sludge.
+
+
+2.2.1 Management of fecal sludge in Uganda
+Management of fecal sludge in Uganda has been predominantly handled by National
+Water and Sewerage Corporation, NWSC and Kampala Capital City Authority, KCCA for
+Kampala along with other stakeholders that are either directly or indirectly involved.
+KCCA provides environmental certificates and regulates private operators, National
+Environment Management Authority issues fecal waste transportation licenses while
+NWSC provides treatment plants (Laker, 2020). Fecal sludge in Kampala is handled and
+treated at Lubigi fecal sludge and waste water treatment plant which has a fecal sludge
+treatment capacity of 400m3/day. According to UNICEF, management of fecal sludge
+helps reduce risk of waterborne disease outbreaks in communities.
+Fecal matter from pit latrines and septic tanks in Kampala is collected and transported
+to Lubigi fecal sludge and waste water treatment plant where it is treated before use
+for agricultural practices, research, making of fire briquettes and so on. The main
+modes of fecal sludge emptying and transportation technologies used in Kampla include
+mechanised cesspools and semi mechanised gulpers (FSM alliance, 2023).
+
+Figure 1 Sanitation service chain (Medland et., 2016)
+
+
+
+2.2.2 Waste water and fecal sludge treatment process
+The Lubigi fecal sludge and waste water treatment plant handles and treats both waste
+water and fecal sludge. The plant has a capacity of 5000m3/day for waste water and
+400m3/day for fecal sludge. This waste Is collected and delivered to the plant where it
+goes through primary, secondary and tertiary treatment.
+2.2.3 stages of treatment
+Screening
+Screening is the removal of solid materials in waste water using fine and course screens.
+Selection of type of screen to use depends on the septage composition and the
+requirements of the treatment process (Tayler, 2018). The smaller the size of the
+spacing with low velocity flow, the higher the efficiency of the plant and regular
+maintenance is required for removal of trapped solids (Rost, 2018).
+8mm screens are used to trap physical contaminants of relatively big size that flow
+along with waste water. These contaminants include pampers, sanitary pads, leaves,
+polythene bags, plastic bottles and so on. Removal of these objects helps prevent
+blockages and clogging id the system. The screens are occasionally cleaned using a rake.
+
+
+
+Figure 2 8mm screens at Lubigi
+Grit chamber
+The grit chamber is used to remove grit particles in waste water that are fine enough
+to go through the bar screens. Grit includes fine sand soils and gravel. In this chamber,
+flow is slowed down so as to allow settlement of the particles. Grit that settles at the
+bottom is routinely removed manually using spades so as to maintain the efficiency of
+the process.
+Grit removal is a basic consideration for plants designed to receive a loading greater
+than 250m3/day and plants that use enclosed systems such as anaerobic ponds and
+sludge drying beds (Niwagaba, 2014). That plant is designed to receive 400m3/day thus
+qualifies to have this chamber as part of the treatment processes.
+
+
+
+Figure 3 Grit chamber
+Sedimentation chamber
+The fecal waste from the grit chamber is directed into the sedimentation tank. Lubigi
+Fecal sludge and waste water treatment plant has two sedimentation chambers which
+operate in turns that is to say that one chamber is loaded for up to 3 months as the
+other is being dislodged.
+
+Figure 4 Sedimentation tank
+
+
+
+
+Anaerobic ponds
+Anaerobic ponds do not have oxygen except at the top at the air liquid interface. The
+organic load produces anaerobic conditions that is there is no dissolved oxygen in the
+pond. These ponds function like open septic tanks and work efficiently in warm
+climates. The liquid effluent is retained in the ponds for about 4 days and then proceeds
+to the secondary stage of treatment (Verbyla, 2017).
+
+Figure 5 Aerobic pond
+The plant has shallow anaerobic ponds that receive liquid effluent from the
+sedimentation tanks. The anaerobic bacteria in the ponds breaks down the waste water
+and decomposes the it thereby forming sludge. The sludge is periodically removed using
+s dredging system. The anaerobic process results into formation of methane, ammonia
+and carbon dioxide (Aziza, 2022). These gases are toxic and do not support life of
+multiple eco systems.
+Facultative ponds
+Facultative ponds can be classified into primary and secondary facultative ponds where
+the primary facultative ponds receive raw waste water while the secondary facultative
+
+
+ponds receive settled waste water (Chen et al., 2018). These ponds reduce on the
+biochemical oxygen demand. Facultative ponds are a combination of aerobic and
+anaerobic ponds. The top zone has aerobic conditions while there are anaerobic
+conditions in the lower zones.
+Tertiary treatment
+This a system of treatment designed for nutrient removal and filtering of waste particles
+that might damage sensitive ecosystems. The wastewater is passes through additional
+filtering lagoons to remove the nutrients. Some of the methods usi=ed at this phase
+include sand filtration which helps remove particulate matter, enhanced biological
+phosphorous removal where specific bacteria called polyphosphate accumulate
+organisms that store phosphate in their tissue.
+2.2.4 Challenges faced in fecal sludge management.
+There is a challenge of rapidly growing population which requires expansion of existing
+facilities so as to handle fecal sludge and waste generated (Basika, 2024). There is also
+a challenge of unauthorised stakeholders involved in management of fecal sludge. A
+survey conducted under the Kampala fecal sludge management project showed that
+there were 15 trucks and 20tricycles operating yet not legalised to operate (KCCA,
+2018).
+2.3 Sludge drying beds
+These are either open or covered beds that use sand as a filtration medium for sludge
+from the sedimentation and the anaerobic ponds to allow drying of the sludge. Sludge
+
+
+drying beds are commonly used to dewater sludge due to their affordability compared
+to the other techniques used.
+
+Figure 6 Sludge drying beds
+The sludge drying beds at Lubigi fecal sludge and waste water treatment plant are
+consistent of the the underlain course aggregates and then fine aggregates on top of
+which sludge is pumped on the beds. The pumped sludge is left to dry by evaporation
+and water percolating through the filter media of the bed (Gava, 2021).
+2.4 Poly aluminium chloride
+Poly aluminium chloride is an inorganic chemical with large polymers and that consists
+of monomers such as Al(OH)2+, Al(OH)2, dimers such as Al2(OH)24+, and trimer Al3(OH)45+
+(Chen et al., 2018). Poly aluminium chloride is a superior aluminium based coagulant
+used for particulate matter removal and removal of small particles, heavy metals and
+precipitation of phosphates. This chemical has the ability to reduce the volatile
+suspended solids in that it aggregates the sludge flocs causing a more tightly bound
+extracellular polymeric substances remain in the sludge flocs (Chen et al., 2018).
+
+
+CHAPTER 3: METHODOLOGY
+3.1 Introduction
+This chapter consists of the different series of steps that were taken when conducting
+data collection, analysis methods and materials that were used in order to achieve the
+objectives of this study.
+3.2 Area of study
+In this study, the fecal sludge to be sampled is delivered from cesspool trucks from
+onsite sanitation facilities. The fecal sludge samples were collected from Lubigi fecal
+sludge and waste water treatment plant located in Namungoona, Rubaga division in
+Kampala district. The catch ment area of this facility consists of areas such as Makerere,
+Katanga, Mulago, Kalerwe, Bwaise and areas along the Northern Bypass (Okasio. A,
+2021).
+Water treatment sludge that was used to produce poly aluminium chloride was
+collected from Katosi Drinking Water Treatment Plant. The plant started operations in
+2021 and is under National Water and Sewerage Corporation.
+3.3 INFORMATION SOURCES
+For this research study, the sources that were used include online journals, books, field
+visits, laboratory experiments and result analysis.
+
+
+
+
+3.3.1 Research design
+This research was done following a systematic procedure informed from literature
+reviews and previous studies.
+
+
+Project proposal
+literature review
+Preliminary findings
+Methodology
+Laboratory activities
+1) Fecal sample collection
+2) sample characterisation
+3) Water treatment sludge
+sample collection and
+characterisation
+4) PAC synthesis
+5) Granulation
+6) Dewatering tests
+Results and discussion
+Design
+Conclusions and
+recommendations
+
+
+
+3.4 MATERIAL AND METHODS
+3.4.1 Determining the physical chemical parameters of fecal sludge.
+The physical chemical parameters of interest were pH, electrical conductivity, moisture
+content and total solids. Characterisation was done using standard laboratory
+procedures.
+3.4.1.1 Sample collection and preservation
+Representative fecal sludge samples were collected from 10 cesspool emptier trucks.
+The collection bucket was cleaned with soap and water and dried so as to collect
+uncontaminated samples. The samples were then collected and emptied into a larger
+bucket of 10 litres so as to make a composite sample. The samples were then
+homogeneously stirred using a wooden stick and then poured in 6 clean bottles with
+each of capacity 1.5 litres. the samples were then analysed immediately for parameters
+of pH, electrical conductivity, moisture content and total solids.
+
+Figure 7 Preparation of fecal sludge samples for laboratory analysis
+
+
+
+3.4.1.2 Sample analysis
+The samples were analysed from the waste water quality laboratory at Lubigi fecal
+sludge and wastewater treatment plant. For pH and electrical conductivity, the glass
+beakers to be used were cleaned using distilled water and dried. The samples were
+shaken thoroughly well and the 30 ml of fecal sludge poured into the beakers. A
+calibrated hatch sension+ MM374 GLP laboratory Multi-meter was used to measure pH
+and electrical conductivity. The electrode stands of the equipment were rinsed with
+distilled water and then immersed into the sludge samples. Each time before a new
+sample was tested, the electrode stands were cleaned using distilled water.
+
+Figure 8 Determination of pH and electrical conductivity
+Moisture content and total solids were determined using gravimetric method where by
+a known volume of sample is evaporated to a constant weight. 9 aluminium crucibles
+were cleaned and oven dried at 1050C for 1 hour. The mass of dry aluminium crucibles
+was measured using a PDW 753e precision balance. Homogenised raw fecal sludge
+samples were then placed in the crucibles and weighed to obtain mas of wet sample,
+
+
+M1. The samples were then oven dried for 24 hours at 1050C. The samples were then
+cooled in a desiccator so as to keep away moisture. At room temperature, the crucibles
+were removed and weighed again to obtain the mass of dry sample. Moisture content
+was then calculated as shown below.
+Total solids = Wc+s − Wc
+Ws
+x 100
+Moisture content =
+Ws − Wc+s− Wc
+Ws
+
+
+3.4.2 Characterisation of water treatment sludge
+3.4.2.1 Sample collection and preservation
+Dried water treatment sludge was collected from Katosi Drinking Water Treatment
+plant. The sludge was wrapped into aluminium papers for preservation and to keep
+away external contaminants like moisture content and dust. The samples were then
+carried to the laboratory for analysis. The laboratory used was the Geochemistry
+Laboratory of College of Natural Sciences of Makerere University.
+3.4.2.2 Sample analysis
+The moisture content of the water treatment sludge was determined. The aluminium
+crucibles (3) were cleaned with distilled water and then oven dried for 30 minutes at
+1050C. The crucibles were weighed using an FX – 300i reloading precision balance and
+the respective weights recorded. Part of the sludge was weighed and placed in an oven
+set at 1050C for 24 hours. The samples were then cooled, weiged again and moisture
+content calculated.
+
+
+Then, 8g of dry water treatment sludge was mixed homogeneously with 2g of ceridust
+cellulose using a mortar. The cellulose was used as binder so as to hold the sludge
+together when making a pellet. The mixture was then placed in collapsible aluminium
+cups and moulded into a pellet using a bench top press TP 20E set at 200KN. The pellet
+was then analysed using a Rayonsx PAN analytical Epsilon1 X-Ray spectrometer to
+determine the chemical composition of the water treatment sludge.
+3.4.2.3 Preparation of water treatment sludge granules
+100g of starch, an organic binder was added to 400g of water treatment sludge and
+mixed with 220ml of distilled water. the mixture was kneaded in a basin until a uniform
+paste was made. The paste was then cast in a moulding tray and then air dried for 12
+hours. The granules were then removed and oven fried for 24 hours at a temperature
+of 1200C. This was done so as to improve on their water resistance through thermal
+modification (Lui Zhang, 2019).
+3.4.2.4 Preparation of Poly aluminium chloride
+80g of water treatment sludge was placed in a glass beaker and 270ml of 1M
+hydrochloric acid was added to the sludge and then stired for 20 minutes so as to
+dissolve the aluminium ions present in the sludge (Wang et al., 2020 ). 550ml of distilled
+water waere then added to the mixture and stirred for 5 minutes to dissolve the
+aluminium chloride ( Lui et aj., 2019). The mixture was then filtered and 1M sodium
+hydroxide added to synthesise a poly aluminium chloride solution. The solution obtained
+was pale yellow with a pH of 3.74 which is in the range of 3.5-5.5 for poly aluminium
+chloride (Lui et al., 2013; Yan et al., 2016).
+
+
+
+
+Figure 9 granulation of water treatment sludge (left) Figure 10 Synthesis of poly
+aluminium chloride (right)
+3.5 Determination of dosage of water treatment sludge granules required
+A small scale field unit of 1m3 at Lubigi fecal sludge and waste water treatment plant
+was used. The unit has four dosing components 1,2,3,4 which were dosed with 0,3,6,9
+water treatment sludge granules respectively. 20l of fecal sludge from the
+sedimentation tank was added to each of the compartments. The initial parameter of
+moisture content and total solids were determined.
+
+
+
+
+
+
+
+CHAPTER 4: RESULTS AND DISCUSSION
+4.1 Introduction
+This chapter contains results obtained from the different tests carried out on the fecal
+sludge samples collected from Lubigi wastewater and fecal sludge treatment plant and
+the water treatment sludge samples obtained from Katosi Drinking Water Treatment
+Plant intended to answer the research questions of the study and ultimately achieving
+the main aim of the study.
+4.2 Fecal sludge analysis
+The composite mixture of the fecal sludge samples was tested to obtain the base line
+data of the raw fecal sludge parameters.
+Table 2: Averaged sample results of fecal sludge characterisation
+PARAMETER
+REPLICATE 1
+REPLICATE 2
+REPLICATE 3
+AVERAGE
+pH
+7.50
+7.51
+7.52
+7.51
+Electrical
+conductivity
+(μS/cm)
+Moisture
+content (%)
+74.1
+70.9
+72.8
+72.6
+Total solids (%) 25.9
+29.1
+27.2
+27.4
+
+pH refers to the measurement of hydrogen ions activity present in solution (Alar, 2019),
+whereby a very low pH limits the aggregation of particles due to presence of less than
+
+
+optimum ions to support agglomeration (Xuan Lui et al., 2012). A high pH causes the
+aggregated particles to re-disperse because of the direct correlation that exists
+between the size of the particles and the pH which later leads to disintegration (Xuan
+Lui et al., 2012). The pH test on the fecal sludge samples gave a neutral pH with an
+average value of 7.5. This offers am optimum environment to support the addition of a
+chemical conditioner.
+Moisture content influences the mechanical properties of fecal sludge and this affects
+its handling and final disposal process (Van Haandel and lettinga, 1994). An average
+moisture content of 72.6% was obtained and this falls within the range of < 75% of
+moisture content which indicates that the sludge is solid sludge and therefore a
+chemical conditioner would enhance the dewatering efficiency of sludge (Strande ).
+Total solids concentration comes from a variety of organic and inorganic matter
+comprised of floating, settleable matter, colloidal material and matter in solution
+(Niwagaba, 2014). The average value of total solids obtained was 27.4% and this value
+falls within range of 15-40% which suggests that the sludge is solid sludge (Strande).
+4.3 Water treatment sludge
+Following the understanding of the sludge parameters that influence the rate of
+dewatering, there is need to comprehend the chemical characteristics of a conditioner,
+that is water treatment sludge granules coated with poly aluminium chloride. The poly
+aluminium chloride was synthesed from water treatment sludge based on the 38.8%
+composition of aluminium oxide.
+
+
+
+Table 3: Chemical composition of water treatment sludge
+CHEMICAL COMPOSITION
+COMPOSITION (%)
+Al2O3
+38.8
+SiO2
+10.3
+MnO2
+0.4
+Fe2O3
+10.5
+Moisture content
+19.4
+
+With reference to the results in the above table, about 60% of the water treatment
+sludge is composed of oxides and 19.4% moisture content.
+
+Figure 11 Percentage composition of water treatment sludge
+The presence of Al2O3, SiO2, MnO2 and Fe203 indicate that the water treatment sludge
+itself can be used as a chemical conditioner for dewatering fecal sludge since the
+
+aluminium
+oxide
+silicon
+dioxide
+manganese
+oxide
+iron (ii)
+oxide
+Moisture
+content
+
+
+% COMPOSITION
+
+
+cations of these compounds are coagulants. The presence of Al2O3 as the dominant
+component illustrates the water treatment sludge can effectively be used in the
+preparation of poly aluminium chloride.
+4.4 Effect of water treatment sludge granules coated with Poly aluminium chloride
+Fecal sludge was dosed with 0 g/l, 2g/l, 4g/l and 6g/l of water treatment sludge
+granules coated with poly aluminium chloride and the change in parameters of moisture
+content and total solids was monitored after an interval of 7 days for 28 days.
+
+Figure 12 Relationship of moisture content and granule dosage
+AV.ERAGE MOISTURE CONTENT (%)
+WATER TREATMENT SLUDGE GRANULE DOSE (g/l)
+av. mc
+
+
+
+Figure 13 Relationship of total solids concentration with granule dosage
+4.4.1 Moisture content
+From the graphs, it was observed that 4g/l dosage of the water treatment sludge
+granules achieved the least moisture content of 25.3% compared to the other doses
+0,2,4 and 6 g/l that yielded 36.1%, 34% and 29.3% moisture content observed after 28
+days.
+The moisture content of the fecal sludge reduced rapidly for the first 14 days and then
+gradually for the latter 14 days. The dose of 4g/l had a faster dewatering which was
+obtained as 25.3% and thus this was taken as the optimum dose for fecal sludge
+dewatering.
+AVERAGE TOTAL SOILDS(%)
+WATER TREATMENT SLUDGE GRANULE DOSE(g/l)
+av. TS
+
+
+
+Figure 14 Variation of moisture content with time
+4.4.2 Total solids
+Similarly, the water treatment granule dose of 4g/l achieved the highest concentration
+of total solids of 74.7% compared to the other dosages of 0g/l, 2g/l and 6g/l that gave
+a total solids concentration of 63.9%, 66.1% and 70.7% respectively after 28 days of
+drying.
+The concentration of total solids in fecal sludge depends on the moisture content.
+Moisture content reduces as the quantity of total solids increases.
+AVERAGE MOISTURE CONTENT (%)
+PERIOD (days)
+WTSG DOSE 0g/l
+WTSG DOSE 2g/l
+WTSG DOSE 4g/l
+WTSG DOSE 6g/l
+
+
+
+Figure 15 Variation of total solids with time
+4.4.3 Dosage in wet conditions
+During the wet season, the moisture content within the fecal sludge in the sludge drying
+beds increases considerably due to rainfall infiltration (Kaza, 2017). This affects the
+dosage of water treatment sludge granules (Murray et al., 2018).
+From the obtained results for the dry season, the poly aluminium chloride coated water
+treatment sludge granules achieved a dewatering efficiency of 25.3% for the dose of
+4g/l. Using the obtained dose and the moderate increase in the doses used can be used
+AVERAGE TOTAL SOLIDS (%)
+PERIOD (days)
+WTSG DOSE 6g/l
+WTSG DOSE 0g/l
+WTSG DOSE 2g/l
+WTSG DOSE 4g/l
+
+
+to obtain the required dose required for dewatering of fecal sludge during the wet
+season (Tchobanoglous et al., 2014).
+Increase in dosage = percentage reduction in moisture content x optimum dosage
+= 0.253 x 4 = 1.012
+optimum dose in wet season = dosage in dry season x increase in dosage
+=
+4g
+l x 1.5
+= 6g/l
+Maximum dosage for wet season:
+= dry season dosage x increment in dosage
+=
+4g
+l x 2 =
+8g
+l
+Therefore the dosage of 6g/l – 8g/l will be added to the sludge drying beds in the wet
+season to achieve the dewatering of fecal sludge.
+
+4.5 DESIGN
+The sludge drying beds were designed in accordance with the United States
+Environmental Protection Agency which gives the basic components and their
+operations.
+
+
+4.5.1 Fecal sludge generated
+Fecal sludge is collected from pit latrines and septic tanks from around Kampala by
+Cesspool emptier tanks and transported to Lubigi waste water and fecal sludge
+treatment plant where it treated before disposal. The plant has a capacity of 400m3
+/day.
+Monthly capacity = 400 x 28 = 11200 m3/day
+Table 4: Design Calculations
+Sludge produced monthly
+Fecal sludge per day = volume of fecal
+sludge per day x 28 days
+sludge per day =
+100 x 400 = 60m3/day
+sludge produced per month = 60 x 28
+= 1680m3/month
+Flow rate (Q)
+For the small scale unit;
+Q = V
+T
+Where,
+T = time
+V = volume of fecal sludge loaded
+T = time in days
+Tillley et al., 2014
+Compendium
+of
+sanitation systems
+and technologies
+
+
+
+
+Tilley et al., 2014
+
+
+
+
+
+
+
+
+Q = 0.020
+= 0.0007m3
+
+Flow rate in the existing drying beds
+flow rate before dosing, Qi = 105m3
+28 days
+= 3.75m3
+day
+With addition of the water treatment
+sludge
+granules
+coated
+with
+poly
+aluminium chloride;
+Volume Reduction Factor (VRF)
+= initial total solids content
+final total solids content
+But;
+Initial total solids content = 31.7%
+Final total solids content = 74.7%
+VRF =
+0.317
+0.747 = 0.424
+The new flow rate after dosing is;
+new flow rate after dosing, Qf = Qi x 1
+VRF
+= 3.75 x
+0.424 = 8.84 m3
+day
+Qf > Qi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suitability of the existing bed with
+increase in flow rate
+A = l x w
+Drying bed area = 30m x 7m
+= 210 m2
+loading rate = sludge volume
+drying bed area
+=
+210 =
+0.5m
+day
+required surface area = new flow rate
+loading rate
+=
+8.84m3/day
+0.5m/day
+= 17.68 m3
+Suitability of the existing drain pipe
+diameter
+Existing pipe diameter = 300mm
+Current flow rate = 3.75m3/ day
+New flow rate = 8.84 m3/day
+Obtaining a new pipe diameter for the new
+flow rate
+From the manning’s equation,
+Q = 1
+n x AR
+3S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R = hydraulic radius
+n = manning’s coefficient, 0.013
+S = slope of the pipe, 0.02 for sewer pipes
+R = A
+P = π d2
+4 ÷ πd = d
+Q =
+0.099
+n
+x πd
+3S
+Q = 8.84m3/day = 1.023 x 10-4 m3/s
+d = (
+1.023 x 10−4
+0.02 x 0.013
+⁄
+0.099π x 0.020.5
+)
+2.67
+
+d = 0.302m
+d = 302mm ≈350mm
+
+
+Manning’s
+equation
+
+The final design considering the design calculations in table influenced the design
+below.
+
+
+
+
+
+
+
+
+Figure 16 Design layout
+
+
+
+
+
+CHAPTER 5: CONCLUSION AND RECOMMENDATION
+5.1 Conclusion
+This research focused on assessing the use of water treatment sludge granules coated
+with poly aluminium chloride to improve on the dewatering of fecal sludge at Lubigi
+Fecal sludge and waste water treatment plant. The raw fecal sludge was tested for
+parameters that influence the addition of a conditioner.
+The chemical composition of water treatment sludge was also determined with
+aluminium oxide as the dominant compound with 38.8% composition. This percentage
+was sufficient enough for the production of poly aluminium chloride solution from water
+treatment sludge. The solution obtained was of pH 3.48 and had a yellowish colour. The
+water treatment sludge was also used to form granules each of weight 10g and these
+granules dipped in a solution of poly aluminium chloride to improve the polymeric
+structure and adsorption potential of the granules to be used for dewatering fecal
+sludge. A small scale field unit with 4 dosing compartments was then used to determine
+rate of dewatering of the coated granules after 28 days with the dosage of 4g/l yielding
+the lowest moisture content of 25.3% and maximum total solids concentration of 74.7%.
+5.2 Recommendations
+From this research study, the addition of water treatment sludge granules coated with
+poly aluminium chloride had a comparative effect on the dewatering performance in
+the sludge drying bed and the quality of manure.
+However further studies should be conducted to determine the impact of the water
+treatment sludge granules coated with Poly aluminium chloride on the volatile solids
+
+
+and the pathogenic organisms in the fecal sludge and how fast pathogens in the fecal
+sludge can be reduced before use for agriculture.
+The management of Lubigi fecal sludge and waste water treatment plant should adjust
+the size of the drainage pipes in the sludge drying beds from 300mm to 350mm so as to
+handle the increased flow rate due to addition of the material.

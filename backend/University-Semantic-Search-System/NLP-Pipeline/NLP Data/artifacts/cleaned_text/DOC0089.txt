@@ -1,0 +1,1369 @@
+THE EFFECTIVENESS OF THE LEGAL FRAMEWORK THAT REGULATES BAIL
+IN THE HIGH COURT OF UGANDA
+
+IAN KIYEGGA
+KS19B11/163
+
+
+
+
+
+
+
+
+
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF LAW IN PARTIAL FULFILLMENT OF
+THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF BACHELOR OF LAWS OF
+UGANDA CHRISTIAN UNIVERSITY
+May,2025
+
+
+
+
+
+i | P a g e
+
+DECLARATION
+I KIYEGGA IAN, hereby declare that this dissertation is my original work, and it has
+never been submitted before for any examination at any other institution of higher
+learning for the fulfilment of any academic award. All the sources I have used are
+indicated and acknowledge therein.
+Signature: .................................... Date: .......................................................
+KIYEGGA IAN
+KS19B11/163
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii | P a g e
+
+
+
+APPROVAL
+This dissertation under the Topic of “The effectiveness of the legal framework
+that regulates bail in the High Court of Uganda” has been under my supervision
+and now ready for submission to Uganda Christian University.
+
+
+Signed:
+
+
+Name of Supervisor: KULABAKO RUTH BIRUNGI MAKUBUYA
+Date: 28TH May, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+iii | P a g e
+
+DEDICATION
+I dedicate this work to my mothers, Mrs Prossie Nkugwa, Mrs Magerette Nansimbi
+Kayiila, Mrs Juliet Namujjuzi and Nansubuga Enid. For her understanding, generosity
+and total support throughout my studies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv | P a g e
+
+ACKNOWLEDGMENT
+I would like to express my sincere gratitude to my supervisor, MS RUTH KULABAKO for
+her guidance and unwavering support throughout the research process. Her insights and
+suggestions were invaluable in shaping the direction of this study.
+I would also like to thank the participants who generously shared their time and
+experiences, without whom this research would not have been possible.
+My family and friends provided much-needed emotional support and encouragement
+throughout this journey, for which I am grateful.
+Finally, I extend my appreciation to the Faculty of Law and the University for providing
+the necessary resources and facilities to conduct this research.
+Thank you all for your contributions to the completion of this dissertation.
+
+
+
+
+
+
+
+
+
+
+
+v | P a g e
+
+Table of Contents
+Contents
+DECLARATION ........................................................................................................................... i
+APPROVAL ................................................................................................................................ ii
+DEDICATION ............................................................................................................................ iii
+ACKNOWLEDGMENT .............................................................................................................. iv
+Table of Contents ....................................................................................................................v
+LIST OF ACRONYMS ......................................................................................................... viii
+ABSTRACT ............................................................................................................................. ix
+CHAPTER ONE .......................................................................................................................1
+1.0 Introduction ......................................................................................................................1
+1.1 Background .......................................................................................................................5
+1.1.2 The laws applicable by the High Court when granting or denying bail
+Applications. ....................................................................................................................7
+1.2 Statement of the problem ..............................................................................................9
+1.3 Objectives of the study ................................................................................................ 10
+1.3.1 General Objective .............................................................................................. 10
+1.3.2 The Specific objective ....................................................................................... 10
+1.4 Research questions ........................................................................................................ 10
+1.5 Significance of the study .............................................................................................. 11
+1.6 Justification of the study ............................................................................................. 11
+1.7 Scope of the study ......................................................................................................... 11
+1.8 Literature review ........................................................................................................... 12
+1.9 Methodology .................................................................................................................... 16
+CHAPTER TWO ....................................................................................................................... 20
+EFFECTIVENESS OF THE CURRENT LEGAL FRAMEWORK ON BAIL APPLICTION IN THE
+HIGH COURT OF UGANDA ..................................................................................................... 20
+2.0 Introduction .................................................................................................................... 20
+2.1 International Legal Framework on bail Application in the High Court of Uganda
+................................................................................................................................................. 20
+2.1.1 Presumption of Innocence ................................................................................ 20
+2.1.2 Prohibition of Arbitrary Detention .................................................................. 21
+
+vi | P a g e
+
+2.2 Regional Legal Framework on Bail Application in the High Court of Uganda ..... 23
+2.2.1 African Charter on Human and Peoples ‘Rights ............................................ 23
+2.2.2 The African Commission .................................................................................... 24
+2.2.3 Kenya Bail laws ................................................................................................... 24
+2.2.4 Tanzania Bail laws............................................................................................... 25
+2.2.5 Burundi ................................................................................................................. 25
+2.2.6 Rwanda ................................................................................................................. 25
+2.3 Inconsistencies with Uganda’s Domestic Legal Framework on bail application in
+the High Court of Uganda .................................................................................................... 26
+2.3.1 Burden of proof................................................................................................... 26
+2.3.2 Socioeconomic Disparities ................................................................................ 27
+2.3.3 Pro-longed Pre-Trial Detentions ...................................................................... 27
+2.4 National legal framework on bail application in the High Court of Uganda ........ 28
+2.5 The Effectiveness of the Legal Framework on Bail Application in the High Court
+of Uganda................................................................................................................................ 28
+2.5.1 The Constitutional Guarantees and Judicial Discretion in bail
+applications .................................................................................................................... 29
+2.5.2 Trial on Indictment Act Cap 25......................................................................... 33
+2.5.2.1 Section 14 ..................................................................................................... 33
+2.5.2.2 Section 15(1)................................................................................................ 33
+2.5.2.3 Section 15(3) Exceptional Circumstances .................................................... 34
+2.5.2.4 Section 15(4) on the likelihood of an accused to abscond ................. 38
+2.6 The impact of the Constitution (Bail Guidelines for Courts of Judicature)
+(Practice) Directions 2022 .................................................................................................. 42
+2.7 The Magistrates Courts Act under section 75(2) ...................................................... 47
+2.8 Judicature (Criminal Procedure) Application Rules 2 & 4 ..................................... 48
+2.9 The Judicature Act under section 34 ......................................................................... 48
+CHAPTER THREE ................................................................................................................ 50
+Non-Legal Factors that affect bail application in the High Court of Uganda ...................... 50
+3.0 Introduction ....................................................................................................................... 50
+3.1 Political Influence and Pressure .................................................................................. 50
+3.2 The social economic status of the accused ............................................................... 51
+3.3 Public Opinion and Media Scrutiny ............................................................................. 53
+3.4 Case Backlog ................................................................................................................... 54
+
+vii | P a g e
+
+3.5 Judicial Subjectivity ...................................................................................................... 55
+3.6 Administrative Inefficiencies ....................................................................................... 55
+3.7 Cultural Perceptions ...................................................................................................... 55
+CHAPTER 4 ............................................................................................................................. 56
+CONCLUSIONS AND RECOMMENDATIONS ON THE EFFECTIVENESS OF THE LEGAL
+FRAMEWORK ON BAIL APPLICATION IN THE HIGH COURT OF UGANDA ....................... 56
+4.0 Introduction .................................................................................................................... 56
+4.1 Conclusions ..................................................................................................................... 56
+4.2 Recommendations.......................................................................................................... 57
+4.2.1 Legislative reforms ............................................................................................. 58
+4.2.2 Procedural improvements ................................................................................. 62
+4.2.3 Institutional Mechanisms ................................................................................... 62
+4.3 General Conclusion of the Study ................................................................................. 62
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+viii | P a g e
+
+
+LIST OF ACRONYMS
+ACHPR- African Charter on Human and People’s Rights
+ICCPR – International Covenant on Civil and Political Rights
+JLOS reports- Justice Law and Order Sector
+TIA – Trial on Indictment Act Cap 25
+UDHR - Universal Declaration of Human Rights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix | P a g e
+
+ABSTRACT
+The research is on the Effectiveness of the Legal Framework on Bail Application in
+the High Court of Uganda. It examines the Constitutional and statutory provisions
+governing bail application in the High Court of Uganda, focusing on how the High
+Court has practically applied the law when determining bail applications and the
+impact of their decisions on the principle of bail application in the High Court. The
+research explores the balance between the accused’s right to bail and the safety or
+security of society. The legal framework grants the High Court broad discretion,
+which it has used in determining the bail application for capital offenses, and in
+turn, affected the effectiveness of the legal framework on bail application in the
+High Court of Uganda. Other factors also affect the effectiveness of the legal
+framework in determining bail applications in the High Court of Uganda, and these
+are the non-legal factors as discussed in the research.
+
+1 | P a g e
+
+CHAPTER ONE
+1.0 Introduction
+Bail is the recognizance entered into by the accused himself conditioning him to appear
+for trial, failure of which may result into the forfeiture of the recognizance. Recognizance
+is either the amount of money or property deposited by the accused in return for their
+temporary release from custody. In the case of Lawrence Luzinda v Uganda1, Justice
+Okello defined bail as the agreement between the court, the accused and sureties on the
+other hand that the accused will attend his trial when summoned to do so. Benjamin Odoki
+the Chief Justice of Uganda in his book defines bail as an agreement or recognizance
+between the court and the accused (as well as any sureties, if any).2
+The right to bail is a fundamental right premised on the presumption of innocence.3 In
+Uganda v Kiiza Besiye4, court stated that the refusal to grant bail should not be based on
+mere allegations and bail should not be refused merely as a punishment as it would conflict
+with the presumption of innocence. Thus, in connection with bail application in the High
+Court, an applicant kept under custody without trial for over 180 days, has a right to apply
+to be released on bail since they are innocent and not yet proven guilty.
+The High Court of Uganda handles bail applications for capital offenses differently from
+other offenses by applying stricter legal standards, more formal procedures and heightened
+judicial scrutiny to balance the gravity of the offense with the constitutional rights of the
+accused and public safety. This is because capital offenses are considered to be graver
+offenses compared to other offenses and releasing an accused on bail yet charged for a
+
+1 [1986] HC
+2 Guide to Criminal Procedure in Uganda 3rd Edition Published by L.D.C in 2006
+3 Article 28(3)(a); Foundation for Human Rights Initiative (FHRI), ‘The Law Governing Bail in Uganda’ at
+https://dullahomarinstitute.org.za/acjr/resource-centre/Bail%20Hndbook.pdf (accessed 4 April 20224)
+4 (constitutional Reference No. 20 of 205) [2006] Ugca 42 (25 September 2006)
+
+2 | P a g e
+
+capital offense, release must be done with great care balancing the safety of the public
+and the rights of the accused.
+Bail applications for capital offenses must be made formally in the High Court by way of
+written Notice of Motion supported by an affidavit. This formal process ensures detailed
+grounds and evidence to be considered for grant or denial of bail. Bail for capital offenses
+is either discretionary or mandatory. Mandatory bail is where the accused has been held
+on remand for over 180 days without trial while discretionary bail is bail determined by
+the court not relying on specific laws.
+The High Court of Uganda has the discretion to either grant or deny a bail application. 5
+Court is not bound by specific legal mandates. In Foundation for Human Rights Initiative
+v Attorney General6, Justice Mwangusya Eldad held that the right to bail under Article
+23(6)(a) is not an automatic right. The Judge weighs factors on a case-by-case basis and
+while exercising its discretion, court must act reasonably in the process. In Gilbert
+Baalibaseka Bukenya v Uganda7, the anti-corruption court judge Justice Mugamba deemed
+a recognizance of 50 million shillings as reasonable due to the gravity of the corruption
+offences that led to the loss of billions of public funds. In Charles Onyango Obbo and
+Andrew Mwenda v Uganda8, the high court interfered with the discretion of the lower
+court, that had imposed a cash bail of UGX 2000000 to each of the accused. It held that
+the lower court did not act reasonably.
+From the above cases, the court exercised its discretion basing on reasonableness. Still the
+unguided and unlimited discretion is prone to uncertainties, uneven denial or grant of bail.
+
+5 Article 23(6)(a) of the 1995 Constitution of Uganda (as amended)
+6 (constitutional Appeal No. 3 of 2009) [2018] UGSC 46 (26 October 2018)
+7 HC (Anti-Corruption Division). CC No.094 of 2011
+8 (1997) 5 KALR 25
+
+3 | P a g e
+
+Mandatory bail is where court is guided by specific laws in the consideration for bail
+application like Article 23(6)(c). Justice Sebutinde in Dr. Martin Kato Mugamba and Anor
+v Uganda9 stated that, “The constitution allows the state a grace period of 360 days now
+180 days as amended with which it can lawfully detain an accused person pending
+committal for trial and during which period the state is expected to complete its
+investigations and commence prosecution of the accused persons.” However, it is not a
+guarantee that an accused spending over 180 days in custody without trial is guaranteed
+bail. If the severity suggests a high risk to public order or if releasing the accused will
+endanger the society, bail will be denied. In Kizito v Uganda10, the High Court reiterated
+that bail decisions in capital offenses must carefully consider public safety risks alongside
+the accused’s rights, emphasizing the courts discretion to deny bail where the risk of harm
+or interference is substantial. In Bidongo Zenone and two others v Uganda11 where the
+applicants were denied bail on grounds that due to the severity of the offense (murder),
+granting the applicants bail would amount to exposure of the applicants to the danger of
+mob justice by the relatives of the deceased and the society. Thus, even under mandatory
+bail, the need for a reasonable decision to be made by the High Court in the consideration
+for bail application is so important both to for public safety and protection of the rights of
+the accused.
+Capital offenses are offenses triable only by the High court with a punishment of either
+death or imprisonment for life. Examples of such offenses are terrorism, under the Anti-
+Terrorism Act 2002, Cattle rustling contrary to section 266 of the Penal Code Act, Offenses
+under the Firearms Act punishable by more than 10 years’ imprisonment. Rape contrary to
+section 123 of the penal code Act, aggravated defilement contrary to section 129(3) of the
+
+9 Misc. Crim. Appl. No 51/1996 (un reported)
+10 Misc Application No.005 of 2003 (Arising from Criminal Case No.SOR-20-CR-AA-024 of 2022)
+11 Miscellaneous Criminal Application No.0024 of 2015 (Arising from H.C.Cr.Case No. 0028 of 2012
+
+4 | P a g e
+
+Penal Code Act, corruption, bribery of member of a public body, embezzlement, causing
+financial loss contrary to sections 2,5,19,20 of the Anti-Corruption Act 2009, and any other
+offense in respect of which a Magistrate court has no jurisdiction to grant bail.12
+The legal framework that guides the High Court when granting or denying the accused bail
+is the Constitutional provisions under Article 23(6)(a)(c) and the presumption of innocence
+under Article 28(3)(a). The Trial on Indictment Act Cap 25 section 14 and 15, the
+Magistrates Courts Act Cap 16 section 75(2), the Constitution Bail Guideline for courts of
+Judicature) (Practice) Directions 2022, the Judicature (Criminal Procedure) Application
+Rules 2 & 4 and the Judicature Act under section 34. The available legal framework is
+uncertain and ambiguous in certain areas and does not provide specific guidelines on court
+discretion leaving room for inconsistencies and inequality in bail applications.
+The office of the Auditor General made a report for financial year 2023/24 which
+referenced the ever-increasing number of prisoners on remand without trial basing on the
+high bail fund deposits made in the criminal division of the High Court of Uganda. Of the
+889 criminal cases, 706 were concluded within the 12 months’ stipulation and 180 cases
+took from one year to as long as 22 years to conclude. The causes of the delays were
+delayed investigations due to lack of information during trial, failure by key witnesses to
+show up on appointed dates of trial and the large case load of judges.13 Chief Justice
+Benjamin Odoki in the Makerere University Law Journal14 noted that,” The delay in
+Justice is the enemy of justice and criminal justice in particular and it is Justice Denied.”
+All these delays mean the accused will be kept in custody on remand for periods that
+warrant release on bail.
+
+12Magistrate’s Courts Act Cap 16 section 75(2)
+13 Report of the Auditor General on the Judiciary for the year ended December 2024 page 11
+14 The Delayed Justice page 32
+
+5 | P a g e
+
+The High Court Criminal Division in the financial year 2023/2024 brought forward 1815
+cases from the previous financial year, 1558 cases were registered, 1462 cases were
+completed and 1911 criminal cases were still pending. The rate of criminal case disposal
+was at 43.34%15. A case is considered backlog if it has spent two or more years in the court
+system before it is disposed of or completed. Case backlog significantly impacts bail
+applications in several ways, like, delayed hearings lead to prolonged detention without
+trial. When an accused is kept in custody for very long periods without trial and then
+applies for release on bail, court is most likely to deny the accused bail on ground that
+they are desperate to be released and are most likely to abscond trial when granted bail.
+In conclusion, this research sought to identify the effectiveness of the current legal
+framework on bail application in the High Court of Uganda with focus on clarifying
+ambiguous provisions, standardizing interpretations and tightening bail requirements
+where necessary for very serious crimes so as to tame the increase in the commission of
+capital offenses in Uganda.
+1.1 Background
+During the colonial period, bail was introduced through the reception clause of the 1902
+Order in Council. Article 15(2) empowered the Commissioner to apply any law from the
+United Kingdom and any other protectorate of the United Kingdom in Uganda with
+modification. These laws were applied verbatim. After Uganda gained independence in
+1962, the country’s laws continued to evolve. The rights of prisoners to be released, if not,
+be brought to court without undue delay was provided for in the 1962 Uganda constitution.
+However, the bail system remained largely restrictive due to reasons which were largely
+political and procedural. Article 19(3) of the 1962 constitution provided that any person
+
+15 Judicial Annual report for financial year 2023/2024
+
+6 | P a g e
+
+arrested or detained... who is not released, be brought without undue delay before a court
+or is not tried within reasonable time, be released either unconditionally or upon
+reasonable conditions to ensure his appearance at a later date for trial.
+The 1966 Pigeonhole constitution replaced the 1962 and later became the 1967 Uganda
+constitution that provided for the right to bail in Article 10(3). In Uganda v Commissioner
+of Prisons Ex Parte Matovu16, where Matovu was charged for murder and an application
+to be released on bail was made to court and denied, Sir Udo Udoma Egbert ruled that the
+right to bail is a fundamental right, and its denial should only occur under exceptional
+circumstances. This case set an important precedent regarding the right to bail in Uganda,
+affirming that it should not be denied arbitrarily. In Uganda v Sebbowa17, court held that,”
+the right to bail is a constitutional right and the onus is on the prosecution to show why
+bail should be denied.” Further, in Uganda v Matovu18, the High Court of Uganda ruled
+that the prosecutions objections to bail based on the accused’s potential to abscond were
+sufficient to justify denial of bail. Therefore, the practice of bail before 1986 was due to
+significant restrictions and limitations like the colonial administrative era influences, postindependence developments and case law precedents.
+When the NRM regime took over power in 1986, there still lingered a question on bail
+amongst the citizens of Uganda and the applicants for bail. There was confusion as to
+whether the grant of bail meant an acquittal on the side of the applicants or judicial
+injustice amongst the public. The citizens found it hard to understand how people charged
+for serious crimes be walking freely on the streets and sometimes intimidating and
+threatening the complainants. Why the public had such a view of bail was the fact that an
+accused released on bail used their freedom to interfere with the police investigations to
+
+16 (1966) 1 EA 514
+17 [1968] EA 129
+18 [1970] HCB 134
+
+7 | P a g e
+
+ensure that they do not face trial19. Thus, there was need for a change in the legal system
+to curb the social problems of granting bail to suspects involved in capital offenses.
+The process of bail application embodies the principle of presumption of innocence20 which
+means innocent till proven guilty. Bail strikes a balance between protecting individual
+freedom and serving the public interest. The primary objective of bail is to ensure the
+accused returns to court for trial, rather than a means of permanent release.
+1.1.2 The laws applicable by the High Court when granting or denying bail
+Applications.
+The laws applicable for bail are the Constitutional Provisions, Articles 23(6) (a) and (c) on
+discretionary and mandatory bail respectively. Article 28(3)(a) on the presumption of
+innocence. Sections 14 and 15 of the Trial on Indictment Act cap 25. Constitutional (Bail
+Guideline for courts of Judicature) (Practice) Directions, 2022, the Magistrates Courts Act
+Cap 16 section 75(2), the Judicature (Criminal Procedure) Application Rules 2 & 4 and the
+Judicature Act section 34.
+The broad discretion legally coffered to the High Court through the legal framework has
+played a very big role on the effectiveness of the current legal framework on bail
+application in the High Court of Uganda. Due to the classification of the offences by
+limiting the jurisdiction of bail application for capital offenses to only the High Court as
+seen under section 75(2) of the Magistrates Courts Act, it was intentional by the makers of
+the laws to grant the High Court with this broad discretion in order to control not only the
+everyday capital offenders, but also the political capital offenders. It is evidenced that
+capital offences are classified as very grave offences making them more significant than
+
+19 The Uganda Constitutional Review Commission
+20 Article 28(3) of the 1995 Uganda constitution (as amended)
+
+8 | P a g e
+
+the rest of the offences. They are clearly defined by these laws and given their own bail
+application procedures.
+The mandatory bail provisions under the constitution21 are also subject to court discretion
+on the basis of protecting public safety and security. This is evidenced in case law
+especially in high profile political cases of charges like terrorism. For example, the
+Besigye22 bail application case where the Court has denied the applicant bail on three
+occasions on grounds that the charges against the accused are one of the gravest crimes in
+the country’s books, a crime against the country thus need for public safety and security.
+The issue of suitable sureties is always subject to court discretion even where the surety
+satisfies the conditions set by the constitutional bail guidelines. On the issue of grave
+illness, which is one of the exceptional circumstances as provided for under Section 15(3)
+of the Trial on Indictment Act, the law provides for the need for a medical report from the
+institution holding the accused in custody to prove that the accused suffers from an illness
+so grave that they cannot handle it. Through court discretion, the court has awarded bail
+in instances where the medical facility of the institution holding the accused in custody
+went silent on whether they are able to handle the health condition of the accused.
+Stringent bail conditions have been set by the High Court in certain bail applications turning
+bail into a privilege.
+In conclusion bail application in the High Court of Uganda is affected by many factors,
+though the most important factor affecting the effectiveness of the current legal
+framework on bail application in the High Court of Uganda is the broad discretion leading
+
+21 Article 23(6) (c)
+22 Misc Appln No. 0113 of 2025 (Arising from Criminal Case Nak-Cr. NO.A-0008/2025 AT Nakawa Chief Magistrates
+Court)
+
+9 | P a g e
+
+to inconsistencies in determining bail applications by the High Court of Uganda and the
+researcher has discussed these inconsistencies in depth in the following chapters.
+1.2 Statement of the problem
+The Uganda Constitution provides for the right to apply for bail based on the presumption
+of innocence. "The High Court has vast discretionary power to accord or not grant bail to
+the accused, taking into consideration the nature of the offense, the likelihood of
+absconding and the possibility of tampering with the witnesses in the prevailing bail
+jurisprudence". In practice, however, the bail legal framework demonstrates it to be
+contradictory and equivocal. The High Court sometimes lays down both rigid and competing
+prerequisites for bail, making bail appear to be a 'privilege and not a right'. In some cases,
+judicial discretion was applied lopsidedly, so the same offences would have different
+results, while some bail conditions were so wrong they subvert the very right they are meant
+to safeguard.
+The Bail Guidelines aim to harmonize procedures and ensure transparency, yet questions
+persist regarding their effectiveness in addressing the underlying issues of access, fairness,
+and uniformity in bail determinations. The ongoing gap between the law and its
+implementation raises concerns about whether the current legal framework for bail in the
+High Court of Uganda sufficiently protects the rights of accused individuals while balancing
+the interests of justice and public safety.
+In conclusion, this research seeks to critically examine the effectiveness of the current
+legal framework on bail application in the High Court of Uganda, identifying the challenges
+in its implementation and assessing whether it archives its intended objectives of uploading
+constitutional rights and ensuring justice for all parties involved.
+
+10 | P a g e
+
+1.3 Objectives of the study
+1.3.1 General Objective
+To examine the effectiveness of the current legal framework on bail application in the
+High Court of Uganda.
+1.3.2 The Specific objective
+ To examine the current legal framework on bail application in the High Court of
+Uganda
+ To examine the effectiveness of the current legal framework on bail application
+in the High Court of Uganda
+ To examine the non-legal factors that affect bail application in the High Court
+of Uganda.
+ To provide possible recommendations to the inconsistencies in bail application
+for Capital offences in the High Court
+1.4 Research questions
+1) What is the current legal framework on bail application in the High Court of
+Uganda?
+2) What is the effectiveness of the current legal framework on bail application in
+the High Court of Uganda?
+3) What non-legal factors affect bail application in the High Court of Uganda?
+4) What conclusions and reforms should be made to make bail application laws for
+Capital offenses in the High Court of Uganda effective?
+
+
+11 | P a g e
+
+1.5 Significance of the study
+The research aims at critically analyzing the effectiveness of the current legal
+framework on bail application in the High Court of Uganda, ensuring a balance between
+the rights of the accused and the safety of the public. The study identifies the areas
+for improvement, ultimately enhancing access to justice for all individuals regardless
+of their socio-economic status.
+1.6 Justification of the study
+The researcher noticed that bail applications for capital offences were largely affected
+or influenced by the inconsistencies and uncertainties enabled by the current legal
+framework on bail application in the High Court of Uganda which led to miscarriage of
+justice and thus the need for reforms. The laws give the court too much discretion in
+the process.
+1.7 Scope of the study
+
+The research focuses on the effectiveness of the current legal framework on bail
+application in the High Court of Uganda. The Study explores the following themes.
+Chapter one discusses the introduction and background of bail applicability in the High
+Court of Uganda. Chapter two discusses the effectiveness of the current legal
+framework on bail application in the High Court of Uganda. Chapter three discusses the
+non-legal factors that affect bail application in the High Court of Uganda and Chapter
+4 discusses the conclusions and recommendations on the effectiveness of the current
+legal framework on bail application in the High Court of Uganda.
+
+
+12 | P a g e
+
+1.8 Literature review
+In relation to this research, so many researchers have covered bail and its applicability
+in Uganda’s criminal justice system.
+The Access to Justice Sub Program /” Justice Law and Order Sector (JLOS)” reports
+on performance of the Judicial Institution in a financial year. The performance report
+is generated from the analysis of the data from the institutional submissions. It tracks
+progress and results in information in the outcome areas of the access to Justice/ JLOS
+business to enable the sub program and Development Partners as well as other key
+stakeholders to access progress and target areas for reorganization or increased
+development. The JLOS financial year reports provided the research with statistical
+information on cases disposed of by the High Court in a given financial year. The reports
+also provided the research with statistics on case backlog whereby the increase in case
+backlog meant an increase in prisoners on remand providing a case for bail applications
+in the High Court. However, the two JLOS reports of financial years 2021/22 and
+2023/24 that the researcher used, provided general court performance of the High
+Court. The information is not very clear on the performance of the High Court on bail
+applications for capital offenders which would be used to find the exact effectiveness
+of the current legal framework on bail application.
+The Report of the Auditor General on the Judiciary for financial year ended
+December 2024 was used to try to find statistics on the number of bail applications
+heard by the High Court in a given financial year. But like the JLOS reports, the closest
+it would provide was the amount of bail fund deposits which are funds collected by
+court as cash bail for bail applications accepted. The stats were helpful in a way that
+
+13 | P a g e
+
+the researcher was able to relate the 50% increase in bail fund deposits with the bail
+application performance of the High Court of Uganda. However, this information was
+specific on cash bond leaving out non cash bond stats. Thus, the effectiveness of the
+current legal framework on bail application in the High Court could not be properly
+gotten.
+The International Journal of Academic Management Science Research (IJAMSR)23, a
+journal so helpful to this research in providing the history of bail application in Uganda.
+The historical development of bail application from the colonial period to the present
+date shows how bail application in the High court has evolved.
+The Foundation for Human Rights Initiative an independent non-government
+organization, non-partisan and non–profit human rights organization in their book “A
+Citizens Handbook on THE LAW GOVERNING BAIL IN UGANDA”, emphasized the
+Presumption of innocence as an integral part to the applicant of bail in the High Court
+of Uganda. The hand book provides the laws applicable in bail application and highlights
+them. However, the handbook is silent on many things like the effectiveness of these
+laws on bail application in the High Court. It does not expound on the meaning of
+exceptional circumstances and does not expound on the relationship between the
+presumption of innocence and the right to bail.
+The Review of Bail in the Criminal Justice System, a study report of November 2020 by
+the Uganda Law Reform Commission provided the research with the law applicable on
+bail application in all courts of Uganda. The study also provided reforms on the
+
+23 A Legal Review Of Bail Reform Proposal, Court Discretion And The Doctrine Of Precedent In Uganda
+
+14 | P a g e
+
+applicability and effectiveness of the bail laws in Uganda’s Judicial system. However,
+the study was so general in nature. It was silent on the real issue affecting the
+effectiveness of the legal framework on bail application in the High Court which is the
+broad discretion of the Courts.
+Chief Justice Benjamin Odoki’s textbook a Guide to Criminal Procedure in Uganda
+3rd Edition Published by L.D.C in 2006 was used to define bail and the definition
+properly brings out bail. As in, an agreement or recognizance between the court and
+the accused and also puts the sureties if needed. This definition is so clear that any
+average individual can understand clearly what bail is. It also states that it’s not
+mandatory that a surety must be provided in order to be granted bail. However, for
+capital offences, the addition of a surety to a bail application is so important to both
+the accused and the Court. Due to the gravity of the offence, for the Court to grant the
+accused bail, they will need a suitable Surety who has control over the accused and will
+make it that the accused appears for trial as determined by court.
+The Bail Conditions in the Criminal Justice Systems in Kenya, Uganda, Rwanda and
+Tanzania24 was used by the researcher to contrast the bail application laws in the
+neighboring countries of Uganda with those applied in the High Court of Uganda. This
+information was used in chapter two of the research under the regional legal framework
+on bail application in the various criminal justice systems of the particular countries.
+
+24 By Luke Kelly University of Manchester 7 August 2020
+
+15 | P a g e
+
+The research was also guided by other researchers on bail application in Uganda like
+Kamalha Ram then a Kampala University Law Student25, Kityo Martin then a law student
+at Islamic University in Uganda26 and Apio Zillah Anna also a then law student at
+Kampala International University27. Both Kamalha Ram and Kityo Martin research are
+mainly on bail application procedure in the courts of Uganda. Apio Zillah did research
+on bail laws and critiques the laws on bail application in the courts of Uganda. The
+researcher used all these researches to get the general information on bail application.
+However, both Kamalha and Kityo didn’t critique the existing legal framework on bail
+applications in Uganda. All research was general in nature, they all looked at bail in the
+courts of Uganda while this research is specifically on bail application in the High Court
+of Uganda on capital offences. The researchers by the time they wrote their researches,
+it was mandatory for an accused to prove exceptional circumstances so as to be granted
+bail.28 To date it is no longer mandatory to prove exceptional circumstances. In Uganda
+v Rt. Col. Dr. Kiiza Besigye29 it was stated that proof of exceptional circumstance in
+an application for bail is no longer mandatory. However, when an applicant seeks to
+rely on exceptional circumstances, the applicant is required to satisfy court leaving no
+doubt of the exceptional circumstance pleaded.
+In conclusion, all research material used by the researcher is rich in the law and
+procedure of bail application in the High Court, but lacks the proper critical view of the
+effectiveness of the current bail application legal framework especially the broad
+
+25 Bail Practice in Uganda: A Critical Analysis Of The Law In The Magistrate Courts And High Court
+26 Outside Bars: The Right To Bail In Uganda
+27 The Efficacy Of The Law On Bail In Uganda “Critique”
+28 Section 15(1) of the Trial On Indictment Act CAP 43
+29 supra
+
+16 | P a g e
+
+unlimited and unguided discretion the legal framework awards the High Court when
+determining bail application.
+1.9 Methodology
+The qualitative desktop methodology also known as secondary research or
+complementary research, focusses on gathering and analyzing existing information and
+data from various sources. For the research on the effectiveness of the current legal
+framework on bail applications in the High Court of Uganda, this research methodology
+was valuable for gaining in-depth insights without primary data collection. The various
+data sources used were;
+Legal Documents
+Legal documents that were used by the researcher were the 1995 Constitution of the
+Republic of Uganda (as amended) Article 23(6)(a)(c) and Article 28(3). In consideration
+for bail application in the High Court of Uganda, these two Articles provide for
+discretionary bail, Mandatory bail and the Presumption of innocence. The statutes and
+Acts of Parliament related to bail application in the High Court of Uganda used in this
+research were The Trial on Indictment Act Cap 43 section 14 and 15, Magistrates Courts
+Act cap 16 section 75(2), the Judicature Act, the Constitution (Bail Guidelines for Courts
+of Judicature) (Practice) Directions, 2022 and the Judicial (Criminal Procedure)
+Application Rules 2 & 4. Decided cases used as precedents in consideration for bail
+application in the High Court of Uganda.
+
+
+17 | P a g e
+
+Academic Literature
+This entailed law Journals, articles on bail application, criminal procedure and human
+rights in Uganda. Text books on criminal law procedure and bail application in the
+justice system of Uganda were also used. Dissertations related to bail application,
+criminal justice and the Judiciary also provided a source of information to the
+researcher.
+Official Reports and Publications
+The research employed Judicial annual reports on the performance of courts in criminal
+justice and Auditor General Reports on the management of bail funds.
+Policy Documents and Guidelines
+Government policy papers on criminal justice reform and access to justice were used.
+Guidelines and manuals issued by the judiciary or ministry of justice on bail procedures
+and reports and recommendations from law reform commissions or committees related
+to bail application in Uganda were used.
+Data Collection Process
+After identifying the issue, a research problem, research question was established, and
+objectives that centered on how well the current judicial system handles bail requests
+in the Ugandan High Court. A review on the bail application process in Uganda was
+taken into consideration, to find contradictions, or areas that needed more study. From
+the chosen sources, which included law journals, judicial reports, legal provisions, and
+case summaries, pertinent material was taken out.
+
+18 | P a g e
+
+Data Analysis Techniques
+Various data analysis techniques were employed by the researcher. Like the content
+analysis where the researcher systematically analyzed the content of legal documents,
+reports and publications to identify inconsistencies and uncertainties in the available
+legal framework on bail application in the High Court of Uganda. Then the Thematic
+analysis where data was organized based on research questions and objectives. This
+involved identifying common issues, challenges and perspectives related to the
+effectiveness of the available legal framework on bail application in the High Court of
+Uganda. Then the Comparative analysis where different sources of data used by the
+researcher were compared and contrasted so as to enable the readers of the research
+to understand the research topic.
+Advantages of the Qualitative Desktop Research Methodology
+It is a secondary data collection method thus less expensive compared to primary
+research since it relies on existing data sources. Data collection and analysis is
+conducted more quickly as the researcher doesn’t need to collect new data. It provides
+for a comprehensive overview of the research topic since it allows the examination of
+a wide range of sources and perspectives. It is an ethical research method in that the
+source of the data used cannot be claimed by the researcher and credit for their
+information is credited to them through referencing the source of the data.
+Limitations of the Qualitative Desktop Research Methodology
+
+19 | P a g e
+
+The existing data quality and availability was limited due to various factors. The
+researcher could not find the exact statistics on bail applications in the High Court of
+Uganda. Bail fund deposit stats and case backlog stats of the High Court to relate to
+bail applications were relied on. The accuracy and reliability of secondary data is a
+question the researcher must consider before relying on the data. A case in point on
+the issue of effectiveness of exceptional circumstances in considerations for bail
+applications in the High Court of Uganda, most data sources stated it was mandatory
+for the accused to prove exceptional circumstances. And this was because by the time
+they gathered their data, it was so. Section 15(1) was amended giving the court
+discretion to grant bail even if the accused didn’t prove exceptional circumstances and
+thus the researcher has to always keep in mind the reliability of secondary data to avoid
+misleading the intended audience of the research.
+In conclusion, the qualitative desktop research approach was an appropriate research
+method of collecting data on the effectiveness of the legal framework on bail
+application in the High Court of Uganda. The researcher collected data from various
+sources, examined key problem such as ambiguities and inconsistencies in the
+application of the legal framework on bail application in the High Court of Uganda.
+
+
+
+
+
+20 | P a g e
+
+CHAPTER TWO
+EFFECTIVENESS OF THE CURRENT LEGAL FRAMEWORK ON BAIL APPLICTION IN THE
+HIGH COURT OF UGANDA
+2.0 Introduction
+Bail application in the High Court of Uganda is guided by a rich legal framework. We
+have the international legal framework, regional legal framework and the national legal
+framework. This chapter discusses the effectiveness of the legal frameworks on bail
+application in the High Court of Uganda.
+2.1 International Legal Framework on bail Application in the High Court of Uganda
+The international legal framework governing bail applications in the High Court of
+Uganda emphasizes the presumption of innocence, minimal pre-trial detention and
+equitable access to liberty as outlined by the key treaties and guidelines Uganda ratified
+to. Below is an analysis of how these principles intersect with Uganda’s domestic bail
+laws in the High Court.
+2.1.1 Presumption of Innocence
+In criminal cases, the international legal framework on burden of proof is grounded in
+the principle of presumption of innocence, which places the burden on the prosecution
+to prove the accused’s guilt beyond reasonable doubt. The International Covenant on
+Civil and Political Rights30 states that everyone charged with a criminal offense shall be
+presumed innocent till proven guilty. The Human Rights Committee’s General Comment
+32 elaborates that the prosecution must carry the burden of proving the charge and
+that no guilt can be presumed until the charge is established beyond reasonable doubt.
+
+30 Article 14(2)
+
+21 | P a g e
+
+In relation to bail application laws in the High Court of Uganda, bail is not an acquittal
+of charges. Justice C.A. Ocelli31 held that,” it should be observed that bail application
+is not a trial in the substantive charge for which an applicant is held in custody. No
+evidence of the substantive charge is adduced and the court does not make any
+pronouncement on the merits and demerits of the charge.” This means that under a
+bail application, it is the burden of the prosecution to prove why the accused should
+not be awarded bail.
+2.1.2 Prohibition of Arbitrary Detention
+Arbitrary detention is unlawful detention and occurs when an individual is arrested and
+detained by a government without due process and without the legal protections of a
+fair trial, or when an individual is detained without any legal basis for the deprivation
+of their liberty. In relation to the study, the 1995 Uganda Constitution (as amended),
+Article 23(6) (c)provides that when an accused is held in custody for an offense only
+triable by the High Court for over 180 days without trial, the court is mandated to
+release them on bail. This means that an accused held in custody for over 180 days
+without trial is unlawfully detained.
+In relation to bail laws in the High Court of Uganda, for detention to be justified or
+lawful, it must be justified by specific risks like flight risks, evidence tampering,
+likelihood to commit another crime while out on bail and likelihood to abscond trial.
+Detention should not be used as a punitive measure before conviction since the accused
+
+31 Aliphusadi Matovu v Uganda Criminal Miscellaneous Application No. 15 of 2005s
+
+22 | P a g e
+
+is still innocent not yet proven guilty. Detention should last no longer than necessary
+to achieve the legitimate aims of the criminal process.
+The Universal Declaration of Human Rights32, prohibits arbitrary detention. The
+instrument promotes human rights in cases relating to personal liberty through the
+prohibition of arbitrary detention. Deviation from the provisions of the Declaration
+amounts to violation of commitment to the protection of Human rights under the UDHR.
+Uganda is signatory to the declaration and as such has the obligation under international
+law to respect, observe and promote all declarations pertaining human rights therein.
+The ICCPR33 states that anyone arrested or detained on a criminal charge shall be
+entitled to trial within a reasonable time or to release pending trial, emphasizing that
+pre-trial detention should be the exception rather than the rule. The UN Human Rights
+Committee interpreted this to mean that detention must be necessary and
+proportionate to prevent risks such as flight, interference with justice or further
+offenses. The United Nations Standard Minimum Rules for Non-Custodial Measures
+(Tokyo Rules)34 specifies that pre-trial detention should be used as the last resort only
+when less intrusive measures like bail are insufficient to meet the needs of justice and
+public safety. The European Convention on Human Rights35, permits deprivation of
+liberty only in connection with the criminal proceedings and requires that detention be
+lawful and justified. The European Court of Human Rights has ruled that detention must
+be closely scrutinized, reviewed to prevent arbitrariness and undue length. Thus, in
+
+32 Article 9
+33 Article 9
+34 Rule 5.1
+35 Article 5(1) (c)
+
+23 | P a g e
+
+relation to the bail rules in Uganda, the High Court recognizes the fact that keeping the
+accused on remand for more than the specified time (180 days) amounts to delay in
+justice and is against the international treaties which Uganda ratified to.
+2.2 Regional Legal Framework on Bail Application in the High Court of Uganda
+The regional legal framework on bail for capital offenses in East Africa reflects a mix
+of constitutional safeguards, judicial discretion and restrictive provisions influenced by
+both international standards and local socio-political contexts. Below is an analysis of
+Uganda’s framework compared to neighboring countries drawing from regional treaties,
+domestic laws and comparative studies.
+2.2.1 African Charter on Human and Peoples ‘Rights
+Upholds the presumption of innocence36 and the right to liberty which is against
+arbitrary detentions. Uganda’s 180-day rule aligns with this Article. Article 2-3 of the
+African Charter on Human and People’s Rights prohibits legal discrimination in all
+spheres of life. this is in conformity with the Uganda laws which emphasize equality of
+all before the law. In regards to bail application, the High Court of Uganda is meant to
+consistently apply the bail laws to each bail applicant on merit. Justice Musalu
+Musene37 noted that discretion in bail matters must be exercised judiciously without
+malice, ill will or ulterior motives.
+
+36 Article 6
+37 Col (RTD) Kiiza Besigye v Uganda (criminal Application No. 83 of 2016) [2018] UGHCCRD 7 (12 July 2016)
+
+
+24 | P a g e
+
+2.2.2 The African Commission
+This body was established by the African Charter sets out standards like the principles
+of fair trial in Africa38,Guidelines on Arrest, Police Custody and Pre-Trial Detention in
+Africa39 and the Principles and Guidelines on Human and Peoples’ Rights while
+Countering Terrorism in Africa Part 3(c)40. All these provisions accept that release on
+bail may be subject to certain conditions. However, the burden rests with the state to
+prove the need for such conditions for the release or detention of the accused.
+2.2.3 Kenya Bail laws
+Article 49(1)41 guarantees bail as a right unless compelling reasons like flight risk and
+witness interference. This means bail should be granted as a default position and the
+burden lies on the prosecution to show compelling reasons to justify denial. Bail is a
+constitutional right in Kenya. Article 49(2) provides that a person shall not be remanded
+in custody for an offense if the offense is punishable by a fine only or by imprisonment
+for not more than six months. Just like in Uganda, bail is a right but not absolute.
+Kenyan Courts may deny bail if compelling reasons exist such as risks of flight,
+interference with witnesses or threats to public safety. A little contrast to Uganda’s
+bail laws in the High Court is that Kenyan Judicial officers are mandated to treat bail
+as a right rather than a privilege and courts have reduced bail amounts on review to
+uphold this principle.
+
+38 Section M1(e)
+39 The Luanda Guidelines Paragraph 1(b), 4(i), 6(a), 7, 10-11, 31,32 (a)
+40 http://www.achpr.org/legalinstruments/details?id=9
+41 Kenya Constitution 2010
+
+25 | P a g e
+
+2.2.4 Tanzania Bail laws
+Like in Kenya and Uganda, bail is recognized as a constitutional right. Article 13(6)(b)
+of the Constitution of United Republic of Tanzania (1977, as amended), every person
+charged with a criminal offense is presumed innocent until proven guilty and is entitled
+to bail as a matter of right, subject to conditions prescribed by court. Denies bail for
+offenses like murder unless exceptional circumstances are shown. This position mirrors
+Uganda’s position on bail. the Bail and Bond policy (2016) encourages non-monetary
+bail and mandates periodic judicial reviews. This is inconsistent with Uganda’s position
+where cash bail is practiced and emphasized more than non-monetary bail.
+2.2.5 Burundi
+In Burundi, the legal frame work on bail indicates that bail is not the right but its
+application is the right. This is so consistent with Uganda’s bail laws. The Judiciary has
+the discretion to grant or deny the accused bail based on the seriousness of the offense
+and risk of absconding trial. The Criminal Procedure Code (2013) explicitly denies bail
+for crimes punishable by over 20 years. If an accused is charged for offenses like
+aggravated murder will, in Burundi they will not be granted bail. The exception to this
+law is a minor charged for such offense and an accused who has deposited very large
+amounts of bail funds. This is slightly in line with Uganda’s bail laws where by capital
+offenses necessitate very strict conditions in order to be granted bail and in addition
+very high cash bail deposits will have to be made to the High Court.
+2.2.6 Rwanda
+Rwanda’s constitution does not mention bail but Article 21 sets out the right to be
+presumed innocent and to appear before a court and Article 24 provides for the right
+
+26 | P a g e
+
+to liberty. The criminal procedure law42 sets out rules on bail and states that bail is
+determined in consideration of the damages caused by the offense, the good conduct
+of the suspect attested by the local authority of his or her residence and on whether
+he or she has never been condemned by a court. If the offense is against property, bail
+must be double the value of the property. For other offenses, bail is determined by the
+discretion of the competent authority in consideration of the gravity of the offense
+committed and the wealth of the guarantor. There is a similarity to the bail laws of
+Uganda, the discretion of the authority which is the High Court of Uganda in determining
+capital offenses.
+2.3 Inconsistencies with Uganda’s Domestic Legal Framework on bail application in
+the High Court of Uganda
+2.3.1 Burden of proof
+Section 15(1)43 states that it’s no longer mandatory for an accused to prove the
+presence of exceptional circumstances in order to be granted bail. The fact that its nolonger mandatory leaves room for situations where the accused will rely on exceptional
+circumstances to be granted bail. When this situation arises, the accused will have to
+prove the exceptional circumstance thus shifting the burden of proof to the accused
+contrary to the International Covenant on Civil and Political Right’s standards of
+presumption of innocence.
+
+
+42 No 027/2019- Law relating to Criminal Procedure
+43 Trial on Indictment Act Cap 25
+
+27 | P a g e
+
+2.3.2 Socioeconomic Disparities
+Article 26 of the ICCPR provides that all persons are equal before the law and are
+entitled to equal protection of the law. Uganda ratified to this covenant and is bound
+to uphold and apply this principle in determining bail applications of capital offenders
+consistently. The African Charter on Human and People’s Rights also prohibits
+discrimination in all forms and requires states to ensure equality before the law. In
+addition to that, Article 21 of the 1995 Uganda constitution guarantees that all persons
+are equal before and under the law and prohibits discrimination on grounds of social or
+economic standing. When determining bail applications in the High Court of Uganda,
+the wealth-based surety requirements and documentation hurdles like the Local Council
+1 letter are a disadvantage to the low-income defendants conflicting with the ICCPR’s
+and the African Charter on the prohibition of discriminatory practices.
+2.3.3 Pro-longed Pre-Trial Detentions
+The mandatory bail rule is set for 180 days in custody without trial44, there are other
+causes of delays in justice like judicial discretion which often extends detention
+periods, technicalities in evidence collection methods or the cases of high profile where
+the court denies bail on grounds of gravity of the offence neglecting the rights of the
+accused. The issue of case backlog which cannot be overlooked, socioeconomic factors
+whereby the poor cannot access lawyers to help them in their bail application procedure
+and executive interest in particular cases for political reasons also causes pro-longed
+
+44 Article 23(6)(c) of the 1995 Uganda Constitution (as amended)
+
+28 | P a g e
+
+pre-trial detentions. These pre-trial detentions are inconsistent with the international
+covenants on pre-trial detentions.
+In conclusion, Uganda bail laws reflect international and regional human rights
+principles in theory but face implementation gaps, particularly for capital offenses.
+While the 180-day rule and constitutional safe guards align with the ACHPR and the
+ICCPR, the broad High Court discretion and centralized High Court jurisdiction over bail
+application for Capital offenses undermines the equitable access to bail and the
+effectiveness of the current legal framework on bail application in the High Court of
+Uganda.
+2.4 National legal framework on bail application in the High Court of Uganda
+Bail application in the High Court of Uganda is guided by specific laws due to the nature
+of the offence (capital offences). The Offences are capital in nature and are taken to
+be very grave offences. The 1995 Uganda Constitution (as amended) under Articles
+23(6)(a)(c)45 and 28(3)(a)46, sections 14 and 15 of the Trial on Indictment Act Cap 2547,
+Constitutional (Bail Guidelines for Courts of Judicature) (Practice) Directions 2022,
+Judicature (Criminal Procedure) Application Rules 2 & 4 Act, section 75(2)48 of the
+Magistrates’ Courts Act and section 34 of the Judicature Act.
+2.5 The Effectiveness of the Legal Framework on Bail Application in the High Court
+of Uganda
+
+45 On Discretionary and Mandatory bail respectively
+46 On the Presumption of innocense
+47 On the High Court discretion in determining bail applications and Exceptional Circumstance and likelihood to
+abscond trial.
+48 On jurisdiction of the High Court in determining bail applications for Capital offenses.
+
+29 | P a g e
+
+2.5.1 The Constitutional Guarantees and Judicial Discretion in bail applications
+The constitution empowers the High Court with Discretionary49 powers to grant or deny
+bail applications and also mandates50 the High Court to grant bail to an accused kept
+on remand for over 180 days without trial. Article 28(3)(a) provides for the presumption
+of innocence of an accused to always be considered by the High Court whenever
+determining a bail application. Articles 23(6)(a)(c) and 28(3)(a) should be applied
+concurrently during bail applications in the High Court of Uganda. In Aliphusadi Matovu
+v Uganda51, court held that under Article 28(3)(a) of the constitution, the applicant for
+bail is presumed innocent until the contrary is proven. That being the case, he or she
+should get bail until substituted trial is proved. Justice C.A. Ocelli held in response
+that,” it should be observed that bail application is not a trial in the substantive charge
+for which an applicant is held in custody. No evidence of the substantive charge is
+adduced and the court does not make any pronouncement on the merits and demerits
+of the charge.” Guideline 5 of the bail Guidelines provides the general principles a court
+my take into account while considering a bail application and the presumption of
+innocence is one of the principles. This case showed the importance of the presumption
+of innocence in a bail application.
+While Article 23(6) guarantees the right to apply for bail and mandates release after
+180 days on remand without trial, courts conflict over whether it confers a right to bail
+or merely a right to apply for bail. Such inconsistencies have greatly affected the
+effectiveness of the Constitutional framework on bail applications in the High Court of
+
+49 Article 23(6)(a) of the 1995 Uganda Constitution (as amended)
+50 Article 23(6)(c)
+51 Supra
+
+30 | P a g e
+
+Uganda. In Kigula v Uganda52, the Court stated that, “The objective of bail is to ensure
+that the accused person will attend their trial without being detained in prison on
+remand without trial, so that they can duly prepare their defense. The accused is not
+free from the charges against them, they continue to attend court as provided for in
+the bail terms. This means bail is not a punishment.” Granting or denying bail
+application is done on a case-by-case basis and should be done on merit and
+consistently. Applicability of the constitutional bail provisions is dependent on court
+discretion as was evidenced by Justice Kania in the 2025 Besigye53 bail application
+denial reasoned that, “Although I find that the applicants have satisfied all the relevant
+requirements for the grant of bail.... the bail application is denied. The charges against
+the applicants are among the gravest on our statute books... since the charges were
+committed in different cities Kampala, Nairobi... they require more time and resources
+to conclude investigations.”
+Discretionary Bail
+Discretionary bail is bail granted by the court based on its judgement and assessment
+of various factors without being bound by specific legal mandates. While the
+constitution guarantees the right to bail, the right is not absolute and its grant or denial
+is at the discretion of court. In Foundation for Human Rights Initiative v Attorney
+General54, Justice Mwangusya Zelda’s stated that the right to bail under Article 23(6)(a)
+is not an automatic right. Bail is dependent on the judges’-discretion, who weighs based
+
+52 [2005] UGSC 15
+53 Misc Appln No. 0113 of 2025 ( arising from criminal case NAK-CR. No. A-0008/2025 at Nakawa Chief Magistrates Court)
+54 constitutional petition no 20 of 2006
+
+31 | P a g e
+
+on a case-by-case basis whether they should grant bail. What matters is that it should
+not be denied or granted frivolously. In Col (RTD) Kiiza Besigye v Uganda55, Justice
+Musalu Musene noted that discretion in bail matters must be exercised judiciously
+without malice, ill will or ulterior motives. The court must consider the constitution
+(Bail Guidelines for Courts of Judicature) (Practice) Directions which reinforce the
+general principles for granting bail enshrined in the Constitution. Also, in Dr. Aggrey
+Kiyingi v Uganda56, Hon,Hudy Justice C.A Okello stated that, the right an accused has
+is the right to apply to court for bail, the discretion to grant or to reject the application
+is that of court. In Kalule v Uganda57, where it was stated that the High court has
+discretionary powers to set bail conditions that they deem reasonable.
+However, the broad High Court Discretion in determining bail applications has greatly
+affected the effectiveness of the current legal framework on bail application in the
+High Court. There is a lot of inconsistency in bail decisions with similar facts. In Mathew
+Kanyamunyu &Ors v Uganda58, where three parties were jointly accused of murder,
+bail was awarded to the principal offender alone. Some Judicial officers have used their
+discretion to deny bail on grounds of surety relationship with the accused leaving out
+the fact that the surety has control and command over the accused. They have gone
+ahead and awarded bail without regard to laid down bail guidelines and the law
+especially on the need for a medical report of the institution holding the accused in
+custody to state that they cannot handle the health condition of the bail applicant who
+
+55 Supra
+56 miscellaneous criminal application no.41 of 2005
+57 (Criminal miscellaneous Application no 001 of 2018.) [2018] UGHCICD 1(10 April 2018)
+58 (HCT-00-CR-CM-0369-2016) [2017] UGHCCRD 1(10 January 2017)
+
+32 | P a g e
+
+has relied on grave illness to acquire bail. In Ali Mwizera59 bail application decision,
+inconsistency was observed when the prison medical report read that the accused
+complained of severe gastric pain, vomiting, diarrhea, yellow eyes and passing of
+melena stool. The court considered the illness grave even after stating that the report
+was silent on whether the prison hospital was able to handle his condition. Yet for an
+illness to be considered grave, the institution holding the applicant in custody must
+state that they cannot handle the illness. Thus, in this case, Court through its discretion
+usurped the medical doctor’s powers and granted the applicant bail. They have also
+used their discretion to succumb to executive commands in denying bail applications of
+high-profile opposition members even when the applicants meet the bail conditions and
+lastly, they have inconsistently set very high cash bail amounts basing on the financial
+muscle of both the accused and sureties which turned out to be discriminatory to the
+low-income earners who can’t afford the high cash bail amounts.
+Mandatory bail
+Mandatory bail is bail granted or denied by court basing on specific rules underlined by
+law. The High Court bases its judgement in Article 23 (6)(c) of the 1995 Uganda
+Constitution (as amended). Article 23(6)(c) provides for an accused held in custody
+before trial for an offense triable only by the High court after lapse of 180 days without
+trial to be released on bail. In Uganda v Col. (Rtd) Dr Kiiza Besigye60, it was stated
+that once the conditions under Article 23(6)(c) are met, the court is stripped of its
+power to exercise its discretion and hence the accused is entitled to be granted bail.
+
+59 Misc Appln No. 0408 of 2024 (arising out of Chief Magistrate’s court of Entebbe at Entebbe criminal case No. AA 27 of 2024)
+60 Constitutional Reference No. 20 of 2005
+
+33 | P a g e
+
+However, even with the ruling in the prior discussed case, mandatory bail is subject to
+court discretion, especially where the gravity of the offence is so high or where the
+grant of bail endangers the life of the accused or where the grant of bail endangers the
+security of the public. There instances where the court in balancing the rights of the
+accused and safety of the public must use its discretion over mandatory bail. In Bidong
+Zenone and Others v Uganda61, the court was of the view that granting the accused’s
+bail who had been on remand for three years pending trial would endanger their right
+to life by the likelihood of mob justice against them by the relatives of the deceased
+and the society since they had committed murder and one of the accused’s had
+confessed to the murder that took place in the same village they wanted to go back to.
+Therefore, law on mandatory bail is also affected by the broad High Court discretion
+sometimes for the safety of the public and sometime for political reasons or pressure
+from the media and public analysis of high-profile cases.
+2.5.2 Trial on Indictment Act Cap 25
+2.5.2.1 Section 14
+Section 14 of the Act confers discretion to the High court to award bail to an accused
+at any stage of the proceedings. This is one of the legal frameworks that grants the
+High Court broad discretion when determining bail applications.
+2.5.2.2 Section 15(1)
+This section provides that it’s no longer mandatory for an accused to prove exceptional
+circumstance in a bail application. The court has the discretion to deny bail even when
+
+61 supra
+
+34 | P a g e
+
+the accused has not proved any exceptional circumstance. In Attorney General v
+Joseph Tumushabe62 where it was held that it is no longer necessary for the applicant
+to prove exceptional circumstances to be granted bail. However, since section 15(1)
+states that it’s no longer mandatory for an accused to prove the existence of
+exceptional circumstances and court has the discretion to grant bail even when they
+have not been proved63, if an applicant relies on any exceptional circumstance, then it
+will be taken into account and the applicant must prove the exceptional circumstance
+to the satisfaction of court as was held in Florence Byabazaire v Uganda.64, Thus
+shifting the burden of proof to the accused contrary to the normal bail application
+where the prosecution has to prove why a bail application should not be awarded.
+2.5.2.3 Section 15(3) Exceptional Circumstances
+This section gives examples of the exceptional circumstances. The exceptional
+circumstances mean grave illness, a certificate of no objection signed by the Director
+of Public Prosecutions and infancy or advanced age of the accused.
+Grave illness
+The court recognizes the accused’s need for medical treatment that may not be
+adequately provided in a prison or detention facility they are held in custody and must
+be proved by a certified medical expert of the facility where they are held in custody.65
+The medical officer of the prison where the applicant is detained must state that the
+health needs of the accused are incapable of being addressed while the accused is I
+
+62 Constitutional Apeal No.3 of 2005
+63Janet Mureaba v Uganda Criminal Case No.0136/1994
+64 Misc Appln No. 284 of 2006
+65 Section 15(3) of the TIA cap23
+
+35 | P a g e
+
+custody. Section 7466 on the removal of sick prisoners to hospital provides that, “In the
+case of illness of a prisoner confined in a prison where there is no suitable
+accommodation for that prisoner, the officer in charge on the advice of the medical
+officer may make an order for his or her removal to a hospital and in cases of
+emergency, the removal may be ordered by the officer in charge without the advice of
+the medical officer. Thus section 15(3) of the TIA cap 23 and section 74 of the Prisons
+Act should be read together and the sick accused be attended to at an external superior
+medical facility for medical attention when necessary and returning to the prison
+whenever necessary. In Sheikh Mohammed Yunus Kamoga v Uganda67, Hon. Mr.
+Justice Christopher Mandrama stated that section 75 of the Prisons Act 2006 (now
+section 74 of the Prisons Act Cap 325) allows prison authorities to make a report that a
+prisoner is in need of outside medical treatment inclusive of being admitted in Hospital
+outside the prison walls. In Tigawalana Bakali68 bail application, court agreed that
+asthma and hypertension amount to grave illness within s.14A(3) of the bail guidelines.
+In Orena john Mackay v Uganda69, the accused having shown that he had heart
+complications approved by the prisons medical officer, was entitled to bail by court on
+grounds of grave illness. In Immaculate Lugolobi v Uganda70, where it was stated that
+for an illness to qualify as a grave illness, the illness must be certified by a medical
+officer of the prison, institution or place where the accused is in custody. In Enos K.
+Tumusiime v Uganda71, where the bail applicant had constant chest pains that needed
+
+66 Prisons Act Cap 325
+67 Court of Appeal Criminal Application No. 77 of 2017
+68 (Criminal Application 23 of 2003) [2003] UGHCCRD 7(12 August 2003)
+69 Criminal Miscellaneous Application No.22 of 2022
+70 H.C. Misc. Appn. No. 30 of 2003
+71 H.C.C.S. No. 136/1999
+
+36 | P a g e
+
+regular surveillance from their consultant an orthopedic surgeon. Two medical reports
+were produced from Nairobi and Murchison Bay hospital (prison hospital) where the
+applicant was detained at the time. The Judge held that the accused had proved
+exceptional circumstances to entitle them bail since they would not be attended to by
+their consultant who was in Nairobi thus incapable of adequate medical care in the
+prison.
+The inconsistency in applying section 15(3) was evidenced in Ali Mwizera v Uganda72,
+court didn’t follow this law while determining the issue of grave illness. The medical
+report from the prison hospital was silent on whether they could handle the applicant’s
+health condition and court used its discretion to find the illness grave. Yet in Capt.
+Wilberforce Serunkuma v Uganda73 where the accused stated that they were suffering
+from AIDS and needed constant care which they could not get while in prison. To justify
+grant of bail, the applicant has to prove to the satisfaction of court that he was
+incapable of getting adequate treatment while in custody. The intention of the makers
+of the law to place the institution holding the accused in custody as responsible for
+clarification that the applicant really needs outside medical attention which the
+institution cannot handle, was to control applicants from using grave illness as a
+condition to get bail. Thus, the institution must state that it can’t handle the health
+condition of the accused.
+
+
+72 supra
+73 [1995] 1 KALR
+
+37 | P a g e
+
+Age and Infancy of the Accused
+Age is a relevant consideration when granting bail. The accused maybe young or elderly,
+court looks at their vulnerability and special needs. Guideline 4 of the Constitution (Bail
+guidelines for Courts of Judicature) (Practice) Directions, defines advanced age as
+above 60 years. In Twesigye Charles v Uganda74, it was stated that courts have
+recognized that prison conditions are not favorable to the health of old people, who
+are in any case presumed to be innocent until proven guilty. In Niwamanya v Uganda75,
+court rejected the fact that the accused was of advanced age despite proving that he
+was 51 years of age at the time. In Mutyaba Semu v Uganda76 where the accused was
+60 years old and suffered from diabetes. He brought an application for bail on the
+ground that he was of advanced age. Court held that 60 years wasn’t advanced age,
+but coupled with the fact that he was diabetic, a disease that required good diet that
+couldn’t be granted by the prison, he would be granted bail.
+Certificate of No Objection
+A Certificate of no objection is a formal document issued by the Director of Public
+Prosecution proving that they are okay with the court granting bail to the accused. It
+signals to the court that the prosecution does not believe the accused’s release would
+jeopardize the administration of justice, public safety or the integrity of the trial.
+While the certificate of no objection is a significant factor, it does not guarantee bail
+to the accused. The High Court still retains the discretion and will consider other factors
+
+74 Criminal Application no.8 of 2011
+75 (Criminal Application No.87 of 2019) [2020] UGCA 2025 (3 March 2020).
+76 [1997] 5 KALR 143
+
+38 | P a g e
+
+such as likelihood to abscond trial, seriousness of the offense and the sufficiency of
+sureties.
+2.5.2.4 Section 15(4) on the likelihood of an accused to abscond
+On considering whether or not the accused is likely to abscond, the court may take into
+account factors like whether the accused has a fixed place of abode within the
+jurisdiction of court, whether the accused has sound securities within the jurisdiction
+of court, whether the accused has on previous occasions when released on bail failed
+to comply with the court conditions and whether there are other charges pending
+against the accused. In Obey & 2 Ors v Uganda77, Justice Margret Tibulya noted that
+the likelihood of the accused absconding bail is based on an interplay-of several factors
+such as gravity of the offense, likely resultant penalty of the crime, if the accused has
+a known address in the jurisdiction of court and quality of sureties advanced before
+court as per section 15(4) of the TIA. In Okello Augustine v Uganda78, court emphasized
+that once the likelihood to abscond and interference with the investigations has been
+established, the courts should be hesitant to grant bail.
+A Fixed Place of Abode in the Jurisdiction of Court
+The applicant must prove to court that they have a place of abode in the jurisdiction
+of the court intended to award the bail. Having a fixed place of abode is a pointer to
+the fact whether the applicant is likely to abscond once granted bail.79 In Mugyenyi
+Steven v Uganda80, court held on the issue of place of abode that it was the onus of
+
+77 Uganda (Miscellaneous Application No’s 045,046 and 047/2015) [2016]
+78 CR-CM 006 of 2012
+79 Section 15(4) TIA cap 25
+80 Misc Appln No. 0065 of 2004
+
+39 | P a g e
+
+the applicant to satisfy court that they have a permanent place of abode in a particular
+village, sub-county and district. This is to enable the court exercise jurisdiction over
+the applicant while on bail being able to trace his whereabouts whenever it is
+necessary. In Ahamad Ssebuwufu v Uganda81,the accused advanced an LC1 letter of
+introduction, a copy of the certificate of title of his land and sound sureties, was
+substantial proof that the accused had a permanent place of abode not likely to skip
+trial and hence entitled to bail. In this case, the place of abode in the jurisdiction of
+court played a crucial role in the grant for bail. Also, in the case of Sudhir Ruparelia v
+Uganda82 whereby the accused’s possession of land and home in the jurisdiction of court
+was a strong factor in granting the accused bail.
+However, the intention of the makers of the law was that the fixed place of abode is a
+place owned by the accused, they reside there and, when needed they can be traced
+there. The issue is, the law simply says fixed place of abode. It also means place of
+rent. So long as the Local Council 1 letter proves you live there. An accused has no
+attachment to a place where they only live and pay rent. However long they have stayed
+there, they can relocate anytime. Thus, the law should be changed to mean place
+owned by the accused and should be included onto their recognizance so as in case they
+abscond, it’s taken over by the court.
+
+
+
+81 (HCT-00-ICT-CM-0021-2019) [2020] UGHCICD 1 (8 January 2020)
+82 [1992-1993] HCB 52
+
+40 | P a g e
+
+A suitable surety in the jurisdiction of Court determining the bail application
+The need for sound sureties is also an important condition court shall follow when
+determining whether an accused is likely to abscond trial. A surety is that person who
+takes on the legal responsibility of ensuring that the accused appears in court at the
+appointed time. This is a person who guarantees to court that upon the grant of bail to
+an accused, the accused will return to court every time he or she is required to attend
+his or her trial. In Mugera John v Uganda83, court stated that a surety should possess
+a certain amount of authority or influence over the bail applicant. In Kawanguzi
+Nsereko David V Uganda84, court was of the view that the role of a surety goes beyond
+the ability to forfeit the bond, bail is not designed as an income generating avenue for
+courts to which bail applications are made. What is pertinent about sureties is that
+there must be indication that they have been advised of their roles as sureties, they
+identified themselves properly and have shown and proved their authoritative
+relationships in respect to the applicants showing that they are able to exercise their
+authority and command appearance of the applicant in the court when needed. Justice
+Stephen Mubiru in Abindi & Anor v Uganda85 stated that, “An applicant should not be
+incarcerated if he, has sound sureties capable of guaranteeing that he will comply with
+the conditions of his or her bail and is willing to abide by all other conditions set by the
+court.” In the case of R v Kifampa86,the High Court of Uganda held that the accused’s
+failure to provide sureties was sufficient grounds for denying bail.
+
+83 Criminal Misc Application (ICD) No. 0021/2025
+84 Misc Appln No. 426 of 2023
+85 (Miscellaneous Criminal Application No.20 of 2016) [2017] UGHCCRD 49(4pril 2017)
+86 [1964] EA 432
+
+41 | P a g e
+
+The provision for a suitable surety in a bail application in the High Court of Uganda
+ensures that the applicant will not abscond from trial which is the main factor in the
+grant of bail. However, the High Court at times sets very stringent conditions for
+sureties due to the discretion they possess in determining bail applications. Even when
+the surety meets the provided legal conditions as stated, court can refuse them on
+grounds of suitability or gravity of the offence. This can be seen in the case of
+Tumusiime David v Uganda87, where Hon. Justice Ssekaana held that he was
+uncomfortable with cousins even if they had fixed places of abode. That sureties must
+be credible, independent and financially stable. Their role is not merely ceremonial but
+requires a proven ability to supervise the accused effectively, ensure adherence to bail
+conditions and bear financial liability if the accused absconds.
+Pending Charges against the accused
+In case the accused is facing pending charges in different cases, the court will take into
+account the weight of the charges when deciding on a bail application. Thus, although
+sections 15(1)(a) and section 15(3) of the TIA necessitate the accused to prove the
+exceptional circumstances in order to be granted bail, the existence of pending court
+charges influences the courts position of granting the accused bail. If the applicant is a
+habitual criminal with previous convictions, this would suggest that the applicant is
+likely to commit more offence when released and therefore bail maybe refused for this
+reason. In Hon. Allan Ssewanyana Aloysius and Hon. Ssegirinya Muhammad v
+
+87 Criminal Application No.29 of 2019

@@ -1,0 +1,68 @@
+# NLP Pipeline Configuration
+
+# Paths
+paths:
+  raw_pdfs: "Collected_Data"
+  metadata: "data/metadata.csv"
+  extracted_text: "artifacts/extracted_text"
+  cleaned_text: "artifacts/cleaned_text"
+  chunks: "artifacts/chunks"
+  embeddings: "artifacts/embeddings"
+  indexes: "artifacts/indexes"
+  reports: "artifacts/reports"
+
+# Extraction settings
+extraction:
+  min_word_count: 50  # Threshold for suspected scanned PDFs
+  primary_extractor: "pymupdf"  # pymupdf or pdfplumber
+  fallback_extractor: "pdfplumber"
+
+# Cleaning settings
+cleaning:
+  remove_references: true
+  remove_bibliography: true
+  abstract_detection: true
+  normalize_unicode: true
+  remove_hyphenation: true
+  remove_page_numbers: true
+
+# Chunking settings
+chunking:
+  target_words: 350
+  min_words: 250
+  max_words: 450
+  overlap_words: 60
+  paragraph_aware: true
+  sentence_aware: true
+
+# Embedding settings
+embeddings:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32
+  normalize: true
+  device: "cpu"  # cpu or cuda
+  max_tokens: 512  # Maximum tokens per chunk (model limit)
+  generate_abstract_embeddings: true  # Generate separate embeddings for abstracts
+  generate_document_embeddings: true  # Generate document-level embeddings (mean of chunks)
+
+# Duplicate detection
+duplicates:
+  exact_hash: true
+  enable_near_duplicate: true  # Enable/disable near-duplicate detection (can be expensive)
+  near_duplicate_threshold: 0.95  # Cosine similarity threshold
+  use_tfidf: true
+
+# FAISS settings
+faiss:
+  index_type: "IndexFlatIP"  # Inner product (for normalized vectors = cosine)
+  metric: "cosine"
+
+# Logging
+logging:
+  level: "INFO"
+  log_file: "artifacts/logs/pipeline.log"
+
+# Reproducibility settings
+reproducibility:
+  random_seed: 42  # Random seed for reproducibility
+  fix_all_seeds: true  # Fix random seeds for numpy, random, torch, etc.

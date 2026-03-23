@@ -1,0 +1,197 @@
+This paper investigated the potential of the bio-enzyme and pineapple leaf fiber
+combination as stabilizers for the clay bricks to decrease the carbon emission firewood
+the usual material used in the firing process. We present a study covering the
+effectiveness of the hybrid bio-enzyme (Terrazyme) mixtures with Pineapple Leaf Fiber
+(PALF) in clay bricks as a detailed description. The results of the field tests performed
+in Siron clay bricks provided evidence that the use of the new material not only
+decreases the environmental impact but also improves the strength and water
+absorption of the brick itself. Which in turn contributes to the construction of the ecofriendly and sustainable building brick.
+
+ii
+
+DECLARATION
+I, Ocholla Collin Mike, declare that this research report titled "Assessing the Use of A
+Bio-Enzyme and Pineapple Leaf Fiber as a Stabilizer of Clay Bricks" is my original work
+and has not been submitted for any other degree or qualification. All sources and
+references have been appropriately acknowledged.
+
+SIGNED.................................................
+
+Date: .......................................................
+
+OCHOLLA COLLIN MIKE
+S21B32/128
+
+iii
+
+APPROVAL
+I hereby certify that OCHOALLA COLLIN MIKE, registration number S21B32/128,
+successfully undertook her research project at Uganda Christian University during the
+period of September 2024 to April 2025. Therefore, the work that he was able to
+complete under my supervision is accurately recorded in this report and is ready for
+submission for assessment purposes to the department of engineering and environment
+at Uganda Christian University.
+Signed: ...................................................
+
+Date: ....................................................
+Eng. Dr. MORRIS OLENG
+(Academic Supervisor)
+
+iv
+
+DEDICATION
+This work is dedicated to my family for their unwavering support and encouragement
+throughout my academic journey. It is also dedicated to my Project supervisor, Eng. Dr.
+Morris Oleng for uniquely inspiring me. I dedicate this research to the countless
+individuals and communities affected by environmental degradation, with the hope
+that this research contributes to sustainable practices in construction.
+
+v
+
+ACKNOWLEDGEMENTS
+I would like to express my deepest gratitude to my supervisor, Eng. Dr. Morris Oleng,
+for his invaluable guidance and support throughout this research project. I also thank
+my colleagues at Uganda Christian University for their collaboration and
+encouragement. Special thanks to the local communities in Siron for their participation
+in this study and to the Ministry of Water and Environment for their insights into
+traditional brick production practices. Finally, I acknowledge the funding and resources
+provided by my parents that made this research possible.
+
+vi
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+DEDICATION ........................................................................................ iv
+ACKNOWLEDGEMENTS ............................................................................. v
+LIST OF ACRONYMS AND ABBREVIATIONS ....................................................... ix
+CHAPTER ONE..................................................................................... 10
+1.1
+INTRODUCTION ....................................................................... 10
+1.2
+BACKGROUND ......................................................................... 11
+1.3
+PROBLEM STATEMENT ............................................................... 13
+1.4
+MAIN OBJECTIVE OF THE STUDY .................................................. 14
+1.5
+SPECIFIC OBJECTIVES ................................................................ 14
+1.6
+RESEARCH QUESTIONS ............................................................... 14
+1.7
+JUSTIFICATION ........................................................................ 14
+1.8
+SCOPE .................................................................................. 15
+CHAPTER TWO: LITERATURE REVIEW .......................................................... 16
+2.1
+CLAY SOILS ............................................................................. 16
+2.2
+PROPERTIES OF SMECITE ............................................................. 16
+2.3
+CLAY BRICKS ............................................................................ 17
+2.4
+STABILIZATION ......................................................................... 17
+2.4.1
+Chemical Stabilization .......................................................... 17
+2.4.2
+Mechanical Stabilization ........................................................ 18
+
+vii
+
+2.5
+BIO-ENZYMES........................................................................... 18
+2.6
+Terrazyme as one of the bio enzymes for stabilization.......................... 18
+2.6.1
+Mechanism of bio-enzyme stabilization ...................................... 20
+2.6.2
+Promote cation exchange ...................................................... 21
+2.6.3
+Reduce plasticity ................................................................ 21
+2.7
+Natural fibers (Pineapple Leaf Fiber) .............................................. 21
+CHAPTER THREE: METHODOLOGY ............................................................. 22
+3.1
+To determine the soil properties of the clay bric ................................ 22
+3.1.1
+Particle Size Distribution ....................................................... 22
+3.1.2
+Atterberg Limits Test (Plastic Limit, Liquid Limit, and Plasticity Index) 23
+3.1.3
+The X-ray Fluorescence (XRF) ................................................. 26
+3.1.4
+Free Swell Index (FSI) Test ..................................................... 27
+3.1.5
+Compressive Strength Test BS EN 772-1:2011 ............................... 27
+3.1.6
+Water Absorption Test BS EN 772-11:2011 ................................... 29
+3.2
+Determining Physical Properties of Pineapple Leaf Fiber ....................... 30
+3.2.1
+Tensile Strength Test (ASTM D2256). .......................................... 31
+3.2.2
+Fiber Diameter Measurement. ................................................. 32
+3.3
+To evaluate the engineering properties of stabilized clay bricks and identify
+the optimal ratio for the mix. ............................................................... 32
+3.3.1
+Bio-Enzyme ratios ............................................................... 32
+3.3.2
+Pineapple Leaf Fiber (PALF) Proportions ..................................... 33
+3.3.3
+1. Compressive Strength Standard Test. ..................................... 34
+3.3.4
+2. Water Absorption Test Standard. ........................................... 34
+CHAPTER FOUR: RESULTS AND DISCUSSION ................................................... 35
+
+viii
+
+4.1
+Objective one: Determining the soil properties of the clay brick. ............ 35
+4.1.1
+Particle Size Distribution ....................................................... 35
+4.1.2
+Atterberg Limits test on the clay soil sample ............................... 36
+4.1.3
+XRF test of the clay soil ........................................................ 40
+4.1.4
+Free Swell Index (FSI) Test (BS 1377-2:1990) ................................ 44
+4.1.5
+The compressive strength test................................................. 45
+4.1.6
+Water Absorption Test ........................................................... 47
+4.2
+Objective two: To determine the physical properties of pineapple leaf
+fibers. 50
+4.3
+Objective Three: Evaluating the engineering properties of stabilized clay
+bricks and identify the optimal ratio for the mix. ....................................... 54
+4.3.1
+4.3.1 Water Absorption Test .................................................... 60
+4.4
+DESIGN OF STABLIZED BRICK ......................................................... 65
+4.4.1
+DESIGN OF CLAY BRICK AND WOODEN MOULD ............................... 67
+CONCLUSIONS AND RECOMMENDATIONS ....................................................... 68
+5.1
+Conclusions ............................................................................ 68
+5.2
+Recommendations ..................................................................... 69
+REFERENCES ...................................................................................... 70
+APPENDIX .......................................................................................... 75
+
+ix
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+•
+CBR: California Bearing Ratio
+•
+CSH: Calcium Silicate Hydrate
+•
+PALF: Pineapple Leaf Fiber
+•
+UCU: Uganda Christian University
+
+CHAPTER ONE
+1.1

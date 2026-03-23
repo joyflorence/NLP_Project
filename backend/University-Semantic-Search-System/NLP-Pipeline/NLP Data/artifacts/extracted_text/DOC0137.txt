@@ -1,0 +1,1969 @@
+i 
+ 
+THE EFFECT OF ELECTRONIC HUMAN RESOURCE MANAGEMENT PRACTICES 
+ON ORGANIZATIONAL PERFORMANCE: A CASE STUDY OF UGANDA CLAYS 
+LIMITED 
+ 
+ 
+ 
+ 
+BY 
+OCILO JOSHUA 
+S19B42/601 
+ 
+ 
+ 
+ 
+A RESEARCH REPORT SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL 
+FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR’S 
+DEGREE IN HUMAN RESOURCE MANAGEMENT OF UGANDA CHRISTIAN 
+UNIVERSITY- MUKONO 
+ 
+ 
+ 
+ 
+JULY, 2023 
+
+ii 
+ 
+DECLARATION 
+I Ocilo Joshua hereby declare that this Research was done out of my own effort with the 
+guidance of my supervisor and has never been submitted to any other institution for any award. 
+ 
+Signature:………………………………………..       Date:………………………………………. 
+OCILO JOSHUA 
+S19B42/601 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+APPROVAL 
+This Research has been supervised and approved by me and is therefore ready for submission to 
+the School of Business. 
+ 
+Signature:………………………………………..       Date:……………………………………… 
+MR. KIBUUKA DAVID 
+(Academic Supervisor) 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+DEDICATION 
+I dedicate this research to my parents who advised, supported and mentored me throughout my 
+education up to university level. Above all, I thank the Almighty God for guidance and provision 
+towards completion of this. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+ACKNOWLEDGEMENT 
+I am greatly indebted to Mr. Kibuuka David who was my supervisor for his effective 
+supervision, dedication, availability and professional advice. 
+I would also like to acknowledge my dear parents for always being there for me in all situations. 
+I would like extend my gratitude to the entire staff of Uganda Clays Limited for giving me 
+relevant information that made the study successful. 
+Lastly, I thank the Almighty God through Jesus Christ who has given me good health and 
+strength to carry out the research right away from the beginning to the end and successfully. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+Table of Contents 
+DECLARATION ...................................................................................................................... ii 
+APPROVAL ............................................................................................................................ iii 
+DEDICATION ........................................................................................................................ iv 
+ACKNOWLEDGEMENT ........................................................................................................v 
+LIST OF TABLES .................................................................................................................. ix 
+ABSTRACT............................................................................................................................. xi 
+CHAPTER ONE .......................................................................................................................1 
+INTRODUCTION .....................................................................................................................1 
+1.0 Introduction .......................................................................................................................1 
+1.1 Background to the Study ....................................................................................................1 
+1.2 Statement of the Problem ...................................................................................................3 
+1.3 General objective ...............................................................................................................4 
+1.4 Specific objectives of the study ..........................................................................................4 
+1.5 Research Question .............................................................................................................4 
+1.6 Scope of the study ..............................................................................................................4 
+1.6.1 Geographical scope .....................................................................................................4 
+1.6.2 Time scope ..................................................................................................................5 
+1.6.3 Content scope ..............................................................................................................5 
+1.7 Conceptual Framework ......................................................................................................5 
+1.8 Significance of the study ....................................................................................................6 
+CHAPTER TWO ......................................................................................................................6 
+LITERATURE REVIEW .........................................................................................................6 
+2.0 Introduction .......................................................................................................................6 
+2.1 Concept of electronic human resource management practices ............................................7 
+
+vii 
+ 
+2.2 Concept organizational performance ..................................................................................8 
+2.3 The existing electronic human resource management practices in organizations .................9 
+2.4 Challenges faced by companies in implementing E-HRM practices ................................. 11 
+2.5 Relationship between e-HRM practices and organizational performance .......................... 12 
+CHAPTER THREE ................................................................................................................ 15 
+METHODOLOGY .................................................................................................................. 15 
+3.0 Introduction ..................................................................................................................... 15 
+3.1 Research Design .............................................................................................................. 15 
+3.2 Study population .............................................................................................................. 16 
+3.3 Sample size and sample size determination ...................................................................... 16 
+3.4 Sampling methods ........................................................................................................... 17 
+3.5 Sources of data ................................................................................................................ 18 
+3.5.1 Primary data .............................................................................................................. 18 
+3.5.2 Secondary data .......................................................................................................... 18 
+3.6 Data collection instruments .............................................................................................. 18 
+3.6.1 Questionnaires ........................................................................................................... 18 
+3.6.2 Interview guide ......................................................................................................... 19 
+3.7 Data quality control ......................................................................................................... 19 
+3.7.1 Validity ..................................................................................................................... 19 
+3.7.2 Reliability ................................................................................................................. 20 
+3.8 Procedure of data collection ............................................................................................. 20 
+3.9 Data analysis.................................................................................................................... 20 
+3.9.1 Quantitative data analysis .......................................................................................... 20 
+3.9.2 Analysis of qualitative data........................................................................................ 21 
+3.10 Ethical considerations .................................................................................................... 21 
+
+viii 
+ 
+3.11 Limitations and delimitations of the study ...................................................................... 21 
+CHAPTER FOUR ................................................................................................................... 22 
+DATA PRESENTATION, INTERPRETATION AND DISCUSSION................................. 22 
+4.0 Introduction ..................................................................................................................... 22 
+4.1 Response rate ................................................................................................................... 22 
+4.2 Demographic characteristics of respondents ..................................................................... 23 
+4.2.1 Findings on gender distribution ................................................................................. 23 
+4.2.2 Findings on the age of the respondents ...................................................................... 24 
+4.2.3 Finding on the education level of the respondents ...................................................... 24 
+4.2.4 Department respondents belong to ............................................................................. 25 
+4.2.5 Period spent working in Uganda Clays Limited ......................................................... 26 
+4.3 The existing electronic human resource management practices in UCL ............................ 26 
+4.4 Challenges faced by UCL in implementing E-HRM practices for better organizational 
+performance .......................................................................................................................... 29 
+4.5 Solutions to challenges faced by UCL in implementing E-HRM practices for better 
+organizational performance.................................................................................................... 31 
+4.6 How the existing electronic recruitment and electronic selection improves on the organizational 
+performance at Uganda clays limited ……………………………………………………………………………………………44 
+4.7 In which way has electronic performance management led to the improvement of organizational 
+performance at Uganda clays limited ………………………………………………………………………………………………..46 
+4.8 
+How 
+electronic 
+training 
+and 
+development 
+has 
+led 
+to 
+improved 
+organizational 
+performance……………………………………………………..48 
+ 
+CHAPTER FIVE..................................................................................................................... 50 
+SUMMARY, CONCLUSION AND RECOMMENDATIONS ............................................. 50 
+5.0 Introduction ..................................................................................................................... 50 
+
+ix 
+ 
+5.1 Summary of findings ....................................................................................................... 51 
+5.2 Conclusion ....................................................................................................................... 52 
+5.3 Recommendations............................................................................................................ 53 
+5.4 Areas for further research................................................................................................. 54 
+REFERENCES ........................................................................................................................ 55 
+APPENDICES ................................................................................. Error! Bookmark not defined. 
+APPENDIX 1: QUESTIONNAIRE ....................................................................................... 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF TABLES 
+Table 1: Showing study population, sample size and sampling methods .................................... 16 
+Table 2: Response rate .............................................................................................................. 22 
+
+x 
+ 
+Table 3: Gender ........................................................................................................................ 23 
+Table 4: Age ............................................................................................................................. 24 
+Table 5: Level of education ....................................................................................................... 24 
+Table 6: Department .................................................................................................................. 25 
+Table 7: Period spent working in Uganda Clays Limited ........................................................... 26 
+Table 8: The existing electronic human resource management practices in UCL ....................... 26 
+Table 9: Challenges faced by UCL in implementing E-HRM practices ...................................... 29 
+Table 10: Solutions to challenges faced by UCL in implementing E-HRM practices ................. 31 
+Table 11: How the existing electronic recruitment and electronic selection improves on the 
+organizational performance at Uganda clays limited………44 
+4.7 In which way has electronic performance management led to the improvement of 
+organizational performance at Uganda clays limited ……..46 
+4.8 How electronic training and development has led to improved organizational 
+performance….48 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+ABSTRACT 
+The study examined the effect of electronic human resource management practices on 
+organizational performance. The study was guided by objectives which included; identifying the 
+existing e-HRM practices in Uganda Clays Limited, establishing challenges faced by Uganda 
+Clays Limited in implementing e-HRM practices for better organizational performance and 
+finding out solutions to challenges faced by Uganda Clays Limited in implementing e-HRM 
+practices for better organizational performance. 
+The study was carried out using a cross sectional survey research design where both quantitative 
+and qualitative research approaches were used. The data was collected using questionnaires and 
+during the data collection, both purposive and simple random sampling methods were used. 
+Sample sizes of 50 respondents who are staff of Uganda Clays Ltd were also involved. 
+According to the findings, Uganda Clays Limited employs numerous electronic human resource 
+management strategies, such as electronic recruitment and selection in which UCL uses 
+technology for job postings, online applications, and digital screening of candidates. Electronic 
+Training and Development involves the use of digital platforms for employee training, skill 
+development, and learning management systems, Electronic welfare  where there is adoption of 
+technology to manage employee benefits, wellness programs, and welfare initiatives. Electronic 
+employee management systems involves electronic systems are utilized to handle personnel 
+records, performance appraisals, and HR-related information. Electronic assessment involves 
+using digital tools to evaluate and assess employee performance.  Electronic Idea and Creativity 
+Exchange system is adopting digital platforms to facilitate idea-sharing and creative 
+collaboration among employees. 
+ Finally, There are several challenges faced by UCL in implementing E-HRM practices for 
+example; high costs required needed in the initial implementation of E-HRM practices, limited 
+knowledge and skills by the employees in the use of the E-HRM practices, security concerns, 
+organizational internal resistance, slow internet connectivity and inadequate infrastructure to 
+support implementation of E-HRM practices. 
+
+xii 
+ 
+Finally, the study recommends that to fully implement e-HRM in the company, strategies should 
+be developed to ensure the cross cultural training of the personnel in the HR Department so that 
+so that they understand other cultural background and people and avoid conflict of interests. The 
+study also recommends that changes like implementation of e-HRM practices in the workplace 
+often require the implementation of additional training for workers. HR must first determine 
+what training is necessary and then implement training measures to ensure all workers can keep 
+up 
+with 
+technical 
+changes.
+
+1 
+ 
+  
+ 
+ 
+ 
+ 
+CHAPTER ONE 
+INTRODUCTION 
+1.0 Introduction 
+This study aimed at examining the effects of electronic human resource management practices 
+on organizational performance: a case study of Uganda Clays Limited. In brief, it has 
+background of the study, statement of the problem, research objectives and hypothesis, scope of 
+the study, justification, significance of the study and conceptual framework. 
+1.1 Background to the Study 
+Business markets, are becoming smaller day by day because of increasing globalization and 
+market competition, this has called for organizations to increase their performance in offering the 
+customer based services. For this reason, organizations are adopting Electronic human resource 
+based systems called the “Electronic Human Resource Management (E-HRM)” (Coronas, 2005). 
+E-HRM involves the adoption and use of web-based technologies with an aim of providing 
+Human Resource Management (HRM) services for employees within the organization (Juana, 
+2012). 
+In the advent of the Information Technology (IT) revolution, many organizational departments 
+have gone through functionality changes to increase their efficiency and performance. Many 
+organizations have integrated IT in their systems to improve organizational performance. The IT 
+revolution is also coming at a time when the business markets have shrunk, and many 
+organizations are seeking solace in the foreign markets, thanks to globalization. Ma and Ye 
+
+2 
+ 
+(2015) emphasized that human resource management, which is a critical pillar in an 
+organization’s structure, has adjusted to the world’s business trend and adopted the use of 
+information technology to improve its performance and efficiency. Although there are almost 
+endless possibilities of integrating digital technology into the human resource management 
+system, the conventional way through which organizations integrated technology into their 
+human resource system is through the use of web-based technologies collectively known as 
+Electronic Human Resource Management (EHRM) (Noe, Hollenbeck, Gerhart & Wright, 2017). 
+Organizational performance can be seen as the firms’ ability to meet their expectations and 
+desired long term and short-term goals by registering consistent profits (for profit-making 
+companies) and solving their inherent business uncertainties satisfactorily (Roman et al., 2012).  
+On the other hand, the performance of a firm can be defined as an ability to form, maintain and 
+increase their capacity to meet the desired long term and short term goals of a form, with respect 
+to three groups of sequential strategies: environmentally related strategy, customer focus 
+strategies and competitor reaction strategy (Fraj, Matute & Melero, 2015). Performance and 
+firm’s competitiveness is a crucial factor for the survival of any organizations. Organizations 
+must set their priorities right, setting aside options of varying importance to the market demands. 
+Managers must also establish factors that ensured success in the previous years and those that 
+support the business now to develop elements that will influence the success of their respective 
+firms in the future (Roman et al., 2012). 
+E-HRM practices involve the integration of various web-based technologies and internet based 
+protocols to automate human resource management systems. When introducing the e-HRM into 
+the organizational systems, the management hopes to reduce cost and increase productivity and 
+client’s services. Studies (Bondarouk & Ruel, 2013; Marler & Fisher, 2013; Stone et al., 2015) 
+have showed that integration of digital technology into human resource (HR) systems has several 
+benefits, including but not limited to improved quality of HR processes, enhanced operational 
+efficiency, reduced cost of operation, and transformation of human resource department into an 
+organization’s strategic partner. As a result, many organizations have resorted to using e-HRM 
+not only to gain a competitive advantage over their competitors and increase organizational 
+efficiency but also to improving organizational performance (Bissola & Imperatori, 2014). 
+Today, e-HRM practices are widely used across the world. Most organizations, mainly the 
+
+3 
+ 
+multinational corporations, have adopted the digital human resource management system 
+intending to attain a certain level of efficiency and effectiveness. According to Bondarouk, Parry 
+and Furthermore (2017), most companies in Europe and the United States have either or partially 
+adopted the e-HRM, depending on their side and line of business. 
+In Uganda, many organizations have adopted the e-HRM practices in the last four decades. The 
+increased internet usage also fuels the adoption of the e-HRM by Uganda’s organizations in the 
+country during the last five years. A report released by the International Data Corporation (IDC), 
+Uganda was ranked Africa’s among the highest internet consumers and in the e-commerce index 
+(Business Daily, 2019). However, as explained by Aruwa, (2016), only large organizations and 
+multinational corporations such Uganda Clays Limited, Century Bottling Company, and Uganda 
+Revenue Authority have fully adopted the e-HRM practices in their organizations. It is for this 
+reason that the researcher selected Uganda Clays Limited as the case study. 
+1.2 Statement of the Problem 
+In the wake of globalization and IT revolution, competition has become even stiffer, both for-
+profit and nonprofit organizations. The domestic markets have become depleted, and most 
+organizations are seeking new markets in the emerging economies. Thus, the need to have an 
+efficient and effective HRM is crucial for non-governmental institutions. As much as e-HRM 
+practices have led to quality HR service, it has lowered the interpersonal relationship between 
+managers and their subordinates which is dissatisfying and hinders performance (Stone et al, 
+2015). Furthermore, while e-HRM systems indeed offer wide-ranging and unprecedented 
+benefits to organizations, they also entail huge costs and risks (Bell et al., 2006; Weekes, 2006; 
+Pant, Chatterjee, & Jaroliya, 2008). Such costs emanate not only from the costs of the system but 
+also from those associated with changing the organizational processes, employee training, and 
+the time of the HR and the top management in implementing, adopting and promoting these 
+systems. If such discrepancies are not dealt with, they are likely to have a great impact on the 
+performance of an organization like Uganda Clays Limited in terms of productivity and 
+profitability. It is therefore against this background that the researcher sought to examine the 
+effects of electronic human resource management practices on organizational performance: a 
+case study of Uganda Clays Limited. 
+
+4 
+ 
+1.3 General objective 
+The general objective of the study was to examine the effects of electronic human resource 
+management practices on organizational performance: a case study of Uganda Clays Limited. 
+1.4 Specific objectives of the study 
+i. 
+To find out the existing electronic human resource management practices in Uganda 
+Clays Limited. 
+ii. 
+To find out challenges faced by Uganda Clays Limited in implementing electronic human 
+resource management practices for better organizational performance. 
+iii. 
+To suggest the solutions to challenges faced by Uganda Clays Limited in implementing 
+electronic human resource management practices for better organizational performance. 
+1.5 Research Question 
+i. 
+What are the existing electronic human resource management practices in Uganda Clays 
+Limited? 
+ii. 
+What are the challenges faced by Uganda Clays Limited in implementing electronic 
+human resource management practices for better organizational performance? 
+iii. 
+What are the solutions to challenges faced by Uganda Clays Limited in implementing 
+electronic human resource management practices for better organizational performance? 
+1.6 Scope of the study 
+The study covered the geographical and time scope. Here focus was made on the area to be 
+studied, time lag from where resources were gotten and the different sources of information. 
+1.6.1 Geographical scope 
+This study was carried out in Uganda Clays Limited main branch located along Entebbe Road, 
+Kajjansi, and P.O. Box 3188, Wakiso district, Uganda. Uganda Clays Limited was chosen 
+because it’s one of the companies in Uganda that has tried to adopt the use of electronic human 
+resource management practices in its operations. 
+
+5 
+ 
+1.6.2 Time scope 
+The study focused on a period of five years from 2017 to 2021. This time helped in studying the 
+level of organizational performance in Uganda Clays Limited visa vie e-human resource 
+management practices. This research also took a period of three months that is from July to 
+September 2022 since it’s the time stipulated by the institution for the researcher to have 
+completed her study. 
+ 
+1.6.3 Content scope 
+This study aimed at examining the effects of electronic human resource management practices 
+on organizational performance: a case study of Uganda Clays Limited. It specifically focused on; 
+identifying the existing electronic human resource management practices in Uganda Clays 
+Limited, establishing challenges faced by Uganda Clays Limited in implementing electronic 
+human resource management practices for better organizational performance and finding out 
+solutions to challenges faced by Uganda Clays Limited in implementing electronic human 
+resource management practices for better organizational performance. 
+1.7 Conceptual Framework  
+Figure 1: Conceptual Framework 
+           Independent variable                                                             Dependent variable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Adapted from the Obama et al. (2020) and modified by the researcher (2022) 
+Organizational Performance 
+Productivity levels 
+Flexibility levels 
+Workforce agility 
+Effectiveness 
+Service delivery 
+E-Human Resource 
+Management Practices 
+E-Recruitment & Selection 
+E-Training & Development 
+E-Compensation 
+E-Performance management 
+
+6 
+ 
+1.8 Significance of the study 
+The findings and recommendations of this study will be useful to the management of Uganda 
+Clays Limited and other companies as it will provide them with information on the benefits of 
+adopting the use of electronic human resource management practices and strategies of ensuring 
+that these e-HRM practices are effective to the organizations. 
+The study will be of benefit to the policy makers like the parliament as it will provide them with 
+reliable data on the strategies that need to be employed to ensure that the right electronic human 
+resource practices are employed so as to achieve better organizational performance. 
+This study is of interest to academicians and future researchers who will be undertaking other 
+researches related to this. This is because it will add on the existing literature that will help other 
+interested researchers to formulate related research questions on related issues of electronic 
+human resource practices and organizational performance. 
+ 
+ 
+ 
+ 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 Introduction 
+This chapter presents the literature reviewed on the basis of the study objectives. The literature 
+was selected, studied and arranged according to the themes relating to e-HRM practices and 
+organizational performance. The chapter presentation is under three sections; review of various 
+theories and concepts, highlighting the objectives of the study and synthesis of literature and 
+
+7 
+ 
+research gap analysis. Literature sources include books and journals aimed at providing insight in 
+what has already been done within this area of study and also as a guide in answering the 
+research questions. 
+2.1 Concept of electronic human resource management practices 
+Definitions have been suggested to explain the E-HRM which was used interchangeably with 
+human resource information system (HRIS), virtual human resource or web-based human 
+resource management, researchers tried to explain the relationship between human resource 
+management and web-based technologies, (Bondarouk & Ruël, 2009). In the early 1990s, the 
+term of E-HRM has been officially used referring to conducting human resource management 
+using the internet, (Lengnick-Hall & Moritz, 2003). 
+The term of E-HRM was initially inspired from the e-commerce and adopted the “e-” prefix, 
+signifying “electronic”, even if the e-human resource is very specific to the use of the internet. 
+So Vakola, Panayotopoulou and Galank (2007) recommend and suggested a new term “Online 
+Human Resource Management” as a more accurate term. There is a difference between human 
+resource information system (HRIS) and electronic human resource management (E-HRM), 
+users face the problem of not being able to differentiate between HIRS and E-HRM. E-HRM has 
+variety of definitions according to specific perspectives that each researcher wants to focus on, 
+but there is little agreement on definitions of E-HRM (Strohmeier 2007, Bondarouk & Ruël 
+2009). 
+Some prefer the transactional functionality that simply refers to what the system does. Kettley 
+and Reilly, (2003) defined E-HRM as the using of the internet in the conventional technologies 
+to enhance and improve human resource administration, transactions and process performance. 
+Voermans and Van Veldhoven, (2007) share a similar purpose when stating that the 
+administrative support of the human resource function in organizations by using web technology 
+and emphasize the importance of understanding that the introduction of E-HRM could cause a 
+change in content and positioning of the human resource function. 
+Strohmeier (2007) see that E-HRM as the “planning, implementation and application of 
+information technology for both networking and supporting at least two individual or collective 
+
+8 
+ 
+actors in their shared performing of HR activities”. There is an agreement among definitions, as 
+Foster (2009) views E-HRM as a “fully integrated, organization-wide electronic network of HR 
+related data, information, services, databases, tools, applications, and transactions”. 
+Finally, Bondarouk and Ruël, (2009) recapitulate the meaning of E-HRM as “an umbrella term 
+covering all possible integration mechanisms and contents between HRM and information 
+technologies, aiming at creating value within and across organizations for targeted employees 
+and management”. E-HRM practices and policies are strongly growing within organizational 
+life. Therefore, this definition will be used in this thesis because it includes all previous 
+definitions; it also achieves the requirements of the thesis, as this definition shows the 
+importance of the use of electronic human contained in the organization system and targeted 
+employees and managers. 
+2.2 Concept organizational performance 
+Haworth, (2007) defined organizational performance as the result of several business factors, 
+including work processes, team/group communication and interaction, leadership, and climate 
+that promotes innovation, creativity, corporate culture and image, policies, and loyalty. 
+Organizational performance can be seen as the firms’ ability to meet their expectations and 
+desired long term and short-term goals by registering consistent profits (for profit-making 
+companies) and solving their inherent business uncertainties satisfactorily (Roman et al., 2012).  
+On the other hand, the performance of a firm can be defined as an ability to form, maintain and 
+increase their capacity to meet the desired long term and short term goals of a form, with respect 
+to three groups of sequential strategies: environmentally related strategy, customer focus 
+strategies and competitor reaction strategy (Fraj, Matute & Melero, 2015). 
+Steve Bonadio, (2010) stated that automation and improving performance processes and aligns 
+employee's development and the common goals with corporate objectives. Performance 
+Management enables organizations to plan employee efforts in support of organizational goals 
+and strategic initiatives and to evaluate outcomes, performance, and core competencies. Cardy 
+and Miller (2005) said that the level of performance made possible by technological 
+advancement has changed the standard for acceptable performance. 
+
+9 
+ 
+Kanji and Sá, (2002) found “Effective management depends on the effective measurement of 
+performance and results”, U.S. Department of Energy, (2005) defined performance measurement 
+as a method of assessing progress processes toward achieving predetermined goals, including 
+information on the efficiency with that resources are transformed into products and services 
+(outputs), the quality of those outputs (how well they are delivered to clients and the extent to 
+which clients are satisfied), outcomes (the results of a program activity compared to its intended 
+purpose), and the effectiveness of government operations in terms of their specific contributions 
+to program objectives”. 
+2.3 The existing electronic human resource management practices in organizations 
+E-Recruitment: First of all, jobs information is circulated to job applicant through the use of 
+web-based technology. Applicants are allowed to fill the form online and system record applicant 
+information electronically. Recruitment system allows sorting out people based on their skills, 
+ability, CGPA, location, Experience etc. way. Than screen applicant can be called out for a 
+written test or interview. The final step of the online recruitment system concerns greatly with 
+schedules and appointments, which can quickly be confirmed via email, SMS or phone 
+(Choochote & Chochiang, 2015). Internet knowhow has turned into a most important instrument 
+for recruiting and selecting workforces (Cappelli, 2001). Recruiting turned into one of the very 
+fruitful functions of the web due to internet technology advent (Harrington, 2002). 
+E-Learning and Training: Tavangarian, Leypold, Nölting, Röser and Voigt (2004) termed e-
+learning as the kinds of electronically maintained learning and educating instrument. Its goals are 
+to improve knowledge of operators (bosses and workers). The learning and training system will 
+encourage all employees to maximize skills, increase knowledge an improve attitudes 
+(Choochote & Chochiang, 2015). Through the system, an employee can book and get training if 
+available. This system can identify enthusiastic and motivated employee and groom them 
+properly to be an asset for the long terms. 
+E-Idea and Creativity Exchange: The idea and creativity exchange system is developed to 
+stimulate the management of self-responsibility for each employee, where different ideas and 
+viewpoints received from meetings, daily conversations, and social network can be shared 
+
+10 
+ 
+(Choochote & Chochiang, 2015). Here employee can share new idea and information through 
+the web which helps the organization to move forward. 
+E-Assessment: Assessment programs help organizations to assess employee fast and accurately. 
+Basically, there are two types of assessment named self-assessment and organization assessment 
+(Choochote & Chochiang, 2015). Self-assessment motivates employees greatly to achieve their 
+target goal. Organization assessment helps shape employees’ career, salary, and trend which way 
+employee will grow. 
+E-Welfare: Employees are greatly motivated by the welfare system. Typically, the welfare 
+system includes provident funds, travel expense, gratuity, allowance etc. The welfares offered to 
+the employees are designed to suitably meet the targeted organizational goal in accordance with 
+the limitation of individuals in the database (Choochote & Chochiang, 2015). 
+E-Career Development: The career development system is one of the most important one in E-
+HRM systems. As different employees have different skills and abilities, it is required to bring 
+out their most excellent skills and abilities to ensure that each task can be accomplished 
+thoroughly with regard to their educational backgrounds, work-related experiences and special 
+qualifications to be evaluated by their respective managers, as part of the ambitious goal 
+(Choochote & Chochiang, 2015). 
+E-Salary Management: Salary management, of course, concerns mostly with salary, 
+remuneration and overtime payment received from the organization (Choochote & Chochiang, 
+2015). Salary management system covers all aspect of salary including deduction, Tax etc. An 
+employee can get printed copy of a salary slip through the system. 
+E-Compensation: E-compensation may well be termed as an internet-centered software device 
+that assists managers to model, manage, and impart compensation systems more meritoriously 
+(Duhlebohn and Marler, 2005). 
+E-Performance Management: E-performance is expressed as “improving individual performance 
+by leveraging technology” (Karrer and Gardner, 2003). E-HRM gears back performance 
+management; the valuation of employee performance could be maintained with e-HRM gears by 
+computer observed systems. 
+
+11 
+ 
+E-Employee System: The employee system can effectively manage the basic data of employees 
+via the networking system (Choochote & Chochiang, 2015). Employees are given access to edit, 
+delete or add personal information within certain parameters. Furthermore, employees can make 
+leave request through the system and responsible authority can approve it within a short period 
+of time. Furthermore, the employee system can provide service like arrange meeting, conference 
+room booking etc. 
+Basic Organizational Information Management System: Top executives in an organization 
+should have a basic idea about organizational structure, nature of operations, functions, hierarchy 
+etc. A good organizational structure will also reflect in clear vision, mission, and value in order 
+to encourage all employees to achieve a mutual goal (Choochote & Chochiang, 2015). The goal 
+of an information system is to provide a clear picture of the organization. Providing Timely and 
+accurate information to the right person is the job of an Information Management System. 
+2.4 Challenges faced by companies in implementing E-HRM practices 
+Cost: Technology pulls cost. In implementing a technology based HR system, a huge initial 
+investment is required. Once implemented, it reduces the operational costs. Large organizations 
+may install HR portals/packages while it is difficult for a small or medium sized organization to 
+afford them. 
+Acceptance: Before the implementation of technological innovations in the organisation, HR 
+itself is the biggest obstacle. Due to IT implementation various issues like Skills/Knowledge for 
+its use, employment risks etc. always rise in its way. Acceptance from the workforce is needed 
+for utilizing it up to its fullest. In the information era, information and communication 
+technology (ICT) is widespread and has become an integral part of almost all jobs occupied by 
+knowledge workers (Porter, & Kakabadse, 2006). It increases the burden of the employees by 
+spending more time connected. 
+Back-ups and Security Concerns: It requires maintaining a fully-fledged back-up system of the 
+overall e-HR system. It leads the maintenance costs. One of the basic disadvantages of using E-
+HRM is that the data gets free accessible to all and anybody can access the strategic information 
+and use it any way without any authorization. It is prone to corruption/hacking/ data losses 
+
+12 
+ 
+(Kaur, 2012). Open access to the databases destroys the personal information of the workers 
+which may leads to illicit access. 
+Increasing Isolation: Due to the formation of virtual networks through intranet or web-based HR 
+portals, the personal interaction among the employees has diminished. In the traditional systems, 
+they interact with the administration department regarding their employment issues due to which 
+they were also personally connected. But due to IT implementation they need not to go in the 
+administration branch regarding such issues. They are isolated from each other and are connected 
+virtually through such portals only. 
+More informed Employees: Due to easily accessibility and transparency, the employees are well 
+informed about the market pay structures. It increases the accessibility of internal and external 
+compensation information. This knowledge may force the organization to modify its 
+compensation structures from time to time in order to comply with the present structure in other 
+companies. It may sometimes, create problems for the organization. 
+2.5 Relationship between e-HRM practices and organizational performance 
+E-HRM has been widely used in various companies, for the effective functioning of Human 
+Resource Management. It is a collection of knowledge, principles, and approaches for effective 
+human resource management (Mafod et al., 2018). E-HRM is a management practice established 
+with the desired positive outcome. For instance, the application of E-HRM reduces the costs, 
+speeds up the process, improves the quality and eventually gaining the role of HR within an 
+organization. Additionally, E-HRM influences the effectiveness and efficiency of the HR 
+function. Human Resource efficiency can be achieved by reducing paperwork, increasing data 
+accuracy, and diminishing HR staff. A recent study has listed out the benefits of E-HRM system 
+which will ultimately reduce the organizational costs. Employing E-HRM system made it easier 
+to apply the human resource activities within the organization. Human resource management 
+system makes it easier and available to perform human resource activities at a pace (Swaroop, 
+2012). 
+In the last decade, several research studies on e-HRM have been published in all parts of the 
+world. Most of the locally published research studies on e-HRM focused on its impact on 
+
+13 
+ 
+organizational performance and organizational development. In this section, the researcher 
+samples previous research studies on e-HRM that are strictly related to the topic of study. A 
+study by Daviodi and Fartash (2012) focusing on impact of E-HRM on performance of nonprofit 
+organization noted significant impact on organizations. Whereas the organization success in their 
+performance and competitive edge were some of the impacts noted in this study, the study also 
+showed statistically significant relationship between e-HRM and organizational performance in 
+terms of productivity, efficiency and effectiveness. Daviodi and Fartash (2012) indicated that 
+these organizational performances were essential indicators of success of non-profit 
+organizations. 
+Another study conducted by Olivas-Lujan et al. (2007) among Mexican NGOs implementing e-
+HRM aiming at finding out the impact of the E-HRM tools on organizational performance and 
+gaining global competitiveness found that the organizations in this sector were able to be more 
+flexible in responding to changes in the stakeholder needs and were even able to achieve their 
+strategic goals more effectively. 
+A study conducted by Al-Hmouze (2016) on the impact of the Electronic Human Resource 
+Management (e-HRM) application on Organizational Performance, concluded that E-HRM plays 
+a pivotal role in the employee motivation to ensure that all employees complete their tasks as 
+schedules leading to quality delivery of services, which in turn increases customer satisfaction 
+and retention. It also established that E-HRM application has a positive impact on organizational 
+efficiency whereby the responsibility of implementing e-HRM is shared between HR staff, 
+employees and managers. 
+A study conducted by Atallah (2016) on the effect of e-HRM on Organizational Development 
+concluded that E-HRM has a positive impact on organizational growth and that it contributes to 
+the realization of organizational objectives. It also established that there is a strong positive 
+correlation between E-HRM and organizational development and E-Selection and e-recruitment 
+have a direct impact on organizational development. 
+A study conducted by Georgios (2014) on the influence Human Resource Management on 
+performance of a manufacturing industry found that manufacturing companies pursuing best 
+Human Resource Management practices accomplish higher performance through the interface of 
+
+14 
+ 
+these practices with Knowledge Management and organizational learning capability and the 
+conception of OC. 
+A study conducted by Findikli and Bayarçelikb (2015) on the outcomes of Electronic Human 
+Resource Management on organizational performance in the leading firms in Turkey concluded 
+that E-HRM manage time, reduces administration costs and also efficient to access personal data. 
+Electronic Human Resource Management condensed organizational expenses, improved better 
+and quicker communication between manger and employees reduced the considering time for 
+Electronic Human Resource usage in institutions. 
+A study conducted by Naeini (2015) on Electronic Human Resource Management 
+commencement using perception maps to illustrate the relation between Human Resource 
+Management and IT through time in Iran University of Science and Technology established that 
+the influence of the Electronic Human Resource Management field provides a holistic and clear 
+understanding by addressing all the related phenomena concerning Electronic Human Resource 
+Management. It can also help forecast and overcome the difficulties that might happen during 
+institutionalization. 
+A study conducted by Tansley et al, (2014) on the effects of Electronic Human Resource 
+Management on organizational performance concluded that E-HRM is a potential solution and 
+that it enables Human Resource sections to analyze and store data to increase workforce data 
+flows, to devolve many tedious administrative and compliance roles. Another study conducted 
+by Rahman, (2014) on information systems and technology on organizational agility, intelligence 
+and resilience concluded that technology enables an organization to quickly adapt to the 
+changing world and that the ability of organizations to quickly adapt has pushed for profitability 
+and competence. 
+ 
+ 
+ 
+ 
+
+15 
+ 
+ 
+ 
+CHAPTER THREE 
+METHODOLOGY 
+3.0 Introduction 
+This chapter presents the methodology that was used in conducting the research. It described 
+how this study was conducted. It includes the study design, the study setting, study population 
+and the sample size. It also describes the sampling procedure definition of variables, research 
+instruments, data analysis and management and ethical considerations. 
+3.1 Research Design 
+This study used a cross-sectional survey research design where data from respondents were 
+collected at a single point in time without repetition from the representative population. The 
+design was chosen because of being economical to conduct in terms of time (Patrik & Ugo, 
+2019). More so, through the use of the cross-sectional research design, the research findings will 
+help in removing assumptions and replace them with actual data on the specific variables studied 
+during the time period accounted for. 
+The approaches to this study were both quantitative and qualitative approaches. A quantitative 
+approach was selected for this study because it is a formal objective, systemic process in which 
+numerical data are utilized to obtain information. Qualitative research approach was also used. 
+Qualitative research approach was used because it helps in providing details about human 
+behavior, emotions and personality characteristics of the respondents plus in-depth analysis on 
+the effects of electronic human resource management practices on organizational performance in 
+Uganda Clays Limited (Brink, 2008). 
+
+16 
+ 
+3.2 Study population 
+The study was carried out in Uganda Clays Limited main branch located along Entebbe Road, 
+Kajjansi, and P.O. Box 3188, Wakiso district, Uganda. Uganda Clays Limited was chosen 
+because it’s one of the companies in Uganda that has tried to adopt the use of electronic human 
+resource management practices in its operations. According to the HRM of UCL, the company 
+has a population of approximately 120 employees and management from the different 
+departments which include; administration, procurement and logistics, accounts and finance, 
+operations and sales and marketing among others who were considered (Hilda, 2019). This was 
+because they are the people expected to have the necessary information as shown in the table 
+below; 
+Table 1: Showing study population, sample size and sampling methods 
+Departments 
+Population 
+Sample size 
+Administration & Human Resource 
+13 
+08 
+Accounts and Finance 
+12 
+10 
+Procurement and Logistics 
+12 
+15 
+Operations 
+15 
+07 
+Sales & Marketing department 
+18 
+10 
+TOTAL 
+56 
+           50 
+Source: Uganda Clays Limited (2022) 
+3.3 Sample size and sample size determination 
+The sample size was determined by the sample calculation formula by Slovin’s formula as 
+follows; 
+    
+ 
+        
+“n” is sample size, “N” is population, “e” is error (0.05) or level of confidence 95% 
+“N” (population) = 56 staff 
+
+17 
+ 
+    
+  
+            
+    
+  
+             
+    
+  
+        
+      
+    
+n = 50 
+Therefore from the table above, the sample size was 50 respondents got from a total population 
+of 56 management and employees from Uganda Clays Limited. 
+3.4 Sampling methods 
+The researcher used both non random sampling and simple random sampling methods. Non 
+random sampling was used  for data collection where they select the key informants who were 
+the Human Resource Manager and his assistants since they are the ones tasked with the 
+responsibility for the smooth implementation of e-HRM practices in the company. The reason 
+why non random sampling was used for this category of respondents was because of their active 
+role and knowledge about the effects of electronic human resource management practices on 
+organizational performance and therefore they are expected to provide in-depth information 
+about the topic understudy (Hopkins, 2000). 
+The personnel in the other departments were selected using stratified sampling which is a method 
+under probability sampling technique. This was due to their convenience about the topic and area 
+under study hence they are expected to represent each element in the population. This technique 
+helped in reducing on the costs of collecting and analyzing data (Burns & Grove, 2005). 
+
+18 
+ 
+3.5 Sources of data 
+3.5.1 Primary data 
+Primary data from the field was obtained through personal interviews and self-administered 
+questionnaires to selected respondents in order to get their opinions. Primary data helped the 
+researcher in collecting information for the specific purposes of their study. The researcher 
+collected the data himself, using questionnaires. Primary data was used because it helped the 
+researcher to obtain raw data/ firsthand information from the people carrying out e-HRM 
+practices. 
+ 
+3.5.2 Secondary data 
+Secondary data refers to handling, collecting and possibly processing data by people other than 
+the researcher in question. This source was used to collect data from already written literature for 
+example e-books, journals, published articles and periodicals. Documentary resources are 
+classified in order to facilitate the data collection and textual analysis. Secondary data was used 
+to compare the performance of the company for the past eight years that is from 2014-2021. 
+3.6 Data collection instruments 
+Two types of data collection instruments were used in the study. These included questionnaires 
+and interview guides which were briefly explained in the following subsection. 
+3.6.1 Questionnaires 
+The researcher used both closed-ended and open-ended questionnaires in the study. Closed-
+ended questions were used because they are easy and quick to answer and because they help in 
+improved consistence of the responses. Open-ended questions were also used because they do 
+not place any limits on the response which means that the survey respondents were able to tell 
+the researcher anything they felt was relevant and anything they wanted the researcher to know. 
+The questionnaires were administered to the personnel in the other department positions in 
+
+19 
+ 
+Uganda Clays Limited. A Likert scale where; 5 (Strongly Agree), 4 (Agree), 3 (Not Sure), 2 
+(Disagree), 1 (Strongly Disagree) was used on the self-administered questionnaires; 
+3.6.2 Interview guide 
+Interview guides was used to collect qualitative data from the Human Resource Manager and his 
+assistants who were in position to provide in-depth information through probing during the face-
+to-face interview. An interview guide has structured questions (Kothari, 2004). Structured 
+interviews require specific responses to a set of predetermined answers. The research presented 
+questions to the managers and their views were written down by the researcher. Data obtained 
+during the interview supplemented that obtained through the questionnaire. An interview guide 
+was used because it helped in collecting information that could not be directly observed and that 
+was good for the research problem which only depends on documented data and respondents’ 
+opinions. It was also good because it gave the research control over the line of questioning hence 
+time saving. 
+3.7 Data quality control 
+The researcher therefore used validity and reliability to check the quality of the information 
+collected in order to avoid double counting. 
+3.7.1 Validity 
+The researcher measured validity of the data collection instruments by first carrying out a pretest 
+where a sample of 10 questionnaires was given to respondents who are exclusive of the sample 
+size. After that, Content Validity Index (CVI) was calculated in order to establish the validity of 
+the research instrument. Validity was done in order to find out whether the questions are capable 
+of capturing the intended data. The researcher used the following formula to establish validity of 
+the research instruments as seen below. 
+Content validity Index (CVI) = Relevant items by all judges as suitable 
+                                                        Total number of items judged. 
+
+20 
+ 
+The CVI was 0.85 which was greater than the recommended 0.70 (Kent, 2001), implying that the 
+questionnaire was valid for data collection. 
+3.7.2 Reliability 
+To measure reliability, a pilot study was carried out on 10 respondents and the reliability results 
+were computed using the Statistical Package for the Social Sciences (SPSS). The following 
+formula was used to calculate the Cronbach’s coefficient alpha 
+α =  
+k 
+ 1 - ∑SDi2 
+ 
+K-1 
+      ∑SDt2 
+Where  α = coefficient alpha 
+ 
+∑SDi2 = sum variance of items 
+ 
+∑SDt2 = sum variance of scale 
+The coefficient was 0.84 which was above the recommended .70 (Amin, 2005), implying that the 
+questionnaire was suitable for data collection. 
+3.8 Procedure of data collection 
+The researcher obtained an introductory letter from the faculty of business and administration, 
+after which he sought for permission from the different respondents in Uganda Clays Limited to 
+use as a case study. The researcher then approached various respondents to administer interviews 
+and distribute the questionnaire guides. 
+3.9 Data analysis 
+3.9.1 Quantitative data analysis 
+Data analysis was done with the aid of software called Statistical Package of Social Sciences 
+(SPSS Version 20) which is appropriate for handling the correlations between the variables plus 
+regressions in the study. All variables were assigned with names and coded for computer entry. 
+Secondly all the responses were coded to facilitate computer data in-put. Thirdly, after data entry 
+
+21 
+ 
+was completed, negatively worded scales were recorded and assigned with new values. Fourthly, 
+in order to get composite scores for items on a scale, target variables were computed. Fifthly, 
+data was screened in order to minimize data entry errors. Quantitative data was analyzed using 
+descriptive statistics and correlational analysis (e.g. means and standard deviations). 
+3.9.2 Analysis of qualitative data 
+This involved content analysis. Thus, qualitative data was edited and reorganized into 
+meaningful phrases. In other words, a thematic approach was used to analyze qualitative data 
+where themes, categories and patterns were identified. The recurrent themes, which emerged in 
+relation to each guiding question from the interviews, were presented in the results, with selected 
+direct quotations from participants presented as illustrations. 
+ 
+3.10 Ethical considerations 
+The researcher took into consideration a number of ethical issues including: Confidentiality of 
+respondents was kept: Respondents were not required to reveal their names nor their contacts on 
+the questionnaires. Identification numbers were used instead of names to avoid information 
+given being traced to a respondent. All data gathered was used only for the purpose of this study 
+and nothing else. The research procedures were explained to all the respondents before they took 
+part in the research and their informed consent obtained. All the sources of literature were 
+acknowledged throughout the whole study through proper citations and referencing. Finally, 
+personal bias was avoided during the entire study that is to say during interviews, data analysis 
+and reporting. 
+3.11 Limitations and delimitations of the study 
+While carrying out the study, the researcher encountered various constraints:- 
+There was a risk of lack of enough reliable data to this study. This is because some respondents 
+were not conscious of the training concept. However, the researcher limited the scope of the 
+analysis for the information to be meaningful. 
+
+22 
+ 
+Since the study was cross sectional in nature, this limited the researcher in terms of collecting 
+enough data. This is because data was collected in a short period of time hence did not help to 
+determine cause and effect relationship. 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER FOUR 
+DATA ANALYSIS AND DISCUSSION 
+ 
+4.0 Introduction 
+This chapter focuses on analysis of the findings. 
+ The presentation has been made according to specific research objectives. 
+4.1 Response rate 
+Table 2: Response rate 
+Response Rate 
+Sample Size 
+Frequency 
+Percentage (%) 
+Questionnaires returned 
+35 
+70.0% 
+Questionnaires not returned 
+15 
+30.0% 
+Questionnaires issued 
+50 
+100.0% 
+
+23 
+ 
+Source: Primary data 
+According to table 2 above a total of 50 (100%) respondents who are employees of Uganda 
+Clays Limited were expected to respond to the questionnaires and 15 of them did not respond to 
+the questionnaires giving a 30.0% nonresponse rate while 35 responded to the questionnaire 
+which is a 70.0% response rate. According to Ahuja(2009) a response rate of 70%is excellent, 
+60% is good and 50% is adequate analysis. 
+The reason as to why the researcher was unable to collect from some of the respondents is 
+because of the tight schedule some of them meeting deadlines and company goals  
+4.2 Demographic characteristics of respondents 
+The background information of respondents was deemed necessary because the ability of the 
+respondents to give satisfactory information on the study variables greatly depends on their 
+background. The study sought to find out the demographic information of the respondents which 
+included gender, age, highest level of education, department and period spent working in the 
+company. 
+4.2.1 Findings on gender distribution 
+Table 3: Gender 
+ 
+Frequency 
+Percent 
+Cumulative Percent 
+Male 
+20 
+57.1 
+57.1 
+Female 
+15 
+42.8 
+100.0 
+Total 
+35 
+100.0 
+Source: Primary data 
+Findings in the table above show that of the questionnaires were filled by males represented by 
+57.1% and by females represented by 42.8% and therefore, there were more males respondents 
+than female respondents in this survey. This can be attributed to the fact that most of the work 
+done in Uganda Clays Limited is hard labor or manual work that is carried out by mostly men. 
+
+24 
+ 
+4.2.2 Findings on the age of the respondents 
+Table 4: Age 
+ 
+Frequency 
+Percent 
+Cumulative Percent 
+Below 21 years 
+06 
+17.1 
+17.1 
+21-30 years 
+16 
+45.7 
+62.8 
+31-40 years 
+08 
+22.8 
+85.6 
+41+years 
+05 
+14.2 
+100.0 
+Total 
+35 
+100.0 
+Source: Primary data 
+Findings in the table above show that the vast majority of the respondents fell between the age 
+group of 21-30 years represented by 45.7%, followed by the respondents who fell between the 
+age group of 31-40 years represented by 22.8%, followed by those below 21 years who came in 
+at 17.1% and lastly 41+ years came in last represented by 14.2%, . This implies that majority of 
+the employees in UCL are relatively in their youthful years since majority are below 40 years of 
+age. This therefore can be attributed to the fact that Uganda as a country is comprised of majority 
+youth according to the recent released 2014 population census. 
+4.2.3 Finding on the education level of the respondents 
+Table 5: Level of education 
+ 
+Frequency 
+Percent 
+Cumulative Percent 
+Certificate/ Diploma 
+05 
+32.6 
+32.6 
+Bachelor’s degree 
+25 
+51.1 
+83.7 
+Master’s degree 
+05 
+16.3 
+100.0 
+Total 
+35 
+100.0 
+Source: Primary data 
+Findings in the table above revealed that majority of the respondents who are employed by 
+Uganda Clays Limited have attained bachelors degrees represented by 51.1%, followed by those 
+
+25 
+ 
+who have at least attained certificates/ diplomas represented by 32.6%, whereas 16.3% of the 
+respondents hold masters degrees. This implies that Uganda Clays Limited employees qualified 
+employees who can ensure effective use of electronic human resource management practices to 
+achieve organizational performance. 
+ 
+ 
+ 
+ 
+4.2.4 Department respondents belong to 
+Table 6: Department 
+ 
+Frequency 
+Percent 
+Cumulative Percent 
+Administration & Human Resource 
+ 
+16.0 
+46.0 
+Procurement & Logistics 
+ 
+30.0 
+76.0 
+Operations 
+ 
+14.0 
+90.0 
+Accounts & Finance 
+ 
+10.0 
+100.0 
+Sales & Marketing 
+ 
+10.0 
+100.0 
+Total 
+ 
+100.0 
+Source: Primary data 
+Findings in the table above revealed that majority of respondents represented by 30.0% are from 
+the procument and logistics department, followed by those who are from the administration and 
+human resourcedepartment represented by 16.0%, followed by those from the operations 
+department represented by 14.0%, followed by those from the acconts and fiance department 
+represented by 10%, whereas those from sales department also constituted 10% of the total 
+population. This implies that Uganda Clays Limited is able to improve the operational 
+performance of its day to day dealings with the coordination from these different employees in 
+the different departments. 
+
+26 
+ 
+4.2.5 Period spent working in Uganda Clays Limited 
+Table 7: Period spent working in Uganda Clays Limited 
+ 
+Frequency 
+Percent 
+Cumulative Percent 
+1-5 years 
+11 
+31.4 
+31.4 
+6-10 years 
+18 
+51.4 
+82.8 
+Above 10 years 
+06 
+17.5 
+100.0 
+Total 
+35 
+100 
+Source: Primary data 
+Findings from the table above shows  respondents represented by 31.4% have spent between 1-5 
+years working in Uganda Clays Limited, followed by those who have spent 6-10 years working 
+in Uganda Clays Limited represented by 51.4% who the majority while those who have spent 
+above 10 years working with Uganda Clays Limited represented the minority 17.5% of the total 
+population. The findings imply that the respondents have the necessary and efficient knowledge 
+about the topic under study since majority of the respondents have spent reasonable time 
+working with Uganda Clays Limited. 
+ 
+ 
+ 
+4.3 The existing electronic human resource management practices in UCL 
+Table 8 summarizes respondents’ responses on the existing electronic human resource 
+management practices in Uganda Clays Limited by using a Likert scale where SA (Strongly 
+Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree). 
+Table 8: The existing electronic human resource management practices in UCL 
+Statements 
+Extent of agreement and disagreement 
+
+27 
+ 
+SA 
+A 
+NS 
+D 
+SDA 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+The company conducts electronic recruitment and 
+selection of employees where online application is 
+conducted 
+12 
+34.2% 
+13 
+37.1% 
+6 
+17.1% 
+4 
+11.4% 
+00 
+The company conducts electronic training and 
+development of its employees 
+13 
+37.1% 
+12 
+34.2% 
+4 
+11.4% 
+6 
+17.1% 
+00 
+The company conducts electronic welfare where an 
+online system is used to design employees’ welfare 
+suitably 
+16 
+45.7% 
+8 
+22.8% 
+5 
+14.2% 
+6 
+17.1% 
+00 
+The company uses electronic employee management 
+systems to evaluate employees’ performance 
+8 
+22.8% 
+14 
+40.0% 
+7 
+20.0% 
+6 
+17.1% 
+ 
+00 
+The company uses electronic assessment where 
+employees are assessed fast and accurately using online 
+systems 
+7 
+20.0% 
+9 
+25.7% 
+12 
+34.2% 
+7 
+20.0% 
+00 
+The company has developed an electronic idea and 
+creativity exchange system to stimulate management of 
+self-responsibility for each employee 
+6 
+17.1% 
+11 
+31.4% 
+10 
+28.5% 
+8 
+22.8% 
+00 
+The company uses electronic compensation where a 
+software is used to model and manage employee 
+compensation meritoriously 
+16 
+45.7% 
+4 
+11.4% 
+10 
+28.5% 
+5 
+14.2% 
+00 
+Source: Primary data 
+Table 8 represents the descriptive statistics on the existing electronic human resource 
+management practices in Uganda Clays Limited. According to study, 34.2% strongly agreed and 
+37.1% of the respondents agreed that the company conducts electronic recruitment and selection 
+of employees where online application is conducted, 17.1% were not sure whereas a total of 
+11.4% of the respondents disagreed with the statement put across. The study also found out that 
+37.1% and 34.2% of the respondents strongly agreed and agreed respectively that the company 
+
+28 
+ 
+conducts electronic training and development of its employees, 11.4% were not sure whereas 
+17.1% of the respondents disagreed with the statement put across. The study further established 
+that, 45.7% and 22.8% of the respondents strongly agreed and agreed respectively that the 
+company conducts electronic welfare where an online system is used to design employees’ 
+welfare suitably, 14.2% of the respondents were not sure whereas 17.1% disagreed with the 
+statement put across. 
+The findings illustrated that 22.8% strongly agreed, 40.0% of the respondents agreed that the 
+company uses electronic employee management systems to evaluate employees’ performance, 
+20.0% were not sure while 17.1% of the respondents disagreed with the statement put across. 
+The study also revealed that 20.0% strongly agreed and 25.7% of the respondents agreed that the 
+company uses electronic assessment where employees are assessed fast and accurately using 
+online systems, 34.2% of the respondents were not sure whereas 20.0% of the respondents 
+disagreed with the statement put across. 
+In addition, the study established that 17.1% and 31.4% of the respondents strongly agreed and 
+agreed respectively that the company has developed an electronic idea and creativity exchange 
+system to stimulate management of self-responsibility for each employee, 28.5% were not sure 
+whereas 22.8% of the respondents disagreed with the statement put across. Finally, study 
+illustrated that 45.7% and 11.4% of the respondents strongly agreed and agreed respectively that 
+the company uses electronic compensation where a software is used to model and manage 
+employee compensation meritoriously, 28.5% of the respondents were not sure whereas 14.2% 
+disagreed with the statement put across. 
+From the study findings, it can therefore be noted that the major existing electronic human 
+resource management practices used in Uganda Clays Limited are electronic recruitment and 
+selection plus electronic training and development which were all represented by 88.1% of the 
+respondents who agreed. The findings relate with the literature by Choochote & Chochiang 
+(2015) who noted that the learning and training system will encourage all employees to 
+maximize skills, increase knowledge an improve attitudes. Through the system, an employee can 
+book and get training if available. This system can identify enthusiastic and motivated employee 
+and groom them properly to be an asset for the long terms. 
+
+29 
+ 
+4.4 Challenges faced by UCL in implementing E-HRM practices for better organizational 
+performance 
+Table 9 summarizes respondents’ responses on the challenges faced by UCL in implementing 
+electronic human resource management practices for better organizational performance by using 
+a Likert scale where SA (Strongly Agree), A (Agree), NS (Not Sure), D (Disagree) and SD 
+(Strongly Disagree). 
+Table 9: Challenges faced by UCL in implementing E-HRM practices 
+Statements 
+Extent of agreement and disagreement 
+SA 
+A 
+NS 
+D 
+SDA 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+The high costs required in the initial implementation of 
+E-HRM practices has been a major impediment 
+8 
+22.8% 
+12 
+34.2% 
+7 
+20% 
+7 
+20% 
+1 
+2.8% 
+Security concerns like hacking into the system is 
+another hindrance encountered in E-HRM practices 
+implementation 
+7 
+20% 
+9 
+25.7% 
+8 
+22.8% 
+8 
+22.8% 
+3 
+8.5% 
+Limited knowledge and skills by the employees in the 
+use of the E-HRM practices is another difficulty 
+encountered 
+11 
+31.4% 
+8 
+22.8% 
+10 
+28.5% 
+6 
+17.1% 
+00 
+Organizational internal resistance by the employees in 
+the use of E-HRM practices is another limitation 
+encountered 
+15 
+42.8% 
+5 
+14.2% 
+9 
+25,7% 
+6 
+17.1% 
+00 
+Internet connectivity which is very slow or on and off 
+has also deterred the implementation of E-HRM 
+practices in the company  
+4 
+11.4% 
+6 
+17.1% 
+11 
+31.4% 
+13 
+37.1% 
+00 
+Inadequate infrastructure to support the implementation 
+of E-HRM practices is another limitation encountered 
+8 
+22.8% 
+9 
+25.7% 
+5 
+14.2% 
+11 
+31.4% 
+2 
+5.7% 
+Source: Primary data 
+
+30 
+ 
+Table 9 represents the descriptive statistics on the challenges faced by UCL in implementing 
+electronic human resource management practices for better organizational performance. 
+According to study, 22.8%% strongly agreed and 34.2% of the respondents agreed that the high 
+costs required in the initial implementation of E-HRM practices has been a major impediment, 
+20% were not sure whereas a total of 20% of the respondents disagreed and 2.8% strongly 
+disagreed with the statement. The study also found out that 20% and 25.7% of the respondents 
+strongly agreed and agreed respectively that security concerns like hacking into the system is 
+another hindrance encountered in E-HRM practices implementation, 22.8% were not sure 
+whereas 22.8% and 8.5% of the respondents disagreed and strongly disagreed respectively with 
+the statement put across. 
+The study further revealed that 31.4% and 22.8% of the respondents strongly agreed and agreed 
+respectively that limited knowledge and skills by the employees in the use of the E-HRM 
+practices is another difficulty encountered, 28.5% of the respondents were not sure whereas 
+17.1% disagreed with the statement put across. The study found out that 42.8% and 14.2% of the 
+respondents strongly agreed and agreed respectively that organizational internal resistance by the 
+employees in the use of E-HRM practices is another limitation encountered, 25.7% of the 
+respondents were not sure whereas 17.1% disagreed with the statement put across. 
+Additionally, the study illustrated that  11.4% strongly agreed and 17.1% of the respondents 
+agreed that internet connectivity which is very slow or on and off has also deterred the 
+implementation of E-HRM practices in the company, whereas 31.4% of the respondents were not 
+sure of the statement put across. Finally, the study established that 22.8% and 25.7% of the 
+respondents strongly agreed and agreed respectively that inadequate infrastructure to support the 
+implementation of E-HRM practices is another limitation encountered, 14.2% were not sure 
+whereas 31.4% and 5.7% of the respondents disagreed and strongly disagreed respectively with 
+the statement put across. 
+From the study findings, it can therefore be noted that the major challenges faced by UCL in 
+implementing E-HRM practices for better organizational performance are the high costs required 
+in the initial implementation of E-HRM practices and limited knowledge and skills by the 
+employees in the use of the E-HRM practices which were represented by 92.4% and 88.1% of 
+
+31 
+ 
+the respondents who agreed respectively. The findings are in line with the literature by Kaur 
+(2012) who noted that technology pulls cost. In implementing a technology based HR system, a 
+huge initial investment is required. Once implemented, it reduces the operational costs. Large 
+organizations may install HR portals/packages while it is difficult for a small or medium sized 
+organization to afford them. 
+The findings also relate with Porter & Kakabadse (2006) who pointed out that before the 
+implementation of technological innovations in the organisation, HR itself is the biggest 
+obstacle. Due to IT implementation various issues like Skills/Knowledge for its use, employment 
+risks etc. always rise in its way. Acceptance from the workforce is needed for utilizing it up to its 
+fullest. In the information era, information and communication technology (ICT) is widespread 
+and has become an integral part of almost all jobs occupied by knowledge workers (Porter, & 
+Kakabadse, 2006). It increases the burden of the employees by spending more time connected. 
+ 
+ 
+ 
+4.5 Solutions to challenges faced by UCL in implementing E-HRM practices for better 
+organizational performance 
+Table 10 summarizes respondents’ responses on the solutions to challenges faced by UCL in 
+implementing E-HRM management practices for better organizational performance by using a 
+Likert scale where SA (Strongly Agree), A (Agree), NS (Not Sure), D (Disagree) and SD 
+(Strongly Disagree). 
+Table 10: Solutions to challenges faced by UCL in implementing E-HRM practices 
+Statements 
+Extent of agreement and disagreement 
+SA 
+A 
+NS 
+D 
+SDA 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+
+32 
+ 
+The company needs to set up a budget meant for the 
+implementation of E-HRM practices 
+12 
+34.2% 
+13 
+37.1% 
+6 
+17.1% 
+4 
+11.4% 
+00 
+Training on the proper use of the E-HRM practices 
+needs to be given to both the management and 
+employees in the company 
+13 
+37.1% 
+12 
+34.2% 
+4 
+11.4% 
+6 
+17.1% 
+00 
+The ICT department in the company needs to be 
+empowered with enough infrastructure to support the 
+implementation of E-HRM practices 
+16 
+45.7% 
+8 
+22.8% 
+5 
+14.2% 
+6 
+17.1% 
+00 
+Policies for adoption and implementation of E-HRM 
+practices in the company need to be developed and 
+communicated 
+7 
+20.0% 
+9 
+25.7% 
+12 
+34.2% 
+7 
+20.0% 
+00 
+The management needs to be fully committed to 
+supporting the implementation of E-HRM practices in 
+the company 
+6 
+17.1% 
+11 
+31.4% 
+10 
+28.5% 
+8 
+22.8% 
+00 
+The use of passwords and strong anti-viruses need to 
+be enhanced to reduce security challenges and loss of 
+data 
+16 
+45.7% 
+4 
+11.4% 
+10 
+28.5% 
+5 
+14.2% 
+00 
+Source: Primary data 
+Table 10 represents the descriptive statistics on the solutions to challenges faced by UCL in 
+implementing E-HRM management practices for better organizational performance. According 
+to study, 34.2% strongly agreed and 37.1% of the respondents agreed that the company needs to 
+set up a budget meant for the implementation of E-HRM practices, 17.1% were not sure whereas 
+a total of 11.4% of the respondents disagreed with the statement put across. The study also found 
+out that 37.1% and 34.2% of the respondents strongly agreed and agreed respectively that 
+training on the proper use of the E-HRM practices needs to be given to both the management and 
+employees in the company, 11.4% were not sure whereas 17.1% of the respondents disagreed 
+with the statement put across. 
+The findings illustrated that 45.7% strongly agreed, 22.8% of the respondents agreed that the 
+ICT department in the company needs to be empowered with enough infrastructure to support 
+the implementation of E-HRM practices, 14.2% were not sure while 17.1% of the respondents 
+
+33 
+ 
+disagreed with the statement put across. The study also revealed that 20% strongly agreed and 
+25.7% of the respondents agreed that policies for adoption and implementation of E-HRM 
+practices in the company need to be developed and communicated, 34.2% of the respondents 
+were not sure whereas 20% of the respondents disagreed with the statement put across. 
+In addition, the study established that 17.1% and 31.4% of the respondents strongly agreed and 
+agreed respectively that the management needs to be fully committed to supporting the 
+implementation of E-HRM practices in the company, 28.5% were not sure whereas 22.8% of the 
+respondents disagreed with the statement put across. Finally, study illustrated that 45.7% and 
+11.4% of the respondents strongly agreed and agreed respectively that the use of passwords and 
+strong anti-viruses need to be enhanced to reduce security challenges and loss of data, 28.5% of 
+the respondents were not sure whereas 14.2% disagreed with the statement put across. 
+ The major solutions to challenges faced by UCL in implementing E-HRM management 
+practices for better organizational performance are the need to set up a budget meant for the 
+implementation of E-HRM practices and the need for training on the proper use of the E-HRM 
+practices to be given to both the management and employees in the company which were all 
+represented by 88.1% of the respondents who agreed. 
+Overall, the findings suggest a range of opinions among the respondents regarding the proposed 
+solutions to challenges in E-HRM implementation. While some solutions received stronger 
+agreement, others were met with more uncertainty or disagreement. It's notable that management 
+commitment, training, and ICT infrastructure empowerment appear to be areas of particular 
+importance. These insights could help UCL tailor their strategies for better E-HRM 
+implementation and organizational performance 
+ 
+ 
+ 
+4.6 How the existing electronic recruitment and electronic selection improves on the 
+organizational performance at Uganda clays limited  
+
+34 
+ 
+Table 11 summarizes respondents response to how the existing electronic recruitement and 
+electronic selection improves on the organizational performance by using a Likert scale where 
+SA (Strongly Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree). 
+Table 11 existing electronic recruitment and electronic selection improves on the 
+organizational performance at Uganda clays limited  
+Statements 
+Extent of agreement and disagreement 
+SA 
+A 
+NS 
+D 
+SDA 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+There is a wider application out reach for UCL to 
+applicants as applications can be accessed online 
+12 
+34.2% 
+13 
+37.1% 
+6 
+17.1% 
+4 
+11.4% 
+00 
+It has lowered the cost of advertising in terms of 
+payment to appear on   news outlets and other 
+marketing  agencies 
+13 
+37.1% 
+12 
+34.2% 
+4 
+11.4% 
+6 
+17.1% 
+00 
+There is availability and accessibility of company data 
+at all times to employees where employees have to use 
+for example a password or a code to have access to 
+UCL data  
+16 
+45.7% 
+8 
+22.8% 
+5 
+14.2% 
+6 
+17.1% 
+00 
+It has minimized the number of useless/invalid 
+applications because UCL provides information on the 
+job and other further information helping applicants 
+remove themselves automatically  
+7 
+20.0% 
+9 
+25.7% 
+12 
+34.2% 
+7 
+20.0% 
+00 
+
+35 
+ 
+It helps identify and select the best candidates out of a 
+wide range of candidates while giving the organization 
+chance to improve its profile 
+6 
+17.1% 
+11 
+31.4% 
+10 
+28.5% 
+8 
+22.8% 
+00 
+Source: primary data 
+Table 11 represents descriptive data on existing electronic recruitment and electronic selection 
+improves on the organizational performance at Uganda clays limited . according to the 
+study,34.2%stronglyagreed and 37.1% of the respondents agreed that there is a wider application 
+out reach for UCL to applicants as applications can be accessed online , 17.1% were not sure 
+whereas a total of 11.4% of the respondents disagreed with the statement. The study also found 
+out that 37.1% and 34.2% of the respondents strongly agreed and agreed respectively that 
+electronic human resource has lowered the cost of advertising in terms of payment to appear on   
+news outlets and other marketing agencies, 11.4% were not sure whereas 17.1% of the 
+respondents disagreed with the statement. 
+The data shows that 45.7% strongly agreed, 22.8% of the respondents agreed that there is 
+availability and accessibility of company data at all times to employees where employees have to 
+use for example a password or a code to have access to UCL data, 14.2% were not sure while 
+17.1% of the respondents disagreed with the statement put across. The study also revealed that 
+20% strongly agreed and 25.7% of the respondents agreed that It has minimized the number of 
+useless/invalid applications because UCL provides information on the job and other further 
+information helping applicants remove themselves automatically, 34.2% of the respondents were 
+not sure whereas 20% of the respondents disagreed with the statement put across 
+To add to that the study established that 17.1% and 31.4% of the respondents strongly agreed and 
+agreed respectively that electronic human resource helps identify and select the best candidates 
+out of a wide range of candidates while giving the organization chance to improve its profile, 
+28.5% were not sure whereas 22.8% of the respondents disagreed with the statement put across.  
+From the study findings, it can therefore be noted that the existing electronic recruitment and 
+electronic selection improves on the organizational performance at Uganda clays limited through 
+
+36 
+ 
+a wider application out reach for UCL to applicants as applications can be accessed online which 
+was all represented by 71.3 % of the respondents who agreed. 
+In conclusion, the data reflects a generally positive perception of how existing electronic 
+recruitment and electronic selection practices have contributed to organizational performance at 
+Uganda Clays Limited. Respondents seem to appreciate the wider application outreach, reduced 
+advertising costs, availability of company data, and potential for identifying better candidates. 
+However, there are varying opinions on whether electronic recruitment has effectively 
+minimized invalid applications and enhanced candidate selection and this could help inform 
+UCL's understanding of how electronic recruitment and selection practices are perceived by its 
+workforce and may guide decisions for further improvement in these areas. 
+ 
+ 
+ 
+ 
+ 
+4.7 In which way has electronic performance management led to the improvement of 
+organizational performance at Uganda clays limited 
+Table 12 summarizes respondents response to how electronic performance management led to 
+the improvement of organizational performance at Uganda clays limited by using a Likert scale 
+where SA (Strongly Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly 
+Disagree). 
+Table 12   which way has electronic performance management led to the improvement of 
+organizational performance at Uganda clays limited 
+Statements 
+Extent of agreement and disagreement 
+SA 
+A 
+NS 
+D 
+SDA 
+
+37 
+ 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+It has led to development of training strategies because 
+of failure among some employees in using the system  
+17 
+48.5% 
+7 
+20% 
+6 
+17.1% 
+8 
+22.8% 
+00 
+It helps in boosting employee productivity and 
+engagement through bringing the employer closer to 
+the employee without being in the workplace  
+9 
+24.7% 
+12 
+34.2% 
+8 
+22.8% 
+6 
+17.1% 
+00 
+It helps in self-evaluation of employees since electronic 
+performance systems are made to immediately show 
+your performance basing on how many times you have 
+logged into their system  
+8 
+22.8% 
+7 
+20% 
+9 
+25.7% 
+11 
+31.4% 
+00 
+It has led to real time reporting since electronic 
+performance 
+management 
+systems 
+give 
+instant 
+feedback on work being done 
+10 
+28.5% 
+10 
+28.5% 
+5 
+14.2% 
+10 
+28.2% 
+00 
+It’s saves times because it prevents time wasting in 
+physically meeting of employees as the electronic 
+performance management system is able to track 
+employee work 
+15 
+42.8% 
+11 
+31.4% 
+4 
+11.4% 
+5 
+14.2% 
+00 
+Source: Primary data 
+Table 12 represents the descriptive statistics on how electronic performance management led to 
+the improvement of organizational performance at Uganda clays limited. According to study, 
+48.5% strongly agreed and 20.0% of the respondents agreed that it has led to development of 
+training strategies because of failure among some employees in using the system, 17.1% were 
+not sure whereas a total of 22.8% of the respondents disagreed with the statement. The study also 
+found out that 24.7% and 34.2% of the respondents strongly agreed and agreed respectively that 
+It helps in boosting employee productivity and engagement through bringing the employer closer 
+to the employee without being in the workplace, 22.8% were not sure whereas 17.1% of the 
+respondents disagreed with the above statement. 
+
+38 
+ 
+The study further revealed that 22.8% and 20% of the respondents strongly agreed and agreed 
+respectively that It helps in self-evaluation of employees since electronic performance systems 
+are made to immediately show your performance basing on how many times you have logged 
+into their system , 25.7% of the respondents were not sure whereas 31.4% disagreed with the 
+statement put across. The study found out that 28.5% and 28.5% of the respondents strongly 
+agreed and agreed respectively that it has led to real time reporting since electronic performance 
+management systems give instant feedback on work being done, 14.2% of the respondents were 
+not sure whereas 28.2% disagreed with the statement put across. 
+Additionally, the study illustrated that  42.8% strongly agreed and 31.4% of the respondents 
+agreed that it helps identify and select the best candidates out of a wide range of candidates while 
+giving the organization chance to improve its profile, whereas 11.4% and 14.2% of the 
+respondents were not sure and disagreed  to the statement put across.  
+ Generally respondents believe that electronic performance management has positive effects on 
+organizational performance at Uganda Clays Limited. It is seen as contributing to the 
+development of training strategies, boosting employee productivity and engagement, and 
+enabling real-time reporting. However, there is some uncertainty regarding the system's impact 
+on self-evaluation of employees and majority believe that the system saves time by eliminating 
+the need for physical meetings to track employee work. 
+ 
+ 
+ 
+ 
+ 
+4.8; How electronic training and development has led to improved organizational 
+performance 
+
+39 
+ 
+Table 13; summarizes respondents response to how electronic training and development has led 
+to improved organizational performance by using a Likert scale where SA (Strongly Agree), A 
+(Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree). 
+Table 13;  How electronic training and development has led to improved organizational 
+performance 
+ 
+Statements 
+Extent of agreement and disagreement 
+SA 
+A 
+NS 
+D 
+SDA 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+F 
+(%) 
+It has led to mass training of different people in 
+different areas 
+13 
+37.1% 
+8 
+22.8% 
+9 
+25.7% 
+5 
+14.2% 
+00 
+There has been cost saving interns of travel  
+expenditures to train different groups of people as they 
+can be trained at once 
+10 
+28.5% 
+9 
+25.7% 
+7 
+20.0% 
+9 
+25.7% 
+00 
+It has enabled UCL to be more competitive in the 
+employment world  
+11 
+31.4% 
+10 
+28.5% 
+8 
+22.8% 
+6 
+17.1% 
+00 
+There is a diverse availability of educational content 
+from UCL and even more content related to work using 
+web links 
+9 
+25.7% 
+7 
+20.0% 
+9 
+25.7% 
+10 
+28.5% 
+00 
+It reduces the time spent on physically training people  
+17% 
+48.5 
+13% 
+37.1 
+05% 
+14.2 
+00 
+00 
+Source: Primary data 
+Table 13 represents the descriptive statistics on, how electronic training and development has led 
+to improved organizational performance. The study shows that, 37.1% strongly agreed and 
+22.8% of the respondents agreed that it has led to mass training of different people in different 
+areas, 25.7% were not sure whereas a total of 14.2% of the respondents disagreed with the 
+statement put across. The study also found out that 28.5% and 25.7% of the respondents strongly 

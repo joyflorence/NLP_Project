@@ -1,0 +1,409 @@
+Introduction to operating Systems
+CHAPTER 1
+1
+CSE122/BAI1208/BCS1211/BIT1211/DIT1121
+
+Software
+© ISBAT UNIVERSITY –2023.
+A sequence of instructions written in a language understood by a
+computer is called a computer program.
+Software refers to a set of programs, procedures, and associated
+documents
+(flow
+charts,
+manuals,
+etc.)
+describing
+the
+programs, and how they are to be used.
+A software package is a group of programs that solve a specific
+problem or perform a specific type of job. e.g. a word
+processing package may contain programs for text editing, text
+formatting, drawing graphics, spell checking…
+
+Relationship between Hardware & Software
+© ISBAT UNIVERSITY –2023.
+Both hardware and software are necessary for a computer to
+do a useful job. Both are complementary to each other.
+Same hardware can be loaded with different software to
+make a computer perform different types of jobs.
+Except for upgrades (like increasing main memory and hard
+disk capacities, or adding speakers, modems, etc.) hardware
+is normally a one time expense, whereas software is a
+continuous expense.
+
+Types of Software
+© ISBAT UNIVERSITY –2023.
+System Software: Is a set of one or more programs designed to
+control the operation and extend the processing capability of a
+computer system.
+System software performs one or more of the following:
+Supports development of other application software.
+Supports the execution of other application software.
+Monitors the effective use of various hardware resources such 
+as the CPU, memory, peripherals, etc.
+Communicates with and controls operation of peripheral devices 
+such as printer, disk, tape, etc.
+
+©ISBAT UNIVERSITY –2023.
+Types of Software continued…
+Programs included in a system software package are called system programs. The
+programmers
+who
+prepare
+system
+software
+are
+referred
+to
+as
+system
+programmers.
+Commonly known types of System Software;
+1.
+Operating systems: These take care of efficient effective utilization of all
+hardware and software components of a computer system.
+2.
+Programming language translators: These transform the instructions prepared
+by programmers in a programming language into a form that can be interpreted
+and executed by a computer system.
+3.
+Communications softwares: These enable transfer of data and programs from
+one computer system to another in a network environment.
+4.
+Utility programs: These help users in system maintenance tasks, and in
+performing of tasks of routine nature. e.g. formatting hard disks, taking backup
+of data, sorting of data
+
+©IE
+SBd
+ATu
+UNcIVaEtRSiIo
+TYn
+–20s20o.ftware and Entertainment software e.t.c.
+Types of Software continued…
+Application Software: Is a set of one or more programs designed to solve a specific
+problem, or do a specific task.
+Programs included in an application software package are called application programs.
+The programmers who prepare application software are referred to as application
+programmers.
+Examples include;
+Word processing software: enables us to use computers for creating, editing,
+viewing, formatting, storing, retrieving, and printing documents.
+Database Software: enables us to create a database, maintain it, organize its data,
+and selectively retrieve useful information from it.
+Graphics software:
+Personal Assistance software:
+
+Firmware
+Is a sequence of instructions (software) substituted for
+hardware and stored in a Read Only Memory (ROM) chip of a
+computer.
+Firmware is frequently a cost-effective alternative to wired
+electronic circuits and its use in compute design is gradually
+increasing.
+Increased use has today made it possible to produce smart
+machines of all types. These machines have microprocessor
+chips with embedded software.
+© ISBAT UNIVERSITY –2023.
+
+Middleware
+© ISBAT UNIVERSITY –2023.
+Is a set of tools and data that helps applications use networked resources and
+services.
+It is a separate software layer that acts as “glue” between the client and server
+parts of an application and provides a programming abstraction as well as
+masks the heterogeneity of underlying networks, hardware, and operating
+system from application programmers.
+Examples include;
+Web servers
+Application servers
+Telecommunication softwares
+Transaction monitors
+Messaging and queueing software
+
+Computer Programming Languages
+A language acceptable to a computer system is called a
+Computer language or programming language, and the
+process of off writing instructions in such a language is
+called programming or coding.
+The words and symbols of a computer language must be
+used as per the set rules known as syntax rules.
+Computer programming languages are classified into two;
+Low Level Languages
+High Level languages
+© ISBAT UNIVERSITY –2023.
+
+Low Level Languages (LLL)
+© ISBAT UNIVERSITY –2023.
+Machine Language: Is the only language the computer understands without
+using a translation program.
+Is normally written as a string of 1s and 0s but doesn’t necessarily have to
+be. It can also be written using decimal digits if the computer circuitry
+permits this.
+The circuitry of a computer is wired in a way that it recognizes the machine
+language instructions immediately, and converts them into electrical signals
+needed to execute them.
+
+© ISBAT UNIVERSITY –2023.
+Advantages & Disadvantages of Machine Language
+Advantages:
+Can be executed very fast because of no need for translation.
+They occupy less memory.
+Processing speed is high because it is one to one language.
+Disadvantage:
+Machine Dependent: Internal design of every computer is different from the
+other, so also the language differs.
+Difficult to program: it needs the programmer to memorize dozens of operation
+code numbers, keep track of storage locations of data and instructions, must
+know hardware structure.
+Error prone: makes it difficult for the programmer to concentrate fully on the
+logic resulting in errors.
+Difficult to modify: Checking machine instruction s to locate errors is very difficult
+and time consuming.
+
+Advantages & Disadvantages of Assembly Language
+© ISBAT UNIVERSITY –2023.
+Advantages:
+Easier to understand and use
+Easier to locate and correct errors: Assemblers automatically detect 
+and indicate errors.
+Easier to modify
+No worry about addresses.
+Easily relocatable.
+Efficiency of machine language.
+Disadvantages:
+•
+Machine dependent
+•
+Knowledge of hardware required
+•
+Machine level coding
+
+Low Level Languages (LLL)
+© ISBAT UNIVERSITY –2023.
+Assembly or Symbolic Language: This allows instructions and storage locations 
+to be represented by letters and symbols instead of numbers.
+An assembly language must be converted (translated) into its equivalent  
+machine language program before it can be executed on the computer.
+This translation is done by the help of a translator program called an
+Assembler.
+Assembler is system software supplied by the computer manufactures.
+It is called assembler because in addition to translating, it also assembles the
+machine language program in main memory of the computer and makes it
+ready for execution.
+During the process of translation, the source program is NOT under execution.
+It is only converted into a form that can be executed by the computer.
+
+Introduction
+© ISBAT UNIVERSITY –2023.
+A computer system can be divided roughly into four
+components:
+Hardware - The central processing unit (CPU), the
+memory, and the input / output (I/O) devices - provide
+the basic computing resources.
+Application Programs - define the ways in which these
+resources are used to solve the computing problems of
+the users.
+Operating System - controls and coordinates the use of
+the hardware among the various application programs
+for the various users.
+Users
+
+Definition:
+© ISBAT UNIVERSITY –2023.
+An Operating System (often referred to as OS) is an
+integrated
+set of
+programs that controls the
+resources (CPU, memory, I/O devices, etc.) of a
+computer system and provides its users with an
+interface or virtual machine that is easier to use
+than the bare machine.
+
+© ISBAT UNIVERSITY –2023.
+Primary Objectives of the OS
+Make a computer system easier to use.
+It hides details of hardware resources from programmers and
+other users & provides them with a convenient interface for
+using a computer system. It acts as an intermediary between
+the hardware and its users, providing high-level interface to
+low-level hardware.
+Manage the resources of a computer system
+It involves such tasks as keeping track of who is using what
+resource usage, and
+resources,
+granting
+resource
+mediating
+requests, 
+conflicting
+accounting
+for  
+requests from
+different programs and users. Efficient and fair sharing of  
+system resources among users and/ or programs is a key goal
+of all operating systems.
+
+Command
+interpretation:
+interpreting
+user
+commands,
+©ISBAT UNd
+IVEiRrSe
+ITYc–t20i2n
+0.g resources to process commands
+Main Functions Of An Operating System…
+Process Management: taking care of creation and deletion of
+processes, scheduling of different resources to different
+processes and providing mechanisms for synchronization and
+communication among processes.
+Memory Management: taking care of allocation & de-
+allocation of memory space to programs.
+File Management: file related activities such as organization,
+storage, retrieval, naming, sharing and protection of files.
+Security: protecting the resources and information of a
+computer system
+against
+destruction
+and
+unauthorized
+access.
+
+© ISBAT UNIVERSITY –2023.
+Measuring SystemPerformance
+Efficiency of an Operating System and overall performance of a
+computer system are measured usually in terms of the following
+parameters.
+Throughput: Is the amount of work that the system is able to do per
+unit time.
+Turnaround Time: How long it takes a system to complete a job
+submitted by a user. It is the interval between the time of
+submission of a job to the system for processing to the time of job
+completion
+Response Time: it is the interval between the time of submission of
+a job to the system for processing to the time of the system
+producing the first response.
+
+Functions of the Operating System
+© ISBAT UNIVERSITY –2023.
+Operating systems vary in the way they accomplish there
+tasks.
+Mainframe operating systems are designed primarily to
+optimize utilization of hardware.
+Personal
+computer
+(PC)
+operating
+systems
+support
+complex games, business applications, and everything in
+between.
+Handheld computer operating systems are designed to
+provide an environment in which a user can easily interface
+with the computer to execute programs.
+Thus,
+some
+operating
+systems
+are
+designed
+to
+be
+convenient, others to be efficient, and some others, a
+combination of the two.
+
+Types of Operating system
+© ISBAT UNIVERSITY –2023.
+Simple Batch OS
+🞑The users create programs, data and control 
+information
+🞑It is submitted to operator
+🞑Its major task was to transfer control from one  
+job to another
+🞑Jobs with same needs were batched together
+🞑SPOOLING
+Using of buffer
+
+OS
+User area
+
+Multi-programmed  
+Batched OS
+🞑Job pool
+🞑Start with one job
+🞑When I/O is required, it  
+stop the job
+🞑It goesfor another job
+🞑When the job finishes 
+I/O it joins the Job pool
+© ISBAT UNIVERSITY –2023.
+OS
+Job1
+Job2
+Job3
+Job4
+
+Time sharing OS
+🞑Interactive use of the system
+🞑Time slots
+🞑Virtual memory
+© ISBAT UNIVERSITY –2023.
+
+Personal Computer OS
+🞑Single user
+🞑One user so one program at a time
+🞑Consist of 2 parts
+BIOS- Basic Input Output System(ROM)
+DOS
+🞑When power is turned on BIOS takes control
+Power on self test
+Checking memory is OK and all other relevant units  
+functions
+Reads small portion of OS – Boot Program –Booting the 
+system
+© ISBAT UNIVERSITY –2023.
+
+Multi- processor OS (parallel system)
+🞑More than one processor
+🞑Called tightly coupled systembecause the  
+processorscan share the memory or a clock
+🞑More work done in a shorter time
+🞑Increases reliability
+🞑Two models
+Symmetric multiprogramming model
+Same job
+Asymmetric multiprogramming model – master slave
+Different job
+© ISBAT UNIVERSITY –2023.
+
+Distributed Systems
+🞑Distributed among several processors
+🞑Loosely coupled
+🞑Resource sharing
+🞑Computation speed up – load sharing
+🞑Reliability – sharing of work when one  
+fails
+🞑Communication
+© ISBAT UNIVERSITY –2023.
+
+Real Time Systems
+🞑Designed to responseto eventsthat 
+happen in real time
+🞑Time constrains
+🞑Airline reservation system
+🞑Response time is short
+🞑Two models
+Hard real time system– complete at a  
+specified time
+Soft real time system– priority isset
+© ISBAT UNIVERSITY –2023.
+
+Operating SystemStructure
+Layered Approach
+The Kernel Based Approach
+The Virtual machine Approach
+© ISBAT UNIVERSITY –2023.
+
+More Clarity

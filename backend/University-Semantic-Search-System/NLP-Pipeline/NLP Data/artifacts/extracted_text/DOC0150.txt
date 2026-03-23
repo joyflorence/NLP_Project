@@ -1,0 +1,1231 @@
+ 
+ASSESSING THE USE OF CRUMB RUBBER AND KAOLINITE TO THE 
+RESISTANCE OF ASPHALT TO DEFORMATION  
+ 
+ANTHONY MUSTAFA PITIA   
+S21B32/033  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE 
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF BACHELOR OF SCIENCE 
+IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+i | P a g e  
+ 
+ABSTRACT 
+Flexible pavement performance is often reduced by rutting, fatigue and lack of 
+durability especially under heavy traffic.  
+This study aimed to improve bitumen by modifying it with Crumb rubber (CR) and 
+kaolinite clay to enhance resistance to fatigue cracking. Waste tires were used due to 
+their high elasticity. CR was added to 60-70 pen grade bitumen in proportions of  5%, 
+10%, 15% and 20%. Tests showed that 5% CR gave the best balance of thermal, fatigue 
+and moisture resistance. To improve storage stability, kaolinite was added in amounts 
+of 1%, 1.5%, 2% and 2.5% with 2% showing the best results.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii | P a g e  
+ 
+DECLARATION 
+I, PITIA ANTHONY MUSTAFA, hereby declare to the best of my knowledge and skills 
+that this report is a result of my effort and has never been submitted to any higher 
+institution of learning for the award of Bachelor of Science in Civil and 
+Environmental Engineering. 
+ 
+Signature………………………….Date………………………………. 
+PITIA ANTHONY MUSTAFA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii | P a g e  
+ 
+APPROVAL 
+This research and design project report has been submitted for examination with my 
+approval as the University Academic Supervisor. 
+ 
+Signature: ……………………………………… Date…………………………………….  
+ 
+Ms. AGUTI JOSEPHINE 
+ 
+Academic Supervisor 
+ 
+Department of Engineering and Environment 
+ 
+Uganda Christian University 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv | P a g e  
+ 
+DEDICATION 
+This report is fully dedicated to my parents, lecturers and mentors, whose guidance, 
+patience and encouragement have shaped me into the person I am today. Your 
+unwavering support has been instrumental in my academic journey and I am deeply 
+grateful for your belief in my potential. This achievement is as much yours as it is 
+mine. 
+Thank you for everything. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v | P a g e  
+ 
+ 
+ACKNOWLEDGEMENTS 
+I would like to express my sincere gratitude to Ms. AGUTI JOSEPINE my 
+supervisor, for her invaluable guidance, encouragement and support 
+throughout the completion of this report. Their expertise, feedback and 
+patience have been instrumental in shaping the direction and quality of my 
+work. 
+I would also like to extend my thanks to my lecturers, classmates and parents 
+for their unwavering support, encouragement and understanding during this 
+academic journey. Their belief in me has been a constant source of 
+motivation. 
+Additionally, I am grateful to the different laboratories for providing resources 
+and facilities that facilitated the completion of this report. 
+Finally, I acknowledge the contributions of all the authors and researchers 
+whose work in this report been put to reference. 
+Thank you to everyone who has played a part in making this Project a reality. 
+ 
+ 
+
+vi | P a g e  
+ 
+TABLE OF CONTENTS 
+ABSTRACT ....................................................................................................... i 
+DECLARATION .................................................................................................. ii 
+APPROVAL ..................................................................................................... iii 
+DEDICATION .................................................................................................... iv 
+ACKNOWLEDGEMENTS ........................................................................................ v 
+LIST OF FIGURES ............................................................................................. xii 
+LIST OF TABLES .............................................................................................. xiv 
+LIST OF ABBREVIATIONS ..................................................................................... xv 
+CHAPTER 1: INTRODUCTION ................................................................................. 1 
+1.1 Background of the research .......................................................................... 1 
+1.2 Problem Statement .................................................................................... 1 
+1.3 Objectives of the study ............................................................................... 2 
+1.3.1 Main objective .................................................................................... 2 
+1.3.2 Specific objectives ............................................................................... 2 
+1.4 Research questions .................................................................................... 3 
+1.5 Scope of research ...................................................................................... 3 
+1.5.1 Content scope ..................................................................................... 3 
+1.5.2 Geographical scope ............................................................................... 3 
+1.5.3 Time scope ......................................................................................... 4 
+
+vii | P a g e  
+ 
+1.6 Justification ............................................................................................ 4 
+1.7 Significance of the study ............................................................................. 5 
+CHAPTER 2: LITERATURE REVIEW ........................................................................... 6 
+2.1 Pavement ............................................................................................... 6 
+2.1.1 Types of pavements .............................................................................. 6 
+2.1.2 Elements of asphalt pavement .................................................................. 7 
+2.1.3 Design and functional requirements of asphalt pavements ................................ 8 
+2.1.4 Asphalt pavement failures ...................................................................... 10 
+2.2 Materials used to make asphalt ..................................................................... 12 
+2.2.1 Bitumen ........................................................................................... 12 
+2.2.2 Aggregates ........................................................................................ 16 
+2.2.3 Filler Materials in asphalt mixtures ........................................................... 17 
+2.3 Crumb rubber ......................................................................................... 19 
+2.3.1 Properties of Crumb Rubber ................................................................... 19 
+2.3.2 Rubber composition in tires .................................................................... 20 
+2.3.3 Performance of Crumb Rubber in Bitumen................................................... 20 
+2.4 Bitumen Modification ................................................................................ 21 
+2.4.1 Types of Bitumen Modification ................................................................ 21 
+2.4.2 Need for Modified Bitumen in Pavements .................................................... 22 
+
+viii | P a g e  
+ 
+2.5 Interaction Between Bitumen and Crumb Rubber ............................................... 22 
+2.5.1 Factors that influence performance of Crumb rubber in bitumen ....................... 23 
+2.6 Physical and Rheological Properties of CRMB..................................................... 25 
+2.6.1 Penetration ....................................................................................... 25 
+2.6.2 Elastic Recovery .................................................................................. 25 
+2.6.3 Ductility ........................................................................................... 25 
+2.6.4 Viscosity and Softening Point .................................................................. 25 
+2.7 Challenges in Polymer Modification ................................................................ 26 
+2.7.1 Measuring Storage Stability of CRMB .......................................................... 26 
+2.7.2 Addressing Storage Instability with Nanoclay (Kaolinite) .................................. 27 
+CHAPTER 3: METHODOLOGY ................................................................................ 30 
+3.1 Research design ....................................................................................... 30 
+3.2 Primary data collection method .................................................................... 30 
+3.2.1 Material collection and preparation .......................................................... 30 
+3.2.2 Testing for properties of Bitumen ............................................................. 30 
+3.2.3 Testing for aggregate properties .............................................................. 33 
+3.2.4 Tests on the crumb rubber ..................................................................... 36 
+3.2.5 Modification of bitumen with rubber ......................................................... 36 
+3.2.6 Storage stability tube test ASTM D7173 ...................................................... 38 
+
+ix | P a g e  
+ 
+3.2.7 Modified Asphalt Concrete Performance Tests .............................................. 39 
+3.3 Secondary data collection method. ................................................................ 39 
+3.4 Data analysis method ................................................................................ 39 
+CHAPTER 4: RESULTS AND DISCUSSIONS .................................................................. 40 
+4.1 INTRODUCTION ........................................................................................ 40 
+4.2 Properties of bitumen ................................................................................ 40 
+4.2 Properties of Aggregate test ........................................................................ 41 
+4.3 Properties of Crumb Rubber ........................................................................ 42 
+4.4 Effect of Crumb Rubber on bitumen consistency ................................................ 43 
+4.4.1 Penetration ....................................................................................... 43 
+4.4.2 Softening point ................................................................................... 45 
+4.4.3 Specific gravity ................................................................................... 46 
+4.4.4 Ductility ........................................................................................... 47 
+4.4.5 Viscosity ........................................................................................... 48 
+4.5 AC14 Combined Gradation curve ................................................................... 49 
+4.6 Determination of optimum bitumen content ..................................................... 50 
+4.7 Asphalt mix design .................................................................................... 53 
+4.8 Test result on asphalt concrete for unmodified and modified bitumen. ..................... 54 
+4.8.1 Effect of crumb rubber on VMA ................................................................ 56 
+
+x | P a g e  
+ 
+4.8.2 Effect of crumb rubber on asphalt’s stability ............................................... 57 
+4.8.3 Effect of crumb rubber on marshall flow of asphalt ........................................ 58 
+4.8.4 Effects of crumb rubber on Air voids of asphalt............................................. 60 
+4.9 Storage stability test ................................................................................. 61 
+4.10 5%CRMB +2% kaolinite asphalt test result ....................................................... 62 
+4.10.1 Analysis of Marshall Flow and Stability Test  ............................................... 63 
+4.10.2 Implications of Marshall Stability on Load-Bearing Capacity ............................. 65 
+4.11 Indirect Tensile Strength (ITS) and Resilient Modulus ......................................... 66 
+4.11.1 Analysis of Resilient Modulus Results ........................................................ 69 
+4.12 Correlating Modification Effects to Pavement Lifespan ....................................... 70 
+4.13 Materials Required for Modifying the Kampala–Masaka Highway ............................. 71 
+4.13.1 Estimating Material Requirements and Cost for Modifying the Kampala–
+Masaka Highway ......................................................................................... 72 
+4.13.2 Estimating the Total Quantity of Asphalt ................................................... 72 
+4.14 Crumb Rubber Requirements ...................................................................... 73 
+4.14.1 Converting Crumb Rubber from Truck Tires ................................................ 73 
+4.14.2 Cost of Crumb Rubber ......................................................................... 74 
+4.15 Kaolinite Clay Requirements ...................................................................... 74 
+4.15.1 Cost of Kaolinite ................................................................................ 74 
+
+xi | P a g e  
+ 
+4.16 Summary of Total Modification Cost ............................................................. 75 
+4.17 Justification for the design ........................................................................ 76 
+CHAPTER 5: CONCLUSION AND RECOMMANDATIONS .................................................... 79 
+5.1 Conclusion ............................................................................................. 79 
+5.2 Recommendations .................................................................................... 80 
+5.2.1 Based on findings ................................................................................ 80 
+5.2.2 Recommendations for further studies ........................................................ 80 
+REFERENCES .................................................................................................. 81 
+1.6 APPENDICES .............................................................................................. 84 
+1.6.1 Laboratory works ................................................................................... 84 
+Appendix 1: Laboratory Test Certificates ............................................................. 89 
+Appendix 2: Engineering drawing of the Kampala Masaka Highway ............................. 109 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xii | P a g e  
+ 
+LIST OF FIGURES 
+Figure 2:1 Pavement structure (Hoffman,2008) .............................................. 7 
+Figure 2:2 Rutting on an asphalt pavement .................................................. 11 
+Figure 2:3 Potholes on as asphalt pavement................................................. 12 
+Figure 2:4 Visual representation of the colloidal structure of asphalt .................. 14 
+Figure 2:5 Chemical composition of various types of tires ................................ 20 
+Figure 4:1 Penetration value against Crumb rubber percentage ......................... 44 
+Figure 4:2 Softening point against Crumb rubber percentage ............................ 45 
+Figure 4:3 Specific gravity against Crumb rubber percentage ............................ 46 
+Figure 4:4 Ductility against Crumb rubber percentage..................................... 47 
+Figure 4:5 Viscosity against Crumb rubber percentage .................................... 48 
+Figure 4:6 Combined aggregates grading ..................................................... 49 
+Figure 4:7 Air voids against Bitumen content ............................................... 51 
+Figure 4:8 Stability against Bitumen content ................................................ 52 
+Figure 4:9 Flow against Bitumen content .................................................... 52 
+Figure 4:10 Density against Bitumen content ................................................ 53 
+Figure 4:11 Comparison of %VMA of the neat asphalt and 5% CRMA ..................... 56 
+Figure 4:12 Comparison of Stability of the neat asphalt and 5% CRMA .................. 57 
+Figure 4:13 Comparison of Marshall Flow of the neat asphalt and 5% CRMA ............ 58 
+Figure 4:14 Comparison of %VMA of the neat asphalt and 5% CRMA ..................... 60 
+Figure 4:15 Marshall stability against CRMA ................................................. 65 
+Figure 4:16 Resilient Modulus against CRMA ................................................. 69 
+
+xiii | P a g e  
+ 
+Figure 4:17 Kampala Masaka cross section ................................................... 72 
+Figure 4:18 Current profile along Section 5 (Km 51+950 – 52+100) of the Kampala–
+Masaka ............................................................................................. 76 
+Figure 4:19 Redesigned pavement profile.................................................... 76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xiv | P a g e  
+ 
+LIST OF TABLES 
+Table 2:1 specifications for bitumen property (MoWT,2010) ......................................... 16 
+Table 2:2 Specification for properties of aggregates (MoWT,2010) .................................. 17 
+Table 3:1 Different weights of rubber in the different modified bitumen samples ................ 37 
+Table 4:1 Bitumen properties, values and specifications .............................................. 40 
+Table 4:2 Aggregate properties, values and specifications ............................................ 41 
+Table 4:3  Crumb rubber properties ...................................................................... 43 
+Table 4:4 Aggregate blending for AC14 ................................................................... 50 
+Table 4:5 Optimum Bitumen Content determination ................................................... 51 
+Table 4:6 Control asphalt mix design ..................................................................... 54 
+Table 4:7 Summary of Marshall and Volumetric property results of neat asphalt ................. 55 
+Table 4:8 Lower and upper limits of asphalt ............................................................ 55 
+Table 4:9 Different kaolinite percentages added to 5% CR ............................................ 61 
+Table 4:10 5%CRMB +2% Kaolinite AC results ............................................................ 63 
+Table 4:11 ITS values for both dry and wet samples ................................................... 67 
+Table 4:12 Resilient Modulus values ...................................................................... 68 
+Table 4:13 Total Modification Cost ........................................................................ 75 
+ 
+ 
+ 
+
+xv | P a g e  
+ 
+LIST OF ABBREVIATIONS 
+AC-Asphalt Concrete 
+ACV–Aggregate Crushing Value  
+AIV- Aggregate Impact Value 
+CR- CRUMB RUBBER 
+CRMB-Crumb Rubber modified bitumen 
+ESALS-Equivalent Single Axle Load 
+GDOT-Georgia Department of Transport 
+HMA- Hot Mix Asphalt 
+Mm-Millimeters 
+MoWT-Ministry of Works and Transport 
+Pen-Penetration 
+PMB-Polymer Modified Bitumen 
+TFV-Ten Percent Fines 
+ 
+TS-Indirect Tensile Strength  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 | P a g e  
+ 
+CHAPTER 1: INTRODUCTION 
+1.1 Background of the research 
+In Uganda, asphalt pavements are more commonly used due to their smooth and 
+comfortable surface road (Mahajan, 2020). However, they often fail due to traffic 
+loads and environmental factors leading to cracks, potholes and other surface 
+defects. Damage can be begin during or soon after construction as seen at Km 51+900 
+to 52+100, Nabusanke on the Kampala Masaka Highway (Mugume, 2020).  
+Crumb rubber from waste tires can improve bitumen’s flexibility and performance 
+(Appiah et al., 2017). But challenges like phase separation occur due to 
+incompatibility and temperature changes (Zhu, 2016). 
+Studies in South Africa by Marais (2017) show that additives and proper mixing at high 
+temperatures can improve storage stability and performance. Kaolinite clay, a 
+hydrophobic minerals help slow separation and improves compatibility of modified 
+asphalt (Biro et al., 2021). 
+1.2 Problem Statement 
+Fatigue cracking is a common type of distress seen along the Kampala–Masaka 
+Highway at Km 51+950 to 52+100 in Nabusanke (TRL, 2019). This is mainly caused by 
+repeated loading from heavy trucks which creates tension at the bottom of the 
+asphalt layer. A reported by Rolt et al. (2019) submitted to UNRA showed that an axle 
+load survey at Buwama recorded tire pressures of 900kPa which is much higher than 
+the design range of 550 to 700kPa and a MESA of 49 exceeding the design value of 44. 
+
+2 | P a g e  
+ 
+These high tire pressures and axle loads cause serious pavement distress. Overtime, 
+cracks form and spread and environmental factors like temperature changes and 
+moisture make the situation worse.  
+As the cracks grow, rain water enters the pavement, weakening the bond between 
+bitumen and aggregates. This leads to potholes, poor road performance, traffic jams 
+and even accidents (Costa,2022). 
+A study by Gou J. (2081) investigated the improvement of storage stability of 
+modified asphalt with nano clay. It was found that incorporation of nano clay 
+enhances storage stability by preventing phase separation.Another study by Costa 
+(2022) investigated the impact of heavy traffic and environmental factors on asphalt 
+fatigue. The study recommended the use of modified bitumen and improved 
+pavement design to withstand higher loads and temperature changes.  The purpose of 
+this study is to modify bitumen with Crumb Rubber and Kaolinite clay to improve 
+asphalt’s resistance to deformation. 
+1.3 Objectives of the study  
+1.3.1 Main objective 
+To assess the use of Crumb rubber and Kaolinite clay to the deformation resistance of  
+asphalt pavements.  
+1.3.2 Specific objectives 
+1. To determine the properties of bitumen, aggregates, crumb rubber and neat 
+asphalt. 
+
+3 | P a g e  
+ 
+2. To determine the properties of Crumb Rubber modified bitumen and obtain the 
+optimum rubber content. 
+3. To determine the storage stability of the CR-Kaolinite modified bitumen and 
+obtain the optimum Kaolinite content. 
+4. To compare the indirect tensile strength of the modified and unmodified 
+asphalt. 
+1.4 Research questions  
+1. What are the properties of bitumen, aggregates, crumb rubber and neat 
+asphalt? 
+2. What are the properties of CR modified bitumen? 
+3. What is the storage stability of CR-Kaolinite modified bitumen? 
+4. What is the indirect tensile strength of the modified and unmodified asphalt? 
+1.5 Scope of research  
+1.5.1 Content scope  
+This study focuses on evaluating the effectiveness of crumb rubber and kaolinite clay 
+in enhancing asphalt's resistance to deformation. The research explores how the 
+combination of these modifiers can improve the mechanical properties and 
+performance of bitumen under load and environmental stress. 
+1.5.2 Geographical scope  
+The research will be conducted along a section of the Kampala–Masaka Highway, a 
+major roadway in Central Uganda connecting Kampala, the capital city, to Masaka in 
+
+4 | P a g e  
+ 
+the southwestern region. The highway stretches approximately 127 kilometers, 
+starting in Kibuye (Makindye Division) and passing through key towns including 
+Kyengera, Nsangi, Mpigi, Buwama, Kayabwe, and Lukaya, before reaching Masaka. 
+The specific area of investigation will be at Km 51+900 to 52+100, Nabusanke. 
+1.5.3 Time scope  
+This project will be carried out over a duration of eight months, beginning in 
+September 2024 and concluding in April 2025. 
+1.6 Justification  
+Blending crumb rubber with hot bitumen significantly enhances binder properties, 
+especially in terms of viscosity and softening point. This is largely due to the swelling 
+effect of rubber particles, which absorb maltenes from bitumen, increasing their 
+volume by up to three to five times. The resulting binder contains a higher 
+concentration of asphaltenes, leading to increased viscosity. In addition to improving 
+high-temperature performance, crumb rubber also reduces creep stiffness, thereby 
+enhancing low-temperature crack resistance and decreasing the aging index. This 
+makes the pavement more flexible and better able to withstand repeated heavy 
+loading (Zhang, 2019). 
+Kaolinite clay, with its large surface area, serves to mitigate phase separation by 
+reducing oxygen intrusion and improving the compatibility between the polymer and 
+bitumen, leading to a more homogeneous blend (Favakeh, 2022). 
+
+5 | P a g e  
+ 
+1.7 Significance of the study  
+The integration of crumb rubber and kaolinite clay into hot mix asphalt (HMA) 
+presents numerous benefits in terms of both performance and sustainability. Crumb 
+rubber improves HMA durability by increasing resistance to moisture damage, rutting, 
+and fatigue cracking, which leads to extended pavement life and lower maintenance 
+costs (Li et al., 2015). Meanwhile, kaolinite clay, a naturally occurring mineral, 
+enhances HMA performance by increasing fatigue resistance and overall strength 
+(Silva et al., 2018). The synergistic use of these two modifiers results in a stiffer, 
+stronger, and more crack-resistant asphalt mix with improved workability (Yin et al., 
+2019). 
+
+6 | P a g e  
+ 
+CHAPTER 2: LITERATURE REVIEW 
+2.1 Pavement 
+A highway pavement is an engineered structure composed of multiple layers of 
+selected materials laid over the natural subgrade. Its primary function is to transfer 
+traffic-induced loads down to the underlying soil in a safe and efficient manner. 
+2.1.1 Types of pavements 
+Highway pavements are generally classified into two main categories: flexible 
+pavements and rigid pavements. 
+a) Rigid Pavements 
+Rigid pavements are constructed using cement concrete or reinforced concrete slabs. 
+Compared to flexible pavement, rigid pavements are placed either directly on the 
+prepared subgrade or on a single layer of granular or stabilized material. Since there 
+is only one layer of material between the concrete and subbase, this layer can be 
+called as base or subbase course (Tom and Rao,2021). The concrete slab ranges in 
+thickness from 6 to 14 inches (152.4 -355.6mm).  
+The core design principle of rigid pavements is to create a high-strength concrete slab 
+that can bear and distribute vehicular loads with minimal deformation. Due to their 
+high stiffness and elastic modulus, rigid pavements spread applied loads over a wider 
+area of the subgrade enhancing overall performance and extending service life 
+(Zzigwa,2024). 
+ 
+
+7 | P a g e  
+ 
+b) Asphalt pavement  
+Asphalt pavements get their name because they are designed to deflect or flex under 
+traffic loads rather than remain rigid. These pavements typically consist of multiple 
+layers, with each one distributing the load it receives to the layer below it. This 
+layered system helps spread out stress from vehicle efficiently (Mathakiga,2016).  
+A standard asphalt pavement is made up of the surface course, base course,subbase 
+and subgrade as illustrated in figure 1 (Hoffman,2008). The surface layer usually a hot 
+mix asphalt is the stiffest and contributes most of the pavement’s strength. As you go 
+deeper into the pavement, the layers tend to be less rigid but equally important 
+especially for drainage, frost resistance and overall structural support. The general 
+rule in asphalt pavement design is that the quality of materials gradually reduces with 
+depth.  
+ 
+Figure 2:1 Pavement structure (Hoffman,2008) 
+2.1.2 Elements of asphalt pavement 
+a) Surface course 
+This is the top layer that directly interacts with vehicle traffic. It’s made of high 
+quality materials and is designed to provide friction, smoothness and noise reduction. 
+It also prevents surface water from penetrating into the lower layers. According to 
+Hoffman (2008), Surface course is divided into: 
+
+8 | P a g e  
+ 
+ Wearing Course: The very top layer that endures most of the traffic wear.  
+ Binder Course: It is located just below the wearing course, its main job is to 
+distribute load across the pavement structure. 
+b) Base course  
+This layer lies directly under the surface course and supports it by spreading loads 
+further and assisting in drainage. It should have a CBR (unsoaked) ≥ 80%, Resilient 
+Modulus 500-800Mpa, compacted at 90% MDD and with a plasticity index ≤ 6. 
+c) Subbase Course 
+Found below the base course, this layer typically uses lower quality material than the 
+base but still offers better performance than the natural soil. The performance 
+requirements of the subbase layer are; CBR (unsoaked) ≥ 30-40%, Resilient Modulus 
+150-300Mpa, compacted ≥ 95% MDD and with a plasticity index ≤ 10. 
+d) Subgrade 
+The subgrade is the natural grounds or soil that supports the entire pavement 
+structure. Its strength is crucial to the long term performance of the pavement. It has 
+a minimum CBR ≥ 8%, PI < 12, MR 50-100Mpa and compacted ≥ 95% MDD. 
+2.1.3 Design and functional requirements of asphalt pavements 
+i) Functional requirements of asphalt pavements 
+Asphalt concrete in surface layers must be durable, waterproof and resistant to 
+deformation, fatigue and aging (Handbook of Highway Engineering, 2024).  Key 
+properties required in asphalt mixes for surfacing include:  
+ Resistance to plastic deformation and cracking to handle traffic loading. 
+
+9 | P a g e  
+ 
+ Workability to ensure the mix can be laid and compacted properly without 
+segregation. 
+ Air voids should be sufficient to prevent bleeding and deformation after 
+compaction. 
+ Adequate binder content to with the right type and grading of aggregates to 
+form a durable, near impermeable surface. 
+ii) Asphalt pavement design process 
+The design process generally follows five key steps: 
+a) Estimating how much traffic the road will carry over its lifetime 
+To design a road properly, engineers must first figure out how much traffic it will 
+handle each day—specifically, the number of Equivalent Standard Axles (ESAs) using 
+one lane when the road first opens. This number is then projected over the road’s 
+intended lifespan to estimate total traffic loading. To get this data, traffic counts are 
+done to identify vehicle types and how often they pass, along with weighing vehicles 
+at weighbridges to determine axle loads. 
+This step helps prevent underestimating loads, which can cause the road to fail early, 
+or overestimating them, which can make the road more expensive than necessary. 
+b) Assessing the strength of the soil beneath the road (subgrade) 
+After traffic loading, the next crucial factor is how strong the soil is where the road 
+will be built. This strength affects how the pavement layers will be structured. 
+Engineers use tests like the California Bearing Ratio (CBR) to classify soil strength 
+
+10 | P a g e  
+ 
+(from S1 to S6), especially in wet conditions. If the subgrade is weak, a thicker base 
+or subbase is needed, or the soil may need to be stabilized. 
+Strong soil reduces construction costs, making it an advantage in the design. 
+c) Understanding the local climate 
+Here, the goal is to study the area’s rainfall, temperature changes, and groundwater 
+levels. This helps engineers predict how bitumen will behave under these conditions. 
+For example, moisture can weaken the subgrade, so wet climates need better 
+drainage. In hot areas, harder bitumen is used to prevent rutting. 
+Knowing the climate ensures the road materials will perform well over time. 
+d) Considering practical factors that may affect design choices 
+Things like whether local materials are available, how difficult the terrain is, and 
+whether construction equipment and labor are accessible all impact the final design. 
+These real-world conditions help decide what materials and methods are most 
+practical and cost-effective for that specific road project. 
+2.1.4 Asphalt pavement failures  
+a) Rutting 
+Ruts are depressions in the wheel paths caused by permanent deformation under 
+traffic loading. 
+Cause: Poor compaction, inadequate pavement thickness and improperly designed 
+ 
+
+11 | P a g e  
+ 
+ 
+Figure 2:2 Rutting on an asphalt pavement (Handbook of Highway Engineering, 
+2024) 
+Solutions: Reduce vertical pressure on the surface and improve on the drainage. Also 
+use a proper mix design to obtain a marshall flow of 2 to 4mm and stability of 8-18KN.  
+b) Potholes 
+These are holes formed in the pavement due to poorly graded aggregates or 
+insufficient binder during mix design. Bitumen may strip from the aggregates 
+especially in thin pavement layer. 
+ 
+
+12 | P a g e  
+ 
+Figure 2:3 Potholes on as asphalt pavement (Handbook of Highway Engineering, 
+2024) 
+c) Alligator Cracks 
+These cracks form a pattern similar to an alligator’s skin and a clear sign of structural 
+failure.  
+Cause: weak subgarde or subbase, poor compaction.  
+Mitigation: Use appropriate subgrade/subbase materialswith a required CBR values. 
+Also ensure layers are compacted to maximum dry density. This can be confirmed by 
+using sand cone replacement to confirm proper compaction.  
+2.2 Materials used to make asphalt 
+2.2.1 Bitumen  
+Bitumen is one of the oldest and most widely used engineering materials primarily 
+serving as a binder for mineral aggregates in pavement construction (Coplantz,1993). 
+Although it constitutes only 5% by weight in asphalt concrete, its characteristics 
+significantly influence both the construction process and the long term performance 
+of flexible pavements. 
+Chemically,bitumen can be sourced from natural deposits or from distillation of crude 
+oil. At room temperature, bitumen appears almost solid but becomes soluble in 
+solvents like toluene (Lesueur, D, 2009). Commercial production typically involves 
+destructive distillation, starting with the atmospheric distillation of crude oil to 
+separate lighter components. The remaining residue is then refined under vacuum 
+conditions at elevated temperatures (Speight, J, 1999; Topal, 2010). The internal 
+
+13 | P a g e  
+ 
+structure of bitumen is heavily influenced by the dispersion of asphaltenes within the 
+oily matrix. Surrounding each asphaltene particle is a layer of hydrocarbons, 
+stabilized by resins through polar interactions, which helps maintain the material’s 
+stability and consistency. 
+i. 
+Chemical composition of bitumen 
+Bitumen is primarily made up of hydrocarbons including aliphatic, aromatic and 
+naphthenic compounds along with their derivatives (Porto, 2019). The major elements 
+in bitumen are carbon about 90% and hydrogen around 10% (Anderson, 1994). In 
+addition, it contains small amounts of other elements such as sulfur, oxygen and 
+nitrogen as well as trace levels of transition metals like vanadium, nickel and 
+manganese (Lesueur, D, 2009).  
+A key component in bitumen is asphaltenes. When mixed with a solvent, these 
+molecules tend to cluster together forming negatively charged micelles. These 
+micelles are responsible for improving the adhesion of bitumen to mineral aggregates. 
+Asphaltenes also pay a major role in determining the surface activity of the bitumen 
+(Speight, 2020). 
+The internal structure and many physical properties of bitumen are influenced by how 
+asphaltenes are dispersed within the oily matrix. Each asphaltene particle is 
+surrounded by a layer of hydrocarbons. Resins, through polar interactions, help to 
+stabilize these particles and keep them evenly distributed in the mixture. 
+
+14 | P a g e  
+ 
+ 
+Figure 2:4 Visual representation of the colloidal structure of asphalt 
+ (Speight, 2020) 
+ii. 
+Grades of Bitumen   
+A paving grade refers to a type of bitumen that has the appropriate viscosity 
+characteristics for the specific HMA application as well as the climate and traffic 
+loads where it will be used A paving grade is a grade of bitumen with viscosity 
+characteristics appropriate for the type of HMA (Transport Research Laboratory & 
+Development, 2002). Bitumen is typically classified into two main grading systems:  
+a) 
+Viscosity grades   
+Viscosity measures how fluid or resistant to flow a bitumen material is. This type of 
+grading is based on scientific viscosity test conducted at 60 oC, which closely reflects 
+the highest pavement temperatures during summer. The results are measured in 
+poise, a unit of dynamic viscosity. There are 2 approaches to viscosity grading: AC 
+
+15 | P a g e  
+ 
+grading which is done on the original bitumen as it is supplied and AR grading which is 
+carried out on aged binder residue to simulate performance over time (Raha,2014). 
+b) 
+Penetration grades   
+The penetration test is used to assess the hardness of bitumen. The basic idea is that 
+softer bitumen allows a standard needle to penetrate deeper while harder bitumen 
+resists penetration. During the test, the depth the needle penetrates measured in 10th 
+of mm under specific conditions of temperature, load and time reflects the bitumen’s 
+consistency.  
+One of the most widely used penetration grades is bitumen 60/70, commonly applied 
+in various regions. This penetration value is closely linked to how the asphalt binder 
+performs in different climates. Softer binders(higher penetration values) are ideal for 
+colder climates while harder binders(lower pen values) perform better in warmer 
+climates(Raha,2014). 
+In this study, bitumen 60/70 was selected due to its thermoplastic behavior. It softens 
+when heated and hardens when cooled. This makes it suitable for hot climates and 
+areas with heavy traffic where durability is essential. 
+To reduce distress in asphalt pavement, it’s important to enhance the performance 
+properties of the bituminous layers. One effective approach is to improve existing 
+asphalt by modifying the bitumen with various additives. This not only boosts the 
+binder’s performance but also extends pavement life and reduces vehicle operating 
+costs (Shaikh et,al.,2017). 
+
+16 | P a g e  
+ 
+Table 2:1 specifications for bitumen property (MoWT,2010) 
+Bitumen property 
+Specification 
+Penetration at 25 C (mm) 
+60/70 
+Softening point (oC) 
+49/56 
+Ductility at 25 C (mm) 
+Min 100 
+Specific Gravity (g/cm3) 
+1.01/1.06 
+Viscosity (mm2/sec) 
+Min 295 
+ 
+2.2.2 Aggregates 
+Varying types and sizes of aggregates can be used in an asphalt mixture. That is 
+coarse aggregates and fine aggregate (Transport Research Laboratory & Development, 
+2002). The aim of using varying aggregate size is to increase the interlocking 
+mechanism of interlocking is the asphalt mixture. Aggregate usually contributes to 
+90% or more by bitumen mixtures’ weight. They have three aims when used in 
+bituminous surfaces;   
+• 
+They distribute the load from the surface to bottom of the base course. 
+This is achieved by the mechanical interlocking of the aggregate particles.   
+• 
+They resist the abrasive action of the traffic. Laying a wavering surface 
+binder alone can wear out due the effects of abrasion from tires.  
+• 
+They provide a non-skid surface. A portion of the aggregate extends 
+slightly above the normal surface of the wearing mat, thereby providing a 
+roughened surface for the tires to grip. (Asphalt Institute, 2014).  
+
+17 | P a g e  
+ 
+a) 
+Tests done on aggregates to determine their mechanical properties 
+They include; Aggregate Crushing Value (ACV), Aggregate ImpactValue (AIV), Ten 
+Percent Fines Value (TFV), Sieve Analysis, Flakiness Index with the required standards 
+and specifications according to the (MoWT 2010). 
+Table 2:2 Specification for properties of aggregates (MoWT,2010) 
+TEST 
+UNIT 
+SPECIFICATION 
+AIV 
+% 
+<25 
+ACV 
+% 
+<45 
+TFV (DRY) 
+KN 
+Na 
+TFV (WET) 
+KN 
+>110 
+WET/DRY 
+% 
+>75% 
+FLAKINESS INDEX 
+% 
+Max 25 
+COMBINED SPECIFIC GRAVITY 
+ 
+2.5-2.9 
+ 
+2.2.3 Filler Materials in asphalt mixtures 
+Fillers are finely ground mineral powders added to asphalt mixes to improve certain 
+properties including workability, durability and stability. The selection of a filler 
+often depends on project requirements and the availability of local materials. A well 
+chosen filler enhances the performance of the mix and contributes to the overall 
+quality of the pavement.  
+In bituminous mixtures, fillers serve two main purposes: 
+
+18 | P a g e  
+ 
+ Filling 
+voids 
+between 
+larger 
+aggregates 
+to 
+increase 
+strength 
+and 
+impermeability. 
+ Enhancing the mechanical and physical performance of the asphalt mix. 
+a) Effects of fillers in Bituminous mixes    
+ Improved Rutting Resistance 
+Fillers like  limestone or hydrated lime can enhance the asphalt’s resistance to 
+rutting, one of the most common pavement failures. 
+ Moisture Susceptibility Reduction 
+Certain fillers can decrease the moisture susceptibility of asphalt mixes, improving 
+their durability in wet conditions.   
+ Mix Workability 
+Fillers can enhance mix workability, making it easier for construction crews to 
+achieve proper compaction during placement.  
+b) COMMON FILLERS   
+ Limestone Filler 
+Limestone filler is a widely used material in asphalt mix   design. It is known for its 
+ability to enhance rutting resistance and moisture susceptibility.   
+ Portland cement 
+Portland cement is sometimes employed as filler to improve asphalt mix properties.    
+ Hydrated Lime 
+Hydrated lime is utilized as a filler to enhance asphalt mix durability and workability.    
+
+19 | P a g e  
+ 
+2.3 Crumb rubber 
+The increasing number of vehicles globally has led to the generation of large 
+quantities of waste tires. With limited disposal space and growing environmental 
+concerns, recycling waste tires has become a necessary alternative. One of the 
+effective recycling methods is converting waste tires into crumb rubber which can 
+then be used as a modifier in bitumen for asphalt pavement applications.  
+2.3.1 Properties of Crumb Rubber  
+During Crumb rubber is produced by shredding scrap tires, resulting in rubber particle 
+that are free from fibers and steel. These particles come in various sizes and shapes 
+and their gradation is typically based on the mesh size of the screen or sieve they pass 
+through during processing. 
+There are two main processes for producing crumb rubber: 
+i) Ambient grinding 
+This method operates at room temperature and can be further divided into: 
+ Granulation; Tires are cut into smaller pieces using granulators.  
+ Cracker mills; Rubber is crushed and reduced in size by rolling between heavy 
+rotating rollers. 
+ii) Cryogenic grinding 
+This technique involves freezing the rubber using liquid nitrogen then shattering it 
+into finer particles. 
+
+20 | P a g e  
+ 
+2.3.2 Rubber composition in tires  
+Passenger car tires are primarily composed of styrene butadiene rubber, a synthetic 
+rubber derived from styrene and butadiene while truck tires generally contain a 
+higher proportion of natural rubber which is derived from the hevea brasiliensis tree 
+and consists mainly of polyisoprene (Han, L,2016). 
+The type of rubber used can either be natural or synthetic. This can significantly 
+influence the interaction between the rubber and bitumen. For instance: 
+Natural rubber has excellent elasticity, durability and fatigue resistance making it 
+suitable for heavy duty applications while SBR offers a good process ability and 
+temperature performance which is more common in lighter traffic pavements. 
+ 
+Figure 2:5 Chemical composition of various types of tires 
+ (Han, L,2016) 
+2.3.3 Performance of Crumb Rubber in Bitumen 
+The performance of CR in bituminous mixtures depends on several factors such as the 
+type and amount of bitumen, mixing duration and temperature, the size and amount 
+of rubber used, and the mixing method—whether wet or dry (Huang et al., 2007; Airey 
+et al., 2003; Jeong et al., 2010). Liu et al. (2009) ranked rubber content as the most 
+significant factor, followed by the type and particle size of the rubber. 
+
+21 | P a g e  
+ 
+2.4 Bitumen Modification 
+Bitumen in its pure form is not suitable for modern pavement demands due to its 
+susceptibility to various types of failure during service. These limitations have driven 
+significant interest in the field of bitumen modification to enhance its performance 
+characteristics under different traffic and climatic conditions (Walter H. F., 1993). 
+2.4.1 Types of Bitumen Modification 
+Two major types of bitumen modification have been explored: 
+i) Chemical Modification 
+This involves the use of chemicals such as acids and metallic oxides to alter the 
+chemical structure of bitumen. However, due to the complex molecular structure of 
+bitumen, chemical modification has not yet been commercialized extensively. 
+ii) Physical Modification 
+This is more commonly practiced and involves blending polymeric materials with 
+bitumen. The most promising modifiers include: Thermoplastics, thermoplastic 
+elastomers and rubbers. 
+Among these, rubber-based modifiers are particularly attractive due to their lower 
+cost and proven performance enhancements. Common rubber types used include: 
+Polybutadiene Rubber (PBR), Styrene-Butadiene Rubber (SBR) and  Ground Tire 
+Rubber (GTR). 
+Although thermoplastic elastomers like styrene-butadiene-styrene (SBS) and 
+plastomers such as ethylene-vinyl acetate (EVA) are effective, rubbers are often 
+preferred in practice due to economic considerations (Youseft A., 2001). 
+
+22 | P a g e  
+ 
+2.4.2 Need for Modified Bitumen in Pavements 
+With the increasing axle loads, tire pressures, and traffic volumes, conventional 
+bitumen mixtures often fail to deliver the required durability. As a result, polymer-
+modified bitumen has become increasingly popular. 
+According to Islam (2014), several classes of modified binders have been adopted to 
+address pavement distress problems. Vasudevan et al. (2012) further emphasized that 
+bitumen modification aims to: 
+ Increase stiffness at high temperatures to reduce rutting 
+ Improve fatigue resistance under repeated traffic loading 
+ Enhance adhesion between binder and aggregates, reducing moisture damage 
+2.5 Interaction Between Bitumen and Crumb Rubber 
+When crumb rubber (CR) is mixed with bitumen, a physical interaction takes place. 
+The CR absorbs some of the lighter aromatic components in the bitumen, causing the 
+rubber particles to swell. This swelling leads to changes in the structure of the 
+rubberised binder. The modified binder performs better than the original 
+(unmodified) bitumen due to these changes. Researchers like Airey et al. (2003) and 
+Bahia & Davies (1995) observed that this process results in increased viscosity and 
+enhanced physical and rheological behavior, which contributes to the pavement's 
+resistance to rutting (Huang et al., 2007). The swelling restricts the movement of 
+rubber particles within the bitumen matrix, minimizing the free space between them, 
+which is key to improved performance (Abdelrahman & Carpenter, 1999). 
+
+23 | P a g e  
+ 
+2.5.1 Factors that influence performance of Crumb rubber in bitumen 
+a) 
+Rubber Particle Size (Gradation) 
+Crumb rubber is usually categorized based on particle size: coarse (6.3–9.5 mm), 
+medium (2 mm–600 μm), fine (425–180 μm), and very fine (100–500 mesh) 
+(Sunthonpagasit, 2004). Very fine particles, when subjected to high shear mixing, 
+tend to remain suspended and do not settle, allowing for shorter mixing times and 
+lower temperatures, which helps resist ageing (Billiter, 1997). Finer rubber particles 
+swell more quickly due to their larger surface area, increasing viscosity but also 
+speeding up depolymerisation during heating. The extent of swelling is also influenced 
+by the type of bitumen and the characteristics of the rubber (Airey et al., 2003). 
+b) 
+Rubber Grinding Method 
+The production method also affects performance. Crumb rubber made using the 
+cryogenic process appears smooth and angular, while the ambient method produces 
+rubber with a rougher, more porous surface (Shen, 2005). The ambient process results 
+in a higher surface area, which promotes better interaction with the binder and 
+improved performance overall (Cong, 2013). Binders modified with ambient rubber 
+typically have higher viscosity and elasticity, offering better rutting resistance 
+(Thodesen). 
+c) 
+Mixing Methods 
+There are two main approaches for adding rubber to bitumen. The first method 
+dissolves the rubber into the binder, while the second substitutes part of the fine 
+aggregate with ground rubber, which doesn’t fully blend with the binder (Huang et 
+
+24 | P a g e  
+ 
+al., 2007). According to Kim, the wet process outperforms the dry method in both 
+strength and deformation resistance, especially at high temperatures. 
+d) 
+Blending Conditions 
+Blending conditions, especially temperature and time, play a crucial role in 
+determining the consistency of the modified binder. Xiao et al. (2006) found that 
+blending the materials for 45, 60, or 90 minutes did not significantly alter binder 
+properties, although changes tended to stabilize between 60 and 90 minutes. 
+ 
+e) 
+Rubber Content 
+Research by Lee et al. (2008) indicated that increasing crumb rubber content raises 
+the binder's viscosity at 135°C and improves rutting resistance. However, it also 
+reduces binder resilience. Becker et al. (2001) noted that more rubber results in 
+higher viscosity and softening points, while penetration decreases—meaning the 
+binder becomes stiffer. 
+f) 
+Neat Bitumen Characteristics 
+The original bitumen properties also influence the performance of CRMB. Softer 
+bitumen, with a higher proportion of light fractions, leads to greater rubber swelling, 
+enhancing the binder’s behavior in both high and low temperatures compared to 
+harder bitumen (Han et al., 2016). 
+
+25 | P a g e  
+ 
+2.6 Physical and Rheological Properties of CRMB 
+2.6.1 Penetration 
+Penetration measures how soft or hard the bitumen is. When crumb rubber is added, 
+this value decreases, showing that the binder becomes stiffer and more viscous. 
+Mahrez (1999) observed lower penetration values in rubberised binders both before 
+and after aging, especially with increased rubber content. 
+2.6.2 Elastic Recovery 
+Elastic recovery shows how well a binder stretches and returns to its original shape. It 
+reflects resistance to permanent deformation. According to Jensen and Abdelrahman 
+(2006), this property is vital for assessing rutting and fatigue resistance. Rubber-
+modified binders have significantly better elastic recovery than unmodified ones 
+(Oliver, 1981; Mashaan et al., 2011). 
+2.6.3 Ductility 
+Ductility describes how far a binder can stretch before breaking. Finer rubber 
+particles enhance ductility, allowing for more elongation. Mashaan et al. (2011) found 
+that ductility and toughness increase with rubber content. Jensen and Abdelrahman 
+(2006) also noted that both blending time and temperature affect these properties, 
+with the best results observed at 240°C after two hours. 
+2.6.4 Viscosity and Softening Point 
+Viscosity refers to how resistant the binder is to flow, while the softening point is the 
+temperature at which the binder begins to soften. Adding crumb rubber increases 
+
+26 | P a g e  
+ 
+both. Higher viscosity can make mixing and compaction harder but improves overall 
+performance (Mahrez, 1999; Mashaan et al., 2011). 
+2.7 Challenges in Polymer Modification 
+While CRMB enhances performance, it has a couple of drawbacks. First, the high 
+viscosity of rubberised binders requires higher mixing and compaction temperatures, 
+which drives up energy use (Wang, 2018). Second, CRMB suffers from storage 
+instability at high temperatures (140–180°C), a problem that’s even worse than in 
+other polymer-modified binders (Polacco, 2015). The issue arises due to differences in 
+density, structure, and chemical composition between the bitumen and rubber (Zhu, 
+2015). 
+Poor storage stability affects binder quality, complicates handling, and limits pipeline 
+transport, which can impact pavement durability. Therefore, it's essential to 
+understand how factors like rubber content and additives influence stability. Two 
+main solutions are used: adding chemical agents to improve bonding or treating the 
+surface of the rubber itself (Sienkiewicz, 2017). 
+2.7.1 Measuring Storage Stability of CRMB 
+To evaluate how stable CRMB is, several methods are used. Microscopy—especially 
+fluorescence microscopy—can visualize the phase separation of rubber and bitumen by 
+highlighting their response to UV light (Abdelrahman et al., 2014). However, this 
+method isn’t ideal for CRMB due to the large particle size. 
+
+27 | P a g e  
+ 
+Fourier Transform Infrared Spectroscopy (FTIR) helps detect changes in the polymer 
+content by analyzing specific chemical bonds, but it often produces inconsistent 
+results (Liu et al., 2013; Kuang et al., 2019). 
+The most common practical test is the cigar tube method. This simulates field 
+conditions without stirring, allowing researchers to test samples from different parts 
+of the tube to evaluate how well the rubber stays mixed with the bitumen. 
+2.7.2 Addressing Storage Instability with Nanoclay (Kaolinite) 
+The tendency of modified asphalt to separate into different phases during storage can 
+be explained using Stoke’s Law, which governs the settling velocity of particles: 
+ 
+Where: 
+Vt is the velocity at which particles settle, 
+α is the radius of the dispersed particles, 
+∆ρ is the difference in density between the particle and the medium, 
+g is the acceleration due to gravity, and 
+η is the dynamic viscosity of the liquid. 
+In the case of modified asphalt, crumb rubber (CRM) tends to sink due to its higher 
+density compared to the base asphalt, whereas lighter polymers like SBR (Styrene-
+Butadiene Rubber) and SBS (Styrene-Butadiene-Styrene) tend to rise to the top. This 
+phase separation during storage leads to uneven distribution of components, resulting 
+
+28 | P a g e  
+ 
+in significant differences in both composition and performance between the top and 
+bottom layers of the stored binder. 
+Earlier attempts to mitigate this issue have included adjusting the asphalt density 
+using bio-modifiers (Fini, 2019) or chemically activating the crumb rubber (Cheng, 
+2011). However, these strategies have only provided limited success. 
+A more promising approach explored in this study involves adding nanoclay to the 
+polymer-modified asphalt. Nanoclay helps reduce phase separation by slowing down 
+the movement of insoluble polymer additives within the binder (Yu, 2015). By 
+lowering the migration rate, the additives remain more uniformly distributed during 
+storage. 
+Nanoclay, a naturally occurring mineral, includes forms such as kaolinite (KC), 
+vermiculite (VMT), and montmorillonite (MMT). These clays have a 2:1 layered 
+structure—two silica tetrahedral layers encasing an alumina octahedral sheet. 
+Previous research shows that nanoclays significantly enhance the rheological (flow) 
+properties of asphalt binders. 
+For instance, Vargas et al. (2017) observed that organo-nanocomposite asphalt forms 
+an intercalated structure, as confirmed by X-ray diffraction (XRD) and transmission 
+electron microscopy (TEM). This means that the polymer chains in the binder can 
+insert themselves into the clay layers, improving the overall performance. Leng et al. 
+(2019) found that asphalt modified with SBS and clay exhibited good storage stability 
+and showed better resistance to aging by reducing both bitumen oxidation and SBS 
+degradation. 
+
+29 | P a g e  
+ 
+Galooyak et al. (2010) also confirmed that nanoclays enhance the storage stability of 
+SBS-modified asphalt, based on their analysis of binder morphology. Because of these 
+benefits, nanoclay has gained attention in the asphalt industry as a reliable additive 
+to improve storage stability in polymer-modified asphalts (PMAs). 
+It’s important to note that complete dissolution of polymers in the bitumen is not 
+ideal. When this happens, the asphalt can break down the polymer’s structure, 
+preventing the binder from fully benefiting from the polymer’s mechanical properties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+30 | P a g e  
+ 
+CHAPTER 3: METHODOLOGY 
+3.1 Research design 
+This was a practical study type along the Kampala-Masaka highway aimed at accessing 
+cracks and thus finding a sustainable and workable solution to the existing problem by 
+modifying bitumen using Crumb Rubber and Kaolinite clay. There were three data 
+collection methods used in this research design. They include;primary, secondary and 
+data collection methods.  
+3.2 Primary data collection method 
+3.2.1 Material collection and preparation  
+14/20 mm basalt aggregates and 60/70 PEN grade bitumen were sourced from Stirling 
+Engineering Ltd in Mbalala because they are the same materials used during the 
+construction of  the Kampala-Masaka highway project. 60/70 pen grade bitumen was 
+used because Uganda is in the tropical climate region.  
+Crumb rubber was purchased from City Tyres shredding unit, 6th street Industrial 
+Area. Several operations such as milling, shredding and magnetic iron separation were 
+done to obtain the crumbs. Kaolinite clay was purchased from Kabal Chemical 
+Suppliers LTD in Banda.  
+3.2.2 Testing for properties of Bitumen 
+I. 
+Penetration Test at 25 oC for 5 seconds, AASHTO T49 
+This aimed at measuring the hardness or softness of a bitumenmaterial through 
+measuring in tenths of a millimeter, which a standard needle can penetrate vertically 
+
+31 | P a g e  
+ 
+into a sample under a given set of conditions of temperature 25 oC, load 100g and 
+time 5 sec. For instance, if the needle penetrates 60mm within 5 sec, then it is 60 
+and is designated as 60 penetration. The penetration value is the length of 
+penetration the needle can reach in 1/10 mm increments. 
+Higher penetration values indicate softer or more fluid bitumen, while lower 
+penetration values indicate harder or more viscous bitumen. The Standard Test 
+method for Penetration is the ASTM D 5-86 Test. For 60/70 pen, the penetration value 
+at 25oC should lie between 60 and70 mm. 
+II. 
+Softening Point Test AASHTO T53 using a Ring and Ball test 
+This is the temperature at which bitumen binders begin to flow. The softening point 
+test is done to measure the viscosity of the bitumen thus will enable predict the 
+temperature necessary to obtain the fluidity required in the mixture. It indicates the 
+tendency of the material to flow at high temperatures that are experienced during 
+operation.  The temperature at which the ball touches the bottom of the container is 
+recorded as the softening point. The softening point of bitumen helps determine the 
+temperature range over which the material remains in a sufficiently soft and flexible 
+state to resist deformation under traffic loads.  ASTM D 36-70 is the Standard of 
+Softening Point Test. The softening point for 60-70 PEN bitumen should lie between 
+49 and 56 degrees Celsius. 
+III. 
+Specific Gravity Test 
+To determine the mass per unit volume of the bituminous material, the specific 
+gravity test is conducted. This was done by weighing a sample of a bitumen in a 
+
+32 | P a g e  
+ 
+calibrated pycnometer after initially measuring for its mass and volume. 
+Temperature, type of bitumen, compaction and moisture content are some of the 
+factors that can affect  density of the bitumen. After being tempered to 25 °C and 
+filled with distilled water, the pycnometer was weighed. The relative density and 
+material density were computed using this data. ASTM D70-97 is the Standard of 
+Bituminous Binder Density.   The specific gravity at 25 degrees should lie between 
+1.01 and 1.06 kg/m3 
+IV. 
+Ductility test  
+The ductility is a distinct strength of bitumen, allowing it to undergo notable 
+deformation or elongation. The ductility is defined as the distance in centimetre, to 
+which a standard sample or briquette of the material will be elongated without 
+breaking. The bitumen-rubber modification resulted in a better rutting resistance and 
+higher ductility. 
+The bitumen-rubber modification resulted in a better rutting resistance and higher 
+ductility. 
+The ductility values for this modification are very key to this study because they will 
+confirm the action of the crumb rubber to increasing the elastic properties of base 
+bitumen to enable it to resist cracking after heavy loads are applied on the asphalt 
+surface. The ductility value is proportional to the flow value in the Marshall Flow and 
+Stability Test. 
+The ductility test is conducted according to ASTM D-113.for 60/70 Pen bitumen, the 
+ductility at 25 oC should be above 100 min. 
+
+33 | P a g e  
+ 
+V. 
+Viscosity Test 
+The viscosity refers to the fluid property of the bitumen, and it is a gauge of flow-
+resistance. At the application temperature, viscosity greatly influences the potential 
+of the resulting paving mixes. Mahrez and Rehan (2003) claimed that there is a 
+consistent relationship between viscosity and softening point at different aging phases 
+of rubberised bitumen binder. Also, it is reported that the higher crumb rubber 
+content leads to higher viscosity and softening point. The viscosity is a continuously 
+increasing non linear function of rubber content and the relative increase is a factor 
+related to the application of temperature (Bahia and Davies, 1995). According to a 
+study conducted by Lee et al. (2008), the higher crumb rubber content produced 
+increased viscosity at 135°C and improved the rutting properties. It was also observed 
+that the increased crumb rubber amount (fine crumb rubber) produced rubberised 
+bitumen with higher viscosity and lower resilience. Lee et al. (2008) 
+3.2.3 Testing for aggregate properties  
+The mechanical property tests on aggregates such as gradation, AIV, ACV, TFV, LAAV, 
+water absorption and combined specific gravity were conducted on the aggregates.  
+a) Density and Water Absorption of Aggregates 
+The capacity of an aggregate to absorb water is known as water absorption. It is often 
+stated as a percentage of the dry weight of the aggregate. Porosity, particle shape, 
+surface roughness, and the existence of pores or spaces inside the aggregate are some 
+of the variables that might affect water absorption.   
+
+34 | P a g e  
+ 
+This was selected to characterize to aggregates used in the mix design by how much 
+water they take in. High water absorption can lead to several issues in concrete, 
+including reduced workability, increased water demand, decreased strength, and 
+durability problems such as cracking, breaking away of pieces of concrete from the 
+surface of a road or bridge deck, and freeze-thaw damage. Both density and water 
+absorption are typically determined through standardized testing procedures 
+prescribed by ASTM. BS 812: Part 2: 1975 is the Standard for Density and Water 
+Absorption of Aggregates.  
+b) Aggregate crushing value ACV 
+The Aggregate Crushing Value (ACV) was selected as it gives the relative measurement 
+of an aggregate's ability to withstand crushing under a weight that is delivered 
+gradually.   
+The aggregate specimen is put in a cylindrical container and given a predetermined 
+load during the ACV test. Until the aggregate fractures or fails under pressure, the 
+load is supplied progressively over time. The weight of the fines, or material that 
+passes through particular sieve sizes, is divided by the specimen's total weight to 
+determine the ACV. The material that passes through a certain sieve after being 
+crushed with a 400 KN force is measured to find the aggregate crushing value, or ACV. 
+The ASSHTO specification indicates that the ACV of aggregates to use for an asphalt 
+should be below 30. 
+c) Ten Percent Fines Value TFV 
+
+35 | P a g e  
+ 
+The Ten Percent Fines Value (TFV) was selected because it gives relative measure of 
+the resistance of an aggregate to crushing under a gradually applied load hence 
+qualifies for strength of the aggregates. The TFV is calculated as the percentage of 
+fines produced relative to the total weight of the aggregate sample. This number 
+indicates how resilient the aggregate is to shocks or abrupt impacts, which is crucial 
+information for determining whether or not the aggregate is suitable for use in 
+concrete mixtures that are subjected to dynamic loading conditions, including 
+pavements and roads.  
+In pavement design, there exist precise criteria for the TFV (Toughness and Abrasion 
+Resistance of Fine Aggregate) of materials, evaluated in both dry and soaked 
+conditions. BS 812: Part 111: 1990 is the Standard for Ten Percent Fines value. The 
+specification states that the TFV should lie between the range of 7.5 – 12.5 
+d) Aggregate Impact Value (AIV) 
+The Aggregate Impact Value (AIV) was selected because it gives relative measure of 
+the resistance of an aggregate to sudden shock or impact. It assesses the toughness of 
+aggregates by subjecting them to a standard amount of impact in a rotating drum 
+containing steel balls or hammers. When building a road, aggregates should be sturdy 
+enough to withstand crushing by tire loads from vehicles. Impact or crushing tests can 
+be used to gauge the aggregates' strength. BS 812: Part 112: 1990 is the Standard for 
+Aggregate Impact Value (AIV). The standard of aggregates to use for asphalt should lie 
+below 30. 

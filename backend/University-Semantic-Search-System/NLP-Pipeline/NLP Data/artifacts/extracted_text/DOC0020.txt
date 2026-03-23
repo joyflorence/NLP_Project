@@ -1,0 +1,1579 @@
+ 
+INTERNAL CONTROL SYSTEM AND UTILISATION OF LOCAL REVENUE IN 
+TORORO MUNICIPAL COUNCIL, EASTERN DIVISION  
+ 
+ MIRIA APAAMA 
+S23/MUC/BBA/054  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL FULFILLMENT 
+OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF BACHELOR OF 
+BUSINESS ADMINISTRATION OF UGANDA CHRISTIAN UNIVERSITY 
+July,2025 
+ 
+ 
+ 
+ 
+
+ 
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+iv 
+ 
+DEDICATION 
+This report is dedicated to my mother Ms. Achalat Betty, my husband Mr. Bwire Julius and my 
+children: Darryl, Shalom, Shiloh and Julius for the sacrifices you have made towards my academic 
+journey.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+v 
+ 
+ 
+ACKNOWLEDGMENT 
+I thank the Almighty God for enabling me to compile this report. I wish to extend my sincere 
+gratitude to my mother, my husband and our beloved Children who have encouraged me to go a 
+little further in pursuit of academic excellence.  
+It is also my pleasure to acknowledge my Supervisor Mr. Owino Samson for his endeavour and 
+guidance, technical advice and support to successfully carry out this study.  
+I’m indebted to Sr. Achieng Elizabeth and Sr. Anastasia Anyumel for the financial support without 
+which I couldn’t have completed my course.  
+I thank the entire Academic staff and the management of Uganda Christian University for the good 
+cooperation and academic guidance. Special appreciations to my friends and relatives for their 
+commitment in extending both financial and spiritual support and encouragements they have given 
+me throughout the course. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+vi 
+ 
+ 
+ACRONYMS  
+ACODE 
+: Advocates Coalition for Development and Environment 
+AG 
+ 
+: Auditor General 
+LG 
+ 
+: Local Government 
+LLG 
+ 
+: Lower Local Government  
+DPAC  
+: District Public Accounts Committee 
+GGLN  
+: Good Governance Learning Network 
+MMC  
+: TMC, Eastern Division 
+NDP 
+ 
+: National Development Plan 
+NPA 
+ 
+: National Planning Authority 
+F/Y 
+ 
+: Financial Year 
+TPC 
+ 
+: Technical Planning Committee 
+NBoS 
+ 
+: Uganda Bureau of Statistics  
+LR 
+ 
+: Local Revenue 
+OAG 
+ 
+: Office of the Auditor General 
+COSO  
+: Committee of sponsoring Organizations 
+ 
+ 
+ 
+ 
+ 
+
+ 
+vii 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ ........................................................................................................................................................ ii 
+DEDICATION ............................................................................................................................... iv 
+ACKNOWLEDGMENT ................................................................................................................ v 
+ACRONYMS ................................................................................................................................. vi 
+ABSTRACT ................................................................................................................................. xiii 
+CHAPTER ONE: ............................................................................................................................ 1 
+1.0 
+Introduction ...................................................................................................................... 1 
+1.1  
+Background of the Study .................................................................................................. 1 
+1.2 
+Problem Statement ........................................................................................................... 4 
+1.3 
+Purpose of the Study ........................................................................................................ 4 
+1.4  
+Specific Objectives of the Study ...................................................................................... 4 
+1.5  
+Research Questions .......................................................................................................... 5 
+1.6  
+Scope of the Study............................................................................................................ 5 
+1.6.1  
+Geographical Scope.......................................................................................................... 5 
+1.6.2  
+Content Scope .................................................................................................................. 5 
+1.6.3  
+Time Scope ....................................................................................................................... 5 
+1.7 
+Significance of the Study ................................................................................................. 6 
+1.8 
+Conceptual Frame work ................................................................................................... 7 
+CHAPTER TWO: ........................................................................................................................... 9 
+LITERATURE REVIEW ............................................................................................................... 9 
+2.0 
+Introduction ...................................................................................................................... 9 
+2.1. 
+The Different Sources of Local Revenue in TMC, Eastern Division .............................. 9 
+
+ 
+viii 
+ 
+2.1.1 
+Local Revenue in Local Government............................................................................. 10 
+2.1.2 
+Local Revenue Sources in Local Governments in Uganda ............................................ 12 
+2.1.3 
+Local Revenue Utilization in LGs of Uganda ................................................................ 13 
+2.1.4 
+Local Revenue Challenges ............................................................................................. 14 
+2.1.5 
+Solutions to the Challenges ............................................................................................ 14 
+2.1.6 
+Tax Administration ........................................................................................................ 15 
+2.1.7 
+Revenue Management in LGs ........................................................................................ 16 
+2.2. 
+Identify Different Internal Controls Used inTMC, Eastern Division ............................. 16 
+2.2.1 
+Components of Internal Controls ................................................................................... 18 
+2.2.2 
+Internal Control Limitations ........................................................................................... 24 
+2.3 
+Relationship between Internal control and Local Revenue in LGs ................................ 25 
+2.3.1 
+Relationship between Internal Audit and Performance in LG ....................................... 26 
+2.3.2 
+Internal Controls and Financial Accountability. ............................................................ 27 
+2.3.3 
+Internal Controls and Service Delivery .......................................................................... 29 
+2.3.4 
+Financial Accountability and Service Delivery ............................................................. 29 
+2.4 
+Service Delivery in Local Government .......................................................................... 30 
+2.5 
+Decentralization ............................................................................................................. 31 
+CHAPTER THREE: ..................................................................................................................... 33 
+METHODOLOGY ....................................................................................................................... 33 
+3.0 
+Introduction .................................................................................................................... 33 
+3.1  
+Research Design ............................................................................................................. 33 
+3.2  
+Area of the Study............................................................................................................ 33 
+3.2.1  
+The Study Population ..................................................................................................... 33 
+3.3  
+The Sample Size ............................................................................................................. 34 
+Table 3.4.1 Sample Size................................................................................................................ 35 
+
+ 
+ix 
+ 
+3.4  
+Sampling Techniques ..................................................................................................... 35 
+3.5 
+Research Procedure ........................................................................................................ 35 
+3.6 
+Data Collection Methods ................................................................................................ 36 
+3.7 
+Data Collection Instruments ........................................................................................... 36 
+3.8  
+Quality Control Methods ................................................................................................ 37 
+3.8.1  
+Validity of the Instrument .............................................................................................. 37 
+3.8.2  
+Reliability of the Instruments ......................................................................................... 37 
+3.9 
+38 
+Ethical Considerations .................................................................................................................. 38 
+3.10  
+Data Analysis and Presentation ...................................................................................... 38 
+3.11 
+Limitations of the Study ................................................................................................. 39 
+CHAPTER FOUR: ....................................................................................................................... 40 
+PRESENTATION, ANALYSIS AND DISCUSSION OF FINDINGS ....................................... 40 
+4.0  
+ Introduction ................................................................................................................... 40 
+4.1 
+Demographic Data of Respondents ................................................................................ 40 
+4.1.1  
+Sex of the Respondents .................................................................................................. 40 
+4.1.2  
+Age Distribution of Respondents ................................................................................... 41 
+4.1.3  
+Distribution of Respondents by Education Level .......................................................... 42 
+4.1.4  
+Distribution of Respondents by Marital Status .............................................................. 43 
+4.1.5  
+Distribution of Respondents by Occupation .................................................................. 44 
+4.2  
+Determine the different sources of local revenue in TMC, Eastern Division ................ 44 
+4.2.1  
+There is Rental income as sources of local revenue inTMC, Eastern Division ............. 45 
+4.2.2  
+Parking fees a source of local revenue are collected inTMC, Eastern Division ............ 45 
+4.2.3  
+Licenses and Permits are Sources of Local Revenue inTMC, Eastern Division ........... 46 
+4.2.4  
+Fines and penalties are sources of local Revenue inTMC, Eastern Division ................. 47 
+
+ 
+x 
+ 
+4.2.5 
+Market dues and tender fees contribute a lot to local revenue in theTMC, Eastern Division
+ 
+48 
+4.2.7 
+There is boda-boda fees collection as LR inTMC, Eastern Division ............................. 49 
+4.3  
+Identify the Different Internal Controls used inTMC, Eastern Division........................ 50 
+4.3.1  
+There is organisation control in TMC, Eastern Division ............................................... 50 
+4.3.2  
+There is segregation of duties in TMC, Eastern Division .............................................. 51 
+4.3.3  
+There is internal controls in TMC, Eastern Division ..................................................... 52 
+4.3.4  
+There is arithmetic and accounting controls TMC, Eastern Division ............................ 53 
+4.3.5  
+There is supervision control in TMC, Eastern Division................................................. 54 
+4.4  
+Local revenue has led to better payment of councillors’ allowances inTMC, Eastern 
+Division ..................................................................................................................................... 54 
+4.4.1  
+Local revenue has led to better payment of councillors’ allowances inTMC, Eastern 
+Division ..................................................................................................................................... 55 
+4.4.2  
+Local revenue has led to better service delivery inTMC, Eastern Division ................... 56 
+4.4.3  
+Local revenue has led to increased liquidity inTMC, Eastern Division ......................... 56 
+4.4.4  
+Local Revenue Increase has led to Better New Services inTMC, Eastern Division ...... 57 
+4.4.5  
+Local revenue has increased quality of staff inTMC, Eastern Division......................... 58 
+4.5  
+Relationship Questions on Local Revenue Utilization .................................................. 59 
+4.5.1  
+Payment of Council Benefits.......................................................................................... 60 
+4.5.1.1 Internal controls led to effective payment of council emolument innTMC, Eastern 
+Division ..................................................................................................................................... 60 
+4.5.1.2 Internal Controls have Brought More Revenue for Monitoring inTMC, Eastern Division
+ 
+61 
+4.5.1.3 The internal controls have brought about better sharing of LR inTMC, Eastern Division
+ 
+62 
+4.5.1.4 Part of LR now is used for service delivery ................................................................... 63 
+
+ 
+xi 
+ 
+4.5.1.5 Executive emoluments are now paid promptly without delay .......................................... 64 
+4.5.2  
+LOCAL REVENUE BASES ......................................................................................... 64 
+4.5.2.1 Local funds have increased in the recent years due to new utilization ............................. 65 
+4.5.2.2 Council has revenue enhancement policies in TMC, Eastern Division ............................ 66 
+4.5.2.3 Internal Controls now Protect New Utilities inTMC, Eastern Division ........................... 66 
+4.5.2.4 Local revenue bases have increased in the recent years inTMC, Eastern Division .......... 67 
+4.5.3  
+Better Service Delivery in Mbale ................................................................................... 68 
+4.5.3.1 Internal Controls have Increased Accountability and Value for Money .......................... 69 
+4.5.3.2 There is better service delivery to people in recent years inTMC, Eastern Division ....... 69 
+4.5.3.3 There is better financial accountability now inTMC, Eastern Division ........................... 70 
+4.5.3.4 The planned projects in recent years are realized in full inTMC, Eastern Division ......... 71 
+4.5.3.5 The over spending of Local revenue is now reduced inTMC, Eastern Division .............. 72 
+4.6 
+The Analysis of Variables .............................................................................................. 73 
+4.6.1 
+The Regression Analysis of Internal Controls on council Benefits ............................... 73 
+Table 4.6.1 The Regression Analysis of Internal Controls on council Benefits ........................... 74 
+4.6.2 
+The Regression Analysis of Internal Controls on Local Revenue Bases ....................... 75 
+Table 4.6.2 The Regression Analysis of Internal Controls on Local Revenue Bases .................. 76 
+4.6.3 
+The Regression Analysis of Internal Controls on Local Revenue Bases ....................... 77 
+Table 4.6.3 The Regression Analysis of Internal Controls on Local Revenue Bases .................. 78 
+4.6.4 
+The Correlation Analysis of Internal Controls on Local Revenue Use.......................... 79 
+Table 4.6.4: The Correlation Analysis of Internal Controls on Local Revenue Use .................... 80 
+4.7  
+Conclusion ...................................................................................................................... 81 
+CHAPTER FIVE: ......................................................................................................................... 82 
+SUMMARY, CONCLUSION AND RECOMMENDATIONS ................................................... 82 
+5.0  
+Introduction .................................................................................................................... 82 
+
+ 
+xii 
+ 
+5.1  
+Summary of the Major Findings .................................................................................... 82 
+5.1.1 
+Objective one: Determine the different sources of local revenue inTMC, Eastern Division
+ 
+82 
+5.1.2  
+Objective Two: Determine the different internal controls used inTMC, Eastern Division.
+ 
+83 
+5.1.3  
+Objective Three: The Relationship Between Internal Controls and LR utilization ....... 83 
+5.2  
+Conclusions .................................................................................................................... 84 
+5.2.1  
+Objective One: Local Revenue Sources ......................................................................... 84 
+5.2.2  
+Objective Two: Internal Controls ................................................................................... 84 
+5.2.3  
+Objective Three: Relationship Between Internal Controls and LR use ......................... 84 
+5.3  
+Recommendations .......................................................................................................... 85 
+5.3.1 
+Research Objective One: ................................................................................................ 85 
+5.3.2 
+Research Objective Two: ............................................................................................... 85 
+5.3.3 
+ Research Objective Three: ............................................................................................ 85 
+5.4  
+Areas for Future Research .............................................................................................. 86 
+REFERENCES ............................................................................................................................. 87 
+APPENDIX I: .................................................................................................................................. i 
+QUESTIONNAIRE ......................................................................................................................... i 
+APPENDIX II: ............................................................................... Error! Bookmark not defined. 
+BUDGET FOR THE STUDY IN UGANDA SHILLINGS .......... Error! Bookmark not defined. 
+APPENDIX III: .............................................................................. Error! Bookmark not defined. 
+THE RESEARCH WORK PLAN ................................................. Error! Bookmark not defined. 
+ 
+ 
+ 
+
+ 
+xiii 
+ 
+ABSTRACT 
+The study was about internal control and local resource utilisation in TMC, Eastern Division. 
+The major purpose of this study was to identify the effect of internal control on local resource 
+usage in TMC, Eastern Division. To achieve this purpose the study was guided by three set 
+objectives: To identify the different sources of local revenue in TMC, Eastern Division; to 
+identify the internal controls in TMC, Eastern Division; to identify relationship between internal 
+control and local resource utilisation. 
+The methods used in obtaining primary data included: self-administered questionnaire, 
+secondary data was obtained through secondary data sources; internal Reports, among others. 
+The sampling technique used was simple random and purposive sampling and with descriptive 
+data analysis. 
+ 
+ Findings reveal the following: objective one results show significantly high positive 
+relationship between revenue bases and utilisation; objective two results show that internal 
+controls explain the variation in the local resource utilisation up to 10.2%, and remaining 89.8% 
+are for other factors other than internal controls, and further influence LR utilisation by 31.9% 
+as shown by Beta value (0.319); objective three. The results reveal that there is a significant and 
+statistically positive relationship between internal controls and the local revenue utilization 
+based on Pearson correlation coefficient 39.0% as represented by (r=0.390) at a significant level 
+of 1% also (0.01).  
+Recommendations: Need to improve on the legislation, laws be read and understood by the 
+residents and staff, parliament to make laws for the Local Government, Re-engineer the entire 
+Local Government systems, Monitoring and evaluation be done by qualified persons, 
+independent persons to review the laws and plans, and government to evaluate Local 
+Governments based on cost benefit analysis 
+ 
+ 
+ 
+
+ 
+1 
+ 
+CHAPTER ONE: 
+1.0 
+Introduction  
+This chapter contains a highlight of the background of the study, problem of the statement, 
+objective of the study, research questions, conceptual frame work that  explain the 
+relationship between the dependant and independent variables, significance of the study, 
+justification of the study, scope of the study and limitations. 
+1.1  
+Background of the Study  
+Internal control system is a topical issue following global fraudulent financial reporting 
+and accounting scandals in both developed and developing countries (Mattie & Cassidy, 
+2002). According to committee of sponsoring organisations (COSO), (2004), Internal 
+Control is a system consisting of specific policies and procedures designed to provide 
+management with reliable assurance that the goals and objectives it believes important to 
+the entity will be met. In their view, the reasons to have internal controls is to promote 
+operational effectiveness and efficiency, provide reliable financial and administrative 
+information, safeguard assets and records, encourage adherence to prescribed policies and 
+compliance with regulatory agencies. The AMF Working Group (2007) looked at the 
+components of internal controls as being the control environment, control activities, risk 
+assessment, information and communication, and monitoring and evaluation 
+All organisations public or private should put in place its own system of controls in order 
+to achieve its objectives (Mwindi, 2008). A system of effective internal controls is a critical 
+component of company management and a foundation for the safe and sound operation of 
+organizations. However, ineffective internal controls result in ineffective programs and 
+eventually leading to losses (Olumbe, 2012). While writing a report on Capital Markets 
+
+ 
+2 
+ 
+Regulators Reign in on Rogue Firms for the Standard Media in May 2013, James 
+Anyanzwa stated that the recent incidence of corporate failures and accounting frauds are 
+mostly preceded by failure in companies internal control structures. 
+According to Hamed (2009), Internal Control System refers to an organized amalgamation 
+of functions and procedures, within a complete system of controls established by the 
+management and whose purpose is the successful function of the Public. Internal Control 
+System is all the methods and procedures followed by the management in order to ensure, 
+to a great extent, as much successful cooperation as possible with the director of the 
+company, the insurance of the capital, the prevention and the detection of fraud, as well as 
+the early preparation of all the useful financial information (Keitany, 2000). Hongming and 
+Yanan (2012), adds that Internal Control System resembles the human nervous system 
+which is spread throughout the Public carrying orders and reactions to and from the 
+management. It is directly linked to the organizational structure and the general rules of the 
+Public. 
+Whittington (2001) has it that a system of internal control extends beyond those matters 
+which relate directly to the functions of accounting and the financial statements. In 
+addition, he notes that internal control is a systematic procedure which will lead to evaluate 
+the degree of correlation between those established criteria and the real results of the 
+Public. 
+Internal Control, as defined from the APC (Auditing Practices Committee, 1980), is an 
+independent examination and certification from an inspector appointed by the Public to 
+control the finances according to the legal framework established each time. 
+
+ 
+3 
+ 
+In Uganda, to ensure strong internal control systems, accountability and value for money; 
+the LGA, (1997); local government financial and accounting regulation, (2007); public 
+finance and accountability regulation, (2003) and other Acts are established not only for 
+accountability reasons but also for revenue collection and better service delivery 
+Awitta (2010) stated that revenue collection is the amount of money that a company 
+receives during a specific period. The Financial Accounting Standard Board(FASB) 
+Concept Statement 6, Elements of Financial Statements (December 1985) defines revenue 
+as inflows or other enhancements of assets of an entity or settlements of its liabilities (or 
+combination of both) during a period from delivery or producing goods, rendering service 
+or other activities that constitutes the entity’s ongoing major or central operations. 
+Hongreen (2002) described revenue as inflows of asset (almost always cash or accounts 
+receivables) received for products or services provided to customers. However, KRA have 
+referred revenue to means taxes, duties, fees, levies, charges, penalties, fines or other 
+monies collected or imposed under the written laws set out in the First Schedule. 
+According to local government Act (1997), defines local revenue as the subtotal of all 
+categories collected from a number of sources like market dues, fines and penalties, parking 
+fees, and property. In conformity with the local government, (resistance councils) statue 
+NO.15 of section 44 of 1993, the 1995 constitution of the Republic of Uganda provided a 
+decentralization system of government with the districts at the top of the administrative 
+units. They are governed by the Constitution of 1995 of the republic of Uganda and local 
+government Act of 1997. According to schedule 2 of the local government Act 1997 gives 
+mandate to local governments to collect local revenues from their own sources such as 
+property tax, licenses, permits, fines and tax.  
+
+ 
+4 
+ 
+1.2 
+Problem Statement    
+Despite the fact that TMC, Eastern Division has functional internal control system that help 
+collect and safeguard local revenue from various sources such as market dues, fines and 
+penalties, parking fees, property taxes, license and permits and others for service delivery 
+to residents, (Auditor General’s Reports (2012/2013; 2013/2014; 2014/2015), reveal there 
+is poor local revenue collection and exorbitant expenditure on council emoluments. New 
+vision of (22nd Sept. 2016) reveals massive corruption which led to arrest of Town clerk 
+and head of finance of TMC, Eastern Division. Oriaro, Abigaba, (1998) reveal that this 
+trend if not addressed may lead to reliance on only donations and the central government 
+transfers if not addressed may undermine the autonomy of the Municipal Council under 
+the decentralization process. Abayade, (1981) service provision may be left to market 
+forces which may not be afforded by low income earners in the municipality. It is against 
+this background that the researcher is prompted to find out the cause of poor local revenue 
+utilisation and poor service delivery in municipal councils. 
+1.3 
+Purpose of the Study 
+The main purpose of this study was to establish the relationship between the internal 
+controls and effective utilisation of local revenue in TMC, Eastern Division. 
+1.4  
+Specific Objectives of the Study  
+1) Determine the different sources of local revenue in TMC, Eastern Division.  
+2) Determine the different internal control system used in TMC, Eastern Division. 
+3) Assess the relationship between internal controls and local revenue utilization in TMC, 
+Eastern Division. 
+
+ 
+5 
+ 
+1.5  
+Research Questions 
+1) What are the different sources of local revenue in TMC, Eastern Division?  
+2) What is the different internal control system used in TMC, Eastern Division? 
+3) What is the relationship between internal control and local revenue utilization in TMC, 
+Eastern Division? 
+1.6  
+Scope of the Study  
+The importance of this section was to explain the geographical, content and the time scope 
+of    the study as described below: 
+1.6.1  Geographical Scope 
+In order to come up with accurate results for this research, the study was limited to 
+geographical boundaries of Tororo municipality, found in Tororo district in the Eastern 
+region of Uganda. It was chosen because Tororo municipality is one of the fast growing 
+areas in the Eastern region of Uganda. 
+1.6.2  Content Scope 
+This study mainly focused on internal control systems as independent variable and 
+utilisation of local revenue as dependent variable. The major focus was mainly on the 
+functionality of internal controls established the LG Act, (1997). The content further more; 
+looked at the secondary data from the reports among others and the study also looked into 
+minutes of planning meetings, council minutes and other relevant documents.  
+1.6.3  Time Scope 
+In order to achieve the intended solution and answers in this study, this piece of work was 
+interested in both data and information from the financial year 2022-2024 
+
+ 
+6 
+ 
+1.7 
+Significance of the Study 
+The study is of great importance to municipalities in revealing the essential factors that 
+promote or undermine both LR collection and service delivery in local governments and 
+the required resources or input 
+To residents, the study is of great use to analyse the relationship between the internal 
+control and effective local revenue utilisation in Local Governments in order to make 
+appropriate developmental policies. 
+The study is to help Local Governments, specifically TMC, Eastern Division to 
+comprehend the effects of internal controls on local revenue collection. 
+The study is of great significance to the researcher, as it will enable the researcher to 
+acquire more skills in research methodology and data analysis as well a requirement for 
+attaining a Bachelor degree 
+The research is help the Local Government authorities to carry out accountability and to 
+be accountable to the various major stakeholders. For example, it helps to check on the 
+misappropriation of the Public funds.  
+It is an awakening to the municipality, as it exposes some of their inefficiencies in 
+performances and local revenue usage. It will urge responsible officers to eliminate those 
+inefficiencies so that they effectively and efficiently manage the Local council affairs. 
+Administrators; It is significant to Local Government administrators as they are able to 
+recognize the strong correlation between internal controls and local revenue collection for 
+service delivery in Local Governments.  
+The study enables Local Government stakeholders to use the revenue collected to deliver 
+services to the communities in Tororo municipality. 
+
+ 
+7 
+ 
+To government of the Republic Uganda, the study is of great use in availing important 
+information required for planning about the effective local revenue collection in local 
+governments in the country. 
+To other researchers, the study contributes to the existing literature on the effect of internal 
+controls and local revenue collection in local governments in Uganda. 
+The study is well timed when the Government Uganda has just launched Vision 2040 with 
+the overall objective of transforming a country from a low income country with low per 
+capita income to high per capita income by 2040. 
+1.8 
+Conceptual Frame work 
+The conceptual framework consists of the independent and dependent variables with the 
+intervening variable too. The independent variable is internal controls whereas the 
+dependent variable is local revenue utilisation; the case study is TMC, Eastern Division. 
+This is as indicated in figure 1.8.1 below: 
+Figure 1.8.1 Conceptual Frame work 
+Independent Variable                                                               Dependent 
+Variabl 
+ 
+ 
+ 
+ 
+                       
+ 
+ 
+ 
+      
+ 
+Internal Controls 
+
+Segregation of duties 
+
+Organisational controls 
+
+Arithmetic and accounting control 
+
+Physical control 
+
+Supervisory control 
+
+Personnel control 
+
+Authorization control 
+
+Internal Audit 
+Local Revenue Utilisation 
+
+Paid council allowances 
+
+Paid Administrative allowances 
+
+Increased income & Liquidity 
+     Intervening   factors  
+
+Central Government Planning 
+
+Financial Controls 
+
+External Bodies like Auditor General 
+
+ 
+8 
+ 
+    
+Source:  
+Researcher’s conceptualisation, 2025 
+ 
+The figure 1.8.1 above shows clearly the conceptual framework indicating the relationship 
+between the independent variable (internal controls) and dependent variable (utilisation of 
+local revenue), also shown is intervening factors. The study formulated the questions on 
+the internal controls and effective utilisation of local revenue collected in TMC, Eastern 
+Division. 
+The independent variable (internal controls) was studied according to internal control 
+components such as segregation of duties, Organisational controls, arithmetic and 
+accounting controls, physical controls, supervisory controls, personnel controls, 
+authorisation controls and internal control. It is also important that the research shall look 
+at COSO (1999) report, Anthony (2004) highlight  of five internal control components 
+which must be present in order to conclude that internal control system is effective namely; 
+control environment, risk assessment, information and communication, control activities 
+and monitoring. 
+The dependent variable (effective utilisation of local Revenue) was studied in terms of 
+performance indicators such as payment of council allowances, payment of administrative 
+allowances, increased incomes leading to increased service delivery as shown in the figure 
+1.8.1 above. The researcher looked at the influence of internal control components on 
+utilisation of local revenue in TMC, Eastern Division.  However, it is also worthwhile 
+noting that intervening variables comprise of central government policies, financial 
+controls and external bodies such as OAG and others. 
+ 
+
+ 
+9 
+ 
+CHAPTER TWO: 
+LITERATURE REVIEW 
+2.0 
+Introduction 
+This chapter reviews the existing literature on the study variables; internal controls, and 
+local revenue in LGs and how they are related. The chapter is divided into sections 
+covering; internal controls, components of internal controls, local revenue collection, in 
+LGs based on the following objectives: Examine different local revenue sources in local 
+government of Uganda; establish the level of local revenue collection in TMC, Eastern 
+Division; establish the effect of internal controls on local revenue collection in local 
+governments 
+2.1. 
+The Different Sources of Local Revenue in TMC, Eastern Division 
+ 
+The local government Act, (1997), defines local revenue as a subtotal of all categories 
+collected from a number of sources like market dues, fines and penalties, parking fees, and 
+property. In conformity with the local government, (resistance councils) statue NO.15 of 
+section 44 of 1993, the 1995 constitution of the Republic of Uganda provided a 
+decentralization system of government with the districts at the top of the administrative 
+units. They are governed by the Constitution of 1995 of the republic of Uganda and local 
+government Act of 1997. According to schedule 2 of the local government Act 1997 gives 
+mandate to local governments to collect local revenues from their own sources such as 
+property tax, licenses, permits, fines and tax, trading license, premium, Boda-boda fees. 
+Market due or fees: LG Act, (1997), and (LG chart of accounts) defines market fees as 
+money collected from the sale of market. 
+
+ 
+10 
+ 
+ Fines and penalties are also moneys collected by lower local government through LC3 
+courts for non compliant or breaking of LLG by-laws.  
+Parking fees are collected from parks such as car parks, taxi parks and Boda-boda stages 
+(LG Act, 1997).  
+Birth, death, marriage certificate fees are equally collected from those who buy birth, death 
+and marriage certificates- (Public finance and accountability Act 2007). 
+ Trading license as LR are also collected to grand permission and authority to business 
+operatives to contact their business within a specified area (LG finance and accounting 
+regulation, 2003).  
+Premium these are sources of LR got from land hiring and leasing to private entities (LG 
+accounting manual, 2013).  
+Non refundable or tender fee are collected from collected from contractors who seek apre 
+qualification for a contract (LG Act, 1997) 
+Local service tax are collected from civil servants and remitted to areas of residence (Public 
+finance and accountability Act, 2007) and others which are also defined as per their sources 
+or bases (public finance and accountability Act, 2007; public finance and accountability 
+regulation, 2003; National development plan, 2011). 
+2.1.1 Local Revenue in Local Government.  
+The local government finance commission act, (2004), local revenue is important to local 
+governments for a number of reasons like promoting the autonomy of local governments, 
+maintain and sustaining investment and savings, meeting the co-funding and borrowing 
+
+ 
+11 
+ 
+obligations, finance councils operations and funding other locally prioritized services and 
+projects. Surrey, (1974) contends that the basic collection administrative procedures 
+include identifying and locating tax payers, checking on tax payers’ compliance and 
+collection of taxes. Vehorn, Ahmad (1997) also shares on this view while commenting on 
+sub-national administration generally and Silivan, Albert (1992) concluded that revenue 
+collection will result specifically from taxpayer registration, training data processing, tax 
+payers’ relations and simplification forms. 
+ 
+In Uganda local revenue collection has been facing a declining trend over the years which 
+need attention to focus on the underlying causes of this declining trend. Local government 
+revenue sources have faced a drastic decline and therefore have to depend on the central 
+government funding which accounts for 95 – 98% of their budgets. Transfers to local 
+governments as percentage of Public expenditure has fallen from around 47% in 2001/2002 
+to about 22% in 2008/2009. Thus meaning more resources is being retained at the centre 
+Kadiresan, (2009). In this view, a number of studies have been conducted to reverse this 
+trend among which is the inventory of best practices by local authorities inspections 
+department, Ministry of local Government (2004) and other factors given for this trend 
+include; over reliance on graduated tax, ignorance and existence of obsolete tax laws like 
+Property Tax Rating decree (1997), Town and County Planning 1964, Public Health Act 
+1969, Liquor Licensing Act 1967, Markets Act 1942 and others. 
+In local government, revenue collection can be improved trough sensitization of tax payers, 
+Lubega (2000) as means of shaping their attitudes and ensure compliance to tax payers. 
+Regulations 28 and 34 of the Local Government Financial and Accounting regulations 
+
+ 
+12 
+ 
+1998 highlights duties of revenue collector, guides revenue collections on accountability 
+of revenue collected. In some instances where low revenues are collected, so as to enable 
+delivery of services, it is attributed to uneven tax administration; Silivan, Albert (1992). 
+Local revenue collection has to comply with certain general principles of raising revenue 
+and how these principles should be fair, convenient and certain. The collection and 
+administration of revenue must be economical to the collectors and administrators 
+Katarikawe, (1996). However, Stella, 1996 is against decentralization that if local 
+authorities are left to make decisions for themselves, govern themselves, they will be less 
+competent and more corrupt, abuse their powers and be unable to collect revenues due to 
+public pressure since few modern states have granted private collection a permanent stature 
+in their revenue generating process. Miksell, (1986) observes that the resources used in 
+revenue collection provide limited or net service and that is why, Musgrave, (1969) stressed 
+that in pursuit of fiscal policy and achievement of optimum tax revenue levels, minimum 
+administration costs have to be incurred . 
+2.1.2 Local Revenue Sources in Local Governments in Uganda 
+The local government finance commission and ACODE Report (2009) reveal that local 
+governments get local revenue from market dues; court fines; parking fees; street parking 
+fee; local service tax; hotel service tax; trading license;  royalties, sell of Birth, death and 
+marriage certificates. Niwagaba (2007) noted that the local governments can generate 
+revenue from market dues because in each and every district there are at least more than 
+six (6) markets where local people take their produce for sale and other people come to buy 
+for either consumption or to resale them. Here the collections from such markets which at 
+least operate once a week and sometimes everyday when managed well with clear set 
+
+ 
+13 
+ 
+guidelines they can enhance the local governments’ treasury to support service delivery to 
+the local communities 
+Odinga (2002), suggested that local government to revise their revenue sources to sustain 
+the services they are meant to extend their local people for example introduction of new 
+taxes such as bicycle tax because for every ten (10) households at least six(6) have a bicycle 
+to supplement on the existing sources 
+Katembeko (2001), fairly assessed trade license can be a significant source of local revenue 
+to these local units. There are trading centre in at least after two (2) miles and sometimes 
+less than a kilometre; the traders in these trading centres have fairly large businesses and if 
+the assessment and monitoring for these business is done the traders will pay their share 
+thus raising a lot of revenue to the local governments. 
+The LG Act, (1999), (the constitution of the republic of Uganda, 1995), (the public finance 
+and accountability Act, 2007 and Regulation 2003) all equally spell out various sources of 
+LR to be collected by LGs and such sources include but not limited to: premiums from 
+land, trading license, non refundable fee, and other taxes plus sale of utilities such as 
+markets 
+2.1.3 Local Revenue Utilization in LGs of Uganda 
+LG Act, (1997) spell out that 20% of the actual LG collected in the previous year should 
+be allocated to council emoluments and the balance to be allocated to administrative 
+activities. The Act goes ahead and spell out that LR can be summed up with other sources 
+such as donations and conditional grants and be spent on projects in various departments 
+such as health, education environment, community based service work and technical 
+
+ 
+14 
+ 
+services and production. LG Act, (1997) requires that part of LR is to be used for retooling 
+or repair and maintenance of already existing projects of the MC. The Auditor general`s 
+report 2014/15 reveal exorbitant use LR to councillors` allowances most MCs as an 
+indication of negative utilisation of LR, since it suffocates the administrative expenditure 
+and the running the MC. The LG Act, (1997) prohibits LGs from spending more than 20% 
+of LR on councillors` allowances. The National assessment report, (2015) reveal that MCs 
+spend up to 70% LR collected on council allowances which was reported as a negative 
+indicator of utilization of LR in MCs 
+2.1.4 Local Revenue Challenges  
+According to the ACODE Report (2009) found out the following challenges in local 
+revenue collection are; Absence of statistical data on potential income sources for 
+taxpayers due to lack of maintained database, no frequent surveys by LGs to identify new 
+potential revenue sources, some taxes lack legal backing mainly due to negative political 
+Pronouncements, no corrective action by authorities against defaulters and corrupt officer, 
+Some LGs lack adequate resources and facilitation, e.g. transport facilitation such as 
+vehicles and motorcycles to reach all areas of the district. 
+2.1.5 Solutions to the Challenges  
+Kamugasha, (2008) suggestes the following solutions to the challenges were Developing a 
+database of individual taxpayers, Strengthen management information systems for revenue 
+administration and control, institute legal and cost effective revenue recovery mechanisms 
+to reduce on fraud and losses that undermine budget performance, Introducing cost-
+effective mechanisms in revenue mobilization to reduce administrative costs i.e. 
+
+ 
+15 
+ 
+administrative costs should not exceed 10%, Establishment of local revenue monitoring 
+committees at all level.  
+Creation of revenue taskforces at all levels to ensure that at least 95% revenue from all 
+collectable sources is realized, there should be continuous capacity building in form of 
+mentoring and support to LG staff on good practices in revenue mobilization, collection, 
+monitoring and accountability, there should be continuous capacity building in form of 
+mentoring and support to LG staff on good practices in revenue mobilization, collection, 
+monitoring and accountability, Introduce a System of reward and penalties for revenue 
+collectors to induce staff to collect more revenue, Linking tax payments to service delivery 
+and effective and efficient contract management of contracted out revenue sources, 
+Conducting a revenue baseline study on current and potential local revenue sources to 
+widen LGs revenue bases, Provide required revenue collection stationery to LGs such as 
+receipts, accounting stationery to be delivered on or before beginning of the Financial Year, 
+Educate the population on the newly introduced revenue from alternative sources that are 
+capable of yielding more revenue (Kamugasha, 2008).  
+2.1.6 Tax Administration  
+A survey by Satich, Wadhawan and Clive Gray, (2001) reveals that uneven tax 
+administration in Africa is a major contribution to revenue shortfalls that augment 
+inflationary pressure while depriving governments’ resources with which to provide public 
+goods. Uneven tax administration also stimulates resort to more easily collected taxes on 
+foreign trade with associated efficiency losses. 
+
+ 
+16 
+ 
+Wadhawan and Gray, (2001) noted that theoretical and empirical research on why persons 
+subject to tax comply or fail to comply with their legal liabilities has been pursued by social 
+scientists from various disciplines. The direct benefit of successful tax evasion is obvious, 
+it is the value of the payments evaded, comprising their resources thereby save. Drowning 
+from reference group theory Grasmick and Scott, (1982), Dickens, (1986) attribute tax 
+evasion to a norm neutralization process that is tax evaders justifying their cheating by the 
+belief that everyone else does the same thing and or the benefit they receive from 
+government fall below their share of the tax burden. 
+2.1.7 Revenue Management in LGs 
+Cheasty, (1996) gave the factors for the decline of revenue collection as politics, declining 
+tax bases that are a sharper decline in taxed activities, retailers failing to pay taxes because 
+of minority policies, unemployment and deficiencies in governance that is tax 
+administrator service delivery in the local government finds it difficult to deal with criminal 
+element, Yankelovick, (1984) stated that sizable share of the population regard the tax laws 
+as unfair. Empirical studies on tax compliance are handicapped by data scarcity. Revenue 
+authorities do not reveal their audit strategy and official respect for tax payers’ privacy 
+further limits a researcher’s 
+2.2. 
+Identify Different Internal Controls Used inTMC, Eastern Division 
+Anthony (2004) defines internal control as a process effected by an organizations structure, 
+work and authority flows, people and management information systems designed to help 
+the organization accomplish specific goals or objectives. In his view, it is a means by which 
+the organizations resources are directed, monitored and measured. He went ahead and said 
+
+ 
+17 
+ 
+that there is need to be in place circumstances ensuring that procedures will be performed 
+as intended; right attitudes, integrity and competence, and monitoring by managers. 
+COSO (1998) divided internal controls into two complementary forms, the accounting 
+controls and administrative controls. Accounting controls were viewed as safeguards to 
+control assets and ensure accuracy of financial records while administrative controls are 
+safeguards designed to provide operational efficiency and adherence to policies and 
+procedures. According to COSO (1999), Anthony (2004) there exists five internal control 
+components which must be present in order to conclude that internal control is effective 
+namely; control environment, risk assessment, information and communication, control 
+activities and monitoring. 
+Ishmgisa, (2001) considers internal controls as a process comprising five components; 
+control environment, risk assessment, control activities, information and communication, 
+and monitoring. The author noted that each component influences all aspects of an 
+organization’s activities whether administrative, financial or accounting operations. In this 
+respect, the author stated the need for effective functioning of each of the components for 
+the organization to attain the purpose for which it was established. COX (2000) 
+bureaucratic theory states that effective internal controls require that all responsibilities are 
+associated with adequate authority and that duties of all personnel are defined as to their 
+specific responsibilities. 
+ACCA (2005) highlights that internal controls focuses on establishing responsibilities 
+through delegation of power and authority. Bedeian (1995) said that it plays an important 
+role in preventing/detecting fraud and protecting the organizations resources, both physical 
+
+ 
+18 
+ 
+such as machinery and property, intangible such as reputation, and intellectual property 
+such as trademarks. .Davidson (2005) observed that at the organizational level, internal 
+control objectives relate to the reliability of financial reporting, timely feedback on the 
+achievement of operational or strategic goals, and compliance with laws and regulations. 
+Ishumgisa (2001) and Meigs (1988) described internal controls as a specific set of policies, 
+procedures and activities designed to meet an objective. A control may exist within a 
+designed function or activity in a process. A control’s input may be entity-wide or specific 
+to an account balance, class of transactions or application. 
+ 
+Controls have specific characteristics; they can be automated or manual, reconciliations, 
+segregation of duties, reviews and approval authorizations, safe guarding and 
+accountability of assets, preventing or detecting error or fraud among others. Controls 
+within a process may consist of financial reporting controls and operational controls 
+(Wales, 2005). 
+2.2.1 Components of Internal Controls 
+According to COSO (1998), Pandey (1998), & Anthony (2004) there exists five 
+components internal controls that must be present in order to conclude that internal controls 
+is effective namely; Control environment, control activities, risk assessment, information 
+and communication, and monitoring and review.  
+Organisation Controls: Okwach (2000) views organization control as an enabler of 
+execution of tasks by organization members as set by the board members and departmental 
+managers through attitudes and actions that encourage the highest level of integrity, 
+
+ 
+19 
+ 
+appropriate leadership philosophy, operating style and personal and professional standards, 
+thereby leading to reasonable compliance and operational efficiency levels.  
+Anthony (2004) noted that organization control sets the tone for the organization, 
+influencing the consciousness of its people. It is the foundation for all the other components 
+of internal controls. Success,(2004) states that organization control is the consciousness of 
+the organization, thus, the atmosphere that compels organizational members to conduct 
+their activities and responsibilities as per the laid down control objectives. 
+Ishumgisa (2001) also noted that organization control makes organizational members 
+aware of the job requirements and efficiency expected of them to carry out tasks that 
+translate in the overall organizational performance. Spillane & Reimer (2000) subscribe 
+that control environment exists when the responsibility to execute assigned task is not 
+directed by anyone but rather consciously dictated upon organizational members, and also 
+when members find themselves obeying, observing and responding to the desired 
+organizational culture, operations and activities as efficiently and effectively declared. 
+ 
+Jenny and Pamela (2006) assert that “a governing board and management enhance an 
+organization’s control environment when they establish and effectively communicate 
+written policies and procedures, a code of ethics, and standards of conduct”. They also 
+enhance the control environment when they behave in an ethical manner - creating a 
+positive tone at the top and when they require that same standard of conduct from everyone 
+in the organization. Internal controls rely on the principle of checks and balances in the 
+workplace. The following components focus on the control activity: 
+
+ 
+20 
+ 
+Personnel controls: Anthony (2004) noted that control environment sets the tone for the 
+organization, influencing the consciousness of its people. Personnel need to be competent 
+and trustworthy, with clearly established lines of authority and responsibility documented 
+in written job descriptions and procedures manuals. Organizational charts provide a visual 
+presentation of lines of authority and periodic updates of job descriptions ensures that 
+employees are aware of the duties they are expected to perform. Pandey (1998), COSO 
+(1998), Anthony (2004); control activities comprises of the policies and procedures that 
+help to ensure that management directives are carried out. 
+Segregation of Duties as a control reduces the likelihood of errors and irregularities. An 
+individual is not to have responsibility for more than one of the three transaction 
+components: authorization, custody, and record keeping. When the work of one employee 
+is checked by another, and when the responsibility for custody for assets is separate from 
+the responsibility for maintaining the records relating to those assets, there is appropriate 
+segregation of duties. This helps detect errors in a timely manner and deter improper 
+activities; and at the same time, it should be devised to prompt operational efficiency and 
+allow for effective communications. Pandey (1998), COSO (1998), Anthony (2004); 
+control activities comprises of the policies and procedures that help to ensure that 
+management directives are carried out. 
+Separation of duties (SoD) (also known as "Segregation of duties") is the concept of having 
+more than one person required to complete a task. In business the separation by sharing of 
+more than one individual in one single task is an internal control intended to prevent fraud 
+and error. The concept is alternatively called segregation of duties or, in the political realm, 
+
+ 
+21 
+ 
+separation of powers. In democracies, the separation of legislation from administration 
+shall serve for unbiased government. The concept is addressed in technical systems and in 
+information technology equivalently and generally addressed as redundancy (Botha and 
+Eloff, 2006) 
+Separation of duty, as a security principle, has as its primary objective the prevention of 
+fraud and errors. This objective is achieved by disseminating the tasks and associated 
+privileges for a specific business process among multiple users. This principle is 
+demonstrated in the traditional example of separation of duty found in the requirement of 
+two signatures on a cheque (Botha and Eloff, 2006) 
+Physical controls: Steeves, (2004), defines physical control as a Control activities are 
+actions supported by internal control objectives, procedures and policies that enable 
+managers to address risk timely, effectively and efficiently. Physical Restrictions are the 
+most important type of protective measures for safeguarding University assets, processes 
+and data. Documentation and Record Retention is to provide reasonable assurance that all 
+information and transactions of value are accurately recorded and retained. Records are to 
+be maintained and controlled in accordance with the established retention period and 
+properly disposed of in accordance with established procedures. 
+Authorization or authorization is the function of specifying access rights to resources 
+related to information security and computer security in general and to access control in 
+particular. More formally, "to authorize" is to define an access policy. Pandey (1998), 
+COSO (1998), Anthony (2004); control activities comprises of the policies and procedures 
+that help to ensure that management directives are carried out. Authorization control 
+
+ 
+22 
+ 
+Procedures need to include a thorough review of supporting information to verify the 
+propriety and validity of transactions. Approval authority is to be commensurate with the 
+nature and significance of the transactions and in compliance with University policy. 
+Authentication verifies your identity and authentication enables authorization. An 
+authorization policy dictates what your identity is allowed to do. For example, any 
+customer of a bank can create and use an identity (e.g., a user name) to log into that bank's 
+online service but the bank's authorization policy must ensure that only you are authorized 
+to access your individual account online once your identity is verified. Dublin (1999) 
+emphasized the importance of authorizations in the form of expenditures as a result of an 
+approved budget as a control activity. Approval of budget expenditure should involve 
+questioning of unusual items, justification of the transaction and review of source 
+documents (Van Horne, 2002).  
+Authorization can be applied to more granular levels than simply a web site or company 
+intranet. Your individual identity can be included in a group of identities that share a 
+common authorization policy. For example, imagine a database that contains both customer 
+purchases and a customer's personal and credit card information. A merchant could create 
+an authorization policy for this database to allow a marketing group access to all customer 
+purchases but prevent access to all customer personal and credit card information, so that 
+the marketing group could identify popular products to promote or put on sale. 
+We implicitly create authorization policies when we use social media: Face book, 
+LinkedIn, or Twitter may authenticate hundreds of millions of users, but to some extent we 
+can authorize whether or how these users engage with us. The same is true when you share 
+
+ 
+23 
+ 
+files, videos, or photos from sites like Google Docs, Drop box, Instagram, Pinterest, or 
+Flickr or even when you create a "shared" folder from on your laptop. 
+Supervisory Controls: Craig (1999) states that control activities are the administrative 
+and supervisory actions that management engages in to keep the organization focused and 
+cautious in addition to keeping members effective and efficient at task execution. Dublin 
+(1999) considers control activities as activities that provide evidence that a loss has 
+occurred. They include; analysis, reconciliations, and reviews. 
+Internal Audit: Mannaseh, (2007) defines an audit as “An independent examination of 
+financial information of any entity whether profit oriented or not and irrespective of its 
+size, legal form with such an examination conducted with a view of expressing an opinion” 
+It helps an organization accomplish its objectives by bringing a systematic designed 
+approach to evaluate and improve the effectiveness of risk management, control and 
+governance process”. Internal auditing began as one person clerical procedure that 
+consisted primarily of performing independent verification of bills before payment. 
+(Boynton and Kell; 1996)This was, therefore, an embryo internal audit. In the early 1900s, 
+the emphasis on auditing shifted from the detection of fraud to the needs of the various 
+users of financial statements. (Guy et al.; 1996) In other words, internal audit is the product 
+of modern social and economic development. The significant changes pushed forward by 
+the European Industrial Revolution in the eighteenth century greatly promoted the 
+establishment of many large share-holding companies and monopoly trust groups. 
+The American Institute of Internal Auditors, the predecessor of the Institute of Internal 
+Auditors (IIA), was set up in 1941. (Dittenhofer; 2001)From the first authoritative 
+
+ 
+24 
+ 
+definition of internal control by the American Institute of Public Accountants in 1949 the 
+definitions still exist in professional pronouncements (APB; 1995), there seems to have 
+been no substantial change of meaning, yet in the internal control of companies was 
+underway during the 1980s and1990s. 
+2.2.2 Internal Control Limitations 
+There is no such thing as a perfect control system. Staff size limitations may obstruct efforts 
+to properly segregate duties, which requires the implementation of compensating controls 
+to ensure that objectives are achieved. A limited inherent in any system is the element of 
+human error, misunderstandings, fatigue and stress. Employees are to be encouraged to 
+take earned vacation time in order to improve operations through cross training while 
+enabling employees to overcome or avoid stress and fatigue. 
+The cost of implementing a specific control should not exceed the expected benefit of the 
+control. Sometimes there are no out-of-pocket costs to establish an adequate control. A 
+realignment of duty assignments may be all that is necessary to accomplish the objective. 
+In analyzing the pertinent costs and benefits, managers also need to consider the possible 
+ramifications for the University at large and attempt to identify and weigh the intangible as 
+well as the tangible consequences. 
+Internal controls should reduce the risks associated with undetected errors or irregularities, 
+but designing and establishing effective internal controls is not always a simple task and 
+cannot always be accomplished through a short set of quick fixes. However, we hope this 
+chapter has helped to explain the basic internal control concepts and given you some ideas 
+for improving your department's controls.  
+
+ 
+25 
+ 
+2.3 
+Relationship between Internal control and Local Revenue in LGs  
+The local authorities’ inspection department -Ministry of Local governments (2004) noted 
+that the tax payers continue to feel that politicians and technocrats are looking for money 
+for personal enrichment. Although some local governments spend part of the money locally 
+collected revenue on service delivery, many of them use the revenues principally for 
+administrative expenses, unless tax payers perceive a linkage between local revenue 
+collection and service delivery they will not be willing to pay. 
+In his recommendations, Kajumbula (2004), in Masaka district, noted that if taxes collected 
+are to be realized by the tax payers, proper percentage entitled to the sub counties 60% and 
+villages 30% should actually be delivered and put to proper use. Revenue collection 
+determines the level of service delivery as was noted by Kabwegyere (2004), he noted that 
+low local revenue is a challenge to decentralization model of governance if they are to be 
+able to achieve service delivery objectives. Kiyega (1996), in Masaka district, benefits from 
+local revenue collection included, smooth payment of salaries and wages throughout the 
+year, timely planning and implementation. 
+Luzige (2008), shows a conceptual framework of sources of revenue (graduated tax, rent 
+and rate, licenses, permits and other miscellaneous incomes) to service delivery 
+(expenditure on health, education, sports and technical services, roads and community and 
+welfare) that increase in local revenue collection leads to increased service delivery and 
+there exists a significant relationship between local revenue performance and service 
+delivery. 
+
+ 
+26 
+ 
+During the regional workshops on local revenue enhancement (2004) the local government 
+finance commission gave a weak relationship between local revenue and service delivery 
+in the local government and they recommended the local governments should adopt 
+massive sensitization and mobilization of communities to promoted understanding as to 
+why they are paying taxes and what taxes do and these training should reach local council 
+one(s) 
+2.3.1 Relationship between Internal Audit and Performance in LG 
+Local governments are entrusted with public funds of which are local revenues, central 
+government grants, donor of who all aim at satisfying the public through service delivery. 
+It is therefore, a stewardship phenomenon which can properly be ascertained by auditing 
+in this regard particularly the internal audit. (Public Finance and Audit Act; 
+1983)Committee of Sponsoring Organizations (COSO) framework, everyone in an 
+organization has the responsibility towards the internal control to some extent. Virtually 
+all employees produce information used in the internal control system or take other actions 
+needed to effect control. Also, all personnel should be responsible for communicating 
+upward problems in operations, in compliance with the code of conduct or other policy 
+violations or illegal actions which in the long run leads performance. (Ongalo; 2006)  
+Internal audit plays an important role in the prevention and detection fraud which is the 
+challenge to performance in local government. It involves identifying scenarios in which 
+theft or loss could occur and determining if the existing control procedures can effectively 
+manage the risk to an acceptable level thus preventing financial and administrative 
+irregularities hence performance in the long run. Diamond, (2002) as away to improve local 
+government performance and accountability which in principle is a key element of 
+
+ 
+27 
+ 
+upholding internal control systems, transparent budgeting processes and implementation 
+procedures should be followed. Musari, (2005) for effective and efficient use of public 
+funds in local governments, there is need to uphold internal control procedures and systems 
+if the desired output is to be realized. The local governments particularly districts, under 
+1995 constitution article 190, are mandated to prepare comprehensive and integrated 
+development plans have rights and obligations to formulate, approve and execute their 
+balanced budgets and plans. All these activities are technical and critical requirements to 
+proper use of public funds which are under the guide of the internal audit department 
+(MOFPED, 2003) 
+2.3.2 Internal Controls and Financial Accountability. 
+According to Gendion, Cooper & Townley (2000), internal control is a management 
+function that is crucial for proper accountability and, accountability for all funds should be 
+maintained at all times (Chen 2004). Widener & Selto (1999) said that every organization 
+is subject to some kind of risks depending upon several factors such as; the products and 
+services it offers, the market in which it functions, the sources through which it is financed, 
+and the way it utilizes its resources. In addition, the innovative developments in the 
+financial sector have led to increased demand for an effective risk management as well as 
+sophisticated corporate governance. Hence, the activities that are covered in the 
+implementation of a good corporate internal control are overseeing activities in connection 
+with authorizations and reconciliations, reviewing of employee performance, security of 
+assets, and segregation of duties (Chambers (1995), Kakuru (1998), and Ishumgisa (2001)). 
+Kayongo (2004) noted that a lot of benefits can be derived through the implementation of 
+an effective corporate ICS. Among others, it prevents errors and irregularities by detecting 
+
+ 
+28 
+ 
+them in a timely manner there by promoting reliable and accurate accounting records 
+(Lame & Tan, 2000). It can also quickly resolve issues arising as a result of reporting errors. 
+It protects the interests of employees by clearly specifying to them their duties and 
+responsibilities and safeguarding them against being accused of irregularities or 
+misappropriations (Dess & Shaw, 2001). Lawrence (2000) said that internal control is the 
+heart of any organization and argued that strong internal control functions helps firms to 
+operate strongly and profitably. This was seconded by Adler & Kwoh (2002) who said that 
+when proper internal controls are exercised, it helps in preparation of sound statistics that 
+helps in planning of the way forward. The financial statistics are use full in determining 
+the performance value of the business. 
+ 
+Kakuru (2001), conducting business involves a number of transactions that affect financial 
+performance of the firm. If internal control is not well implemented, it will negatively affect 
+performance and productivity of the firm and hence retard its capacity. Internal control 
+assists managers to get the best measures of the impact of different transactions geared 
+towards generating a diversified portfolio of investments, thus enhancing proper 
+accountability. According to ACCA (2004), assessment of risk involves the analysis and 
+establishment of plans in order to prevent the risks associated with the attainment of 
+company objectives. The control activities include policies and procedure formulated by 
+management in order to ensure the effectiveness of carrying out activities with regard to 
+the achievement of organizational goals. 
+
+ 
+29 
+ 
+2.3.3 Internal Controls and Service Delivery 
+Through the internal controls, the desired employee’s performance and service delivery is 
+achieved in accordance with the set internal control objectives and as per guiding 
+organizational policy (Groth (2005). Magala (2001) and (James, 2005) internal controls 
+help to ensure that planned activities are achieved as per set objectives in terms of realizing 
+the desired service delivery needed by the organizational policy. Cox (2000) said that 
+internal control leads to efficiency in utilization of organization resources whereby; jobs 
+are carried out as explained by their description, availability of employees for work at all 
+times, and equitable allocation of resources and hence, timely service delivery. Anderson 
+(2000) added that it avoids having idle staff in the organization thus ensuring constant 
+provision of services. 
+Internal controls ensures; usage of funds on planned organizational activities, investment 
+of idle funds, and regular monitoring of utility (ACCA, 2004). Monitoring is important to 
+service delivery because it provides vital feedback on how services are being delivered and 
+whether delivery of those services makes any difference in terms of achieving the 
+organization’s specified goals (Rossi, 1993). For any system to perform effectively there 
+must be a monitoring system (Boidman, 1993). Monitoring also shows whether the system 
+in place is performing effectively, as this can be seen from service delivery. Bird (1992) 
+suggested that to ensure compliance, administrators should put spot clocks and frequent 
+audits so that loss of revenue is minimized. 
+2.3.4 Financial Accountability and Service Delivery 
+The key to organizational survival, creating and maintaining wealth primarily lies on 
+accountability built into governance structures of corporations According to Frost (2000), 
+
+ 
+30 
+ 
+there is a strong relationship between accountability and service delivery. In his view, the 
+goal of accountability is to improve performance but not to place blame and deliver 
+punishment and hence, accountability improves service delivery. Carmen, Reimer & Singh 
+(2004) argued that the essence of accountability is to make power holders to account for or 
+take responsibility for the actions and resources at their disposal through the establishment 
+of an effective and efficient organization. Green (2003) refers to accountability as an 
+organization’s capacity to demonstrate, answer or explain its actions. Brown & Moose 
+(2001) considered accountability desirable because it increases the incentives for actors to 
+perform as expected and that reliability can improve performance and relationship among 
+the parties. They argued that accountability increases the efficiency and effectiveness of an 
+institutions and equally leading to increased legitimacy and credibility of government. 
+Brinkerhoff, (2003) confirmed that, “All health systems contain accountability relations of 
+different types which function with varying degrees of success and often, the perception of 
+failed or insufficient accountability furnishes the impetus for reform”. On applying 
+financial accountability to health service delivery, the accountability issues that emerge 
+can be assessed in terms of purposes of accountability namely; to control the misuse and 
+abuse of resources and authority, and to provide assurance that resources are used and 
+authority is exercised according to appropriate and legal procedures, professional 
+standards, and societal value. 
+2.4 
+Service Delivery in Local Government  
+Uganda’s decentralization policy provided for the transfer of powers and functions from 
+the central government ministries and departments to local governments. This mandate is 
+embedded in the 1995 constitution of the Republic of Uganda. The provision of basic 
+
+ 
+31 
+ 
+services such as water and sanitation, healthcare, primary education, feeder roads and 
+agriculture extension services is left to the local governments. However, the recent policy 
+changes in fiscal decentralization have brought questions about the capacity of local 
+governments to effectively deliver services and ensure value for money in Public 
+expenditure. Some government policies which have had alarming impacts include the 
+creation of new districts and the abolition of graduated tax. The creation of new districts 
+has put more expenditure pressures on the local governments, reducing and in some cases 
+taking away completely resources that would have been used in increasing and improving 
+service delivery, Kadiresan (2009). This therefore calls for placing “a high priority on 
+delivery of personalized efficient customer services”, Mourney (1991). Attitudes exhibited 
+by service providers, employees and managers must be aimed at developing good working 
+relations and ensuring that customers are handled well while being served, Musgrave, 
+(1991), defined public sector as “those industries and services in a country that are owned 
+and ran by the state, such as “the education and railways (in many countries) in comparison 
+with private sector. Thus delivery entails public sector delivery mechanism to the local 
+residents of the local government. 
+2.5 
+Decentralization  
+Decentralization means the transfer of responsibility from the central authorities to local 
+units for planning management, resource raising and allocation of resources, Bagchi 
+(1991). Decentralization as a concept is about the “transfer of legal administrative and 
+political authority to make decisions and manage public functions central authorities to 
+field organizations of those agencies, like subordinate units of government, semi-
+
+ 
+32 
+ 
+autonomous corporations, functional authorities, local government or non-governmental 
+organizations. 
+Mutahaba (1989) page 69, (Rondinelli, 1984), decentralization is defined as the “spatial 
+relocation of decision making that is transfer of some responsibility or authority from 
+higher to lower levels within the central government ministries or agencies. We have four 
+types of decentralization and they include, de-concentration, financial decentralization, 
+devolution and delegation. Decentralization includes new systems for inter governmental 
+transfers, financial regulations and accounting and budgeting procedures, Villaden (1996). 
+The local Government Finance Commission Report no 1 of February 1995 – December 
+1996 states that the mission if financial decentralization is backed by a legal framework 
+both in the 1995 constitution of Uganda (article 152, 191 (1) and 196), Financial and 
+accounting regulation of 1998. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+33 
+ 
+CHAPTER THREE: 
+METHODOLOGY  
+3.0 
+Introduction 
+This chapter describes the methodological framework that was used in attaining the 
+intended objectives of the study. The main focus was on the research design, area of the 
+study, the study population, sample procedures, sampling frame and its characteristics, data 
+collection methods and instruments, quality control methods, data management and 
+processing, data analysis, ethical considerations, and limitations of the study.  
+3.1  
+Research Design 
+A cross sectional survey design was employed in this study. Both qualitative and 
+quantitative approaches to data collection and analysis were employed in order to get an 
+in-depth understanding of the phenomenon under investigation and to confirm 
+completeness for instruments (Amin, 2005). 
+3.2  
+Area of the Study  
+The area of the study was TMC, Eastern Division found in Tororo District, Eastern region 
+of Uganda.  Given the desire to get accurate results and the area being the centre of the 
+entire Elgon sub region and the fast growing area, it was worthwhile to consider Tororo 
+municipality as the best area for the study. The advantage for choosing this area was that 
+the result from Tororo municipality is representative enough to the entire Elgon sub region. 
+3.2.1  The Study Population  
+The study population comprised of the councillors and staff of Tororo municipality. The 
+logic is that these very councillors and staff are directly affected by internal controls and 
+local revenue collected by the TMC, Eastern Division.  A number of 60 respondents were 
+
+ 
+34 
+ 
+put into consideration. The advantage for having the population of 60 is to have a 
+manageable number of respondents to avoid ambiguity and have accurate inferential 
+statistical results (mugenda and mugenda, 2013). 
+3.3  
+The Sample Size 
+In choosing the sample size and securing representative responses, this study was based on 
+statistical estimation theory considering the degree of confidence that is expected from this 
+type of research. The study applied Kotrlik and Haggins (2001) model for determining the 
+minimum returned sample size for any given population. In determining the appropriate 
+sample size for this study, Slovene’s formula was considered appropriate because it is 
+simple to calculate and easy for one to interpret. 
+Slovene’s Formula            n = N/ 1+Ne2 
+Where:  
+n = Sample size 
+N = Is the population 
+e =the level of significance is 0.05 
+Therefore: n = 60/1+ 60(0.05)2  
+n = 60/1.15 =         n = 52 Respondents 
+ 
+ 
+ 
+ 
+ 
+
+ 
+35 
+ 
+Table 3.4.1 Sample Size 
+Respondents  
+Population 
+Sample size Sampling Techniques 
+Councillors 
+20 
+17 Simple Random sampling 
+Staff 
+of 
+TMC, 
+Eastern Division: 
+ 
+  
+Top managers 
+10 
+09 Purposive sampling 
+Middle managers 
+20 
+17 Purposive sampling 
+Lower managers 
+10 
+09 Purposive sampling 
+Total Respondent 
+N=60 
+n=52 
+ 
+Source: Researcher’s conceptualisation, 2025 
+3.4  
+Sampling Techniques 
+In determining respondents for this study, the researcher adopted and used simple random 
+sampling technique hand in hand with purposive sampling on the respondents who are 
+political leaders and staff of Tororo municipality. The advantage of simple random 
+sampling is because each and every respondent had an equal opportunity to be included in 
+the sample and this solves the problem of bias which spoils the results. Purposive sampling 
+on the other hand was used to staff so as to be able to get more technical information from 
+staff. Amini, (2005), suggests that purposive sampling is used to sample some of the staff 
+officers who have much needed data. 
+3.5 
+Research Procedure 
+The researcher, before going to collect primary data from the field, followed the well 
+established steps as listed below: 
+ Researcher obtained the introduction letter from the university to the area of the study. 
+ Approval of the research instruments to be used in the data collection such as 
+Questionnaire. 
+ Data collection from the area of the study using the approved methods and techniques 
+
+ 
+36 
+ 
+3.6 
+Data Collection Methods  
+The researcher used self administered questionnaires method to collect primary and 
+secondary data from the individual respondents. This study also adopted this method 
+because of the fact that the respondents are of mature age. The amount of time available as 
+well as the costs involved in data collection also justifies the use of the same. 
+Secondary data was collected through documentary reviews using sources like 
+performance reports, reports by the ministry of local government, planning and the internet. 
+This helped the researcher in getting more information on the effectiveness of councillors 
+in the Tororo municipality, Tororo district. 
+3.7 
+Data Collection Instruments 
+Questionnaire: It is an important instrument of data collection. Judd (1991) said that a 
+questionnaire is justifiable in data collection mainly because; it enables the researcher to 
+collect large amount of data within a short time, it also provides opportunity for 
+respondents to give truthful and anonymous answers. A set of questions was designed for 
+the respondents of Tororo municipality; it included closed set of questions that were 
+answered. In general questionnaire was chosen because of its advantage to provide the 
+detailed required data from the respondent. There are many other tools such as interview 
+but because of time and the desire to get accurate results the researcher intends to use only 
+questionnaire.  
+
+ 
+37 
+ 
+3.8  
+Quality Control Methods 
+The quality control methods comprise of both validity and reliability of the instruments 
+that are used in the study and below is the explanations of the quality control methods that 
+were used in this study: 
+3.8.1  Validity of the Instrument 
+Data validity was considered to ensure dependability through consultations with experts in 
+same field about the content of the instruments and my supervisor.  Also with the 
+calculation of the content validity index (CVI). The calculation of CVI was computed with 
+the help of SPSS. George and Mallery, (2003) rating, the validity of the instrument is 
+supposed to be above 0.5 (mugenda and mugenda, 2013).  
+3.8.2  Reliability of the Instruments  
+Foenkel and Norman, (2005) argue that reliability refers to the consistency of the score 
+obtained, how consistent they are for each individual from one administration of an 
+instrument to another and from one set of the items to another. Therefore, the reliability of 
+the instrument was determined through piloting the instrument. That is to say 10 
+questionnaires were tested. The calculation of the Cronbach Alpha coefficient was used to 
+validate the instruments. The advantage of this process was to aid   correction of   the errors 
+within the tools of data collections to verify how they are reliable to produce significant 
+information from the field. 
+
+ 
+38 
+ 
+3.9  
+ 
+Ethical Considerations 
+The study gathered information that creates a report that serves as a building block for 
+transparency and openness for Nation building. The norms and values of each respondent 
+were highly respected. They were assured of full confidentiality of the information they 
+give. There are certain ethical protocols that were followed by the researcher. The 
+researcher first sought for clear approval from the respondents. This clearly made them 
+certain that their participation in this study is out of their own preference 
+The researcher also ensured that the respondents are aware of the objectives of the study 
+and their input to its completion. The ethical measures were highly excised by the 
+researcher in treating the respondents with respect and consideration. The advantage of this 
+was that the respondents were at ease and freely gave honest responses to the questionnaire. 
+3.10  Data Analysis and Presentation 
+Analysis: Data were analyzed using correlation and regression analysis and by use of 
+statistical packages for social scientists (SPSS) to establish percentages, frequencies and 
+statistical means of the research variables. The advantage of analyzing data is to make the 
+work more understandable to users. 
+Presentation: The results of the study were summarised and put into tables as frequencies 
+and percentages. This was for easy analysis and interpretation. The advantage is that the 
+readers and users of this study get this work more easily understandable and use it for the 
+intended purpose. 

@@ -1,0 +1,2759 @@
+Chapter 1
+Introduction
+Most real mathematical problems do not have analytical solutions. However, they do have
+real solutions. In order to obtain these solutions we must use other methods such as graphical
+representations, or numerical analysis. Numerical analysis is the mathematical method that
+uses numerical approximations to obtain numerical answers to the problem. Numerical analysis
+also considers the accuracy of an approximation, and when the approximation is good enough.
+Numerical answers are useful because we use numbers to build our world, not with the exact
+analytical solution, such as
+eπ
+√
+The ever-increasing advances in computer technology has enabled many in science and engineering to apply numerical methods to simulate physical phenomena. Numerical methods are
+often divided into elementary ones such as finding the root of an equation, integrating a function or solving a linear system of equations to intensive ones like the finite element method.
+Intensive methods are often needed for the solution of practical problems and they often require the systematic application of a range of elementary methods, often thousands or millions
+of times over. In the development of numerical methods, simplifications need to be made to
+progress towards a solution: for example general functions may need to be approximated by
+polynomials and computers cannot generally represent numbers exactly anyway. As a result,
+numerical methods do not usually give the exact answer to a given problem, or they can only
+tend towards a solution getting closer and closer with each iteration. Numerical methods are
+generally only useful when they are implemented on computer using a computer programming language .
+The study of the behavior of numerical methods is called numerical analysis. This is a mathematical subject that considers the modeling of the error in the processing of numerical methods
+and the subsequent re-design of methods.
+Numerical analysis involves the study of methods of computing numerical data. In many problems this implies producing a sequence of approximations; thus the questions involve the rate
+of convergence, the accuracy (or even validity) of the answer, and the completeness of the response. (With many problems it is difficult to decide from a program’s termination whether
+other solutions exist.) Since many problems across mathematics can be reduced to linear algebra, this too is studied numerically; here there are significant problems with the amount of time
+necessary to process the initial data. Numerical solutions to differential equations require the
+determination not of a few numbers but of an entire function; in particular, convergence must
+be judged by some global criterion. Other topics include numerical simulation, optimization,
+and graphical analysis, and the development of robust working code.
+Numerical linear algebra topics: Solutions of linear systems AX = B, eigenvalues and eigenvec-
+
+tors, matrix factorizations. Calculus topics: numerical differentiation and integration, interpolation, solutions of nonlinear equations f(x) = 0. Statistical topics: polynomial approximation,
+curve fitting.
+Further information on the elementary methods can be found in books on numerical methods
+or books on numerical analysis. Dedicated text books can be found on each of the intensive
+methods. Details of available books can be accessed through www.science-books.net .
+Need help understanding numerical methods?
+1. What is the use of numerical methods in real life application?
+2. Need a brief explanation of numerical methods
+3. Fixed Point Iteration, Linear Interpolation and Newton-Raphson Method, what are the
+differences to their uses?
+Best Answer
+1. um, everywhere? From a cash machine, to calculating how much chemicals to put to
+produce laundry detergent, to construction of buildings and bridges.
+2. The ever-increasing advances in computer technology has enabled many in science and
+engineering to apply numerical methods to simulate physical phenomena.
+Numerical
+methods are often divided into elementary ones such as finding the root of an equation,
+integrating a function or solving a linear system of equations to intensive ones like the
+finite element method. Intensive methods are often needed for the solution of practical
+problems and they often require the systematic application of a range of elementary
+methods, often thousands or millions of times over. In the development of numerical
+methods, simplifications need to be made to progress towards a solution: for example
+general functions may need to be approximated by polynomials and computers cannot
+generally represent numbers exactly anyway.
+As a result, numerical methods do not
+usually give the exact answer to a given problem, or they can only tend towards a solution
+getting closer and closer with each iteration. Numerical methods are generally only useful
+when they are implemented on computer using a computer programming language .
+3. Visit these sites: http://math.fullerton.edu/mathews/n2003/FixedPointMod.html
+http://en.wikipedia.org/wiki/Linear-interpolation
+http://mathworld.wolfram.com/NewtonsMethod.html
+Other answers
+2. Numerical Methods refers to procedures to find approximate solutions when exact solutions cannot be found in a straightforward manner.
+3. Linear interpolation assumes that if two points on a graph are given, any point in between
+them can be found by connecting the original two points by a straight line.
+Newton Raphson is a method to find approximate solutions to an equation through an
+iterative process where each calculated value is used as the starting point for the next
+calculated value. NRM requires that you can evaluate the first derivative of that equation.
+Page 2 of 196
+
+1.1. WHAT IS NUMERICAL ANALYSIS?
+1.1
+What is Numerical Analysis?
+- It is a way to do highly complicated mathematics problems on a computer.
+- it is also known as a technique widely used by scientists and engineers to solve their
+problems.
+1.2
+Two issues of Numerical Analysis:
+- How to compute? This corresponds to algorithmic aspects;
+- How accurate is it? That corresponds to error analysis aspects.
+1.3
+Advantages and Disadvantages of Numerical Analysis:
+Although numerical solutions are just an approximation, an estimate of an exact solution
+(numerical values are ”near” solutions or often referred to as inexact solutions) due to
+1.) truncation errors,
+2.) round off errors,
+3.) chop off errors,
+Other than the truncation errors involved in numerical methods, numerical algorithms are
+computationally involved, calling for powerful computing abilities and machines. The schemes
+are usually multi steps and multi terms.
+However, numerical techniques are widely applied in solving real world problem.
+1.3.1
+Hard or impossible classical solutions
+It can obtain numerical answers of the problems that have very hard analytical techniques or
+sometimes impossible to solve (no ”exact or classical” solution).
+Example 1.3.1
+Finding the classical solution to an integral
+
+is quite very hard if not impossible.
+Example 1.3.2
+Solving a simple looking first order ordinary differential equation
+dy
+dx = x2 + y2
+analytically is not easy at all.
+Page 3 of 196
+
+1.4. IMPORTANT NOTES:
+1.3.2
+Tabulated data
+Usually we only have tabulated data when faced with complex real world models, and do not
+have an explicitly defined function.
+Example 1.3.3
+To compute the area under the curve defined by the table below
+x
+f(x)
+-3
+will be analytically impossible since we do not know the explicit definition of f(x) that was
+used to generate the table above. To compute
+ 7
+will not be possible.
+The table above was actually generated by f(x) = x2 −4 which we did not know prior, and
+too hard to interpolate.
+1.4
+Important Notes:
+1.) Numerical analysis solution is always numerical.
+2.) Results from numerical analysis is an approximation.
+1.5
+Numerical Errors
+When we get into the real world from an ideal world and finite to infinite, errors arise.
+1.5.1
+Sources of Errors:
+1.) Mathematical problems involving quantities of infinite precision.
+2.) Numerical methods bridge the precision gap by putting errors under firm control.
+3.) Computer can only handle quantities of finite precision.
+1.5.2
+Types of Errors:
+1.5.2.1
+Truncation error
+Truncation error is a consequence of doing only a finite number of steps in a calculation that
+would require an infinite number of steps to do exactly. A simple example of a calculation
+that will be affected by truncation error is the evaluation of an infinite sum using the NSum
+function. The computer certainly isn’t going to compute values for all of the terms in an infinite
+sum. The terms that are left out lead to truncation error.
+Truncation Error: The essence of any numerical method is that it is approximate-this usually
+occurs because of truncation, e.g., cos x ∼= 1 −x2
+2 or terminating an infinite sequence of operations after a finite number have been performed.
+It is not possible by numerical techniques alone to get an accurate estimate of the size of the
+Page 4 of 196
+
+1.5. NUMERICAL ERRORS
+truncation error in a result. It is possible for any purely numerical algorithm, including the
+algorithms used by numerical functions in Mathematica, to produce incorrect results, and to
+do so without warning. The only way to be certain that results from functions like NIntegrate
+and NDSolve are correct is to do some independent analysis, possibly including detailed investigation of the algorithm that was used to do the calculation. Such investigations are an
+important part of the field of numerical analysis.
+For example, after using Taylor expansion
+ex = 1 + x
+1! + x2
+2! + x3
+3! + · · ·
+cos x = 1 −x2
+2! + x4
+4! −x6
+6! + x8
+8! −· · ·
+sin x = x −x3
+3! + x5
+5! −x7
+7! + x9
+9! + · · ·
+You could realize that there are many terms you have truncated off in the expansion, thats
+why · · ·
+1.5.2.2
+Round off errors
+Numbers can be stored only up to a fixed finite number of digits: Additional digits may be
+rounded or chopped. Rounding error is sometimes characterized by ξmachine, the largest (positive) number that the machine (computer) cannot distinguish between 1 and 1+ ξmachine.
+Roundoff error, or representation error, is the error associated with the fact that the computer
+keeps only a finite number of digits in calculations with inexact numbers. Since it is not possible (except in special cases) to represent all of the digits in numbers like 1/3 or π or
+√
+2,
+computers store only the first few digits in numerical approximations of these numbers. In
+typical situations, the computer will store only the first 16 decimal digits or the first 53 binary
+digits. The remaining digits are discarded. The discarded digits lead to errors in the result.
+One of the more conspicuous symptoms of roundoff error is the appearance of tiny non-zero
+numbers in results that would otherwise be zero.
+Although the ability to reduce the effects of roundoff error by raising the precision of a calculation is certainly very useful, it is far from a universal solution to all problems with numerical
+error.
+1.) 1.8625 to three decimal places, it becomes 1.863
+2.) 1.8625 to two decimal places, it becomes 1.86
+3.) 1.8625 to one decimal place, it become 1.9
+1.5.2.3
+Human Errors
+Such as Computing tools/machines, Mathematical equation/model, propagated error.
+Page 5 of 196
+
+Chapter 2
+Numerical Techniques of Integration
+There are two main reasons for you to need to do numerical integration: analytical integration
+may be impossible or infeasible, or you may wish to integrate tabulated data rather than known
+functions. In this section we outline the main approaches to numerical integration. Which is
+preferable depends in part on the results required, and in part on the function or data to be
+integrated.
+This will be useful when we cannot find an elementary antiderivative for f(x) or if the function
+is defined using data obtained from some experiment.
+Numerical integration is the numerical approximation of the integral of a function.
+For a
+function of one variable, it amounts to finding the area under the graph of the function. That
+is finding I where
+I =
+ b
+a
+f(x) dx
+Methods generally replace the integral by a weighted sum of n weights and n function evaluations, so that
+I =
+n
+X
+i=1
+Wif(xi) dx
+For a function of two variables it is equivalent to finding an approximation to the volume under
+the surface. Numerical integration is often also referred to as quadrature or sometimes cubature
+for functions of two or more variables. Returning to the one variable case, numerical integration
+involves finding the approximation to an integral of a function f(x) through its evaluation at
+a set of discrete points. There are two distinct approaches to this. Firstly methods like the
+trapezium rule or Simpson’s rule determine the integral through evaluating f(x) at regularly
+spaced points. These are generally referred to as Newton-Cotes formulae.
+Alternative methods termed Gaussian Quadrature methods have arisen that select irregularlyplaced evaluation points, chosen to determine the integral as accurately as possible with a given
+set of points.
+Gaussian Quadrature methods are important as they often lead to very efficient methods. In
+numerical integration the efficiency of the method relates to the accuracy obtained with respect
+to the number of evaluations of the function f(x). In intensive methods such as the boundary
+element method integrations may need to be performed millions of times so the efficiency of
+the methods needs to be considered sometimes.
+
+2.1. MANUAL METHOD
+2.1
+Manual Method
+If you were to perform the integration by hand, one approach is to superimpose a grid on
+a graph of the function to be integrated, and simply count the squares, counting only those
+covered by 50% or more of the function. Provided the grid is sufficiently fine, a reasonably
+accurate estimate may be obtained.
+2.2
+Trapezoidal/Trapezium rule
+2.2.1
+Composite Trapezoidal Rule
+To derive the rule, we use the following figure
+We divide [a, b] into n equal subintervals, each a Trapezium with width h = (b −a)
+n
+I =
+ b
+a
+ x1
+x0
+f(x)dx +
+ x2
+x1
+f(x)dx + . . . +
+ xi+1
+xi
+f(x)dx + . . . +
+ xn
+xn−1
+f(x)dx.
+Applying the trapezium equation, we get compute the total areas of all the n trapeziums
+I = h
+2 [f(x0) + f(x1)] + h
+2 [f(x1) + f(x2)] + · · · + h
+2 [f(xn−2) + f(xn−1)] + h
+2 [f(xn−1) + f(xn)]
+I = h
+(2.1)
+2.2.2
+Trapezoidal Rule Truncation Error
+Etrunc = −h3
+12[f ′′(c1) + f ′′(c2) + . . . + f ′′(cn)]
+12n2
+= M(b −a)h2
+(2.2)
+such that the second derivative f ′′ is continuous on [a, b] and that
+|f ′′(ξ)| < M ∀ξ ∈[a, b]
+(2.3)
+and
+n
+Page 7 of 196
+
+Example 2.2.1
+I =
+ 1
+x2dx
+using the composite Trapezoidal rule with step length h = 0.2
+Solution
+Since
+I =
+ 1
+f(x)dx = h
+= h
+2 [f(0) + f(1) + 2 {f(0.2) + f(0.4) + f(0.6) + f(0.8)}]
+= 0.2
+
+(0)2 + (1)2 + 2
+
+(0.2)2 + (0.4)2 + (0.6)2 + (0.8)2 
+= 0.3400
+Analytical solution is
+ 1
+x2dx =
+x3
+1
+= 1
+Absolute error committed is
+0.340 −1
+≃0.00667
+We have noted that the error obtained is much smaller than that obtained with the pure
+Trapezoidal rule in the previous example.
+In fact the smaller the error, i.e the better the
+approximation.
+The truncation error is
+12n2
+= 2(1)3
+(12)52 = 0.00667
+Since
+f ′′(x) = 2, |f ′′(x)| < 2 on [0, 1]
+Example 2.2.2 Approximate the integral
+I =
+ 2
+−2
+e−x2
+2 dx
+by the composite Trapezoidal rule with h = 1.0, the exact value of the integral I to 4 decimal
+places is 2.3925.
+Since h = 1.0, then,
+I = h
+= (1.0)
+
+e−(−2)2
++ e−(2)2
+2 + 2
+
+e−(−1)2
++ e−(0)2
+2 + e−(1)2
+
+= 0.5 [0.13534 + 0.13534 + 2 {0.60653 + 1.00000 + 0.60653}]
+= 2.3484
+with absolute error of |2.3925 −2.3484| = 0.0441.
+Page 8 of 196
+
+Example 2.2.3
+Numerically estimate
+ 2
+x + 1 dx
+using
+1.) Trapezium rule
+h
+2[f0 + f1] = 1
+1
+2 + 1
+
+= 0.416
+2.) Composite Trapezium rule with h = 0.2
+I = h
+≃h
+2 [f(1.0) + f(2.0) + 2 {f(1.2) + f(1.4) + f(1.6) + f(1.8)}]
+≃(0.2)
+
+1 + 1 +
+1 + 2 + 2
+
+1 + 1.2 +
+1 + 1.4 +
+1 + 1.6 +
+1 + 1.8
+
+≃0.2
+1
+2 + 1
+3 + 2
+ 1
+2.2 + 1
+2.4 + 1
+2.6 + 1
+2.8
+
+≃0.4059
+Example 2.2.4 Evaluate
+ 3
+(2x + 3) dx
+by the Trapezium rule with four intervals (5 ordinates).
+I = h
+≃h
+2 [f(0) + f(3.0) + 2 {f(0.75) + f(1.5) + f(2.25)}]
+≃0.75
+[3 + 9 + 2 {4.5 + 6 + 7.5}]
+≃18.0000
+The classical (analytical, exact) solution is given by
+ 3
+(2x + 3) dx = x2 + 3x
+
+= 18
+To have the absolute error as
+|18 −18| = 0.0000
+The truncation error is
+12n2
+= (0)(3)3
+(12)42 = 0.0000
+Since
+f ′′(x) = 0, |f ′′(x)| < 0 for [0, 3]
+Example 2.2.5
+Evaluating
+ 3
+sin x dx by the Trapezium rule with 100 points, it gives the
+answer as 1.5302437923
+But can you think of a way of programing this easily??
+Page 9 of 196
+
+Example 2.2.6
+ 3
+sin x2 dx by the Trapezium algorithm
+n
+Sum of areas of Trapezoids
+0.43358
+0.70404
+0.75723
+0.76954
+0.77256
+0.77331
+0.77350
+0.77355
+0.77356
+0.77356
+0.77356 appears to be a reasonable estimate of our integral.
+Example 2.2.7
+Using the Trapezoidal scheme, approximate
+ 1
+√
+2x + 1 dx with h = 0.25.
+x
+0.25
+0.5
+0.75
+√2x + 1
+1.22
+1.41
+1.58
+1.73
+A = h
+= h
+2 [f(0) + f(1) + 2 {f(0.25) + f(0.5) + f(0.75)}] + Etrunc
+≈1
+2(0.25) [1 + 1.73 + 2 {1.22 + 1.41 + 1.58}]
+= 1.39
+Analytically (the classical or exact value) is
+ 1
+(2x + 1)
+2 dx =
+1
+3(2x + 1)
+1
+= 1.3987
+The error committed by the Trapezoidal rule is 0.0087
+1.) Repeat the problem with h = 0.2
+2.) Repeat the problem with h = 0.1
+Exercise 2.2.1 Compute the approximate value of
+ 1
+(x2 + 1)−1dx by using the Trapezoidal
+rule with ten subintervals. Then compare with the actual value of the integral. Determine the
+truncation error bound and compare with the actual error.
+Exercise 2.2.2
+If the Trapezoidal rule is used to compute
+ 5
+sin xdx with h = 0.01, obtain
+an upper bound error.
+Exercise 2.2.3
+How large must n be if the Trapezoidal rule is to estimate
+ 2
+exp{−x2} dx
+with an error not exceeding 10−6?
+Page 10 of 196
+
+Example 2.2.8
+Numerically approximate
+ 2
+
+ 2√x
+
+dx
+by using the Trapezoidal algorithm with
+1.) n = 4 ⇒h = 1
+I = h
+≈1
+2(0.5)
+h
+√
+0)
+
++
+
+√
+2)
+
++
+n
+√
+0.5)
+
++
+
+√
+1)
+
++
+
+√
+1.5)
+oi
+≈1
+2(0.5)
+h
+3 + 2 + cos(2
+√
+2) + 2
+h
+√
+2) + (2 + cos 2) + (2 + cos
+√
+6)
+ii
+≈3.4971
+2.) n = 8 ⇒h = 1
+I = h
+= 1
+h
+√
+0)
+
++
+
+√
+2)
+
++
+n
+√
+0.25)
+
++
+
+√
+0.5)
+
++
+
+√
+0.75)
+
++
+
+√
+1)
+
++
+
+√
+1.25)
+
++
+
+√
+1.5)
+
++
+
+√
+1.75)
+oi
+≈3.4693
+3.) Compute the analytical value of the definite integral.
+4.) Considering your results in part 3.) above, state any two reasons on how to reduce the
+errors in numerical integration.
+Increasing the number of subintervals
+Avoiding round off errors by computing final solution at once
+Note 2.2.1
+For trigonometric functions, the calculator is to be set in radians.
+Exercise 2.2.4
+Consider the integral
+ 1
+sin
+x2
+2 π
+
+dx. Suppose that we wish to integrate
+numerically with error < 10−5. What interval width h is needed if the Trapezoidal rule is to
+be used?
+Example 2.2.9
+How large should we take n in order to guarantee that the Trapezoidal rule
+used in approximation of the integral
+ 2
+x + 1dx is accurate to within 0.0001.
+Page 11 of 196
+
+Using the Truncation error of Trapezoidal, (2.2) on page (p. 7). Since
+x + 1 ⇒f ′′(x) =
+(1 + x)3 on [0, 2] ⇒M = 2. Therefore,
+12n2
+= 2(2)3
+12n2 = 0.0001 ⇒n = 115.47 = 115
+■
+Exercise 2.2.5
+ 3
+x dx by the Trapezoidal rule with an error of utmost 0.1.
+Example 2.2.10
+Find the area under the curve using trapezoidal rule formula which passes
+through the following points:
+x
+0.5
+1.5
+y
+Using Trapezoidal Rule Formula,
+Area = h
+
+y0 + yn + 2(y1 + y2 + y3 + ..... + yn−1)
+
+= 0.5
+
+5 + 11 + 2(6 + 9)
+
+= 11.5
+Therefore, the area under the curve is 11.5 sq units.
+■
+Example 2.2.11
+Using Trapezoidal Rule Formula find the area under the curve y = x2
+between x = 0 and x = 4 using the step size of 1.
+Area = h
+
+y0 + yn + 2(y1 + y2 + y3 + ..... + yn−1)
+
+= 1
+
+0 + 16 + 2(1 + 4 + 9)
+
+= 22
+Therefore, the area under the curve is 22 sq units.
+■
+Example 2.2.12
+Find the area under the curve using the trapezoidal rule formula which
+passes through the following points:
+x
+0.5
+1.5
+y
+The area under the curve is 13.25 sq units.
+■
+Page 12 of 196
+
+2.3
+Simpson’s Rule
+Note 2.3.1 We can obtain the Simpson’s rule by various ways. One of the most popular ways
+is from Lagrange’s quadratic interpolation polynomial. The Simpson’s rule approximates the
+area under the curve y = f(x) from x0 to x2 by the area under a parabolic curve.
+Interpolating f(x) by a Lagrange polynomial of degree 2 i.e. P2(x) then
+f(x) = P2(x) + Etrunc(x)
+So
+ x2
+x0
+ x2
+x0
+P2(x)dx +
+ x2
+x0
+Etrunc(x)dx
+(2.4)
+Results
+Summing up all the three cases, equation (2.4) becomes
+ x2
+x0
+P2(x)dx = h
+3[f0 + 4f1 + f2] + Etrunc(x)
+Thus
+ x2
+x0
+P2(x)dx = h
+3[f0 + 4f1 + f2]
+(2.5)
+Relation equation (2.5) is the Simpson’s rule for approximating the integral. The integral
+for the error in equation (2.4), becomes
+ x2
+x0
+Etrunc(x)dx =
+ x2
+x0
+(x −x0)(x −x1)(x −x2)
+3!
+f (4)(c(x))dx
+This can be shown (with difficulty!, for n = 2) to be
+−Mh5
+= −1
+90M
+b −a
+5
+That the fourth derivative f 4 is continuous on [a, b] and that |f 4(x)| < M for all x in [a, b].
+Example 2.3.1
+Use Simpson’s rule (n = 2) to approximate the integral I =
+ 1
+x2dx.
+Solution Since
+I =
+ 1
+f(x)dx ≃h
+3[f(x0) + 4f(x1) + f(x2)]
+But
+x0 = 0,
+x1 = 1
+2,
+x2 = 1,
+h = (1 −0)
+= 1
+2.
+Therefore
+I ≃1
+
+f(0) + 4f
+1
+
++ f(1)
+
+= 1
+"
+02 + 4
+1
+2
++ 12
+#
+= 1
+3 = 0.33
+But the exact value of the integral is 1
+3 = 0.333. It should not surprise you that the Simpson”
+rule has generated the exact value of the integral. In fact the general result is that for f(x) a
+polynomial of degree two or less, the Simpson” rule will always generate the exact value of the
+integral. This will later be stated as a theorem.
+Page 13 of 196
+
+2.3.1
+Composite Simpson’s 1/3 Rule
+The composite Simpson’s 1/3 rule is commonly referred to as the Simpson’s rule.
+Definition 2.3.1 Simpson’s 1/3 rule: The Simpson’s algorithm for a definite integral
+ b
+a
+is given by
+ b
+a f(x) dx ≈h
+
+f(x0) + 4f(x1) + 2f(x2) + 4f(x3) + 2f(x4) + 4f(x5) + 2f(x6) + · · · + 2f(xn−2) + 4f(xn−1) + f(xn)
+
+(2.6)
+ b
+a f(x) dx = h
+
+f(x0) + 2 Pn/2−1
+j=1
+f(x2j) + 4 Pn/2
+j=1 f(x2j−1) + f(xn)
+
+(2.7)
+Remark 2.3.1 Simpson’s 1/3 rule: After first and last points, others take on coefficients (4, 2)
+repeatedly till second last point.
+Alternatively, the expansion of (2.7) gives or factorisation of (2.6):
+A = h
+
+f(x0) + f(xn) + 2
+
+f(x2) + f(x4) + . . . + f(x2n−2)
+
++ 4
+
+f(x1) + f(x3) + . . . + f(x2n−1)
+
++ ET
+(2.8)
+Remark 2.3.2
+Simpson’s 1/3 rule requires an even number of subintervals.
+Remark 2.3.3
+Simpson’s 1/3 rule: After first and last points, others take on coefficients
+(4, 2, 4, 2, . . .) repeatedly till second last point.
+2.3.2
+Simpson’s Rule Truncation Error
+The truncation error in Simpson’s rule is given by
+Etrunc = −h5
+90[f (4)(c1) + f (4)(c2) + . . . + f (4)(cn)] = −h5
+90f (4)(c2) × n = −(b −a)h4
+f (4) (ξ)
+where a ≤ξ ≤b. Therefore
+Etrunc = (b −a)h4
+f (4) (ξ) , ξ ∈[a, b]
+(2.9)
+Alternatively, the truncation error is given by
+Etrunc = (b −a)5
+180n4 f (4) (ξ) , ξ ∈[a, b]
+since
+n
+Page 14 of 196
+
+Example 2.3.2
+Use S2 to approximate
+ 1
+x3 dx. Estimate a bound for the error in S2.
+Since [0,1] is divided into two subintervals S2, each subinterval has
+length ∆x = 1 −0
+= 1
+2. The endpoints of these subintervals are
+
+0, 1
+2, 1
+
+. If we
+set f(x) = x3, then
+S2 = 1
+3 · 1
+
+f(0) + 4 f
+1
+
++ f(1)
+
+= 1
+
+0 + 4 · 1
+8 + 1
+
+= 1
+4.
+Since f (4)(x) = 0 and consequently we see that
+Etrunc ≤(b −a)h4
+(0) = 0
+This bound indicates that the value obtained through Simpson’s rule is exact. A
+quick check will verify that, in fact,
+ 1
+x3 dx = 1
+4.
+■
+Example 2.3.3
+ 2
+√
+1 + exdx using Simpson’s rule by taking n = 4.
+n
+= 2 −0
+= 0.5
+So the 4 subintervals are [0, 0.5], [0.5, 1], [1, 1.5], and [1.5, 2].
+ 2
+√
+1 + exdx
+≈0.5
+
+f (0) + 4f (0.5) + 2f (1) + 4f(1.5) + f(2)
+
+= 0.5
+
+1.414213562 + 6.509957014 + 3.85656937+
++ 9.36520288 + 2.896386731
+
+= 4.0070549278
+■
+Remark 2.3.4
+The composite Simpson’s rule is commonly referred to as the Simpson’s rule.
+Page 15 of 196
+
+Example 2.3.4
+Use the Simpson’s method to compute the integral
+I =
+ 2
+−2
+e−x2
+2 dx
+Using step size h = 1.0. Recall the exact value of I to 4 decimal places is 2.3925.
+Using the Simpson’s rule with h = 1.0
+⇒
+n = 4, an even number of subintervals, using
+Equation (2.8), we have,
+I = h
+I ≃1.0
+
+e−(−2)2
++ e−(2)2
+2 + 2
+
+e−(0)2
+
++ 4
+
+e−(−1)2
++ e−(1)2
+
+I ≃2.3743
+The absolute error committed is |2.3925 −2.3743| = 0.0182. We note that the error is much
+smaller than that obtained when using Trapezoidal rule in the Example 2.2.2 on page (p. 8)
+though same step size is used.
+Note 2.3.2
+Simpson’s rule (2.8) only work for even number of subintervals.
+Example 2.3.5
+Determine the definite integral
+ 2
+x dx using Simpson with n = 6.
+ 2
+x dx = h
+3 [f(x0) + f(xn) + 2 {f(x2) + f(x4) + . . . + f(x2n−2)} + 4 {f(x1) + f(x3) + . . . + f(x2n−1)}] +
+≈1
+
+1 + 1
+2 + 2
+3
+4 + 3
+
++ 4
+6
+7 + 2
+3 + 6
+
+≈14411
+20790 ≈0.6931697
+Example 2.3.6
+ 3
+dx
+x + 1 using Simpson’s rule with n = 4.
+ 3
+dx
+x + 1 = h
+3 [f(x0) + f(xn) + 2 {f(x2) + f(x4) + . . . + f(x2n−2)} + 4 {f(x1) + f(x3) + . . . + f(x2n−1)}]
+≈0.25
+[f(2) + f(3) + 2 {f(2.5)} + 4 {f(2.25) + f(2.75)}]
+≈0.25
+1
+3 + 1
+4 + 2
+ 1
+3.5
+
++ 4
+ 1
+3.25 +
+3.75
+
+≈0.2876831
+1.) Compute its exact value and hence the error committed
+ 3
+dx
+x + 1 = ln(x + 1)|3
+2 = 0.287682
+⇒Absolute error = |0.287682 −0.2876831| ≈0.00036
+2.) Repeat the problem above using h = 0.1.
+3.) Comment on the effect of h on the numerical solutions.
+4.) Repeat the problem using the Trapezoidal rule.
+Which of the two techniques is more
+accurate?
+Page 16 of 196
+
+Note 2.3.3 For f(x) a trigonometric function, we use (Your calculator should be in) Radians.
+Example 2.3.7
+It is required to obtain
+ 2
+ex2dx exact to 4 decimal places. What should h
+be for Simpson’s rule.
+Since the error term is −(b −a)
+h4f (4) (ξ), with f(x) = ex2, then
+f ′(x) = 2xex2
+f ′′(x) = 2(ex2 + 2xex2) = 2ex2(1 + 2x2) = ex2(2 + 4x2)
+f ′′′(x) = 2xex2(2 + 4x2) + 8xex2
+= ex2(4x + 8x3 + 8x)
+= ex2(12x + 8x3)
+f (iv)(x) = 8ex2(2x4 + 5x2 + 1)
+< 424e4
+So
+−(b −a)
+h4f (4) (ξ) = 2h4
+ 424e4
+< (0.5)10−4
+to have h < 0.057, say choose h = 0.05.
+Exercise 2.3.1 Compute an approximate value of
+ 1
+(x2+1)−1dx using Composite Simpson’s
+rule with
+1.) h = 0.1
+Compare with the actual value of the integral in each case. Next, determine the truncation
+error bound and compare with the actual error.
+Exercise 2.3.2 If the Simpson’s rule is used to compute
+ 5
+sin xdx with h = 0.75, obtain an
+upper bound on the error.
+Exercise 2.3.3
+Establish the composite Simpson’s rule over (n −1) even subintervals
+ b
+a
+f(x)dx = h
+3[(f(a) + f(b)) + 4
+(n−1)
+X
+i=1
+f(a + (2i −1)h) + 2
+(n−3)
+X
+i=1
+f(a + 2ih)] + Etrunc
+where, h = (b −a)
+(n −1) and Etrunc = −(b −a)
+h4f (4)(ξ) for some ξ ∈[a, b].
+Exercise 2.3.4
+Consider the integral
+ 1
+sin
+πx2
+
+dx. Suppose that we wish to integrate
+numerically with error < 10−5. What interval width h is needed if the Simpson’s rule is to be
+used?
+Exercise 2.3.5
+Compute
+ 2
+(x3 + 1)dx by using h = 1
+4 and compare with the exact value of
+the integral.
+Page 17 of 196
+
+Example 2.3.8
+1.) Solve the integral
+ 2
+
+ 2√x
+
+dx in Example 2.2.8 on page (p.
+11) using the
+Simpson’s algorithm with n = 4.
+I = h
+≈1
+h
+√
+0)
+
++
+
+√
+2)
+
++ 2
+n
+√
+1)
+o
++4
+n
+√
+0.5)
+
++
+
+√
+1.5)
+oi
+≈1
+h
+3 + 2 + cos(2
+√
+2) + 2 {(2 + cos 2)} + 4
+n
+√
+2) + (2 + cos
+√
+6)
+oi
+≈1
+h
+5 + cos(2
+√
+2) + 2 {(2 + cos 2)} + 4
+n
+√
+2) + (2 + cos
+√
+6)
+oi
+≈3.46008250981
+≈3.46008
+2.) Show that using the Simpson’s scheme with n = 8, the integral is I ≈3.46000.
+I = h
+≈1
+h
+√
+0)
+
++
+
+√
+2)
+
++2
+n
+√
+0.5)
+
++
+
+√
+1)
+
++
+
+√
+1.5)
+o
++4
+n
+√
+0.25)
+
++
+
+√
+0.75)
+
++
+
+√
+1.25)
+
++
+
+√
+1.75)
+oi
+≈3.460002979
+≈3.46000
+3.) The classical value is given by
+ 2
+
+ 2√x
+
+dx = 2x + (0.5) cos
+ 2√x
+
++ √x sin
+ 2√x
+
+= 3.46000
+4.) What is the effect of the size of n, the number of subintervals? The more the subintervals,
+the more accurate the numerical approximations.
+5.) Which of the two numerical schemes is more superior? The Simpson’s rule is more accurate
+compared to the Trapezoidal method that estimated the definite integral to
+(a) I = 3.4971 for n = 4, and
+(b) I = 3.4693 for n = 8
+as computed in Example 2.2.8 on page (p. 11).
+Page 18 of 196
+
+Example 2.3.9 Evaluate
+ 4
+ 1 + x2
+dx with n = 4, using
+1.) Classical techniques
+ 4
+ 1 + x2
+dx = x + x3
+
+= 76
+3 ≈25.3333
+2.) Simpson’s scheme formula for even number of subintervals, Equation (2.8)
+I = h
+≈1
+
+f(0) + f(4) + 2 {f(2)} + 4 {f(1) + f(3)}
+
+≈1
+
+1 + 17 + 2 {5} + 4 {2 + 10}
+
+≈76
+≈25.3333
+Having used the correct formula, the Simpson’s approximation is very close, if not equal to
+the analytical, exact solutions in part 1.) above.
+3.) Trapezoidal method
+I = h
+≈1
+
+f(0) + f(4) + 2 {f(1) + f(2) + f(3)}
+
+≈1
+
+1 + 17 + 2 {2 + 5 + 10}
+
+≈52
+≈26.0000
+Remark 2.3.5
+The inferior Trapezoidal algorithm 3.) generate a less accurate solution compared to Simpson rule formula in 2.) which is a superior method.
+Page 19 of 196
+
+Example 2.3.10
+ 2
+ex3dx using Simpson’s rule by taking n = 4.
+n
+= 2 −1
+So the 4 subintervals are [1, 1.25], [1.25, 1.5], [1.5, 1.75], and [1.75, 2].
+ 2
+≈0.25
+[f (1) + 4f (1.25) + 2f (1.5) + 4f(1.75) + f(2)]
+3 (2.71828182845905 + 28.2027463392796
++ 58.4485675624699 + 850.36813958881
++ 2980.95798704173)
+= 326.724643530062
+■
+Example 2.3.11
+ 2
+sin √x dx using Simpson’s rule by taking n = 8.
+n
+= 2 −0
+So the 8 sub-intervals are [0, 0.25], [0.25, 0.5], [0.5, 0.75], [0.75, 1], [1, 1.25], [1.25, 1.5], [1.5, 1.75],
+and [1.75, 2].
+ 2
+≈0.25
+[f (0) + 4f (0.25) + 2f (0.5) + 4f (0.75) + 2f (1) + 4f (1.25) + 2f (1.5) + 4f(1.75) + f(2)]
+3 (0 + 1.91770215441681 + 1.29927387816012
++ 3.04703992566516 + 1.68294196961579
++ 3.59696858641514 + 1.88143866748289
++ 3.87769904361669 + 0.987765945992735)
+= 1.52423584761378
+■
+Page 20 of 196
+
+Example 2.3.12
+Using Trapezoidal rule compute the integral
+1
+ex2dx, where the table for
+the values of y = ex2 is given below:
+x
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+y
+1.00000
+1.01005
+1.04081
+1.09417
+1.17351
+1.28402
+1.43332
+1.63231
+1.89648
+2.2479
+2.71
+Here, h = 0.1, n = 10,
+y0 + y10
+= 1.0 + 2.71828
+= 1.85914,
+and
+X
+i=1
+yi = 12.81257.
+such that the area by Trapezoidal’s rule is given by
+A = h
+2 [y0 + y10 + 2 {y1 + y2 + y3 + y4 + y5 + y6 + y7 + y8 + y9}]
+A = h
+y0 + y10
++ {y1 + y2 + y3 + y4 + y5 + y6 + y7 + y8 + y9}
+
+Thus,
+
+ex2dx = 0.1 × [1.85914 + 12.81257] = 1.467171
+■
+Example 2.3.13
+Using the table for the values of y = ex2 as is given in Example 2.3.12,
+compute the integral
+1
+ex2dx, by Simpson’s rule.
+Here, h = 0.1, n = 10, thus we have an even number of subintervals.
+Further,
+y0 + y10 = 1.0 + 2.71828 = 3.71828,
+X
+i=1, i−odd
+yi = y1 + y3 + y5 + y7 + y9 = 7.26845,
+X
+i=2, i−even
+yi = y2 + y4 + y6 + y8 = 5.54412.
+such that the area by Simpson’s rule is given by
+A = h
+3 [y0 + y10 + 2 {y2 + y4 + y6 + y8} + 4 {y1 + y3 + y5 + y7 + y9}]
+Thus,
+
+ex2dx = 0.1
+3 × [3.71828 + 2 × 5.54412 + 4 × 7.268361] = 1.46267733
+■
+Page 21 of 196
+
+Example 2.3.14 Compute the integral
+1
+0.05
+f(x)dx , where the table for the values of y = f(x)
+is given below:
+x
+0.05
+0.1
+0.15
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+y
+0.0785
+0.1564
+0.2334
+0.3090
+0.4540
+0.5878
+0.7071
+0.8090
+0.8910
+0.9511
+0.9877
+1.000
+Note that here the points are not given to be equidistant, so as
+such we can not use any of the above two formulae. However, we notice that the
+tabular points 0.05, 0.10, 0, 15 and 0.20 are equidistant and so are the tabular points
+0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9 and 1.0 . Now we can divide the interval in two
+subinterval: [0.05, 0.2] and [0.2, 1.0] ; thus,
+
+0.05
+0.2
+
+0.05
+f(x)dx +
+
+0.2
+f(x)dx.
+The integrals then can be evaluated in each interval. We observe that the second set
+has odd number of points (even subintervals). Thus, the first integral is evaluated by
+using Trapezoidal rule and the second one by Simpson’s rule (of course, one could
+have used Trapezoidal rule in both the subintervals).
+For the first integral h = 0.05 and for the second one h = 0.1. Thus, first part by
+Trapezoidal scheme,
+0.2
+
+0.05
+f(x)dx = 0.05
+× [0.0785 + 0.3090 + 2 (0.1564 + 0.2334)] = 0.0291775,
+and, second part by Simpson’s rule,
+1.0
+
+0.2
+f(x)dx = 0.1
+3 × [(0.3090 + 1.0000) + 2 × (0.5878 + 0.8090 + 0.9511)
++4 × (0.4540 + 0.7071 + 0.8910 + 0.9877)]
+= 0.6054667,
+which gives,
+
+0.05
+f(x)dx = 0.0291775 + 0.6054667 = 0.6346442
+It may be mentioned here that in the above integral, f(x) = sin
+π
+2 x
+
+and that the
+value of the integral is 0.6346526 . It will be interesting for the reader to compute
+the two integrals using Trapezoidal rule and compare the values.
+■
+Page 22 of 196
+
+2.4
+Mid-Point Rule
+If f is continuous on [a, b] and f(x) ≥0 ∀x ∈(a, b), we partition [a, b] into n subintervals of
+equal lengths.
+Definition 2.4.1
+If mi is the midpoint of the ith interval then
+ b
+a
+n
+X
+i=1
+(∆xi)f(mi)
+(2.10)
+Example 2.4.1
+
+q
+sin4 (x) + 7 dx
+with
+n = 4
+using the midpoint rule.
+The midpoint rule (also known as the midpoint approximation) uses
+the midpoint of a subinterval for computing the height of the approximating rectangle:
+b
+a
+f(x) dx ≈∆x
+
+f
+  x0+x1
+
++ f
+  x1+x2
+
++ f
+  x2+x3
+
++ · · · + f
+  xn−2+xn−1
+
++ f
+  xn−1+xn
+
+where
+∆x = b −a
+n
+We have that
+q
+sin4 (x) + 7
+a = 1
+b = 3
+and
+n = 4
+∆x = 3 −1
+= 1
+Divide the interval
+[1, 3]
+into
+n = 4
+subintervals of the length
+∆x = 1
+with the following endpoints:
+a = 1
+Page 23 of 196
+
+3 = b
+Now, just evaluate the function at the midpoints of the subintervals.
+f
+
+= f
+1 + 3
+
+= f
+5
+
+=
+s
+sin4
+5
+
++ 7 ≈2.794821922941848
+f
+
+= f
+ 3
+2 + 2
+
+= f
+7
+
+=
+s
+sin4
+7
+
++ 7 ≈2.817350905627184
+f
+
+= f
+2 + 5
+
+= f
+9
+
+=
+s
+sin4
+9
+
++ 7 ≈2.714130913751178
+f
+x3 + x4
+
+= f
+ 5
+2 + 3
+
+= f
+11
+
+=
+s
+sin4
+11
+
++ 7 ≈2.649758163512828
+Finally, just sum up the above values and multiply by
+∆x = 1
+2 :
+
+2.794821922941848 + 2.817350905627184 + 2.714130913751178 + 2.649758163512828
+
+= 5.488030952916519
+Therefore
+
+q
+sin4 (x) + 7 dx ≈5.488030952916519
+■
+Example 2.4.2
+Find the integral using the midpoint rule
+ 2
+xdx with n = 10
+The step width is given by ∆xi = 2 −1
+= 1
+10 such that f(x) = 1
+x ⇒f(mi) = 1
+mi
+ 2
+xdx = ∆x
+n
+X
+i=1
+f(mi)
+= 1
+10 [f(1.05) + f(1.15) + f(1.25) + f(1.35) + · · · + f(1.75) + f(1.85) + f(1.95)]
+= 1
+ 1
+1.05 +
+1.15 +
+1.25 +
+1.35 +
+1.45 +
+1.55 +
+1.65 +
+1.75 +
+1.85 +
+1.95
+
+= 0.69284
+Note 2.4.1 The Mid-point algorithm is the Riemann sum at mid point, not the upper (right
+end) Riemann and not the lower (left end) Riemann sum.
+Page 24 of 196
+
+2.4.1
+Mid-Point Truncation Error
+If
+|f ′′ (ξ) | < M , ∀ξ ∈[a, b]
+then the truncation error in the Mid-point scheme is given by
+Etrunc = M(b −a)3
+24n2
+(2.11)
+Example 2.4.3 The exact solution for
+ 1
+cos xdx = sin 1 ≈0.8414709848. For different step
+length h = ∆x, show the Mid-Point rule results below:
+h
+IMidpoint(h)
+Absolute Error
+0.500000
+0.85030065
+8.8 × 10−3
+0.250000
+0.84366632
+2.2 × 10−3
+0.125000
+0.84201907
+5.5 × 10−4
+0.062500
+0.84160796
+1.4 × 10−4
+0.031250
+0.84150523
+3.4 × 10−5
+0.015625
+0.84147954
+8.6 × 10−6
+0.007813
+0.84147312
+2.1 × 10−6
+0.003906
+0.84147152
+5.3 × 10−7
+0.001953
+0.84147112
+1.3 × 10−7
+0.000977
+0.84147102
+3.3 × 10−8
+Example 2.4.4 Use the midpoint rule to estimate
+ 1
+x2 dx using four subintervals. Compare
+the result with the actual value of this integral.
+Each subinterval has length ∆x = 1 −0
+= 1
+4. Therefore, the subintervals consist of
+
+0, 1
+
+,
+1
+4, 1
+
+,
+1
+2, 3
+
+, and
+3
+4, 1
+
+.
+1
+8, 3
+8, 5
+8, 7
+
+M4 = 1
+4 · f
+1
+
++ 1
+4 · f
+3
+
++ 1
+4 · f
+5
+
++ 1
+4 · f
+7
+
+= 1
+4 · 1
+4 · 9
+4 · 25
+4 · 49
+= 21
+64 = 0.328125.
+Since
+ 1
+x2 dx = 1
+3,
+the absolute error in this approximation is:
+
+3 −21
+=
+192 ≈0.0052,
+Page 25 of 196
+
+and we see that the midpoint rule produces an estimate that is somewhat close to
+the actual value of the definite integral.
+■
+Example 2.4.5
+Use the midpoint rule with n = 2 to estimate
+ 2
+x dx.
+■
+Example 2.4.6
+
+√
+2x + 1 dx
+with
+n = 4
+using the midpoint rule.
+The midpoint rule (also known as the midpoint approximation) uses
+the midpoint of a subinterval for computing the height of the approximating rectangle:
+b
+a
+f (x) dx ≈∆x
+
+f
+
++ f
+
++ f
+
++ · · · + f
+xn−2 + xn−1
+
++ f
+xn−1 + xn
+ 
+where
+∆x = b −a
+n
+We have that
+√
+2x + 1, a = 0, b = 1, n = 4
+∆x = 1 −0
+Divide the interval [0, 1] into n = 4 subintervals of the length ∆x = 1
+4 with the
+following endpoints:
+a = 0, 0.25, 0.5, 0.75, 1 = b
+Now, find the function at the midpoints of the subintervals.
+f
+
+= f
+0 + 0.25
+
+= f (0.125) =
+√
+20.125 + 1 = 1.11803398874989
+f
+
+= f
+0.25 + 0.5
+
+= f (0.375) =
+√
+20.375 + 1 = 1.32287565553230
+f
+
+= f
+0.5 + 0.75
+
+= f (0.625) =
+√
+20.625 + 1 = 1.50000000000000
+f
+x3 + x4
+
+= f
+0.75 + 1
+
+= f (0.875) =
+√
+20.875 + 1 = 1.65831239517770
+Finally, just sum up the above values and multiply by ∆x = 1
+4 = 0.25
+0.25(1.11803398874989 + 1.32287565553230 + 1.50000000000000 + 1.65831239517770)
+= 1.39980550986497
+Page 26 of 196
+
+
+√
+2x + 1 dx ≈1.399805509864973
+■
+Page 27 of 196
+
+2.5
+Comparison of the Numerical Integration Techniques
+2.5.1
+Truncation Errors Comparisons
+1.) Error bound for midpoint rule
+EM ≤M(b −a)3
+24n2
+where M is the maximum value of |f ′′(x)| over [a, b].
+2.) Error bound for trapezoidal rule
+ET ≤M(b −a)3
+12n2
+where M is the maximum value of |f ′′(x)| over [a, b].
+3.) Error bound for Simpson’s rule
+ES ≤M(b −a)5
+180n4
+where M is the maximum value of
+f (4)(x)
+over [a, b].
+Example 2.5.1
+Determine the Midpoint rule truncation error in approximating
+ π
+sin x dx
+1.) The integral
+ π
+sin x dx has b −a = π.
+2.) The second derivative of the integrand satisfies
+
+d2
+dx2 sin x
+= | −sin x| ≤1
+So we take M = 1.
+3.) So the error, EM, introduced when n steps are used is bounded by
+|EM(n)| ≤M
+n2
+= π3
+n2
+≈1.29 1
+n2
+■
+Page 28 of 196
+
+Example 2.5.2
+What value of n should be used to guarantee that an estimate of
+ 1
+is accurate to within 0.01 if we use the midpoint rule?
+We begin by determining the value of M, the maximum value of
+|f ′′(x)| over [0, 1] for f(x) = ex2. Since f ′(x) = 2xex2, we have
+f ′′(x) = 2ex2 + 4x2ex2.
+Thus,
+|f ′′(x)| = 2ex2(1 + 2x2) ≤2 · e · 3 = 6e.
+From the error-bound Equation, we have the error in Mn
+EM ≤M(b −a)3
+24n2
+≤6e(1 −0)3
+24n2
+=
+6e
+24n2.
+Now we solve the following inequality for n (accurate to within 0.01):
+6e
+24n2 ≤0.01
+Thus,
+n ≥
+r
+600e
+≈8.24.
+Since n must be an integer satisfying this inequality, a choice of n = 9 would guarantee that
+
+ 1
+ex2 dx −Mn
+< 0.01.
+■
+Example 2.5.3 Use Equation (truncation error) to find an upper bound for the error in using
+M4 (Midpoint rule with 4 steps) to estimate
+ 1
+x2 dx.
+f ′′(x) = 2, so M = 2 such that
+EM =
+■
+Example 2.5.4
+Estimate a bound for the error in Simpson’s rule in approximating
+ 1
+x3 dx
+with n = 2.
+Since f (4)(x) = 0 and consequently M = 0, we see that
+ES ≤
+0(1)5
+180 · 24 = 0.
+This bound indicates that the value obtained through Simpson’s rule is exact.
+■
+Page 29 of 196
+
+Exercise 2.5.1
+Let f(x) = −1
+12x4 + 7
+6x3 −3x2.
+1.) Find a reasonable value M such that |f ′′(x)| ≤M for all 1 ≤x ≤6.
+2.) Find a reasonable value M such that |f (4)(x)| ≤M for all 1 ≤x ≤6.
+Exercise 2.5.2 Let f(x) = x sin x+2 cos x. Find a reasonable value M such that |f ′′(x)| ≤M
+for all −3 ≤x ≤2.
+Exercise 2.5.3
+Consider the quantity
+A =
+ π
+−π
+cos x dx.
+Find the upper bound on the error using Simpson’s rule with n = 4 to approximate A.
+Exercise 2.5.4
+Give a function f(x) such that:
+• f ′′(x) ≤3 for every x in [0, 1], and
+• the error using the trapezoidal rule approximating
+ 1
+f(x) dx with n = 2 intervals is exactly
+16.
+Exercise 2.5.5
+True or False: for fixed positive constants M, n, a, and b, with b > a,
+M
+n2
+≤M
+n2
+Exercise 2.5.6
+True or False: for a function f(x) and fixed constants n, a, and b, with
+b > a, the n-interval midpoint approximation of
+ b
+a
+f(x) dx is more accurate than the n-interval
+trapezoidal approximation.
+Page 30 of 196
+
+2.5.2
+Numerical Solutions Comparison
+Example 2.5.5
+ 1
+1 + x2 dx using the midpoint rule with n = 8 subintervals.
+1.) First we set up all the x-values that we will need. Note that a = 0, b = 1, ∆x =
+8 and
+x0 = 0
+x1 = 1
+x2 = 2
+· · ·
+x7 = 7
+x8 = 8
+8 = 1
+Consequently, the midpoints ̄x
+̄x1 = 1
+̄x2 = 3
+̄x3 = 5
+· · ·
+̄x8 = 15
+2.) We apply the midpoint rule to the integrand f(x) =
+1 + x2
+ 1
+1 + x2 dx ≈
+
+f( ̄x1)
++
+f( ̄x2)
++· · ·+
+f( ̄xn−1)
++
+f( ̄xn)
+
+∆x
+=
+
+1 +
++
++
++
++
+1 + 92
++
+1 + 112
++
+1 + 132
++
+1 + 152
+1
+=
+
+3.98444 + 3.86415 + 3.64413 + 3.35738 + 3.03858+
+2.71618 + 2.40941 + 2.12890
+1
+= 3.1429
+where we have rounded to four decimal places
+3.) In this case we can compute the integral exactly (which is one of the reasons it
+was chosen as an example):
+ 1
+1 + x2 dx = 4 arctan x
+
+0 = π
+4.) So the absolute error in the approximation generated by eight steps of the midpoint rule is
+|3.1429 −π| = 0.0013
+5.) The relative error is then
+|approximate −exact|
+exact
+= |3.1429 −π|
+π
+= 0.0004
+That is the error is 0.0004 times the actual value of the integral.
+6.) We can write this as a percentage error by multiplying it by 100
+percentage error = 100 × |approximate −exact|
+exact
+= 0.04%
+That is, the error is about 0.04% of the exact value.
+■
+Page 31 of 196
+
+Example 2.5.6 Approximate
+ π
+sin x dx applying the midpoint rule with n = 8 subintervals
+to the above integral.
+1.) We again start by setting up all the x-values that we will need. So a = 0, b =
+π, ∆x = π
+8 and
+x0 = 0
+x1 = π
+x2 = 2π
+· · ·
+x7 = 7π
+x8 = 8π
+8 = π
+Consequently,
+̄x1 = π
+̄x2 = 3π
+· · ·
+̄x7 = 13π
+̄x8 = 15π
+2.) Applying the mid point rule with the integrand f(x) = sin x
+ π
+sin x dx ≈
+h
+sin( ̄x1) + sin( ̄x2) + · · · + sin( ̄x8)
+i
+∆x
+=
+h
+sin( π
+16) + sin(3π
+16) + sin(5π
+16) + sin(7π
+16) + sin(9π
+16)+
+sin(11π
+16 ) + sin(13π
+16 ) + sin(15π
+16 )
+i
+π
+=
+h
+0.1951 + 0.5556 + 0.8315 + 0.9808 + 0.9808+
+0.8315 + 0.5556 + 0.1951
+i
+× 0.3927
+= 5.1260 × 0.3927 = 2.013
+3.) The exact value is given by
+ π
+sin x dx =
+
+−cos x
+π
+0 = −cos π + cos 0 = 2.
+4.) So with eight subintervals (steps) of the midpoint rule we achieved
+absolute error = |2.013 −2| = 0.013
+relative error = |2.013 −2|
+= 0.0065
+percentage error = 100 × |2.013 −2|
+= 0.65%
+With little work we have managed to estimate the integral to within 1% of its true
+value.
+■
+Page 32 of 196
+
+Example 2.5.7
+ 1
+1 + x2 dx using the Trapezoidal rule with n = 8 subintervals.
+ 1
+1 + x2 dx ≈
+
+f(x0)
+1+x2
++2 ·
+f(x1)
+1+x2
++· · ·+ 2 ·
+f(xn−1)
+1+x2
++
+f(xn)
+1+x2
+∆x
+=
+
+1 + 02 + 2 ·
+1 + 1
++ 2 ·
+1 + 22
++ 2 ·
++ 2 ·
+1 + 42
++ 2 ·
++ 2 ·
+1 + 62
++ 2 ·
++
+1 + 82
+ 1
+8(2)
+=
+h
+4 + 2(3.939) + 2(3.765) + 2(3.507)
++ 2(3.2) + 2(2.876) + 2(2.56) + 2(2.266) + 2
+i 1
+= 3.139
+The exact value of the integral is still π. So the error in the approximation generated
+by eight steps of the trapezoidal rule is
+|3.139 −π| = 0.0026,
+which is
+100|3.139−π|
+π
+% = 0.08%
+of the exact answer. Notice that this is roughly twice the error that we achieved
+using the midpoint rule in Example 2.5.5 on page 31.
+■
+Example 2.5.8
+ π
+sin x dx with the Trapezoidal rule with n = 8.
+ π
+sin x dx ≈
+h
+sin(x0) + 2 · sin(x1) + · · · + 2 · sin(x7) + sin(x8)
+i∆x
+=
+h
+sin 0 + 2 · sin π
+8 + 2 · sin 2π
+8 + 2 · sin 3π
+8 + 2 · sin 4π
+8 + 2 · sin 5π
++ 2 · sin 6π
+8 + 2 · sin 7π
+8 + sin 8π
+i
+π
+=
+h
+0 + 2(0.3827) + 2(0.7071) + 2(0.9239) + 2(1.0000) + 2(0.9239)+
+2(0.7071) + 2(0.3827) + 0
+i
+× 0.1963
+= 1.974
+The exact answer is
+ π
+sin x dx = −cos x
+
+π
+0 = 2. So with eight steps of the trapezoidal rule we achieved 100|1.974−2|
+= 1.3% accuracy. Again this is approximately
+twice the error we achieved in Example 2.5.6 on page 32 using the midpoint rule. ■
+Remark 2.5.1 These two examples suggest that the midpoint rule is more accurate than the
+trapezoidal rule. Indeed, this observation is born out by a rigorous analysis of the error.
+Page 33 of 196
+
+Example 2.5.9
+ 1
+1 + x2 dx using the Simpson’s rule with n = 8 subintervals.
+ 1
+1 + x2 dx
+≈
+
+1 + 02 + 4
+1 + 1
++ 2
+1 + 22
++ 4
++ 2
+1 + 42
++ 4
++ 2
+1 + 62
++ 4
++
+1 + 82
+
+8 × 3
+=
+h
+4+4 × 3.938461538+2 × 3.764705882+4 × 3.506849315+2 × 3.2
++ 4 × 2.876404494 + 2 × 2.56 + 4 × 2.265486726 + 2
+i
+8 × 3
+= 3.14159250
+With the absolute error as
+|3.14159250 −π| = 1.5 × 10−7
+It is striking that the absolute error approximating with Simpson’s rule is so much
+smaller than the error from the midpoint and trapezoidal rules.
+midpoint error
+= 0.0013
+trapezoid error
+= 0.0026
+Simpson error
+= 0.00000015
+See Example 2.5.5 and Example 2.5.7.
+■
+Page 34 of 196
+
+Example 2.5.10
+ π
+sin x dx with the Simpson’s rule with n = 8.
+ π
+sin x dx
+≈
+h
+sin(x0) + 4 sin(x1) + 2 sin(x2) + · · · + 4 sin(x7) + sin(x8)
+i
+∆x
+=
+h
+sin(0) + 4 sin(π
+8) + 2 sin(2π
+8 ) + 4 sin(3π
+8 ) + 2 sin(4π
+8 )
++ 4 sin(5π
+8 ) + 2 sin(6π
+8 ) + 4 sin(7π
+8 ) + sin(8π
+8 )
+i
+π
+8×3
+=
+h
+0 + 4 × 0.382683 + 2 × 0.707107 + 4 × 0.923880 + 2 × 1.0
++ 4 × 0.923880 + 2 × 0.707107 + 4 × 0.382683 + 0
+i
+π
+8×3
+= 15.280932 × 0.130900
+= 2.00027
+With only eight subintervals/steps of Simpson’s rule we achieved
+2.00027 −2
+
+= 0.014% accuracy.
+Again we contrast the error we achieved with the other two rules:
+midpoint error
+= 0.013
+trapezoid error
+= 0.026
+Simpson error
+= 0.00027
+■
+Remark 2.5.2 These last two examples suggest that the Simpson’s rule is more accurate than
+the midpoint rule and the trapezoidal rule. Indeed, this observation is born out by a rigorous
+analysis of the error.
+Note 2.5.1 Two obvious considerations when deciding whether or not a given algorithm is of
+any practical value are
+1.) the amount of computational effort required to execute the algorithm
+2.) the accuracy that this computational effort yields.
+To get a first impression of the error behaviour of these methods, we apply them to a problem
+whose answer we know exactly:
+ π
+sin x dx = −cos x
+π
+0 = 2.
+To be a little more precise, we would like to understand how the errors of the three methods
+change as we increase the effort we put in (as measured by the number of steps n).
+The
+following table lists the error in the approximate value for this number generated by our three
+rules applied with three different choices of n. It also lists the number of evaluations of f
+required to compute the approximation.
+Page 35 of 196
+
+Midpoint
+Trapezoidal
+Simpson’s
+n
+error
+error
+error
+8.2 × 10−3
+1.6 × 10−2
+1.1 × 10−4
+8.2 × 10−5
+1.6 × 10−4
+1.1 × 10−8
+8.2 × 10−7
+1.6 × 10−6
+1.1 × 10−12
+Observe that
+1.) Using 101 evaluations of f worth of Simpson’s rule gives an error 75 times smaller than
+1000 evaluations of f worth of the midpoint rule.
+2.) The trapezoidal rule error with n steps is about twice the midpoint rule error with n steps.
+3.) With the midpoint rule, increasing the number of steps by a factor of 10 appears to reduce
+the error by about a factor of 100 = 102 = n2.
+4.) With the trapezoidal rule, increasing the number of steps by a factor of 10 appears to reduce
+the error by about a factor of 102 = n2.
+5.) With Simpson’s rule, increasing the number of steps by a factor of 10 appears to reduce
+the error by about a factor of 104 = n4.
+Page 36 of 196
+
+Example 2.5.11
+With the composite Trapezoidal Rule, approximate
+I =
+ 1
+x2dx
+using
+1.) h = 0.25
+Hence, Compare you solutions with the exact solution.
+1.) With h = 0.25
+I = h
+2 [f(x0) + f(xn) + 2 {f(x1) + f(x2) + · · · + f(xn−1)}]
+ 1
+x2dx = 0.25
+[f(0) + f(1) + 2 {f(0.25) + f(0.5) + f(0.75)}]
+= 0.5
+
+0 + 1 + 2(0.252 + 0.52 + 0.752)
+
+= 2.75
+= 0.34375
+2.) With h = 0.5
+I = h
+2 [f(x0) + f(xn) + 2 {f(x1) + f(x2) + · · · + f(xn−1)}]
+ 1
+x2dx = 0.5
+2 [f(0) + f(1) + 2{f(0.5)}]
+= 0.5
+
+0 + 1 + 2(0.52)
+
+= 1.5
+4 = 0.375
+3.) exact solution
+ 1
+x2dx =
+x3
+1
+= 1
+3 −(0)
+= 1
+= 0.3333
+Errors.
+When h = 0.25, the error is
+|0.33333 −0.34375| = 0.01042
+With h = 0.5, the error is
+|0.33333 −0.375| = 0.04167
+■
+Page 37 of 196
+
+Example 2.5.12
+Apply the Mid-point Rule to estimate
+I =
+ 1
+x2dx
+using
+1.) h = 0.25
+Hence, Compare you solutions with the exact solution.
+1.) For h = 0.25 Each subinterval has length ∆x = 0.25 = 1
+4. Therefore, the
+subintervals consist of
+
+0, 1
+
+,
+1
+4, 1
+
+,
+1
+2, 3
+
+, and
+3
+4, 1
+
+.
+1
+8, 3
+8, 5
+8, 7
+
+M4 = 1
+4 · f
+1
+
++ 1
+4 · f
+3
+
++ 1
+4 · f
+5
+
++ 1
+4 · f
+7
+
+= 1
+4 · 1
+4 · 9
+4 · 25
+4 · 49
+= 21
+64 = 0.328125.
+2.) For h = 0.5 = 1
+2. Therefore, the subintervals consist of
+
+0, 1
+
+, and
+1
+2, 1
+
+.
+1
+4, 3
+
+M2 = 1
+2 · f
+1
+
++ 1
+2 · f
+3
+
+= 1
+2 · 1
+16 + 1
+2 · 9
+= 10
+32 = 0.3125.
+3.) Absolute error: Since
+ 1
+x2 dx = 1
+3,
+the absolute error in this approximation is:
+Page 38 of 196
+
+(a) For h = 0.25
+
+3 −21
+=
+192 ≈0.0052,
+(b) For h = 0.5
+
+3 −10
+= 1
+48 ≈0.0208,
+and we see that the midpoint rule produces an estimate that is somewhat close
+to the actual value of the definite integral than the Trapezoidal rule.
+■
+Page 39 of 196
+
+2.5.3
+Steps Required to Accuracy
+Example 2.5.13
+How many steps n required for approximating
+ 1
+e−x2 dx
+using the midpoint rule to within an accuracy of 10−6.
+1.) The integral has a = 0 and b = 1.
+2.) The first two derivatives of the integrand are
+d
+dxe−x2 = −2xe−x2
+and
+d2
+dx2e−x2 = d
+dx
+ −2xe−x2
+= −2e−x2 + 4x2e−x2 = 2(2x2 −1)e−x2
+3.) As x runs from 0 to 1, 2x2 −1 increases from −1 to 1, so that
+0 ≤x ≤1 =⇒|2x2 −1| ≤1, e−x2 ≤1 =⇒
+2(2x2 −1)e−x2 ≤2
+So we take M = 2.
+4.) The error introduced by the n step midpoint rule is at most
+EM ≤M
+n2
+≤2
+(1 −0)3
+n2
+=
+12n2
+5.) We need this error to be smaller than 10−6 so
+EM ≤
+12n2 ≤10−6
+and so
+12n2 ≥106
+clean up
+n2 ≥106
+12 = 83333.3
+square root both sides
+n ≥288.7
+So 289 steps of the midpoint rule will do the job.
+6.) In fact n = 289 results in an error of about 3.7 × 10−7.
+That seems like far too much work, and the trapezoidal rule will have twice the error.
+■
+Page 40 of 196
+
+Example 2.5.14
+How many steps n required for approximating
+ 1
+e−x2 dx
+using the Simpson’s rule to within an accuracy of 10−6.
+1.) The integral has a = 0 and b = 1.
+2.) The first four derivatives of the integrand are
+d
+dxe−x2 = −2xe−x2
+and
+d2
+dx2e−x2 = d
+dx
+ −2xe−x2
+= −2e−x2 + 4x2e−x2 = 2(2x2 −1)e−x2
+such that the third and fourth derivatives are given by
+d3
+dx3e−x2 = d
+dx
+
+2(2x2 −1)e−x2
+= 8xe−x2 −4x(2x2 −1)e−x2
+= 4(−2x3 + 3x)e−x2
+d4
+dx4e−x2 = d
+dx
+
+4(−2x3 + 3x)e−x2
+= 4(−6x2 + 3)e−x2−8x(−2x3 + 3x)e−x2
+= 4(4x4 −12x2 + 3)e−x2
+3.) Now for any x, then e−x2 ≤1. Also, for 0 ≤x ≤1
+0 ≤x2, x4 ≤1
+so
+3 ≤4x4 + 3 ≤7
+and
+−12 ≤−12x2 ≤0
+adding these together gives
+−9 ≤4x4 −12x2 + 3 ≤7
+Consequently,
+4x4 −12x2 + 3
+is bounded by 9 and so
+
+d4
+dx4e−x2
+≤4 × 9 = 36
+So, take M = 36.
+4.) The error introduced by the n step Simpson’s rule is at most
+ES ≤L
+(b −a)5
+n4
+≤36
+(1 −0)5
+n4
+=
+5n4
+5.) In order for this error to be no more than 10−6 we require n to satisfy
+ES ≤
+5n4 ≤10−6
+and so
+5n4 ≥106
+n4 ≥200000
+take fourth root
+n ≥21.15
+So 22 steps of Simpson’s rule will do the job.
+Page 41 of 196
+
+6.) Just n = 22 steps (as compared to midpoint n = 289 steps results in an error
+of about 3.7 × 10−7 ) results in an error of about 3.5 × 10−8.
+That seems like far too less work, as compared to work required by Midpoint and the
+Trapezoidal rule.
+■
+Page 42 of 196
+
+2.6
+Numerical Integration Chapter Examples
+Exercise 2.6.1 Using n = 4 and all three rules to approximate the value of the following
+integral
+ 2
+1.) Mid-Point rule
+14.48561253
+2.) Trapezium rule
+20.64455905
+3.) Simpson’s rule
+17.35362645
+Maple gives the exact solution as
+ 2
+ex2 dx = 16.45262776. Therefore, the Simpson’s technique
+is more superior followed by the Trapezoidal rule and then the Mid-point algorithm.
+Exercise 2.6.2 Show that the error (absolute error) in the Trapezium rule to compute
+ 2
+xdx
+is
+600 ≃0.0017.
+Example 2.6.1
+Evaluate
+ 4
+
+1 +
+1 + x2
+ 1
+dx by Simpson rule with n = 4.
+13.72624
+= 4.575412
+Example 2.6.2
+Use Trapezoidal rule and Simpson’s rule with 2 subintervals to estimate the
+following integral
+ 4
+x3 dx
+I = h
+≈2
+2 [f(0) + f(4) + 2 {f(2)}]
+≈2
+
+03 + 43 + 2
+
+23 
+≈80.0000
+2.) Simpson rule
+I = h
+≈2
+3 [f(0) + f(4) + 4 {f(2)}]
+≈2
+
+03 + 43 + 4
+
+23 
+≈64.0000
+3.) Analytical (Exact or Classical)
+ 4
+x3 dx = x4
+
+= 64.0000
+Page 43 of 196
+
+Example 2.6.3
+ 4
+x2 dx with n = 8 subintervals using
+I = h
+≈0.5
+2 [f(0) + f(4) + 2 {f(0.5) + f(1) + f(1.5) + f(2) + f(2.5) + f(3) + f(3.5)}]
+≈21.5000
+2.) Upper (right-end) Riemann sum
+
+0.52 + 12 + 1.52 + 22 + 2.52 + 32 + 3.52 + 42
+= 25.5000
+3.) Lower (left-end) Riemann sum
+
+02 + 0.52 + 12 + 1.52 + 22 + 2.52 + 32 + 3.52
+= 17.5000
+4.) Average of Riemann sum
+Sn + Sn
+= 25.5000 + 17.5000
+= 21.5000
+Same as Trapezoidal rule!!!
+5.) Mid-point Riemann sum
+
+0.252 + 0.752 + 1.252 + 1.752 + 2.252 + 2.752 + 3.252 + 3.752
+= 21.2500
+Same as Midpoint rule!!!
+6.) Analytical methods
+ 4
+x2 dx = x3
+
+= 64
+3 ≈21.3333
+Remark 2.6.1
+• The Trapezoid Rule is nothing more than the average of the left-hand and right-hand
+Riemann Sums. It provides a more accurate approximation of total change than either
+sum does alone.
+• Simpson’s Rule is a weighted average that results in an even more accurate approximation.
+• The Mid-point rule is the Riemann sums at mid points (Not the average of the two
+Riemann sums, that would be Trapezoidal)
+Example 2.6.4 Determine the smallest number of subintervals required to guarantee accuracy
+to within 0.002 in the approximation of
+ 1
+ex2dx using Trapezoidal rule.
+Using the Truncation error of Trapezoidal, (2.2) on page (p. 7). Since
+f(x) = ex2 ⇒f ′′(x) = 4x2ex2 + 2ex2 on [0, 1] ⇒M = 6e. Therefore,
+12n2
+= 6e(1 −0)
+12n2
+= 0.002 ⇒n = 36.86 = 37
+■
+Page 44 of 196
+
+Example 2.6.5 Given the tabulated function
+t
+−4
+−2
+W(t)
+−1
+ 4
+−2
+W(t)dt
+using the Trapezoidal rule with 3 subintervals.
+I = h
+≈2
+2 [W(−2) + W(4) + 2 {W(0) + W(2)}]
+≈2
+2 [4 + 2 + 2 {3 + (−1)}]
+≈10.0000
+Example 2.6.6
+Write down the correct formula to use Simpson’s rule and 4 subintervals for
+ 10
+I = h
+≈2
+3 [f(2) + f(10) + 2 {f(6)} + 4 {f(4) + f(8)}]
+Exercise 2.6.3
+Use the Riemann sum formula at mid point to compute the definite integral
+in Example 2.4.2 above. Compare both answers to the classical value of the definite integral.
+Example 2.6.7 Estimate
+ 1
+cos
+ x3 + x
+
+dx using five ordinates (four intervals). The interval
+width, h = 0.25 using
+I = 0.25
+[1.0000 −0.41615 + 2 {0.96493 + 0.81096 + 0.38843}] = 0.6141
+2.) Simpson’s method
+I = 0.25
+[1.0000 −0.41615 + 2 {0.81096} + 4 {0.96493 + 0.38843}] = 0.6349
+Example 2.6.8
+Apply the mid-point scheme to approximate
+ 1
+cos xdx using h = 0.25.
+ 1
+cos xdx = ∆x
+n
+X
+i=1
+f(mi)
+= (0.25) [f(0.125) + f(0.375) + f(0.625) + f(0.875)]
+= (0.25) [cos(0.125) + cos(0.375) + cos(0.625) + cos(0.875)]
+= (0.25) [0.992197667 + 0.930507621 + 0.810963119 + 0.640996858]
+= 0.8436663
+■
+Page 45 of 196
+
+Example 2.6.9 Given
+ 2
+dx
+x . How large should n be to guarantee that the Trapezoidal Rule
+approximation of the integral is accurate to within 0.0001?
+Since
+|ET| ≤2(2 −1)3
+12n2
+≤0.0001 = 10−4,
+then
+6n2 ≥104 ⇔n > 102
+√
+6 ≈40.8 ⇒n ≥41.
+Example 2.6.10
+Estimate the number of subintervals required to guarantee accuracy of the
+integral
+ 2
+xdx within 0.005 using the Trapezoidal rule approximation. n ≥
+r
+≈5.77 ≥6
+Exercise 2.6.4
+Determine the smallest value of n such that the Trapezoidal Rule approximation of the integral in Example 2.6.9, is accurate to within 0.000001?
+Example 2.6.11
+Determine the definite integral
+ 1
+(2 + x), with n = 4 using the
+x
+0.25
+0.5
+0.75
+(x + 2)
+2.25
+2.5
+2.75
+3.0
+A = h
+= h
+2 [f(0) + f(1) + 2 {f(0.25) + f(0.5) + f(0.75)}] + Etrunc
+≈1
+2(0.25) [2 + 3.0 + 2 {2.25 + 2.5 + 2.75}]
+= 2.5000
+2.) Simpson’s method
+x0
+x1
+x2
+x3
+x4
+x
+0.25
+0.5
+0.75
+(x + 2)
+2.25
+2.5
+2.75
+3.0
+ 1
+(x + 2) dx = h
+3 [f(x0) + f(xn) + 2 {f(x2) + f(x4) + . . . + f(x2n−2)} + 4 {f(x1) + f(x3) + . . . + f(x2
+= h
+3 [f(0) + f(1) + 2 {f(0.5)} + 4 {f(0.25) + f(0.75)}] + ET
+≈0.25
+[2 + 3 + 2 {2.5} + 4 {2.25 + 2.75}]
+≈2.5 ≈2.5000
+3.) Mid-point algorithm
+4.) Compare your results with the exact value of I. Which of the techniques is more superior?
+The analytical technique,
+I =
+ 1
+(x + 2) dx = x
+2 + 2x
+
+0 =
+1
+2 + 2
+
+−(0 + 0)
+
+= 2.5
+For this specific function, both numerical methods give a similar solution, both accurate
+Page 46 of 196

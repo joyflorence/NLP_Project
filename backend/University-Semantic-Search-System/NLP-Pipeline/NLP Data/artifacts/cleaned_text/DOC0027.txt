@@ -1,0 +1,1138 @@
+ASSESSING THE VIABILITY OF ALGAL BIODIESEL AS A SUPPLEMENT TO
+LIQUID FOSSIL FUELS
+
+MARVIN AHEEBWA ASHABA
+S21B32/107
+
+
+
+
+
+
+
+
+A FINAL YEAR RESEARCH AND DESIGN PROJECT REPORT SUBMITTED TO THE
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY, IN PARTIAL FULFILLMENT
+OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF BACHELOR OF
+SCIENCE IN CIVIL AND ENVIRONMENTAL ENGINEERING OF UGANDA CHRISTIAN
+UNIVERSITY
+April, 2025
+
+
+
+
+
+i
+
+ABSTRACT.
+Uganda faces energy security, open economies and environmental degradation due
+to heavy reliance on fossil fuels. This study investigates the viability of algal
+biodiesel as a supplement to liquid fossil fuels, leveraging Uganda's tropical climate.
+Three species of algae, namely Botryococcus braunii, Nannochloropsis sp., and
+Chlorella vulgaris, were evaluated under optimised conditions for species
+compatibility, lipid extraction yield, and biodiesel quality. Results indicated that
+Chlorella vulgaris is the most suitable species for decentralized systems, as it
+displayed the highest growth rate (13.4 cm biomass on Day 12) and a moderate lipid
+yield (20–30%). Diethyl ether-isopropanol achieved the highest yield at 83.1% but
+posed safety concerns, while hexane-isopropanol represented the best compromise
+between viability and effectiveness. The biodiesel characteristics partially met
+ASTM requirements; viscosity (2.82 mm2/s) and density (0.8335 g/cm3) were
+compliant, but cetane values of 5.2 required blending with petrodiesel (B20). Algal
+biodiesel is techno-feasible in Uganda, benefiting from low-cost open-pond systems,
+cooperative models at the community level, and the integration of wastewater
+treatment to address energy poverty, promote environmental sustainability, and
+support a circular economy concept.
+
+
+
+ii
+
+DECLARATION.
+I, Ashaba Marvin Aheebwa, hereby declare that this is my original work, is not
+plagiarised and has not been submitted to any other institution for any award.
+
+SIGNATURE .............................. DATE .......................................
+ASHABA MARVIN AHEEBWA
+
+
+
+iii
+
+APPROVAL.
+This is to certify that the research report entitled: “A RESEARCH PROJECT ON
+ASSESSING THE VIABILITY OF ALGAL BIODIESEL AS A SUPPLEMENT TO LIQUID FOSSIL
+FUELS”
+
+Submitted by:
+NAME: ASHABA MARVIN AHEEBWA.
+REGISTRATION NUMBER: S21B32/107.
+SIGNATURE: .......................................................................................
+
+Has been reviewed and approved as fulfilling the requirements for the research
+project.
+APPROVED BY:
+Mr. SOLOMON AZARIUS LUBAALE.
+SUPERVISOR.
+.................................................................
+Signature
+
+
+
+iv
+
+DEDICATION
+I would like to dedicate this dissertation to my parents, Mr. and Mrs. Mugisha Francis,
+in recognition of their unwavering support, guidance, and encouragement
+throughout the course of my academic journey. Their steadfast commitment to my
+education, coupled with their moral and emotional support, has been instrumental
+in the successful completion of this Bachelor’s degree.
+
+
+
+
+v
+
+ACKNOWLEDGEMENT.
+I wish to extend my heartfelt gratitude to my supervisor, Mr. Solomon Azarius, for
+their guidance, constructive critiques, and encouragement throughout this research.
+Their extensive experience in engineering and renewable energy systems had a
+significant impact on the direction and completion of this research.
+My technical consultants and colleagues at Uganda Christian University are greatly
+appreciated for the provision of experimental equipment assistance and data
+interpretation.
+I send my thanks to my family for the finances and support which enabled me to
+endure hardships and complete this study.
+
+
+vi
+
+TABLE OF CONTENTS.
+TABLE OF CONTENTS
+ABSTRACT. ...................................................................................... i
+DECLARATION. .................................................................................. ii
+APPROVAL. ..................................................................................... iii
+DEDICATION .................................................................................... iv
+ACKNOWLEDGEMENT. ......................................................................... v
+LIST OF TABLES. ............................................................................... ix
+LIST OF FIGURES. .............................................................................. x
+CHAPTER ONE: INTRODUCTION .............................................................. 1
+1.1
+Background and Introduction....................................................... 1
+1.2
+Problem statement. ................................................................. 3
+1.3
+Objectives of study. ................................................................. 4
+1.3.1
+Main objective. ................................................................ 4
+1.3.2
+Specific objectives. ........................................................... 4
+1.4
+Research questions. ................................................................. 4
+1.5
+Scope of study ........................................................................ 5
+1.6
+Justification. ......................................................................... 5
+1.7
+Significance of the study ........................................................... 6
+CHAPTER TWO: LITERATURE REVIEW. ...................................................... 7
+2.1
+Strain selection: ...................................................................... 7
+
+vii
+
+2.1.1
+Botryococcus braunii. ......................................................... 7
+2.1.2
+Nannochloropsis sp. ........................................................... 8
+2.1.3
+Chlorella vulgaris. ............................................................. 9
+2.2
+Lipid Yields: ........................................................................ 11
+2.3
+Critical Review. .................................................................... 12
+2.3.1
+International context ....................................................... 12
+2.3.2
+Local Context. ............................................................... 22
+2.3.3
+Thematic Analysis. .......................................................... 26
+2.3.4
+Critical challenges in sustainable algae-based biofuel development:
+Critiques Synthesis. ..................................................................... 30
+CHAPTER THREE: METHODOLOGY. ........................................................ 34
+3.1
+Ascertaining the effect of extraction temperatures and different solventbased extractions on lipid yield and quality. ......................................... 34
+3.2
+Comparing the effectiveness of different catalysts. ......................... 34
+3.3
+Determining the physicochemical properties of the obtained algal biodiesel.
+
+CHAPTER 4. RESULTS AND DISCUSSION. .................................................. 36
+4.1
+Objective 1: Identification of species of algae most suitable for lipid
+extraction for biodiesel production. ................................................... 36
+4.2
+Objective 2: Optimization of the cultivation conditions for the identified
+algal species for Lipid Extraction. ...................................................... 42
+
+viii
+
+4.3
+Objective 3: Analysis of Physicochemical Characterization of Algal Biodiesel.
+(Figure 5) ................................................................................... 46
+4.4
+Objective 4: Process design for the production of algal biodiesel. ........ 49
+4.4.1
+Species Selection and Cultivation. ........................................ 49
+4.4.2
+Harvesting & Dewatering. .................................................. 50
+4.4.3
+Lipid Extraction. ............................................................. 50
+4.4.4
+Transesterification. ......................................................... 51
+4.4.5
+Purification and Testing of Biodiesel. .................................... 52
+4.4.6
+By-product Utilization. ..................................................... 52
+CHAPTER FIVE: CONCLUSION AND RECOMMENDATION. ................................. 54
+5.1
+Conclusions. ........................................................................ 54
+5.1.1
+Species Suitability: .......................................................... 54
+5.1.2
+Solvent Efficiency. .......................................................... 54
+5.1.3
+Quality of Biodiesel. ........................................................ 54
+5.2
+Recommendations. ................................................................ 55
+REFERENCES AND APPENDICES ............................................................. 56
+6.1
+REFERENCES ........................................................................ 56
+6.2
+APPENDICES ......................................................................... 59
+APPENDIX A. ................................................................................ 59
+APPENDIX B: ................................................................................ 61
+
+
+ix
+
+LIST OF TABLES.
+Table 1: Multicriteria decision analysis values. ......................................... 37
+
+
+
+
+x
+
+LIST OF FIGURES.
+Figure 1: Extraction values for batch 1. .................................................. 43
+Figure 2: Extraction values for batch 2. .................................................. 44
+Figure 3: Extraction values for batch 3. .................................................. 45
+Figure 4: Extraction values of all the strains. ........................................... 46
+Figure 5 : physicochemical characteristic test values .................................. 47
+Figure 6: algal biodiesel test values. ..................................................... 49
+Figure 7: Oven dried algae ................................................................. 59
+Figure 8: Crushed algae ..................................................................... 60
+Figure 9: Algal biodiesel. ................................................................... 60
+Figure 10: Growth trend. ................................................................... 61
+Figure 11: Project design. .................................................................. 62
+
+
+
+
+
+CHAPTER ONE: INTRODUCTION
+1.1
+Background and Introduction.
+The global energy map is also experiencing a sea change with nations vying to
+address the twin challenge of energy security and climate change. The fossil fuels
+responsible for over 80% of the world's energy use face intense pressure for their
+environment-negating effects of greenhouse gas emissions, air pollution, and
+ecological devastation. Poor developing countries like Uganda are even worse off
+since they use fossil fuels, which use up foreign reserves and expose economies to
+the vagaries of international markets. Uganda alone, for instance, uses over $6
+million per day in petroleum imports, yet nearly 76% of its rural population lacks
+access to electricity and turns to firewood and charcoal as substitutes.
+(Development, 2023). This dependency fuels deforestation (2.6% annually) and
+additional health crises since indoor air pollution produces 13,000 preventable
+deaths annually. Such renewable energy options as algal biodiesel then turn out to
+be essential interventions in such a situation, leading the way to energy
+independence, Eco compatibility, and green economic growth. Algal biodiesel—a
+biofuel composed of renewable energy obtained from oil algae microorganisms—
+proves particularly promising to tropical nations such as Uganda.
+Compared to other biofuel crops such as maize or soybean, algae will not experience
+competition with food crop production on non-potable land, seawater, or sewage
+wastewater. Uganda's sunny tropical climate, 20–30°C temperatures, and rainy
+seasons that follow are a perfect condition for algae to grow all year round. Locally
+sourced algae Botryococcus braunii and Chlorella vulgaris have been reported to be
+
+
+highly productive in lipids under local conditions, and cost-effective open pond
+technology also possesses the same extent of infra-availability in Uganda.
+Additionally, algae's CO2 fixation and growth potential on wastewater also possess
+the same circular economy principle where wastes from farms and municipalities
+are employed to produce worthwhile energy resources. As an example, Kampala's
+120,000 m3/day of wastewater may simultaneously abate pollution and energy
+poverty to produce algae for biodiesel. Algal biodiesel is however as yet an uncapped
+potentiality in Uganda. Present research focuses on industrial-level, high-tech
+systems that do not apply in decentralised, resource-poor environments. This
+project bridges that gap by constructing localised, community-level systems that
+take advantage of Uganda's natural strengths. (Branco-Vieira, 2020)
+(Milledge, 2014) Through local algal strain optimization and integration of indigenous
+knowledge into existing biotechnological pipelines, the project will put in place a
+mass-scale plan for biodiesel production. The project will ensure policy support,
+enable Uganda to comply with the Paris Agreement, and attain SDGs 7 (Affordable
+Energy) and 13 (Climate Action). The research resolves the question of the feasibility
+of algal biodiesel through species screening, culture optimization, and fuel property
+determination, laying a roadmap towards renewable energy for tropical economies.
+
+
+
+
+1.2
+Problem statement.
+Uganda is facing a grim energy crisis brought about by an increased dependence on
+external liquid fossil fuel imports as petroleum, for which it spends 90% of its fuel.
+The country, up to 2023, has estimated that it utilizes 6.5 million litres of petroleum
+each day, spurred by industrialization, transport, and population increments. The
+use accelerates environmental degradation, e.g., greenhouse gases from combustion
+leading to respiratory illnesses, ozone layer depletion, and climatic change.
+Transportation and extraction of fossil fuels also pose threats of oil spillage and loss
+of biodiversity. The non-renewable nature of the resources also makes the Ugandan
+economy vulnerable to price volatility, mismatch of demand and supply, and longterm energy insecurity. While the rest of the world is working to transition to
+alternative energy sources, Uganda does not produce a single unit of alternative
+energy locally, making it vulnerable to world market tendencies and unsustainable
+environmental
+degradation.
+Potentially
+rewarding
+directions
+toward
+the
+achievement of the reduction of fossil fuel use include algal biodiesel research, as
+in the world's efforts by AlgaePARC, Algenol, and Sapphire Energy in the quest for
+species
+optimization,
+genetic
+manipulation,
+and
+mass
+culture
+systems.
+
+Although such ventures show the potential of algal biofuels to reduce emissions by
+50-90% depending on fossil fuel, they too have strong challenges. Their high cost of
+production, technical complexity of lipid extraction and risk of contamination
+restrict their suitability in constrained-resource situations such as is the case in
+Uganda. In addition, existing models prioritize industrial-scale systems that may not
+be suitably designed for the Ugandan environment and infrastructure, and open pond
+
+
+farming and low-technology systems may be more suitable. The project promotes a
+local, sustainable solution through the optimization of local algal species under
+Ugandan tropical conditions. As the primary reason for using low-cost cultivation
+systems, the research attempts to avoid scalability and regulatory issues with hightech systems. The model, if proven to succeed, would not only reduce Uganda's fossil
+fuel importation but also serve as a reproducible model for other tropical nations,
+connecting economic profitability with ecological protection.
+1.3
+Objectives of study.
+1.3.1 Main objective.
+To ascertain the production of algal biodiesel as a supplement to fossil fuels.
+1.3.2 Specific objectives.
+i. To identify species of algae most suitable for lipid extraction for biodiesel
+production.
+ii. To optimise the cultivation conditions for the identified algal species.
+iii. To analyse the physicochemical properties of the obtained algal biodiesel.
+iv. To develop a process design for the production of algal biodiesel.
+1.4
+Research questions.
+1. What are the most suitable species of algae for lipid extraction for the production
+of biodiesel?
+2. What are the optimal conditions for the cultivation of the selected algal species
+that would give maximum lipid productivity?
+
+
+3. What are the physicochemical properties of the algal biodiesel produced?
+1.5
+Scope of study
+The study was carried out in Uganda, a developing country in Africa facing a grim
+energy crisis brought about by an increased dependence on external liquid fossil
+fuel. A period of approximately four months was used to conduct the study in the
+form of research on work by different scholars, along with data collection and
+interpretation. This time frame was fairly adequate for data collection.
+1.6
+Justification.
+Algal biodiesel can be an available, sustainable alternative using locally dominant
+algae, in preventing dependence on volatile world oil prices. Uganda's
+overdependence on imported fossil fuel for more than $6 million per day is a source
+of economic vulnerability and environmental degradation.
+The biodiesel of algae is embraced by the Renewable Energy Policy of Uganda as
+well as by international pledges such as Sustainable Development Goals (SDGs) and
+Paris Agreement. Algal biodiesel promotes the accessibility of clean energy (SDG 7),
+climate action (SDG 13), and clean water (SDG 6) from the treatment of wastewater.
+The conversion of biodiesel eliminates indoor air pollution from charcoal with an
+impact of 13,000 premature deaths a year and the public's health improves. Through
+the creation of local research partnerships and promotion of Uganda as a global
+leader in sustainable biofuels, the project builds national innovation capacities and
+offers solutions to pressing socio-environmental challenges.
+
+
+
+1.7
+Significance of the study
+Production of biofuels by algal culture offers economic stability through rural job
+creation, since open pond cultivation and low-tech harvesting are particularly viable
+in the infrastructure and environmental conditions of Uganda. Algae remove CO2
+during growth and lower greenhouse gas emissions by 60–90% over fossil fuels, with
+their capacity for growth on wastewater or brackish water rendering pollution and
+decreasing biomass energy demand-led deforestation unnecessary. (Brenna, 2010)
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW.
+2 Introduction
+A lot of literature has been written about the subject of algal biodiesel production.
+This section reviews this literature and its scope is confined to algal biodiesel
+production. The review is presented in such a way that highlights research gaps,
+which further justifies the present study.
+2.1
+Strain selection:
+Three strains were selected and these are Botryococcus braunii, Nannochloropsis sp,
+and Chlorella vulgaris. (Nwokoagbara, 2015)
+2.1.1 Botryococcus braunii.
+Botryococcus braunii is a colonial green microalga of high hydrocarbon production
+potential, namely in the form of botryococcenes. It exists as pyramid colonies in a
+sophisticated extracellular matrix (ECM) involved in buoyancy and protection.
+(Demura, 2014)
+Culture Preparation:
+● Isolation: The cultures may be isolated from fresh water habitats of Uganda
+where B. braunii occurs naturally. Isolation is initially accomplished by using
+selective media that enhance its growth.
+● Nutrient Medium: Modified Chu 13 medium is generally used, providing simple
+nutrients like nitrogen and phosphorus to provide for growth.
+
+
+Culture Environment:
+● Light and Temperature: Maximum growth is with high light intensity (2000-
+5000 lux) and temperatures ranging between 20-30°C, which is favourable for
+Uganda's tropical environment.
+● Aeration: There should be constant aeration to keep the cells suspended and
+allow nutrient uptake.
+Monitoring and Harvesting:
+● Growth Monitoring: Optical density can be monitored using measurements.
+Chemical analysis can be employed to quantify hydrocarbon content.
+● Harvesting Techniques: Flocculation or centrifugation methods are commonly
+employed for harvesting due to the thick cell walls that inhibit extraction.
+2.1.2 Nannochloropsis sp.
+Nannochloropsis are lipid-rich and hence best suited for use in biodiesel. They are
+unicellular, small but aquatic in habitats and cultivated aseptically on freshwater.
+(C. Sanjurjo, 2024)
+Preparation of culture:
+● Isolation: As in the case of B. braunii, Nannochloropsis can be isolated from
+nature, i.e., natural water sources. Locally environment conditions-tolerant
+strains should be utilized.
+● Medium Composition: The medium must contain sufficient nitrogen,
+
+
+phosphorus, and trace elements with f/2 or Walne modified media as a
+control.
+Culture Environment:
+● Light Requirements: Moderate intensity of light of approximately 2000 lux and
+16 hours light and 8 hours dark photoperiod is desirable.
+● Temperature Control: 20-25°C temperatures are desirable, which is desirable
+for Uganda's climatic conditions.
+Monitoring and Harvesting.
+● Biomass
+Growth
+Monitoring:
+There
+should
+be
+spectrophotometric
+determination of biomass concentration and chlorophyll content ongoing
+monitoring.
+● Harvesting Methods: Separation of biomass can be effectively done with the
+assistance of centrifugation or membrane filtration methods based on their
+size.
+2.1.3 Chlorella vulgaris.
+Chlorella vulgaris is a well-studied green microalga of high nutritional and protein
+content. It is utilized as nutritional supplements and biofuel feedstock. (Pantea
+Moradi, 2022)
+Culture Preparation:
+● Isolation and Maintenance: Isolation of culture can be achieved by using
+
+
+freshwater ecosystems of Uganda. Cultures require a medium of high
+nutritional quality such as BG11 or Chlorella medium.
+● Supply of Nutrients: Adequate nitrogen and phosphorus must be supplied for
+healthy growth.
+Culture Conditions:
+● Lighting Conditions: Chlorella vulgaris grows best in high light conditions
+(around 3000 lux) with 12 hours light/12 hours dark being the ideal
+photoperiod.
+● Temperature Gradient: It could be cultivated best in the temperature range
+20-30°C, which suits the ambient temperatures of Uganda well.
+Monitoring and Harvesting:
+● Growth Monitoring Methods: Optical density may be checked periodically to
+ascertain growth rates. Nutrient levels must also be checked to prevent
+deficiencies.
+● Centrifugation and flocculation are routine procedures due to the fact that
+the relatively thin cell walls of Chlorella make it easier to extract than B.
+braunii.
+Growth Medium:
+A modified F/2 medium slightly is used for the three organisms supplemented with
+extra nutrients if necessary.
+
+
+Growing Conditions:
+● Photobioreactors: Well-controlled light intensity, temperature, pH, and
+dissolved oxygen.
+● Outdoor Ponds: Open ponds are utilized in mass cultures under environmental
+conditions strict control.
+2.2
+Lipid Yields:
+Initial findings indicate that Botryococcus braunii contains the maximum lipid
+content, followed by Nannochloropsis sp. and Chlorella vulgaris.
+Challenges and Risks.
+● Variability of the species: Variability of the species under the species can
+result in various growth and lipid yields.
+● Contamination: Contaminant microorganisms for contamination may impart
+adverse effects to algal growth and lipid production.
+● Scale-up issues: Scale-up to industrial level may be encountered with both
+technical and economical issues.
+Plans.
+● Conduct more experiments to optimize growth conditions to each of the
+selected species.
+● Lipid analysis: Examine the lipid composition of all species to determine if it
+can be used to produce biofuels.
+
+
+2.3
+Critical Review.
+2.3.1 International context
+Algenol, USA.
+Algenol, a United States-based entity, pursued an alternative approach centred on
+the direct conversion of carbon dioxide from industrial sources into ethanol, utilising
+genetically modified algae, algae whose genetic material has been altered to
+enhance specific traits. Their objective was to develop a process that not only
+yielded fuel but also facilitated the capture of greenhouse gases, thereby addressing
+two significant challenges. (Ziolkowska, 2014)
+Algenol's primary technology involved specialized photobioreactors, within which
+these modified algae were employed. A pivotal aspect of this process was direct
+ethanol production (DEP), wherein the algae were engineered to secrete ethanol
+directly into the growth medium, simplifying the extraction process. (Ziolkowska,
+2014)
+● Algenol reported elevated productivities, with pilot plants achieving
+substantially higher yields of ethanol per acre in comparison to traditional
+ethanol production from corn.
+● The company also emphasized the potential for carbon capture, suggesting the
+
+
+process could mitigate greenhouse gas emissions.
+Despite the initial promise, Algenol encountered difficulties in scaling up its
+technology to commercial levels. The genetic modification of algae engendered
+some public apprehension, and the actual yields attained in larger-scale operations
+did not consistently align with initial projections. Ultimately, the company
+reoriented its strategic focus.
+While the direct ethanol production method may present complexities for immediate
+adoption in Uganda, the fundamental concept of employing algae for carbon capture
+and its subsequent conversion into a usable fuel source holds relevance. Uganda
+could investigate simpler methodologies for carbon dioxide utilization from
+agricultural waste to foster algal growth, in conjunction with less intricate biofuel
+production pathways.
+Sapphire Energy, USA.
+Sapphire Energy, another United States-based company, sought to produce "green
+crude"—a renewable oil analogous to petroleum—directly from algae. The company
+garnered considerable attention and investment with the prospect of providing a
+drop-in replacement for fossil fuels. (Perona, 2017)
+
+
+Sapphire Energy employed expansive open ponds to cultivate algae at a commercial
+scale in the desert regions of the south-western United States. The company
+concentrated on optimizing algal strains for elevated lipid production and
+developing efficient harvesting and extraction methodologies. (Perona, 2017)
+● Sapphire Energy demonstrated the capacity to cultivate algae on a substantial
+scale in open pond systems.
+● The company produced notable quantities of algal oil, which was successfully
+refined into various fuels, including gasoline, diesel, and jet fuel.
+Notwithstanding the technical achievements, Sapphire Energy confronted
+substantial economic challenges. The cost of producing algal oil at a competitive
+price with petroleum proved to be a major obstruction. Consequently, the company
+scaled down its operations. Open pond systems, while less capital-intensive, are
+susceptible to environmental variables and contamination.
+Given its abundant sunlight, Uganda could potentially utilize open pond systems for
+algae cultivation, similar to Sapphire Energy. However, it is imperative to assimilate
+the lessons from Sapphire Energy's experience and prioritize cost-effective
+methodologies, robust strain selection, and strategies to curtail water loss and
+contamination. The production of a "green crude" could represent a long-term
+
+
+objective, with an initial focus on simpler biodiesel production. Uganda must
+therefore carefully evaluate the economic viability of large-scale open pond systems
+and implement strategies to mitigate the risks of contamination and water loss.
+Synthetic Genomics, USA.
+Synthetic Genomics, under the leadership of Dr. Craig Venter, directed its efforts
+toward employing synthetic biology to engineer algae for enhanced biofuel
+production. Their approach involved modifying the genetic composition of algae to
+augment lipid yields and improve growth characteristics. (Rock, 2021)
+This company used advanced genetic engineering techniques to create algal strains
+with specific traits, such as increased oil content and faster growth rates. They
+aimed to create "super-algae" that could produce biofuels more efficiently. (Rock,
+2021)
+● Synthetic Genomics successfully engineered algal strains with significantly
+higher lipid content compared to wild-type strains.
+● They demonstrated the potential of synthetic biology to optimize algae for
+biofuel production.
+
+
+While the potential of synthetic biology is immense, the development and
+deployment of genetically modified organisms (GMOs) raise environmental and
+regulatory concerns. The long-term ecological impacts of releasing engineered algae
+into the environment warrant careful consideration. The elevated water usage
+reported for certain strains also presents a challenge.
+Uganda could derive benefit from advances in algal strain improvement. However,
+a cautious approach to genetic engineering is essential. A more prudent strategy
+might involve concentrating on the selection and optimization of naturally occurring,
+high-yielding algal strains that are well-suited to the local environment.
+ENN Group, China.
+ENN Group, a prominent Chinese energy company, has invested in algae-based
+biofuel production, with a focus on its integration into its broader energy portfolio.
+The company has explored various facets of the value chain, encompassing
+cultivation, extraction, and refining. (Sun, 2019)
+ENN Group has experimented with diverse cultivation systems, including
+photobioreactors and open ponds, to ascertain the most suitable approach for their
+requirements. They have also conducted research into efficient lipid extraction
+methods, including solvent-based extraction. (Sun, 2019)
+
+
+● ENN Group has demonstrated a commitment to large-scale algal biofuel
+production.
+● They have explored the integration of algal biofuels with existing fossil fuel
+infrastructure.
+Large-scale projects such as those undertaken by ENN Group necessitate substantial
+capital investment and may not be directly replicable in resource-constrained
+settings. The reliance on solvent-based extraction methods raises concerns about
+environmental impact and safety.
+Uganda can draw lessons from ENN Group's approach to integrating algal biofuel
+production into the broader energy strategy. However, it is crucial to adapt the
+technology to the local context, prioritizing lower-cost cultivation methods and
+safer extraction techniques.
+AquaFUELs, Australia.
+AquaFUEls, an Australia-based entity, focused on developing integrated systems for
+algae cultivation and wastewater treatment. Their approach sought to address both
+energy production and environmental remediation concurrently. (Slade, 2013)
+
+
+AquaFUEls utilized large-scale open pond systems to cultivate algae while
+simultaneously treating wastewater. The algae consumed nutrients from the
+wastewater, effectively purifying it while generating biomass for biofuel production.
+(Slade, 2013)
+● AquaFUEls demonstrated the effectiveness of employing algae for wastewater
+treatment.
+● They produced significant quantities of biomass that could be utilized for
+biofuel production.
+Open pond systems, while cost-effective, necessitate extensive land areas and are
+susceptible to environmental factors. The efficiency of wastewater treatment can
+vary depending on the algal species and the composition of the wastewater.
+Uganda stands to gain considerably from the integrated approach adopted by
+AquaFUEls. The utilization of algae for the treatment of wastewater from urban
+centres such as Kampala, in conjunction with the production of biomass for energy,
+is highly relevant. This approach holds the potential to address both sanitation
+challenges and energy needs.
+National Renewable Energy Laboratory (NREL), USA.
+
+
+The National Renewable Energy Laboratory (NREL) in the United States has
+conducted extensive research on algae biofuels, encompassing various aspects such
+as strain selection, cultivation optimization, and biofuel conversion technologies.
+(Karim, 2022)
+NREL's research encompasses a wide range of approaches, from fundamental
+laboratory studies to pilot-scale demonstrations. They have investigated diverse
+algal species, cultivation systems, and extraction methods. (Karim, 2022)
+● NREL has made significant contributions to the understanding of algae biology
+and biofuel production.
+● They have developed and evaluated various technologies for algae cultivation
+and biofuel conversion.
+NREL's research is primarily oriented toward the United States context, and certain
+technologies developed may not be directly applicable to resource-constrained
+settings. Nevertheless, their fundamental research offers valuable insights that can
+inform algae biofuel development in Uganda.
+Uganda can leverage NREL's extensive research findings to guide its own algae
+
+
+biofuel development endeavours. The knowledge acquired from NREL's studies on
+strain selection, cultivation optimization, and biofuel conversion can assist Uganda
+in making informed decisions and mitigating potential setbacks.
+Symbiotic, Israel.
+Symbiotic, an Israel-based company, specializes in cultivating algae in seawater,
+employing a unique photobioreactor technology. Their approach emphasizes the
+utilization of non-arable land and saline water resources for sustainable biofuel
+production. (Baggesen, 2014)
+Symbiotic has developed a proprietary photobioreactor system adaptable for
+deployment in coastal regions or inland areas using saline groundwater. They
+cultivate specific algal strains that exhibit a capacity to thrive in high-salinity
+conditions. (Baggesen, 2014)
+● Symbiotic has demonstrated the feasibility of cultivating algae in seawater.
+● They have developed a photobioreactor technology that can be utilized in nonarable land areas.
+Photobioreactor systems, while affording high productivity and control, can be
+expensive to construct and operate. The utilization of seawater may also present
+
+
+challenges related to corrosion and biofouling.
+While Uganda lacks a coastline, it does possess inland saline lakes. The symbiotic
+technology could potentially be adapted for utilization in these areas, although a
+careful evaluation of cost-effectiveness would be necessary. The emphasis on
+utilizing non-arable land is pertinent to Uganda, where arable land constitutes a
+valuable resource. However, the high cost of photobioreactors may be a limiting
+factor for Uganda, necessitating exploration of more affordable alternatives for
+saline water algae cultivation.
+Muradel, Australia.
+Muradel, an Australian company, developed a process designated as HTL
+(Hydrothermal Liquefaction) to convert whole algal biomass into biocrude oil. Their
+approach sought to simplify the conversion process and enhance energy efficiency.
+(Rao, 2021)
+Muradel's HTL process involves subjecting wet algal biomass to high temperature and
+pressure, directly converting it into a liquid biocrude oil. This process obviates the
+necessity for drying the algae, which represents an energy-intensive step in
+numerous other biofuel production pathways. (Rao, 2021)
+
+
+● Muradel demonstrated the feasibility of employing HTL to convert whole algal
+biomass into biocrude oil.
+● Their process presents the potential for enhanced energy efficiency in
+comparison to traditional biofuel production methodologies.
+HTL represents a promising technology; however, it necessitates high temperatures
+and pressures, which can be energy-intensive. The long-term stability and quality of
+the biocrude oil produced via HTL also require further investigation.
+HTL technology could hold long-term relevance for Uganda, as it offers the potential
+for efficient conversion of algal biomass into biocrude oil. Nevertheless, additional
+research and development are needed to optimize the process for local conditions
+and ascertain its economic viability.
+2.3.2 Local Context.
+Uganda's Energy Landscape.
+The energy crisis in Uganda is certainly a pressing issue for the millions of Ugandans
+who, especially if they are based in the rural areas, are grappling with a daily
+challenge. That Uganda is rich in culture and stunning topography is not ultimately
+the energy crisis. It is estimated that 90% of the energy consumed in Uganda comes
+from imported fossil fuels. An average of over $6million dollars in daily costs is a
+significant financial burden. Just think about what that money could do to tackle
+
+
+the most important issues, including, education, health, and local entrepreneurs.
+The fact that 76% of the population as residing in rural areas are without a
+connection to the national electricity grid means that the vast majority of Ugandans
+must rely on traditional energy sources like charcoal and firewood to cook and keep
+warm. The over-reliance on wood fuel is having a devastating effect on Uganda's
+forests, with about 2.6% of Uganda's forest disappearing annually. In addition to this
+cycle of erasing forests, is the discouragement that comes with being poor and
+unable to access any alternatives for energy, and also the ever-present cycle of
+incorporating energy sources, becomes a contributor to degradation, affecting
+people's livelihoods.
+However, even amidst these challenges, there exist narratives of resilience and
+innovation.
+Existing Local Research:
+● Makerere University: Researchers at Makerere University in Kampala are
+investigating the value of Botryococcus braunii, an algal species with high oil
+content. They grew B. braunii in open pond systems with some success, seeing
+lipid yields of 0.8 grams per liter. However, a common limitation to breeding
+B. braunii is the introduction of unwanted algal competitors, like Microcytic.
+This example indicates the important ecological balancing act in these systems
+that highlights complex management considerations. It is admirable that the
+scientists are dedicated to showing that there is potential in these tiny
+organisms, and identifying sustainable options for their communities.
+
+
+● Mbarara University of Science and Technology (MUST): Mbarara University of
+Science and Technology, in collaboration with the National Agricultural
+Research Organisation (NARO), appears to be having some success in western
+Uganda. They are reducing nutrient pollution, up to 60%, while producing
+valuable biomass by cultivating chlorella vulgaris in municipal wastewater.
+This is a win-win situation, with parallel activities focused on environmental
+sustainability and energy production. It is notable that the researchers have
+involved communities in their work, demonstrating that algae can transform a
+problematic waste stream into a high value resource.
+Uganda's Climate Benefits.
+Uganda’s position on the globe means it receives a lot of sunshine during the year,
+which is one vital commodity for algae growth. Photochemistry is the process that
+algae use to convert sunlight into energy, which makes Uganda a potentially
+desirable location for setting up an algae-biofuel industry. The prevalent warmth
+also equates to faster growing rates of algae and this could mean increased biomass.
+Cultural Limitations.
+The acceptance of new technologies, such as algae biofuel production, can present
+challenges. In some rural communities, land ownership arrangements that include
+communal ownership and undefined boundaries may hinder large-scale algae farms.
+These potential challenges could lead to land disputes and social conflict. Thus, it
+is critical to engage local communities during the planning and implementation stage
+of any new development, respect their traditions, and provide equitable access to
+any benefits that stem from it.
+
+
+Policy Barriers.
+The current policy landscape in Uganda, for example, the 2007 Renewable Energy
+Policy, is biased towards the development of large-scale solar and hydropower
+projects. While these energy sources are key drivers of clean energy projects, they
+demand a much higher capital investment and from an environmental and social
+standpoint, they typically have negative effects. Biofuels, including algae, have
+been overlooked in all such policies instead existing policy regimes generate a lack
+of research and development investment and lack of incentives for private
+investment. Additionally, companies may avoid investing in algae biofuel
+technologies due to poor intellectual property rights and risk of grating access to
+their innovation.
+Success Stories:
+Community Biodiesel Co-ops. In spite of the lack of policy support, there are also
+heart-warming stories of citizens generating their own sustainable energy options.
+In some parts of Uganda, citizens are developing community-owned biodiesel
+cooperatives in which members are taught how to grow algae, harvest oil and make
+biodiesel for the community. The small-scale setups benefit the community in the
+aspects of clean energy, job creation and community empowerment. The results
+find villagers uniting in cooperatives turning village ponds into sources of fuel and
+income, while freeing themselves from expensive and polluting fossils.
+Case Study: Lake Victoria Initiative.
+A pilot scheme in Jinja, on Lake Victoria, demonstrated that sewage could be
+
+
+treated by using algae with the generation of biodiesel. The pilot, initiated in 2021,
+utilized algae to purify wastewater by removing impurities and generated some 150
+kilograms of biodiesel monthly. Uncertainty in harvesting the algae was
+inconvenient, and losses amounted to as much as 30% of the valuable biomass. This
+highlights the requirement for additional training and use of more efficient
+harvesting technology, even if there is some automation involved. It also highlights
+the requirement for maintenance and system management in a way that will enable
+one to maintain it in the end.
+A pilot project in Jinja, situated on the shores of Lake Victoria, demonstrated the
+potential for utilizing algae in the treatment of sewage and the simultaneous
+production of biodiesel. The project, initiated in 2021, harnessed algae to remove
+pollutants from wastewater, yielding approximately 150 kilograms of biodiesel per
+month. However, inconsistencies in algae harvesting presented challenges, resulting
+in a 30% loss of valuable biomass. This highlights the imperative for enhanced
+training and the adoption of more efficient harvesting technologies, potentially
+incorporating automation. It also underscores the significance of proper system
+management and maintenance to ensure long-term sustainability.
+2.3.3 Thematic Analysis.
+An in-depth examination of the main themes that emerge from these diverse
+projects, with consideration for the human element and the context of resourcelimited settings such as Uganda, is justified.
+Theme: Low-Tech Solutions for the Tropics.
+
+
+The feasibility of low cost, low technology solutions is brought out by efforts such
+as the open pond system used by Mbarara University and similar ones aimed at
+Scenedesmus in other regions of the tropics. Open pond systems provide huge cost
+advantage in the capital expenses, reducing capital costs by a major factor of
+approximately 80% compared to high-cost photobioreactors. With this enhanced
+affordability, they become within the reach of financially disadvantaged
+communities.
+Open pond systems, though, have certain inherent limitations as well. Their
+susceptibility to contamination by external microorganisms, which was confirmed by
+the Ugandan trial 25% yield loss through invasive organisms, requires prudence. The
+systems also require huge tracts of land, which may prove to be a limitation in
+populous regions.
+However, it should be possible to combine the simplicity of open pond systems with
+the additional control offered by more advanced systems. Open ponds covered with
+inexpensive, UV-resistant plastic sheets could be a hybrid solution that is a filter
+against contaminants but not invasive species and reduces yield variation. This kind
+of strategy can also be used in order to reduce water loss caused by evaporation, a
+primary concern in arid and semi-arid areas. This people-oriented design is focused
+on being affordable and flexible as well as on solving the specific problems that are
+prevalent in the local area.
+Theme: Waste Integration.
+A few such projects are NASA's OMEGA and Symbiotic, demonstrating the potential
+of algae not only to play a role in energy generation but also to address imminent
+
+
+environmental issues through vaporization of waste streams. This is in the
+framework of the circular economy, wherein waste there is value, not waste to be
+discarded.
+In Uganda, for example, the sugarcane industry produces enormous amounts of
+bagasse whose estimation is 4 million tons per year.
+The bagasse can be utilized to generate carbon dioxide, a nutrient for algae
+production. The payoff could be huge: rather than burning this waste product,
+thereby releasing greenhouse gases into the air, one might utilize it to create algae,
+thereby enabling the creation of biofuel and in the process lowering carbon
+emissions.
+Similarly, Kampala, Uganda's capital, produces a substantial amount of wastewater
+at around 120,000 cubic meters a day. The wastewater contains nutrients such as
+phosphorus and nitrogen that also happen to be some of the elements that nurture
+algae growth. All the wastewater actually ends up flowing into Lake Victoria, where
+it kills and contaminates water creatures.
+However, utilization of this wastewater for algae cultivation will yield a twin
+benefit: water gets purified, thereby conserving this valuable resource, and also a
+renewable resource for biofuel is made available. Such an idea of dual environmental
+conservation and development economics is one that can form a significant part of
+the development of the living standard of the people.
+Theme: Genetic Engineering vs. Natural Strain Optimization.
+One of the critical questions for research in algae biofuels is how to adapt algae
+
+
+strains for high levels of biofuels. Whether to use advanced genetic engineering
+techniques to produce "super-algae" or whether to focus on selection and
+optimization of existing strains is not addressed. Corporations like Synthetic
+Genomics have invested in genetic engineering, genetically altering algae strains to
+enhance lipid production and growth characteristics. Although there is much
+potential for radical improvements in the performance and growth of algae
+producing biofuels, this raises important ethical issues about introducing GMOs into
+the environment as well as social issues around the impact of GMOs. There are also
+considerable regulatory and societal acceptance hurdles.
+On the other hand, academic scientists at institutions such as NREL have focused on
+identifying and optimizing rapid adaptation of existing native algal strains to specific
+environmental conditions. This includes selection of strains with growth
+characteristic and therefore favourable characteristics (more lipids at high levels
+and higher growth rates) and optimizing their growth conditions to achieve optimal
+productivity. This procedure is more environmentally beneficial and will face less
+opposition from the public institutions, like NREL will have procedures for the
+genetic manipulation of algae for biofuels development, which be more in line with
+the principles of sustainable development with a focus on environmental
+sustainability.
+These criteria and preliminary research on what we currently know well regarding
+algal growth and biofuels, we can be strategic in our experimentation in the lab (for
+example selecting strains by cultivation from algal growth and selection from, algae
+that grow under particularly favourable conditions relating algae biofuel growth to
+
+
+intact ecosystem at a landscape scale).
+2.3.4 Critical challenges in sustainable algae-based biofuel development:
+Critiques Synthesis.
+Development of algae-based biofuel as a substitute energy source is beset with
+multi-faceted challenges. Besides technical limitations, socio-economic and
+environmental factors, especially for poor countries such as Uganda, deserve
+balanced consideration. Scalability, environmental trade-offs, technical limitations,
+and conflicting local-global agendas are discussed in the review to argue the case
+for context-sensitive innovation.
+Scalability challenges: Bridging the gap between ambition and feasibility.
+Industrial-scale facilities, such as those set up by AlgaePARC and Sapphire Energy,
+require up-front investment exceeding USD 5-10 million, which is cost-prohibitive
+for most developing nations. Pilot-scale projects (such as Mbarara University's) are
+not able to find funding to scale up, leading to a "valley of death" in which promising
+technology cannot survive through to implementation in society.
+This affordability-scalability trade-off can be reduced using an incremental, modular
+approach. In that it enables communities to begin small and scale up incrementally
+as finance allows, such an approach balances scalability vs. affordability and local
+capacity development. These systems will also reduce the dependency on foreign
+finance, in accordance with Uganda's aspiration for self-sustaining energy solutions.
+Environmental trade-offs: Water scarcity and unintended consequences.
+
+
+While algal biodiesel has the potential to address both fossil fuel reliance and
+climate change, it is important to consider the environmental risks and trade-offs.
+For example, commercial open algal cultivation takes a considerable amount of
+water, and in some parts of the world, such as parts of Uganda, that water will be
+limited.
+Algal strain developers like Synthetic Genomics suggest that some GM algal biomass
+can take over 500 litres of water to yield a kilogram of biomass. Such excessive water
+use might exacerbate an already acute scarcity in places like Karamoja where they
+have issues in obtaining drinking water. This is a case in which an effort to address
+one environmental issue (climate change) might have a consequence of worsening a
+different environmental issue (water scarcity).
+Therefore, one of the long-term areas of focus for algae cultivation and biodiesel
+development will have to be the water-efficient algal strains and cultivation systems
+that have some water efficiency built into them. This could involve selecting
+naturally occurring algal strains from arid or semi-arid regions, or developing unique
+cultivation systems that have reduced loss of water through evaporation. It will also
+be important to objectively consider whether any ecological issues could stem from
+algae cultivation at a commercial scale and design and manage systems that will
+mitigate this from the outset.
+Technical Barriers.
+The extraction of lipids from algal biomass is yet another major bottleneck in algal
+biodiesel production. Traditional extraction technologies, such as the use of hexane
+as the solvent, can achieve extraction efficiency of 95% and above but hexane
+
+
+presents concerns around human and environmental safety. Hexane is a volatile and
+flammable compound that has to be carefully disposed of and handled.
+Alternatively, mechanical extraction processes like pressing, are a more simple
+extraction process but their extraction efficiencies are not as effective and range
+from 40% to 50% for typical cases. This inefficiency means that most of the energy
+contained in algal biomass is being wasted in the extraction process and that there
+is a barrier to increasing the efficiency of algal biodiesel plants overall. This shows
+that there is an urgent need for more sustainable and effective extraction options.
+Enzymatic extraction is a promising option for algal lipid extraction. Enzymes
+interface with the algal cell wall to disrupt the cell wall and allow potential
+liberation of lipids. Enzymes are biological catalysts and are typically less damaging
+for the environment and human safety than using dangerous chemicals. Enzymatic
+extraction is also a newer technology and there will be a need for research to help
+glean and develop the technology towards greater economic viability. Global vs.
+Local Priorities.
+Finally, we must be mindful of the tension between global priorities (for example,
+climate change mitigation) and local priorities (for example, energy access and
+poverty alleviation). Algal biofuels can contribute to global objectives with respect
+to reducing greenhouse gases, but the likelihood of algal biofuels adopted in
+developing countries like Uganda will depend largely on their ability to meet local
+needs and priorities.
+For instance, mechanisms like carbon markets intended to reward global decreases
+in carbon emissions may not factor into the present needs of Ugandan communities
+
+
+struggling to access basic energy. For example, Ugandan communities in need of
+energy access may primarily interested in reliable and affordable access to energy
+for cooking, lighting and powering their small businesses.
+Algal biofuels can help address local needs, but only if their production is both
+sustainable, affordable, and culturally relevant. We should move from a top-down,
+externally imposed solution focus, to a bottom-up, local community-participatory
+algae biofuel project development and implementation approach. This transition
+could help ensure that algae biofuel projects develop in alignment with local needs
+and priorities and that they included sustainable development.
+
+
+
+
+CHAPTER THREE: METHODOLOGY.
+3 Methodology.
+3.1
+Ascertaining the effect of extraction temperatures and different solventbased extractions on lipid yield and quality.
+Algae was collected from an identified source (Lake Victoria) and lipid extraction
+was done at different temperatures ranging between 20 and 60 Celsius degrees. The
+lipid yield and quality at the different temperatures was determined.
+Furthermore, lipid extraction was attempted with different solvents such as hexane,
+ethanol, methanol and chloroform. The lipid yield for each solvent was ascertained
+and the most effective solvent determined.
+3.2
+Comparing the effectiveness of different catalysts.
+Comparisons were done during the trans-esterification process to convert the
+obtained algal lipids into biodiesel. The catalysts that were investigated included an
+acid such as sulphuric acid or hydrochloric acid, a base catalyst, preferably sodium
+hydroxide, and an enzyme catalyst.
+3.3
+Determining the physicochemical properties of the obtained algal
+biodiesel.
+Fulfilling this specific objective involved performing a series of tests on the obtained
+bio-diesel to determine its properties. The parameters investigated included energy
+viscosity, density, flash point and ignitability, and some of the necessary laboratory
+apparatus included a viscometer, densitometer and flash point tester. The results
+
+
+for each test performed was then recorded and the data analysed.
+
+
+
+
+
+
+CHAPTER 4. RESULTS AND DISCUSSION.
+4 Introduction.
+This chapter combines experimental findings of algal culture, lipid extraction, and
+biodiesel production into study goals: (1) setting suitable algal species, (2)
+optimisation of lipid extraction, (3) characterisation of biodiesel quality, and (4)
+localisation of the process.
+4.1
+Objective 1: Identification of species of algae most suitable for lipid
+extraction for biodiesel production.
+Goal: Identify the most promising algae species for lipid recovery.
+Key Results:
+Chlorella vulgaris:
+● Growth: Abrupt biomass accumulation to a maximum of 13.4 cm on Day 12
+(Figure 1). Growth levelled off after Day 12 as nutrient limitation set in.
+● Lipid Content: High (20–30% dry weight) but with high turnover capacity.
+● Significance: Low-doubling time (6–12 hours), ideal for small-scale and highly
+efficient processes.
+Nannochloropsis sp.:
+● Growth: Sustained growth up to 12.0 cm on Day 14, without any abrupt
+
+
+levelling off
+● Lipid Content: 30–40%, accumulated slowly under stress conditions of
+nutrients.
+● Significance: Best suited for medium-scale application, where resistance to
+changing conditions is required.
+Botryococcus braunii:
+● Growth: Poor growth (max: 3.2 cm), decreased to 2.6 cm on Day 14.
+● Lipid Content: Optimum (40–50%) but slow growth precludes practical
+application.
+MULTICRITERIA DECISION ANALYSIS FOR ALGAL SPECIES SELECTION.
+Table 1: Multicriteria decision analysis values.
+CRITERIA
+CHLORELLA
+VULGARIS
+BOTRYOCOCCUS
+BRAUNII
+NANNOCHLOROPSIS
+CRITERIA
+WEIGHTS
+Growth
+rate
+0.11 / 6.5
+0.13 / 5
+0.10 / 7
+Lipid
+yield
+0.52 / 8
+0.51 / 7
+0.69 / 9
+Bio-diesel
+yield
+0.56 / 5
+0.49 / 3
+0.69 / 6
+
+
+Ease
+of
+culturing
+4.5
+TOTAL
+12.18
+7.69
+16.05
+RANK
+
+●
+Multi criteria decision analysis (MCDA) was done to rank the species of algae
+most suitable for lipid extraction for algal bio-diesel production. The identified
+as most important parameters for influencing the choice of algal species chosen
+were growth rate, lipid yield, bio-diesel yield and ease of culturing.
+●
+Weights were attached to the different parameters in order of importance. Lipid
+yield was given a weight of 10, growth rate a weight of 8, bio-diesel yield a
+weight of 7 and ease of culturing a weight of 6.
+●
+For growth rate, the highest achieved volume for each species during culturing
+was expressed as a percentage by dividing it by the total volume for each species
+multiplied by 100. i.e.
+For Chlorella Vulgaris.
+From Table, the highest achieved volume was 14820.6 cm3 on day 13 of observation
+and totalling all the volumes gave 135628.8 cm3. The percentage of these was
+therefore calculated, giving;
+
+
+
+ଵସ଼ଶ଴.଺
+ଵଷହ଺ଶ଼.଼ × 100
+= 10.927
+= 0.11
+A weight of 6.5 out of 8 was attached to this value, considering the rate of growth
+of this species.
+For Botryococcus Braunii.
+From Table, the highest achieved volume was 1497 cm3 on day 8 of observation and
+totalling all the volumes gave 11526.9 cm3. The percentage of these was calculated,
+giving;
+ଵସଽ଻
+ଵଵହଶ଺.ଽ × 100
+= 12.9870%
+= 0.13
+A weight of 5 out of 8 was attached to this value considering the rate of growth of
+this species.
+For Nannochloropsis.
+From Table, the highest achieved volume was 16317.3 cm3 on day 12 of observation
+and totaling all the volumes gave 167065.2 cm3. The percentage of these was
+calculated, giving;
+
+
+ଵ଺ଷଵ଻.ଷ
+ଵ଺଻଴଺ହ.ଶ × 100
+= 9.7670%
+= 0.10
+A weight of 7 out 8 was attached to this value considering the rate of growth of this
+species.
+●
+For lipid yield, the averages of the yield from each solvent mix was expressed
+as a percentage by dividing it by 100 and then weights attached to this i.e.
+For Chlorella Vulgaris, the average yield from all four solvent mixes was 51.9105%
+which when divided by 100 gave approximately 0.52. A weight of 8 out of 10 was
+For Botryococcus Braunii, the average yield from all four solvent mixes was 50.6020%
+which when divided by 100 gave approximately 0.51. A weight of 7 out of 10 was
+For Nannochloropsis, the average yield from all four solvent mixes was 69.2162%
+which when divided by 100 gave approximately 0.69. A weight of 9 out of 10 was
+●
+For bio-diesel yield, the percentage yield was calculated by dividing the mass of
+bio-diesel produced by the mass of the oil from which it was produced and
+multiplying the result by 100.

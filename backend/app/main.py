@@ -26,7 +26,6 @@ from .schemas import (
 )
 from . import services
 from .download_tokens import get_download_path
-from .schemas import ResetIndexCacheResponse
 
 
 async def _supabase_poll_loop() -> None:
@@ -316,7 +315,7 @@ async def root():
 # Mount the static frontend AFTER all API routes so they take precedence.
 # If FRONTEND_DIR points to a directory, FastAPI will serve the built SPA
 # and return index.html for unmatched routes (html=True).
-frontend_dir = os.environ.get("FRONTEND_DIR", os.path.join(os.path.dirname(__file__), "..", "..", "dist"))
+frontend_dir = os.environ.get("FRONTEND_DIR", os.path.join(os.path.dirname(__file__), "..", "..", "frontend", "dist"))
 if os.path.isdir(frontend_dir):
     from fastapi.staticfiles import StaticFiles
 

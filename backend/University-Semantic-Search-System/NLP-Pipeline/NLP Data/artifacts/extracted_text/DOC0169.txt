@@ -1,0 +1,1414 @@
+ 
+LEVERAGING DIGITAL SYSTEMS TO MOBILIZE HEALTH DONATIONS FOR 
+FISTULA TREATMENT: A CASE STUDY BUDADIRI HEALTH CENTER IV, 
+EASTERN UGANDA SIRONKO DISTRICT 
+ 
+ ALLAN WAMPANDE 
+S19/MUC/BSIT/1363 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A PROJECT REPORT SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND 
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD 
+OF THE DEGREE OF BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY OF 
+UGANDA CHRISTIAN UNIVERSITY  
+October,2025 
+ 
+ 
+ 
+ 
+
+ 
+Contents 
+DECLARATION ..........................................................................................................................6 
+APPROVAL ................................................................................ Error! Bookmark not defined. 
+DEDICATION ..............................................................................................................................8 
+ACKNOWLEDGEMENT ..............................................................................................................9 
+ABSTRACT ...............................................................................................................................10 
+JUSTIFICATION OF THE STUDY ............................................................................................11 
+LIMITATIONS OF THE STUDY ................................................................................................12 
+CHAPTER ONE ........................................................................................................................13 
+Introduction ...............................................................................................................................13 
+BACKGROUND TO THE STUDY. ............................................................................................13 
+problem statement. .................................................................................................................13 
+main objective .........................................................................................................................14 
+1.4 Scope ..................................................................................................................................15 
+CHAPTER TOW .......................................................................................................................17 
+LITERATURE REVIEW .............................................................................................................17 
+2.1 HEALTH DONATION SYSTEM ...........................................................................................17 
+ TYPES OF HEALTH DONATION SYSTEM. ............................................................................17 
+  RELATED SYSTEMS .............................................................................................................19 
+MORE COMPREHENSIVE, WELL INTEGRATED SYSTEM WILL; .........................................24 
+ HOW HEALTH DONATION SYSTEM IS TO WORK TO FIGHT FISTULA ...............................26 
+  Advantages of Technology Donation Systems ........................................................................30 
+BENEFITS OF HEALTH DONATION SYSTEM ........................................................................38 
+ CHALLENGES OF HEALTH DONATION SYSTEM. ................................................................38 
+ Comparison of related systems ................................................................................................39 
+Chapter Three ...........................................................................................................................41 
+
+Research Methodology .............................................................................................................41 
+ System Study and Analysis ..................................................................................................41 
+Data Collection Techniques ...................................................................................................41 
+enterview .................................................................................................................................41 
+Observation .............................................................................................................................41 
+ Questionnaires .......................................................................................................................42 
+Data Analysis Methods ...........................................................................................................43 
+System Analysis and Design .................................................................................................44 
+ System Analysis ....................................................................................................................44 
+ System Design .......................................................................................................................44 
+System Implementation ..........................................................................................................45 
+Implementation Tools .............................................................................................................45 
+Validation ..................................................................................................................................46 
+Chapter Four .............................................................................................................................48 
+System Study, Analysis and Design ..........................................................................................48 
+The study of the Existing System ..............................................................................................48 
+Strength of the existing System .................................................................................................50 
+ Weakness of existing System ..................................................................................................50 
+Data analysis results .................................................................................................................50 
+The tabular representation of the challenges associated with the current health donation.........51 
+User Requirements ...................................................................................................................52 
+Functional requirements ............................................................................................................53 
+functional requirements .............................................................................................................53 
+System requirement ..................................................................................................................54 
+Hardware Requirements ...........................................................................................................54 
+Software Requirements .............................................................................................................55 
+System Design ..........................................................................................................................56 
+
+Architectural Design for the System ..........................................................................................56 
+Process Modeling .....................................................................................................................57 
+Key Symbols .............................................................................................................................57 
+Data Flow Diagrams (DFD). ......................................................................................................57 
+The Context Level DFD .............................................................................................................58 
+Data Flow Diagrams (DFD). ......................................................................................................58 
+The Level 1 DFD for the Online Financial Transfer Management System .................................59 
+Description for the level 1 DFD .................................................................................................59 
+Description for Processes .........................................................................................................60 
+Description of Data Stores ........................................................................................................60 
+Description for External Entities ................................................................................................61 
+Identification of Entities and their Attributes ...............................................................................61 
+Modeling Relationships between Entities ..................................................................................63 
+The Entity Relationship Diagram ...............................................................................................65 
+ Mapping of ERD to Relational Schema ....................................................................................66 
+donors .......................................................................................................................................66 
+ health center ............................................................................................................................66 
+ Donation ..................................................................................................................................67 
+ patient ......................................................................................................................................67 
+ Treatment ................................................................................................................................68 
+ appointment .............................................................................................................................68 
+ employee .................................................................................................................................69 
+ Conclusion ...............................................................................................................................69 
+Chapter Five .............................................................................................................................70 
+System Implementation, Testing and Validation ........................................................................70 
+ System Functions ....................................................................................................................70 
+ Functions provided to all users. ................................................................................................70 
+
+ Functions provided to the donors. ............................................................................................70 
+ Functions provided to the employee .........................................................................................70 
+ Functions provided to the manager/administrator .....................................................................70 
+System map ..............................................................................................................................71 
+Sample Screen-shots ................................................................................................................72 
+System home page ...................................................................................................................72 
+ Administrative view page .........................................................................................................72 
+Employee’s login page ..............................................................................................................72 
+ donor form ...............................................................................................................................73 
+donation form or donate now .....................................................................................................74 
+videos, ......................................................................................................................................74 
+System Testing and Validation Results .....................................................................................74 
+ System Testing Results ...........................................................................................................75 
+Conclusion ................................................................................................................................75 
+Chapter Six ...............................................................................................................................76 
+Summary, Recommendations, and Conclusion .........................................................................76 
+References ..............................................................................................................................77 
+Appendix I: Interview Schedule Sample Questions for Health Donation System .......................77 
+Appendix II: Questionnaires ......................................................................................................78 
+Appendix III: The System Validation Questionnaire ...................................................................80 
+Appendix IV: Pseudo Code .......................................................................................................81 
+ 
+ 
+ 
+ 
+ 
+
+DECLARATION 
+I WAMPANDE ALLAN do declare that this project report is my original work done and 
+honestly inform you that this project report is entirely my effort not duplicate and 
+presented to Institution of higher learning for any award especially in the field of 
+information technology. 
+ 
+ 
+Date: 16/10/2025 
+ 
+Signature……………………………... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+
+APPROVAL 
+This is to certify to the best of my knowledge and professional assessment that the piece of work 
+titled “Leveraging Digital Systems to Mobilize Health Donations for Fistula” submitted by 
+Wampande Allan, with Registration Number S19/MUC/BSIT/1363, to the Department of 
+Computing and Technology, has not been duplicated by any other University for the award of a 
+degree.  
+ 
+Faculty Supervisor Signature: ……………………………………………………  
+Name of Supervisor: Dr. Eilu Emmanuel  
+emmanueleilu0@gmail.com 
+         +256 772687232 
+Date: 16 /10 / 2025         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ DEDICATION 
+ I dedicate this work to the Almighty God, the giver of wisdom and knowledge, to my 
+beloved parents Mr. Wampande Tom and Mrs. Wampande Annet, my brothers and 
+sisters, my uncles and Aunts, grand Mother Nabukonde Joyce, Supervisor and all 
+my Lecturers, friends, course mates and my beautiful wife Kagoya Fatuma thank you 
+so much for the fantastic support given to me throughout this research, may the 
+Almighty God bless you in Jesus’ name. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ACKNOWLEDGEMENT 
+I would like to extend my sincere appreciation to the Almighty God for the gift of life and wisdom 
+that has enabled me to complete this proposal successfully. Special thanks go to my supervisor 
+for the guidance, encouragement, and support throughout the development of this project. I am 
+also grateful to the administration and staff of Budadiri Health Center IV for providing the 
+necessary information and cooperation during data collection. Finally, I thank my family, friends, 
+and classmates for their continuous encouragement, advice, and moral support. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ABSTRACT 
+This research presents the design and implementation of an Online Health Donation System to 
+Fight Against Fistula at Budadiri Health Center IV in Sironko District, Eastern Uganda. The 
+system aims to improve resource management, enhance donor engagement, and promote 
+transparency in the treatment of fistula patients. The study used interviews, questionnaires, and 
+system analysis to gather data. The developed system was tested and validated to ensure user-
+friendliness, security, and efficiency. Results showed that digitalizing the donation process can 
+significantly improve healthcare delivery and donor trust. The project contributes to the 
+development of sustainable digital health solutions in rural Uganda. 
+
+ JUSTIFICATION OF THE STUDY 
+This study is justified because many rural health centers in Uganda still rely on manual systems 
+for managing donations, leading to inefficiency, data loss, and lack of transparency. Developing 
+an online health donation system will not only help Budadiri Health Center IV manage donations 
+better but can also serve as a model for other health institutions in the country. The system 
+provides an efficient, secure, and transparent way to manage donations, improving 
+accountability and resource utilization. 
+
+LIMITATIONS OF THE STUDY 
+This study was limited by time and financial constraints, which restricted data collection to one 
+health center. In addition, internet instability and lack of advanced computer equipment in rural 
+areas may affect full system implementation. However, these limitations do not affect the 
+reliability or relevance of the study’s findings. The project still provides valuable insights and can 
+be scaled up with further support and resources. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CHAPTER ONE 
+Introduction 
+ Chapter one of this project presents the project the background information to the study 
+highlighting the problem statements, objectives, scope and significance to the study. 
+1.1 
+BACKGROUND TO THE STUDY. 
+Budadiri Health Center IV is located in Sironko District, Eastern Uganda. Established as a 
+modest health institute, it has experienced significant growth and development over the years. 
+Initially started to serve the basic healthcare needs of the community, the center has 
+progressively expanded its services to address a wide range of medical conditions. 
+Historical Overview 
+Budadiri Health Center IV began its journey as a small healthcare facility dedicated to providing 
+essential medical services to the local population. Over time, through the dedication of its staff 
+and the support of the community, the center has evolved into a well-established institution. It 
+has seen remarkable progress in both its infrastructure and the breadth of services offered. 
+Current Capabilities 
+Today, Budadiri Health Center IV is equipped to handle various diseases and medical 
+conditions, offering comprehensive care that includes general consultations, emergency 
+services, maternal and child health care, and treatment for common illnesses. The center has 
+made significant strides in improving its medical facilities, training its personnel, and enhancing 
+patient care. 
+1.1 problem statement.  
+Despite these advancements, Budadiri Health Center IV currently faces a significant challenge: 
+the treatment of women suffering from fistula. Fistula is a severe and debilitating condition often 
+resulting from childbirth complications. It causes incontinence and can lead to severe social 
+stigma and health issues for affected women. 
+Unfortunately, the center lacks the specialized facilities and resources required to effectively 
+treat fistula. This gap in their capabilities not only affects the quality of life of the affected women 
+but also puts additional strain on the center's already limited resources. 
+
+Due to lack of facilities and enough equipment, the health center gives patients transfer to 
+institute which is located in Mbale and Soroti District, this incidence has put the lives of 
+many people at risk where by many reports results into death. This made them to start a 
+simple thought of looking for donations from well-wishers, thy were doing manually by using 
+oral communication and using papers to record the donations from different donors, the 
+manual system has been so tiresome and it has not been helpful in the management of the 
+donations. That is why I came with the idea online health donation system, to help them 
+fulfill their goal   
+1.2 main objective  
+To develop a comprehensive health donation system aimed at combating fistula at Budadiri 
+Health Center IV in Sironko District, ensuring improved treatment and support for affected 
+women through efficient management of donations and resources. 
+Specific objectives  
+• 
+Enhance Treatment Facilities: 
+Use donations to upgrade or acquire specialized medical equipment and facilities necessary for 
+diagnosing and treating fistula, improving patient care and outcomes. 
+• 
+Support Training and Capacity Building: 
+Fund and organize training programs for healthcare professionals at Budadiri Health Center IV 
+to ensure they are equipped with the latest knowledge and skills for effective fistula 
+management. 
+• 
+Increase Community Awareness: 
+Implement awareness campaigns to educate the local community about fistula, its prevention, 
+and available treatment options, reducing stigma and encouraging affected individuals to seek 
+help. 
+• 
+Monitor and Evaluate Impact: 
+Develop mechanisms to track the use of donations, measure the impact on fistula treatment, 
+and assess the effectiveness of the health donation system in improving patient outcomes. 
+
+• 
+Foster Partnerships and Collaborations: 
+Build relationships with local and international organizations, government agencies, and other 
+stakeholders to enhance support for the health donation system and ensure a collaborative 
+approach to tackling fistula. 
+• 
+Ensure Transparency and Accountability: 
+Implement robust procedures for financial management and reporting to ensure transparency 
+and accountability in the handling of donations, fostering trust among donors and the 
+community. 
+• 
+Facilitate Access to Support Services: 
+Develop and maintain a support network for women affected by fistula, including counseling, 
+rehabilitation, and social reintegration services, to address the broader needs of patients 
+beyond medical treatment. 
+1.4 Scope 
+ 
+The system design will be used by the health centers (health researcher) and the 
+people in the community, waiting to study   the causes of fistula, signs and symptoms, 
+results when the parson is having, solutions to the possible problem in the community or 
+Uganda and how patients are to get possible treatment and necessary treatment. 
+The system will interact with the researchers in health centers and stake holders in the 
+communities for example VILLAGE HEALTH TEAM (VHTs). 
+1.5 significances of the system  
+Awareness: Fistula, especially obstetric fistula, is a devastating condition resulting from 
+prolonged obstructed labor without timely medical intervention. It leads to chronic 
+incontinence and often social ostracization. Awareness campaigns educate 
+communities about the causes, prevention, and treatment options for fistula. This helps 
+in dispelling myths, reducing stigma, and encouraging affected individuals to seek 
+medical help. 
+
+Early Detection and Treatment: Awareness efforts promote early detection of fistula 
+cases. Through community education programs and outreach activities, healthcare 
+providers can identify women who may be at risk or already suffering from fistula. Early 
+intervention improves the chances of successful treatment and helps prevent further 
+complications and social isolation. 
+Access to Healthcare: Donation systems, whether in the form of financial 
+contributions, medical supplies, or volunteer services, can significantly enhance access 
+to healthcare services for fistula patients. This support can enable health centers to 
+offer specialized fistula repair surgeries, post-operative care, rehabilitation services, and 
+psychosocial support to affected individuals, especially those from marginalized 
+communities who may lack financial resources. 
+Capacity Building: Donations can also contribute to capacity building initiatives within 
+health centers. They can fund training programs for healthcare professionals, including 
+surgeons specializing in fistula repair, nurses, and community health workers. By 
+strengthening the healthcare workforce's skills and knowledge, communities can receive 
+better quality care for fistula prevention, detection, and treatment. 
+Advocacy and Policy Change: The presence of donation systems can also empower 
+advocacy efforts to address systemic issues related to fistula, such as inadequate 
+healthcare infrastructure, lack of skilled personnel, and socioeconomic disparities. By 
+leveraging donations and raising awareness, advocates can push for policy changes, 
+increased government funding, and improved healthcare services for fistula prevention 
+and treatment. 
+ 
+ 
+ 
+ 
+ 
+
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 INTRODUCTION  
+ Chapter One presented the background information to the study highlighting the 
+objectives, scope and significance to the study. This chapter is about the literature 
+review of the health donation system to fight fistula in Uganda.  
+It specifies what a health donation system is, what it needs and how it works for its 
+enhancement. 
+2.1 HEALTH DONATION SYSTEM  
+According to Singer (2019), a health donation system refers to a structured framework 
+where individuals or institutions contribute resources such as financial aid, medical 
+supplies, or expertise to support healthcare initiatives aimed at improving health 
+outcomes, particularly in underserved or developing regions 
+2.2 TYPES OF HEALTH DONATION SYSTEM.  
+2.2.1 WHOLE BLOOD DONATION SYSTEM 
+According to Dr. Paul (2022), the critical role of whole blood donation systems is to 
+ensure access to safe and sufficient blood supplies for medical treatments, particularly 
+in underserved communities. He advocates for structured systems that facilitate regular 
+donations, prioritize safety standards, and integrate blood transfusion services into 
+comprehensive healthcare strategies to save lives and improve health outcomes 
+globally. 
+ 
+ 
+ 
+
+2.2.2 PLATELETS DONATION SYSTEM  
+According to Klein (2019), a prominent figure in transfusion medicine, has contributed 
+significantly to defining platelet donation systems. He emphasizes the importance of 
+platelet donations in his work and publications. 
+2.3   DONATING  
+According to MacAskill (2015.) in one of his notable works is the book "Doing Good 
+Better: How Effective Altruism Can Help You Make a Difference," In this book, 
+MacAskill discusses how individuals can use evidence and reason to determine the 
+most effective ways to make a positive impact through their donations and charitable 
+actions of helping those who are in need. He explores various strategies for choosing 
+causes and organizations that can achieve the greatest good with the resources 
+donated 
+2.4  DONATION SYSTEM  
+According Titmuss(1970), donation systems are not merely economic transactions but 
+are deeply rooted in social values, ethics, and the relationships between individuals and 
+society. He emphasizes that donation involves voluntary giving for the common good, 
+often challenging conventional market-based approaches to resource allocation.   
+2.4.1 INTERNAL DONATING 
+ According to Marcel (1925), internal donation are gifts exchanged within a particular 
+social group or community, and sometime within the country which he refers to as 
+internal donations, typically involve reciprocity and are integral to maintaining social 
+cohesion and solidarity within the group. These donations often create and reinforce 
+social bonds, mutual obligations, and hierarchies within the community 
+ 
+ 
+
+2.4.2 EXTERNAL DONATING 
+According to Marcel (1925), external donations are gifts given to individuals or groups 
+outside of one's immediate social circle or community and sometime it refers to the gifts 
+or support got from outside the group or the country. These gifts serve various 
+purposes, such as establishing alliances, negotiating relationships with neighboring 
+groups or communities, and demonstrating wealth or prestige. External donations can 
+be strategic and may influence political, economic, or social dynamics beyond the 
+immediate community. 
+2.5. DONATION MANAGEMENT SYSTEM.  
+According to Gorsegner (2017), tools for fundraising and management are designed to 
+streamline the process of accepting, processing, and acknowledging donations. They 
+often include features for donor management, fundraising campaigns, online donation 
+processing, and reporting. Effective donation management systems are crucial for 
+nonprofit organizations to efficiently handle contributions, maintain donor relationships, 
+and ensure transparency in financial transactions. Such systems typically include 
+databases to store donor information, payment processing integrations for receiving 
+donations online, communication tools for thanking donors, and reporting capabilities to 
+track fundraising efforts and financial performance. 
+2.6.0    RELATED SYSTEMS 
+2. 6 .1 DONORPERFEC 
+According softerWare (1985) states that DonorPerfect is comprehensive fundraising 
+and donor management software designed for nonprofit organizations. It offers features 
+for donor tracking, online fundraising, event management, and reporting. DonorPerfect 
+is known for its user-friendly interface and customizable options to suit various 
+fundraising needs. 
+ 
+ 
+
+. However, this performs the following tasks. 
+• Donor Management 
+• Online Fundraising  
+• Campaign Management: 
+• Reporting and Analytics: 
+• Communication Tools 
+• Event Management:   
+ 
+ 
+• Donor Management: Maintains comprehensive donor profiles with contact 
+information, giving history, and preferences. 
+• Online Fundraising: Provides tools for creating and managing online donation 
+forms for one-time and recurring donations. 
+• Campaign Management: Enables organizations to plan, execute, and track 
+fundraising campaigns with goals, progress monitoring, and reporting. 
+• Reporting and Analytics: Generates reports on donations received, donor 
+demographics, campaign effectiveness, and financial summaries. 
+• Integration Capabilities: Integrates with other software systems such as CRM, 
+accounting software, and email marketing platforms for streamlined data 
+management. 
+• Communication Tools: Facilitates communication with donors through 
+personalized messaging, thank-you notes, and updates on campaigns. 
+         Event Management: Manages events such as fundraising galas, auctions, and 
+community gatherings with attendee tracking and donation processing. The above will 
+
+meet the function of donaperfect system however the event management has the 
+following activities to the system; 
+• Event Planning: DonorPerfect allows nonprofits to plan events such as 
+fundraising galas, auctions, walkathons, and other types of events aimed at 
+engaging donors or raising funds. 
+Registration and Ticketing: Nonprofits can use DonorPerfect to handle event 
+registrations, ticket sales, and attendee management. This includes tracking RSVPs, 
+managing attendee lists, and issuing tickets. 
+Communication and Promotion: The software enables nonprofits to promote events 
+by sending out invitations, reminders, and updates to donors and supporters through 
+integrated communication tools. 
+Donor Engagement: Events managed through DonorPerfect can be used strategically 
+to engage donors and build relationships. The software may include features for 
+capturing attendee information and interactions during events. 
+Fundraising Integration: Events can be seamlessly integrated with fundraising efforts. 
+DonorPerfect allows nonprofits to link events with donation campaigns, peer-to-peer 
+fundraising, and other fundraising initiatives. 
+ 
+2.6.1.2 DISADVANTAGES OF DONORPERFECT SYSTEM. 
+• High Initial Costs, there is Software Licensing and Subscription Fees which 
+makes costs of acquiring and maintaining an event management system can be 
+high, particularly for smaller organizations or infrequent event organizers. 
+Additional expenses may be needed for compatible hardware, servers, and other 
+infrastructure. 
+• Customization and Flexibility Limitations, this system may not offer all the 
+features needed for unique or highly specific event requirements, necessitating 
+additional customization or workarounds. 
+
+• Data Security and Privacy Concerns.  There is a risk in storing sensitive 
+attendee data in a centralized system increases the risk of data breaches and 
+cyber-attacks.  It’s also hard to ensure compliance with data protection 
+regulations (like GDPR) can be challenging, especially if the system is used for 
+international events. 
+• Dependence on Internet Connectivity, many event management systems are 
+cloud-based and require reliable internet access, which can be a problem in 
+areas with poor connectivity. 
+• Ongoing Maintenance and Upgrades, Keeping the software updated and 
+maintaining the system can require continuous effort and investment. This makes 
+it to be updated regularly and organizations may become dependent on the 
+software vendor for support and updates, which can lead to potential issues if the 
+vendor changes their policies or ceases operations. 
+• Scalability Issues. Some systems may not scale well for larger events or 
+multiple concurrent events, leading to performance issues. A cost of scaling up 
+the capacity of the system to handle larger events often incurs additional costs. 
+In conclusion  
+DonorPerfect has emerged as a robust and comprehensive solution for nonprofit 
+organizations seeking to enhance their donor management and fundraising capabilities. 
+The platform offers a wide range of features that streamline the entire donor lifecycle, 
+from acquisition to retention and reporting. With its user-friendly interface, customizable 
+options, and powerful analytics, DonorPerfect not only simplifies donor management but 
+also provides invaluable insights that can drive more effective and personalized donor 
+engagement strategies. 
+ 
+ 
+ 
+
+ 2.6.2   NETWORK FOR GOOD YEAR:  
+According to Network for Good (2001), Network for Good provides a suite of online 
+fundraising tools and donation processing services for nonprofits. It includes features 
+such as donor management, peer-to-peer fundraising, and email marketing, and 
+reporting. Network for Good aims to simplify the fundraising process and help nonprofits 
+maximize their impact through effective donor engagement 
+2.6.3    HOW NETWORK FOR GOOD YEAR WORKS 
+ 
+• Donation Processing: Nonprofits can set up donation pages through Network 
+for Good's platform. Donors can securely donate online using credit/debit cards, 
+PayPal, or other payment methods. Network for Good processes these donations 
+and disburses funds to the nonprofit. 
+• Fundraising Pages: Organizations can create customized fundraising pages 
+tailored to specific campaigns or events. These pages include branding 
+elements, campaign details, and donation options to encourage supporter 
+engagement. 
+• Donor Management: Network for Good offers tools to manage donor 
+relationships. Nonprofits can track donor information, donation history, and 
+communication preferences to nurture long-term relationships. 
+• Reporting and Analytics: The platform provides reporting capabilities to 
+analyze fundraising performance. Nonprofits can generate reports on donation 
+trends, campaign effectiveness, and financial insights to make informed 
+decisions. 
+• Integration: Network for Good integrates works with various nonprofit 
+management software and CRM systems to streamline data synchronization and 
+workflow efficiency. 
+
+• Security and Compliance: Network for Good ensures security of donor data 
+and compliance with payment industry standards (PCI-DSS) to protect sensitive 
+information. 
+• Support and Resources: Nonprofits receive support through customer service, 
+training resources, and best practices to optimize fundraising efforts and use the 
+platform effectively. 
+2.6.1.2 MORE COMPREHENSIVE, WELL INTEGRATED SYSTEM WILL; 
+ 
+• Donor Management: This involves maintaining donor profiles, tracking their 
+giving history, communication preferences, and contact information. 
+• Online Donation Forms: User-friendly forms on your website or through email 
+campaigns that allow donors to easily make donations and specify their 
+preferences (one-time, recurring, specific campaigns). 
+• Payment Processing: Integration with secure payment gateways to handle 
+financial transactions securely, supporting various payment methods (credit/debit 
+cards, PayPal, etc.). 
+• Campaign Management: Tools to create, manage, and track fundraising 
+campaigns, including setting goals, monitoring progress, and reporting on 
+outcomes. 
+• Reporting and Analytics: Generating reports on donations received, donor 
+demographics, campaign performance, and financial summaries for transparency 
+and decision-making. 
+• Communication Tools: Integration with email marketing platforms or built-in 
+tools for sending thank-you messages, updates on campaigns, and newsletters 
+to donors. 
+ 
+ 
+ 
+
+ DISADVANTAGES OF NETWORK FOR GOOD YEAR SYSTEM  
+• Service Fees: Platforms like Network for Good may charge fees for processing 
+donations or using their services, which can impact the amount of funds 
+nonprofits receive. 
+• Dependence on Technology: Nonprofits relying on Network for Good or similar 
+platforms may face disruptions due to technical issues, internet outages, or 
+changes in platform policies. 
+• Data Security Concerns: Handling donor information and financial transactions 
+through third-party platforms raises concerns about data security and privacy 
+compliance. 
+• Customization Limitations: Nonprofits may have limited flexibility in 
+customizing donation pages or integrating with their existing systems to meet 
+specific organizational needs. 
+• Donor Relationships: Direct donor relationships can be impacted when 
+donations are processed through a third-party platform, potentially reducing 
+direct engagement opportunities. 
+• Competing with Other Nonprofits: Platforms like Network for Good host 
+multiple nonprofits, leading to competition for donor attention and potentially 
+reducing visibility for smaller organizations. 
+In conclusion 
+Network for Good helps nonprofits raise money and manage donations easily. It uses 
+online tools to run fundraising campaigns and connect with donors effectively. However, 
+nonprofits should be aware of fees, reliance on technology, and difficulties in 
+maintaining direct donor relationships. Despite these challenges, Network for Good 
+shows how technology can improve fundraising and help nonprofits achieve their goals 
+in the community. 
+
+2.7 HOW HEALTH DONATION SYSTEM IS TO WORK TO FIGHT FISTULA 
+• Donor Outreach: Organizations dedicated to fighting fistula reach out to 
+potential donors through various channels, such as online campaigns, social 
+media, events, and partnerships with other organizations. 
+• Education and Awareness: Donors are educated about obstetric fistula, its 
+causes, consequences, and the impact it has on women's lives. This awareness 
+helps motivate individuals to contribute to the cause. 
+• Fundraising: Donors can contribute financially through various means, including 
+one-time donations, monthly pledges, fundraising events, corporate 
+sponsorships, and grants from foundations or governments. 
+• Medical Services: The donated funds are used to provide medical services to 
+women suffering from obstetric fistula. This includes surgical interventions to 
+repair the injury, post-operative care, rehabilitation, and reintegration programs. 
+• Capacity Building: Some donations may be allocated to training healthcare 
+providers in fistula repair surgery and prevention, as well as improving healthcare 
+infrastructure in areas where fistula prevalence is high. 
+• Monitoring and Evaluation: Organizations ensure transparency and 
+accountability by regularly monitoring the use of donated funds and evaluating 
+the impact of their programs on reducing the incidence of fistula and improving 
+the lives of affected women. 
+• Partnerships: Collaboration with governments, non-governmental organizations 
+(NGOs), healthcare institutions, and community-based organizations is crucial for 
+the success of fistula prevention and treatment programs. Donated funds may be 
+used to strengthen these partnerships and leverage resources for maximum 
+impact. 
+• Advocacy and Policy Change: Donations can support advocacy efforts aimed 
+at raising the profile of obstetric fistula on national and international agendas, 
+
+influencing policies to prioritize maternal health, and promoting access to quality 
+obstetric care for all women. 
+In conclusion  
+Network for Good Year stands out as a pivotal tool for nonprofits aiming at enhance the 
+fundraising effectiveness and donor engagement. With its integrated suite of user-
+friendly tools, robust analytics, and emphasis on security and compliance, Network for 
+Good Year empowers organizations to, Streamline Fundraising, Enhance Donor 
+Relationships, Gain Actionable Insights, and Ensure Security.  
+2.8 Food Donation Systems: 
+According to Feeding America (2021), Food donation systems involve the collection and 
+distribution of surplus food to support food banks, shelters, and community 
+organizations addressing food insecurity.  
+2.8.1 How the system works  
+Food donation systems involve the collection, sorting, and distribution of surplus food to 
+support food banks, shelters, and community organizations addressing food insecurity. 
+Feeding America (2021); outlines that these systems typically operate through 
+partnerships with grocery stores, farms, manufacturers, and individual donors. The 
+donated food is inspected for safety and quality, sorted, and then distributed to local 
+food banks and agencies serving individuals and families in need across the United 
+States. 
+ 
+ 
+ 
+ 
+ 
+
+2.8.2 THE ADVANTAGES OF FOOD DONATION SYSTEM  
+• Reduction of Food Waste: Food donation systems help diverts surplus food 
+from landfills, reducing environmental impact and contributing to sustainability 
+efforts. 
+• Support for Food Insecure Individuals: They provide essential nutrition to 
+individuals and families facing food insecurity, helping to alleviate hunger and 
+improve health outcomes. 
+• Community Engagement: Food donation systems foster community 
+involvement through volunteer opportunities, partnerships with local businesses, 
+and grassroots support. 
+• Tax Benefits: Donors often receive tax benefits for donating surplus food, 
+incentivizing businesses and individuals to participate in food donation programs. 
+• Emergency Response: These systems can respond quickly to disasters and 
+emergencies by providing immediate food assistance to affected communities. 
+2.8.3 THE DISADVANTAGES OF FOOD DONATION SYSTEM  
+• Logistical Challenges: Managing perishable food items requires efficient 
+logistics for collection, storage, and distribution, which can be complex and 
+costly. 
+• Quality Control Issues: Ensuring the safety and quality of donated food items is 
+crucial but can be challenging, leading to concerns about food safety regulations 
+and liability. 
+• Stigma and Dignity: Some recipients may feel stigmatized or have their dignity 
+compromised when receiving donated food, impacting their willingness to access 
+assistance. 
+• Dependency Risk: Reliance on donated food may deter efforts to address root 
+causes of food insecurity, such as poverty and inequitable access to resources. 
+
+• Legal and Regulatory Compliance: Food donation systems must comply with 
+local, state, and federal regulations regarding food handling, storage, and 
+distribution, which can be burdensome. 
+In Conclusion: 
+ 
+Food donation systems play a crucial role in addressing hunger and reducing food 
+waste, they also face challenges related to logistics, quality control, social stigma, 
+dependency risks, and regulatory compliance. Balancing these factors is essential for 
+optimizing the effectiveness and sustainability of food donation initiatives. 
+2.9 Technology Donation Systems: 
+According TechSoup (2020). Technology donation systems facilitate the donation of 
+computers, software, and electronics to underserved communities, schools, and 
+nonprofits   
+2.9.1 HOW THE SYSTEM WORKS.  
+Technology donation systems facilitate the donation of computers, software, 
+electronics, and other tech-related items to underserved communities, schools, 
+nonprofits, and individuals in need. These systems aim to bridge the digital divide by 
+providing access to technology that may otherwise be inaccessible due to financial 
+constraints. 
+The following are the processes it under goes  
+• Donation Acquisition: Donors, including corporations, businesses, and 
+individuals, contribute new or gently used technology equipment such as 
+computers, laptops, tablets, printers, software licenses, and peripherals. 
+• Sorting and Refurbishment: Donated items are inspected, tested, and 
+refurbished if necessary to ensure they meet operational standards and are 
+ready for redistribution. 
+
+• Distribution: Technology donation programs partner with schools, community 
+centers, nonprofit organizations, and low-income households to distribute 
+refurbished technology. Some programs also offer training and technical support 
+to recipients to maximize the impact of donations. 
+• Impact Monitoring: Organizations often track the impact of donations by 
+measuring metrics such as the number of individuals served, educational 
+outcomes, and community empowerment through technology access. 
+2.9 .2   Advantages of Technology Donation Systems 
+• Digital Inclusion: Technology donation systems promote digital literacy and 
+empower individuals with access to educational resources, job opportunities, and 
+essential services online. 
+• Environmental Benefits: By extending the life of electronic devices through 
+refurbishment and reuse, these systems contribute to sustainability efforts by 
+reducing electronic waste. 
+• Corporate Social Responsibility (CSR): Donating technology allows 
+businesses to fulfill CSR goals, enhance their public image, and contribute 
+positively to the community. 
+2.9.3 CHALLENGES TECHNOLOGY DONATION SYSTEMS 
+• Digital Divide: While technology donation systems aim to bridge the digital 
+divide, disparities in access to reliable internet connectivity and ongoing technical 
+support can limit the impact of donated devices. 
+• Data Security: Donors and recipients must address data security concerns 
+associated with donated devices, ensuring that personal information is securely 
+erased before redistribution. 
+• Sustainability: Technology donation programs need sustainable funding and 
+partnerships to continue operating effectively over the long term, including 
+ongoing support for maintenance and upgrades. 
+
+In Conclusion 
+Technology donation systems play a crucial role in promoting digital inclusion, 
+supporting educational opportunities, and empowering underserved communities. 
+However, they also face challenges related to logistics, digital infrastructure, data 
+security, and long-term sustainability. Addressing these challenges requires 
+collaboration among donors, recipients, and community stakeholders to maximize the 
+benefits of technology access for all. 
+2.10 CLOTHING DONATION SYSTEMS: 
+According to Goodwill Industries International, (2020). Clothing donation systems 
+facilitate the collection and redistribution of gently used clothing items to individuals and 
+families in need, it donates to countries across the world.  
+2.10.1 HOW CLOTHING DONATION SYSTEM WORK.  
+Clothing donation systems operate through partnerships with various stakeholders, 
+including individuals, businesses, nonprofits, and community organizations. These 
+systems aim to address clothing insecurity, promote sustainability through reuse, and 
+support social welfare initiatives. 
+However, clothing donation system under goes through the following processes;  
+• Donation Collection: Donors contribute gently used clothing items through 
+drop-off locations, donation bins, scheduled pickups, or designated collection 
+drives organized by charities and nonprofit organizations. 
+• Sorting and Quality Control: Donated clothing undergoes sorting to assess 
+quality and condition. Volunteers or staff inspects items to ensure they meet 
+standards for cleanliness and usability. 
+• Distribution: After sorting, clothing items are distributed through various 
+channels. This includes local clothing banks, shelters, thrift stores, community 
+centers, and direct distribution events organized by nonprofits. 
+
+• Community Engagement: Clothing donation systems often involve community 
+engagement activities, such as volunteer opportunities for sorting and distributing 
+clothes, fundraising events, and awareness campaigns to encourage ongoing 
+donations. 
+• Impact Monitoring: Organizations monitor the impact of clothing donations by 
+tracking metrics such as the number of individuals served, types of clothing 
+distributed, and community feedback on the program's effectiveness. 
+2.10.2 ADVANTAGES CLOTHING DONATION SYSTEM  
+ 
+• Immediate Assistance: Clothing donation systems provide immediate 
+assistance to individuals and families facing clothing insecurity, especially during 
+emergencies and seasonal changes. 
+• Environmental Benefits: Reusing clothing items reduces waste and promotes 
+sustainability by extending the lifecycle of textiles. 
+• Community Support: Donors and volunteers contribute to community cohesion 
+and support social welfare initiatives through their participation in clothing 
+donation programs. 
+2.10.3 CHALLENGES OF CLOTHING DONATION SYSTEM  
+• Logistics: Managing large volumes of donated clothing, including sorting, 
+storage, and distribution, can pose logistical challenges for organizations, 
+particularly with limited resources. 
+• Quality Control: Ensuring donated clothing meets quality standards for 
+cleanliness and usability requires dedicated resources and attention to detail. 
+• Stigma and Dignity: Some recipients may experience stigma or discomfort 
+when receiving donated clothing, impacting their dignity and self-esteem. 
+ 
+ 
+
+In Conclusion 
+Clothing donation systems play a vital role in addressing clothing insecurity, promoting 
+sustainability, and fostering community support. While they offer significant benefits, 
+such as immediate assistance and environmental impact reduction, these systems also 
+face challenges related to logistics, quality control, and social perceptions. Effective 
+management and community engagement are essential for maximizing the positive 
+impact of clothing donation programs on individuals and communities in need 
+2.11 BOOK DONATION SYSTEMS: 
+According to Books for Africa, (2019). Book donation systems is the collection and 
+distribution of books to promote literacy, education, and access to reading materials, 
+these books are donated by deferent people from various individuals or country to 
+support the vulnerable Africans mostly the children.  
+2. 11.1 HOW BOOK DONATION SYSTEM WORKS 
+Book donation systems operate through partnerships with individuals, schools, libraries, 
+publishers, and nonprofit organizations. These systems aim to increase access to 
+books, support educational initiatives, and foster a love for reading among diverse 
+populations. It also under goes the following processes 
+Donation Collection: Books are donated by individuals, schools, libraries, publishers, 
+and other stakeholders. Donors contribute new or gently used books through collection 
+drives, drop-off locations, and scheduled pickups organized by book donation programs. 
+• Sorting and Categorization: Donated books undergo sorting to assess their 
+condition, relevance, and suitability for different age groups and educational 
+levels. Volunteers or staff categorizes books based on genre, language, and 
+subject matter to facilitate efficient distribution. 
+• Distribution Channels: Once sorted, books are distributed through various 
+channels: 
+
+• Schools and Libraries: Books are provided to educational institutions and public 
+libraries to enhance their collections and promote literacy programs. 
+• Community Centers: Books are made available at community centers, youth 
+clubs, and cultural organizations to encourage reading among community 
+members. 
+• Direct Distribution: Some book donation systems organize events or pop-up 
+libraries where individuals can access free books directly. 
+• Promotion of Reading: Book donation programs often include initiatives to 
+promote reading, such as reading workshops, storytelling sessions, book clubs, 
+and literacy campaigns. These activities aim to engage readers and foster a 
+culture of reading within communities. 
+• Monitoring and Evaluation: Organizations monitor the impact of book 
+donations by tracking metrics such as the number of books distributed, 
+participation in reading programs, and feedback from recipients and 
+stakeholders. 
+2.11.3 ADVANTAGES OF BOOK DONATION SYSTEM. 
+• Promotion of Literacy: Book donation systems increase access to reading 
+materials, promoting literacy and educational outcomes for children and adults. 
+• Community Engagement: Donors, volunteers, and recipients engage in 
+community-building activities, fostering collaboration and support for educational 
+initiatives. 
+• Cultural Enrichment: Access to diverse books enhances cultural understanding 
+and appreciation among readers, promoting inclusivity and diversity in reading 
+materials. 
+ 
+ 
+
+2.11.3 CHALLENGES OF BOOK DONATION SYSTEM  
+• Quality Control: Ensuring donated books are in good condition and suitable for 
+intended recipients requires careful inspection and sorting processes. 
+• Logistical Coordination: Managing large volumes of donated books and 
+coordinating distribution efforts across multiple locations can be complex and 
+resource-intensive. 
+• Sustainability: Maintaining sustainable funding, volunteer support, and 
+partnerships is essential for the long-term viability of book donation programs. 
+In Conclusion 
+Book donation systems play a critical role in promoting literacy, supporting education, 
+and enriching communities through access to reading materials. While they offer 
+significant benefits, including educational enrichment and community engagement, 
+these systems also face challenges related to logistics, quality control, and 
+sustainability. Effective management and collaboration among stakeholders are 
+essential for maximizing the impact of book donation programs on literacy and 
+educational outcomes worldwide 
+2. 12 TOY DONATION SYSTEMS: 
+According to Toys for Tots Foundation (2018). Toy donation systems involve the 
+collection and distribution of toys to children in hospitals, shelters, and low-income 
+families during holidays and throughout the year.  
+2.12.1 HOW TOY DONATION SYSTEM WORKS 
+ 
+Toy donation systems aim to provide joy, comfort, and developmental benefits to 
+children facing adversity or in underserved communities. These systems rely on 
+donations from individuals, businesses, and organizations to gather new or gently used 
+toys for distribution. Toy donation system works in the following steps;  
+
+Donation Collection: Toys are donated by individuals, businesses, schools, and 
+community organizations. Donors contribute new toys or gently used toys in good 
+condition through collection drives, drop-off locations, and scheduled pickups organized 
+by toy donation programs. 
+Sorting and Inspection: Donated toys undergo sorting and inspection to ensure they 
+meet safety standards and are appropriate for distribution to children. Volunteers or staff 
+members check toys for cleanliness, functionality, and age-appropriate content. 
+Distribution Channels: Once sorted and inspected, toys are distributed through 
+various channels: 
+• Nonprofit Organizations: Toys are provided to nonprofit organizations, 
+children's hospitals, shelters, and community centers that serve children in need. 
+• Holiday Programs: Many toy donation systems organize special events during 
+holidays, such as Christmas or birthdays, where donated toys are distributed to 
+children to celebrate these occasions. 
+• Direct Distribution: Some toy donation programs set up toy libraries or play 
+centers where children can access and play with donated toys directly. 
+Promotion of Play and Development: Toy donation programs often include initiatives 
+to promote play, creativity, and child development, such as toy drives, play workshops, 
+and educational activities that engage children and families. 
+Monitoring and Evaluation: Organizations monitor the impact of toy donations by 
+tracking metrics such as the number of toys distributed, participation in toy-related 
+activities, and feedback from recipients and caregivers. 
+ 
+ 
+ 
+ 
+
+2.12.2 ADVANTAGES OF TOY DONATION SYSTEM  
+• Joy and Comfort: Toy donation systems bring joy and comfort to children facing 
+difficult circumstances, fostering emotional well-being and happiness. 
+• Developmental Benefits: Toys support children's cognitive, social, and 
+emotional development through imaginative play, creativity, and social 
+interaction. 
+• Community Engagement: Donors and volunteers participate in community-
+building activities, fostering compassion and support for children in need. 
+2.12.3 CHALLENGES OF TOY DONATION SYSTEM  
+• Safety and Quality Control: Ensuring donated toys are safe, clean, and age-
+appropriate requires rigorous inspection and adherence to safety guidelines. 
+• Logistical Coordination: Managing toy collection, sorting, and distribution 
+logistics across multiple locations can be complex and resource-intensive. 
+• Sustainability: Maintaining ongoing support, funding, and partnerships is crucial 
+for the sustainability and effectiveness of toy donation programs over time. 
+In Conclusion 
+Toy donation systems play a crucial role in bringing happiness, supporting 
+development, and fostering community engagement through the provision of toys to 
+children in need. While they offer significant benefits, including emotional support and 
+developmental opportunities, these systems also face challenges related to safety, 
+logistics, and sustainability. Effective management, collaboration among stakeholders, 
+and community involvement are essential for maximizing the impact of toy donation 
+programs on children's well-being and development. 
+ 
+
+2.13 BENEFITS OF HEALTH DONATION SYSTEM 
+• Increased access to healthcare for underserved populations. 
+• Support for medical research and innovation. 
+• Strengthening of healthcare infrastructure. 
+• Promotion of public health initiatives and disease prevention. 
+• Emergency response and disaster relief efforts. 
+• Empowerment of vulnerable groups, especially women and children. 
+• Contribution to global health security and economic development. 
+2.14     CHALLENGES OF HEALTH DONATION SYSTEM. 
+• Donor Fatigue: Over time, donors may become fatigued or disillusioned with 
+continuous appeals for donations, impacting the sustainability of funding streams 
+for health initiatives. 
+• Transparency Issues: Lack of transparency regarding how donated funds are 
+utilized can erode trust among donors and hinder future fundraising efforts. 
+• Logistical Constraints: Delivering healthcare services, especially in remote or 
+conflict-affected areas, can pose logistical challenges such as transportation, 
+infrastructure limitations, and security concerns. 
+• Sustainability: Many health issues require long-term solutions, but reliance on 
+short-term funding cycles can lead to gaps in service provision and hinder 
+sustainable impact. 
+• Dependency: Overreliance on external donations can create dependency 
+among recipient communities or healthcare systems, undermining local capacity 
+building and ownership 
+ 
+
+In conclusion 
+Health donation systems are very important for helping people with health problems 
+around the world, especially in places where there isn't enough health care. These 
+systems include donations like blood, organs, tissues, bone marrow, and plasma. They 
+save lives, make health better, and help with medical research. Health donation 
+systems also encourage people to be kind and work together. They give important 
+things to help communities stay strong and work well together. But there are challenges, 
+like how to move things around, make sure they're safe, and keep getting help. We 
+need new ideas, people working together, and strong rules to make health donation 
+systems work best. These systems show how working together can make healthcare 
+fair and save lives worldwide 
+2.14 Comparison of related systems 
+Table 1: Comparisons for the Related Systems 
+Systems 
+Strengths 
+Weaknesses 
+Technology 
+Donor 
+perfect 
+donation  
+System  
+Efficient donor management  
+   Customizable reports 
+Costly for small nonprofits,  
+ 
+ learning curve for new users 
+ 
+  
+Web-based 
+Technolo
+gy              
+Donation 
+system  
+  Access to updated    
+technology,  
+supports digital literacy 
+digital communication  
+Compatibility issues, 
+ outdated donations 
+it’s too costly to maintain it faces 
+much malwares over the network  
+Web-based. 
+
+Clothing 
+donation 
+system 
+Provides clothing to those in 
+need,  
+reduces textile waste 
+Sorting and storage challenges 
+seasonal demand fluctuations. 
+Web-based. 
+Book 
+donation 
+System 
+Promotes literacy,  
+educational resource availability 
+Quality control of donated books,  
+distribution logistics 
+Web-based.  
+Toy 
+Donation 
+System 
+Brings joy to children  
+reduces waste 
+Safety concerns,  
+age-appropriate donations 
+Web-based.  
+Food   
+Donation 
+   System 
+ 
+ 
+Addresses immediate hunger 
+needs, 
+ community involvement 
+Shelf-life of donations 
+, logistics of perishable items 
+Web-based.  
+2.15 conclusions  
+This chapter mainly described the literature review of health donation systems where 
+we gatherer information about other related systems, how they function and the 
+enhancements needed in order to improve the current health donation system to fight 
+fistula in Uganda. 
+
+CHAPTER THREE 
+Research Methodology 
+2.0 Introduction 
+The methodology focuses on the patterns of research, approaches to data collection, 
+techniques for analysis, and tools that are used for designing and implementing the 
+Health Donation System to Fight Fistula. The methodology aligns with the specific 
+objectives of the proposed system. 
+3.1 System Study and Analysis 
+Fact-finding techniques are used in this project to determine the system and user 
+requirements, as well as system inputs and outputs. This greatly determines what the 
+system is expected to do. These techniques include: 
+3.2 Data Collection Techniques 
+3.2.1 Interview 
+Interviews serve as a forum for talking to people and can be structured, unstructured, or 
+semi-structured. The researcher conducts interviews with stakeholders, including 
+healthcare providers and patients, to identify and specify functional and non-functional 
+requirements. The interviews are both semi-guided and unguided and contain both 
+closed and open-ended questions. This approach helps obtain data about the operation 
+of existing systems, their problems, strengths, information flow, and processing. 
+3.2.2 Observation 
+The researcher observes various activities related to health donation and fistula 
+treatment. Observations include patient registration, donation processes, and storage 
+methods. Pen and paper are used to note observations such as the level of congestion 
+and the efficiency of manual systems in place. 
+
+3.2.3 Reviewing Existing Documents 
+The researcher reviews existing documents and literature to gather more information 
+about fistula treatment and health donation systems. This includes checking relevant 
+websites and scientific articles, which provide the necessary information. 
+3.2.4 Questionnaires 
+Questionnaires are used to gather information from users of the health donation system. 
+Questionnaires, submitted to healthcare providers and patients, aim to gain statistical 
+information about the challenges and efficiency of current donation processes. This 
+feedback helps in understanding the system's requirements for efficiency and 
+effectiveness. The questionnaires to used are. 
+• The causes of fistula and its impacts, this will help to make awareness to 
+people at least to take care and avoid some risks which may result into the 
+cases.  
+• Treatment Protocols: Observe the current treatment protocols followed at the 
+center, including surgical procedures, post-operative care, and rehabilitation 
+services provided to patients. 
+• Patient Demographics, gather information about the demographic profile of 
+patients treated at the fistula health center. This includes age, gender, socio-
+economic status, and geographical distribution. 
+• Types and Severity of Fistula Cases: Understand the different types of fistula 
+cases treated at the center (e.g., obstetric, traumatic) and their severity levels. 
+This helps in assessing the varying needs of patients. 
+• Medical Equipment and Infrastructure: Assess the availability and condition of 
+medical equipment used for diagnosis, surgery, and patient care. Note any 
+deficiencies or needs for upgrading. 
+
+• Staffing and Expertise: Evaluate the expertise and qualifications of healthcare 
+staff involved in fistula treatment, including surgeons, nurses, and rehabilitation 
+specialists. 
+• Patient Flow and Management: Study how patients are referred, admitted, 
+treated, and discharged from the center. Identify any bottlenecks or inefficiencies 
+in patient flow. 
+• Data Collection and Management: Examine how patient data is collected, 
+stored, and managed within the center. Assess the adequacy of information 
+systems for tracking patient outcomes and follow-ups. 
+• Community Engagement and Outreach: Explore the center's efforts in 
+community outreach, education, and awareness campaigns related to fistula 
+prevention, treatment, and stigma reduction. 
+• Financial and Resource Constraints: Understand the financial challenges 
+faced by the center in terms of funding for surgeries, medical supplies, and staff 
+salaries. 
+• Patient Support Services: Investigate the availability of psychosocial support, 
+counseling, and reintegration services provided to fistula patients post-treatment. 
+3.3 Data Analysis Methods 
+Researchers use data analysis application software, including Microsoft Excel, to 
+capture and record data from observations. This includes noting the time spent by 
+patients during registration, the level of congestion, and waiting times. Data is then 
+represented graphically using bar graphs. 
+ 
+ 
+ 
+
+3.4 System Analysis and Design 
+The analysis and design of the system involve identifying the inputs, processes that 
+transform inputs into outputs, and satisfying system constraints. Data flow diagrams and 
+entity relationship diagrams are used to demonstrate data transfer processes and 
+relationships among entities in the system. 
+3.4.1 System Analysis 
+System analysis involves identifying and summarizing data to extract useful information 
+and develop conclusions. Requirements are determined based on the system study, 
+including: 
+Functional Requirements 
+• 
+Facilitate efficient health donation processes. 
+• 
+Ensure secure and accurate data entry and storage. 
+• 
+Provide real-time tracking of donations and beneficiaries. 
+• 
+Generate comprehensive reports on donation activities and outcomes. 
+Non-Functional Requirements 
+• 
+Ensure high system reliability and availability. 
+• 
+Maintain data privacy and security. 
+• 
+Provide user-friendly interfaces for both healthcare providers and patients. 
+• 
+Ensure compatibility with various operating systems and devices. 
+3.4.2 System Design 
+i. Process Modeling 
+Process modeling is achieved using Data Flow Diagrams (DFDs) to show processes 
+and external entities in the system. The end product is a detailed description of 
+
+processes involved. The information used in building the DFDs is obtained from the 
+Data Dictionary. 
+ii) Data Modeling 
+Data modeling is achieved using Entity-Relationship Diagrams (ERDs) to show data 
+requirements and relationships. This yields the structure of relations in the relational 
+schema (database). 
+3.5 System Implementation 
+This stage involves the physical realization of the database and application design, 
+using Data Definition Language (DDL) of the selected Database Management System 
+(DBMS). 
+3.5.1 Implementation Tools 
+In the implementation stage, the following tools are used: xamp/Apache server, MySQL, 
+PHP, JavaScript, Notepad++, Windows operating system. 
+3.5.1.1 Xamp  
+Xamp is a free server bundle that includes Apache, MySQL, and PHP. Pages are stored 
+in the system’s special folder accessible on the network via the machine’s IP address. 
+3.5.1.2 PHP 
+PHP is an open-source server-side programming language extensively used for web 
+scripts, integrated with HTML, and used in content management systems and other web 
+applications. 
+ 
+ 
+
+3.5.1.3 MySQL 
+MySQL is an open-source Relational Database Management System (RDBMS) using 
+Structured Query Language (SQL). It is noted for its speed, reliability, and flexibility, 
+suitable for multi-user databases. 
+3.5.1.4 HTML 
+HTML, the predominant markup language for web pages, provides a means to describe 
+the structure of text-based information in a document and includes interactive forms, 
+embedded images, and other objects. 
+3.6 System Testing and Validation 
+3.6.1 Testing 
+Testing involves executing application programs to find errors and observe if they 
+behave as expected. The process includes: 
+• 
+Testing system performance, efficiency, disk space, and throughput. 
+• 
+Checking compatibility with different operating systems (e.g., Windows XP, 
+Linux, and Windows 7). 
+• 
+Testing for security issues like resistance to remote attacks and authentication 
+procedures. 
+3.6.2 Validation 
+Validation is an assessment of the operational health donation system to ensure that it meets 
+the intended purpose and needs of system users. Validation involves checking whether the 
+Health Donation System to Fight Fistula meets the identified user, functional, and non-functional 
+requirements. Validation is performed by providing the system to end user representatives who 
+test the system to verify that it meets the intended user requirements. 
+
+3.6.3 Conclusion 
+In summary, this chapter describes the methodologies used for different patterns of research, 
+approaches to data collection, techniques for analysis, and tools used for designing and 
+implementing the Health Donation System to Fight Fistula. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CHAPTER FOUR 
+System Study, Analysis and Design 
+This chapter concerns the study of the existing system, analysis of the requirements for the 
+system, process and data modeling. 
+4.1 
+The study of the Existing System 
+From the data gathered about the existing health donation systems at the district level through 
+interviews, observation, and review of any available documents, it was discovered that there is 
+no formalized system currently in place at the health centers for managing donations. Health 
+centers rely on manual processes or ad-hoc methods to manage donations, which are often 
+inefficient and lack proper documentation. 
+Interviews and Observations: Discussions with healthcare workers, administrators, and other 
+stakeholders revealed that the lack of a structured donation management system has led to 
+several issues and below are some of them; 
+• 
+Resource Mismanagement: Without a formal system, it's challenging to track donations 
+and ensure that resources are allocated effectively to treat fistula cases. 
+• 
+Donor Engagement: Donors have no clear or reliable way to register their contributions 
+or receive feedback on how their donations are being used. 
+• 
+Operational Delays: The absence of an organized system results in delays in accessing 
+funds and resources necessary for treating patients. 
+Review of Existing Documentation: Although there were minimal documents available for 
+review, the few that existed were not standardized or consistent. This further emphasized the 
+need for a system that could offer transparency and accountability in managing health 
+donations. 
+Justification for a New System: The findings from the study of the current situation highlight 
+the urgent need for an Online Health Donation Management System. Such a system would: 
+• 
+Streamline Donation Processes: Allow for efficient registration and management of 
+donations. 
+
+• 
+Enhance Resource Allocation: Ensure that donations are directed to where they are 
+most needed. 
+• 
+Improve Donor Engagement: Provide donors with feedback on how their contributions 
+are making an impact. 
+4.1.1 workflow for health donation system, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit homepage 
+start 
+Register with 
+details
+Visit homepage 
+Donation 
+method=money 
+Donation 
+method=in kind 
+error 
+Choose payment 
+method 
+Redirect to 
+payment gateway  
+Donation 
+complete 
+Fill up form 
+Goods collected 
+Payment receipt 
+Make 
+another 
+donation? 
+End  
+Thank you  
+no 
+yes 
+yes 
+yes 
+no 
+
+4.1.2 Strength of the existing System 
+i. 
+The use of paper management system enables user to be very accurate writing  
+4.1.3 Weakness of existing System 
+i. 
+There is online donation process 
+ii. 
+No feedback given to the donors 
+iii. 
+No data retrieve, meaning there is no database to the system. 
+4.2 Data analysis results 
+I used different data techniques in collecting data in order to come up with accurate information, 
+I was able to come with different challenges, the institute is facing in trying to treat the patients 
+facing with fistula in the whole district, the institute has no online donation which can track the 
+donors in large number to support their mission.  
+• 
+The major challenge of the current system is that donors have no clear or reliable way to 
+register their contributions or receive feedback on how their donations are being used, 
+there is also time wastage where by the donor has to move to the health center to 
+donate. The absence of an organized system results in delays in accessing funds and 
+resources necessary for treating patients whereby it put the life of the patient at risk. The 
+example of an analysis on the challenges associated with the current system is shown in 
+Table 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+4.2.1 The tabular representation of the challenges associated with the current health 
+donation. 
+Table 2: Challenges associated with the current system. 
+Challenges 
+Number of respondents out of 
+4 
+Percentage of respondents 
+ 
+ 
+Time wastage 
+ 
+ 
+                                                      
+4 
+ 
+ 
+                                                    
+85 
+ 
+Level of feedback 
+ 
+ 
+                                                      
+3 
+                                                    
+ 
+                                                     
+65 
+ 
+ 
+Registration of donors  
+ 
+ 
+                                                      
+2 
+ 
+ 
+                                                    
+50 
+ 

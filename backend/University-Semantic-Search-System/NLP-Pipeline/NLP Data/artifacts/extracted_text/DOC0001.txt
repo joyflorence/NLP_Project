@@ -1,0 +1,219 @@
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+BSCS31, BSDS 3:1
+DSC3114 Scientific writing, reporting and publishing
+Lecture planning, delivery, and project-based assessment
+Tuesday 30th Sept 2025
+Innocent Ndibatya, PhD
+Head, Department of Computing & Technology
+Faculty of Engineering, Design & Technology
+Mr. Pascal Musisi, MSc
+Assistant Lecturer, 
+Department of Computing & Technology
+Faculty of Engineering, Design & Technology
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Structure of today’s Lecture
+qReview of the previous lecture activities
+qIntroduction Methods Results Discussion (IMRaD)
+qDeveloping logical arguments using “Premise, Premise, Conclusion” structure
+qReview of the learning outcomes
+1.
+Write clear, structured scientific documents.
+2.
+Critically read and review scientific literature.
+3.
+Use correct referencing and citation styles.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Prev Lecture..
+q Scientific Writing: A specialized form of writing used to communicate 
+research findings, ideas, and knowledge in a clear, precise, and 
+objective way. It is the standard style used in research papers, theses, 
+dissertations, technical reports, and journal articles.
+qMain features
+q Clarity and Precision
+qObjectivity
+qStructure and Organization, e.g. IMRaD: Introduction, Methods, Results, and Discussion.
+qEvidence-based (Literature Review)
+qFormal Tone
+qConciseness
+qConsistency and Accuracy
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Literature Review - Introduction
+qA literature review is a structured summary and 
+evaluation of what has already been written and 
+researched on a particular topic.
+It is not just a list of sources—it is a critical synthesis 
+that:
+• Explains what is already known.
+• Highlights gaps, debates, and trends.
+• Shows how your research fits into the bigger picture.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Why Literature Review?
+qPurpose of a Literature Review
+1.Context → Places your research in relation to what has 
+already been studied.
+2.Evaluation → Assesses the quality and relevance of existing 
+studies.
+3.Identification of Gaps → Shows what is missing or 
+underexplored.
+4.Justification → Provides a rationale for why your study is 
+needed.
+5.Framework → Helps you refine research questions, methods, 
+and theoretical foundation.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Types of Literature Review
+qNarrative/Traditional → A broad summary without 
+strict methods.
+qSystematic → A highly structured, comprehensive, 
+and replicable review.
+qScoping → Explores the extent and nature of research 
+on a topic.
+qCritical → Goes beyond description to analyze and 
+critique methods, findings, and assumptions.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Steps to doing Literature Review
+qSearch → Use academic databases (Scopus, Web of Science, Google 
+Scholar, IEEE, etc.).
+qSelect → Apply inclusion/exclusion criteria to filter relevant studies.
+qRead Critically → Ask: What’s the purpose? What methods are used? 
+What are the strengths/limitations?
+qOrganize → Group studies into themes (e.g., by method, theory, 
+findings, or chronology).
+qSynthesize → Compare and contrast, find connections, and highlight 
+differences.
+qWrite → Present a logical narrative that builds toward your research 
+gap.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Characteristics of a Good Literature Review
+qFocused: Stays relevant to the research 
+problem/topic.
+qCritical: Evaluates, doesn’t just summarize.
+qOrganized: Flows by theme/idea, not by article.
+qCurrent: Covers up-to-date works. Less than 8Years
+qBalanced: Includes multiple perspectives.
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Example
+qTopic: Predictive Maintenance using Machine Learning
+• Descriptive: “Many studies have used machine 
+learning for predictive maintenance in 
+manufacturing.”
+• Critical: “While several studies (e.g., X, Y, Z) apply 
+machine learning to predictive maintenance, most rely 
+on small datasets and lack real-time validation. Few 
+studies integrate domain knowledge with ML models, 
+leaving a gap in practical applicability.”
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Note to remember
+q“understanding literature review” 
+means realizing it is not just about 
+reading and summarizing articles—it’s 
+about connecting, critiquing, and 
+synthesizing them to create a 
+foundation for your own research
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Activity 
+Select a topic and conduct a systematic literature review 
+following the PRISMA protocol 
+qPRISMA = (Preferred Reporting Items for Systematic reviews and Meta-Analyses) 
+qTo be done individually, but each member should present and discuss with 
+groupmates.
+qNo repetition of topics among groupmates groups
+qA 3-page review paper should be prepared (in Latex with proper referencing an 
+use of tools) 
+qDraft paper 1 – 8th October 2025
+qFinal Paper Wednesday 15th October 2025)
+qPoster presentation ( Friday 17th October 2025)
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Computer Science students topics
+qArtificial Intelligence & Machine Learning
+1.
+A critical review of explainable AI (XAI) approaches and their 
+effectiveness.
+2.
+Literature review on bias and fairness in machine learning models.
+3.
+Comparative analysis of deep learning vs. traditional ML methods for 
+image recognition.
+4.
+Review of federated learning for privacy-preserving applications.
+5.
+The role of transfer learning in natural language processing.
+6.
+Quantum Computing for Machine Learning: Opportunities and 
+Challenges
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Data Science Student’s topics
+qLiterature review on real-time big data analytics frameworks.
+qCritical analysis of data cleaning and preprocessing techniques in 
+large datasets.
+qReview of graph-based approaches for social network analysis.
+qCloud vs. edge computing for big data applications: A 
+comparative study.
+qBlockchain for Cybersecurity: Current Applications and 
+Limitations
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Final remarks
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+Significance of the hour glass in writing
+
+A Complete Education for A Complete Person
+P.O. Box 4, Mukono, Uganda, Plot 67-173, Bishop Tucker Road, Mukono Hill | Tel: +256 (0) 312 350 800 Email: info@ucu.ac.ug Web: https://ucu.ac.ug
+Founded by the Province of the Church of Uganda. Chartered by the Government of Uganda
+@ugandachristianuniversity
+@UCUniversity
+@UgandaChristianUniversity
+P.O. Box 4 Mukono, Uganda
+Tel: 256-312-350800
+      https://ucu.ac.ug/ 
+Email: info@ucu.ac.ug.   
+Uganda Christian University
+https://cse.ucu.ac.ug/
+@ucu_ComputEng
+@ucucomputeng
+Tel: +256 (0) 312 350 863 | WhatsApp: +256 (0) 708 114 300
+Department of Computing & Technology
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY
+Email: dct-info@ucu.ac.ug

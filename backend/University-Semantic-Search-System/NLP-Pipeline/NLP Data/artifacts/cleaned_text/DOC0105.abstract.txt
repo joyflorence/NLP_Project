@@ -1,0 +1,160 @@
+Dust on unpaved roads is one of the major tragedies affecting Uganda and the world at
+large especially in sub-Saharan climates with high temperature and traffic which results
+into the disintegration of the soil particles by moving trucks on the road surface. The
+study aims at assessing the use of magnesium chloride as a dust suppressant on unpaved
+roads in Uganda with the focus on Bbaale-Galilaya road in Kayunga district due to high
+dust levels on this road which reduces visibility resulting into accidents. So the material
+aims at the reducing on particulate matter to correspond with the air quality standards
+of Environment Protection Agency (EPA) and World Health Organization (WHO).The
+study identifies key and specific objectives such as Assessing the use of magnesium
+chloride as a dust suppressant as the main objective and determining the concentration
+of particulate matter present in dust, assessing the properties of magnesium chloride
+and the optimum amount required to suppress the dust levels along Bbaale-Galilaya
+road. On Bbaale-Galilaya road, the particulate matter was above the environmental
+protection agency (EPA) and the World Health Organization (WHO) standards which
+included 84.485/m3, 115.835/m3,138.5/m3, 128.5/m3 and 111.165/m3 at various
+distances of 50m, 100m, 150, 200m and 250m which were 50m apart or away from each
+other. After magnesium chloride application, the optimum percentage attained or
+obtained was 15% of the magnesium chloride solution which achieved the environmental
+protection agency compliance with a particulate matter of 28.5/m3 which is below 35
+standard for environmental protection agency therefore balancing environmental
+safety and indicating a 80% reduction in particulate matter present in dust along Bbaale-
+Galilaya road in Kayunga district.
+
+ii
+
+DECLARATION
+I hereby declare to the best of my knowledge that the content in here are mine and
+have not been shared to any university or any learning institution
+MUKABYA REAGAN
+SIGNATURE: ........................................
+
+iii
+
+APPROVAL
+This final year project has been studied, analyzed and submitted by MUKABYA REAGAN,
+S21B32/011 with approval to the department of engineering and environment at Uganda
+Christian university for Examination
+SIGNATURE: ............................... DATE: ....................................
+ENG. DR. CHRIS BYARUHANGA
+RESEARCH ACADEMIC SUPERVISOR
+
+iv
+
+TABLE OF CONTENTS
+ABSTRACT ........................................................................................... i
+DECLARATION ...................................................................................... ii
+APPROVAL .......................................................................................... iii
+TABLE OF CONTENTS ............................................................................. iv
+LIST OF TABLES ................................................................................... vii
+LIST OF FIGURES ................................................................................ viii
+LIST OF ABBREVIATIONS .......................................................................... ix
+CHAPTER 1: INTRODUCTION ...................................................................... 1
+1.1.
+BACKGROUND ............................................................................ 1
+1.2. PROBLEM STATEMENT. .................................................................... 2
+1.3. OBJECTIVES OF THE STUDY ................................................................. 3
+1.3.1. Main Objective ........................................................................... 3
+1.3.2. Specific Objectives ...................................................................... 3
+1.4. RESEARCH QUESTIONS ..................................................................... 3
+1.5. JUSTIFICATION ................................................................................ 3
+1.5.1. Reaction with Water .................................................................... 4
+1.5.2. Reaction at high temperatures ........................................................ 4
+
+v
+
+1.6. GEOGRAPHICAL SCOPE ...................................................................... 5
+1.7. SIGNIFICANCE OF THE STUDY ............................................................... 5
+CHAPTER 2: LITERATURE REVIEW ................................................................ 6
+2.1. DUST ......................................................................................... 6
+2.1.1. Forms of dust .......................................................................... 6
+2.1.1.1. Inorganic dust ....................................................................... 6
+2.1.1.2. Organic dust ......................................................................... 6
+2.1.1.3. Combustion derived dust .......................................................... 6
+2.1.1.4. Settled dust ......................................................................... 7
+2.1.1.5. Aerosol dust ......................................................................... 7
+2.1.1.6. Total suspended particulates (TSP) .............................................. 7
+2.2. DUST CLASSIFICATIONS ................................................................... 7
+2.2.1. Size ........................................................................................ 7
+2.2.2. Composition .............................................................................. 7
+2.3. SOURCES OF DUST ............................................................................ 8
+2.4. WATER ......................................................................................... 8
+2.4.1. Chemical properties .................................................................... 8
+2.4.2. Physical properties ...................................................................... 8
+2.5. COMPARATIVE ANALYSIS BETWEEN PARTICULATE MATTER OF PM10 AND PM2.5 .. 10
+2.5.1. Size and Penetration .................................................................. 10
+2.6. CHEMICAL COMPOSITION AND TOXICITY PM10 ....................................... 10
+2.7. HEALTH EFFECTS ........................................................................... 11
+2.8. AIR QUALITY STANDARDS .................................................................. 11
+2.9. MAGNESIUM CHLORIDE AS A DUST SUPPRESSANT ................................... 12
+2.9.1. Properties of magnesium chloride. ................................................. 12
+
+vi
+
+2.9.2. Environmental Considerations ....................................................... 13
+Benefits of magnesium chloride during dust suppression ............................... 14
+2.9.3 SPRAYING METHOD .................................................................. 15
+2.9.4. MODE OF ACTION OF MAGNESIUM CHLORIDE DURING DUST SUPPRESSION .. 16
+LEACHING OF CHEMICALS ....................................................................... 19
+Leaching ........................................................................................ 19
+TIME SERIES ANALYSIS TEST IN DUST SUPPRESSION. ...................................... 19
+2.9.6. APPLICATION OF TIME-SERIES ANALYSIS TO DUST SUPPRESSION ............... 19
+Monitoring of Particulate Matter Concentrations. ..................................... 19
+Evaluating Intervention Effectiveness Time series analysis will, therefore, have
+the authors assess the dust suppression interventions for durability and
+consistency. The major approaches include: ........................................... 20
+VISCOSITY ......................................................................................... 21
+X-FLUORESCENCE METHOD ..................................................................... 21
+COMPOUNDS PRESENT IN MAGNESIUM CHLORIDE SOLUTION ............................... 22
+CHAPTER THREE: METHODOLOGY. ............................................................ 24
+3.1. Concentration of particulate matter present in dust on Bbaale-Galilaya road. 24
+3.2. Properties of magnesium chloride .................................................... 24
+CHAPTER FOUR: RESULTS AND DISCUSSION .................................................. 26
+4.0. RESULTS AND DISCUSSION ................................................................. 26
+4.1. Design ..................................................................................... 31
+CHAPTER 5: CONCLUSION AND RECOMMENDATIONS ........................................ 33
+REFERENCES ...................................................................................... 34
+Appendix A. A proposed paved cross section for Bbaale Galiliya road ............... 36
+Appendix B ................................................... Error! Bookmark not defined.
+
+vii
+
+Appendix C ........................................................................................ 39
+
+LIST OF TABLES
+Table 1 Air quality guidelines .................................................................. 12
+Table 2 Daily Average particulate matter .................................................... 26
+Table 3 Magnesium chloride percentage weights with their environmental impacts .. 29
+Table 4 Post particulate matter dust concentration ....................................... 31
+
+viii
+
+LIST OF FIGURES
+Figure 1a graph of daily average particulate matter against distance .......................................... 26
+Figure 2 A graph of elements present in magnesium chloride with their composition ............... 27
+Figure 3 A graph of the viscosity range of magnesium chloride solution ....................................... 29
+Figure 4 magnesium chloride concentrations with the new particulate matter after application
+.................................................................................................................................................................... 30
+Figure 5. Air Quality Monitor Machine .................................................................................................. 37
+Figure 6. Blatn air quality monitor machine. ...................................................................................... 37
+Figure 7.Hexahydrate magnesium chloride ................................................................................................ 37
+Figure 8. Dust accumulation from a lorry carrying sugarcane on the Kayunga-Bbaale –
+Galilaaya. .................................................................................................................................................. 38
+
+ix
+
+LIST OF ABBREVIATIONS
+PM-Particulate matter
+WHO-World Health Organization
+EPA-Environmental Protection Agency
+OC-Optimum Concentration
+CaO-Calcium Oxide
+FeO-Iron(ii)Oxide
+MgO-Magnesium Oxide
+SiO2-Silicon dioxide
+MgCl2-Magnesium Chloride
+H2O-Water
+Mpa.s-Milli Pascal Per Second
+
+CHAPTER 1: INTRODUCTION
+1.1.

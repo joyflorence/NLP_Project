@@ -1,0 +1,266 @@
+WEBSITE DESIGN
+WEBSITE DESIGN AND
+DEVELOPMENT
+FACILITATORS
+COURSE OUTLINE
+TIKO JOY
+MUTEBI BASHIR
+OSWARD NASASIRA
+AUGUST, 2024
+COURSE OUTLINE
+
+CONTENTS
+INTRODUCTION TO WORDPRESS
+CREATING CONTENT
+MODULE 7
+SETTING UP YOUR ENVIRONMENT
+MODULE 2
+SEO AND ANALYTICS
+MODULE 8
+INSTALLING WORDPRESS
+MODULE 3
+WEBSITE SECURITY
+MODULE 9
+EXPLORING THE WORDPRESS
+DASHBOARD
+MODULE 4
+ADVANCED TOPICS
+MODULE 10
+THEMES AND CUSTOMIZATION
+MODULE 5
+FINAL PROJECT
+MODULE 11
+PLUGINS
+MODULE 6
+Q&A AND TROUBLESHOOTING
+MODULE 12
+MODULE 1
+
+What is WordPress?
+-What’s a CMS
+-Other examples of CMS
+-Overview of WordPress
+Why WordPress?
+-Benefits of using WordPress -Popular websites using WordPress -WordPress community and resources
+MODULE 1: INTRODUCTION TO WORDPRESS
+
+Choosing and Buying a Domain Name
+-What is a domain name
+? -How to choose the right domain name
+-Registering a domain name
+Web Hosting
+-What is web hosting
+? -Types of hosting (Shared, VPS, Dedicated,
+Managed WordPress Hosting)
+-Recommended hosting providers
+Introduction to cPanel
+-What is cPanel
+? -Navigating the cPanel dashboa
+rd -Essential cPanel features for WordPress
+MODULE 2: SETTING UP YOUR ENVIRONMENT
+
+Manual Installation via cPanel
+-Downloading WordPres
+s -Creating a MySQL databa
+se -Uploading files via File Manager
+-Running the installation script
+One-Click Installations
+-Using Softaculous or similar tools -Configuring basic settings
+MODULE 3: INSTALLING WORDPRESS
+
+Overview of the Dashboard
+-Key components and navigation
+Customizing Your Profile
+-User profiles and settings
+General Settings
+-Site title and taglin
+e -Timezone, date format, etc.
+MODULE 4: EXPLORING THE WORDPRESS
+DASHBOARD
+
+Choosing and Installing Themes
+-Free vs. premium themes
+-Installing themes from the repository
+-Uploading and activating a theme
+Customizing Themes
+-Using the WordPress Customize
+r -Theme options and settings -Basic CSS modifications
+MODULE 5: THEMES AND CUSTOMIZATION
+
+Introduction to Plugins
+-What are plugins?
+-Finding and installing plugins
+Essential Plugins
+-SEO plugins (e.g., Yoast SEO) -Security plugins (e.g., Wordfence) -Performance plugins (e.g., W3 Total Cache) -Backup plugins (e.g., UpdraftPlus)
+MODULE 6: PLUGINS
+
+Posts vs. Pages
+-Differences between posts and pages -Creating and editing posts
+-Creating and editing pages
+Using the Block Editor (Gutenberg)
+-Introduction to the block editor
+-Common blocks and their uses
+Categories and Tags
+-Organizing content with categorie
+s -Using tags effectively
+MODULE 7: CREATING CONTENT
+
+Introduction to SEO
+-What is SEO?
+-On-page SEO best practices
+Using SEO Plugins
+-Setting up Yoast SEO or Rank Math
+-Optimizing content with SEO plugins
+Google Search Console
+-Setting up Google Search Consol
+e -Submitting sitemaps
+-Analyzing performance and fixing issues
+Google Analytics
+-Setting up Google Analytics -Key metrics to track -Integrating Google Analytics with WordPres
+MODULE 8: SEO AND ANALYTICS
+
+Importance of Security
+-Common security threats
+-Best practices for securing WordPress
+Using Security Plugins
+-Setting up Wordfence or Sucuri
+-Regular scans and monitoring
+Backup Strategies
+-Importance of regular backups -Setting up automatic backups
+MODULE 9: WEBSITE SECURITY
+
+Custom Post Types and Taxonomies
+-Creating custom post types
+-Creating custom taxonomies
+Introduction to Page Builders
+-Using Elementor or Beaver Builder
+-Designing custom layouts
+E-commerce with WordPress
+-Setting up WooCommerc
+e -Managing products, orders, and payments
+MODULE 10: ADVANCED TOPICS
+
+Building a Complete Website
+-Planning and designing the website
+-Implementing learned skills
+-Testing and launching the website
+MODULE 11: FINAL PROJECT
+
+Common Issues and Fixes
+-Troubleshooting common WordPress problems
+-Where to find help and resources
+Open Q&A Session
+-Addressing specific student questions
+-Providing additional resources and support
+MODULE 12: Q&A AND TROUBLESHOOTING
+
+REQUIREMENTS
+Internet Access
+-Student will need internet access throught the
+course as we shall develop on live servers to enable
+us access all the technologyies like google console,
+google analytics, SEO, and many more.
+Computer
+-A student will require a computer throught the
+course. In order to design responsive website (Good
+on computer, tablets, phones), one needs to develop
+while testing on these gadgets. We are looking at
+learning professional skills, handson skills not writing
+notes.
+Domain name and Hosting.
+-Throught the course, each student needs a domain
+name and hosting servers where our wesbite files
+will be stored and for self learning purposes. We
+shall cover cpanel as shared in the couse outline
+above.
+For those who have them already, thats really good, for those who don’t have,
+we have partnered with a hosting provider who promised to give 50% Of
+f discount on their packages.
+Coupon codes and prices will be shared by HOSTLIKA.COM who is our hosting
+partner.
+
+WHY LEARN WORDPRESS
+Wide Adoption: WordPress powers a significant portion
+of websites globally, providing ample opportunities for
+development and customization.
+User-Friendly Interface: It allows non-technical users to
+manage and update content easily through a
+straightforward dashboard.
+Extensive Theme Options: A vast array of themes cater
+to different design preferences and functionalities.
+Plugin Ecosystem: Rich plugin repository extends
+WordPress's core functionality, enabling custom features
+without coding from scratch.
+SEO-Friendly: Built-in SEO features and plugins like
+Yoast SEO help optimize websites for search engines.
+Responsive Design: Themes and plugins are often
+designed with responsiveness in mind, ensuring
+compatibility across devices.
+Community Support: Active community forums and
+resources provide guidance, troubleshooting, and
+continuous learning opportunities.
+Scalability: Suitable for both small blogs and large-scale
+websites, adaptable to growth and increasing traffic.
+E-commerce Capabilities: WooCommerce integration
+facilitates easy setup and management of online stores.
+Customization Flexibility: Offers extensive
+customization options through themes, plugins, and
+custom code development.
+
+WHY LEARN WORDPRESS
+Customization Flexibility: Offers extensive customization
+options through themes, plugins, and custom code
+development.
+Content Management System (CMS): Efficiently manages
+content, media, and user roles, suitable for content-heavy
+websites.
+Security Features: Regular updates, robust security plugins,
+and best practices ensure a secure website environment.
+Multilingual Support: Ability to create multilingual websites
+with plugins like WPML or Polylang.
+Integration with Other Platforms: Seamless integration with
+various third-party services and platforms for enhanced
+functionality.
+Accessibility Features: Built-in accessibility features and
+plugins support compliance with accessibility standards.
+Performance Optimization: Tools and plugins available to
+optimize website speed and performance.
+Learning Curve: Provides a stepping stone for learning web
+development due to its structured environment an
+d documentation.
+Client Satisfaction: Clients often prefer WordPress for its
+ease of use, versatility, and extensive support options.
+Monetization Opportunities: Ability to create and manage
+websites for clients, potentially generating income.
+Continuous Development: WordPress continues to evolve
+with updates, ensuring compatibility with modern web
+standards and technologies.
+
+PARTNERS
+www.palnode.com
+www.hostlika.com
+
+DOMAIN NAME AND
+HOSTING
+Get 50% our Hosting Starter Plan
+when you use coupon code LEARN
+Only applicable on our starter plan
+Get Hosting at
+60,000 Ugx / $16.17 / 2,074.42 KES
+Get Domain Name at
+50,000 Ugx / $13.48 / 1728.68 KES
+How to buy domain Name and Hosting
+Visit our website www.hostlika.com
+or
+WhatsApp: +254 759 924 068
+Sponsored Page.
+Get domain and hosting from us to keep getting such free lessons
+
+CONTACTS
+OSWARD NASASIRA - +256 701 310 900
+TIKO JOY - +256 784 264 307
+
+FREE COURSE
+LEARN HOW TO DEVELOP RESPONSIVE
+WEBSITES TODAY
+LET’S LEARN TOGETHER

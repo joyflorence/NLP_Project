@@ -1,0 +1,1558 @@
+ 
+OPTIMIZING SWEET POTATO AS A SUBSTRATE FOR INDIGENOUS 
+MICROORGANISMS (IMO) GROWTH  
+ 
+GABRIEL BRIAN OTHIENO  
+J22B26/028 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE FACULTY OF AGRICULTURAL SCIENCES IN 
+PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF A BACHELOR OF 
+AGRICULTURAL SCIENCE AND ENTREPRENEURSHIP  OF UGANDA CHRISTIAN 
+UNIVERSITY 
+April, 2025 
+ 
+ 
+ 
+ 
+
+ 
+ 
+i 
+ 
+ABSTRACT 
+There is a potential of using sweet potato as suitable substrate for trapping, culturing 
+and multiplying IMOs for improved crop and livestock production. However, there are 
+limited studies on optimal concentration of sweet potato substrates for IMO growth and 
+multiplication. This study focused on optimizing sweet potato as a substrate for 
+indigenous microorganisms (IMO) growth. A randomized complete design (RCD) with 
+three replicates was employed to test the five- sweet potato substrate concentration 
+(20%, 40%, 60%, 80%, 100%). Data was collected on shape, color, texture, colony 
+forming units (CFU) and colony size of bacteria and fungi in different concentrations of 
+sweet potato substrates. This study showed that there was a significance differences 
+(P-Value <.001) on CFU and colony sizes. Rice substrate concentration of 100% 
+showed highest (7266667d) CFU of bacteria, while 100% concentration of sweet 
+potato showed the lowest (4333333a). The largest colony size (3.333d) shown in 100% 
+of rice whereas 100% concentration of sweet potato had the smallest size 
+(1.167±0.0000a ) and all concentrations had only Gram positive bacteria. Sweet 
+potato concentration of 60% had the highest number (6677778c) of CFU  while 100% 
+concentration of sweet potato showed the number (4100000a) Largest colony size 
+(10.667c) of fungi was shown in 100% concentration of sweet potato whereas 100% 
+of rice showed the lowest size (4.000a). This implies that the concentration having 
+20% sweet potato substrate supports good bacterial growth and 60% of sweet potato 
+substrate supports fungal growth.  Using sweet potato substrate as a supplement to rice 
+can be used for growth and multiplication Indigenous micro-organisms for improved 
+animal and crop production.  
+
+ 
+ 
+ii 
+ 
+DEDICATION 
+I dedicate this work to my parents Mr. Owor Anthony and Mrs. Peres Owor, whose 
+unwavering support, sacrifice and encouragement have been my foundation. Your 
+influence is deeply appreciated.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+iii 
+ 
+DECLARATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+iv 
+ 
+APPROVAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+v 
+ 
+ACKNOWLEDGEMENT 
+I sincerely thank Almighty God for the grace, wisdom and knowledge to complete this 
+research and my bachelors’ degree.  
+My deepest gratitude goes to my supervisor, Madam Winnie Namutosi, for her 
+invaluable guidance.  
+I also appreciate my lectures, family, and friend for their unwavering support and 
+encouragements given to me. 
+Appreciation goes to Madam Linet, for guidance, providing necessary resources during 
+my study.  
+God bless you abundantly! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+vi 
+ 
+TABLE OF CONTENTS 
+ABSTRACT ...................................................................................................................................................... i 
+DEDICATION ................................................................................................................................................. ii 
+DECLARATION ............................................................................................................................................. iii 
+APPROVAL ................................................................................................................................................... iv 
+ACKNOWLEDGEMENT .................................................................................................................................. v 
+LIST OF TABLES ........................................................................................................................................ viii 
+LIST OF FIGURES ........................................................................................................................................ ix 
+ACRONOMES ................................................................................................................................................. x 
+CHAPTER ONE .............................................................................................................................................. 1 
+1.0 INTRODUCTION ................................................................................................................................. 1 
+1.1 BACKGROUND ................................................................................................................................... 1 
+1.2 PROBLEM STATEMENT ..................................................................................................................... 2 
+1.3 OBJECTIVES ....................................................................................................................................... 3 
+1.4 HYPOTHESIS ...................................................................................................................................... 3 
+1.5 JUSTIFICATION .................................................................................................................................. 4 
+1.6 SIGNIFICANCE .................................................................................................................................... 4 
+1.7 CONCEPTUAL FRAMEWORK ............................................................................................................. 5 
+1.8 SCOPE OF THE STUDY ...................................................................................................................... 7 
+CHAPTER TWO ............................................................................................................................................. 8 
+2.0 LITERATURE REVIEW ........................................................................................................................ 8 
+2.1 Importance of Indigenous microorganisms .................................................................................. 8 
+2.2 Application of Indigenous microorganisms .................................................................................. 9 
+2.3 Substrates used for production of Indigenous microorganisms ............................................. 10 
+2.4 Characterization of Indigenous microorganisms ...................................................................... 10 
+2.5 Optimization of Indigenous microorganisms ............................................................................. 11 
+CHAPTER THREE ........................................................................................................................................ 12 
+3.0 MATERIALS AND METHODS ............................................................................................................ 12 
+3.1 Study location................................................................................................................................. 12 
+3.2 Collection of microbes from the field ........................................................................................ 12 
+3.3 Experimental design ...................................................................................................................... 12 
+
+ 
+ 
+vii 
+ 
+3.4 Preparation of Sweet potato Substrate ..................................................................................... 13 
+3.5 Media preparation ......................................................................................................................... 14 
+CHAPTER FOUR .......................................................................................................................................... 18 
+4.0 RESULTS ........................................................................................................................................... 18 
+CHAPTER FIVE ............................................................................................................................................ 26 
+5.0 DISCUSION ....................................................................................................................................... 26 
+5.1 Morphological characteristics of microbial isolates ................................................................ 26 
+5.2 Gram’s stain ................................................................................................................................... 26 
+5.4 Growth and performance of the organisms .............................................................................. 27 
+5.3 Colony size of bacteria ................................................................................................................. 28 
+5.5 Colony forming unit of fungi ........................................................................................................ 29 
+CHAPTER SIX .............................................................................................................................................. 32 
+CONCLUSION AND RECOMMENDATIONS ............................................................................................. 32 
+6.1 Conclusion ....................................................................................................................................... 32 
+6.2 Recommendations ......................................................................................................................... 33 
+REFERENCE ................................................................................................................................................. 34 
+APPENDICES ............................................................................................................................................... 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+viii 
+ 
+LIST OF TABLES 
+ 
+Table 1. Treatments ................................................................................................................................ 13 
+Table 2. Mean and SD of Colony Forming Unit and Colony Size of bacteria .................................. 22 
+Table 3.Colony Forming Unit and Colony Size for fungi .................................................................... 23 
+ 
+ 
+ 
+
+ 
+ 
+ix 
+ 
+LIST OF FIGURES 
+Figure 1: Conceptual framework ............................................................................................................. 6 
+Figure 2: Frequency of bacteria cultural characteristic ................................................................... 19 
+Figure 3. Frequency of fungi cultural characteristic ......................................................................... 19 
+Figure 4. Streptococcus peneumoniae .................................................................................................. 19 
+Figure 5. Staphylococcus aureus ............................................................................................................ 19 
+Figure 6. Bacillus ...................................................................................................................................... 20 
+Figure 7. Mucor ......................................................................................................................................... 20 
+Figure 8. Penicillium ................................................................................................................................ 20 
+Figure 9. Aspergillus ................................................................................................................................. 20 
+Figure 10. Bacteria colony forming unit ............................................................................................... 23 
+Figure 11. Bacteria colony size .............................................................................................................. 24 
+Figure 12. Fungi colony forming unit .................................................................................................... 24 
+Figure 13. Fungi colony size ................................................................................................................... 25 
+Figure 14. Work plan ................................................................................................................................ 42 
+Figure 15. collected IMO ............................................................................................................................. 43 
+Figure 16 Picking substrates with IMOs ...................................................................................................... 43 
+Figure 17. burrying the substrate ................................................................................................................ 43 
+Figure 18. burrying substrates..................................................................................................................... 43 
+Figure 19. Mixing substrates ....................................................................................................................... 43 
+Figure 20Media preparation ....................................................................................................................... 44 
+Figure 21. Bacteria colonies ........................................................................................................................ 44 
+Figure 22. Plating ......................................................................................................................................... 44 
+Figure 23. Measuring colony size ................................................................................................................ 44 
+Figure 24. Serial dilution .............................................................................................................................. 44 
+Figure 25Gram staining ............................................................................................................................... 44 
+Figure 26. Viewing cells ............................................................................................................................... 44 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+x 
+ 
+ACRONOMES 
+IMO: Indigenous microorganisms 
+E.coli: Escherichia coli 
+CFU: Colony Forming Unit 
+MAAIF: Ministry of Agriculture, Animal Industry and Fisheries 
+UBOS: Uganda Bureau of Statistics 
+RCD: A randomized complete design 
+ 
+
+ 
+ 
+1 
+ 
+CHAPTER ONE 
+1.0 INTRODUCTION 
+1.1 BACKGROUND 
+Indigenous microorganisms (IMO) are naturally occurring microbial communities found 
+in local environments, such as soil, water and plant surfaces. These microorganisms 
+include bacteria, fungi, actinomycetes and yeasts which play very important role in 
+nutrient cycling, organic matter decomposition and plant growth promotion (Smith et 
+al., 2019; Bayu, 2024; Teruo Higa, 1994). In sustainable agriculture, IMO is  also 
+increasingly utilized as bio-fertilizer, bio-control agent and soil conditioner due to 
+their ability to enhance soil fertility, suppress pathogens and improve crop resilience 
+(Abu-Bakar & Ibrahim, 2013; Adal, 2024; Carandang, 2003; Kumar & Gopal, 2015).  
+A key factor in cultivating IMO’s is the choice of substrate which serves a nutrient 
+source for microbial proliferation (Kumar & Gopal, 2015). Common substrates include 
+rice, rice bran, and wheat bran, which provide carbohydrate, proteins and minerals 
+necessary for microbial growth (Kumar & Gopal, 2015; Khan et al., 2019). However, 
+there is a growing need to explore alternative, cost effective and locally available 
+substrates to improve accessibility and efficiency of IMO-based farming practices 
+(Kumar et al., 2015; Smith et al., 2019).  
+In 2019, production of rice on global scale, about 756 million metric tons over about 
+164 million hectare, hence contributing to its third position among agricultural 
+production after sugarcane and maize. In Africa, rice production was predicted to be 
+around 37.9 million metric tons from about 17.2 million hectares (FAO, 2021). 
+
+ 
+ 
+2 
+ 
+Uganda is the is third in rice production and experience deficit in rice production 
+which necessities reliance on imports (FAO, 2021). According to FAO (2023), Uganda 
+spends about $60 million annually on rice imports. Sweet potatoes (Ipomoea batatas) 
+is therefore a promising candidate due to its high carbohydrate content (starch, 
+sucrose, glucose and fructose), rich nutrient profile and widespread availability in 
+tropical and subtropical region (Woolfe, 1992). This makes sweet potatoes a suitable 
+carbohydrate 
+source 
+for 
+trapping, 
+culturing, 
+and 
+multiplying 
+indigenous 
+microorganisms. Traditional substrates like rice and wheat brand have been widely 
+studied yet there is a growing imperative to explore alternative substrates that are 
+both eco-friendly and locally available (Navarro et al., 2020; Zhao et al., 2022).  
+This study focused on optimizing sweet potatoes as a substrate for indigenous 
+microorganisms (IMO) growth.  
+1.2 PROBLEM STATEMENT 
+Fouls smell in pig sty is one of the major problems in animal production ( 
+Ndyomugyenyi et al., 2020). Indigenous Micro-organisms is  increasingly being 
+utilized as bio fertilizer, bio-control agent and soil conditioner due to their ability to 
+enhance soil fertility, suppress pathogens and improve crop resilience (Abu-Bakar & 
+Ibrahim, 2013; Adal, 2024; Carandang, 2003; Kumar & Gopal, 2015). Rice and 
+sweet potato are widely used as substrates in the production of indigenous 
+microorganisms (Kobusinguzi, 2024; Park1 et al., 2010; Kumar & Gopal, 2015); 
+however a comparative study on efficiency of rice and sweet potato as IMO substrate 
+is needed. Research pointed out that rice supports bacterial growth however, they did 
+not look at specific microorganisms found in it (Anyanwu et al., 2015; Kumar & 
+
+ 
+ 
+3 
+ 
+Gopal, 2015), Kobusinguzi (2024), also reported that there is a potential of using 
+sweet potato as suitable substrate for trapping, culturing and multiplying IMOS; which 
+was evidenced by the formation of white mold within 7 days (Kobusinguzi, 2024). 
+However, there are limited studies on optimal concentration of sweet potato 
+substrates for IMO growth and multiplication. Therefore, this study optimized sweet 
+potato as a substrate for indigenous microorganisms (IMO) growth for improved animal 
+and crop production.  
+1.3 OBJECTIVES 
+Main objective 
+To assess the potential of sweet potato as a substrate for cultivating indigenous 
+microorganisms (IMO) 
+Specific objectives 
+1. 
+To isolate and identify the IMO strains grown on media. 
+2. 
+To determine the optimal level of sweet potato substrate for IMO growth. 
+1.4 HYPOTHESIS 
+1. 
+All the bacteria in IMO will be Gram positive 
+2. 
+The composition and diversity of isolated indigenous microorganisms (IMO) will 
+vary with different concentrations of sweet potato and the concentration having 40% 
+and 60% will enhance growth of bacteria and fungi respectively 
+
+ 
+ 
+4 
+ 
+1.5 JUSTIFICATION 
+Bad odor in pigsty is a major constraint to the growth of pig farming in East Africa, 
+leading to community complaints, regulatory penalties and reduction in pig production 
+(Mamawi et al., 2020; Schiffman et al., 2001). Unlike commercial farmers that use 
+the commercial IMO to control smell in the pig sty, smallholder farmers who dominate 
+this sector in Uganda cannot afford a sustainable solution to manage smell and this is 
+evident by most farmers not having shelter for their pig and do tethering (UBOS, 
+2024). This study therefore, seeks to bridge this gap by developing eco-friendly 
+locally adaptable IMO using sweet potato, an underutilized yet abandoned crop in 
+some  regions of the country (Kobusinguzi, 2024).  
+1.6 SIGNIFICANCE 
+This study holds critical importance for Uganda’s rapidly growing big farming sector, 
+which contribute to livelihoods but faces persistent odor related challenges, due to 
+poor waste management. It will provide benefit, smallholder farmers who dominate 
+Uganda’s pig industry, most especially  those that are from regions where sweet 
+potato production is high (Kobusinguzi, 2024) and  are struggling with expensive 
+commercial IMO. This study will greatly contribute to Uganda’s vision of 2040, 
+delivering  employment to the youth and women, reducing future greenhouse gas 
+emission (Mugyenyi et al., 2020) as well as contributing to developing sustainable 
+agricultural practices that addresses the pressing need for effective waste 
+management solution in Uganda’s pig farming sector to reduce emission of foul 
+smell(Arum & Wahyudi, 2022; Manzoni et al., 2023).  
+ 
+
+ 
+ 
+5 
+ 
+1.7 CONCEPTUAL FRAMEWORK 
+Independent variable 
+The concentration of sweet potato substrate (carbon or nutrient source) tested at 
+varying levels (20%,40%,60,80% and 100%), to determine the optimal level for IMO 
+growth. Sweet potato is rich in carbohydrate rich, hence have influence on microbial 
+metabolic activity. Microbial growth increase with increase in nutrient availability but 
+but decrease when nutrient availability is limited and when subjected to osmotic 
+stress  
+Dependent variable 
+Colony forming units, colony sizes and morphological traits like color, shape, and 
+appearance which collectively measure microbial growth responses to substrate 
+concentration. CFU counts, help in quantification of the viable microbial population 
+serving as a direct indicator of growth efficiency across the different sweet potato 
+levels. Colonic size reflect the metabolic activity and health of the microorganisms 
+with larger colonies suggesting more favorable growth condition. Morphological traits 
+such as shape, color and texture provide insight into species diversity and potential 
+adaptation to varying substrate condition. Together, these variables offer a 
+comprehensive assessment of how sweet potato concentration influences IMO 
+development.  
+Environmental conditions 
+To ensure reliability of the results, key environmental conditions were standardized 
+throughout the experiment. Temp pressure is maintained between 300C degrees an  
+optimal range for mesophillic microorganisms commonly found in soil. Humidity is 
+
+ 
+ 
+6 
+ 
+controlled at 60 to 70% Relative humidity to prevent, media dehydration, or excessive 
+moisture, which could lead to contamination (Anyanwu, 2015; Seema et al., 2019). 
+Aerobic conditions are preserved through the proper ventilation as most IMOS require 
+oxygen for growth. Additionally, the media composition were kept constant and 
+through controlling these variables, the study ensures that observed differences in 
+microbial 
+growth 
+are 
+solely 
+attributable 
+to 
+the 
+changes 
+in 
+substrate 
+concentration(Anyanwu, 2015).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent variable 
+Sweet potato substrate 
+concentration (sweet 
+potato concentration of 
+20%, 40%, 60%, 80% and 
+100% and rice 
+Environmental conditions 
+Temperature, Humidity, 
+ventilation, nutrient availability 
+ 
+Dependent variable  
+Bacterial and fungal growth 
+Colony forming unit, colony 
+size, morphological traits 
+Figure 1: Conceptual framework  
+
+ 
+ 
+7 
+ 
+1.8 SCOPE OF THE STUDY 
+The scope of this investigation encompasses the isolation of microbial strain from 
+sweet potato at different concentrations and the mapping of these strains’ growth 
+performance under controlled laboratory settings. This research focuses explicitly on 
+the use of local resourced sweet potato, addressing current limitations and challenges 
+in conventional organic farming practices. The study will contribute to the agricultural 
+resources available to smallholder farmers, particularly in Uganda, where reliance on 
+expensive commercial IMOs can hinder productivity. Additionally, this research aligns 
+with Uganda’s vision 2040 for sustainable agriculture, showcasing how harnessing 
+locally available resources can lead to environmental and economic benefit, 
+ultimately improving public health and farmer welfare. 
+
+ 
+ 
+8 
+ 
+CHAPTER TWO 
+2.0 LITERATURE REVIEW 
+2.1 Importance of Indigenous microorganisms 
+Indigenous microorganisms play  crucial roles in sustainable agriculture, particularly 
+enhancing organic waste decomposition and soil health (Abu-Bakar et al., 2013). Their 
+application in composting systems demonstrate significant benefits for nutrient 
+recycling within the farm for as seen in chicken litter system where the waste is 
+naturally converted in to fertilizer and microbial ecology as evidence by studies from 
+their production and utilization (Carandang, 2003) 
+IMO enhance microbial diversity by introduce beneficial fungi bacteria and 
+actinomycetes to agricultural system which are essential for broking down complex 
+organic matter. These microorganisms dominate different composting phases with 
+mesophilic bacteria initiating decomposition followed by thermophilic bacteria and 
+finally actinomycetes stabilizing manure compost(Abu-Bakar et al., 2013). The 
+thermophilic phase during composting, supported by IMO activity, helps in suppression 
+of pathogens through heat generation. Addition of IMOs to composting mixture 
+accelerates organic matter decomposition for example according to Abu-Backer et. 
+al,( 2013),  treatment IMOs had higher microbial counts, particularly actinomycetes, 
+which indicate compost maturity (Abu-Bakar et al., 2013).  
+According to Abu-Bakar et al.,(2013)IMO contribute to soil ecology by increasing 
+microbial population and maintains the balance during composting ensuring sequential 
+dominance of mesophillic bacteria , thermophiles and actinomycetes, hence enhance  
+
+ 
+ 
+9 
+ 
+nutrient availability and organic matter turnover , indirectly promoting plant growth 
+(Abu-Bakar et al., 2013). The locally sourced microbes, lacto bacilli and lactic acid 
+bacteria have been reorganized for their potential to enhance soil fertility, improve 
+plant and animal health and reduce dependence on synthetic inputs. The bacteria 
+lacto bacilli plays a great role in arresting foul odors, associated with anaerobic 
+decomposition whereas lactic acid bacteria thrive and feed on ammonia released 
+during decomposition hence it is vital in reducing foul odor in pig sties (Carandang, 
+2003). IMO based composting reduces the need for chemical additives, aligning with 
+eco-friendly practices which is vital in sustainability.  Also the production of IMOs 
+using low cost materials like cooked  rice, cooked sweet potatoes further supports 
+accessible, small-scale agriculture(Abu-Bakar et al., 2013; Carandang, 2003). The 
+indigenous microorganisms are also important in harnessing natural resources 
+2.2 Application of Indigenous microorganisms 
+IMO is vital in waste management through efficient composting where it enables 
+recycling of agricultural residues like mixture of farm waste,  rice straw into nutrient-
+rich compost, reducing reliance on synthetic fertilizers important in composting 
+organic matter (Serafin et al., 2015; Le Thi Xa et al., 2020).  
+It is vital in soil structure improvement through soil aggregation, water retention  and 
+aeration which creates favorable condition for earthworms and symbiotic 
+microbes(Kumar & D.V.R., 2015) 
+
+ 
+ 
+10 
+ 
+Disease suppression through competition with harmful microbes for resources and 
+production of microbial compounds that inhibit the growth of pathogens like 
+Salmonella, Shigella, E. coli and Caliform 
+IMOs are also applied in eco-friendly recycling of wastes  through the break down of 
+complex organic matter , hence close nutrient loops, supporting circular econmy 
+practices (Serafin et al, 2015)  
+2.3 Substrates used for production of Indigenous microorganisms 
+Different substrates have been used to grow IMOs for crop and animal production. 
+Rice , maize and wheat  have been commonly used. According to FAO (2023), Uganda 
+spends about $60 million annually on rice imports. 
+Rice’s starch undergoes  complete gelatinization, at 650C to 75 0C, yielding more 
+readily fermentable carbohydrates than sweet potatoes which contain resistant starch 
+structure (Xu et al., 2023).  
+Rice also has neutral pH and lacks natural antimicrobial compound unlike Sweet 
+Potato, which contains growth-inhibiting entities like phenolic compounds that 
+negatively affect microbial growth(Alam et al., 2016).  
+2.4 Characterization of Indigenous microorganisms 
+Isolation and characterization of microorganisms are important steps in microbes 
+identification and usage. Basic isolation procedures for indigenous microorganism have 
+been suggested by(Anyanwu, 2015). While isolating IMOs, key parameters like colony 
+section and purification,  color, shape , size, texture, elevation, appearance and 
+optical properties are important for bacteria, whereas for fungi, cultural 
+
+ 
+ 
+11 
+ 
+characteristics like  color, colony shape, size, texture and elevation are important 
+(Seema Yadav et al., 2019)  
+2.5 Optimization of Indigenous microorganisms 
+Sweet potato substrate have dual benefits, addressing food, security challenges while 
+simultaneously supporting the production of indigenous microorganisms that can 
+contribute to sustainable farming practices. Many smallholder famers in the region 
+where conventional carbohydrate sources (rice) are less accessible may find so potato 
+particularly valuable as they work to promote  sustainable systems that reduce 
+resilience and synthetic chemicals thereby commercial environmental conservation 
+hence incorporating sweet potatoes into agricultural practices for production of IMOs 
+provides a promising avenue for enhancing food security and sustainability. The 
+effectiveness  of sweet potato as carbon source for trapping and culturing indigenous 
+microorganisms highlights their potential to become a staple in eco-friendly farming 
+system (Kobusinguzi, 2024). There is no literature about the effect of different 
+concentrations in the growth of IMOs necessitating the relevance of optimization of 
+sweet potato 
+ 
+ 
+ 
+ 
+
+ 
+ 
+12 
+ 
+CHAPTER THREE 
+3.0 MATERIALS AND METHODS 
+3.1 Study location 
+The research was conducted at Uganda Christian University, Mukono. The area is 
+located in Uganda’s central region, about 27km, East of Kampala. Its elevation range 
+from 1158m to 1219m above sea level. Mukono receives two wet seasons with an 
+annual rainfall ranging between 1100mm and 1400mm. the temperature  varies 
+between 21 and 290C with coordinates 00020’N 320 45’E (Nakanwagi, Mildred Julian, 
+Godfrey Sseremba & Kizito, 2017). The experiment was conducted both in the field 
+and laboratory between January, 2025 to March 2025. 
+Materials 
+Sweet potatoes, and rice, Petri dishes, inoculation loops, growth media(tryptone 
+glucose yeast extract agar, potato dextrose Agar), fluorescent microscope, laminar 
+flow hood, an oven, Stains( crystal violet, iodine solution) Acetone, neutral red 
+solution (Bartholomew et al., 1952; University of AL-Mustansiriyah, 2022 )  
+3.2 Collection of microbes from the field 
+Substrates that were purchased from Mukono Market were used in this study.  
+3.3 Experimental design  
+A randomized complete design (RCD) with three replicates was employed. Five sweet 
+potato substrate concentration mixed with rice; (20% of sweet potato and 80% rice), 
+(40% of sweet potato and 60% of rice), (60% of sweet potato and 40% of rice), (80% of 
+sweet potato and 20% of rice) (100% of sweet potato), and (100% of rice) were 
+arranged with each having three petri dishes per replicate. 
+
+ 
+ 
+13 
+ 
+TREATMENTS 
+T1: 100% rice 
+T2: 100% of sweet potato 
+T3: 20% of sweet potato and 80% rice 
+T4: 40% of sweet potato and 60% rice 
+T5: 60% of sweet potato and 40% rice 
+T6: 80% of sweet potato and 20% rice 
+Table 1. Treatments 
+Replicate 1 
+T1 
+T2 
+T3 
+T4 
+T5 
+T6 
+  
+  
+Replicate2 
+T3 
+T2 
+T6 
+T1 
+T4 
+T5 
+  
+  
+Rplicate3  
+T5 
+T3 
+T4 
+T1 
+T6 
+T2 
+ 
+3.4 Preparation of Sweet potato Substrate  
+The  substrate concentration was prepared by boiling the rice and sweet potato 
+separately, mashed (sweet potato) , allowed to cool to room temperature (Park1 et 
+al., 2010) and then mixed based on the percentages  like 100% rice(control), 20% , 
+40%, 60%,80% and 100% sweet potatoes by mixing rice and sweet potatoes in the ratio 
+of 800g: 200g, 600g:400g, 400:600g, 200g:800g and 1000g of sweet  potatoes sweets 
+
+ 
+ 
+14 
+ 
+Equal quantity (1kg) of the mixed substrates were put in plastic containers, wrapped 
+in a paper, secured with a string and buried at a depth of 10cm. The boxes were 
+covered with leaf litter and little soil to mimic the natural environmental condition, 
+protected from rain using a polythene paper and left undisturbed for 7 days (Anyanwu 
+et al., 2015; Kumar et al., 2015; Park1 et al., 2010). Physical changes were 
+recorded (color, texture and odor) as qualitative indicator of microbial growth and 
+microbial growth quantified by preparing serial dilution of substrate samples 
+3.5 Media preparation 
+For bacteria 17.5g of Tryptone Glucose Yeast Agar was put in a conical flask and 
+suspended in 1 litre of distilled water and dissolved by boiling and sterilized by 
+autoclaving at 1210C for 15 minutes and the media allowed to cool to a 400C 
+temperature and poured in the petri dishes and allowed to gel.  For Fungi, 39g of 
+Potato Dextrose Agar was used and the procedure was repeated as in Tryptone 
+Glucose Yeast Extract Agar.  
+3.6.1 For Objective 1. To isolate and identify the IMO strains present in the 
+different concentrations of sweet potatoes. 
+3.6.1.1 Serial dilution 
+Microbial growth was quantified through the assessment of colony-forming units 
+(CFUs) across various treatment conditions. Serial dilation and plating o were 
+employed for accurate measurement, while other morphological analyses were used in 
+the study of the isolated microorganisms. Stock solution was made by weighing one 
+gram of fermented substrate and transferred into a sterile test tube containing 9ml of 
+
+ 
+ 
+15 
+ 
+distilled water.  The tube was shaken thoroughly to form a uniform solution of 1:10 
+(substrate: distilled water). Ten folds serial dilution was done using a pipette by 
+transferring 1ml of the stock solution to a test tube containing 9ml of distilled water. 
+1mL of this dilution was added to the next tube (10-2) and mixed thoroughly and this 
+procedure was repeated for the next tubes (10-3, 10-4, 10-5). Pipettes were changed for 
+each dilution to avoid cross contamination (Reynolds, 2005).  
+3.6.1.2 Plating 
+1 mL of the diluted solution was planted on the petri dishes containing the prepared 
+media that is Tryptone Glucose Yeast Extract Agar for bacteria and Potato Dextrose 
+Agar for and transferred to an oven where incubation is done at 300C for 24 hours and 
+7 days for bacteria and fungi respectively. The colony forming unites are then 
+counted, color, and texture are recorded (Meenakshi, 2024). 
+3.6.1.3 Morphological analysis 
+Observation of bacterial colonies and fungi colonies, taking note of the color, shape 
+measuring the size, and counting the number of colonies 
+3.6.1.4 Microscopic examination 
+Gram Staining 
+Procedure 
+A colony was picked using inoculation loop and spread/ smeared on the glass slide and 
+fixed to the slide by gently passing it over the heat source   
+
+ 
+ 
+16 
+ 
+The heat fixed smear of cells were flooded with crystal violent (primary stain) for 1 
+minute (Nishant, 2023; O’Toole, 2016; Paray et al., 2023; Bartholomew et al., 
+1950). The slide was washed in a gentle and indirect stream of tap water for 2 
+seconds. The slide was then flooded with iodine solution (a mordant) and washed 
+after I minute. Washing of the slide with tap water was done for 2 seconds.  A 
+decolorizer (acetone) was added and immediately washed to avoid over 
+decolorization. Safranin counterstain, was then added and left to stay for 1 minute 
+before washing. The slide is then washed until no color appears in the effluent and 
+then left to dry.  
+The cells on the slides were observed under oil immersion and ×40 objective was 
+initially used in the examination to evaluate the smear distribution, and then ×100 oil 
+immersion objective was used.  
+This technique was used to identify bacteria based on the Gram-reactions where Gram 
+positive bacteria appear blue or purple whereas gram negative bacteria appear pink 
+or red due to the retention of the crystal violent-iodine complex (Paray et al., 2023) 
+Data collection   
+Data was collected on shape, color, for bacteria and fungi in texture, different 
+concentrations of sweet potato substrates 
+3.6.1.5 Data analysis  
+Data was entered in Microsoft excel and imported to GenStat 12 ed, for analysis, 
+where analysis of variance (One way ANOVA) was done, and the Least Significant 
+Difference (LSD) was used to separate means at 5% significance level 
+
+ 
+ 
+17 
+ 
+3.6.2 For objective two: To determine the optimal level  of sweet potato substrate 
+for indigenous microorganisms growth  
+3.6.2.1 Colony forming unit 
+Procedure for colony forming unit count 
+It is a technique used to establish the number of viable microorganisms in a sample by 
+culturing them on an appropriate medium. After incubation, the plates with 30-300 
+colonies were selected as this range provided reliable results and the number of 
+colonies on each plate was counted. Calculation of the colony forming units per gram 
+(CFU/g) of the sample using the formula below was done.  
+ 
+CFU for each dilution and replicate was recorded and the mean CFU value for each 
+sample was used for analysis 
+Data collection  
+Data was collected on shape, color, elevation, appearance, colony size for bacteria 
+and fungi in color, texture, and size of colony in different treatments. 
+3.6.2.3  Data analysis 
+Data was entered in Microsoft excel and imported to GenStat 12 ed, for analysis, 
+where analysis of variance (One way ANOVA ) was done, and the Least Significant 
+Difference (LSD) was used to separate means at 5% significance level. 
+ 
+
+ 
+ 
+18 
+ 
+CHAPTER FOUR 
+4.0 RESULTS 
+4.1 For Objective 1: To isolate and identify the IMO strains present in the different 
+concentrations of sweet potatoes. 
+The result showed that IMO from all the concentrations had bacteria and fungi. All 
+the concentrations had only gram positive bacteria (Staphylococcus aureus, 
+Streptococcus peneumoniae, streptococcus pyogenes and bacillus) 
+Characterisitcs 
+Streptococcus peneumoniae; grayish to whitish mycelia, small translucent , mucoid 
+colnies, diplococci 
+Staphylococcus aureus; smooth, creamy, circular colonies with a glossary surface, 
+with rapid robust growth. Cocci are in grape-like clusters. Streptococcus pyogenes; 
+small translucent , slitely glossy colonies, whitish-gray with moderate growth. Cocci 
+are in chains. Bacillus; rod shaped, large irregular, spreading  colonies with a dry 
+wrinkled texture, whitish to cream and rapid growth (Anyanwu, 2015). 
+The fungi included Rhizopus, Penicillium, aspergilus and mucor. Rhizopus; rapily 
+growing, fluffy, cotton-like colonies. Initially white,turning gray-black as sporangia 
+mature, aseptate hyphae with rhizoids. Penicillium; powdwery texture with radial 
+growth, white colonies, septate hyphae, chains of round,spores(Anyanwu, 2015) 
+
+ 
+ 
+19 
+ 
+ 
+Figure 2: Frequency of bacteria cultural characteristic 
+ 
+Figure 3. Frequency of fungi cultural characteristic 
+ 
+ 
+ 
+   
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+circullar
+Cream
+Off- White
+smooth
+Flat
+Convex
+Shinny
+Dull
+Opaque
+Translucent
+Postive
+SHAPE
+COLOR
+TEXTURE
+ELEVATION
+APPEARANCE
+OPTICAL
+PROPERTY
+GRAM'S
+RESULT
+0
+2
+4
+6
+8
+10
+12
+Green-white,
+cottony
+White,
+cottony
+Cream-
+yellow,
+cottony
+powdery
+fluffy cottony
+cottony
+color
+texture
+Figure 5. Staphylococcus aureus 
+Figure 4. Streptococcus peneumoniae 
+
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+ 
+ 
+ 
+Figure 6. streptococcus pyogenes 
+Figure 7. Mucor 
+Figure 8. Penicillium 
+Figure 9. Aspergillus 
+Figure 6. Bacillus 
+
+ 
+ 
+21 
+ 
+4.2 For objective two: To determine the optimal level of sweet potato substrate for 
+indigenous microorganism growth  
+4.2.1 The Mean Colony Forming Unit and Colony Size for fungi  
+The highest fungal colony forming unit was observed at 60% sweet potato 
+(6677778±134715), which was even higher than the 100% rice (4966667±404145). This 
+supports the hypothesis that sweet potato can favor fungal growth at different 
+concentrations. Fungal colony forming units peaks at 60% sweet potato and declines at 
+higher concentrations (80% and 100%), suggesting an optimal range for fungal growth 
+Colony size varied across treatments, with the largest colonies observed in 100% 
+sweet potato (11.889±0.1925), though CFU was lower at this concentration. This 
+implies that while fewer fungi may grow at 100% sweet potato, those that do thrive 
+may growth larger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+22 
+ 
+Table 2. Mean and SD of Colony Forming Unit and Colony Size of bacteria 
+Substrate  
+Concentration(%) 
+CFU/g (Mean ± SD) 
+Colony Size (Mean ± SD) 
+ 
+ 
+ 
+Rice 100 
+ 7266667±351188d 
+3.333±0.0.1667d 
+Sweet potato 100 
+4333333±288675a 
+1.167±0.0000a 
+Sweet potato 20 
+6733333±115470cd 
+2.833±0.1667cd 
+Sweet potato 40 
+5666667±404145b 
+2.056±0.1925b 
+Sweet potato 60 
+6133333±305505bc 
+2.556±0.3849bc 
+Sweet potato 80 
+4533333±404145a 
+1.333±0.0000a 
+P-Value 
+<.001 
+<.001 
+LSD 
+581016.7 
+0.3352 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+23 
+ 
+ Table 3.Colony Forming Unit and Colony Size for fungi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10. Bacteria colony forming unit 
+y = 309524x2 - 2E+06x + 9E+06 
+R² = 0.5359 
+0
+1000000
+2000000
+3000000
+4000000
+5000000
+6000000
+7000000
+8000000
+Sweet
+potatoes
+20
+Sweet
+potatoes
+40
+Sweet
+potatoes
+60
+Sweet
+potatoes
+80
+Sweet
+potatoes
+100
+Rice 100
+Substrate Concentration (%) CFU (Mean ± SD) 
+Colony size (Mean ± SD) 
+Rice 100 
+4966667±404145ab 
+4.056±0.8221a 
+Sweet potatoes 100 
+4100000±200000a 
+11.889±0.1925d 
+Sweet potato 20 
+5022222±234126ab 
+5.889±0.2546b 
+Sweet potato 40 
+5800000±529150bc 
+6.611±0.4194b 
+Sweet potato 60 
+6677778±134715c 
+6.889±0.2546bc 
+Sweet potatoes 80 
+P-Value 
+LSD 
+4500000±264575a 
+<.001  
+574762.7 
+8.167±0.4410c 
+<.001  
+ 0.800 
+
+ 
+ 
+24 
+ 
+ 
+Figure 11. Bacteria colony size 
+ 
+Figure 12. Fungi colony forming unit 
+y = 0.2152x2 - 1.5461x + 4.3605 
+R² = 0.4813 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Sweet
+potatoes
+20
+Sweet
+potatoes
+40
+Sweet
+potatoes
+60
+Sweet
+potatoes
+80
+Sweet
+potatoes
+100
+Rice 100
+y = -83333x2 + 367460x + 5E+06 
+R² = 0.2484 
+0
+1000000
+2000000
+3000000
+4000000
+5000000
+6000000
+7000000
+8000000
+Sweet
+potatoes
+20
+Sweet
+potatoes
+40
+Sweet
+potatoes
+60
+Sweet
+potatoes
+80
+Sweet
+potatoes
+100
+Rice 100
+
+ 
+ 
+25 
+ 
+ 
+Figure 13. Fungi colony size 
+ 
+ 
+y = -0.5178x2 + 3.8519x + 1.6223 
+R² = 0.3122 
+0
+2
+4
+6
+8
+10
+12
+14
+Sweet
+potatoes
+20
+Sweet
+potatoes
+40
+Sweet
+potatoes
+60
+Sweet
+potatoes
+80
+Sweet
+potatoes
+100
+Rice 100
+
+ 
+ 
+26 
+ 
+CHAPTER FIVE 
+5.0 DISCUSION 
+In my study, the media (TGYEA AND PDA) have been noted to  efficient in supporting 
+bacteria and fungi growth repectively and this has been reported by Anyanwu 
+(Anyanwu et al., 2015). Bacteria was cultured in TGYEA and had the highest 
+population ranging from   4333333 to 7266667  as compared to fungi (4100000 to 
+6677778), and the majority of the bacteria were colored cream (Anyanwu et al., 
+2015). Similar result was reported by Anyanwu et al.,(2015) using the same media for 
+identifying colony characteristics of bacteria and fungi (Anyanwu et al., 2015). Also 
+Nguyen et al (2015) had the same results about the CFUs of bacteria being higher  
+than fungi(Nguyen et al., 2019) 
+5.1 Morphological characteristics of microbial isolates 
+Microorganisms from the 6 different concentrations were characterized (Table 2), and 
+bacteria was the dominate across all treatment with the population ranging from 
+4333333 to 7266667 and the highest percentage were colored cream and opaque 
+except at 60% sweet potato concentration where the colony were translucent. 
+Similarly Anyanwu et al., (2019) found out that bacteria was the dominate across all 
+treatment their study  
+5.2 Gram’s stain 
+Gram staining performed on bacterial colonies from the different substrate 
+concentrations revealed the predominance of Gram–positive bacteria across all 
+treatments. Gram-positive microorganisms are essential for suppressing harmful 
+
+ 
+ 
+27 
+ 
+pathogens like E. coli and Salmonella in organic waste , demonstrating their crucial 
+role in mitigation of odors during the decomposition process. This beneficial 
+characteristic underlines the potential of utilizing indigenous microbes  from sweet 
+potato and rice substrates in enhancing sustainable agricultural practices and 
+improving soil health(Seema  et al., 2019; Yadav et al., 2020). The result also shows 
+that all the different concentrations of substrate contain only gram positive bacteria 
+(Figure4,5,6 and 7). These are beneficial microorganisms that suppress the 
+availability and growth of harmful microorganisms like E.coli and salmonella in 
+organic waste hence they play a vital role in mitigation of bad smell from 
+decomposing organic waste, therefore contributing to sustainable  and eco-friendly 
+practice in agriculture by lowering emissions that are harmful to man and livestock as 
+well as causing air pollution. Similarly, Seema et al (2019)  and Anyanwu et al 20215 
+reported in their study that most of the bacteria were gram positive, implying that 
+most of the IMOs that are  useful in decomposition of waste are gram positive (Seema 
+et al, 2019; Anyanwu et al, 2015;)  
+5.4 Growth and performance of the organisms 
+The result (Table 2 and 3) showed that there was a significant difference between 
+100% concentration of rice and sweet potato 100%. This could have been due to high 
+water activity in rice compared to the low water activity in sweet potato due to high 
+sugar content. Despite rice, having a lower initial water activity of 0.52 in its dry 
+state compared to sweet potato with. 0.92. It supports significantly greater bacterial 
+growth when hydrated because rice absorbs three to four times its weight in water to 
+achieve an ideal environment for bacterial growth due to the water activity of 0 .97 
+
+ 
+ 
+28 
+ 
+to 0 .99 (Adam and Kott, 1989), while  sweet potato’s higher soluble sugar content 4-
+6% lower the water activity  to around  0.92-0.95 ,that creates osmotic stress for 
+bacteria hence lowering bacterial activity. 
+Most bacteria require high water activity greater than 0.91 for growth, with the 
+optimal level around 0.97-0.99hence the reason for the high colony size in 100% rice 
+concentration (Colles et al., 2010).  
+This is attributed to the fact that the granular structure of rice grains, provide  porous 
+architecture that is more suited for biofilm formation, compared to sweet potatoes, 
+dense flesh that limit bacterial colonization, all of which collectively explain why 
+numerous fermentation studies consistently show rice’s best substrate yielding higher 
+microbial  count than sweet potato(Alam et al., 2016).  
+5.3 Colony size of bacteria 
+Colony sizes of the bacteria ranged from 1.167 to 3.333 in size, 4 bacteria colonies 
+had flat elevation whereas 2 had convex elevation, a similar report was provided by 
+Anyanwu et al., 2015 who reported that flat elevation was higher in their study. This 
+implies that in IMO, bacteria that have flat elevation always dominate. 
+The larger colony sizes observed in a rice substrate compared to sweet potato can be 
+attributed to rice’s superior nutrient profile and physical structure as it complete 
+starch gentalization during cooking, creating an ideal matrix for bacterial proliferation 
+whereas sweet potatoes’ fiber content and complex carbohydrate structure restrict 
+colonial expansion. Neutral pH(6-7.0) favored robust cellular division against sweet 
+potatoes, with acidic environment (pH 5.2-5.9) that slows growth rate. The high sugar 
+
+ 
+ 
+29 
+ 
+concentrations in sweet potato interfere with starch swelling, affecting bacterial 
+activity/ activity by limiting water availability  (Aina et al., 2009).  
+Further rice lack of antimicrobial phenolics that would do otherwise restrict cell to 
+cell communication and unlike in sweet potato which ultimately resulted in the 
+characteristics size difference observed between the 100% concentration of  rice and 
+100% concentration sweet potato. This implies that the pH and water activity greatly 
+influence growth on addition to nutrient availability and water activity 
+5.5 Colony forming unit of fungi 
+The Fungal Colony forming unit that reveals significant differences in growth 
+depending on substrate concentration. The highest colony forming unit occurred in 
+60% sweet potato substrate, suggesting that moderate concentration provide optimal 
+condition for proliferation.  This implies that a blend between sweet potato and rice 
+provides a favorable environment for fungal growth through balanced nutrients. A 
+study by Maniglia et al.,(2021) confirms that blend substrate (40-60%) enhance fungal 
+growth by providing balanced nutrient while mitigating inhibitory effect of phenolic 
+compounds through dilution effects (Koranda et al., 2014; Maniglia et al., 2021). 
+This is likely due to a balanced nutrient profile where a sweet potato’s carbohydrate 
+and micronutrients support robust growth while dilation reduces the inhibitory effect 
+of antifungal compound like chlorogenic acid (Di Lonardo et al., 2020).  In contrast, 
+100% sweet potato showed lowest CFU  which aligns with finding by Cardoso et al. 
+(2013), likely because concentrated sugar lower water activity, creating osmotic 
+stress which reduce fungal proliferation(Cardoso et al., 2013; Ascough et al., 2010). 
+The higher level of level of natural antifungal compounds further restricted growth, 
+
+ 
+ 
+30 
+ 
+hence contributing to decrease in CFU (Pangesty et al., 2023). The 100% rice 
+substrate supported intermediate fungal count, a similar result was reported by Tian 
+et al., (2023) (Tian et al., 2023) 
+The concentration of 60% sweet potato, provided an optimal level since it created a 
+favorable environment for fungal colonization and growth, promoting a sustainable 
+proliferation rate as fungi are better able to outcompete bacteria (Murugavelh & 
+Mohanty, 2012). This result therefore provides a justification that in order to have a 
+desirable microorganism, fungi proper balancing of carbon and nitrogen ratio is vital 
+since they significantly influence microbial community dynamics (Dijkstra et al., 
+2015)  
+5.6 Colony size of fungi 
+The size of the fungal colonies exhibited an inverse relationship with the CFU density  
+reflecting nutrient competition, resulting in stress adaptation. The result shows that 
+the in 100% Sweet potato had the  largest colonies where low CFU density reduced 
+competition, allowing Fungi to allocate resources to hyphal expansion rather than 
+survival under stress conditions (Whiteside et al., 2019). These substrate stress 
+induced properties like osmotic pressure from sugar may have trigger fungi to 
+elongate hyphae for nutrient scavenging(McCormack & Iversen, 2019). 
+Conversely 100 % rice produced the smallest colonies, despite higher CFU,  indicating  
+intense competition for starch derived nutrients, which prioritizes rapid sporulation 
+over hypha  growth(Laarhoven et al., 2016). Meaning that though s smaller number 
+of fungi grow in 100% concentration of sweet potato, they do not face completion as 
+with 100% concentration hence the larger colony sizes 
+
+ 
+ 
+31 
+ 
+Intermediate sweet potato concentration (40 to 80%), yielded moderate  colony 
+sizes(7.667-8.33mm), showing  a trade-off between resource availability and 
+inhibitory effect on growth(Bai et al., 2023). The finding in this research therefore 
+extends to understanding fungal biologically meaningful responses to their 
+environment as shown by the statistical difference of the observed trend (P-
+Value<.001), indicating adaptive effort by fungi towards optimal resource utilization 
+which is determined by the substrate concentration in this case. 
+This research did not test a broader range of sweet potato concentrations, 10%, 
+30%,50%, 70% and 80% to identify the threshold at which growth rates significantly 
+increase or decrease.  
+ 
+ 
+
+ 
+ 
+32 
+ 
+CHAPTER SIX 
+CONCLUSION AND RECOMMENDATIONS 
+6.1 Conclusion  
+For Objective one. To isolate and identify the IMO strains present in the different 
+concentrations of sweet potatoes. I hypothesized that the strains of IMO will be 
+Gram positive and the result revealed that all were gram positive therefore, I accept 
+the hypothesis 
+For objective two: To determine the optimal level  of sweet potato substrate for 
+indigenous microorganisms growth, I hypothesized that the concentration having 40% 
+and 60% sweet potato will enhance growth of bacteria and fungi respectively. 
+The results revealed that 20% was the optimal concentration of sweet potato for 
+bacteria growth. Therefore I fail to accept the first segment of the hypothesis that 
+suggested that 40% concentration of sweet potato was optimal for bacteria of growth 
+and accept the second segment that 60% concentration of sweet potato will be the 
+optimal concentration.  
+I hypothesized that the composition and diversity of isolated indigenous 
+microorganisms (IMO) will vary with different concentrations of sweet potato. The 
+result showed that composition and diversity of the microorganisms, vary with 
+different concentrations of sweet potatoes. I therefore, accept the hypothesis. 
+
+ 
+ 
+33 
+ 
+6.2 Recommendations  
+The study provides valuable insight into the potential application of these findings for 
+sustainable agriculture practices, particularly in the context of odor management in 
+pig farming  
+Based on the results for this study, in order to enhance the understanding and 
+practical application of sweet potato substrate optimization for cultivating indigenous 
+microorganisms, further research should be conducted to validate and refine the 
+findings regarding optimal sweet potato concentration for both bacteria and fungi. 
+This could involve testing a broader range of concentrations like 10%, 30%,50%, 70% 
+and 80% to identify the threshold at which growth rates significantly increase or 
+decrease. A comprehensive analysis of microbial population dynamics to understand 
+how varying concentrations might influence not only growth but also community 
+diversity
+
+ 
+ 
+34 
+ 
+REFERENCE 
+(UBOS), U. B. of S. (2024). National Livestock Census 2021 Main Report. 
+A. Keliikuli, K. Smith, Y. Li,  and C. N. L. (2019). Natural Farming: The development 
+of indigenous microorganisms using Korean Natural Farming Methods. Sustainable 
+Agriculture, 19. 
+A.G. Mamawi, E.K. Ndyomugyenyi, K. Kidega, T. A. (2020). Effectiveness of indigenous 
+micro-organism treatment of deep litter floor in pig house foul odour control. IAR 
+Journal 
+of 
+Agriculture 
+Research 
+and 
+Life 
+Sciences, 
+1(2), 
+1–8. 
+https://doi.org/10.47310/iarjals 
+Abu-Bakar, N.-A., & Ibrahim, N. (2013). Indigenous microorganisms production and 
+the effect on composting process. 283–286. https://doi.org/10.1063/1.4858669 
+Adal, Y. (2024). The Impact of Beneficial Microorganisms on Soil Vitality: A Review. 
+Frontiers 
+in 
+Environmental 
+Microbiology, 
+10(2), 
+45–53. 
+https://doi.org/10.11648/j.fem.20241002.12 
+Adam, O., & Kott, Y. (1989). Bacterial growth in water. Toxicity Assessment, 4(3), 
+363–375. https://doi.org/10.1002/tox.2540040312 
+Aina, A. J., Falade, K. O., Akingbala, J. O., & Titus, P. (2009). Physicochemical 
+properties of twenty‐one Caribbean sweet potato cultivars. International Journal 
+of Food Science & Technology, 44(9), 1696–1704. https://doi.org/10.1111/j.1365-
+2621.2009.01941.x 
+Alam, M., Rana, Z., & Islam, S. (2016). Comparison of the Proximate Composition, 
+
+ 
+ 
+35 
+ 
+Total Carotenoids and Total Polyphenol Content of Nine Orange-Fleshed Sweet 
+Potato 
+Varieties 
+Grown 
+in 
+Bangladesh. 
+Foods, 
+5(3), 
+64. 
+https://doi.org/10.3390/foods5030064 
+Andreia Medeiros Rodrigues Cardoso, Yuri Wanderley Cavalcanti, Leopoldina de 
+Fátima Dantas de Almeida, Ana Luíza Alves de Lima Pérez, & Wilton Wilney 
+Nascimento Padilha. (2013). Antifungal activity of plant-based tinctures on 
+Candida. RSBO, 9(1), 25–30. https://doi.org/10.21726/rsbo.v9i1.961 
+Anyanwu, C. F. S. L. N. (2015). Isolation and Characterization of Indigenous 
+Microorganism (Imo) from Ifugao Bamboo (Phyllostachys Aurea) Forest. 
+International Journal of Science and Research (IJSR), 4(2). www.ijsr.net 
+Arum, S. D. K., & Wahyudi, D. (2022). Pemanfaatan Ubi Jalar Putih dan Ubi Jalar 
+Kuning Sebagai Media Alternatif Pertumbuhan Staphylococcus aureus. JUMANTIK 
+(Jurnal 
+Ilmiah 
+Penelitian 
+Kesehatan), 
+7(4), 
+317. 
+https://doi.org/10.30829/jumantik.v7i4.11634 
+Bai, N., Xie, M., Liu, Q., Wang, W., Liu, Y., & Yang, J. (2023). AoSte12 Is Required for 
+Mycelial Development, Conidiation, Trap Morphogenesis, and Secondary 
+Metabolism by Regulating Hyphal Fusion in Nematode-Trapping Fungus 
+Arthrobotrys 
+oligospora. 
+Microbiology 
+Spectrum, 
+11(2). 
+https://doi.org/10.1128/spectrum.03957-22 
+Bayu, T. (2024). Systematic Review on the Role of Microbial Activities on Nutrient 
+Cycling and Transformation Implication for Soil Fertility and Crop Productivity. 
+
+ 
+ 
+36 
+ 
+https://doi.org/10.1101/2024.09.02.610905 
+Carandang, G. A. (2003). Indigenous Microorganisms: Beneficial Indigenous 
+Microorganisms and Bionutrients In Natural Farming (Vol. 63, Issue 43). 
+Chiemela F. Anyanwu, Serafin L. Ngohayon, Ricardo L. Ildefonso, J. L. N. (2015a). 
+Application of Indigenous Microorganisms (IMO) for Bio-Conversion of Agricultural 
+Waste. International Journal of Science and Research (IJSR), 6(14), 778–784. 
+%0Awww.ijsr.net 
+Chiemela F. Anyanwu, Serafin L. Ngohayon, Ricardo L. Ildefonso, J. L. N. (2015b). 
+Isolation and Characterization of Indigenous Microorganism (Imo) from Ifugao 
+Bamboo (Phyllostachys Aurea) Forest. International Journal of Science and 
+Research (IJSR), 4(2). %0Awww.ijsr.net 
+Colles, C. M., Colles, K. M., & Galpin, J. R. (2010). Equine pastern dermatitis. Equine 
+Veterinary 
+Education, 
+22(11), 
+566–570. 
+https://doi.org/10.1111/j.2042-
+3292.2010.00111.x 
+Di Lonardo, D. P., van der Wal, A., Harkes, P., & de Boer, W. (2020). Effect of 
+nitrogen on fungal growth efficiency. Plant Biosystems - An International Journal 
+Dealing 
+with 
+All 
+Aspects 
+of 
+Plant 
+Biology, 
+154(4), 
+433–437. 
+https://doi.org/10.1080/11263504.2020.1779849 
+Dijkstra, P., Salpas, E., Fairbanks, D., Miller, E. B., Hagerty, S. B., van Groenigen, K. 
+J., Hungate, B. A., Marks, J. C., Koch, G. W., & Schwartz, E. (2015). High carbon 
+use efficiency in soil microbial communities is related to balanced growth, not 
+
+ 
+ 
+37 
+ 
+storage compound synthesis. Soil Biology and Biochemistry, 89, 35–43. 
+https://doi.org/10.1016/j.soilbio.2015.06.021 
+FAO. (2021). Rice Market monitor. Food and Agriculture Organisation, XXIV(2). 
+http://www.fao.org/3/cb4224en/cb4224en.pdf 
+Hussain, A. H. Ali, H. Abbas, S.W. Khan, S. Ali, A. H. and S. A. (2019). Spatial analysis 
+of selceted soil parameters in potato growing areas of mountainous region of 
+Gilgit-Baltistan. 51(2). http://dx.doi.org/10.30848/PJB2019-2(29)%0ADownload 
+PDF 
+Kobusinguzi, A. (2024). Production of Sweet-Potato Based Indigenous Micro-Organisms 
+(IMO) for Sustainable Agriculture. http://hdl.handle.net/20.500.12493/2489 
+Koranda, M., Kaiser, C., Fuchslueger, L., Kitzler, B., Sessitsch, A., Zechmeister-
+Boltenstern, S., & Richter, A. (2014). Fungal and bacterial utilization of organic 
+substrates depends on substrate complexity and N availability. FEMS Microbiology 
+Ecology, 87(1), 142–152. https://doi.org/10.1111/1574-6941.12214 
+Kumar, B. L., & D.V.R., S. G. C. U. K. (2015). Effective role of indigenous 
+microorganisms for sustainable environment. https://doi.org/10.1007/s13205-
+015-0293-6 
+Kumar, B. L., & Gopal, D. V. R. S. (2015). Effective role of indigenous microorganisms 
+for 
+sustainable 
+environment. 
+3 
+Biotech, 
+5(6), 
+867–876. 
+https://doi.org/10.1007/s13205-015-0293-6 
+Maniglia, B. C., Castanha, N., Le-Bail, P., Le-Bail, A., & Augusto, P. E. D. (2021). 
+
+ 
+ 
+38 
+ 
+Starch modification through environmentally friendly alternatives: a review. 
+Critical 
+Reviews 
+in 
+Food 
+Science 
+and 
+Nutrition, 
+61(15), 
+2482–2505. 
+https://doi.org/10.1080/10408398.2020.1778633 
+Manzoni, S., Chakrawal, A., & Ledder, G. (2023). Decomposition kinetics as an 
+optimal control problem. https://doi.org/10.5194/egusphere-egu23-2918 
+McCormack, M. L., & Iversen, C. M. (2019). Physical and Functional Constraints on 
+Viable Belowground Acquisition Strategies. Frontiers in Plant Science, 10. 
+https://doi.org/10.3389/fpls.2019.01215 
+Meenakshi, S. Jyothi Hiremath, M.H. Meenakshi,  and S. S. (2024). Actinomycetes: 
+Isolation, Cultivation and its Active Biomolecules. J Pure Appl Microbiol, 1(18), 
+118–143. https://doi.org/doi: 10.22207/JPAM.18.1.481 
+Murugavelh, S., & Mohanty, K. (2012). Bioreduction of Hexavalent Chromium by Live 
+and Active Phanerochaete chrysosporium : Kinetics and Modeling. CLEAN – Soil, 
+Air, Water, 40(7), 746–751. https://doi.org/10.1002/clen.201100455 
+Nakanwagi, Mildred Julian, Godfrey Sseremba, M. M. and and E., & Kizito, B. (2017). 
+Performance of Solanum aethiopicum Shum group accessions under repetitive 
+drought stress. Journal of Plant Breeding and Crop Science, 13–20. 
+https://doi.org/DOI: 10.5897/JPBCS2017.0690 
+Navarro, J., Salazar, J., Kang, J. J., Parsons, J., Cheng, C.-L., Castillo, A., & Pujol 
+Pereira, E. I. (2020). Compost and Biochar to Promote Soil Biological Activities 
+under Sweet Potatoes Cultivation in a Subtropical Semiarid Region. Applied and 
+
+ 
+ 
+39 
+ 
+Environmental Soil Science, 2020, 1–11. https://doi.org/10.1155/2020/7230595 
+Nishant Tripathi, A. S. (2023). Gram Staining. National Library of Medicine. 
+O’Toole, G. A. (2016). Classic Spotlight: How the Gram Stain Works. Journal of 
+Bacteriology, 198(23), 3128–3128. https://doi.org/10.1128/JB.00726-16 
+Onesmus Mugyenyi, Anthony Mugeere, A. A. A. (2020). CONSERVING THE 
+ENVIRONMENT AND ENHANCING COMMUNITY RESILIENCE: The Key Climate Change 
+Priorities during and after COVID-19. 53. http://www.acode-u.org 
+Pangesty, V., Kurniati, I. D., & Ratnaningrum, K. (2023). Effectiveness of Bitter melon 
+(Momordica charantia L) Extract on Growth of Trichopyton rubrum: In Vitro 
+Study. MAGNA MEDICA Berkala Ilmiah Kedokteran Dan Kesehatan, 10(1), 19. 
+https://doi.org/10.26714/magnamed.10.1.2023.19-26 
+Paray, A. A., Singh, M., & Amin Mir, M. (2023). Gram Staining: A Brief Review. 
+International 
+Journal 
+of 
+Research 
+and 
+Review, 
+10(9), 
+336–341. 
+https://doi.org/10.52403/ijrr.20230934 
+Park1, H., DuPonte2,  and M. W., 1, & Ocean Star Hawaii Natural Farms, L. (2010). 
+How to Cultivate Indigenous Microorganisms. 
+PMITTWER T, BARTHOLOMEW JW, K. B. (1950). The mechanism of the gram reaction. 
+II. 25(4). 
+Reynolds, J. (2005). Serial Dilution Protocols. 
+Seema Y et al. (2019). Standardisation and categorization of indigenous 
+
+ 
+ 
+40 
+ 
+microorganisms (IMOs) for inoculated deep litter piggery in India. 
+Seema Yadav, P K Bharti, G K Gaur, Bhanita Devi, Abhishek, N R Sahoo, Rajesh 
+Chhabra Antil, A. S. and M. (2019). Standardisation and categorization of 
+indigenous microorganisms (IMOs) for inoculated deep litter piggery in India. 
+SEEMA YADAV, P K BHARTI, G K GAUR, BHANITA DEVI, ABHISHEK, N R SAHOO, R. C., & 
+ANTIL, A. S. and M. (2020). Standardisation and categorization of indigenous 
+microorganisms (IMOs) for inoculated deep litter piggery in India. Indian Journal 
+of Animal Sciences, 90(4). https://doi.org/10.56093/ijans.v90i4.104188 
+Suzan S. Schiffman, Jeanette L Bennett, J. H. R. (2001). Quantification of odors and 
+odorants from swine operations in North Carolina. Elsevier, 108,3, 213–240. 
+https://doi.org/https://doi.org/10.1016s0168-1923(01)002338-8 
+Teruo Higa, J. F. P. (1994). Benefitial and Effective Microorganisms for a Sustainable 
+Agriculture and Environment. International Nature Farming Research Center, 1. 
+Tian, F., Woo, S. Y., Lee, S. Y., Park, S. B., Im, J. H., & Chun, H. S. (2023). Plant-
+based natural flavonoids show strong inhibition of aflatoxin production and 
+related gene expressions correlated with chemical structure. Food Microbiology, 
+109, 104141. https://doi.org/10.1016/j.fm.2022.104141 
+van Laarhoven, K. A., Huinink, H. P., & Adan, O. C. G. (2016). A microscopy study of 
+hyphal growth of Penicillium rubens on gypsum under dynamic humidity 
+conditions. 
+Microbial 
+Biotechnology, 
+9(3), 
+408–418. 
+https://doi.org/10.1111/1751-7915.12357 

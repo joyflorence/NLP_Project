@@ -1,0 +1,1466 @@
+i 
+ 
+ANALYSIS OF THE BENEFITS OF HEALTH INSURANCE COVERAGE: A case study of 
+Uganda Christian University 
+ 
+ 
+ 
+ 
+ 
+GRIFFIN EDDY ARINAITWE 
+S20B33/001 
+ 
+ 
+A DISSERTATION PRESENTED TO THE SCHOOL OF BUSINESS IN THE PARTIAL 
+FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF A DEGREE OF 
+BACHELORS OF SCIENCE IN ACCOUNTING AND FINANCE OF UGANDA CHRISTIAN 
+UNIVERSITY 
+ 
+ 
+ 
+September, 2023 
+ 
+ 
+ 
+
+ 
+
+ 
+
+iv 
+ 
+ACKNOWLEDGEMENT 
+ 
+My sincerest thanks and appreciation goes out to my supervisor, Allen Kagume for her unwavering 
+support and guidance throughout the entire period of my dissertation. Special thanks goes out to my 
+teammates that were as well supervised by Allen Kagume and also my classmates who helped me out 
+through the entire process.  
+ 
+“…The people who know their God shall be strong and do exploits.” 
+- 
+Daniel. 11:32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+DEDICATION 
+This report is dedicated to my family that have constantly and persistently taken me throughout my entire 
+education journey. If it was not for them. I would not have gotten this far. Thank you family. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+TABLE OF CONTENTS 
+ 
+DECLARATION......................................................................................................................................................... ii 
+APPROVAL ............................................................................................................................................................... iii 
+ACKNOWLEDGEMENT ......................................................................................................................................... iv 
+DEDICATION............................................................................................................................................................. v 
+LIST OF FIGURES ................................................................................................................................................... ix 
+ACRONYMS ............................................................................................................................................................... x 
+ABSTRACT ................................................................................................................................................................ xi 
+INTRODUCTION TO THE STUDY ......................................................................................................................12 
+1.0 Introduction .....................................................................................................................................................12 
+1.1 Background to the Study ................................................................................................................................12 
+1.2 Statement of the Problem ...............................................................................................................................13 
+1.3 Objectives of the Study ...................................................................................................................................13 
+1.4 Research questions ..........................................................................................................................................13 
+1.5 Scope of the Study............................................................................................................................................14 
+1.5.1 Time Scope ....................................................................................................................................................14 
+1.5.2 Geographical Scope .....................................................................................................................................14 
+1.5.3 The Subject Scope ........................................................................................................................................14 
+LITERATURE REVIEW ........................................................................................................................................15 
+2.0 Introduction .....................................................................................................................................................15 
+2.1 Theoretical Framework to the Study ............................................................................................................15 
+2.2 Health Insurance Coverage and Access to Healthcare Services .................................................................16 
+2.3 Benefits and Outcomes of Health Insurance Coverage ...............................................................................16 
+2.4 Financial Burden and Health Insurance Coverage......................................................................................17 
+2.5 Types of Health Insurance Coverage Available in Uganda ........................................................................17 
+2.5.1 National Health Insurance Scheme (NHIS) ...........................................................................................17 
+2.5.2 Community-Based Health Insurance (CBHI) .......................................................................................17 
+2.5.3 Private Health Insurance .........................................................................................................................18 
+2.5.4 Employer-Sponsored Health Insurance .................................................................................................18 
+2.5.5 Microinsurance Schemes .........................................................................................................................18 
+2.5.6 Non-Governmental Organization (NGO) Health Insurance Initiatives ..............................................18 
+2.5.7 Social Health Insurance (SHI) Experiments ..........................................................................................18 
+
+vii 
+ 
+2.6 Health Insurance Policy and Implementation ..............................................................................................19 
+2.7 Longitudinal Studies .......................................................................................................................................19 
+2.8 Definition of terms ...........................................................................................................................................20 
+2.9 Conclusion .......................................................................................................................................................21 
+RESEARCH METHODOLOGY ............................................................................................................................22 
+3.1 Introduction .....................................................................................................................................................22 
+3.2 Research Design ..............................................................................................................................................22 
+3.3 Target Population ...........................................................................................................................................22 
+3.4 Sampling Technique .......................................................................................................................................22 
+3.5 Data Collection ................................................................................................................................................24 
+3.5.1 Quantitative Data Collection ...................................................................................................................24 
+3.5.2 Qualitative Data Collection .....................................................................................................................25 
+3.6 Quantitative Data Analysis ............................................................................................................................25 
+3.7 Data Presentation ............................................................................................................................................25 
+3.8 Ethical Considerations ....................................................................................................................................25 
+3.8.1 Informed Consent ....................................................................................................................................25 
+3.8.2 Confidentiality and Anonymity ..............................................................................................................25 
+3.8.3 Data Protection .........................................................................................................................................26 
+3.8.4 Researcher Bias ........................................................................................................................................26 
+3.8.5 Research Approval ...................................................................................................................................26 
+3.9 Limitations .......................................................................................................................................................26 
+3.10 Conclusion .....................................................................................................................................................26 
+DATA ANALYSIS, PRESENTATION AND INTERPRETATION ....................................................................27 
+4.0 Introduction .....................................................................................................................................................27 
+4.1 Profile of respondents .....................................................................................................................................27 
+Table 1: Profile of respondents ........................................................................................................................28 
+4.2 Knowledge and understanding of respondents towards health insurance ................................................29 
+Table 2: Knowledge and understanding of respondents towards health insurance ...................................30 
+4.3 Types of insurance plans of respondents ......................................................................................................32 
+Table 3: types of insurance plans of respondents ...........................................................................................32 
+4.4 Challenges faced before taking on insurance coverage ...............................................................................33 
+4.5 Benefits of health insurance coverage ...........................................................................................................35 
+4.6 Implications of the research objectives .........................................................................................................36 
+
+viii 
+ 
+4.6.1 Research Objective One ..........................................................................................................................36 
+4.6.2 Research Objective Two ..........................................................................................................................37 
+4.6.3 Research Objective Three .......................................................................................................................37 
+SUMMARY, CONCLUSION AND RECOMMENDATIONS .............................................................................40 
+5.1 Introduction .........................................................................................................................................................40 
+5.2 Summary ..........................................................................................................................................................40 
+5.3 Conclusion .......................................................................................................................................................40 
+5.4 Recommendations ...........................................................................................................................................41 
+REFERENCES ..........................................................................................................................................................44 
+APPENDICES ................................................................................................................................................................48 
+BUDGET ................................................................................................................................................................48 
+QUESTIONNAIRE ...............................................................................................................................................49 
+LETTER PERMITTING DATA COLLECTION .............................................................................................58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+LIST OF FIGURES 
+Table 1: Profile of respondents  
+Table 2: Knowledge and understanding of respondents towards health insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+x 
+ 
+ACRONYMS 
+UCU – Uganda Christian University 
+NHIS – National Health Insurance Scheme 
+CBHI – Community – Based Health Insurance 
+NGO – Non Government Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+ABSTRACT 
+ 
+This research delved into the landscape of health insurance coverage within the university context, with 
+Uganda Christian University in Mukono District, Uganda, as the focal point. With national health 
+insurance coverage limited, this study examined the benefits of health insurance coverage for UCU 
+students and staff. By examining coverage levels, healthcare utilization patterns, financial implications, 
+and health outcomes, the research yielded comprehensive insights into the dynamic impact of health 
+insurance coverage within a university setting. The study framed the challenges associated with not 
+having insurance, highlighted objectives, and introduced the research approach. This approach 
+underscored the urgency of investigating health insurance coverage at UCU, where limited coverage 
+hinged on individual initiatives and private arrangements. The study delivered a deep dive into the 
+findings, aligned with research objectives and found out that the biggest challenge to individuals not 
+signing up for health insurance cover was the financial implications that come with it. This therefore 
+necessitated that family insurance that is usually given to the children whereby if they reached a certain 
+age less susceptible to health complications, the health insurance cover is then removed and given to a 
+younger sibling. With all these findings, the study therefore had the proper knowledge and evidence to 
+base on as it sort to analyze the benefits of health insurance coverage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+CHAPTER 1 
+INTRODUCTION TO THE STUDY 
+1.0 Introduction 
+Chapter one covered the background to the study, the statement of the problem, the main objectives of the 
+study, the specific objectives of the study, the research question also known as hypotheses, the 
+justification of the study, the scope of the study and the limitations to the study.  
+The proposed study intended to explore the benefits of health insurance coverage with a case study of 
+Uganda Christian University. By examining the level of coverage, health care utilization patterns, 
+financial burden and perceived health outcomes, the study seeked to provide valuable insights into the 
+impact of health insurance coverage within a University setting. 
+Health insurance coverage among university students in Uganda positively influences the health seeking 
+behavior of students. Insured students are more likely to seek healthcare services promptly, leading to 
+better health comes. Insurance coverage also reduced financial barriers and also increased access to 
+healthcare (Apolot, R.R., Bazeyo, W., & Lubyayi, L. (2020)). 
+According to Gomm, Hammersley, and Foster (2000), case study refers to research that investigates a few 
+cases in considerable depth. Most scholars agree that a case study is not a particular method but a strategy 
+(Stoecker, 1991, Yin, 1994). 
+1.1 Background to the Study 
+Health insurance coverage is an essential component of a comprehensive healthcare system. 1 billion 
+people more than ever before spend more than 10% of their household budget out of pocket on health, 
+and half a billion people were pushed further into extreme poverty ($1.90/day) by out of pocket health 
+spending (World Bank, n.d). 
+However, in Uganda, a significant proportion of the population lacks health insurance coverage. 
+According to a study by Kusi et al. (2019), only 4.2% of the population had any form of health insurance 
+coverage, with a slightly higher percentage (7.6%) covered in urban areas compared to rural areas (3.0%). 
+The low coverage is attributed to a range of factors, including limited access to formal employment, 
+inadequate government financing, and lack of awareness about the importance of health insurance. This 
+therefore is the very scenario that applied to the case study hence the need to embark on this study by the 
+researcher.  
+
+13 
+ 
+Uganda Christian University (UCU), located in Mukono District, a private university. Despite its 
+relatively large population, health insurance coverage among students and staff at UCU is limited. Access 
+to health insurance in the university is largely dependent on individual initiatives and private 
+arrangements. 
+1.2 Statement of the Problem 
+Despite the importance of health insurance in ensuring access to quality healthcare, health insurance 
+coverage remains low among students at Uganda Christian University. A study in 2021 revealed that a 
+small percentage of households in Uganda enrolled for health insurance coverage of which this 25.1% 
+that had enrolled dropped out eventually where household socioeconomic status was one of the major 
+factors that led to this (Smith, 2021). 
+This study therefore aimed at identifying the benefits of health insurance coverage among students and 
+staff at Uganda Christian University and proposes recommendations to the problems resulting from not 
+taking up health insurance coverage amongst students and staff of Uganda Christian University. 
+1.3 Objectives of the Study 
+This study aimed at investigating the factors that affect health insurance coverage among students and 
+staff at Uganda Christian University. Specifically, the study seeked to answer the following research 
+questions: 
+I. 
+To find out the benefits of health insurance coverage among students and staff. 
+II. 
+To state the types of health insurance coverage available to students and staff. 
+III. 
+To state the problems associated with having no health insurance coverage as well as suggesting 
+possible solutions that could help to improve health insurance coverage among students and staff. 
+1.4 Research questions 
+I. 
+What are the benefits of health insurance coverage among students and staff at Uganda Christian 
+University? 
+II. 
+What are the types of health insurance coverage available to students and staff at Uganda 
+Christian University? 
+
+14 
+ 
+III. 
+What are the problems associated with having no health insurance coverage and suggest possible 
+solutions that could help to improve health insurance coverage among students and staff at 
+Uganda Christian University. 
+1.5 Scope of the Study 
+This study focused on assessing the benefits of health insurance coverage within the context of a 
+university setting, Uganda Christian University. The study was conducted over a specific time frame and 
+geography. 
+1.5.1 Time Scope 
+The study was undertaken from the period of January 2020 to August 2023, giving the researcher enough 
+time to research so as to acquire unbiased results. 
+1.5.2 Geographical Scope 
+The research was carried out at Uganda Christian University (UCU), in Mukono District. UCU is a highly 
+populated University institution thereby making the researcher’s case study a viable one. 
+1.5.3 The Subject Scope 
+The study focused on examining the benefits of insurance coverage, taking UCU in Mukono as a case 
+study. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15 
+ 
+ 
+ 
+ 
+ 
+CHAPTER TWO 
+LITERATURE REVIEW 
+2.0 Introduction 
+This chapter presents a comprehensive review of the literature on the benefits of health insurance 
+coverage, with a specific focus on the case of Uganda Christian University. The literature review aims to 
+provide a theoretical foundation and contextual understanding of health insurance, healthcare utilization, 
+financial burden, and health outcomes within the university setting. This chapter also seeks to highlight 
+the significance of health insurance coverage and its impact on individuals' well-being. 
+2.1 Theoretical Framework to the Study 
+The theoretical framework for this study draws on the health insurance literature and the health-seeking 
+behavior theory. Health insurance coverage is an important factor in the health-seeking behavior of 
+individuals. It ensures access to quality healthcare services and reduces out-of-pocket healthcare expenses. 
+The literature suggests that health insurance coverage is influenced by a range of factors, including 
+demographic characteristics, socioeconomic status, and healthcare utilization (Adeyemi et al., 2019; 
+Obinna et al., 2020). 
+The health-seeking behavior theory posits that individuals' healthcare-seeking decisions are influenced by 
+their perceptions of the severity of their health condition, the availability and quality of healthcare 
+services, and their financial and social resources. The theory suggests that individuals are more likely to 
+seek healthcare services when they perceive their health condition as severe and when they have adequate 
+resources to pay for healthcare services. 
+The theoretical framework for this study proposes that health insurance coverage is influenced by various 
+factors, including demographic characteristics (such as age, gender, and income), health status, healthcare 
+utilization, and perceptions of health insurance. These factors may interact with each other to influence 
+individuals' decisions to purchase health insurance coverage. 
+
+16 
+ 
+In summary, the theoretical framework proposes that health insurance coverage is influenced by a range 
+of factors, including demographic characteristics, health status, healthcare utilization, and perceptions of 
+health insurance. The framework will guide the data collection and analysis for this study and inform the 
+policy recommendations proposed to improve health insurance coverage among students and staff at 
+Uganda Christian University. 
+2.2 Health Insurance Coverage and Access to Healthcare Services 
+Health insurance coverage plays a vital role in facilitating access to healthcare services. Studies have 
+consistently shown that individuals with health insurance are more likely to seek timely and appropriate 
+healthcare, resulting in improved health outcomes (Sommers et al., 2012; McWilliams et al., 2019). For 
+students and staff at UCU, health insurance coverage can provide a safety net, ensuring they have access 
+to necessary medical treatments, preventive care, and specialized services. 
+Research conducted by Kamugumya et al. (2021) in Uganda found that individuals with health insurance 
+were more likely to utilize healthcare services, including regular check-ups, immunizations, and 
+screenings. This increased utilization leads to early detection and intervention for health conditions, 
+ultimately improving health outcomes. 
+At Uganda Christian University, it is mandatory for all students to register with the University Clinic, 
+Allan Galpin that is located in the University premises. This serves as a health insurance medium to all 
+students since Allan Galpin offers free medical services to all registered students ranging from treatments, 
+checkups and drugs.  
+2.3 Benefits and Outcomes of Health Insurance Coverage 
+Health insurance coverage has been linked to better health outcomes. Several studies have shown that 
+individuals with health insurance have improved health status, reduced mortality rates, and higher rates of 
+disease prevention and management (Ayanian et al., 2016; Hadley et al., 2019). Health insurance 
+coverage facilitates timely access to healthcare services, enabling individuals to receive necessary 
+treatments and interventions, thereby improving their overall health outcomes. 
+In regards to UCU, health insurance coverage can have a positive impact on the health outcomes of 
+students and staff. For instance, a study by Okello et al. (2021) conducted in Uganda revealed that 
+individuals with health insurance had better self-reported health status, reduced hospitalization rates, and 
+improved management of chronic conditions compared to those without coverage. These findings 
+
+17 
+ 
+underscore the potential benefits of health insurance coverage in enhancing the health outcomes of the 
+UCU population. 
+In the context of UCU, health insurance coverage can alleviate the financial burden associated with 
+healthcare expenses. A study by Nambuya et al. (2020) in Uganda found that individuals with health 
+insurance experienced lower out-of-pocket costs and reduced financial strain compared to those without 
+coverage. This highlights the importance of health insurance in providing financial protection and 
+ensuring equitable access to healthcare services for students and staff at UCU. 
+2.4 Financial Burden and Health Insurance Coverage 
+Healthcare expenses can impose a significant financial burden on individuals and their families, 
+particularly in the absence of health insurance coverage. Studies have consistently demonstrated that 
+individuals without insurance are more likely to face high out-of-pocket costs, medical debt, and even 
+forgo necessary medical treatments due to financial constraints (Collins et al., 2019; Kenney et al., 2020). 
+2.5 Types of Health Insurance Coverage Available in Uganda 
+Uganda's healthcare landscape encompasses a variety of health insurance coverage options, each designed 
+to address the diverse needs of the population. These coverage types aim to provide financial protection 
+and improved access to healthcare services. Some of the prominent health insurance coverage types 
+available in Uganda include: 
+2.5.1 National Health Insurance Scheme (NHIS) 
+The National Health Insurance Scheme (NHIS) is a government-backed initiative that seeks to provide 
+comprehensive healthcare coverage for all Ugandan citizens. NHIS operates through contributions from 
+formal sector employees, pooling resources to ensure access to essential health services. This scheme 
+aims to bridge the gap in healthcare access, particularly among the underserved populations in both urban 
+and rural areas (Ministry of Health, 2020; Okello et al., 2022). 
+2.5.2 Community-Based Health Insurance (CBHI) 
+Community-Based Health Insurance (CBHI) programs are community-driven efforts that focus on 
+localized healthcare coverage. These schemes are often established at the grassroots level, allowing 
+community members to pool resources and collectively address their healthcare needs. CBHI programs 
+promote community solidarity and can offer tailored benefits, enhancing access to care for specific 
+population groups (Adeyemi et al., 2019; Kamugumya et al., 2021). 
+
+18 
+ 
+2.5.3 Private Health Insurance 
+Private health insurance coverage in Uganda is provided by various private insurers. These plans offer 
+varying degrees of coverage, often including access to private healthcare facilities, specialized treatments, 
+and additional services beyond basic medical care. Private health insurance can provide individuals and 
+families with a range of options to suit their healthcare preferences and needs (Private Insurance Provider 
+Association, 2020; Nabukalu et al., 2023). 
+2.5.4 Employer-Sponsored Health Insurance 
+Many employers in Uganda offer health insurance coverage as part of their employee benefits packages. 
+These plans can vary in scope, ranging from basic coverage to more comprehensive plans that cater to the 
+health needs of the workforce. Employer-sponsored health insurance contributes to enhancing the well-
+being of employees and their families by ensuring access to medical care (Employer Benefits Association, 
+2021; Namubiru & Sserwanja, 2020). 
+2.5.5 Microinsurance Schemes 
+Microinsurance schemes target low-income individuals and families who might face challenges affording 
+traditional insurance. These schemes offer limited coverage at affordable premiums, making healthcare 
+services more accessible to those with limited financial resources. Microinsurance programs play a vital 
+role in extending financial protection and healthcare access to vulnerable populations (Microinsurance 
+Regulatory Authority, 2019; Atuhairwe & Turyasingura, 2021). 
+2.5.6 Non-Governmental Organization (NGO) Health Insurance Initiatives 
+Certain non-governmental organizations operating in Uganda run health insurance programs to address 
+specific health needs within their focus areas. These initiatives often target particular demographics or 
+regions, aiming to bridge gaps in healthcare access and deliver services that align with the organization's 
+mission (NGO Health Initiatives Association, 2022; Balikuddembe & Kiwuwa, 2018). 
+2.5.7 Social Health Insurance (SHI) Experiments 
+Uganda has also explored Social Health Insurance (SHI) models to enhance healthcare coverage. These 
+experiments involve collaborations between the government, donors, and stakeholders to develop and 
+implement insurance programs that offer a broader scope of coverage than traditional schemes (Ugandan 
+SHI Taskforce, 2023; Ssentongo et al., 2021). 
+
+19 
+ 
+The availability and effectiveness of these health insurance coverage types can vary across different 
+regions and populations in Uganda. The diverse range of coverage options reflects the nation's efforts to 
+ensure equitable access to healthcare services for all citizens. 
+2.6 Health Insurance Policy and Implementation 
+Effective health insurance policies and their implementation are crucial for ensuring widespread coverage 
+and maximizing the benefits of health insurance. It is essential to consider the regulatory framework, 
+insurance provider networks, premium affordability, and the comprehensiveness of coverage. The 
+government and other stakeholders play a critical role in designing and implementing policies that 
+promote equitable access to health insurance and address the specific needs of the university population. 
+In recent years, Uganda has made efforts to expand health insurance coverage through initiatives such as 
+the National Health Insurance Scheme (NHIS) and the Community Health Insurance (CHI) programs 
+(Ministry of Health, 2019). Experimental studies have examined the impact of different policy 
+interventions on health insurance coverage and outcomes. For instance, a study by Mutebi et al. (2019) 
+evaluated the effect of subsidizing health insurance premiums for low-income populations and found that 
+it significantly increased enrollment rates and improved access to healthcare services. 
+Case studies have also provided valuable insights into health insurance policy implementation. For 
+example, a case study conducted by Namaganda et al. (2021) explored the challenges and successes of 
+implementing health insurance programs in a university setting, highlighting the importance of 
+collaboration between the institution, insurance providers, and relevant stakeholders. The findings from 
+such studies contribute to the understanding of the factors that influence the successful implementation of 
+health insurance policies. 
+2.7 Longitudinal Studies 
+Longitudinal studies offer a unique perspective by observing changes and outcomes over an extended 
+period. They provide valuable insights into the long-term effects of health insurance coverage. 
+Longitudinal studies conducted in similar contexts can contribute to the body of knowledge regarding 
+health insurance benefits. For instance, a longitudinal study by Wanyenze et al. (2020) examined the 
+impact of health insurance coverage on healthcare utilization and financial protection among university 
+students in Uganda. The study found that students with health insurance were more likely to seek timely 
+care and experienced reduced financial burden. 
+
+20 
+ 
+Additionally, longitudinal studies can explore the sustainability of health insurance coverage and its 
+impact on health outcomes. For instance, a longitudinal study by Kabwama et al. (2021) assessed the 
+long-term effects of health insurance coverage on health status and mortality rates among a cohort of 
+university staff. The study found that continuous health insurance coverage was associated with better 
+health outcomes and reduced mortality rates. 
+By incorporating evidence from longitudinal studies, this research aims to capture the long-term benefits 
+of health insurance coverage at UCU, providing valuable insights into its sustainability and impact on 
+health outcomes over time. 
+2.8 Definition of terms 
+Health Insurance Coverage: This refers to the protection or coverage provided by an insurance policy, 
+which pays for the costs of healthcare services that a person may need. 
+Healthcare Utilization: This refers to the extent to which people use healthcare services, including 
+hospitalizations, outpatient visits, and preventive care. 
+Financial Burden: This refers to the financial strain that healthcare expenses can place on individuals and 
+families, which can include out-of-pocket expenses, copays, deductibles, and premiums. 
+Overall Health Outcomes: This refers to the health status of individuals, including physical, mental, and 
+social well-being, as well as any changes in health status over time. 
+Preexisting Condition: This refers to a medical condition that existed before a person obtained health 
+insurance coverage. 
+Premium: This is the amount of money paid by an individual or their employer to an insurance company 
+for a health insurance policy. 
+Deductible: This is the amount of money that an individual must pay out-of-pocket for healthcare services 
+before their health insurance coverage begins to pay. 
+This is a fixed amount of money that an individual must pay out-of-pocket for each healthcare service 
+they receive, even after they have met their deductible. 
+Out-of-pocket Expenses: These are the costs that an individual must pay for healthcare services that are 
+not covered by their health insurance policy. 
+
+21 
+ 
+Provider: This refers to a healthcare professional or facility that provides medical services to patients. 
+2.9 Conclusion 
+This chapter has presented a comprehensive review of the literature on the benefits of health insurance 
+coverage. The literature has highlighted the positive impact of health insurance coverage on healthcare 
+utilization, financial burden, and health outcomes. Experimental studies have provided causal evidence, 
+case studies have illustrated real-world implementations, and longitudinal studies have examined the 
+long-term effects. 
+Building upon this foundation, the following chapter will detail the research methodology employed to 
+investigate the benefits of health insurance coverage. By utilizing a mixed-methods approach, this study 
+aims to gather empirical data and insights that contribute to the existing literature and inform policy 
+recommendations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER THREE 
+RESEARCH METHODOLOGY 
+3.1 Introduction 
+This chapter outlines the research methodology employed to achieve the objectives of this study on the 
+benefits of health insurance coverage at Uganda Christian University (UCU). It provides a detailed 
+description of the study design, target population, data collection methods, and data analysis techniques. 
+By employing a mixed-methods approach, this chapter ensures a comprehensive understanding of health 
+insurance coverage and its impact on healthcare utilization, financial burden, and health outcomes among 
+students and staff at UCU. 
+3.2 Research Design 
+A mixed-methods research design was utilized in this study to collect quantitative data. This approach 
+allows for a more comprehensive and nuanced understanding of the benefits of health insurance coverage 
+at UCU. The quantitative component involved the administration of structured surveys, while the 
+qualitative component includes in-depth interviews. This design ensured that the study captures both 
+objective and subjective perspectives on health insurance coverage and its implications. Creswell, J. W., 
+& Plano Clark, V. L. (2017).  
+3.3 Target Population 
+The target population for this study consisted of students and staff at Uganda Christian University with 
+about a total of 15,000 students (Wikipedia, 2020). The selection of this population is based on their 
+direct involvement with the university's health insurance scheme and their unique experiences as 
+beneficiaries of the coverage. By focusing on this specific population, the study aimed at providing 
+insights into the benefits of health insurance coverage within the university context. 
+3.4 Sampling Technique 
+
+23 
+ 
+To determine an appropriate sample size for the study on the benefits of health insurance coverage, the 
+researcher to employed the Yamane (1967) sampling technique. This technique is commonly used to 
+estimate the sample size required for a given population, considering a desired level of confidence and 
+margin of error. 
+The researcher followed the steps outlined by Yamane (1967) to calculate the sample size needed for the 
+study: 
+Defining the Target Population: The target population for this study comprises students of about 15,000 
+of Uganda Christian University. They form the specific group from which the sample will be drawn to 
+gather insights into the benefits of health insurance coverage within the university community. 
+Determining the Desired Level of Confidence: The researcher has set the desired level of confidence at 
+95%. This level of confidence indicates that there is a 95% probability that the sample results will be 
+within the accepted margin of error. 
+Specifying the Margin of Error: The acceptable margin of error is set at 5%. This means that the sample 
+estimate should be within plus or minus 5% of the true population value. The margin of error reflects the 
+maximum allowable difference between the sample estimate and the actual population value. 
+Calculating the Sample Size. 
+Using the Yamane formula, the researcher determined the appropriate sample size. The formula is as 
+follows: 
+n = N / (1 + N(e)^2) 
+Using a 5% margin of error: 
+n = 15,000/ (1 + 15,000 [ 5/100]^2) 
+n = 15,000 / 38.5 
+n = 389.6 approximately 390 respondents 
+Where: 
+n = required sample size 
+N = total population size 
+
+24 
+ 
+e = margin of error (expressed as a decimal) 
+However, since the sample size is extremely large according to Morgan’s table given the time scope and 
+resource constraints, the researcher used personal judgment, that is, purposive sampling technique and 
+therefore chose to use a sample size of 100 respondents. 
+Using a 5% margin of error: 
+n = 100 / (1 + 100 [ 5/100]^2) 
+n = 100 / 1.25 
+n = 80 respondents 
+By applying the Yamane formula with the relevant values, the researcher obtained the estimated sample 
+size needed to ensure the study's reliability and validity. 
+The researcher acknowledged that the Yamane (1960) sampling technique assumes a simple random 
+sampling method. Consequently, the sample was selected randomly from the target population, ensuring 
+equal chances of inclusion for all eligible students and staff members. The sample selection process 
+employed appropriate sampling procedures to maintain representativeness and reduce bias. 
+It is important to note that the Yamane sampling technique provided an estimate for the sample size and 
+assumes certain statistical assumptions. The researcher consulted with a statistician to validate the 
+appropriateness of the technique and ensure accurate implementation in the study. 
+The subsequent section detailed the selected sample size and the sampling procedures employed to recruit 
+participants from the student and staff population of UCU. 
+3.5 Data Collection 
+The data was collected using an online method of data collection, that is, Google forms. This data shall 
+first be tested using a sample of 20 respondents so as to do away with any errors in the system. Dillman, 
+D. A., Smyth, J. D., & Christian, L. M. (2014). 
+3.5.1 Quantitative Data Collection 
+Quantitative data was collected through structured surveys administered to the selected participants. The 
+survey questionnaire will be designed to gather information on demographics, health insurance coverage 
+status, healthcare utilization patterns, financial burden, and perceived health outcomes. The survey will be 
+
+25 
+ 
+administered using an online platform, ensuring convenience and accessibility for participants. The data 
+collected will provide quantitative insights into the benefits of health insurance coverage at UCU. 
+3.5.2 Qualitative Data Collection 
+Qualitative data will be collected through in-depth interviews with a subset of participants. The 
+interviews will be semi-structured and conducted face-to-face or via virtual platforms, allowing for in-
+depth exploration of participants' experiences, perceptions, and attitudes towards health insurance 
+coverage. 
+3.6 Quantitative Data Analysis 
+The quantitative data collected from the surveys was analyzed using appropriate statistical techniques by 
+the help of Google forms. Descriptive statistics were employed to summarize participants' demographics, 
+health insurance coverage status, healthcare utilization patterns, financial burden, and perceived health 
+outcomes. The analysis of quantitative data provided statistical evidence regarding the benefits of health 
+insurance coverage at UCU. 
+3.7 Data Presentation 
+All data collected shall was presented in table format, with pie charts and graphs also clearly explaining 
+the data. 
+3.8 Ethical Considerations 
+Ethical considerations were of paramount importance in this research study. The researcher adhered to the 
+ethical guidelines and principles of research conduct to ensure the rights and welfare of the participants. 
+The following ethical considerations were addressed. American Psychological Association. (2017). 
+3.8.1 Informed Consent 
+Prior to participation, all participants were provided with detailed information about the study, including 
+its purpose, procedures, potential risks, benefits, and their rights as participants. Informed consent was 
+obtained from each participant, ensuring their voluntary participation. Participants had the freedom to 
+withdraw from the study at any time without facing any consequences. 
+3.8.2 Confidentiality and Anonymity 
+Participants' privacy and confidentiality was strictly maintained throughout the research process. All 
+collected data was treated with the utmost confidentiality. Participants' identities was anonymized and 
+any identifying information will be kept separate from the research data to ensure confidentiality. 
+
+26 
+ 
+3.8.3 Data Protection 
+All data collected during the study, including survey responses was securely stored and protected. Access 
+to the data was restricted to the researcher only. Data was stored in password-protected electronic systems 
+and physical copies were stored in locked cabinets. Data was retained for a specified period in accordance 
+with the university's data retention policy. 
+3.8.4 Researcher Bias 
+Efforts were made to minimize researcher bias throughout the study. The researcher underwent 
+appropriate training in research methods and techniques to ensure neutrality and objectivity during data 
+collection and analysis. Reflexivity was practiced, allowing the researcher to critically reflect on their 
+own biases and perspectives that may influence the research process and findings. 
+3.8.5 Research Approval 
+The research study obtained all necessary approvals from Uganda Christian University and any other 
+relevant authorities. The researcher complied with institutional regulations and guidelines related to 
+research conduct and ensured that the study adhered to ethical standards. 
+3.9 Limitations 
+It was important to acknowledge the potential limitations of this research study.  
+Firstly, the findings were specific to the context of Uganda Christian University, and were not 
+generalizable to other settings or populations. 
+Secondly, the study's reliance on self-reported data was subject to recall bias or social desirability bias. 
+Additionally, time constraints. This study was conducted from July to August, 2023 which is a very short 
+period when in mention of the gravity of the study. 
+Lastly, the study's cross-sectional design may limited the ability to establish causal relationships between 
+health insurance coverage and outcomes. 
+3.10 Conclusion 
+This chapter has outlined the research methodology that was employed in this study, including the 
+research design, target population, sampling technique, data collection methods, and data analysis 
+techniques. The chapter also emphasized the ethical considerations that will be addressed throughout the 
+research process. By employing a mixed-methods approach, the study aims to provide a comprehensive 
+
+27 
+ 
+understanding of the benefits of health insurance coverage at Uganda Christian University. The next 
+chapter will present the findings and analysis of the collected data. 
+ 
+ 
+CHAPTER FOUR 
+DATA ANALYSIS, PRESENTATION AND INTERPRETATION 
+4.0 Introduction 
+This chapter gives the presentation of the findings consistent with the research objectives in chapter one. 
+The chapter begins with profile of the respondents in section 4.2. The knowledge and understanding of 
+respondents towards health insurance in section 4.3 while the various types of insurance plans of the 
+respondents from the study is presented in section 4.4. Section 4.5 and 4.6 presents the challenges faced 
+before taking on any insurance plan and the benefits of insurance coverage. 
+4.1 Profile of respondents 
+In the study's respondent profile (Table 1), it's evident that the research was conducted with full consent 
+from all participants. The distribution of respondents by gender reveals an interesting trend, with 40.7% 
+identifying as male and 59.3% as female. This balanced representation showcases a diverse pool of 
+participants, enhancing the study's credibility and applicability across genders. 
+Furthermore, the age distribution of the respondents sheds light on the generational composition of the 
+study. Notably, a substantial majority, accounting for 87.7% of the participants, falls within the age range 
+of 18 to 25 years. This suggests a significant focus on young adults, who are often in transitional phases 
+and may be making pivotal decisions about their financial future. Additionally, 11.1% of respondents are 
+in the age group of 25 to 32 years, reflecting a slightly older subset, while a minority, constituting 1.2%, 
+is above 32 years of age. This age-wise breakdown helps us understand the distribution and age-related 
+perspectives within the study cohort. 
+Lastly, the educational background of the respondents provides insights into the academic qualifications 
+of the participants. An overwhelming 97.5% of the respondents hold or are currently attaining a 
+Bachelor's Degree. This high educational attainment among the participants suggests a well-educated 
+sample, which could potentially influence their understanding and decision-making regarding insurance 
+
+28 
+ 
+coverage. In contrast, 2.5% of the respondents possess or are pursuing a Master's Degree, showcasing a 
+smaller yet notable subset with higher academic pursuits. 
+Overall, this comprehensive profile of respondents not only enhances the study's credibility but also sets 
+the stage for analyzing the benefits of insurance coverage within the context of different genders, age 
+groups, and educational backgrounds. 
+Table 1: Profile of respondents 
+ 
+CATEGORY 
+PERCENTAGE 
+Consent to participate 
+- 
+100% 
+Gender of respondent 
+Male  
+Female  
+59.3% 
+40.7% 
+Age of respondents 
+18 – 25 years 
+25 – 32 years 
+32 years and above 
+87.7% 
+11.1% 
+1.2% 
+Level of education of 
+respondents 
+Bachelor’s Degree 
+Master’s Degree 
+97.5% 
+2.5% 
+Source: Primary data 
+The following below represent the graphical representation of the information in Table 1. 
+ 
+
+29 
+ 
+ 
+ 
+ 
+ 
+Source: Primary data 
+4.2 Knowledge and understanding of respondents towards health insurance 
+Table 2 presents a comprehensive overview of the respondents' awareness and comprehension of health 
+insurance. An overwhelming 98.8% of the participants have heard about health insurance, indicating a 
+broad familiarity with the concept among the study's respondents. This high percentage underscores the 
+relevance of health insurance as a widely recognized financial instrument for managing healthcare-related 
+expenses. 
+Of those who are aware of health insurance, the breakdown of their self-assessed understanding is 
+intriguing. Approximately 14.8% of respondents rate their understanding of health insurance as "very 
+
+30 
+ 
+high," indicating a strong grasp of the intricacies of health coverage. Additionally, 24.7% perceive their 
+understanding as "high," showcasing a substantial subset with confidence in their knowledge. Meanwhile, 
+the majority of respondents, constituting 53.1%, rate their understanding as "average," suggesting a 
+middle-ground comprehension level. A smaller percentage, around 7.4%, feel their understanding is 
+"low," signifying areas where further education or outreach might be beneficial. 
+Furthermore, among those who have heard of health insurance, their engagement with insurance plans is 
+a notable aspect. A significant 44.4% have signed up for a health insurance plan, highlighting a proactive 
+approach toward securing financial protection. On the other hand, 49.4% have not signed up for any 
+insurance plan, potentially indicating untapped opportunities for insurance providers to address specific 
+barriers or concerns that might be inhibiting enrollment. Interestingly, 6.2% initially signed up for an 
+insurance plan but later opted out, suggesting a subset that might have encountered issues or reconsidered 
+their initial decision. 
+In conclusion, Table 2 provides a comprehensive insight into the respondents' knowledge and interaction 
+with health insurance. This information is instrumental in understanding the level of familiarity, 
+perceptions, and actions related to health insurance coverage among the study's participants. 
+Table 2: Knowledge and understanding of respondents towards health insurance 
+ 
+CATEGORY 
+PERCENTAGE 
+CUMULATIVE 
+PERCENTAGE 
+Heard about health 
+insurance 
+Yes 
+No  
+98.8% 
+1.2% 
+98.8% 
+100% 
+Understanding of health 
+insurance 
+Very high 
+High  
+Low  
+Very low 
+14.8% 
+24.7% 
+53.1% 
+7.4% 
+14.8% 
+39.5% 
+100% 
+Signed up for an 
+insurance plan 
+Yes 
+No 
+44.4% 
+49.4% 
+ 
+
+31 
+ 
+Signed in but signed out 
+6.2% 
+Source: Primary data 
+The following below is a graphical representation of the information in Table 2.
+ 
+ 
+Source: Primary data 
+ 
+ 
+
+32 
+ 
+Source: Primary data 
+ 
+4.3 Types of insurance plans of respondents 
+Among the respondents who demonstrated awareness of health insurance (98.8% of the total), a detailed 
+breakdown of the types of insurance premiums they have opted for emerges. The largest portion, 
+comprising 42.2% of the respondents, indicates that they do not currently hold any insurance plan. This 
+highlights a segment of the population that has yet to engage with the protective benefits of insurance 
+coverage, potentially leaving them vulnerable to financial risks associated with healthcare expenses. 
+Interestingly, 25.6% of respondents have opted for family insurance, indicating a conscious effort to 
+extend coverage to their loved ones. This choice underscores the significance of family-oriented 
+insurance policies that safeguard the well-being of not only the individual but also their dependents. 
+Employer-sponsored health insurance accounts for 21.8% of the respondents' choices. This type of 
+coverage suggests a strong connection between employers and the well-being of their workforce, 
+emphasizing the role businesses play in facilitating access to healthcare resources for their employees. 
+Moreover, 9% of respondents have selected individual insurance plans, highlighting a personal 
+commitment to securing health coverage tailored to their specific needs. This individual-centric approach 
+signifies a desire for customized insurance solutions that align with personal circumstances. 
+Lastly, 1.3% of respondents have opted for group insurance. This choice indicates a preference for 
+collective coverage, potentially within a specific organization or affiliation, offering participants the 
+advantages of shared resources and potentially more favorable premium rates. 
+In essence, the varied preferences and choices made by respondents regarding health insurance premiums. 
+This data serves as a valuable resource for insurance providers and policymakers to understand the 
+diversifying needs and priorities of individuals when it comes to selecting insurance plans. 
+Table 3: types of insurance plans of respondents 
+CATEGORY 
+ 
+PERCENTAGE 
+CUMULATIVE 
+PERCENTAGE 
+Family Insurance 
+25.6% 
+25.6% 
+
+33 
+ 
+ 
+Employer-sponsored 
+health 
+insurance 
+ 
+21.8% 
+47.4% 
+Individual health insurance plans 
+ 
+9% 
+56.4% 
+Group insurance 
+ 
+1.3% 
+57.7% 
+Non 
+42.3% 
+100% 
+ 
+The following represents the graphical summary of the results. 
+ 
+Source: Primary data 
+4.4 Challenges faced before taking on insurance coverage 
+The study has unveiled crucial insights into the challenges encountered by individuals who are not 
+covered by insurance plans. These challenges, as identified in the research, encompass a range of issues 
+that contribute to a significant barrier to quality healthcare access. 
+
+34 
+ 
+At the forefront of these challenges is the burden of high medical costs. The absence of insurance 
+coverage exposes individuals to the full brunt of healthcare expenses, potentially leading to financial 
+strain and deterrence from seeking timely medical attention. This finding underscores the critical role that 
+insurance plays in shielding individuals from exorbitant medical bills that could otherwise jeopardize 
+their financial stability. 
+Limited regular health checkups emerge as another substantial challenge. Without insurance coverage, 
+individuals might be more hesitant to undergo routine health screenings and checkups, which are pivotal 
+in detecting and addressing health issues in their early stages. This lack of proactive monitoring could 
+lead to undiagnosed conditions progressing to more serious stages, ultimately impacting overall health 
+outcomes. 
+The study also highlights medical debts as a pressing concern. When individuals lack insurance coverage, 
+they are more susceptible to accumulating medical debts due to unexpected healthcare expenses. These 
+debts can have lasting repercussions, including credit issues and strained financial situations, affecting 
+individuals' overall well-being. 
+Furthermore, delayed treatments are identified as a significant challenge. Without insurance, individuals 
+might postpone necessary medical treatments or interventions due to financial concerns. This delay can 
+lead to exacerbated health conditions, prolonged suffering, and even the escalation of health issues that 
+might have been manageable with timely intervention. 
+In conclusion, the study's findings illuminate the multifaceted challenges faced by individuals without 
+insurance coverage. These challenges encompass financial strain from high medical costs, limited access 
+to regular health checkups, the burden of medical debts, and the potential for delayed treatments. The 
+graphical representation of these findings adds a visual dimension to the study, underscoring the 
+importance of addressing these challenges to ensure equitable and accessible healthcare for all individuals. 
+Below is a graphical representation of these findings.  
+
+35 
+ 
+ 
+Source: Primary data 
+4.5 Benefits of health insurance coverage 
+The study's findings highlight the substantial benefits of enrolling in health insurance coverage. These 
+benefits collectively contribute to a comprehensive and holistic improvement in individuals' overall 
+quality of life. 
+One of the primary benefits that respondents recognize is easy access to healthcare. Health insurance 
+coverage ensures that individuals can readily seek medical attention when needed, without the barrier of 
+high out-of-pocket costs. This accessibility to healthcare services enables early diagnosis, timely 
+treatment, and preventive measures, all of which are essential for maintaining good health and preventing 
+the escalation of medical conditions. 
+Financial protection emerges as another paramount benefit. Health-related expenses, especially 
+unforeseen ones, can be financially crippling. Health insurance serves as a safety net that shields 
+individuals from the burden of exorbitant medical bills, preventing them from falling into significant debt 
+due to healthcare costs. This financial security not only safeguards their personal finances but also 
+contributes to overall peace of mind and reduced stress. 
+
+36 
+ 
+Furthermore, improved health outcomes stand out as a notable benefit of health insurance coverage. By 
+providing regular access to medical services and treatments, insurance coverage supports individuals in 
+managing and addressing health conditions in a timely and effective manner. This proactive approach can 
+lead to better health management, quicker recovery from illnesses, and the prevention of more severe 
+health complications down the line. 
+In summary, the study's findings underscore the multifaceted benefits of health insurance coverage. These 
+benefits encompass easy access to healthcare services, financial protection from medical expenses, and 
+improved health outcomes. The graphical representation of these findings visually underscores the 
+positive impact that insurance coverage can have on individuals' lives, health, and financial well-being. 
+Below is the graphical representation of the findings relating to the benefits of insurance coverage. 
+ 
+Source: Primary data 
+4.6 Implications of the research objectives 
+4.6.1 Research Objective One 
+The research findings revealed several implications for this objective. 
+Easy access to healthcare. Health insurance coverage ensures that both students and staff have easy access 
+to healthcare services, promoting timely medical attention without financial barriers. This implies that 
+
+37 
+ 
+having health insurance can lead to improved health outcomes by facilitating early diagnosis and 
+treatment. 
+Financial protection. Health insurance acts as a safety net, protecting individuals from the financial 
+burden of high medical costs. This financial protection not only benefits the individuals but also 
+contributes to their overall peace of mind, reducing financial stress. It implies that health insurance can 
+alleviate financial strain caused by healthcare expenses. 
+Improved health outcomes. The study indicates that health insurance leads to improved health outcomes 
+by providing regular access to medical services and treatments. This implies that individuals with health 
+insurance are more likely to manage and address health conditions effectively, resulting in better health 
+management and quicker recovery from illnesses. 
+4.6.2 Research Objective Two 
+The research provided insights into the types of health insurance coverage chosen by students and staff, 
+leading to the following implications. 
+Diversity of choices. The study reveals a diversity of choices, including family insurance, employer-
+sponsored health insurance, individual insurance plans, and group insurance. This implies that individuals 
+have varying preferences when it comes to health insurance, and there is no one-size-fits-all solution. 
+Family-oriented coverage. A significant portion of respondents opt for family insurance, indicating the 
+importance of extending coverage to dependents. This implies that many individuals prioritize the well-
+being of their families when selecting health insurance. 
+Employer involvement. The presence of employer-sponsored health insurance suggests a strong 
+connection between employers and their employees' well-being. This implies that employers play a 
+crucial role in facilitating access to healthcare resources for their workforce. 
+4.6.3 Research Objective Three 
+4.6.3.1 The challenges faced without health insurance coverage 
+High medical costs. The study highlights the burden of high medical costs as a significant challenge. This 
+implies a need for policies and initiatives to make healthcare more affordable and accessible, such as 
+subsidies or government-sponsored healthcare programs. 
+
+38 
+ 
+Limited regular health checkups.  The absence of insurance coverage leads to limited access to regular 
+health checkups. Possible solutions include promoting preventive care awareness and providing 
+affordable screening programs. 
+Medical debts.  Accumulating medical debts is a pressing concern. Solutions could involve financial 
+education on managing healthcare expenses and the availability of medical debt relief programs. 
+Delayed treatments. Delayed treatments due to financial concerns can worsen health conditions. Solutions 
+may include expanding access to low-cost or free healthcare clinics for the uninsured and underprivileged 
+populations. 
+4.6.3.2 Solutions to the challenges 
+The following were the possible solutions to address the challenges associated with having no health 
+insurance coverage. 
+High medical costs. 
+Healthcare cost transparency: Promoting transparency in healthcare pricing, allowing individuals to 
+compare costs and make informed decisions. 
+Subsidies and financial aid. Offering government subsidies or financial aid programs to make health 
+insurance more affordable for low-income individuals and families. 
+Community health clinics: Expanding the availability of community health clinics that offer low-cost or 
+free medical services to uninsured individuals. 
+Limited regular health checkups: 
+Health education: Increasing health education initiatives to emphasize the importance of regular checkups 
+and preventive care. 
+Preventive care programs: Developing programs that provide free or low-cost screenings and checkups to 
+underserved populations. 
+Telehealth Services: Promoting telephone health services for remote and underserved areas, making it 
+easier for individuals to access healthcare advice and consultations. 
+Medical debts: 
+
+39 
+ 
+Medical debt relief programs through establishing programs to assist individuals in managing and 
+reducing medical debts, possibly through negotiated settlements or debt forgiveness. 
+Financial counseling through offering financial counseling services to individuals facing medical debt, 
+helping them navigate and negotiate payment plans. 
+Regulation of medical billing. Implementing regulations to prevent surprise medical billing and ensure 
+fair and transparent billing practices. 
+Delayed treatments 
+Free or low-cost clinics: Increasing the availability of free or low-cost healthcare clinics, especially in 
+underserved areas, to provide timely treatment options. 
+Public health campaigns.  Launching public health campaigns to raise awareness about the risks of 
+delaying medical treatment and encourage early intervention. 
+Telemedicine expansion. Expanding telemedicine services to enable individuals to consult with 
+healthcare professionals without the need for in-person visits. 
+Promoting Health Insurance Enrollment: 
+Education and outreach through conducting educational campaigns to inform individuals about the 
+benefits of health insurance and how to enroll. 
+Subsidies and incentives through providing financial incentives or subsidies for individuals to enroll in 
+health insurance plans, particularly for those with limited financial means. 
+Employer involvement through encouraging employers to offer affordable health insurance options to 
+their employees and facilitate enrollment. 
+ 
+ 
+ 
+ 
+ 
+
+40 
+ 
+CHAPTER FIVE 
+SUMMARY, CONCLUSION AND RECOMMENDATIONS 
+5.1 Introduction 
+This chapter gives a summary of the entire study, draws conclusions and offers recommendations on the 
+likely findings of the benefits of this study. 
+5.2 Summary 
+The main objective of this study was to establish the benefits of health insurance coverage amongst 
+University students of Uganda Christian University. Other objectives were to find out the types of health 
+insurance coverage, challenges faced and necessary solutions.  
+Uganda Christian University has a population of about 15,000 students. The sample size was 81 derived 
+by purposive sampling since the Krejcie and Morgan (1970) was giving a big sample size. The 
+questionnaire was designed on Google Forms and the link shared across all faculties and schools within 
+UCU so as to collect primary data from respondents across the University, which data was analyzed by 
+Google Forms in the form of descriptive statistics.  
+The males consisted of 40.7% whilst the females took 59.3% of the total sample size. Majority of the 
+respondents were of the age of 18 to 25 years taking a percentage of 87.7%, respondents with ages 
+between 25 to 32 years taking 11.1% and finally respondents of the age 32 years and above taking the 
+least percentage of 1.8%. The highest number of respondents were Bachelors students taking a percentage 
+of 97.5% and those doing masters taking the remaining 2.5%. 
+Some of the benefits of health insurance coverage were easy access to health care, financial protection 
+and improved health. Majority of the respondents rated these benefits as being of high importance. Some 
+of the available insurance coverage types were employer – sponsored health insurance taking 21.8%, 
+family insurance taking 25.6%, individual insurance taking 9% and group insurance with 1.3% of the 
+total respondents.  
+High medical costs, limited regular health checkups, medical debts (unpaid bills) and delayed or 
+inadequate treatment were some of the challenges that come about as a result of not having an insurance 
+coverage. High medical costs taking the lead. The solution therefore of preventing all these challenges 
+was basically signing up for an insurance coverage.  
+5.3 Conclusion 
+
+41 
+ 
+In conclusion, this study delved into the benefits of health insurance coverage among the student 
+population at Uganda Christian University. Through a carefully designed methodology involving a 
+sample size of 80 respondents, representing the diverse demographics of the university, we examined the 
+multifaceted impacts of insurance coverage on the well-being of students. 
+The findings from this study illuminated a spectrum of advantages tied to health insurance coverage. 
+Among the most noteworthy benefits were easy access to crucial healthcare services, ensuring financial 
+protection against unforeseen medical expenses, and contributing to overall improved health outcomes. 
+The significance attributed to these benefits by the majority of respondents underscores the importance of 
+insurance coverage in safeguarding the physical and financial health of the university's student 
+community. 
+Moreover, the study revealed various types of insurance coverage prevalent among the surveyed 
+population. These included employer-sponsored health insurance, family insurance, individual insurance, 
+and group insurance. While the proportions varied, they collectively highlighted the diverse avenues 
+through which students could secure their health and financial interests. 
+Nevertheless, challenges persist for those without insurance coverage and yet according to this study, the 
+greatest number of respondents do not have health insurance. High medical costs emerged as the 
+predominant concern, along with limited access to regular health checkups, medical debts, and delayed or 
+inadequate treatment. To address these challenges, the unequivocal solution rests in the adoption of 
+insurance coverage. By encouraging a culture of enrollment in health insurance programs, Uganda 
+Christian University can actively mitigate the burdens that arise from these obstacles. 
+In essence, the exploration of health insurance coverage within the context of Uganda Christian 
+University highlights not only the tangible advantages that such coverage brings to students but also the 
+collective responsibility of the university to prioritize the well-being and future prospects of its student 
+body. Through strategic action and advocacy, the university can set a precedent for comprehensive 
+student care, enhancing the overall educational experience and nurturing a healthier, more secure 
+academic environment. 
+5.4 Recommendations 
+In the pursuit of academic excellence and personal growth, the well-being of students is paramount. This 
+is especially true in the realm of healthcare, where unforeseen medical expenses can pose significant 
+challenges. The study conducted at Uganda Christian University sheds light on the benefits of health 
+
+42 
+ 
+insurance coverage among its student population. As the findings reveal the profound impact of insurance 
+coverage, a set of necessary recommendations emerges to ensure a healthier, more secure future for the 
+university's students. 
+One pivotal recommendation is the initiation of comprehensive awareness campaigns about health 
+insurance. By leveraging various communication channels such as workshops, seminars, and social media, 
+the university can impart vital information about the advantages of insurance coverage. 
+Based on the insights gleaned from this study, it is recommended that Uganda Christian University takes 
+proactive measures to promote health insurance awareness and enrollment. Collaborations with insurance 
+providers, informational campaigns, and offering tailored insurance plans could facilitate increased 
+participation among students. Moreover, fostering partnerships with medical facilities to ensure 
+affordable and accessible healthcare for insured students would reinforce the benefits of insurance 
+coverage. 
+Addressing potential misconceptions and concerns will foster a clearer understanding among students, 
+encouraging them to explore insurance options proactively. 
+To resonate with the diverse demographics of the student body, tailored insurance plans are essential. 
+Collaborating with insurance providers to design plans that align with the unique healthcare needs and 
+financial situations of students will increase the relevance of insurance offerings. By providing options 
+that cater to different stages of life and individual preferences, the university can empower students to 
+make informed choices about their health and financial security. 
+Streamlining the enrollment process for insurance coverage is a pivotal step in maximizing participation. 
+By simplifying procedures and offering user-friendly online enrollment options, the university can 
+remove barriers that might deter students from signing up. This seamless process will ensure that every 
+student has equal access to insurance benefits without unnecessary obstacles. 
+Additionally, integration of insurance-related information into the university's orientation programs is 
+another key recommendation. By introducing incoming students to the concept of health insurance 
+coverage early in their academic journey, the university can instill a sense of responsibility for their 
+health and well-being from the outset. 
+Partnerships with local healthcare facilities and clinics are crucial for translating insurance coverage into 
+tangible healthcare access. Negotiating favorable rates and services for insured students will enhance the 
+
+43 
+ 
+overall value proposition of insurance. This collaborative approach ensures that insured students receive 
+regular health checkups, timely medical interventions, and reduced medical costs when needed. 
+Lastly, fostering financial literacy among students is a foundational recommendation. Incorporating 
+financial education programs into the curriculum will equip students with the knowledge and skills to 
+manage their finances effectively. Understanding insurance premiums, deductibles, and the financial 
+implications of medical emergencies empowers students to make well-informed decisions about their 
+insurance choices. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44 
+ 
+ 
+REFERENCES 
+ 
+Adeyemi, M., Evans, D., & Ezejimofor, M. (2019). Socioeconomic determinants of health insurance 
+ownership among urban and rural women in Nigeria. PLOS ONE, 14(1), e0210002. 
+https://doi.org/10.1371/journal.pone.0210002 
+American Psychological Association. (2017). Ethical principles of psychologists and code of conduct. 
+https://www.apa.org/ethics/code 
+Apolot, R. R., Bazeyo, W., & Lubyayi, L. (2020). Health insurance coverage among university students 
+in Uganda: A cross-sectional study of its influence on health-seeking behavior. BMC Health 
+Services Research, 20(1), 303. https://doi.org/10.1186/s12913-020-05184-3 
+Ayanian, J. Z., Ehrlich, G. M., & Grimes, D. R. (2016). Mental health care disparities during the COVID-
+19 
+pandemic. 
+New 
+England 
+Journal 
+of 
+Medicine, 
+383(6), 
+e44. 
+https://doi.org/10.1056/NEJMp2021891 
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in 
+Psychology, 3(2), 77-101. https://doi.org/10.1191/1478088706qp063oa 
+Cohen, L., Manion, L., & Morrison, K. (2018). Research methods in education (8th ed.). Routledge. 
+Collins, S. R., Gunja, M., Doty, M. M., & Beutel, S. (2019). How well does insurance coverage protect 
+consumers from health care costs? Findings from the Commonwealth Fund Biennial Health 
+Insurance Survey, 2018. The Commonwealth Fund. https://doi.org/10.26099/q5tn-5291 
+Creswell, J. W., & Plano Clark, V. L. (2017). Designing and conducting mixed methods research (3rd 
+ed.). SAGE Publications. 
+
+45 
+ 
+Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). Internet, phone, mail, and mixed-mode surveys: 
+The tailored design method (4th ed.). John Wiley & Sons. 
+Flick, U. (2018). An introduction to qualitative research (6th ed.). SAGE Publications. 
+Gomm, R., Hammersley, M., & Foster, P. (2000). Case study method: Key issues, key texts. SAGE 
+Publications. 
+Hadley, J., Simon, K., & Winter, A. (2019). Health insurance coverage and health outcomes of the near-
+elderly. Health Services Research, 54(S1), 317–326. https://doi.org/10.1111/1475-6773.13130 
+Johnson, R. B., & Onwuegbuzie, A. J. (2004). Mixed methods research: A research paradigm whose time 
+has come. Educational Researcher, 33(7), 14-26. https://doi.org/10.3102/0013189X033007014 
+Kabwama, S. N., Rutebemberwa, E., & Mijumbi, R. (2021). Longitudinal effects of health insurance 
+coverage on health status and mortality among university staff in Uganda. International Journal of 
+Health Economics and Policy, 6(1), 12–21. https://doi.org/10.11648/j.ijhep.20210601.13 
+Kamugumya, D. K., Kiwuwa, S. M., & Nsubuga, B. R. (2021). Health insurance, health care seeking 
+behaviour, and satisfaction with health services in Uganda: Results from a national household 
+survey. PLOS ONE, 16(1), e0245519. https://doi.org/10.1371/journal.pone.0245519 
+Kenney, G. M., Zuckerman, S., Dubay, L., & Huntress, M. (2020). Medicare and Medicaid dual 
+eligibility rates among nonelderly adults with and without disabilities: Evidence from the National 
+Health 
+Interview 
+Survey. 
+Inquiry, 
+57, 
+0046958020937519. 
+https://doi.org/10.1177/0046958020937519 
+
+46 
+ 
+Kusi, A., Enemark, U., Hansen, K. S., Asante, F. A., Baiden, F., & Owusu-Agyei, S. (2019). 
+Determinants of health insurance enrolment in Ghana: Evidence from three national household 
+surveys. Health Policy and Planning, 34(8), 582–589. https://doi.org/10.1093/heapol/czz082 
+McWilliams, J. M., Afendulis, C. C., McGuire, T. G., & Landon, B. E. (2019). Complex Medicare 
+advantage choices may overwhelm seniors—especially those with impaired decision making. 
+Health Affairs, 38(2), 239–246. https://doi.org/10.1377/hlthaff.2018.05377 
+Merriam, S. B. (2009). Qualitative research: A guide to design and implementation. John Wiley & Sons. 
+Miles, M. B., Huberman, A. M., & Saldana, J. (2018). Qualitative data analysis: A methods sourcebook 
+(4th ed.). SAGE Publications. 
+Mutebi, A., Asiki, G., & Kakaire, A. (2019). Effect of subsidy on utilization of health services: Evidence 
+from a low-income setting in Uganda. Social Science & Medicine, 239, 112536. 
+https://doi.org/10.1016/j.socscimed.2019.112536 
+Namaganda, E., Kibuule, D., Ssengooba, F., Kigozi, J., & Kawungezi, P. (2021). Implementing university 
+health insurance programs in resource-constrained settings: Lessons from Uganda Christian 
+University. Global Health Research and Policy, 6(1), 20. https://doi.org/10.1186/s41256-021-
+00189-7 
+Obinna, C. N., Eke, C. B., & Eze, J. N. (2020). Factors influencing health insurance coverage among 
+rural 
+households 
+in 
+Nigeria. 
+BMC 
+Health 
+Services 
+Research, 
+20(1), 
+411. 
+https://doi.org/10.1186/s12913-020-05214-0 
+Okello, E., Nakirijja, R., Mulondo, R., Mugeni, J., Obuku, E., & Wanyenze, R. (2021). The effects of 
+health insurance on health outcomes: A longitudinal study of university students in Uganda. BMC 
+Health Services Research, 21(1), 378. https://doi.org/10.1186/s12913-021-06344-6 
+
+47 
+ 
+Polit, D. F., & Beck, C. T. (2017). Nursing research: Generating and assessing evidence for nursing 
+practice (10th ed.). Wolters Kluwer. 
+Sekaran, U., & Bougie, R. (2016). Research methods for business: A skill-building approach (7th ed.). 
+John Wiley & Sons. 
+Smith, J. (2021). Dropping out of voluntary community- based health insurance in rural Uganda: 
+Evidence from a cross – sectional study in rural south – western Uganda. PLOS ONE, 16(7), 
+e0253368. https://doi.org/10.1371/journal.pone.0253368 
+Sommers, B. D., Long, S. K., Baicker, K., & Epstein, A. M. (2012). Insurance coverage increases access 
+to care and improves health outcomes. Annals of Internal Medicine, 157(7), 525–532. 
+https://doi.org/10.7326/0003-4819-157-7-201210020-00004 
+Stoecker, R. (1991). Community-based research and higher education. The Rockerfeller Foundation. 
+Wanyenze, R., Nanyunja, J., Bateganya, M., & Mayanja-Kizza, H. (2020). The impact of health insurance 
+coverage on healthcare utilization patterns and financial protection among university students in 
+Uganda: 
+A 
+longitudinal 
+study. 
+BMC 
+Health 
+Services 
+Research, 
+20(1), 
+366. 
+https://doi.org/10.1186/s12913-020-05205-1 
+Yin, R. K. (1994). Case study research: Design and methods. Sage Publications. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+48 
+ 
+ 
+ 
+APPENDICES 
+ 
+ 
+BUDGET 
+MONTH 
+DETAILS 
+AMOUNT 
+July 
+Printing rough copy of 
+research study 
+10,000 
+August 
+Printing rough copy of 
+research study 
+Transport costs 
+25,000 
+ 
+20,000 
+TOTAL 
+ 
+55,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+49 
+ 
+ 
+ 
+QUESTIONNAIRE 
+ 
+QUESTIONNAIRE 
+This questionnaire is on the study of the beneﬁts of health insurance coverage which seeks to collect your views 
+on the subject above. 
+This survey should not take morethan 3 minutes to ﬁll. 
+ 
+The study guarantees complete anonymity and will treat all responses with full conﬁdentiality. I highly appreciate 
+your time and response. 
+ 
+In the event you have any questions, please email me: gri
+ﬃnedmond2@gmail.com Thank you. 
+ 
+Griﬃn Arinaitwe Eddy Researcher, UCU. 
+  
+* Indicates required question 
+ 
+ 
+ 
+1. 
+Please indicate your consent to participate in this research by selecting one of the 
+* options below. 
+ 
+Mark only one oval. 
+ 
+I agree 
+I disagree 
+ 
+ 
+ 
+
+50 
+ 
+ 
+2. 
+PART A: Background information of the respondent. * 
+ 
+Gender 
+ 
+Mark only one oval. 
+ 
+Male Female 
+
+51 
+ 
+3. 
+Age * 
+ 
+Mark only one oval. 
+ 
+18-25 
+25-32 
+32 and above 
+ 
+ 
+ 
+ 
+4. 
+Level of Education (Highest Academic Qualiﬁcation) * 
+ 
+Mark only one oval. 
+ 
+Bachelors Degree Masters Degree Doctrate 
+ 
+ 
+ 
+5. 
+PART B: 
+* 
+Have you heard of Health insurance before? 
+ 
+Mark only one oval. 
+ 
+Yes No 
+ 
+ 

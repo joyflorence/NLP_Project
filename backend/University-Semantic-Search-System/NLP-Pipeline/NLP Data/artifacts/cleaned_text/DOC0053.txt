@@ -1,0 +1,69 @@
+Catherine Bwire
+(ITIL,CISA, CISM,CCNA, CEH, ISO27001 & ISO27701 lead Implementer)
+Department of Computing & Technology
+Faculty of Engineering, Design & Technology
+Cyber & Digital Forensics
+Digital Forensics
+Lecture Overview
+Evidence Imaging – software
+installation setup
+Evidence Imaging
+
+Evidence Imaging
+•
+Forensic evidence has to be imaged and duplicated
+•
+The image can be used for forensic analysis
+•
+The original evidence item must not be used for analysis
+•
+Imaging creates a bit by bit image of the evidence item
+•
+The evidence item could be a hard drive,USB,SSD
+•
+All the files and folders have to be hashed
+•
+FTK imager from AccessData and Autopsy are some of the tools we shall use to create forensic images
+of evidence.
+Downloading of FTK Imager
+Click to access Installation files
+FTK Imager Version 4.5 |
+Exterro
+OR
+Paste below link into your
+browser
+https://www.exterro.com/ftkproduct-downloads/ftk-imagerversion-4-5
+
+Downloading of Autopsy
+Click to access Installation files
+Autopsy – Download
+OR
+Paste below link into your
+browser
+https://www.autopsy.com/down
+load/
+Take Home:
+•
+Install and download digital forensics tools - FTK Imager and Autopsy
+•
+Get familiar with the interface
+
+@ugandachristianuniversity
+@UCUniversity
+@UgandaChristianUniversity
+P.O. Box 4 Mukono, Uganda
+Tel: 256-312-350800
+https://ucu.ac.ug/
+Email: info@ucu.ac.ug.
+Uganda Christian University
+https://cse.ucu.ac.ug/
+@ucu_ComputEng
+@ucucomputeng
+Tel: +256 (0) 312 350 863 | WhatsApp: +256 (0) 708 114 300
+Department of Computing & Technology
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY
+Email: dct-info@ucu.ac.ug
+NEXT TOPIC: Evidence
+
+
+Imaging

@@ -1,0 +1,1696 @@
+THE IMPACT OF AIDS HEALTH FOUNDATION AHF PROGRAM ON THE
+WELLBEING OF PEOPLE LIVING WITH HIV/AIDS IN MASAKA DISTRICT
+JACKLINE NAKATO
+S19B15/432
+A DISSERTATION SUBMITTED TO THE SCHOOL OF SOCIAL SCIENCES
+IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR AWARD OF A DEGREE OF
+BACHELOR OF SOCIAL WORK AND SOCIAL ADMINISTRATION OF UGANDA CHRISTIAN
+UNIVERSITY
+August, 2024
+
+
+
+i
+
+
+
+
+
+ii
+
+
+
+
+
+iii
+
+DEDICATION
+I dedicate this study to my family especially my parents; Mr. Lawrence Theissen and Mrs.
+Namuganyi Eva; Aunty Namiiro Esther and Childcare Worldwide, who sponsored, guided, and
+mentored me throughout my studies up to the University. Above all, I give thanks to the Almighty
+God for His abundant grace and provision in this journey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+
+ACKNOWLEDGEMENT
+My supervisor, Mrs. Imelda Wabulembo, deserves a lot of credit for her efficient management,
+commitment, availability, and sound counsel.
+I would also like to acknowledge my family for being there for me in all situations.
+I want also to express my gratitude to all the respondents in Masaka district for providing me with
+important information that enabled this study to be successful.
+Finally, I express my gratitude to the All-Powerful God through Jesus Christ for giving me the
+wonderful health and stamina necessary to complete the research.
+Thank you so much, I am forever grateful!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+Table of Contents
+DECLARATION............................................................................................................................ i
+APPROVAL ................................................................................................................................. iii
+DEDICATION.............................................................................................................................. iii
+ACKNOWLEDGEMENT ........................................................................................................... iv
+LIST OF TABLES ..................................................................................................................... viii
+LIST OF ACRONYMS ............................................................................................................... ix
+ABSTRACT ................................................................................................................................... x
+CHAPTER ONE ........................................................................................................................... 1
+INTRODUCTION......................................................................................................................... 1
+1.0 Introduction ........................................................................................................................... 1
+1.1 Background of the study ....................................................................................................... 1
+1.2 Problem statement ................................................................................................................. 3
+1.3 Purpose of the study .............................................................................................................. 4
+1.4 Objectives of the study .......................................................................................................... 4
+1.5 Research questions ................................................................................................................ 4
+1.6 Scope of the study ................................................................................................................. 4
+1.6.1 Content scope ................................................................................................................. 5
+1.6.2 Geographical scope......................................................................................................... 5
+1.6.3 Time scope ...................................................................................................................... 5
+1.7 Justification of the study ....................................................................................................... 5
+1.8 Significance of the study ....................................................................................................... 6
+1.9 Conceptual framework .......................................................................................................... 7
+1.10 Operational definitions of the study .................................................................................... 8
+CHAPTER TWO .......................................................................................................................... 9
+LITERATURE REVIEW ............................................................................................................ 9
+2.0 Introduction ........................................................................................................................... 9
+2.1 Concept of HIV/AIDS ........................................................................................................... 9
+2.2AIDS Health Foundation (AHF) Program ........................................................................... 11
+2.3 Influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS ................. 13
+
+
+
+vi
+
+2.4 Influence of testing services on the wellbeing of people living with HIV/AIDS ............... 15
+2.5 Influence of education and counseling on the wellbeing of people living with HIV/AIDS 18
+CHAPTER THREE .................................................................................................................... 21
+RESEARCH METHODOLOGY .............................................................................................. 21
+3.0 Introduction ......................................................................................................................... 21
+3.1 Research design ................................................................................................................... 21
+3.2 Study area ............................................................................................................................ 21
+3.3 Study population and size ................................................................................................... 22
+3.4 Sample size determination .................................................................................................. 22
+3.5 Sampling method................................................................................................................. 23
+3.6 Sources of data .................................................................................................................... 23
+3.6.1 Primary source .............................................................................................................. 23
+3.6.2 Secondary source .......................................................................................................... 24
+3.7 Data collection methods and instruments............................................................................ 24
+3.7.1 Questionnaires .............................................................................................................. 24
+3.7.2 Interviews ..................................................................................................................... 24
+3.8 Data collection procedure.................................................................................................... 25
+3.9 Quality and error control ..................................................................................................... 25
+3.9.1 Validity of the research instrument .............................................................................. 25
+3.9.2 Reliability of the research instrument ........................................................................... 25
+3.10 Data analysis ..................................................................................................................... 26
+3.11 Ethical considerations ....................................................................................................... 26
+3.12 Limitations and delimitations of the study ........................................................................ 26
+CHAPTER FOUR ....................................................................................................................... 27
+PRESENTATION, INTERPRETATION AND DISCUSSION OF RESULTS .................... 27
+4.0 Introduction ......................................................................................................................... 27
+4.1 Response rate....................................................................................................................... 27
+4.2 Descriptive analysis of the demographic characteristics of respondents ............................ 28
+4.3 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS .......... 30
+4.3.1 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS ... 32
+4.4 The influence of testing services on the wellbeing of people living with HIV/AIDS ........ 33
+
+
+
+vii
+
+4.4.1 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS ... 35
+4.5 Influence of education and counseling on the wellbeing of people with HIV/AIDS ......... 36
+4.5.1 Influence of education & counseling on the wellbeing of people with HIV/AIDS ..... 38
+CHAPTER FIVE ........................................................................................................................ 40
+SUMMARY OF FINDINGS, CONCLUSIONS AND RECOMMENDATIONS ................. 40
+5.0 Introduction ......................................................................................................................... 40
+5.1 Summary of findings ........................................................................................................... 40
+5.2 Conclusion ........................................................................................................................... 41
+5.3 Recommendations ............................................................................................................... 41
+5.4 Areas for further research .................................................................................................... 42
+REFERENCES ............................................................................................................................ 44
+APPENDICES ............................................................................................................................. 48
+Appendix 1: Questionnaire........................................................................................................ 48
+Appendix 2: Interview Guide .................................................................................................... 52
+Appendix 3: Map showing location of Masaka in Uganda ....................................................... 54
+Appendix 4: Map showing location of AIDS Health Foundation (AHF) main offices ............ 54
+
+
+
+
+
+
+
+
+
+
+
+
+
+viii
+
+LIST OF TABLES
+Table 1: Population study and its categories ................................................................................. 22
+Table 2: Response rate .................................................................................................................. 27
+Table 3: Showing of demographic characteristics of respondents ................................................ 28
+Table 4: The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS ..... 30
+Table 5:The influence of testing services on the wellbeing of people living with HIV/AIDS ..... 33
+Table 6: Influence of education & counseling on the wellbeing of people with HIV/AIDS ........ 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+LIST OF ACRONYMS
+AHF: - The AIDS Health Foundation
+ART: - Antiretroviral therapy
+BSSR: - Behavioral and Social Science Research
+HIV/AIDS: - Human Immunodeficiency Virus/ Acquired Immunodeficiency Syndrome
+PMTCT: - Prevention of mother-to-child transmission
+SPSS: Statistical Package for Social Sciences
+UBOS: - The Uganda Bureau of Statistics
+UNAIDS: - Joint United Nations Programme on HIV/AIDS
+UPHIA: - Uganda Population-Based HIV Impact Assessment
+WHO: - World Health Organization
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+ABSTRACT
+The study aimed at examining the impact of the AIDS Health Foundation (AHF) Program on the
+well-being of people living with HIV/AIDS in Masaka District. It specifically focused on;
+establishing the influence of ARVs’ supply on the well-being of people living with HIV/AIDS,
+examining the influence of testing services on the well-being of people living with HIV/AIDS and
+finding out the influence of education and counseling on the wellbeing of people living with
+The study was carried out using an explanatory research design where both quantitative and
+qualitative research approaches were also used. The data was collected using questionnaires and
+interviews during the data collection, both purposive and simple random sampling methods were
+used. A sample size of 55 respondents who are adults aged 18-60 years with HIV/AIDS in Masaka
+and the health practitioners from AHF Uganda also participated in the study.
+From the findings, it was revealed that AHF's ARV supply, testing services, and
+education/counseling programs in Masaka district have received predominantly positive feedback.
+Respondents reported improved health outcomes with ARV programs, citing easy access and
+reliability, although some concerns about ARV quality were noted. Testing services were praised
+for accessibility, confidentiality, and effectiveness in promoting early diagnosis and treatment.
+Education and counseling were seen to empower individuals, enhance knowledge about HIV
+management, and mitigate emotional challenges, though areas for improvement in comprehensive
+patient needs were identified. Overall, AHF's integrated approach positively impacts wellbeing
+and health outcomes for people living with HIV/AIDS in Masaka district.
+Lastly, the study recommended that AHF Uganda should focus on improving ARV supply quality
+and consistency, enhancing HIV testing service accessibility and confidentiality, and integrating
+comprehensive education and counseling programs in Masaka district. By ensuring rigorous
+monitoring of ARV quality and supply chains, expanding outreach efforts for testing services, and
+diversifying educational and counseling support, AHF can enhance patient confidence, promote
+early diagnosis and treatment, and improve overall health outcomes effectively.
+
+
+
+
+
+CHAPTER ONE
+INTRODUCTION
+1.0 Introduction
+This study aimed at investigating the impact of AIDS Health Foundation (AHF) programs on the
+wellbeing of people living with HIV/AIDS in Masaka District, examining how AHF’s initiatives
+affect their health, access to care, and overall quality of life. Therefore, this chapter provides an
+overview of the research, outlining the study’s background, addressing the central problem, and
+detailing its purpose and objectives. It also defines the research questions, specifies the scope,
+highlights the study’s significance, and presents the conceptual framework guiding the
+investigation.
+1.1 Background of the study
+HIV/AIDS has had a devastating impact on global health, with millions of people affected and
+millions of lives lost since the emergence of the epidemic in the 1980s. Efforts to combat the
+disease have been ongoing, with various organizations, programs, and interventions implemented
+worldwide (UNAIDS, 2016). The AIDS Health Foundation (AHF) is one such organization that
+has been actively involved in addressing the challenges posed by HIV/AIDS. AHF is a global
+nonprofit organization that provides comprehensive HIV/AIDS prevention, care, and advocacy
+services (McDonald, 2016). It operates in numerous countries across the globe, with a focus on
+areas heavily affected by the epidemic. The organization aims to improve the well-being and
+quality of life of people living with HIV/AIDS through the provision of accessible and affordable
+healthcare services, advocacy for policy change, and community mobilization (Qiao et al., 2019).
+Sub-Saharan Africa remains the most heavily affected region by the HIV/AIDS epidemic.
+According to the Joint United Nations Programme, on HIV/AIDS (UNAIDS), in 2020,
+approximately 67% of all people living with HIV worldwide resided in sub-Saharan Africa. The
+region also accounted for 71% of new HIV infections and 75% of AIDS-related deaths globally.
+Despite the devastating impact of HIV/AIDS in Africa, significant progress has been made in
+recent years. Increased access to antiretroviral therapy (ART), prevention interventions, and
+improved healthcare infrastructure have contributed to a reduction in new infections and AIDS-
+
+
+
+
+related deaths (Bulstra et al., 2020). However, challenges such as stigma, limited resources, and
+weak healthcare systems continue to hamper efforts to control the epidemic effectively (Anywar
+et al., 2020).
+Uganda has made significant strides in combating the HIV/AIDS epidemic over the past few
+decades. In the early years of the epidemic, Uganda faced high infection rates, but the country's
+response, including an emphasis on prevention, behavior change communication, and community
+engagement, led to a decline in HIV prevalence (UNAIDS 2018). Over the years, Uganda
+implemented a comprehensive and multi-sectoral approach to HIV/AIDS prevention and control.
+The government, in collaboration with national and international organizations, prioritized
+prevention strategies, including behavior change communication, condom promotion, and
+voluntary counseling and testing. These efforts, combined with increased access to antiretroviral
+therapy (ART), contributed to a decline in HIV prevalence and a reduction in AIDS-related deaths
+(WHO, 2020). Despite the progress made, Uganda still faces significant challenges in addressing
+the HIV/AIDS epidemic. Factors such as stigma, limited resources, gender inequalities, and the
+presence of key populations at higher risk of infection (such as sex workers and men who have sex
+with men) continue to impact the overall response to HIV/AIDS in the country (Karamagi et al.,
+2018).
+Masaka District, located in the central region of Uganda, has been identified as one of the areas
+with a relatively high prevalence of HIV/AIDS. According to the Uganda Population-based HIV
+Impact Assessment (UPHIA) 2020 survey, the overall HIV prevalence in Uganda was estimated
+at 5.7% (Ssemwanga et al., 2020). However, the prevalence varies across regions and districts.
+While specific data on HIV prevalence in Masaka District might not be available for the most
+recent years, previous studies provide valuable insights. For instance, the Uganda Population and
+Housing Census of 2014 indicated that Masaka District had an HIV prevalence of 7.9%, which
+was higher than the national average at that time. This highlights the need for targeted interventions
+and programs to address the specific challenges faced by individuals living with HIV/AIDS in the
+district (Muttai et al., 2021).
+The AIDS Health Foundation (AHF) Program operates in Masaka District, providing a range of
+services to people living with HIV/AIDS. The program aims to improve the well-being and quality
+of life of individuals affected by HIV/AIDS by addressing their comprehensive needs (Bbosa et
+
+
+
+
+al., 2021). Some of the key components of the AHF Program in Masaka District include: HIV
+Testing and Counseling, access to Antiretroviral Therapy (ART), adherence support, prevention
+interventions and psychosocial support. The AHF Program in Masaka District is implemented
+through partnerships with local healthcare facilities, community-based organizations, and other
+stakeholders (Ssewamala et al., 2021). By working closely with these entities, the program aims
+to strengthen the healthcare system, enhance service delivery, and promote community
+engagement in HIV/AIDS prevention and care (Kavuma et al., 2022). Despite the great strides
+made, the people in Masaka still face significant challenges in addressing the HIV/AIDS epidemic
+which necessitates the need to conduct this study.
+1.2 Problem statement
+The AIDS Health Foundation (AHF) Program plays a crucial role in addressing the challenges
+faced by individuals affected by HIV/AIDS and contributes to improving their overall well-being
+(Karamagi et al., 2018).A study conducted by King et al. (2018) in Uganda showed that
+community-based interventions, such as those implemented by the AHF Program, effectively
+increased HIV testing rates and improved knowledge about HIV/AIDS among community
+members. Despite the benefits that come with the AHF Program in fighting HIV/AIDS, the
+wellbeing of the people living with HIV/AIDS especially in developing countries like Uganda is
+very low (Bbosa et al., 2021).
+For example, statistics show that Masaka District has been identified as an area with a relatively
+high prevalence of HIV/AIDS, according to UBOS (2022); the district had an HIV prevalence rate
+of 7.9%, surpassing the national average at that time. This could be attributed to the limited
+healthcare resources available to implement the program, limited healthcare resources, stigma and
+discrimination, poverty and socioeconomic inequalities and limited education and awareness. If
+this poor well-being of people living with HIV/AIDS in Masaka District is not adequately
+addressed, several negative consequences are likely to arise like health deterioration, increased
+transmission rates, social and economic burdens and mental health and psychosocial consequences
+(Kavuma et al., 2022).
+Furthermore, despite the existence of the AIDS Health Foundation (AHF) Program in Masaka
+District, there is a lack of comprehensive research examining the specific impact of the program
+
+
+
+
+on the well-being of people living with HIV/AIDS in the region. While studies like (Ogwang,
+2014;Kalibala et al., 2016) have highlighted the overall benefits of HIV/AIDS programs, there is
+a specific gap in understanding the effectiveness of the AHF Program in addressing the unique
+challenges faced by individuals in Masaka District and its direct impact on their well-being. This
+research therefore aimed to fill this gap by conducting a thorough evaluation of the AHF Program
+and its effects on the well-being of people living with HIV/AIDS in Masaka District.
+1.3 Purpose of the study
+The purpose of the study was to examine the impact of AIDS Health Foundation (AHF) Program
+on the wellbeing of people living with HIV/AIDS in Masaka District.
+1.4 Objectives of the study
+i.
+To establish the influence of ARVs’ supply on the wellbeing of people living with
+ii.
+To examine the influence of testing services on the wellbeing of people living with
+iii.
+To find out the influence of education and counseling on the wellbeing of people living
+with HIV/AIDS in Masaka district.
+1.5 Research questions
+i.
+What is the influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+in Masaka district?
+ii.
+What is the influence of testing services on the wellbeing of people living with HIV/AIDS
+in Masaka district?
+iii.
+What is the influence of education and counseling on the wellbeing of people living with
+HIV/AIDS in Masaka district?
+1.6 Scope of the study
+The scope of the study covered three dimensions that is; content, geographical and time and these
+were discussed in detail below:
+
+
+
+
+1.6.1 Content scope
+This study specifically focused on; establishing the influence of ARVs’ supply on the wellbeing
+of people living with HIV/AIDS, examining the influence of testing services on the wellbeing of
+people living with HIV/AIDS and finding out the influence of education and counseling on the
+wellbeing of people living with HIV/AIDS in Masaka district.
+1.6.2 Geographical scope
+Geographically, the study was conducted in Masaka district located in the central region of
+Uganda. The district is bordered by Bukomansimbi district to the north-west, Kalungu district to
+the north, Kalangala district to the east and south, Rakai district to the south-west, and Lwengo
+district to the west. Masaka district was chosen because it’s one of the areas with high HIV/AIDS
+prevalence where the AHF Program has been implemented a shown in Appendices 3 & 4.
+1.6.3 Time scope
+The study focused on scholarly material from the period 2018 to 2023. This period was selected
+to ensure the study incorporates the most recent and relevant data on AHF's impact and current
+HIV/AIDS care practices. It was also carried out for a period of three months from April to June,
+2024.
+1.7 Justification of the study
+Despite the existence of the AIDS Health Foundation (AHF) Program in Masaka District, there is
+a lack of comprehensive research both past and present examining the specific impact of the
+program on the well-being of people living with HIV/AIDS in the region. While studies like
+(Ogwang, 2014; Kalibala et al., 2016) have highlighted the overall benefits of HIV/AIDS
+programs, there is a specific gap in understanding the effectiveness of the AHF Program in
+addressing the unique challenges faced by individuals in Masaka District and its direct impact on
+their well-being. Therefore, once this study was finalized, it was hoped that it will provide
+necessary strategies that can be undertaken by the implementers of the AHF Program to improve
+on the services provided in the bid to improve the well-being of the people living with HIV/AIDS.
+
+
+
+
+1.8 Significance of the study
+To the individuals living with HIV/AIDS, this study will help them to understand the effectiveness
+of the program in addressing their needs and improving their overall quality of life. The study may
+also identify areas for improvement, leading to enhanced healthcare services, reduced stigma,
+increased support, and improved access to treatment and psychosocial services.
+To the healthcare providers, the study findings will help them to identify best practices, gaps, and
+areas for improvement in the delivery of HIV/AIDS care. This information can guide healthcare
+providers in enhancing their services, adopting evidence-based approaches, and improving patient
+outcomes. The study may also provide insights into capacity-building needs and opportunities for
+professional development.
+To the policymakers in Masaka District and beyond, the study findings will provide evidencebased recommendations for program improvement and policy development to enhance the wellbeing of people living with HIV/AIDS. Policymakers can utilize these recommendations to shape
+policies, allocate resources, and implement interventions that address the specific challenges faced
+by individuals affected by HIV/AIDS. The study may also highlight the importance of investing
+in HIV/AIDS programs and advocate for increased support at the policy level.
+To the future researchers, the study will contribute to the existing body of knowledge on
+HIV/AIDS programs and their impact on the well-being of individuals. Future researchers can
+build upon the findings of this study to conduct further investigations, explore specific aspects of
+the AHF Program’s impact, or compare the effectiveness of different interventions. The study may
+provide a foundation for future research and inspire new inquiries into improving the well-being
+of people living with HIV/AIDS in other contexts.
+
+
+
+
+
+
+
+
+1.9 Conceptual Framework
+Figure 1: Conceptual Framework
+Independent variable Dependent variable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Adapted from Anywar et al. (2020) and modified by me as the researcher (2023)
+The conceptual framework above shows the relationship between the independent variable (AHF
+Program) and the dependent variable (well-being of people with HIV/AIDS). AHF Program is
+measured using the services provided under the program which are; ARV’s supply, HIV-testing
+services, and education and counseling. On the other hand, the wellbeing of people living with
+HIV/AIDS is measured using; physical health, mental health, social support, quality of life and
+access to care & support services.
+Wellbeing of people with HIV
+ Depression levels
+ Stigma
+ Quality of life/ standards of
+living
+AHF Program Services
+ ARV’s supply
+ HIV-testing services
+ Education and counseling
+Other factors
+ Psychosocial disorders
+ Poor perceptions
+ Financial constraints and
+malnutrition
+
+
+
+
+1.10 Operational definitions of the study
+AIDS Health Foundation (AHF) Program: Refers to the specific program implemented by the
+AIDS Health Foundation in Masaka District, Uganda, aimed at providing comprehensive
+healthcare services, including HIV testing, counseling, access to antiretroviral therapy (ART),
+psychosocial support, and community engagement initiatives for individuals living with
+HIV/AIDS.
+Well-being: In the context of this study, well-being refers to the overall state of physical, mental,
+and social health and satisfaction experienced by individuals living with HIV/AIDS. It
+encompasses dimensions such as physical health, mental health, social support, quality of life, and
+access to care and support services (Marsh et al., 2020).
+Human Immunodeficiency Virus (HIV): HIV is a retrovirus that attacks the immune system,
+specifically the CD4 cells (T cells) which are crucial in fighting off infections. HIV can be
+transmitted through certain bodily fluids such as blood, semen, vaginal fluids, and breast milk.
+Once a person is infected with HIV, the virus replicates and gradually weakens the system, leading
+to a compromised ability to fight off infections and diseases (Winston & Spudich, 2020).
+Acquired Immunodeficiency Syndrome (AIDS): AIDS is the advanced stage of HIV infection
+characterized by severe damage to the immune system. It leaves the individual highly susceptible
+to opportunistic infections and certain types of cancers. The diagnosis of AIDS is based on the
+presence of specific opportunistic infections or a severely compromised CD4 cell count below a
+certain threshold (Pepin, 2021).
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO
+LITERATURE REVIEW
+2.0 Introduction
+This chapter presents the literature that was reviewed on the basis of the study objectives. The
+literature was selected, studied and arranged according to the themes relating to the impact of
+AIDS Health Foundation (AHF) Program on the wellbeing of people living with HIV/AIDS. The
+chapter presentation was under three sections; review of various theories and concepts,
+highlighting the objectives of the study and synthesis of literature and research gap analysis.
+Literature sources include books and journals aimed at providing insight in what has already been
+done within this area of study.
+2.1 Concept of HIV/AIDS
+The HIV/AIDS epidemic remains one of the most urgent global public health crises. AIDS causes
+over 1 million deaths each year, and there are over 2 million new HIV infections annually
+(UNAIDS, 2018). The United States has advanced a comprehensive national strategy to gain
+ground against HIV/AIDS, and reducing HIV/AIDS is featured in the US Department of Health
+and Human Services’ Healthy People 2020 goals. These strategic plans and actions are joined by
+global organizations, nations, and communities around the world who are collectively responding
+to the crisis of HIV/AIDS (Gaist & Stirratt, 2017).
+Important advances have been made that could turn the tide in HIV/AIDS. Recent ground-breaking
+trials indicate that HIV pre exposure prophylaxis (PREP) and “treatment as prevention” (TasP)
+reduce HIV transmission (Cohen et al., 2011). Early initiation of antiretroviral treatment (ART)
+offers significant clinical benefits to people living with HIV (PLWH). These advances have
+changed treatment and public health guidelines and have fostered greater emphasis on identifying
+PLWH and engaging them in treatment and care, along with improving PREP access and use
+among individuals at substantial risk for infection. Contributions from behavioral and social
+science research (BSSR) have occurred in parallel (Coates et al., 2014). Trial results indicate that
+mobilizing communities and reducing stigma can increase HIV testing and reduce HIV incidence,
+
+
+
+
+and that the delivery of technology-based interventions can increase viral suppression. On many
+fronts, this is a transformative time for HIV/AIDS research and practice (Kurth et al., 2015).
+HIV/AIDS is a significant public health concern in Uganda, with notable progress and ongoing
+challenges in combating the epidemic. According to the Uganda Population-Based HIV Impact
+Assessment (UPHIA) 2016-2017 survey, the national HIV prevalence among adults aged 15-64
+was estimated at 6.2%. This indicates that approximately 1.4 million adults in Uganda are living
+with HIV. Among children aged 0-14, the HIV prevalence was estimated at 0.5%. It is worth
+noting that HIV prevalence varies across regions, with higher rates observed in fishing
+communities and urban areas where mobility and risky behaviors may contribute to the spread of
+the virus (Musumari, 2021).
+In terms of new HIV infections, Uganda recorded an estimated 53,000 new cases in 2019. Among
+these, young people, particularly adolescent girls and young women, remain a key population at
+higher risk of acquiring HIV. Factors such as gender inequality, early sexual debut, limited access
+to comprehensive sexual and reproductive health services, and social and economic vulnerabilities
+contribute to the disproportionate burden of HIV among young women (Lunkuse et al., 2022).
+Uganda has made significant strides in expanding access to antiretroviral therapy (ART). As of
+2020, approximately 1.4 million people were receiving ART, representing 77% of the estimated
+1.8 million people living with HIV in the country. This progress is a result of efforts to scale up
+HIV treatment services, improve access to testing, and enhance care and support programs.
+However, the coverage of ART among children is lower compared to adults, with only about 56%
+of children in need of treatment receiving ART. Addressing this gap is crucial to ensure that all
+individuals living with HIV, including children, can access the life-saving treatment they need
+(Dirlikov et al., 2023).
+Prevention of mother-to-child transmission (PMTCT) services have also shown improvement in
+Uganda. The mother-to-child transmission rate was estimated at 6.2% according to the UPHIA
+2016-2017 survey. This indicates progress in reducing the transmission of HIV from mother to
+child. PMTCT interventions, including antiretroviral prophylaxis, HIV testing during pregnancy,
+and support for safe infant feeding practices, play a vital role in preventing new infections among
+children (Muwanguzi et al., 2019).
+
+
+
+
+Certain populations face a higher risk of HIV/AIDS in Uganda. These key affected populations
+include female sex workers, men who have sex with men, transgender individuals, injecting drug
+users, and mobile populations. These groups often experience unique challenges, including stigma,
+discrimination, limited access to healthcare services, and increased vulnerability to HIV
+transmission. Tailored prevention and treatment interventions are necessary to address the specific
+needs of these populations and reduce HIV transmission within these communities (Nakiganda et
+al., 2021).
+While Uganda has made significant progress in reducing HIV/AIDS-related deaths and improving
+access to treatment and prevention services, sustaining these gains and further reducing new
+infections remains a priority. Challenges such as inadequate resources, stigma, discrimination, and
+limited access to healthcare services in rural areas persist. Strengthening health systems, increasing
+investments in prevention, expanding access to testing and treatment, and promoting
+comprehensive sexual and reproductive health services are key strategies to address the HIV/AIDS
+epidemic in Uganda (Cooke et al., 2019).
+2.2AIDS Health Foundation (AHF) Program
+The Los Angeles-based AIDS Healthcare Foundation (AHF) is a global nonprofit organization
+providing high-quality HIV care and services to those in need. They generate new, innovative
+ways of treating and addressing barriers to care for our clients through a network of pharmacies,
+thrift stores, health and wellness centers, affordable housing locations, and food service programs
+(UNAIDS, 2016). Founded in 1987, AHF began as a network of hospices committed to "fighting
+for the living and caring for the dying.” Since then, AHF has expanded, turning hospices into
+healthcare centers, and building a new paradigm for HIV care both in the United States and around
+the world (McDonald, 2016). Under the leadership of President and co-founder Michael
+Weinstein, AHF has grown from a group of friends dedicated to creating dignified hospice care to
+the largest AIDS organization in the world. President Michael Weinstein has been at the forefront
+of creating cutting-edge healthcare and advocacy programs and continues to drive the organization
+forward with the aim of saving more lives around the world (Qiao et al., 2019).
+In Uganda, AHF’s work is focused on addressing the HIV/AIDS epidemic and improving the lives
+of people living with HIV/AIDS through various programs and initiatives. The AHF Program in
+
+
+
+
+Uganda aims to provide accessible and high-quality healthcare services to individuals affected by
+HIV/AIDS (Bulstra et al., 2020). The program encompasses a range of interventions, including
+HIV testing and counseling, provision of antiretroviral therapy (ART), prevention services,
+support groups, and community-based initiatives. AHF collaborates with local healthcare
+facilities, government agencies, and community organizations to deliver these services effectively.
+One of the key objectives of the AHF Program in Uganda is to increase access to HIV testing and
+counseling services. AHF promotes widespread testing through mobile testing units, community
+outreaches, and partnerships with healthcare facilities. By encouraging early detection and
+diagnosis, the program aims to link individuals to appropriate care and treatment services promptly
+(Anywar et al., 2020).
+AHF also plays a crucial role in providing comprehensive treatment and care for individuals living
+with HIV/AIDS in Uganda. Through its clinics and healthcare facilities, AHF offers free or lowcost antiretroviral therapy (ART) to eligible individuals. The program emphasizes adherence to
+treatment, regular monitoring, and support to ensure positive health outcomes for patients. AHF
+clinics also provide other essential healthcare services, including prevention of mother-to-child
+transmission (PMTCT), sexual and reproductive health services, and management of opportunistic
+infections (UNAIDS 2018).
+Additionally, the AHF Program in Uganda focuses on prevention strategies to reduce new HIV
+infections. This includes promoting awareness, education, and behavior change through
+community-based initiatives, outreach programs, and campaigns (Karamagi et al., 2018). AHF
+advocates for comprehensive prevention approaches, such as condom distribution, voluntary
+medical male circumcision, and pre-exposure prophylaxis (PREP) services. The AHF Program in
+Uganda operates within the broader national HIV/AIDS response framework, collaborating
+closely with the Ugandan Ministry of Health and other stakeholders. By working in partnership
+with local communities, healthcare providers, and organizations, AHF aims to strengthen the
+healthcare system, build capacity, and create sustainable interventions that improve the lives of
+people living with HIV/AIDS in Uganda (Ssemwanga et al., 2020).
+The AHF Program in Uganda has made significant contributions to the HIV/AIDS response in the
+country, particularly in terms of expanding access to testing, treatment, and prevention services.
+The program's comprehensive approach, community engagement, and focus on quality care have
+
+
+
+
+had a positive impact on the lives of individuals affected by HIV/AIDS in Uganda. Continuous
+evaluation, monitoring, and improvement of the program ensure that it remains responsive to the
+evolving needs of the population and aligns with national HIV/AIDS strategies and goals (Muttai
+et al., 2021).
+2.3 Influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+A study by Bbosa et al. (2021) demonstrated a powerful cause-and-effect relationship: consistent
+access to ARVs directly suppresses HIV replication. This viral suppression significantly reduces
+the viral load in the body, allowing the immune system to rebuild its depleted CD4+ cell count.
+As a result, individuals experience a strengthened defense against opportunistic infections, which
+are illnesses that exploit the weakened immune system in people with HIV. This translates to a
+notable decrease in mortality rates and a marked improvement in overall physical health for people
+living with HIV.
+The psychological burden of living with HIV can be significant, with depression and anxiety being
+common co-occurring conditions. Research by Wagner et al. (2023) suggests a positive feedback
+loop between consistent ARV access and mental well-being. A reliable ARV supply fosters
+successful treatment adherence, which effectively controls the virus and improves physical health.
+This, in turn, reduces HIV-related stress and anxieties. Furthermore, the sense of control and
+empowerment gained from managing the virus effectively can alleviate feelings of depression and
+hopelessness. This positive cycle ultimately leads to a significant improvement in overall mental
+health and a better quality of life for people living with HIV.
+A study by Musumari (2021) showed that implementing multi-month dispensing, made possible
+by a consistent ARV supply chain, leads to significant improvements in adherence rates. This, in
+turn, strengthens the effectiveness of the medication. Consistent intake of ARVs allows for optimal
+viral suppression, maximizing the treatment's ability to control the virus and prevent resistance.
+As a result, individuals experience a reduced risk of opportunistic infections and a greater chance
+of achieving a sustained, healthy state. A reliable ARV supply directly addresses a critical barrier
+to treatment adherence– the disruption caused by stock outs and frequent pharmacy visits. This
+eliminates the anxiety of running out of medication and missing doses.
+
+
+
+
+A study by Qiao et al. (2019) demonstrating a clear link between a stable ARV supply chain and
+reduced anxiety among patients. When the fear of running out of medication is alleviated by a
+reliable supply system, it fosters a sense of security and control over their health. This reduction
+in anxiety allows patients to focus on treatment adherence and overall well-being, creating a
+positive impact on their mental and emotional state. The constant worry about stock outs and
+potential disruptions in their HIV treatment can be a significant source of anxiety and fear for
+patients
+The improvements in physical and mental health brought about by consistent ARV access
+empower individuals to re-engage more actively in social life because with a strengthened immune
+system and reduced illness burden, individuals experience increased energy levels and a greater
+capacity for physical activity. This translates to improved work productivity and the ability to
+contribute more meaningfully in their professional spheres. Furthermore, the alleviation of
+depression and anxiety fosters stronger relationships with family and friends. The overall sense of
+well-being and restored control over their health allows individuals to participate more confidently
+in social activities and reconnect with their communities. This renewed social engagement
+strengthens feelings of belonging and purpose, creating a positive feedback loop that further
+enhances overall well-being (Ssewamala et al., 2021).
+Reliable access to ARVs fosters a sense of agency and empowerment for people living with HIV.
+A study by Kavuma et al. (2022) has shown this translates into a stronger commitment to treatment
+adherence. The consistent availability of medication removes the fear of disruption and empowers
+individuals to take control of their health. This newfound sense of control motivates them to
+prioritize taking their medication as prescribed, a crucial factor in maximizing the effectiveness of
+ARVs. Furthermore, the positive health outcomes associated with successful treatment, like
+increased energy levels and a stronger immune system, further fuel feelings of hope and
+empowerment. This creates a positive cycle where a sense of control leads to better adherence,
+which in turn leads to improved health, ultimately fostering a more hopeful outlook on the future
+for individuals living with HIV.
+Stigma surrounding HIV can be a significant hurdle to well-being, leading to social isolation and
+hindering access to healthcare. However, consistent ARV access can indirectly contribute to a
+reduction in perceived stigma (Muttai et al., 2021). When individuals achieve viral suppression
+
+
+
+
+through effective treatment, the risk of transmitting the virus to others becomes significantly lower.
+This demonstrably positive health outcome can empower people living with HIV to challenge
+negative stereotypes and misconceptions. Studies on the psychological impact of ART further
+support this – as individuals experience improved health and a restored sense of control over their
+illness, they are more likely to disclose their HIV status confidently and advocate for themselves.
+This open communication and management of their condition can help to chip away at stigma and
+discrimination, fostering a more accepting and understanding social environment (Bbosa et al.,
+2021).
+Consistent ARVs translate to a significant economic benefit on both individual and societal levels.
+Improved health due to effective viral suppression allows people living with HIV to maintain
+employment or return to the workforce. This contributes directly to economic growth through
+increased productivity and tax contributions. Additionally, the reduced risk of opportunistic
+infections due to ARVs leads to a substantial decrease in healthcare costs. Individuals avoid
+hospitalizations and expensive treatments for these illnesses, while healthcare systems experience
+a lessened burden on resources. This economic benefit frees up funds that can be allocated to other
+crucial areas within the healthcare system or the broader economy. Overall, a reliable ARV supply
+fosters a healthier, more productive population, creating a positive ripple effect that strengthens
+both individual and national economies (Anywar et al., 2020).
+2.4 Influence of testing services on the wellbeing of people living with HIV/AIDS
+Studies by Mfinanga et al. (2023) highlight the empowering effect of early HIV diagnosis through
+testing. Knowing their HIV status allows individuals to take a proactive approach to managing
+their health. This empowers them to seek prompt medical attention and initiate antiretroviral
+therapy (ART) as soon as possible. Early treatment initiation is crucial for maximizing the
+effectiveness of ARVs in suppressing the virus and preventing the development of complications.
+This, in turn, translates to a stronger immune system, reduced risk of opportunistic infections, and
+a better overall prognosis. The sense of control gained through early diagnosis empowers
+individuals to make informed decisions about their health and well-being, ultimately leading to
+improved health outcomes (Bukenya et al., 2019).
+
+
+
+
+The uncertainty surrounding HIV status can be a significant source of anxiety and fear for
+individuals at risk. A study by Nyirenda et al. (2023) demonstrated the potential of testing services
+to alleviate this burden. Regardless of the test result, simply knowing their status empowers
+individuals to confront the reality of their situation. This eliminates the fear of the unknown and
+allows them to make informed decisions about their health moving forward. A negative test result
+provides peace of mind and eliminates the anxiety associated with potential transmission. Even a
+positive test result, while undoubtedly challenging, can be a catalyst for seeking early treatment
+and taking control of the situation. This newfound sense of agency can significantly reduce anxiety
+and fear, allowing individuals to focus on managing their health and living a fulfilling life
+(Waldron et al., 2021).
+Untreated HIV infection can have a detrimental impact on mental health; with depression being a
+common co-occurring condition according to research by Radoi et al. (2023). They suggested that
+timely testing and adherence to treatment can disrupt this negative cycle. Early diagnosis allows
+for prompt initiation of ARVs, which effectively suppress the virus and prevent damage to the
+central nervous system. This, in turn, helps to preserve cognitive function and reduce the risk of
+mental health issues like depression associated with late-stage HIV. Additionally, the improved
+physical health and overall well-being achieved through successful treatment can alleviate feelings
+of hopelessness and isolation, further contributing to better mental health outcomes. Early
+diagnosis paves the way for timely intervention and management of HIV, ultimately leading to a
+reduced risk of cognitive decline and depression (Kilcrease et al., 2022).
+HIV testing services, when combined with effective risk reduction counseling, empower
+individuals to make informed decisions about their sexual health and prevent transmission to others
+Mavhu et al. (2023). Knowing their HIV status allows individuals to assess their personal risk
+profile and engage in safer sexual practices. Counseling sessions can equip them with the
+knowledge and skills necessary to adopt behaviors that minimize transmission risk. This can
+include consistent condom use, negotiation of safer sex practices with partners, and consideration
+of pre-exposure prophylaxis (PREP) for those at high risk. By promoting responsible sexual
+behavior, testing services coupled with risk reduction counseling play a crucial role in curbing the
+spread of HIV and protecting the health of both the individual and their partners (Singer &
+Mendenhall, 2022).
+
+
+
+
+While HIV testing services offer numerous benefits, a positive test result can have unintended
+negative consequences according to Araya et al. (2023), underscores the potential for social
+isolation and stigma. The fear of discrimination and rejection can lead individuals to withdraw
+from social circles and isolate themselves. This social isolation can exacerbate feelings of
+depression and anxiety, further hindering well-being. To mitigate these negative impacts, testing
+services need to be coupled with robust anti-stigma interventions. These interventions can include
+educational programs that address misconceptions about HIV transmission, promote social
+acceptance, and empower individuals to disclose their status confidently. Additionally, connecting
+individuals with support groups and counseling services can provide a safe space for them to
+navigate the emotional challenges associated with a positive test result and foster a sense of
+belonging within the HIV-positive community (Watts et al., 2019).
+A positive HIV test result can be a deeply emotional experience, potentially triggering a cascade
+of negative emotions like anxiety, depression, and even suicidal ideation, as highlighted in studies
+by Frick et al. (2023). The emotional burden of such a diagnosis can be overwhelming, leading to
+feelings of fear, isolation, and hopelessness. This psychological distress can be further
+compounded by the stigma associated with HIV. To address this critical aspect, testing services
+need to be integrated with accessible mental health support. This can include providing referrals
+to counselors or therapists specializing in HIV-related challenges. Additionally, support groups
+specifically designed for people living with HIV can offer a safe space to connect with others
+facing similar challenges and build a sense of community. By integrating mental health support
+alongside testing services, individuals are better equipped to cope with the emotional impact of a
+positive result and navigate the path towards well-being (Kilcrease et al., 2022).
+Increased HIV testing rates contribute significantly to improved public health outcomes. By
+identifying individuals who are infected, testing services create opportunities for early intervention
+and treatment initiation. This not only benefits the individual's health by suppressing the virus and
+preventing transmission to others, but also plays a crucial role in controlling the epidemic at a
+population level. Early treatment with ARVs effectively reduces the viral load in an infected
+person, making them much less likely to transmit the virus to others. This shrinks the overall "viral
+reservoir" within the population, the pool of infected individuals who can potentially transmit HIV.
+Consequently, as testing rates rise and more people are diagnosed and treated, the overall
+
+
+
+
+transmission rate of HIV slows down. This creates a ripple effect, leading to a gradual decline in
+new HIV infections and a healthier population overall (Waldron et al., 2021).
+2.5 Influence of education and counseling on the wellbeing of people living with HIV/AIDS
+Education and counseling are integral components of HIV/AIDS management, aiming to empower
+people living with HIV/AIDS (PLWHA) with knowledge, coping strategies, and support networks.
+Understanding the influence of education and counseling on the wellbeing of PLWHA is crucial
+for optimizing healthcare interventions and improving health outcomes. Education programs
+provide PLWHA with essential knowledge about HIV/AIDS, treatment options, and self-care
+practices, thereby promoting physical wellbeing (Oleribe et al., 2019). Research by Weiser et al.
+(2017) suggests that increased health literacy through education leads to better adherence to
+antiretroviral therapy (ART), viral suppression, and reduced risk of opportunistic infections.
+Furthermore, education on nutrition, medication management, and prevention of secondary
+complications enhances overall physical health outcomes among PLWHA (Nachega et al., 2019).
+Counseling services offer psychosocial support and coping mechanisms to address the
+psychological challenges faced by PLWHA. Studies by Nakimuli-Mpungu et al. (2020) indicate
+that counseling interventions reduce anxiety, depression, and stress among PLWHA, enhancing
+psychological wellbeing. Moreover, counseling facilitates disclosure of HIV status, improves
+communication within relationships, and fosters resilience in coping with stigma and
+discrimination (Bogart et al., 2018).
+Education and counseling programs contribute to the formation of social support networks among
+PLWHA, which are crucial for enhancing social wellbeing. Research by Earnshaw et al. (2018)
+demonstrates that participation in support groups and peer counseling fosters a sense of belonging,
+reduces isolation, and promotes social integration among PLWHA. Additionally, education on
+rights and advocacy empowers PLWHA to challenge stigma and discrimination, thereby fostering
+inclusive social environments (Ware et al., 2019). Educational programs equip PLWHA with a
+solid understanding of HIV, its treatment options (including ARVs), and potential side effects.
+Studies by Iacob et al. (2017) demonstrate a clear link between increased health literacy and
+improved medication adherence, as well as better management of opportunistic infections.
+
+
+
+
+PLWHA who grasp the intricacies of their condition are better positioned to make informed
+decisions and actively participate in their treatment plan.
+Educational sessions can clarify the importance of consistent ARV use and address adherence
+challenges faced by PLWHA. Research by Tactacan-Abrenica et al. (2022) highlights the
+effectiveness of combining educational interventions with counseling support in significantly
+improving adherence rates. This combined approach tackles both the knowledge gap and the
+emotional barriers that can hinder consistent medication use. Furthermore, the fear and uncertainty
+surrounding HIV can be a significant source of anxiety and depression for PLWHA. Educational
+programs can alleviate these burdens by providing accurate information and dispelling myths.
+Studies by Simoni et al. (2023) demonstrate that interventions combining education and counseling
+can lead to a decrease in depression symptoms among PLWHA. By addressing misconceptions
+and fostering a sense of control, these interventions empower individuals to manage their anxieties
+and emotional well-being.
+Educational programs equip PLWHA with the knowledge and skills to navigate the healthcare
+system confidently and make informed decisions about their treatment. Research by Poku et al.,
+2020) highlights how such interventions can foster a sense of empowerment, allowing individuals
+to become active participants in managing their health. This newfound sense of control translates
+into improved self-efficacy and a greater ability to navigate potential health challenges.
+Educational sessions often promote healthy eating habits and behaviors that can enhance the
+immune system and overall well-being of PLWHA. Studies by Menten et al. (2022) revealed that
+interventions combining education and counseling can lead to positive lifestyle changes like
+increased physical activity and improved dietary choices. These changes can further empower
+individuals to manage their health proactively.
+Research by Dassah et al. (2018) associated social stigma surrounding HIV as a major obstacle for
+PLWHA. Educational programs aimed at communities can foster understanding and acceptance
+highlighting the positive impact of community-level education in reducing stigma and
+discrimination faced by individuals living with HIV. By addressing misconceptions and promoting
+empathy, these programs can create a more supportive social environment for PLWHA.
+Counseling services provide a safe space for PLWHA to voice their concerns, receive emotional
+support, and connect with others facing similar challenges. Studies by Meuldijk et al. (2021)
+
+
+
+
+established that counseling interventions can strengthen social support networks and equip
+individuals with coping mechanisms to manage the emotional challenges of living with HIV. This
+social support network fosters a sense of belonging and reduces feelings of isolation.
+Despite their benefits, education and counseling programs face challenges that can impact their
+effectiveness in promoting wellbeing among PLWHA. Limited access to trained counselors and
+linguistically and culturally appropriate educational materials may hinder the reach of these
+interventions, particularly in resource-constrained settings (Pellowski et al., 2016). Moreover,
+stigma surrounding HIV/AIDS and mental health issues may deter PLWHA from seeking
+education and counseling services, underscoring the need for targeted outreach and destigmatization efforts (Mall et al., 2017).
+According to research by Ford et al. (2021), the integration of education and counseling services
+within healthcare systems is critical for ensuring comprehensive care for PLWHA. They
+emphasized the importance of incorporating education, and counseling into routine HIV care
+visits, thereby maximizing their accessibility and impact. Moreover, collaboration between
+healthcare providers, community organizations, and peer support networks strengthens the
+continuum of care and enhances the effectiveness of education and counseling interventions
+(Gupta et al., 2018).
+
+
+
+
+
+
+
+
+
+CHAPTER THREE
+RESEARCH METHODOLOGY
+3.0 Introduction
+In this chapter, the researcher describes how the study was conducted. Inclusive is the research
+design, the study area and the population, sampling procedures, sample size and composition, data
+collection methods, data processing, data analysis methods, data quality control, reliability and
+ethical considerations.
+3.1 Research design
+This study used an explanatory research design which is developed to explore a phenomenon that
+had not been studied before or had not been well explained previously in a proper manner. Its main
+intention is to provide details about where to find a small amount of information (Aspers & Corte,
+2019). It also helped to ascertain how and why a particular phenomenon is occurring and further
+predict future occurrences. Lastly, it helped in investigating patterns and trends in existing data
+that haven’t been previously investigated.
+The mixed-method research combining quantitative and qualitative research approaches were also
+used during the study. The quantitative study was conducted using questionnaires with selected
+people aged 18-60 years living with HIV/AIDS in Masaka district that have been receiving HIV
+treatment from AHF Uganda. Qualitative study was conducted using interviews where the health
+practitioners working with AIDS Health Foundation Uganda and these were used as key
+informants in order to get an in-depth analysis about the impact of AIDS Health Foundation (AHF)
+Program on the wellbeing of people living with HIV/AIDS in Masaka District.
+3.2 Study area
+The study was conducted in Masaka district located in the central region of Uganda. The district
+is bordered by Bukomansimbi district to the north-west, Kalungu district to the north, Kalangala
+district to the east and south, Rakai district to the south-west, and Lwengo district to the west.
+Masaka district was chosen because it’s one of the areas with high HIV/AIDS prevalence where
+the AHF Program has been implemented.
+
+
+
+
+3.3 Study population and size
+The study population included people aged 18-60 years living with HIV/AIDS in Masaka district
+that have been receiving HIV treatment from AHF Uganda. These patients were obtained from the
+medical files of AHF Uganda with consent and permission from the health practitioners/ doctors
+and the patients. The study population also included health practitioners from AHF Uganda who
+acted as key informants.
+Table 1: Population study and its categories
+Respondents
+Population
+Adults aged 18-60 years with HIV/AIDS
+The Health Practitioners from AHF Uganda
+TOTAL
+Source: AHF Uganda Medical Files (2024)
+3.4 Sample size determination
+The researcher used Slovin’s formula to determine sample size from the 50 population of the
+selected category of people as follows;
+n =
+N
+1 + N(e)2
+“n” is sample size, “N” is population, “e” is error (0.05) or level of confidence 95%
+“N” (population) = 50 adults aged 18-60 years with HIV/AIDS
+n =
+1 + 50(0.05)2
+n =
+1 + 50(0.0025)
+n =
+1 + (0.125)
+
+
+
+
+n = 50
+1.125
+n = 44
+Therefore from the table above, the sample size was 44 respondents from a total population of 50
+people aged 18-60 years living with HIV/AIDS in Masaka district that have been receiving HIV
+treatment from AHF Uganda.
+3.5 Sampling method
+The researcher used both purposive and simple random sampling methods. A purposive sampling
+method was used to select the Health Practitioners/ Doctors from AHF Uganda. This was because
+of their knowledge about the subject study and given that they are few in number. The people aged
+18-60 years living with HIV/AIDS in Masaka district that have been receiving HIV treatment from
+AHF Uganda were selected using simple random sampling given that these were big in number
+and using this method eased their selection and gave each person a chance to participate in the
+study, simple random sampling was preferred because its procedure is un biased and prevent bias
+in their work and makes research on large populations more practical.
+3.6 Sources of data
+While carrying out the research study, both primary and secondary data were used by the
+researcher.
+3.6.1 Primary source
+Primary data are important for all areas of research because they are accurate information about
+the results of an experiment or observation. Primary data from the field was obtained through
+questionnaires and interviews to selected respondents in order to get their opinions. Primary data
+helped the researcher in collecting information for the specific purposes of their study. The
+researcher collected the data herself, using questionnaires and interviews.
+
+
+
+
+
+3.6.2 Secondary source
+Secondary data refers to handling, collecting and possibly processing data by people other than
+the researcher in question. For the purposes of a historical research project, secondary sources are
+generally scholarly books and articles. This source was used to collect data from already written
+literature for example e-books, journals, published articles and periodicals. And documentary
+resources were classified in order to facilitate the data collection and textual analysis (Mubazi
+2008).
+3.7 Data collection methods and instruments
+The data collection methods and research instruments that were used during the process of data
+collection include; questionnaires and in-depth interviews.
+3.7.1Questionnaires
+A uniform self-administered open and close-ended questionnaire encompassing background
+information, on the impact of AIDS Health Foundation (AHF) Program on the wellbeing of people
+living with HIV/AIDS in Masaka District were used. These questionnaires were distributed to the
+selected people aged 18-60 years living with HIV/AIDS in Masaka district that have been
+receiving HIV treatment from AHF Uganda. This method was used to collect primary quantitative
+data (Amin, 2005). For purposes of this study the researcher designed closed ended questionnaires
+consisting of questions and answers for easy analysis. The researcher used close-ended
+questionnaires, which enabled coding data during analysis. The questionnaires were measured
+using a Likert scale where 5 (Strongly Agree), 4 (Agree), 3 (Not sure), 2 (Disagree) and 1 (Strongly
+Disagree).
+3.7.2 Interviews
+Interviews were conducted in a quiet place without noise with the key informants who were the
+Health Practitioners/ Doctors from AHF Uganda that offer treatment to the adult patients with
+HIV/AIDS in Masaka and then the purpose of the interview was explained followed by addressing
+the terms of confidentiality. Data obtained during the interview supplemented that obtained
+through the questionnaire.
+
+
+
+
+3.8 Data collection procedure
+The researcher obtained an introductory letter from the School of Social Sciences in Uganda
+Christian University, after which she sought permission from the management of AHF Uganda
+who gave the researcher permission to talk to the different respondents (people living with
+HIV/AIDS aged 18-60 years) receiving treatment from AHF Uganda to use as a case study. The
+researcher approached various respondents to conduct interviews and distribute the questionnaire
+guides.
+3.9 Quality and error control
+According to Agbabiaka & Sule (2010), controlling quality is about ensuring acceptable levels of
+validity and reliability of the study through proper control of extraneous variables. The researcher
+therefore used a systematic approach to check the quality of the information collected in order to
+avoid double counting.
+3.9.1 Validity of the research instrument
+Instruments are supposed to measure what they are supposed to measure, the researcher ensured
+the validity of the tools used in data collection first by carrying out pre-test of questionnaires with
+the people living with HIV/AIDS aged 18-60 years, and the researcher tried by all means to be
+highly involved in data collection and analysis so as to avoid number of errors in her research.
+Therefore, validity was measured by addressing how accurate the instruments measure the
+outcomes or how they construct an intervention that it attempts to affect. In context, an instrument
+is valid if it happens to measure what the researcher intends to measure.
+3.9.2 Reliability of the research instrument
+An instrument is reliable if it measure consistently what it is supposed to measure even if other -
+researchers administer it, it should be able to produce the same results to ensure reliability. And a
+pilot study was carried out on some of the few respondents on this research topic before the
+questionnaires are sent to different respondents. Therefore, reliability was ensured by first
+conducting a pre-test and then followed by a post-test of the research. Reliability of the empirical
+measurements was done by using the retest method in which the same test were given to some of
+
+
+
+
+the people after a period of time. The reliability of the test was therefore estimated by examining
+the consistency of the responses between the two variables/sets.
+3.10 Data analysis
+The quantitative data collected from the questionnaire was coded, keyed into SPSS (a computer
+software database), organized, and cleaned for any errors that occurred during data collection. The
+data was then analyzed using descriptive statistics with aid of the SPSS and Microsoft Excel
+(computer software). Qualitative statistical techniques were used to describe and summarize data.
+The results were then interpreted in the form of descriptive statistics the frequencies and
+percentages. The findings were presented in form of tables and figures.
+3.11 Ethical considerations
+Prior to conducting the study, a letter for requesting permission was sent to the management of
+AHF Uganda in order to introduce the researcher to the patients involved in the research. Before
+conducting the research, the researcher aimed at upholding confidentiality towards the client’s
+information that was gathered during and after the research study. Informed consent was also
+obtained from the respondents before they were involved in the study.
+3.12 Limitations and delimitations of the study
+The limited time frame the researcher was accorded to gather the information needed led to the
+missing out of some other information about the impact of AIDS Health Foundation (AHF)
+Program on the wellbeing of people living with HIV/AIDS in Masaka District.
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+PRESENTATION, INTERPRETATION AND DISCUSSION OF RESULTS
+4.0 Introduction
+This chapter sets to outline and analyze the findings of the research by the use of SPSS software
+for analyzing quantitative data. Data was collected from the selected adults aged 18-60 years with
+HIV/AIDS in Masaka using questionnaires and the health practitioners from AHF Uganda using
+interviews and their responses are presented and interpreted as follows;
+4.1 Response rate
+A total of 44 questionnaires were distributed and all the 44 were fully filled and returned. The
+response rate for the questionnaires was therefore 100% as shown in table 2 below;
+Table 2: Response rate
+Response Rate
+Sample Size
+Frequency
+Percentage (%)
+Questionnaires returned
+100.0%
+Questionnaires not returned
+00.0%
+Questionnaires issued
+100.0%
+According to table 2 above, a total of 44 (100%) respondents who are selected adults aged 18-60
+years with HIV/AIDS in Masaka were expected to respond to the questionnaires and all of them
+responded to the questionnaires giving a 100% response rate. The reason for the 100% response
+rate was due to the fact that the respondents were eager to be involved in the study and given that
+the researcher had enough time to collect the required data.
+
+
+
+
+
+
+
+4.2 Descriptive analysis of the demographic characteristics of respondents
+The researcher established the demographic characteristics of respondents who are the selected
+adults aged 18-60 years with HIV/AIDS in Masaka and these included; gender, age, level of formal
+education, marital status, religion and occupation of the respondents.
+Table 3: Showing of demographic characteristics of respondents
+Item
+Description
+Frequency
+Percentage
+(%)
+Gender
+Male
+43.2
+Female
+56.8
+Total
+100.0
+Age
+Below 20 years
+13.6
+21-30 years
+36.4
+31-40 years
+29.5
+Above 40 years
+20.5
+Total
+100.0
+Level of education
+Primary
+18.2
+Secondary
+38.6
+Tertiary
+31.8
+No education
+11.4
+Total
+100.0
+Type of business
+Single
+34.1
+Married
+40.9
+Divorced
+15.9
+Separated
+9.1
+Total
+100.0
+Religion
+Catholic
+29.5
+Anglican
+25.0
+Muslim
+13.6
+Pentecostal
+22.7
+Others
+9.1
+Total
+100.0
+Occupation
+Employed
+36.4
+Business owner
+27.3
+Unemployed
+15.9
+Others
+20.4
+Total
+100.0
+From table 3 above, the findings of the study revealed that the majority of the respondents,
+represented by 56.8%, were female, while 43.2% were male. This indicates that there is a slightly
+
+
+
+
+higher representation of females among the selected adults aged 18-60 years with HIV/AIDS in
+Masaka district.
+The findings of the study also revealed that the largest age group among the respondents was 21-
+30 years, accounting for 36.4%, followed by the 31-40 years group at 29.5%. Respondents aged
+above 40 years comprised 20.5%, and those below 20 years represented the smallest group at
+13.6%. This suggests that the majority of the respondents are in their prime working age, which
+may influence their capacity to manage their health and business responsibilities.
+Furthermore, the findings of the study revealed that most respondents had completed secondary
+education 38.6%, followed by those with tertiary education 31.8%. Respondents with primary
+education represented 18.2%, while 11.4% had no formal education. This indicates that the
+majority of the respondents have at least attain different levels of education, which may facilitate
+better understanding and adherence to HIV/AIDS treatment and management practices.
+More so, the findings of the study revealed that a majority of the respondents were married 40.9%.
+These mostly belonged to the age brackets of (21-30), (31-39) and (40 and above), followed by
+those who were single at 34.1% dominated by those in the age brackets of (20 years and below),
+and (21-30). Divorced and separated individuals represented 15.9% and 9.1% respectively. This
+distribution highlights the significance of family and marital relationships in the lives of the
+respondents.
+In addition, the findings of the study revealed that the highest proportion of respondents identified
+as Christians (Catholics 29.5%, followed by Anglicans 25.0%. and Pentecostal respondents made
+up 22.7%), Muslims comprised 13.6%, and those identifying with other religions represented
+9.1%. This religious distribution suggests that religious beliefs and affiliations might play a role
+in the lives of the respondents.
+Lastly, the findings of the study revealed that the largest group of respondents was employed
+36.4%, followed by business owners 27.3%. Unemployed respondents accounted for 15.9%, and
+those in other occupations represented 20.4%. This occupational distribution suggests that a
+significant portion of the respondents have a stable income, which may impact their ability to
+access healthcare services and maintain their wellbeing.
+
+
+
+
+4.3 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+Table 4 summarizes respondents’ responses on the influence of ARVs’ supply on the wellbeing of
+people living with HIV/AIDS in Masaka district by using a Likert scale where SA (Strongly
+Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree).
+Table 4: The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+SA
+A
+NS
+D
+SDA
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+The availability of ARVs through AHF
+programs has improved my overall health
+43.2%
+29.5%
+18.2%
+4.5%
+4.5%
+I can easily access ARVs whenever I need them
+22.7%
+45.5%
+15.9%
+9.1%
+6.8%
+The supply of ARVs through AHF programs is
+reliable and consistent
+22.7%
+54.5%
+18.2%
+4.5%
+The quality of ARVs provided by AHF meets my
+expectations
+29.5%
+52.3%
+6.8%
+11.4%
+I am satisfied with the information provided
+about ARVs by AHF
+34.1%
+27.3%
+29.5%
+2.3%
+6.8%
+The ARV program by AHF has reduced my
+frequency of opportunistic infections
+40.9%
+52.3%
+6.8%
+According to the study in table 4 above, majority of the respondents, represented by 43.2%,
+strongly agreed that the availability of ARVs through AHF programs has improved their overall
+health. Additionally, 29.5% agreed, while 18.2% were not sure. A small percentage of 4.5%
+disagreed or strongly disagreed with the statement. This indicates a strong positive perception
+among respondents regarding the impact of ARV availability on their health. The implication is
+that the consistent supply of ARVs by AHF is perceived as significantly beneficial, contributing
+to improved health outcomes and overall wellbeing for PLWHA in Masaka district.
+
+
+
+
+The findings of the study also revealed that 45.5% of the respondents agreed that they can easily
+access ARVs whenever needed, while 22.7% strongly agreed. On the other hand, 15.9% were not
+sure, and 9.1% disagreed. A small percentage of 6.8% strongly disagreed. This suggests that while
+a significant majority found ARV access easy, there are still some respondents who experience
+challenges in accessing ARVs. The implication is that although the AHF program is effective for
+most, there may be barriers that need addressing to ensure universal ease of access.
+Furthermore, the study found that 54.5% of respondents agreed that the supply of ARVs through
+AHF programs is reliable and consistent, with an additional 22.7% strongly agreeing. However,
+18.2% were not sure, and only 4.5% disagreed. This indicates a generally high level of confidence
+in the reliability and consistency of the ARV supply, though a minority experience issues. The
+implication is that AHF's supply chain is effective for the majority, but improvements could be
+made to address the concerns of those who are unsure.
+More so, the findings revealed that 52.3% of respondents agreed that the quality of ARVs provided
+by AHF meets their expectations, and 29.5% strongly agreed. However, 6.8% were not sure, and
+11.4% disagreed. None of the respondents strongly disagreed. This indicates that while the
+majority is satisfied with the quality, there is a notable portion of respondents who are unsure or
+dissatisfied. The implication is that AHF might need to review and possibly enhance the perceived
+quality of their ARVs to address the concerns of those who are unsure or disagree.
+In addition, the study found that 34.1% of respondents strongly agreed and 27.3% agreed that they
+are satisfied with the information provided about ARVs by AHF. Meanwhile, 29.5% were not
+sure, and only 6.8% disagreed. A small percentage of 2.3% strongly disagreed. This suggests a
+high level of satisfaction with the information provided, reflecting positively on AHF's
+communication and educational efforts. The implication is that AHF’s information dissemination
+strategies are effective and well-received, contributing to better-informed patients.
+Lastly, the findings showed that 52.3% of respondents agreed and 40.9% strongly agreed that the
+ARV program by AHF has reduced their frequency of opportunistic infections. However, 6.8%
+were not sure, and none disagreed or strongly disagreed. This indicates that a significant portion
+of respondents perceive a reduction in opportunistic infections due to the ARV program, though a
+notable percentage remain unsure. The implication is that while the ARV program is effective for
+
+
+
+
+many, further assessment and targeted interventions may be needed to ensure all patients
+experience the same benefits.
+Overall, the study’s findings indicate that the majority of respondents perceive the AHF’s ARV
+supply programs positively, particularly in terms of health improvement, ease of access, and
+reliability. However, there are areas where some respondents experience challenges, particularly
+regarding ARV quality and the reduction of opportunistic infections. This suggests that while
+AHF's efforts are largely successful, ongoing evaluation and enhancement are necessary to ensure
+all individuals living with HIV/AIDS in Masaka district benefit equally from the programs.
+4.3.1 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+to give their views on how the ARV supply through AHF has impacted the health outcomes of
+your patients. The responses of these respondents are discussed below as follows;
+The key informants, who are health practitioners from AHF Uganda, reported that the ARV supply
+through AHF has significantly improved the health outcomes of their patients. They highlighted
+that the consistent availability of high-quality ARVs has led to a substantial reduction in the viral
+loads of patients, thereby improving their overall health and quality of life. Many patients who
+were previously struggling with frequent opportunistic infections have seen a notable decrease in
+these infections, allowing them to lead more productive and fulfilling lives. The health
+practitioners emphasized that the reliability of the ARV supply has been crucial in ensuring
+continuous treatment adherence, which is vital for maintaining low viral loads and preventing the
+progression of HIV to AIDS.
+Furthermore, the key informants noted that the patients’ improved health outcomes are also
+reflected in their mental and emotional well-being. With the assurance of consistent ARV supply,
+patients experience less anxiety and stress about their treatment regimen, which contributes
+positively to their mental health. The practitioners also observed that patients are more engaged in
+their treatment plans and exhibit better adherence behaviors, thanks to the support and education
+provided alongside the ARV distribution. This holistic approach, combining reliable ARV supply
+with comprehensive patient education and support, has been instrumental in achieving better health
+
+
+
+
+outcomes for people living with HIV/AIDS in Masaka district. One of the health practitioners from
+AHF Uganda had this to say;
+“.....what I can say is that the availability of ARVs through AHF has been a game-changer
+for our patients. We've seen stabilization in their health and many achieving undetectable
+viral loads.....”
+The findings are in line with the literature by Wagner et al. (2023) who suggested a positive
+feedback loop between consistent ARV access and mental well-being. A reliable ARV supply
+fosters successful treatment adherence, which effectively controls the virus and improves physical
+health. This, in turn, reduces HIV-related stress and anxieties. Furthermore, the sense of control
+and empowerment gained from managing the virus effectively can alleviate feelings of depression
+and hopelessness. This positive cycle ultimately leads to a significant improvement in overall
+mental health and a better quality of life for people living with HIV.
+4.4 The influence of testing services on the wellbeing of people living with HIV/AIDS
+Table 5 summarizes respondents’ responses on the influence of testing services on the wellbeing
+of people living with HIV/AIDS in Masaka district by using a Likert scale where SA (Strongly
+Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree).
+Table 5:The influence of testing services on the wellbeing of people living with HIV/AIDS
+SA
+A
+NS
+D
+SD
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+The HIV testing services provided by AHF are easily
+accessible
+34.1%
+56.8%
+2.3%
+6.8%
+I am satisfied with the confidentiality of the HIV testing
+services by AHF
+43.2%
+31.8%
+22.7%
+2.3%
+The staff conducting the tests are professional and supportive
+40.9%
+47.7%
+4.5%
+6.8%
+The frequency of HIV testing recommended by AHF meets
+my needs
+47.7%
+40.9%
+6.8%
+4.5%
+The testing services by AHF have helped me better
+understand my health status
+29.5%
+36.4%
+22.7%
+6.8%
+4.5%
+I feel more confident in managing my health due to the
+regular testing services provided by AHF
+31.8%
+50.0%
+4.5%
+13.6%
+
+
+
+
+According to the study in table 5 above, the findings of the study revealed that majority of the
+respondents, represented by 56.8%, strongly agree that the HIV testing services provided by AHF
+are easily accessible. Additionally, 34.1% agree, while 6.8% were not sure. None of the
+respondents disagreed or strongly disagreed. This indicates a strong positive perception among
+respondents regarding the accessibility of testing services. The implication is that AHF has
+effectively structured their services to ensure ease of access, which is crucial for promoting regular
+testing and early intervention among PLWHA.
+Regarding satisfaction with the confidentiality of HIV testing services, 43.2% of respondents
+strongly agreed, and 31.8% agreed, indicating a high level of satisfaction among the majority.
+However, 22.7% expressed uncertainty about confidentiality, suggesting a need for AHF to
+reinforce confidentiality protocols to address concerns and enhance trust further. Ensuring
+confidentiality is critical in encouraging individuals to seek testing without fear of stigma or
+discrimination, thereby supporting overall wellbeing and health management.
+Furthermore, 47.7% of respondents strongly agreed that the staff conducting the tests is
+professional and supportive, while 40.9% agreed. Only 4.5% were unsure, with no respondents
+expressing disagreement. This highlights AHF's success in maintaining professional standards and
+supportive interactions during testing, which fosters a positive healthcare experience. The
+implication is that these qualities contribute significantly to patient trust and satisfaction,
+facilitating better health outcomes and continued engagement with testing services.
+Moreover, 47.7% of respondents strongly agreed that the frequency of HIV testing recommended
+by AHF meets their needs, and 40.9% agreed. With only 6.8% unsure, and no respondents
+disagreeing, this indicates that AHF's testing frequency recommendations align well with patient
+preferences and health needs. However, ongoing monitoring of patient needs and preferences is
+essential to adapt recommendations as necessary, ensuring continued adherence to testing
+protocols and early detection of health issues among PLWHA.
+Regarding the impact on understanding health status, 36.4% agreed and 29.5% strongly agreed
+that testing services have helped them better understand their health status. While 22.7% were not
+sure, 6.8% disagreed, and 4.5% strongly disagreed. This suggests that while many benefit from
+testing in understanding their health, there remains a need for AHF to improve communication and
+
+
+
+
+education strategies to enhance patient understanding comprehensively. Effective communication
+about test results and their implications is vital in empowering individuals to manage their health
+proactively.
+Lastly, 50.0% of respondents agreed and 31.8% strongly agreed that regular testing services have
+increased their confidence in managing their health. With 13.6% expressing uncertainty and no
+respondents disagreeing, this underscores the role of consistent testing in empowering PLWHA to
+take control of their health outcomes. The implication is that AHF’s emphasis on regular testing
+not only aids in early diagnosis and treatment but also fosters patient empowerment and selfmanagement, crucial for improving overall wellbeing.
+4.4.1 The influence of ARVs’ supply on the wellbeing of people living with HIV/AIDS
+to give their views on the ways in which testing services have influenced the early diagnosis and
+treatment of HIV/AIDS in this area. The responses of these respondents are discussed below as
+follows;
+Key informants from AHF Uganda emphasized that their testing services have significantly
+impacted the early diagnosis and treatment of HIV/AIDS in Masaka district. They noted that by
+offering easily accessible and confidential testing, AHF has facilitated early detection among
+individuals who might otherwise have delayed seeking testing due to stigma or logistical barriers.
+This early detection enables prompt initiation of antiretroviral therapy (ART), which is crucial for
+suppressing the virus and preventing progression to AIDS. According to the informants, the
+proactive testing approach has also identified asymptomatic individuals who would not have
+otherwise known their HIV status, allowing them to start treatment early and maintain better health
+outcomes.
+Furthermore, the key informants highlighted that AHF's testing services have streamlined the
+pathway to treatment initiation. By recommending appropriate testing frequencies tailored to
+individual needs, AHF ensures that patients are regularly monitored, leading to timely adjustments
+in treatment plans when necessary. This proactive monitoring and adjustment help in maintaining
+viral suppression and overall health stability among PLWHA in the area. Overall, the informants
+stressed that AHF's testing services play a critical role not only in early diagnosis but also in
+
+
+
+
+ensuring continuous engagement in care, ultimately contributing to improved health outcomes and
+quality of life for PLWHA in Masaka district. One of the health practitioners from AHF Uganda
+had this to say;
+“.....our testing services have been instrumental in detecting HIV early, allowing for timely
+initiation of treatment and better health outcomes.....”
+The findings are in line with the literature by Mfinanga et al. (2023) who highlighted the
+empowering effect of early HIV diagnosis through testing. Knowing their HIV status allows
+individuals to take a proactive approach to managing their health. This empowers them to seek
+prompt medical attention and initiate antiretroviral therapy (ART) as soon as possible. Early
+treatment initiation is crucial for maximizing the effectiveness of ARVs in suppressing the virus
+and preventing the development of complications.
+4.5 Influence of education and counseling on the wellbeing of people with HIV/AIDS
+Table 6 summarizes respondents’ responses on the influence of education and counseling on the
+wellbeing of people living with HIV/AIDS in Masaka district by using a Likert scale where SA
+(Strongly Agree), A (Agree), NS (Not Sure), D (Disagree) and SD (Strongly Disagree).
+Table 6: Influence of education & counseling on the wellbeing of people with HIV/AIDS
+SA
+A
+NS
+D
+SDA
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+Freq.
+(%)
+The education sessions provided by AHF have increased
+my knowledge about living with HIV
+29.5%
+43.2%
+18.2%
+4.5%
+4.5%
+Counseling services from AHF have helped me cope with
+the emotional aspects of living with HIV
+45.5%
+22.7%
+15.9%
+9.1%
+6.8%
+I feel more empowered to make decisions about my
+health due to AHF's education and counseling programs
+54.5%
+22.7%
+18.2%
+4.5%
+The counseling I receive from AHF helps me deal with
+HIV-related stigma
+52.3%
+29.5%
+6.8%
+11.4%
+AHF's educational programs have improved my
+adherence to treatment
+27.3%
+34.1%
+29.5%
+2.3%
+6.8%
+I am satisfied with the quality of information and support
+provided by AHF's counseling services
+52.3%
+40.9%
+6.8%
+
+
+
+
+According to the study in table 6 above, the findings of the study revealed that majority of the
+respondents, represented by 54.5%, strongly agree that AHF's education and counseling programs
+empower them to make decisions about their health. Additionally, 22.7% agree, while 18.2% were
+unsure. This indicates a significant positive impact of AHF’s programs in empowering PLWHA
+to take active roles in managing their health decisions, which is crucial for their overall wellbeing.
+The implication is that effective education and counseling can enhance patient autonomy and selfmanagement skills, leading to improved health outcomes and quality of life.
+Regarding coping with emotional aspects, 45.5% of respondents strongly agree and 22.7% agree
+that counseling services help them cope, indicating strong emotional support provided by AHF.
+However, 15.9% were unsure, suggesting a need for AHF to bolster communication about
+available emotional support resources. Effective emotional support is essential for addressing the
+psychological challenges associated with HIV/AIDS, promoting mental wellbeing, and
+encouraging continued engagement with healthcare services.
+Moreover, 52.3% of respondents strongly agree and 29.5% agree that counseling helps them deal
+with HIV-related stigma, underscoring AHF’s success in mitigating stigma through supportive
+counseling. However, 11.4% expressed disagreement or uncertainty, highlighting ongoing
+challenges in stigma reduction efforts. AHF should continue enhancing stigma-reduction strategies
+and ensuring comprehensive support to sustain positive impacts on mental health and social
+wellbeing among PLWHA.
+In terms of knowledge improvement, 43.2% of respondents agree and 29.5% strongly agree that
+education sessions have increased their knowledge about living with HIV. Nevertheless, 18.2%
+were unsure, indicating the need for AHF to enhance educational content and delivery to address
+knowledge gaps effectively. Improved knowledge empowers individuals to make informed
+decisions about their health, including treatment adherence and lifestyle choices, thereby
+contributing to better health outcomes.
+Furthermore, 52.3% of respondents are satisfied with the quality of information and support
+provided by AHF's counseling services, and 40.9% agree. This indicates high satisfaction levels
+with counseling services, reflecting positively on AHF’s ability to deliver informative and
+
+
+
+
+supportive care. Continuous improvement in service delivery and personalized support can further
+enhance patient satisfaction and engagement with healthcare interventions.
+Lastly, while AHF's educational programs have positively impacted treatment adherence for
+34.1% of respondents who agree and 27.3% who strongly agree, challenges remain with 29.5%
+expressing uncertainty and 6.8% disagreeing. This suggests opportunities for AHF to refine
+educational strategies to bolster treatment adherence and ensure consistent health outcomes among
+PLWHA.
+4.5.1 Influence of education & counseling on the wellbeing of people with HIV/AIDS
+to give their views on the influence of education and counseling on the wellbeing of people living
+with HIV/AIDS in Masaka district in this area. The responses of these respondents are discussed
+below as follows;
+The key informants from AHF Uganda emphasized that education and counseling programs have
+had a profound impact on the wellbeing of individuals living with HIV/AIDS in Masaka district.
+They highlighted that these initiatives play a crucial role in equipping patients with essential
+knowledge about HIV management and treatment options. According to the informants, the
+educational sessions are tailored to address the specific needs of PLWHA, enhancing their
+understanding of treatment adherence, symptom management, and overall health maintenance.
+Furthermore, AHF's counseling services were noted for their effectiveness in providing emotional
+support and helping patients cope with the psychological challenges associated with HIV/AIDS,
+such as stigma and mental health concerns. The key informants emphasized that this
+comprehensive approach not only improves health literacy but also empowers patients to take
+active roles in managing their health, thereby fostering better health outcomes and quality of life.
+In addition, the key informants highlighted that AHF's education and counseling initiatives
+contribute to building a supportive community environment for PLWHA in Masaka district. They
+noted that these programs create spaces where patients feel safe to discuss their concerns and
+receive personalized guidance on managing their condition. By promoting open dialogue and
+mutual support, AHF enhances patient engagement in care and encourages adherence to treatment
+
+
+
+
+regimens. The informants emphasized the importance of ongoing education and counseling efforts
+in addressing the evolving needs of PLWHA, ensuring that individuals continue to receive the
+necessary support to navigate their HIV/AIDS journey effectively. Overall, AHF's commitment to
+education and counseling was underscored as integral to promoting holistic wellbeing and
+resilience among PLWHA in Masaka district. One of the health practitioners from AHF Uganda
+had this to say;
+“.....counseling plays a vital role in addressing the emotional challenges of HIV/AIDS,
+helping patients cope with stigma and fostering a supportive community environment.....”
+The findings relate with the literature by Tactacan-Abrenica et al. (2022) who asserted that the
+effectiveness of combining educational interventions with counseling support in significantly
+improving adherence rates. This combined approach tackles both the knowledge gap and the
+emotional barriers that can hinder consistent medication use. Furthermore, the fear and uncertainty
+surrounding HIV can be a significant source of anxiety and depression for PLWHA. Educational
+programs can alleviate these burdens by providing accurate information and dispelling myths.
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+SUMMARY OF FINDINGS, CONCLUSIONS AND RECOMMENDATIONS
+5.0 Introduction
+This chapter summarizes all findings reported in chapter four according to questions of the study,
+draws conclusions, suggests recommendations and also proposes some areas for further study.
+5.1 Summary of findings
+The findings from the study on the influence of ARVs' supply by AHF on the wellbeing of people
+living with HIV/AIDS in Masaka district indicate a predominantly positive perception among
+respondents. A significant majority agree that AHF's ARV programs have substantially improved
+their overall health, facilitated easy access to medications, and provided reliable and consistent
+supply. Satisfaction with the quality of ARVs and the information provided by AHF was also high,
+contributing to better treatment adherence and reduced frequency of opportunistic infections for
+many respondents. However, there were notable concerns regarding ARV quality and
+effectiveness for a minority of respondents, suggesting areas for potential improvement. Overall,
+AHF's ARV supply programs are perceived as effective in enhancing health outcomes and quality
+of life for individuals living with HIV/AIDS in Masaka district, underscoring the importance of
+continued support and enhancement of these services.
+Furthermore, the findings from the study on the influence of testing services provided by AHF on
+the wellbeing of people living with HIV/AIDS in Masaka district indicate positive perceptions
+among respondents regarding accessibility, confidentiality, and effectiveness of these services. A
+significant majority find the testing services easily accessible and express satisfaction with their
+confidentiality and the professionalism of staff conducting the tests. Moreover, respondents feel
+that AHF's recommended testing frequencies meet their needs and that the testing services have
+helped them better understand their health status, thereby enhancing their confidence in managing
+their health. These findings underscore the crucial role of AHF's testing services in promoting
+early diagnosis, facilitating timely initiation of treatment, and supporting ongoing health
+management for individuals living with HIV/AIDS in Masaka district.

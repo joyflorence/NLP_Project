@@ -1,0 +1,2550 @@
+Chapter 3
+Numerical Differentiation
+3.1
+Introduction
+3.1.1
+Why Numerical techniques for finding derivatives
+A large number of physical problems involve functions which are known only through experi-
+mental measurements. In order to find derivatives of such functions one is forced to use methods
+based on the available discrete data and the methods are purely numerical.
+Sometimes, some functions with known analytical expressions, their derivatives may be so
+complex and computationally involved in their evaluation that one must resort to numerical
+methods, though less accurate, but have less involved expressions.
+Throughout numerical weather prediction, you often need to calculate the gradient of a function
+at a number of points. As we rarely know the equation which defines the function, we need to
+calculate numerically an estimate of the gradient. This method requires the use of finite differ-
+ence schemes. In this module we will be considering finite difference schemes to approximate
+the gradient of a function in one variable. The problem can be stated more specifically in these
+terms: how to estimate the gradient of a function in f(x), at a point a.
+Numerical differentiation is the process of finding the numerical value of a derivative of a given
+function at a given point. In general, numerical differentiation is more difficult than numer-
+ical integration.
+This is because while numerical integration requires only good continuity
+properties of the function being integrated, numerical differentiation requires more complicated
+properties such as Lipschitz classes.
+3.1.2
+Analytic definition of a derivative as compared to a numerical
+definition
+Analytically, we define the derivative of f(x) at x = a denoted f ′(x) as the limiting process,
+f ′(x) = lim
+h→0
+f(x + h) −f(x)
+h
+.
+However, a numerical approximation to f ′(x) involves a difference such as
+Φ(h) = f(x + h) −f(x)
+h
+In geometrical terms, this can be represented as in Figure 3.1.
+50
+
+3.1. INTRODUCTION
+Figure 3.1: Geometrical interpretation of a derivative
+Note 3.1.1
+f ′(x) is the slope of the tangent T and, Φ(h) is the slope of the line L.
+As
+h →0, Φ(h) →f ′(x) suggesting that h should be small for a good approximation. However, in
+computing Φ(h) the two terms f(x) and f(x + h) are close in value. So there is likely to be a
+loss of significant digits.
+ssebuliba & ddumba
+numerical analysis i
+Page 51 of 196
+
+3.2. FORWARD DIFFERENCE APPROXIMATION
+3.2
+Forward Difference Approximation
+The forward difference approximation for a derivative is given by,
+f ′(x) = f(x + h) −f(x)
+h
+The formula can geometrically be represented as in Figure (3.2)
+Figure 3.2: Geometrical representation of the forward difference approximation
+What the above expression actually calculates is the gradient of the line which intersects
+the points x, f(x) and x + h, f(x + h) as you can see from the figure above. In the figure, the
+function is shown with a red line (a curve). The blue line (a lower straight line) represents the
+approximation to the gradient and the black line (the upperline) is the actual gradient of the
+function at x = a .
+Example 3.2.1
+Given a function f(x) = x2. Numerically approximate (estimate) f ′(2) with
+step length below. Compare your results with the analytic/exact value of f ′(2).
+1.) h = 0.1
+Solution :
+Since
+f ′(x) ≃f(x + h) −f(x)
+h
+But f(x) = x2 and x = 2,
+h = 0.1
+therefore
+f(x + h) = (2 + 0.1)2 = (2.1)2 = 4.41
+and
+f(x) = 22 = 4
+therefore
+f ′(2) ≃4.41 −4
+0.1
+= 0.41
+0.1 = 4.1
+However, the exact value of
+f ′(2) = (2)(2) = 4
+Since f ′(x) = 2x. This yields an error of 0.1.
+■
+Page 52 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.2. FORWARD DIFFERENCE APPROXIMATION
+2.) h = 0.01
+Solution :
+Since h = 0.01, therefore
+f(x + h) = (2.01)2 = 4.0401
+and
+f(x) = 22 = 4
+therefore
+f ′(2) ≃4.0401 −4
+0.01
+= 0.0401
+0.01
+= 4.01
+The error committed is 0.01 i.e smaller than in part (1).
+■
+3.) h = 0.001.
+Solution :
+For h = 0.001,
+f(x + h) = (2.001)2 = 4.004001
+and
+f(x) = 22 = 4
+therefore
+f ′(2) ≃4.004001 −4
+0.001
+= 0.004001
+0.001
+= 4.001
+The error committed in this case is 0.001.
+■
+3.2.1
+Analytical derivation of the forward difference approximation
+We derive the forward difference approximation analytically from Taylor series expansion of
+f(x + h). By Taylor series we have,
+f(x + h) = f(x) + hf ′(x) + h2
+2 f ′′(x) + h3
+6 f (3)(x) + . . .
+(3.1)
+f(x + h) = f(x) + hf ′(x) + h2
+2 f ′′(c1) : x ≤c1 ≤x + h
+(3.2)
+If we rearrange equation (3.2), we get,
+f ′(x) = f(x + h) −f(x)
+h
+−h
+2f ′′(c1)
+(3.3)
+Equation (3.3) is the forward difference form which we can write in better notation as:
+f ′(x) ≃f(x + h) −f(x)
+h
++
+Truncation
+Error
+Note 3.2.1
+1.) Error 0(h) means that the error →0 (goes to zero) near x = a at the rate of Ah where A
+is a constant (i.e. halving h, halves the error).
+2.) The magnitude of the truncation error i.e Etruc = −h
+2f ′(c1). Indeed
+ −h
+2f ′(c1)
+ is the
+bound on the truncation error.
+ssebuliba & ddumba
+numerical analysis i
+Page 53 of 196
+
+3.3. BACKWARD DIFFERENCE APPROXIMATION
+3.3
+Backward Difference Approximation
+The backward difference approximation for the derivative is given by,
+f ′(x) = f(x) −f(x −h)
+h
++ h
+2f ′′(c2)
+The formula can be geometrically represented as in Figure (3.3)
+Figure 3.3: Geometrical representation of the backward difference approximation
+Example 3.3.1 For the function f(x) = x2, approximate f ′(2) using the backward difference
+approximation with step length
+1.) h = 0.1
+Solution :
+Since the backward difference approximation is,
+f ′(x) ≃f(x) −f(x −h)
+h
+But f(x) = x2, x = 2 and h = 0.1, therefore
+f(x) = f(2) = 22 = 4
+f(x −h) = f(2 −0.1) = f(1.9) = (1.9)2 = 3.61
+therefore
+f ′(2) ≃= 4 −3.6100
+0.1
+= 0.3900
+0.1
+= 3.900
+Since the exact value of
+f ′(2) = (2)(2) = 4,
+therefore the absolute error committed by using the numerical formula is 0.1. This
+is not very bad.
+■
+2.) h = 0.01
+Page 54 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.3. BACKWARD DIFFERENCE APPROXIMATION
+Solution :
+Since h = 0.01 and
+f(x) = f(2) = 22 = 4
+f(x −h) = f(2 −0.01) = f(1.99) = (1.99)2 = 3.9601,
+therefore
+f ′(2) ≃4 −3.9601
+0.01
+= 0.0399
+0.01
+= 3.99
+Error committed is 0.01. This is better than the previous.
+■
+3.) h = 0.001
+Solution :
+Since h = 0.001 and f(x) = 4
+f(x −h) = f(2 −0.001) = f(1.999) = (1.999)2 = 3.996001,
+therefore
+f ′(2) ≃4 −3.996001
+0.001
+= 0.003999
+0.001
+= 3.999
+Error committed is 0.00001. This error is smaller than any of the previous two.
+In fact the zero error means the exact value of the derivative is generated.
+■
+Note 3.3.1
+We note that the smaller h is the better is the numerical approximate to the
+derivative.
+3.3.1
+Analytical derivation of the backward difference approxima-
+tion
+Using the Taylor series expansion
+f(x −h) = f(x) −hf ′(x) + h2
+2 f ′′(x) −h3
+6 f (3)(x) + . . .
+(3.4)
+f(x −h) = f(x) −hf ′(x) + h2
+2 f ′′(c2) : x −h ≤c1 ≤x + h
+(3.5)
+Rearranging equation (3.5) i.e
+f(x −h) = f(x) −hf ′(x) + h2
+2 f ′′(c2),
+we get,
+f ′(x) = f(x) −f(x −h)
+h
++ h
+2f ′′(c2) : x −h ≤c2 ≤x
+Which is the backward difference approximation.
+The approximation could also be written as,
+f ′(x) = f(x) −f(x −h)
+h
++ Etrunc
+or
+f ′(x) = f(x) −f(x −h)
+h
++ 0(h)
+ssebuliba & ddumba
+numerical analysis i
+Page 55 of 196
+
+3.4. THE CENTRAL DIFFERENCE APPROXIMATION
+3.4
+The Central Difference Approximation
+We state the central difference approximation to the first derivative as;
+f ′(x) = f(x + h) −f(x −h)
+2h
++ h2
+3! f 3(c)
+The formula is geometrically represented as seen in the Figure (figure:central)
+Figure 3.4: Geometrical interpretation of the central difference approximation
+The slope of the line AB is the central difference approximation
+f ′(x) ≃f(x + h) −f(x −h)
+2h
+.
+From Figure 5.4, it is clear that the gradient of AB is closer to the gradient of the tangent at
+x = a. That is, the two lines are almost parallel. This is expected to be a better approximation
+than the forward and the backward. Indeed it is as we shall see in the following example.
+Example 3.4.1
+Approximate f ′(2) for f(x) = x2 using the central difference approximation with step size
+1.) h = 0.1
+Solution :
+Since a = 2, h = 0.1, but
+f ′(x) ≃f(x + h) −f(x −h)
+2h
+= f(2.1) −f(1.9)
+2(0.1)
+= (2.1)2 −(1.9)2
+0.2
+= 4.000000000
+Since the exact value is,
+f ′(2) = 2(2) = 4
+therefore the error is zero to 9 places of decimals.
+This could not be achieved with a forward or backward formula using same step
+size. This is because the central formula is of higher order i.e O(h2)
+■
+Page 56 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.4. THE CENTRAL DIFFERENCE APPROXIMATION
+2.) h = 0.01
+Solution :
+with h = 0.01,
+f ′(q) ≃f(2.01) −f(1.99)
+2(0.01)
+= (2.01)2 −(1.99)2
+0.02
+= 4.000000000.
+This also generates a zero error.
+■
+3.) h = 0.001
+Solution :
+with h = 0.001,
+f ′(2) ≃f(2.01) −f(1.999)
+2(0.001)
+= (2.001)2 −(1.999)2
+0.002
+= 4.00000000
+Which also generates a zero error.
+■
+3.4.1
+Analytical derivation of the central difference approximation
+Using Taylor series expansion of f(x + h) and f(a −h) about x = a, we have;
+f(x + h) = f(x) + hf ′(x) + h2
+2 f ′′(x) + h3
+6 f (3)(c1)
+(3.6)
+and
+f(x −h) = f(x) −hf ′(x) + h2
+2 f ′′(x) −h3
+6 f (3)(c2)
+(3.7)
+equation (3.6) minus equation (3.7) we get;
+f(x + h) = f(x −h) = 2f ′(x)h + h3
+6 (f (3)(c1) −f (3)(c2))
+(3.8)
+Now,
+f (3)(c1) + f (3)(2)
+2
+= f (3)(c3),
+c1 ≤c3 ≤c2
+This is derived from the intermediate value theorem.
+So
+f ′(x) = f(x + h) −f(x −h)
+2h
++ h2
+3! f (3)(c3)
+i.e, the error is of order O(h2).
+ssebuliba & ddumba
+numerical analysis i
+Page 57 of 196
+
+3.4. THE CENTRAL DIFFERENCE APPROXIMATION
+Exercise 3.4.1
+Derive the common approximations below
+f ′(x)
+≈
+f(x + h) −f(x)
+h
+(a)
+f ′(x)
+≈
+f(x) −f(x −h)
+h
+(b)
+f ′(x)
+≈
+f(x + h) −f(x −h)
+2h
+(c)
+f ′(x)
+≈
+−f(x + 2h) + 4f(x + h) −3f(x)
+2h
+(d)
+f ′(x)
+≈
+−f(x + 2h) + 4f(x + h) −4f(x −h) + f(x + 2h)
+4h
+(e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3.9)
+Exercise 3.4.2
+1.) For f(x) = ex, approximate f ′(1) using forward, backward and central difference formulae
+with,
+(a) h = 0.1
+(b) h = 0.01
+(c) h = 0.001
+Compare the results with the analytic/exact value of f ′(1). Comment on your results.
+2.) Let f(x) be given by the table below. The inherent round off error has the bound
+|ek| ≤5 × 10−5
+use the rounded values in your calculations.
+x
+1.100
+1.190
+1.199
+1.200
+1.201
+1.210
+f(x)
+0.4536
+0.3717
+0.3633
+0.3624
+0.314
+0.3630
+(a) Find approximation for f ′(1.2) using the central difference formula with h = 0.01, and
+h = 0.001.
+(b) Compare with f ′(1.2) = −sin(1.2) = −0.932.
+(c) Find the total error bound for the three cases in part (2a).
+3.) For f(x) = cos x, Use the forward, backward and central difference formulae to approximate
+f ′(0.8) using h = 0.001. Compare your results with the analytic values.[Hint: either all in
+radians or all in degrees, Ans= -0.717]
+4.) Repeat question three using the formula
+f ′(x0) ≃f1 −f−1
+2h
+(3.10)
+Compare your results with analytic results.
+What can you say about the order of the
+truncation error in (3.10) in comparison to the forward, backward and central difference
+formulae.
+Page 58 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.5. COMPARISION
+3.5
+Comparision
+It is clear that the central difference gives a much more accurate approximation of the derivative
+compared to the forward and backward differences. Central differences are useful in solving
+partial differential equations. If the data values are available both in the past and in the future,
+the numerical derivative should be approximated by the central difference.
+ssebuliba & ddumba
+numerical analysis i
+Page 59 of 196
+
+3.6. THE SECOND DERIVATIVE APPROXIMATION
+3.6
+The Second Derivative Approximation
+The most commonly used approximation is of a central difference form which we obtain from
+the following Taylor series approximations earlier considered in the previous lecture. Consider
+again the expansions,
+f(x + h) = f(x) + hf ′(x) + h2
+2 f ′′(x) + h3
+6 f (3)(x) + h4
+24f (4)(c))
+(3.11)
+and
+f(x −h) = f(x) −hf ′(x) + h2
+2 f ′′(x) −h3
+6 f (3)(x) + h4
+24f (4)(c2)
+(3.12)
+addition of equations (3.11) and (3.12) gives,
+f(x + h) + f(x −h) = 2f(x) + h2f ′′(x) + h4
+12
+
+f (4)(c1) + f 4(c2)
+
+(3.13)
+and using,
+f (4)(c1) + f (4)(c2)
+2
+= f (4)(c3)
+with c1 ≤c3 ≤c2. This is derived from the intermediate value theorem and making f ′′(x) the
+subject in equation (3.13), we get,
+f ′′(x) = f(x −h) −2f(x) + f(x + h)
+h2
++ h2
+12f (iv)(c3)
+(3.14)
+or
+f ′′(x) = f(x −h) −2f(x) + f(x + h)
+h2
++ O(h2)
+(3.15)
+Equation (3.15) is a second order approximation for the second order derivative. The formula
+is handy for approximating second order derivatives.
+Example 3.6.1
+Approximate f ′′(1) for the function f(x) = x3 with
+1.) h = 0.100
+Solution :
+Since,
+f ′′(x) ≃f(x −h) −2f(x) + f(x + h)
+h2
+But x = 1,
+h = 0.1, therefore
+f ′′(1) ≃f(0.9) −2f(1) + f(1.1)
+(0.1)2
+= (0.9)3 −2(1)3 + (1.1)3
+0.01
+= 6.00000000000005
+However, the exact value is f ′′(x) = 6x, therefore f ′′(1) = 6. Hence error com-
+mitted is just 5.0 × 10−14. This is really small.
+■
+2.) h = 0.010
+Page 60 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.6. THE SECOND DERIVATIVE APPROXIMATION
+Solution :
+With h = 0.01
+f ′′(1) ≃f(0.99) −2f(1) + f(1.01)
+(0.01)2
+= (0.99)3 −2 + (1.01)3
+0.0001
+= 6.00000000000000
+Since the exact value is 6, the error committed is zero to 14 decimal places.
+■
+3.) h = 0.001.
+Solution :
+This also generates a zero error, since,
+f ′′(1) ≃f(0.999) −2f(1) + f(1.001)
+(0.001)2
+= (0.999)3 −2 + (1.001)3
+0.000001
+= 6.00000000000000
+■
+3.6.1
+Error analysis in numerical differentiation
+Addition of a rounding error term
+When we use a formula such as
+f ′(x) = f(x + h) −f(x)
+h
++ Etrun(h2)
+(3.16)
+in general the difference f(x+h)−f(x)
+h
+will be evaluated with a rounding error. For example if f
+is evaluated to four decimal places with h = 0.1, there is a possible rounding error of
+2 × 0.00005
+0.1
+= 0.001
+in the difference
+f(x + h) −f(x)
+h
+.
+This is because when a number is evaluated to n- decimal places, the maximum absolute error
+committed is 1
+210−n. Thus maximum error in
+f(x + h) is 1
+210−4 = 0.00005
+and maximum absolute error in
+f(x) is 1
+210−4 = 0.00005.
+But the error in the difference is a sum of the absolute errors in the individual numbers. So
+the maximum error in
+f(x + h) −f(x) is 2(1
+210−4) or 2(0.00005)
+ssebuliba & ddumba
+numerical analysis i
+Page 61 of 196
+
+3.6. THE SECOND DERIVATIVE APPROXIMATION
+Thus, the error in
+f(x + h) −f(x)
+h
+is
+2(0.00005)
+0.1
+assuming h = 0.1 is exact. Thus equation (3.16) becomes
+f ′(x) = y1 −y0
+h
++ Etruc + Eround
+where, y1, y0 are the rounded values of f(x + h) and f(x) respectively.
+Optimum step size
+We now have that:
+Total error = Etrunc + Eround.
+Thus there is no point in choosing h so that |Etrunc| is small. If |Eround| is large since the benefit
+is swamped.
+Example 3.6.2
+Suppose
+f(x + h) = y1 + e1
+and
+f(x) = y0 + e0
+and |e1|, |e0| < e (small number). Find the optimum choice for h when using the approximation
+f ′(x) ≃f(x + h) −f(x)
+h
+Solution :
+For the approximation,
+f ′(x) ≃f(x + h) −f(x)
+h
+Maximum absolute error in f(x + h) is e and that in f(x) is also e. So
+|Eround| < e + e
+h
+= 2e
+h
+Now
+|Etrunc| = h
+2|f ′′(c1)| ≤h
+2M2
+say, where M2 = max |f ′′(x)|,
+a ≤x ≤a + h Thus,
+|Total error| ≤2e
+h + h
+2M2.
+The optimum choice for h is
+d
+dh
+Total error
+ = 0
+−2e
+h2 + M2
+2
+= 0
+h = 2
+r e
+M2
+■
+Exercise 3.6.1
+1.) For f(x) = x2 + x, approximate f ′′(1) using a step length,
+Page 62 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+3.6. THE SECOND DERIVATIVE APPROXIMATION
+(a) h = 0.4
+(b) h = 0.04
+(c) h = 0.004
+2.) Given the function f(x) = ex, approximate f ′′(x) at x = 2 using step length h of magnitude.
+(a) 0.1
+(b) 0.01
+(c) 0.001
+3.) Let f(x) = cosx. Use the formula considered in this Lecture for approximating f ′′(x), with
+h = 0.01 to calculate approximations for f ′(0.8). Compare with the true value.
+4.) Given that
+f ′′(x0) ≃−f2 + 16f1 −30f0 + 16f−1 −f−2
+12h2
+Use the formula to approximate f ′′(1) for f(x) = ex using h = 0.5. Compare your answer
+with the analytic answer and the answer obtained when using formula equation (3.15).
+What do you notice and suggest?
+5.) Show that for the central difference formula
+f ′(x) = f(x + h) −f(x)
+2h
++ h2
+3! f (3)(c),
+(a) |Total error| ≤e
+h + Mh2
+6
+(b) and Optimum h =
+ 3e
+M
+ 1
+3
+(c) for f(x) = cos x,
+x = 0.8 and h = 0.0001, show that, |Etrunc| ≃0.1 × 10−8. And if
+e = 0.5 × 10−9, show that, |Eround| < 0.5 × 10−5 and Optimum h = 0.0011.
+ssebuliba & ddumba
+numerical analysis i
+Page 63 of 196
+
+Chapter 4
+Finite Difference Operators
+4.1
+Introduction
+The lecture defines and inter-relates the most common finite difference operators i.e. forward,
+backward, shift, central and the averaging operator. Use of the operators to prove finite differ-
+ence identities is also done.
+4.1.1
+Finite differences
+We consider a function f(x) known for a certain set of equally spaced values of x such that
+x = x0 + rh,
+r = 0, 1, . . . , n
+and h > 0. This generates a set of n + 1 pairs i.e. (xr, fr).
+The xr are called pivotal points and fr = f(xr) are the pivotal values. The pairs can be
+written as;
+x0
+f(x0)
+x1
+f(x1)
+x2
+f(x2)
+·
+·
+·
+·
+·
+·
+xr
+f(xr)
+We can form differences between consecutive pivotal values i.e. fr+1 −fr where
+xr+1 = xr+h for r = 0, 1, 2, . . .
+The differences fr+1 −fr are called the first differences.
+We similarly define higher order
+differences.
+64
+
+4.1. INTRODUCTION
+Example 4.1.1
+Masenge (1989) used in his book the example of tabulating the function
+f(x) = ln(1 + x) in the interval [2.00, 2.10]. This was tabulated as,
+Differences
+xr
+fr
+1st
+2nd
+3rd
+2.00
+1.098612
+0.006645
+2.02
+1.105257
+−0.000044
+0.00601
+0.00000
+2.04
+1.111858
+−0.000044
+0.006557
+0.000002
+2.06
+1.118415
+−0.000042
+0.006515
+−0.000001
+2.08
+1.124930
+−0.000043
+0.006472
+2.10
+1.31402
+Definition 4.1.1
+We say that differences are converging if elements of higher order differences decrease rapidly in
+magnitude. Such a behavior is common from tables of well-behaved functions like polynomials.
+4.1.2
+Finite difference operators
+The most common finite difference operators are; the forward difference operator, the back-
+ward difference operator, the central difference operator, the averaging operator and the shift
+operator.
+ssebuliba & ddumba
+numerical analysis i
+Page 65 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+4.2
+The Forward Difference Operator ∆
+The forward difference operator is denoted by ∆and defined by the difference equation;
+∆fr = fr+1 −fr
+(4.1)
+Thus, the 1st difference column in a difference table consists of the elements,
+∆f0,
+∆f1,
+∆f2 . . . . . .
+The second differences are got by differentiating the first differences i.e
+∆fr+1 −∆fr
+(4.2)
+But we can easily show that ∆is a linear operator i.e.
+∆(αfr + βgr) = α∆fr + β∆gr
+Thus equation (4.2), becomes,
+∆fr+1 −∆fr = ∆(fr+1 −fr) = ∆(∆fr).
+Example 4.2.1
+Let y = f(x). Then
+∆f(x) = f(x + h) −f(x)
+∆y0 = y1 −y0
+∆y1 = y2 −y1
+∆yn = yn+1 −yn
+Example 4.2.2
+Compute ∆2y1
+Solution :
+∆2y1 = ∆
+
+∆y1
+
+= ∆
+
+y2 −y1
+
+= ∆y2 −∆y1
+= (y3 −y2) −(y2 −y1)
+= y3 −2y2 + y1
+■
+Remark 4.2.1
+In general,
+∆nyr = ∆n−1yr+1 −∆n−1yr
+(4.3)
+Page 66 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Remark 4.2.2
+If we write ∆2fr for ∆(∆fr), then the second differences are the quantities,
+∆2f0, ∆2f1, ∆2f2, . . . . . .
+Remark 4.2.3
+We similarly get third differences as consisting of the elements.
+∆3fr = ∆(∆2fr)
+or
+∆3fr = ∆2(∆fr) = ∆2fr+1 −∆2fr
+Generally, we have that the nth order differences consist of the elements/quantities,
+∆nfr = ∆n−1fr+1 −∆n−1fr
+(4.4)
+∆nfr = ∆(∆n−1fr)
+(4.5)
+Thus ∆kfr involves information at the pivoted points xr, xr+1, . . . , xr+k. Thus,
+1.) ∆f0 involves information at x0 and x1
+2.) ∆2f0 involves information at x0, x1 and x2
+3.) ∆3f0 involves information at x0, x1, x2 and x3
+and so on. In fact this is how the name forward comes about.
+Example 4.2.3
+Table 4.1: Showing a table of forward differences in between used points.
+y
+∆y
+∆2y
+∆3y
+∆4y
+y0
+∆y0
+y1
+∆2y0
+∆y1
+∆3y0
+y2
+∆2y1
+∆4y0
+∆y2
+∆3y1
+y3
+∆2y2
+∆y3
+y4
+or
+Table 4.2: Forward Differences Table at point of reference.
+y
+∆y
+∆2y
+∆3y
+∆4y
+y0
+∆y0
+∆2y0
+∆3y0
+∆4y0
+y1
+∆y1
+∆2y1
+∆3y1
+y2
+∆y2
+∆2y2
+y3
+∆y3
+y4
+ssebuliba & ddumba
+numerical analysis i
+Page 67 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Example 4.2.4
+Given the value of
+y = 46, 66, 81, 93, 101
+Determine the forward differences of y.
+Solution :
+y
+∆y
+∆2y
+∆3y
+∆4y
+46
+20
+66
+-5
+15
+2
+81
+-3
+-3
+12
+-1
+93
+-4
+8
+101
+Table 4.3: Forward difference in between the two used points
+or by
+y
+∆y
+∆2y
+∆3y
+∆4y
+46
+20
+-5
+2
+-3
+66
+15
+-3
+-1
+81
+12
+-4
+93
+8
+101
+Table 4.4: Forward difference placed at point
+■
+Page 68 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Example 4.2.5
+Given the table
+x
+1.4
+1.6
+1.8
+2
+2.2
+y
+4.0552
+4.953
+6.0496
+7.3891
+9.025
+Solution :
+The forward difference operator table is given by
+x
+y
+∆y
+∆2y
+∆3y
+∆4y
+1.4
+4.0552
+0.8978
+1.6
+4.953
+0.1988
+1.0966
+0.0441
+1.8
+6.0496
+0.2429
+0.0094
+1.3395
+0.0535
+2
+7.3891
+0.2964
+1.6359
+2.2
+9.025
+■
+Example 4.2.6
+Construct the difference table of f(x) = sin x for x = 0◦(10◦) 50◦:
+Solution :
+x◦
+f(x) = sin x
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+0
+0
+1736
+10
+0.1736
+-52
+1684
+-52
+20
+0.3420
+-104
+4
+1580
+-48
+0
+30
+0.5000
+-152
+4
+1428
+-44
+40
+0.6428
+-196
+1232
+50
+0.7660
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 69 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Example 4.2.7
+Write down the forward difference table for f = x3 for
+x = 1, 1.01, 1.02, 1.03, 1.04, 1.05
+Solution :
+x
+f(x) = x3
+∆f
+∆2f
+∆3f
+∆4f
+∆5f
+1
+1
+0.03
+1.01
+1.03
+0.001
+0.031
+-0.001
+1.02
+1.061
+0
+0.002
+0.031
+0.001
+-0.003
+1.03
+1.092
+0.001
+-0.001
+0.032
+0
+1.04
+1.124
+0.001
+0.033
+1.05
+1.157
+■
+Example 4.2.8
+If f(x) = x3 −2x2 + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4. Verify that the fourth differences are zero.
+Solution :
+x
+f(x) = x3 −2x2 + 1
+∆f(x)
+∆2f(x)
+∆3f(x)
+∆4f(x)
+0
+1
+-1
+1
+0
+2
+1
+6
+2
+1
+8
+0
+9
+6
+3
+10
+14
+23
+4
+33
+From the table we can see that
+∆4f(x) = 0
+■
+Example 4.2.9
+If f(x) = x2 + x + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4, 5. Hence find
+Page 70 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+1.) ∆f(0)
+2.) ∆2f(1)
+3.) ∆3f(2)
+Solution :
+x
+f(x) = x2 + x + 1
+∆f(x)
+∆2f(x)
+∆3f(x)
+0
+1
+2
+1
+3
+2
+4
+0
+2
+7
+2
+6
+0
+3
+13
+2
+8
+0
+4
+21
+2
+10
+5
+31
+From the table we can see that ∆2f(x) = 2 = constant and ∆3f(x) = 0
+We note that
+• Given function is f(x) = x2 + x + 1. The highest power is 2, which obviously
+means ∆2f(x) = constant and ∆3f(x) = 0
+• No need to show steps of calculations as shown in ∆f(x), ∆2f(x) and ∆3f(x)
+columns.
+■
+Exercise 4.2.1
+If f(x) = x2 −3x + 1, construct a forward difference table by taking x =
+0, 1, 2, 3, 4, 5. Verify that the second differences are constants.
+Exercise 4.2.2 If f(x) = 2x2+5, construct a forward difference table by taking x = 0, 2, 4, 6, 8.
+Verify that the third differences are zero.
+Exercise 4.2.3
+If f(x) = 2x3 −x2 + 3x + 1, construct a forward difference table by taking
+x = 0, 1, 2, 3, 4, 5. Verify that the third differences are constant.
+ssebuliba & ddumba
+numerical analysis i
+Page 71 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Example 4.2.10
+Given f(x) = x4, form a table of finite differences, for x from x = −2 in steps of one to 5.
+Solution :
+Table 4.5: Showing a finite difference table for f(x) = x4
+xr
+fr
+∆fr
+∆2fr
+∆3fr
+∆4fr
+∆5fr
+−2
+16
+-15
+−1
+1
+14
+−1
+−12
+0
+0
+2
+24
+1
+12
+0
+1
+1
+14
+24
+15
+36
+0
+2
+16
+50
+24
+65
+60
+0
+3
+81
+110
+24
+175
+84
+4
+256
+194
+369
+5
+625
+■
+Note 4.2.1 We note that the fourth differences are constants and fifth differences are all zeros.
+We state the following theorem to support this observation.
+Theorem 4.2.1
+Let Pn(x) be a polynomial of degree n(n ≥1 integer). Then
+1. ∆rPn(x) is a polynomial of degree n −r(r ≥n integer)
+2. ∆nPn(x) = constant
+3. ∆n+1Pn(x) = 0.
+Thus, parts (2.) and (3.) of the theorem confirm the validity of the results of the difference
+table (4.4) in which fourth order differences are all constants equal to 24 and fifth differences
+are all zero.
+Page 72 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+In fact the theorem can help us check the behaviour of a function (not polynomial) on an
+interval. If the nth order differences are fairly constant on an interval for a particular function,
+then such a function more or less behaves like a polynomial of degree n in that interval.
+Exercise 4.2.4 For a polynomial
+P6(x) = x6 −6x2 + 1,
+Construct a table of forward differences on the interval [4, −4] with step size 1.
+Example 4.2.11
+By constructing a forward difference table, find the 7th and 8th terms of a
+sequence 8, 14, 22, 32, 44, 58, . . .
+Solution :
+Let
+f(1) = 8, f(2) = 14, f(3) = 22, f(4) = 32, f(5) = 44, f(6) = 58
+We have to find f(7) and f(8).
+We prepare the following forward difference table
+x
+f(x)
+∆f(x)
+∆2f(x)
+∆3f(x)
+1
+8
+6
+2
+14
+2
+8
+0
+3
+22
+2
+10
+0
+4
+32
+2
+12
+0
+5
+44
+2
+14
+0
+6
+58
+2
+16
+0
+7
+74
+2
+18
+8
+92
+• To find f(7), extra 2 is written in ∆2 column. The entry in ∆f(x) is 14+2 = 16
+is added. The entry in f(x) is 58 + 16 = 74 is added. Thus f(7) = 74.
+• To find f(8), extra 2 is written in ∆2 column. The entry in ∆f(x) is 16+2 = 18
+is added. The entry in f(x) is 74 + 18 = 92 is added. Thus f(8) = 92.
+Thus the 7th and 8th terms of series are 74 and 92 respectively.
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 73 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Exercise 4.2.5
+By constructing a forward difference table, find the 6th and 7th terms of a
+sequence 6, 11, 18, 27, 38, . . .
+Solution :
+6, 11, 18, 27, 38, 51, 66, . . .
+■
+Example 4.2.12
+Let a function f(x) is given at the points (0, 7), (4, 43), (8, 367) then find
+the forward difference of the function at x = 4.
+Solution :
+∆f(x) = f(x + h) −f(x)
+∆f(4) = f(4 + h) −f(4)
+= f(8) −f(4)
+= 367 −43
+= 324
+■
+Example 4.2.13
+Find ∆f(x) for the function x2 + 2x + 3 with h = 2
+Solution :
+∆f(x) = f(x + h) −f(x)
+=
+
+(x + 2)2 + 2(x + 2) + 3
+
+−
+
+x2 + 2x + 3
+
+= x2 + 4x + 4 + 2x + 4 + 3 −x2 −2x −3
+= 4x + 8
+∆2f(x) =
+
+4(x + 2) + 8
+
+−
+
+4x + 8
+
+= 4x + 8 −4x
+= 8
+∆3f(x) = 8 −8
+= 0
+■
+Page 74 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Example 4.2.14
+If f(x) = ex, construct a forward difference table by taking
+x = 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5
+Solution :
+x
+f(x) = ex
+∆
+∆2
+∆3
+∆4
+∆5
+∆6
+∆7
+∆8
+0.1
+1.10517
+0.05666
+0.15
+1.16183
+0.00291
+0.05957
+0.00015
+0.2
+1.2214
+0.00306
+-0.00001
+0.06263
+0.00014
+0.00005
+0.25
+1.28403
+0.0032
+0.00004
+-0.00011
+0.06583
+0.00018
+-0.00006
+0.00023
+0.3
+1.34986
+0.00338
+-0.00002
+0.00012
+-0.00047
+0.06921
+0.00016
+0.00006
+-0.00024
+0.35
+1.41907
+0.00354
+0.00004
+-0.00012
+0.07275
+0.0002
+-0.00006
+0.4
+1.49182
+0.00374
+-0.00002
+0.07649
+0.00018
+0.45
+1.56831
+0.00392
+0.08041
+0.5
+1.64872
+■
+4.2.1
+Differences as Related to Ordinates
+By definition of the forward difference operator, we have:
+∆fr = fr+1 −fr
+∆2fr = ∆fr+1 −∆fr
+= (fr+2 −fr+1) −(fr+1 −fr)
+= fr+2 −2fr+1 + fr
+∆3fr = ∆2fr+1 −∆2fr
+= (fr+3 −2fr+2 + fr+1) −(fr+2 −2fr+1 + fr)
+= fr+3 −3fr+2 + 3fr+1 −fr
+ssebuliba & ddumba
+numerical analysis i
+Page 75 of 196
+
+4.2. THE FORWARD DIFFERENCE OPERATOR ∆
+Exercise 4.2.6
+Show that,
+∆4fr = fr+4 −4fr+3 + 6fr+2 −4fr+1 + fr
+Example 4.2.15
+Table 4.6: Showing a table of forward differences.
+y
+∆y
+∆2y
+∆3y
+∆4y
+∆5y
+∆6y
+y0
+∆y0
+y1
+∆2y0
+∆y1
+∆3y0
+y2
+∆2y1
+∆4y0
+∆y2
+∆3y1
+∆5y0
+y3
+∆2y2
+∆4y1
+∆6y0
+∆y3
+∆3y2
+∆5y1
+y4
+∆2y3
+∆4y2
+∆y4
+∆3y3
+y5
+∆2y4
+∆y5
+y6
+or
+Table 4.7: Forward Differences Table at point of reference.
+y
+∆y
+∆2y
+∆3y
+∆4y
+∆5y
+∆6y
+y0
+∆y0
+∆2y0
+∆3y0
+∆4y0
+∆5y0
+∆6y0
+y1
+∆y1
+∆2y1
+∆3y1
+∆4y1
+∆5y1
+y2
+∆y2
+∆2y2
+∆3y2
+∆4y2
+y3
+∆y3
+∆2y3
+∆3y3
+y4
+∆y4
+∆2y4
+y5
+∆y5
+y6
+Note 4.2.2
+There is an approximate equality between ∆operator and derivative.
+Page 76 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+4.3
+The Backward Difference Operator ∇
+This is denoted by ∇and defined by the difference equation,
+∇fr = fr −fr−1
+(4.6)
+Exercise 4.3.1
+Show that
+∇nfr = ∇n−1fr −∇n−1fr−1
+before you continue reading.
+Note 4.3.1
+We also note that this operator has a nice property of linearity i.e
+∇(αfr + βgr) = α∇fr + β∇gr
+where α and β are real scalars.
+Example 4.3.1
+Table 4.8: Showing a table of backward differences.
+y0
+∇y1
+y1
+∇2y2
+∇y2
+∇3y3
+y2
+∇2y3
+∇4y4
+∇y3
+∇3y4
+∇5y5
+y3
+∇2y4
+∇4y5
+∇6y6
+∇y4
+∇3y5
+∇5y6
+y4
+∇2y5
+∇4y6
+∇y5
+∇3y6
+y5
+∇2y6
+∇y6
+y6
+or
+Table 4.9: Backward Differences Table
+y
+∇y
+∇2y
+∇3y
+∇4y
+∇5y
+∇6y
+y0
+y1
+∇y1
+y2
+∇y2
+∇2y2
+y3
+∇y3
+∇2y3
+∇3y3
+y4
+∇y4
+∇2y4
+∇3y4
+∇4y4
+y5
+∇y5
+∇2y5
+∇3y5
+∇4y5
+∇5y5
+y6
+∇y6
+∇2y6
+∇3y6
+∇4y6
+∇5y6
+∇6y6
+ssebuliba & ddumba
+numerical analysis i
+Page 77 of 196
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+Example 4.3.2
+Construct the backward difference table for the value of for x and y given
+below.
+x
+1891
+1901
+1911
+1921
+1931
+y
+46
+66
+81
+93
+101
+Solution :
+The backward differences for y is given by
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+1891
+46
+20
+1901
+66
+-5
+15
+2
+1911
+81
+-3
+-3
+12
+-1
+1921
+93
+-4
+8
+1931
+101
+Note that, the forward and backward give the same table, difference is at where you
+position. Compare this example and Example 4.2.11. To see a difference we employ
+Table 4.9 for the Backward difference operator.
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+1891
+46
+1901
+66
+20
+1911
+81
+15
+-5
+1921
+93
+12
+-3
+2
+1931
+101
+8
+-4
+-1
+-3
+■
+Exercise 4.3.2 Construct a table of backward differences for the polynomial in Exercise 4.2.4.
+Exercise 4.3.3
+Construct a table of backward differences for the function f(x) = ex on the
+interval [−2, 2] with step size 0.5.
+From your results what polynomial function fairly approximate ex on this interval?
+Page 78 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+Exercise 4.3.4
+What do you think are the uses of finite difference tables.
+Example 4.3.3
+Construct the backward difference table for the data given below:
+x
+1
+2
+3
+4
+5
+6
+7
+8
+y
+8
+14
+22
+32
+44
+58
+74
+92
+Solution :
+x
+y
+∇y
+∇2y
+∇3y
+1
+8
+6
+2
+14
+2
+8
+0
+3
+22
+2
+10
+0
+4
+32
+2
+12
+0
+5
+44
+2
+14
+0
+6
+58
+2
+16
+0
+7
+74
+2
+18
+8
+92
+or
+x
+y
+∇y
+∇2y
+∇3y
+∇4y
+∇5y
+∇6y
+∇7y
+1
+8
+2
+14
+6
+3
+22
+8
+2
+4
+32
+10
+2
+0
+5
+44
+12
+2
+0
+0
+6
+58
+14
+2
+0
+0
+0
+7
+74
+16
+2
+0
+0
+0
+0
+8
+92
+18
+2
+0
+0
+0
+0
+0
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 79 of 196
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+Exercise 4.3.5
+Construct a backward difference table for the following data
+x
+0
+10
+20
+30
+y
+0
+0.174
+0.347
+0.518
+Exercise 4.3.6
+Construct a backward difference table for y = f(x) = x3 + 2x + 1 for
+x = 1, 2, 3, 4, 5.
+Example 4.3.4
+By constructing a difference table and using the second order differences as
+constant, find the sixth term of the series 8, 12, 19, 29, 42 . . .
+58
+Page 80 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+4.3.1
+Relation between ∆and ∇
+1.)
+(1 + ∆) (1 −∇) ≡1
+(4.7)
+Proof:
+(1 + ∆)(1 −∇)f(x) = (1 + ∆)[f(x) −f(x) + f(x −h)]
+= (1 + ∆)f(x −h)
+= f(x −h) + f(x) −f(x −h)
+= f(x)
+Therefore,
+(1 + ∆)(1 −∇) ≡1
+■
+2.)
+∆∇≡∇∆
+(4.8)
+Proof:
+∆∇f(x) = ∆[f(x) −f(x −h)] = f(x + h) −2f(x) + f(x −h)
+and
+∇∆f(x) = ∇[f(x + h) −f(x)] = [f(x + h) −f(x)] −[f(x) −f(x −h)]
+= f(x + h) −2f(x) + f(x −h)
+Therefore,
+∆∇≡∇∆
+■
+3.)
+∆∇≡∆−∇
+(4.9)
+Proof:
+Consider the function f(x).
+∆f(x) = f(x + h) −f(x)
+∇f(x) = f(x) −f(x −h)
+But
+∆−∇)(f(x)) = ∆f(x) −∇f(x)
+= [f(x + h) −f(x)] −[f(x) −f(x −h)]
+= ∆f(x) −∆f(x −h)
+= ∆[f(x) −f(x −h)]
+= ∆[∇f(x)]
+Therefore
+∆−∇= ∆∇
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 81 of 196
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+4.3.2
+Properties of Forward and Backward Finite Difference Oper-
+ators
+1. Constant rule: If c is a constant, then
+(a)
+∆c = 0
+(4.10)
+Proof:
+Let f(x) = c
+Therefore
+f(x + h) = c
+(where h is the interval of difference)
+∆c = ∆f(x) = f(x + h) −f(x) = c −c = 0
+■
+(b)
+∇c = 0
+(4.11)
+2. Linearity: if a and b are constants,
+(a)
+∆(af + bg) = a ∆f + b ∆g
+(4.12)
+Proof:
+∆[f(x) + g(x)] = [f(x + h) + g(x + h)] −[f(x) + g(x)]
+= f(x + h) + g(x + h) −f(x) −g(x)
+= f(x + h) −f(x) + g(x + h) −g(x)
+= ∆f(x) + ∆g(x)
+and
+∆[cf(x)] = cf(x + h) −cf(x)
+= c[f(x + h) −f(x)]
+= c∆f(x)
+Thus the proof
+■
+(b)
+∇(af + bg) = a ∇f + b ∇g
+(4.13)
+3. Product rule:
+(a)
+∆(fg) = f ∆g + g ∆f + ∆f ∆g
+(4.14)
+Proof:
+∆[f(x)g(x)] = f(x + h)g(x + h) −f(x)g(x)
+= f(x + h)g(x + h) −f(x + h)g(x) + f(x + h)g(x) −f(x)g(x)
+= f(x + h)[g(x + h) −g(x)] + g(x)[f(x + h) −f(x)]
+= f(x + h)∆g(x) + g(x)∆f(x)
+■
+Page 82 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.3. THE BACKWARD DIFFERENCE OPERATOR ∇
+Also, it can be shown that
+∆[f(x)g(x)] = f(x)∆g(x) + g(x + h)∆f(x)
+= f(x)∆g(x) + g(x)∆f(x) + ∆f(x)∆g(x)
+(b)
+∇(fg) = f ∇g + g ∇f −∇f ∇g
+(4.15)
+4. Quotient rule:
+(a)
+∆
+f(x)
+g(x)
+
+= g(x)∆f(x) −f(x)∆g(x)
+g(x + h)g(x)
+(4.16)
+Proof:
+∆
+f(x)
+g(x)
+
+= f(x + h)
+g(x + h) −f(x)
+g(x)
+= f(x + h)g(x) −f(x)g(x + h)
+g(x + h)g(x)
+= f(x + h)g(x) −f(x)g(x) + f(x)g(x) −f(x)g(x + h)
+g(x + h)g(x)
+= g(x)[f(x + h) −f(x)] −f(x)[g(x + h) −g(x)]
+g(x + h)g(x)
+= g(x)∆f(x) −f(x)∆g(x)
+g(x + h)g(x)
+■
+(b)
+∇
+f
+g
+
+= 1
+g det
+∇f
+∇g
+f
+g
+ 
+det
+g
+∇g
+1
+1
+−1
+or
+∇
+f
+g
+
+= g ∇f −f ∇g
+g · (g −∇g)
+(4.17)
+5. Summation rules:
+(a)
+b
+X
+n=a
+∆f(n) = f(b + 1) −f(a)
+(4.18)
+(b)
+b
+X
+n=a
+∇f(n) = f(b) −f(a −1)
+(4.19)
+ssebuliba & ddumba
+numerical analysis i
+Page 83 of 196
+
+4.4. THE SHIFT OPERATOR E
+4.4
+The Shift Operator E
+Definition 4.4.1 The shift operator is denoted by E and defined by
+Efr = fr+1
+(4.20)
+A shift operator is like a jump forward.
+Remark 4.4.1 E is called the shifting operator . It is also called the displacement operator.
+Example 4.4.1
+Table 4.10: Shift Differences Table
+y
+Ey
+E2y
+E3y
+E4y
+E5y
+y0
+y1
+y2
+y3
+y4
+y5
+y1
+y2
+y3
+y4
+y5
+y2
+y3
+y4
+y5
+y3
+y4
+y5
+y4
+y5
+y5
+Note 4.4.1
+By Definition 4.4.1 we can define higher order shift operators as,
+E(Efr) = Efr+1 = fr+2.
+We usually denote
+E(Efr) = E2fr
+and,
+Ekfr = E(Ek−1fr) = fr+k.
+Remark 4.4.2
+For k negative, we get what is known as the backward shift. For example
+E−1fr is a backward shift defined by,
+E−1fr = fr−1
+We also note that k can be fractional.
+Example 4.4.2
+Find E
+1
+2fr and E−5fr.
+Solution :
+By definitions of the forward and backward shifts i.e.
+Efr = fr+1
+and
+E−1fr = fr−1
+we have,
+E
+1
+2fr = fr+ 1
+2
+and
+E−5fr = fr−5.
+■
+Page 84 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.4. THE SHIFT OPERATOR E
+Example 4.4.3
+Given the set of values
+y = −2, 2, 5, 6, 8, 12, 13
+then
+1.) E(2) = 5
+2.) E(8) = 12
+3.) E3(−2) = 6
+4.) E−1(13) = 12
+Example 4.4.4
+Given y0 = 1, y1 = 11, y2 = 21, y3 = 28 and y4 = 29.
+1.)
+E4y0 = y4 = 29
+2.)
+E3y0 = y3 = 28
+3.)
+E2y0 = y2 = 21
+4.)
+Ey0 = y1 = 11
+4.4.1
+Relation between ∆and E
+∆= E −1
+(4.21)
+E = ∆+ 1
+(4.22)
+Proof:
+Consider the function f(x).
+∆f(x) = f(x + h) −f(x)
+= Ef(x) −f(x)
+= (E −1)f(x)
+Therefore,
+∆≡E −1
+■
+4.4.2
+Relation between ∇and E
+∇= 1 −E−1
+(4.23)
+E = (1 −∇)−1
+(4.24)
+Proof:
+Consider the function f(x).
+∇f(x) = f(x) −f(x −h)
+= f(x) −E−1f(x)
+= (1 −E−1)f(x)
+Therefore,
+∇≡1 −E−1
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 85 of 196
+
+4.4. THE SHIFT OPERATOR E
+Remark 4.4.3
+Property equ (4.23) can be also expressed as
+∇= 1 −E−1
+= 1 −1
+E
+= E −1
+E
+hence
+∇= E −1
+E
+(4.25)
+4.4.3
+Relation between ∆, ∇and E
+Example 4.4.5
+Show that
+∆= E∇
+(4.26)
+Solution :
+Since
+E∇fr = E(∇fr)
+= E(fr −fr−1)
+= Efr −Efr−1 (because of linearity of E)
+= fr+1 −fr (By definition of E)
+= ∆fr
+Hence shown.
+■
+Remark 4.4.4
+Relation equ (4.26) can be rewritten as
+∆= E∇
+E−1∆= E−1E∇
+E−1∆= ∇
+Therefore
+∇= E−1∆
+(4.27)
+Proof:
+Consider the function f(x).
+∇f(x) = f(x) −f(x −h) = ∆f(x −h) = ∆E−1f(x)
+Therefore
+∇= ∆E−1
+■
+4.4.4
+Differences in terms of pivoted values
+From the relation
+∆kfr = (E −1)kfr,
+We can easily show that
+∆kfr =
+ k
+0
+
+fr+k −
+ k
+1
+
+fr+k−1 +
+ k
+2
+
+fr+k−2 + . . .
+Try and show this before you continue. Recall:
+ k
+r
+
+=
+k!
+r!(k−r)!.
+Page 86 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.4. THE SHIFT OPERATOR E
+Example 4.4.6
+Express ∆3f0 in terms of pivoted values.
+Solution :
+Since
+∆kfr =
+ k
+0
+
+fr+k −
+ k
+1
+
+fr+k−1 +
+ k
+2
+
+fr+k−2 + . . .
+Therefore,
+∆3f0 =
+ 3
+0
+
+f3+0 −
+ 3
+1
+
+f3+0−1 +
+ 3
+2
+
+f3+0−2 −
+ 3
+3
+
+f3+0−3
+=
+ 3
+0
+
+f3 −
+ 3
+1
+
+f2 +
+ 3
+2
+
+f1 −
+ 3
+3
+
+f0
+= f3 −3f2 + 3f1 −f0
+■
+Example 4.4.7
+Construct the shift difference table for the value of y given below.
+x
+1891
+1901
+1911
+1921
+1931
+y
+46
+66
+81
+93
+101
+Solution :
+x
+y
+Ey
+E2y
+E3y
+E4y
+1891
+46
+66
+81
+93
+101
+1901
+66
+81
+93
+101
+1911
+81
+93
+101
+1921
+93
+101
+1931
+101
+■
+ssebuliba & ddumba
+numerical analysis i
+Page 87 of 196
+
+4.5. THE CENTRAL DIFFERENCE OPERATOR δ
+4.5
+The Central Difference Operator δ
+The central difference operator is denoted by δ and defined by the equation
+δfr = fr+ 1
+2 −fr−1
+2
+(4.28)
+Example 4.5.1
+δfr+ 1
+2 = fr+ 1
+2 + 1
+2 −fr+ 1
+2 −1
+2
+δfr+ 1
+2 = fr+1 −fr
+(4.29)
+Note 4.5.1 Central difference is the difference between the upper (forward) and lower (back-
+ward) values.
+Example 4.5.2
+1.) δf 1
+2 = f1 −f0
+2.) δf 3
+2 = f2 −f1
+Example 4.5.3
+δ2fr = δfr+ 1
+2 −δfr−1
+2
+= (fr+1 −fr) −(fr −fr−1)
+= fr+1 −2fr + fr−1
+With higher order differences defined by
+δkfr = δk−1fr+ 1
+2 −δk−1fr−1
+2.
+Exercise 4.5.1
+Determine the expressions for
+1.) δ3fr
+2.) δ4fr
+Example 4.5.4
+Page 88 of 196
+ssebuliba & ddumba
+numerical analysis i
+
+4.5. THE CENTRAL DIFFERENCE OPERATOR δ
+Table 4.11: Showing a table of central differences using Eqn (4.29), subtractions
+y
+δy
+δ2y
+δ3y
+δ4y
+δ5y
+δ6y
+y0
+δy 1
+2
+y1
+δ2y1
+δy 3
+2
+δ3y 3
+2
+y2
+δ2y2
+δ4y2
+δy 5
+2
+δ3y 5
+2
+δ5y 5
+2
+y3
+δ2y3
+δ4y3
+δ6y3
+δy 7
+2
+δ3y 7
+2
+δ5y 7
+2
+y4
+δ2y4
+δ4y4
+δy 9
+2
+δ3y 9
+2
+y5
+δ2y5
+δy 11
+2
+y6
+Example 4.5.5
+Draw the central difference operator table for f(x) = 2x, 0(1)6
+Table 4.12: Showing a table of central differences.
+x
+y
+δy
+δ2y
+δ3y
+δ4y
+δ5y
+δ6y
+0
+1
+1
+1
+2
+1
+2
+1
+2
+4
+2
+1
+4
+2
+1
+3
+8
+4
+2
+1
+8
+4
+2
+4
+16
+8
+4
+16
+8
+5
+32
+16
+32
+6
+64
+ssebuliba & ddumba
+numerical analysis i
+Page 89 of 196
+
+4.5. THE CENTRAL DIFFERENCE OPERATOR δ
+4.5.1
+Relation between δ and E
+From,
+δfr = fr+ 1
+2 −fr−1
+2
+and
+E
+1
+2fr = fr+ 1
+2
+and
+E−1
+2fr = fr−1
+2,
+we get
+δfr = (E
+1
+2 −E−1
+2)fr
+and hence conclude that;
+δ = E1/2 −E−1/2
+(4.30)
+= E1/2(1 −E−1)
+(4.31)
+4.5.2
+Relation between δ and ∆
+∆= 1
+2δ2 + δ
+r
+1 + δ2
+4
+(4.32)
+Proof:
+We know that
+∆= E −1
+δ = E1/2 −E−1/2
+Therefore
+1
+2δ2 + δ
+r
+1 + δ2
+4
+= 1
+2
+
+E1/2 −E−1/2
+2
++
+
+E1/2 −E−1/2
+
+v
+u
+u
+u
+t
+1 +
+
+E1/2 −E−1/2
+2
+4
+= 1
+2
+
+E + E−1 −2
+
++
+
+E1/2 −E−1/2
+
+v
+u
+u
+u
+t
+1 +
+
+E + E−1 −2
+
+4
+= E
+2 + E−1
+2
+−1 +
+
+E1/2 −E−1/2
+
+v
+u
+u
+u
+t
+
+E1/2 + E−1/2
+2
+4
+= E
+2 + E−1
+2
+−1 +
+
+E1/2 −E−1/2
+
+
+E1/2 + E−1/2
+
+2
+= E
+2 + E−1
+2
+−1 +
+
+E −E−1
+
+2
+= E
+2 + E−1
+2
+−1 + E
+2 −E−1
+2
+= E −1
+= ∆
+■
+Page 90 of 196
+ssebuliba & ddumba
+numerical analysis i

@@ -1,0 +1,1715 @@
+Internal audit and financial performance of commercial banks: Case Study of Stanbic Bank,
+Mukono Branch
+
+
+
+
+
+
+
+
+
+
+
+
+Simon Sseremba
+S18B05/825
+
+
+
+
+A DISSERTATION SUBMITTED TO THE SCHOOL OF BUSINESS IN PARTIAL
+FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF THE
+BACHELORS DEGREE OF BUSINESS ADMINISTRATION OF UGANDA
+CHRISTIAN UNIVERSITY
+
+
+
+
+
+
+September, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEDICATION
+
+I dedicate this report to my lovely parents. I sincerely thank them for all the support,
+encouragement and prayers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACKNOWLEDGEMENT
+
+I would like to express my deepest appreciation to all those who provided me the possibility
+to complete this report in one way or another through their prayers, resources and
+encouragement.
+
+I would also like to acknowledge with much appreciation my family and friends for your
+encouragement which has kept me going and for that I am sincerely grateful. It is because of
+your support that I have managed to get this far. May God bless you abundantly.
+
+Special thanks go to my Supervisor Mr. Agume Anthony for his guidance, direction and
+advice accorded to me throughout the period of undertaking this project. Your efforts and
+supervision are highly appreciated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIST OF TABLES
+Table 1: Gender of the Respondent .............................................................................................
+Table 10: Extent to which Internal Audit relates to Financial Performance of
+commercial banks. .......................................................................................................................
+Table 3: Level of Education .........................................................................................................
+Table 4: Period of Service ............................................................................................................
+Table 5: Role of internal audit and financial performance. .........................................................
+Table 6: The role of Internal Audit and Financial Performance ..................................................
+Table 7: The effect of internal audit on financial performance ...................................................
+Table 8: Extent to Which Internal Audit Standards Affect Financial Performance ....................
+Table 9: Effects of Internal Audit Standards on Financial Performance of a ..............................
+Table 11: The relationship between internal audit and financial performance of
+commercial banks ........................................................................................................................
+Table 2: Age Distribution ............................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ABBREVIATIONS
+
+ROA : Return on Assets
+ROE : Return on Equity
+ROI : Return on Investments
+IIA : Institute of Internal Auditors
+IA : Internal Audit
+PC : Professional Competency
+IAS : Internal Audit Standards
+IC : Internal Controls
+CEO : Chief Executive Officer
+IAASB : International Auditing and Assurance Standards Board
+CBU : Central Bank of Uganda
+ICPAU : Institute of Certified Public Accountants of Uganda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+
+For the purpose of this study the researcher sought to determine the effect of internal audit on
+financial performance of commercial banks in Uganda. The specific objectives of the study
+were to: determine the role of internal audit, effect and relationship between internal audit
+and financial performance of commercial banks in Uganda.
+
+Chapter two aimed at illustrating the conceptual review, empirical , critical and summary of
+all the review.
+Chapter three covered the methodology the researcher used in the field to collect data where
+the study adopted a descriptive cross-sectional research design. The population of the study
+consisted of the workers in Stanbic bank Mukono branch and thus from a targeted population
+of 43 members and using the Slovene’s formula, the researcher was able to come up with an
+appropriate sample size of 20. Data was mostly collected by the help of self-administered and
+guided questionnaires which was later edited, coded, tabled and made ready to be presented
+and interpreted.
+Chapter four then discussed the interpretation and presentation of the findings obtained from
+the field and thus data collected for the study were analysed by the researcher using
+frequency counts, mean scores and standard deviation. Data presentation was done by use of
+tables for ease of understanding and interpretation.
+Chapter five provided a summary, conclusion and recommendations of the main findings
+where the analysis revealed that internal audit control and procedures have a positive effect
+on financial performance of commercial banks in Uganda. The study recommended that
+management in commercial banks in Uganda should adopt effective internal audit practices
+such as internal auditing standards, independence of internal audit, professional competency
+and internal controls to enhance financial performance of the banks.
+
+
+
+
+
+
+
+
+
+Table of Contents
+Table of Contents
+DECLARATION..................................................................................i
+APPROVAL................................................................................................ii
+
+DEDICATION ......................................................................................................................... iii
+ACKNOWLEDGEMENT ........................................................................................................ iv
+LIST OF TABLES ..................................................................................................................... v
+LIST OF ABBREVIATIONS ................................................................................................... vi
+ABSTRACT ............................................................................................................................. vii
+Table of Contents ................................................................................................................... viii
+CHAPTER ONE ........................................................................................................................ 1
+INTRODUCTION ..................................................................................................................... 1
+1.1 Introduction .......................................................................................................................... 1
+1.2 Background to the Study ...................................................................................................... 1
+1.3 Problem Statement ............................................................................................................... 4
+1.4 Objectives of the Study ........................................................................................................ 4
+1.5 Research questions ............................................................................................................... 5
+1.6 Scope of the study ................................................................................................................ 5
+1.6.1 Area scope ......................................................................................................................... 5
+1.6.2 Subject scope .................................................................................................................... 5
+1.6.3 Time scope ........................................................................................................................ 5
+1.7 Significance of the Study ..................................................................................................... 6
+1.8 Conceptual Framework ...................................................................................................... 6
+CHAPTER TWO: LITERATURE REVIEW ............................................................................ 8
+2.1 Introduction .......................................................................................................................... 8
+2.2 Conceptual Review .............................................................................................................. 8
+
+
+2.2.1 Internal Auditing ............................................................................................................... 8
+2.2.2 Internal Audit .................................................................................................................... 8
+2.2.3 Financial Performance ...................................................................................................... 9
+2.3 Empirical Literature ........................................................................................................... 10
+2.3.2 Effectiveness of internal audit ........................................................................................ 10
+2.3.3 The relationship between internal audit function and financial performance ................. 12
+2.3.4 Role of internal audit and financial performance ........................................................... 13
+2.4 Critical Review of the Literature ....................................................................................... 14
+2.5 Summary of Literature Review .......................................................................................... 14
+CHAPTER THREE: METHODOLOGY ................................................................................ 15
+3.1 Introduction ........................................................................................................................ 15
+3.2 Research Design................................................................................................................. 15
+3.3 Population of the study ...................................................................................................... 15
+3.4 Sample size ........................................................................................................................ 15
+3.5 Sampling procedures .......................................................................................................... 16
+3.6 Data Collection Instruments .............................................................................................. 17
+3.6.1 Interviews ........................................................................................................................ 17
+3.6.2 Questionnaire Survey ...................................................................................................... 18
+3.7. Data Collection Instruments ............................................................................................. 18
+3.7.1 Interview guides .............................................................................................................. 18
+3.7.2 Questionnaires................................................................................................................. 18
+3.7.3 Documentary review checklist ........................................................................................ 19
+3.9 Data Collection Procedure ................................................................................................. 19
+3.9.1 Editing ............................................................................................................................. 19
+3.9.2 Coding ............................................................................................................................. 19
+3.9.3 Tabulation ....................................................................................................................... 20
+3.10 Data Analysis ................................................................................................................... 20
+
+
+3.10.1 Qualitative Data Analysis ............................................................................................. 20
+3.10.2 Quantitative Data Analysis ........................................................................................... 20
+3.10.3 Analytical Model .......................................................................................................... 20
+3.11 Measurement of variables ................................................................................................ 21
+3.12 Ethical Issues ................................................................................................................... 21
+CHAPTER FOUR: DATA ANALYSIS AND INTERPRETATIONS ................................... 22
+4.1 Introduction ........................................................................................................................ 22
+4.1.1 Response rate .................................................................................................................. 22
+4.2 Data Presentation ............................................................................................................... 22
+4.2.1 Demographic Information ............................................................................................... 23
+4.2.2 Role of internal auditing ................................................................................................. 25
+4.2.3 Effect of internal auditing on financial performance of organisations ........................... 26
+4.2.3.1Internal audit Standards ................................................................................................ 29
+4.2.3.2 Relationship between internal audit and financial performance .................................. 31
+4.3 The impact of internal audit on the financial performance of the bank ............................. 34
+CHAPTER FIVE ..................................................................................................................... 35
+SUMMARY, CONCLUSION AND RECOMMENDATIONS .............................................. 35
+5.1 Introduction ........................................................................................................................ 35
+5.2 Summary ............................................................................................................................ 35
+5.3 Conclusion ......................................................................................................................... 38
+5.4 Recommendations for Policy ............................................................................................. 39
+5.5 Limitations of the Study..................................................................................................... 39
+5.6 Suggestions for Further Studies ......................................................................................... 40
+REFERENCES ........................................................................................................................ 41
+APPENDIX 1: INTRODUCTORY LETTER ......................................................................... 43
+APPENDIX II: QUESTIONNAIRE ........................................................................................ 44
+
+
+
+CHAPTER ONE
+INTRODUCTION
+1.1 Introduction
+The study aims at establishing the effects of internal audit and financial performance of
+commercial banks, focusing on Stanbic Bank, Mukono Branch as a case study. This chapter
+presents the background to the study, problem statement, objectives of the study and
+significance of the study.
+
+1.2 Background to the Study
+World-over, Bhatia (2014) suggests that internal auditing is as old as accounting. The term
+audit is derived from the Latin term “audire” which means to hear. During those days, an
+auditor used to listen to the accounts read over by an accountant to check them. Auditing
+then evolved rapidly after the industrial revolution in the eighteenth century following the
+growth of the joint stock companies that made management and ownership separate.
+The shareholders who were the owners needed a report from an independent expert on the
+accounts of the company managed by the board of directors who were the employees.
+Shekhar (2010) also argued that the original objective of auditing was to detect and prevent
+errors and fraud but this has shifted and auditing was then to ascertain whether the accounts
+were true and fair rather than detection of errors and fraud. In India, the Companies Act
+(1913) made audit of company accounts compulsory. With the increase in the size of the
+companies and the volume of transactions the main objective of audit shifted to ascertaining
+whether the accounts were true and fair rather than true and correct.
+
+Hence the emphasis was not on arithmetical accuracy but on a fair representation of financial
+efforts. The Companies Act (1913) for the first time prescribed the qualification of auditors.
+Developed countries have emphasised audit as the examination of the books, accounts and
+vouchers of a business. This focuses on auditors satisfying themselves that the balance sheet
+is properly drawn up, so as to give a true and fair state of affairs of the business and whether
+the statements of comprehensive income give a true and fair view of profit or loss for the
+financial period.
+In developing countries, according to Fadzil et al., (2015), most companies and financial
+institutions in Sub-Saharan Africa have emphasised internal auditing as a management tool in
+
+
+ensuring transparency in conduct of business. It serves as an important link in the business
+and financial reporting processes of corporations and non -profit organisations.
+This study intends to find out how internal auditing is important when determining the
+financial performance of a business entity. Most internal audit professionals argue that an
+effective internal audit function correlates with improved financial performance. Besides,
+Beyanga (2011) argued that an effective internal audit service can help reduce overhead,
+identify ways to improve efficiency and maximise exposure to possible losses from
+inadequately safeguarded company assets all of which can have a significant effect on the
+financial performance of a business entity. He also stated that internal audit is an “Invaluable
+tool of management for improving performance.” Fadzilet al., (2015) also noted that internal
+auditors help run a company more efficiently and effectively to increase shareholders value.”
+
+In East Africa, Hermanson & Rittenberg (2015) who conducted a study in Kenya argued that
+the existence of an effective internal audit function is associated with superior organisational
+performance. Internal auditors play a key role in monitoring a business’ risk profile and
+identifying areas to improve risk management. The aim of internal auditing is to improve
+organisational efficiency and effectiveness through constructive criticism. Internal auditing
+has four main components which include; verification of written records, analysis of policy,
+evaluation of the logic and completeness of procedures.
+Internal auditing services and staffing in commercial banks in Uganda is to assure they are
+appropriate for the organisation’s policies; and reporting recommendations for improvements
+to management (Beyanga, 2011). The subject is worthy of attention because internal auditors
+are important, even crucial in an economy that relies upon independently produced
+information. For most of its history, internal audit has served as a simple administrative
+procedure consisting mainly of checking documents, counting assets, and reporting to the
+Board of Directors, Management or External Auditors. In recent times, however, a
+combination of different forces has led to a quiet revolution of the profession (Muga, 2019).
+Organisations have to demonstrate accountability in the use of shareholders money and
+efficiency in the delivery of services. Organisations now demand great competency and
+professionalism from internal audit, and scarce resources must be deployed more efficiently
+to minimise and manage risks. Technological advancement makes it possible to track and
+analyse data with continually increasing speed thus making it essential for organisations to be
+well advised by the internal audit department. Internal audit varies from one organisation to
+another, and making change to modern internal audit can be a substantial undertaking. The
+
+
+transition from merely ensuring compliance with rules and regulations to truly delivering
+added value requires more than just organisational changes (Higenyi, 2020).
+
+In many bank institutions staff is poorly paid and unmotivated, ethical standards are weak,
+and governance practices are ineffective leading to asset mismanagement. The existence of
+an effective internal audit function is associated with superior organisational performance. At
+the empirical level, a survey conducted by Stanbic Bank, Uganda (2017) found that the
+internal audit function in organisations where it exists contributes substantially to
+performance improvement and assists in identifying profit evidence in corporate disasters;
+particularly financial fraud consistently documents an association between weak governance.
+Thus internal audit by acting as a watchdog could save the organisation from malpractices
+and irregularities thus enabling the organisation to achieve its objectives of ensuring high
+level of productivity and profit. In order to bridge that gap, this research seeks to study the
+role of internal auditing on the financial performance of Stanbic Bank, Mukono Branch.
+Financial Performance: There are many aspects of the performance of commercial banks
+that can be analysed. Muga (2012) stated that the importance of bank profitability can be
+appraised at the micro 4 and macro levels of the economy. At the micro level, profit is the
+essential prerequisite of a competitive banking institution and the cheapest source of funds. It
+is not merely a result, but also a necessity for successful banking in a period of growing
+competition on financial markets. Hence the basic aim of every bank management is to
+maximise profit, as an essential requirement for conducting business. At the macro level, a
+sound and profitable banking sector is better able to withstand negative shocks and contribute
+to the stability of the financial system. Bank profits provide an important source of equity
+especially if reinvested into the business. This should lead to safe banks, and as such high
+profits could promote financial stability. Schiuma (2003) mentioned accounting- based
+performance using three indicators: return on assets (ROA), the return on total equity (ROE)
+and Return on Investment (ROI).These are widely used to assess the performance of firms,
+including commercial banks. Bank regulators and analysts have used ROA and ROE to
+assess industry performance and forecast trends in market structure as inputs in statistical
+models to predict bank failures and mergers and for a variety of other purposes where a
+measure of profitability is desired. The main purpose of this study was to examine if internal
+audits can actually enhance banks' financial performance.
+
+
+1.3 Problem Statement
+Ideally, internal Auditing is a catalyst for improving a business’ governance, risk
+management and management controls providing insight and recommendations based on
+analysis and assessment of data and business processes (Muga, 2019). With commitment to
+integrity and accountability, internal auditing provides value governing bodies and senior
+management as an objective source of independent advice. Recent corporate accounting
+scandals and the resultant outcry for transparency and honesty in reporting have given rise to
+two disparate yet logical outcomes. First, Internal Auditing skills have become crucial in
+untangling the complicated accounting manoeuvres that have unclear financial statements
+(Muga, 2019). Secondly, public demand for change and subsequent regulatory action has
+transformed corporate governance. Increasingly, banking officers and directors are under
+ethical and legal scrutiny.
+Both trends have the common goal of responsibly addressing investors ‘concerns about the
+financial reporting system. However, there has been laxity in implementation of internal
+audit findings and recommendations due to lack of understanding of assessing skills and
+methods, identifying corrective actions and losing them out and poor management decisions
+making. And Stanbic bank, Mukono branch has not been without crisis, the shortcomings of
+Uganda’s banking sector prior to the banking crisis of the late 1980s, and then the effect of
+the measures subsequently introduced by Uganda’s Central Bank (Higenyi, 2020). Stanbic
+Bank has been experiencing a fraudulent system failure where the Bank was unknowingly
+sending unspecified sums of money to different mobile money users through their bank to
+wallet service. In September 2020, a Director at Mcdowell Ltd wrote to the Special
+Investigations Division, Criminal Investigations Directorate, calling for a special
+investigation alleging that top employees of Stanbic Bank sold a mortgaged property to
+themselves even after the client paid the loan. This laxity forced the researcher to carry out
+the research on the internal audit functions in this branch, the role it plays in the organisation,
+internal audit and asset management and how they affect the financial performance.
+1.4 Objectives of the Study
+To find out the effects of internal auditing on the financial performance of Commercial
+banks. The study achieved the following objectives:
+i.
+To establish the role of internal audit and financial performance of Stanbic bank Mukono
+branch.
+
+
+ii.
+To examine the effectiveness of internal audit on the financial performance of Stanbic bank
+Mukono branch.
+iii.
+To examine the relationship between internal audit and financial performance of
+Stanbic bank Mukono branch.
+
+1.5 Research questions
+To achieve the above desired objectives the following questions were asked:
+a)
+What is the role of internal audit on the financial performance of Stanbic bank
+Mukono branch?
+b)
+What is the effect of internal audit on the financial performance of Stanbic bank
+Mukono branch?
+c)
+What is the relationship between internal audit and financial performance of Stanbic
+bank Mukono branch?
+1.6 Scope of the study
+The scope shows where the research study was carried out, what the research was about and
+the period within which the research was carried out.
+1.6.1 Area scope
+The study was carried out at Stanbic bank Mukono branch, the location was considered
+because it helped the researcher easily collect data due to its closeness to the university.
+1.6.2 Subject scope
+The study was limited to the effect of internal audit as an independent variable, financial
+performance of commercial banks as the dependent variable and how the two variables relate
+majorly focusing on Stanbic bank, Mukono branch.
+1.6.3 Time scope
+The study was carried out in a period of five months, which is from May to September 2023.
+
+
+1.7 Significance of the Study
+Research provides the basis for nearly all private and government policies in an economic
+system (Kothari, 2014). The research would therefore be helpful to different stakeholders
+both within and outside the bank as explained below;
+The findings of the study will support the commercial bank (Stanbic) to put in place
+strategies for their day to day management of safeguarding assets, prevention and detection
+of errors and irregularities. The study shall also enhance the existing knowledge of the bank
+employers concerning internal controls and its effectiveness.
+To the researcher, he was intended to define the relationship between internal audit and
+financial performance of commercial banks. A comprehensive knowledge of the system of
+internal audit forms a foundation on which the auditor’s report on true and fair view accounts
+is based and thus the study is of immense value to the practising students and reliance of
+financial statements.
+To the future researcher, this study is of interest to academicians and future researchers who
+will undertake other studies related to this. The study also helps them come up with better
+proposals on internal audit and their effects on financial performance of commercial banks.
+1.8 Conceptual Framework
+The researcher presented a conceptual framework showing the relationship between internal
+auditing and the financial performance of commercial banks as shown below;
+
+Independent variable Dependent variable
+Internal Audit function Financial Performance
+
+
+
+
+
+Source: Researcher, 2023
+According to the above demonstration, internal auditing through monitoring and control
+environment, risk assessment and internal environment and control activities lead to
+Internal control
+environment
+Internal control
+activities
+Risk assessment
+Monitoring activities
+Net profit
+Return on
+investment
+Return on assets
+Liquidity level
+
+
+improved financial performance in commercial banks indicated by improved profitability,
+return on investments, liquidity levels among others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO: LITERATURE REVIEW
+2.1 Introduction
+This chapter is subdivided into conceptual review, empirical review, and critical review as
+detailed below.
+2.2 Conceptual Review
+2.2.1 Internal Auditing
+According to Sovey (2011), internal auditing is an independent, objective, assurance and
+consulting activity designed to add value on organisations’ operations. In contrast, Hertz
+(2020) defines internal auditing as a function that helps an organisation to accomplish its
+objectives by bringing systematic, disciplined approach to evaluate and improve the
+effectiveness of risk management, control and government process. Nevertheless, the
+researcher has a different view of what internal auditing is as; an element of internal control
+system having a department established and maintained by the management of the client run
+by an independent and professionally qualified personnel known as an internal auditor
+capable of verifying whether financial statements and other books of accounts within an
+organisation are true and fair and free from fraud and errors.
+
+2.2.2 Internal Audit
+Rossell (2018) and Kotez (2010) adds that internal audit is a process of monitoring the whole
+systems of financial control establishment by management in order to carry on business of
+the organisation in an efficient way, to ensure compliance with the organisation laws,
+regulations and policies concerning completeness and accuracy. “Internal auditing of
+businesses or companies is under company audits. These are audits that are carried out
+because the law requires them.” The International Auditing and Assurance Standards Board
+(IAASB) (2013) defines an internal audit function as a function of an entity that performs
+assurance and consulting activities designed to evaluate and improve the effectiveness of the
+entity’s governance, risk management and internal control processes. In this case, the
+researcher looked at the internal audit function as a function of an organisation established
+with the aim of reviewing the effectiveness and efficiency of the activities of the
+organisation, ensuring compliance with established regulations, evaluation of risk
+management and internal controls of an organisation.
+
+
+2.2.3 Financial Performance
+Financial Performance was variously defined and, in this study, was confirmed to how
+financial resources are controlled and utilised through efficient budget management and
+accountability to achieve organisational goals. Performance is how competent, efficient,
+integrity and honesty the organisational members are at utilising the existing resources and
+procedures to carry out tasks, duties and responsibilities and operations to achieve
+organisational goals Evaluating the internal audit function was to examine how well it could
+detect errors within an organisation as well as fraud that have received greater emphasis
+(Bierstaker & Pacini, 2006).
+Performance is a measure of the results achieved. Performance efficiency is the ratio between
+effort expended and results achieved. The difference between current performance and the
+theoretical performance limit is the performance improvement zone. Performance assumes an
+actor of some kind but the actor could be an individual person or a group of people acting in
+concert. The performance platform is the structure or device used in the performance act
+(Malcom, S. 2005).
+According to Likert (2003) there are two main ways to improve performance: improving the
+measured attribute by using the performance platform more effectively, or by improving the
+measured attribute by modifying the performance platform, which in turn allows a given
+level of use to be more effective in producing a desired output. Performance can be measured
+by obtaining the magnitude of a quantity, such as length or mass, relative
+According to Khisa (2011), financial performance refers to the degree to which financial
+objectives are being or have been accomplished. It is also the process of measuring the
+results of a firm’s policies and operations in monetary terms. It is used to measure a firm’s
+overall health over a given period of time and can also be used to compare similar firms
+across the same industry or to compare industries or sectors in aggregation. Financial
+analysis involves the use of financial statements; a financial statement is an organised
+collection of data according to logical and consistent accounting procedures. Its purpose is to
+convey an understanding of some financial aspects of a business firm. It may show a position
+at a moment of time as in the case of a balance sheet, or may reveal a series of activities over
+a given period of time, as in the case of an income statement.
+According to Arens (2005), there are many aspects of the performance of commercial banks
+that were analysed. The importance of bank profitability was appraised at the micro; most
+internal audit professionals argue that an effective internal audit function correlates with
+
+
+improved financial performance. An effective internal audit service can, in particular, help
+reduce overhead, identify ways to improve efficiency and maximise exposure to possible
+losses from inadequately safeguarded company assets all of which can have a significant
+effect on the financial performance of an organisation (Arens, 2005). According to Al-
+Twaijry & Gwilliam (2004), internal audit is an invaluable tool of management for
+improving performance. Internal auditors help run a company more efficiently and
+effectively to increase shareholders value. Finally Herman son and the existence of an
+effective internal audit function are associated with superior organisational performance. The
+internal audit function in organisations where it exists, contributes substantially to
+performance improvement and assists in identifying profit evidence in corporate disasters,
+particularly financial fraud consistently documents an association between weak governance.
+Thus internal audit by acting as a watchdog could save the organisation from malpractices
+and irregularities thus enabling the organisation to achieve its objectives of ensuring high
+level of productivity and profit.
+2.3 Empirical Literature
+2.3.2 Effectiveness of internal audit
+An effective internal audit aids the firm to establish how the firm can be able to improve its
+governance processes, its control activities as well as how they manage risks by encouraging
+suitable ethics and values, safeguarding organisational performance management and
+answerability, collaborating risk control information and coordination of governance-related
+undertakings (Feizizadeh, 2012). On the other hand an ineffective IA especially in the public
+sector can lead to resurgence of fraud, emergence of non-compliance with standard operating
+procedures thus non- factual financial decision making (Unegbu & Kida, 2011). Several
+measures have been proposed to assess IA effectiveness. Pungas, (2003), Aguolu, (2009) and
+Karagiorgos, Drogalas and Giovanis (2011) observed that IA effectiveness can be charged if it
+meets its primary objectives. Cassandra (2008) contended that IA for it to be effective must be
+objective, independent and meet the organisational status. Feizizadeh (2012) observed that IA
+to be effective must meet the needs of the stakeholders; perform to the best of the internal
+auditors, compliant with established professional standards and meets its own IA performance
+indicators. Beckmerhagen, Berg, Karapetovic (2004) on the other hand reasoned that the IA
+effectiveness should not only assess how it meets its objectiveness as well as the number of
+audit reports it produces but also should include how executable the report produced is.
+
+
+Trivially written IA findings add no value to the organisation or lead to inappropriate
+decisions and conclusions. Without recognizing the need for IA, the tone of management can
+just use IA to comply with the CBU requirements as opposed to use IA reports and
+recommendations to add value to the bank's services. However, IA recommendations can
+only be useful as a value add service if the IA reports are precisely written hence contributing
+to better corporate governance which improves the financial performance of the banks.
+Lithuanian commercial banks found that IA were minimally involved in risk management at
+the banks and therefore were perceived to serve little functions other than aiding the banks to
+comply with statutory requirements (Ramachandran, Subramanian, & Kisoka, 2012;
+Karmanova, 2013). On the other hand, a study among commercial banks in Ghana found that
+IA reports produced by in-house IA departments were not strong enough to provide
+significant value to the respective banks (Ndamenenu, 2011). On the contrary a study among
+commercial banks in Nigeria found that IA not only helped in compliance with statutory
+requirements but also enhanced management effectiveness and efficiency of banking
+operations well above costs incurred in maintaining an IA department (Etuk, 2011). Timely
+communication of IA report and its recommendations enable the management to react to the
+issues raised in a timely manner thus effectively mitigating organisational risks identified.
+Delay in presenting IA reports and recommendations would inhibit the ability of the IA to
+contribute as a value addition to the banks. IA reports should be clearly communicated to the
+management for appropriate follow up on identified organisational risks and safeguard
+against loss of impetus of the IA recommendations made in previous reports (Mihret &
+Yismaw, 2007). A study among Jordanian commercial banks found that the management
+had consistent follow-up of the IA recommendations which improved IA performance in the
+subsequent reports (Awdat, 2015). A study among Ghanaian commercial banks by Ayagre,
+Appiah-Gyamerah and Nartey (2014) found that the management had established a
+communication system to follow-up the implementation status of recommendations from IA
+reports. IA department needs to establish good communication lines with IA
+primary stakeholders including senior management and the audit committee in order for IA
+to effectively understand their expectations and needs to reduce chances of occurrence of role
+conflict and ambiguity resulting from expectations gap. A study among commercial banks in
+Rwanda found that IA had established effective communication lines with not only the
+management, audit committees and board of management but also with the auditees
+(Nyirabigirimana, 2015). Similarly, a study among Tanzanian commercial banks found that
+IA had proper interaction with members of the audit committee that gave rise to better
+
+
+functionality
+of
+the
+IA
+department
+(Ramachandran, Subramanian,
+&
+Kisoka,
+2012). Involvement of auditees during preparation of IA reports is particularly necessary
+since the auditees are the implementers of the subsequent IA recommendations and hence it
+is wise for their opinions to be reflected in IA reports so as to make recommendations as
+practical as possible. This implies that IA have to establish a continuous communication line
+with the auditees from IA evaluation and report preparation. A study among Albanian and
+Greek commercial banks found that there was inadequate participation of auditees in drawing
+audit reports which resulted in impractical recommendations from IA (Karagiorgos,
+Drogalas, & Dimou, 2011; Kristo, 2013). On the contrary studies done by Ramachandran,
+Subramanian, and Kisoka (2012) and Drogalas, Karagiorgos and Arampatzis (2015) in
+Tanzania
+and
+Athens
+Stock
+Exchange’s
+listed
+commercial
+banks
+found
+that
+communication between IA and auditees was effective thus better functionality of internal
+auditing.
+
+2.3.3 The relationship between internal audit function and financial performance
+Whittington & Pany (2001) suggest that internal auditing is performed as part of the
+monitoring activity of an organisation. It involves investigating and appraising internal
+controls and the efficiency with which the various units of the organisation are performing
+their assigned functions. An Internal Auditor is normally interested in determining whether a
+department has a clear understanding of its assignment, is adequately staffed, maintains good
+records, properly safeguarding cash, inventory and other assets and cooperates harmoniously
+with other departments. The internal auditor normally reports to the top management.
+Gupta (2001) on the other hand asserts that ' ‘Internal audit is an independent appraisal
+function established within an organisation to examine and evaluate its activities as a service
+to the organisation’’. The objective of internal audit is to assist members of the organisation
+in the effective discharge of their responsibilities. According to Gupta “the scope of internal
+audit is determined by management”. This may however, impair the internal auditor’s
+objectivity and hamper his independence, it is quite hard to report negatively on someone
+who determines the scope of your work. Although at a seminar organised by the Institute of
+Certified Public Accountants of Uganda (ICPAU), Sebbowa, 2009 in his presentation “The
+role of Internal Audit function in Organisations”, states that “Independence is established by
+organisational and reporting structure” and that “Objectivity is achieved by an appropriate
+mindset”.
+
+
+According to Bett (2014) the relationship between effectiveness of internal audit and
+financial performance of companies listed in the Nairobi Securities Exchange, professional
+competency is positively related to financial performance of companies listed in NSE. The
+study further concluded that effective internal audit function is positively related to financial
+performance. The researcher recommended that firms should engage skilled and competent
+professional internal auditors to strengthen controls of internal audit and mitigate fraud. With
+efficient internal controls, issues like fraudulent cases, cash embezzlement as well as
+mismanagement of funds will be controlled, thus improving the financial performance of the
+companies.
+2.3.4 Role of internal audit and financial performance
+According to Cooper and Craig (1983), in their study on the role of internal audit in the Asia
+Pacific region, a seminal research on internal audit found a number of issues that were of
+concern to the profession. It was found that there were a number of misconceptions about
+what internal auditors were doing and what their chief executive officers (CEO) perceived as
+being done and in fact there were expectations by the CEO’s that internal audit could do
+more than the traditional financial auditing work mainly being done at that time. There was
+nevertheless strong support for internal audit by CEO’s and at the time it was seen as offering
+long-term career prospects. However, the profession in Australia in the early 1980’s suffered
+from an image problem, it did not have a strong professional body to represent its interests as
+it has now, and there were no generally accepted professional qualifications recognized as
+necessary to practise as an internal auditor. The study was undertaken before the
+development of modern internal auditing, as we know it now. It did, however, set the scene
+for a number of subsequent studies in Australia, Hong Kong and Malaysia.
+Mutua (2012) researched the impact of risk based audit on financial performance of
+commercial banks in Kenya. Although her study concentrated on risk based audit, she
+acknowledged that financial performance requires appropriate effective and efficient internal
+audit. From the findings, the study concluded that risk based auditing through internal
+auditing standards and internal auditing staffing should be enhanced to enable firms to be
+able to detect risks on time and concentrate on high risk areas leading to increased
+transparency and accountability, hence enhancing financial performance. This showed that
+there is indeed a relationship between internal audit and financial performance.
+
+
+
+2.4 Critical Review of the Literature
+In this section, the researcher assorted some findings from previous researchers that show the
+relationships existing between internal audits and banking institutions performance.
+According to the Basel Committee report (2002) each bank should have a permanent internal
+audit function in order to fulfil its duties and responsibilities. The senior management should
+take all necessary measures so that the bank can continuously rely on an adequate internal
+audit function appropriate to its size and to the nature of its operations. These measures may
+include providing the appropriate resources and staffing to internal will help the institution to
+achieve its goals and objectives efficiently and effectively. The survey conducted by KPMG
+(1999) found that the internal audit function in organisations where it exists, contributes
+substantially to performance improvement and assists in identifying profit evidence in
+corporate disasters, particularly financial fraud consistently documents an association
+between weak governance. Thus internal audit by acting as a watchdog could save the
+organisation from malpractices and irregularities thus enabling the organisation to achieve its
+objectives of ensuring high level of productivity and profit. Hodgson (1997) said that internal
+audit operations and recommendations do not only have short-term effect on the running of
+an organisation but are the backbone of an organisation and it dictates the prosperity or the
+downfall of the particular organisation. Its effectiveness and acceptability should be stressed
+at all levels and especially the management to enhance its viability. However it seems that
+laxity has crept in and it is in light of this view that we seek to analyse the impact of internal
+audit on the performance of commercial banks in Rwanda.
+2.5 Summary of Literature Review
+Only a few academic studies have examined the effectiveness of internal audit, and even
+fewer have dealt with the issue empirically. In one of the very few studies that examined the
+effect of internal auditing on commercial banks, Bhatia (2014) assigned bank branches to
+experimental conditions (audited or not audited) and monitored their performance for a year.
+Their findings showed that performance significantly improved during the half year
+following the audit in the experimental branches, while the control branches experienced a
+decline due to poor general business conditions. However, the reviews manifested conflicting
+effects of internal auditing on financial performance of commercial banks (Khisa, 2011).
+
+
+
+
+CHAPTER THREE: METHODOLOGY
+3.1 Introduction
+“This chapter covers the methodology the researcher used in the field to collect data.” The
+chapter discussed the research design, population of study, sample size, sampling techniques
+and procedures, data collection methods and procedures, data analysis, validity and reliability
+and measurement of variables and ethical issues”.
+
+3.2 Research Design
+Creswell (2003) defines a research design as the scheme, outline or plan that is used to
+generate answers to research problems. Further Dooley (2007) notes that a research design is
+the structure of the research; it is the glue that holds all the elements in a research project
+together. The study adopted a descriptive cross-sectional research design, which according to
+Kothari (2004), is used when the problem has been defined specifically and where the
+researcher has certain issues to be described by the respondents about the problem. Survey
+designs were found to be accurate in descriptive studies and generalisations of results
+(Ngechu, 2004). The study involved the evaluating of the effect of Internal Audit in the
+financial performance of commercial banks, a case study of Stanbic bank Uganda.
+The study also used both quantitative and qualitative research design. The researcher selected
+qualitative design because the study required an in depth understanding of a particular group
+of people (Merriam, 1998).
+3.3 Population of the study
+According to Ngechu (2004), a study population is a well-defined or specified set of people,
+groups of things, households, firms, services, elements or events which are being
+investigated. Thus the population should fit a certain specification, which the researcher was
+studying and the population should be homogenous. The target population for this study was
+the employees in the bank in different departments.
+3.4 Sample size
+Sampling is selecting some of the elements in a population from which a researcher may
+draw conclusions about the whole population. A population group is the subject on which
+measurements are obtained; it is the entity of study (Cooper & Schindler, 2010). And for the
+purpose of this study, the unit of study was a commercial bank from Uganda's banking
+sector, a case in point Stanbic bank, Mukono branch.
+
+
+Ngechu (2004) underscores the importance of selecting a representative sample through
+making a sampling frame. From the population frame the required number of subjects,
+respondents, elements or firms were selected in order to make a sample.
+The sample size consisted of managers, supervisors and officers from different departments.
+This was purposely considered because of their knowledge regarding the area of the study
+and also they were able to express specific views on the effect of internal audit and
+performance of Stanbic bank. The study selected 20 members from a targeted population of
+43 members. Members were selected in terms of their rankings as follows: 1 branch manager,
+1 supervisor, 3 corporate customers, 10 cashiers and 5 cleaners. The Slovene’s formula was
+used to come up with an appropriate sample size used in the study. Slovene’s Formula states
+that, given a population, the minimum sample size is given by:
+n = N/1 + Na^2
+where
+n = the sample size
+N = total population of respondents, that is 43
+a = the level of significance, that is 0.05
+
+n = 43/1+43(0.05)^2
+n = 43/1+43*0.0025
+n = 43/0.011
+n = 20
+3.5 Sampling procedures
+Sampling method is defined as a method used in order to obtain the required sample from the
+study population. During the process of data collection, Probability sampling technique was
+used in order to get the sample study size. Stuart (1984) defines probability sampling as the
+kind of sampling in which “every element in the population has a non-zero chance of being
+selected. Each individual in a sample frame drawn from the population was selected by
+chance and at random. When probability sampling is used, according to Aryet al., (2002),
+“financial statistics enable researchers to estimate the extent to which the findings based on
+the sample are likely to differ from what they would have found by studying the whole
+population”.
+
+
+In this way, stratified probability sampling technique was employed by using the following
+formulae;
+P = F/N*n. Where; F = Number in the category
+N = Total population
+P = Number of respondents in the category obtained from the group
+n = Total number of the respondents
+
+Stratified random sampling is a process in which a certain sub group, or strata, is selected for
+the sample in the same proportion as they exist in the population. In stratified sampling, the
+researcher first identifies the strata of interest and then randomly draws a specified number of
+subjects from each stratum in the population. Popham (1993) warns, however, not to simply
+subdivide a population into age, sex and socioeconomic subgroups unless the researcher
+believes these dimensions are relevant to the things being measured.
+
+3.6 Data Collection Instruments
+While deciding about the method of data collection to be used for the study, the researcher
+should keep in mind two types of data, primary and secondary data. Primary data are those
+which are collected new and for the first time, and thus happened to be original in character.
+The secondary data, on the other hand, are those which have already been collected by
+someone else and which have been passed through the statistical process (Kothari,
+2004).“These are the methodology or means that the study used in collecting data. The study
+thus incorporated the use of various methods in the process of data collection in the bid to
+come up with sound, concrete and credible research findings. The researcher therefore
+considered the use of interviews and questionnaires in the process of collecting primary data.
+3.6.1 Interviews
+“Interview is the most effective data collection method (Ferreira et al, 1988).” “Interviews
+were used to correct the data collected from questionnaires, and add more information which
+may not have been captured in the questionnaires and documentary review.” Interviews
+allow on spot explanations, adjustments and variation can be introduced during data
+collection process and through respondent’s incidental comments, use of the facial and body
+expressions, tone of voice, gestures, feelings and attitudes (Amin, 2005).”
+
+
+A structured interview guide was used when collecting data on lower level employees from
+the banking department. An interview guide was designed and it contained both closed and
+open ended questions. Also, questions were designed for the respondents relating to the topic
+under study as they assisted in the collection of adequate data from the respondents.
+3.6.2 Questionnaire Survey
+According to Robson (1993), a questionnaire is commonly applied to research, designed to
+collect data from a specific population or a sample from that population. Questionnaires are
+commonly used as research instruments because of the distinct advantages they yield (Leary,
+1995). Therefore, a descriptive research methodology was used to design a questionnaire for
+collecting the required data.
+The questionnaires were administered from office to office since all respondents were
+confined in one location, apart from the opinion leaders. The questionnaires were structured
+in both closed and open ended questions. Questionnaires were used to avoid subjectivity that
+results from close contact between the researcher and the respondent. Also questionnaires
+were preferred because they are used to collect much data over a shorter time period at lesser
+costs. Questionnaires were distributed to all the sample size respondents in order to get a
+wider range of respondent coverage.
+3.7. Data Collection Instruments
+The researcher used appropriate instruments for each method of data collection as explained
+below;
+3.7.1 Interview guides
+The interview guide is an oral questionnaire from where the researcher gathers data through
+direct verbal interactions with the respondents. The oral questions were unstructured. The
+researcher used the interview guide because it gives room for probing and making
+clarifications on the questionnaires.
+3.7.2 Questionnaires
+Questionnaires were self-administered and guided. The study embraced questionnaires
+because it gathers much data within a shorter period of time and data can easily be analysed
+numerically, less time consuming and gives the respondent freedom to provide answers
+comfortably, Russell (2011).
+
+3.7.3 Documentary review checklist
+
+
+This is a list of documents consulted to get relevant data for the study. It helped the study to
+verify facts especially during data collection. The Documentary review checklist contained
+all relevant books, journals, websites, other media reports, and any other related literature to
+the study.
+
+3.9 Data Collection Procedure
+According to Ngechu (2004), there are many methods of data collection. The choice of a tool
+and instrument depends mainly on the attributes of the subjects, research topic, problem
+question, objectives, design, expected data and results. This is because each tool and
+instrument collects specific data. Donald (2006) notes that there are two major sources of
+data used by respondents‘ primary and secondary data. Data collection began with a proposal
+followed by a letter introducing the researcher to the case study from the department and data
+collection that covered a period of about one month. The researcher administered a survey
+questionnaire to each member of the target population. The questionnaires were carefully
+designed and tested with a few members of the population for further improvements. This
+was done in order to enhance the validity and accuracy of data that was collected for the
+study.
+3.9.1 Editing
+Editing is the process of going through the questionnaire to ensure that the 'skip patterns'
+were followed and required questions were filled out. Editing involves the inspection and if
+necessary, connections of each questionnaire or observation form; the basic purpose of
+editing is to impose some minimum quality standards on the raw data (Churchill, 2003).
+3.9.2 Coding
+Coding is the procedure by which data are categorised. Through coding, the raw data are
+transformed into symbols, usually numerals that may be tabulated and counted. The
+transformation is not automatic; however, it involves judgement on the part of coder (Babbie,
+2008).Similar responses were grouped according to their different categories. This helped the
+researcher to know for instance the percentage of responses on whether internal audit
+facilitates the growth of commercial banks.
+
+
+
+3.9.3 Tabulation
+Tabulation refers to the part of the technical process of statistical analysis of data that
+involves counting to determine the number of cases that fall into various categories. Thus
+after eliminating errors, codes were assigned to each answer. This stage led to the
+construction of statistical tables showing frequency distribution of answers to questions
+addressed to respondents. The statistical tables were used to compare the number of
+occurrences of each answer to questions asked. Up to this level, it was through mathematical
+and statistical tables that the number of occurrence of each answer in relation to the asked
+questions were converted into percentages to make it clear. Each table was accompanied by
+explanations about the nature of the relationship between the variables that were indicated in
+tables.
+3.10 Data Analysis
+Data analysis involved Presentation and Interpretation. The researcher analysed the data
+collected using two methods:
+3.10.1 Qualitative Data Analysis
+Qualitative data analysis involves analysing and interpreting narrative data or content
+analysis to bring order and understanding, which requires creativity, discipline and a
+systematic approach. There is no single or best way to analyse qualitative data, for you can
+adapt to your own extension evaluations. The common technique for qualitative data analysis
+to be used was limited to direct interaction with the respondent and the responses recorded.
+3.10.2 Quantitative Data Analysis
+Quantitative data analysis involved transcribing, sorting, and classifying responses. Detailed
+figures were scrutinised, analysed and correlated where necessary. Data was coded, edited
+and entered into SPSS (Statistical Package for Social Scientists) data editor. Data was also
+analysed using version 19 of 27 SPSS.” “Descriptive statistics such as measures of central
+tendency and relationship were used to describe and summarise the data (Newman, 2005),
+cross tabulation in Microsoft Excel was also used to establish the strength of the relationship
+between the variables.
+3.10.3 Analytical Model
+The following regression model was used to perform data analysis
+PROF = β 0 + β 1 IAS + β 2 IIA β 3 PC + β 4 IC+ ..............................................
+
+
+Performance of the banks was measured using financial performance measures which
+included the profitability of the bank that is return on assets.
+The role of internal audit was measured using various internal audit standards adopted by the
+commercial bank.
+Independence of internal audit was measured using the level of independence of internal
+auditor in the respective commercial bank.
+Relationship between internal audit and financial performance was measured by the level of
+professional competency of internal auditors in the bank.
+3.11 Measurement of variables
+The researcher used the nominal and ordinal scale in measuring the data. Nominal scale was
+used for capturing gender, age, occupation, and ordinal scale was used in ranking the data.
+The researcher used the Likert scale rate system to rate the opinions of the respondents
+because it measures people’s attitudes, beliefs, emotions, feelings and other Psychological
+constructs (Spector, et al, 2012). “A five point Likert scale was represented as follows: - 5-
+Strongly Agree; 4 – Agree; 3- Neutral; 2- Disagree and 1- Strongly Disagree.”
+3.12 Ethical Issues
+The researcher sought permission from Uganda Christian University to conduct the study,
+where a letter of introduction was provided to him by the Institution. The researcher then
+introduced himself, explained to the respondents the objectives of the study, explained why
+particular respondents were selected, the benefits, discomforts and harms of the study, and
+requested to also be asked questions as well and also obtained informed consent from all the
+respondents to the study.
+The researcher designed the questions in such a way that they did not violate the rights of the
+informants and he assured the respondents of confidentiality of the provided information.
+
+
+
+
+
+CHAPTER FOUR: DATA ANALYSIS AND INTERPRETATIONS
+4.1 Introduction
+This chapter discusses the interpretation and presentation of the findings obtained from the
+field. Descriptive and inferential statistics have been used to discuss the findings of the study
+as shown below;
+4.1.1 Response rate
+Questionnaires were prepared and sent to 25 respondents. 20 questionnaires were filled and
+returned representing 80% response rate. This response rate was sufficient for information
+analysis and fits in with Mugenda and Mugenda (2003) stipulation that a response rate of
+70% and above is viewed as satisfactory.
+
+
+Figure 4.1.1 Response rate
+4.2 Data Presentation
+The data was gathered using questionnaires to the commercial bank. The findings are
+presented in percentages and frequency distributions, mean and standard deviations.
+Inferential statistics such as correlation and regression analysis was conducted to establish
+the relationship of the study variables. The following subsections further discuss the general
+information of the respondents and how they responded to the main questionnaire.
+
+
+
+4.2.1 Demographic Information
+Table 1: Gender of the Respondent
+
+Gender
+Male
+Female
+Total
+The study sought to determine the gender of the respondent and therefore requested the
+respondent to indicate their gender. The study found that majority of the respondent as
+shown by 75 % were males whereas 25% of the respondent were females, this is an
+indication that both genders were involved in this study and thus the finding of the study
+did not suffer from gender bias.
+Table 2: Age Distribution
+Age bracket
+25 to 34 years
+35 to 44 years
+45 to 50 years
+51 years and above
+Total
+The study requested the respondent to indicate their age category, from the findings, 45% of
+the respondents were aged between 25 to 34 years, 30 % of the of the respondent
+indicated they were aged between 35 to 44 years, 15% of the respondents indicated they were
+aged between 45 to 50 years, whereas 10 % of the respondents indicated that they were aged
+above 51 years. This is an indication that respondents were well distributed in terms of their
+age.
+
+
+Table 3: Level of Education
+Level of Education
+Post graduate
+Masters
+Degree
+Diploma
+Total
+The study requested the respondent to indicate their highest level of education. From the
+findings It was established that 60% of the respondents indicated their highest level as a
+degree, 20% of the respondents indicated their highest level as a college diploma,15% of the
+respondents indicated their highest level of education as masters, whereas 5 % of the
+respondents indicated their highest level as post graduate. This is an indication that most of
+the respondents focused in this study had university degrees as their highest level of
+education.
+Table 4: Period of Service
+Years of service
+Less than 2 years
+2 to 5 years
+6 to 10 years
+More than 10
+Total
+The study requested respondents to indicate the number of years they had served for. From
+the findings the study established that 35 % of the respondents had worked for a period of
+raging 6 to 10 years 30% of the respondent indicated that they had worked for a period
+
+
+raging between 2 to 5 years 25% of the respondents had served for more than 10 years, and
+finally 10 % of the respondents indicated to had worked for a period of less than 2 years, this
+implies that majority of the respondents had served for a considerable period which indicates
+that most of the respondents had vast knowledge which could be relied upon by this study.
+4.2.2 Role of internal auditing
+Table 5: Role of internal audit and financial performance.
+
+
+Total
+The study sought to establish the role of internal audit on the financial performance of
+commercial banks, a case of Stanbic bank Mukono branch. From the findings 70% indicated
+to a great extent, 20% of the respondents indicated to a very great extent whereas 10% of the
+respondents indicated to a moderate extent. This implies that internal audit plays a great role
+in the financial performance of commercial banks.
+Table 6: The role of Internal Audit and Financial Performance
+S A
+(5)
+Agree
+(4)
+(3)
+Disagree
+(2)
+Disagree (1)
+Mean
+SD
+The educational, professional and
+technical competence of the
+internal
+auditor
+affects
+the
+quality audit department
+1.40
+0.21
+In commercial banks frauds are
+identified by the internal audit
+function
+1.05
+0.24
+
+
+Measures that can enhance the
+efficacy of auditors are important
+for effective fraud detection
+1.00
+0.26
+Conscientiousness correlates
+with task performance just as
+cognitive ability is important for
+effective fraud detection.
+1.40
+0.19
+The auditors in my organisation
+are qualified to undertake audit
+functions.
+1.60
+0.21
+Control audits in the organisation
+have features built into them to
+ensure that fraudulent
+transactions are flagged or made
+difficult to transact.
+1.15
+0.23
+The study sought to establish the level at which respondents agreed or disagreed with the
+above statements relating to the role of internal audit and performance of Stanbic bank, from
+the findings the study established that majority of the respondents strongly agreed that
+measures that can enhance the efficacy of auditors are important for effective fraud detection
+as shown by mean of 1.00, in commercial banks frauds are identified by the internal audit
+function as shown by mean of 1.05, the educational, professional and technical competence
+of the internal auditor affects the quality audit department performance as shown by a mean
+of 1.40 in each case, finally others agreed that the auditors in the organisation are qualified to
+undertake audit function as shown by a mean of 1.60.
+
+4.2.3 Effect of internal auditing on financial performance of organisations
+The second objective was to determine the effect of the internal audit function on the
+financial performance of Stanbic bank. The researcher presented the information collected as
+below.
+
+
+Table 7: The effect of internal audit on financial performance
+Strongl
+y
+Agree(
+5)
+Agre
+e
+(4)
+(3)
+e
+(2)
+Disagree(1
+)
+Mea
+n
+SD
+Internal auditors reporting to the
+senior management affect their
+quality
+of
+work
+and
+their
+contribution to the organisation.
+1.15
+0.23
+Overdependence on management
+for allocation of resources to the
+internal audit function affects the
+audit work.
+1.45
+0.22
+Management expectations of the
+duties of the internal audit affects
+their objectivity hence their
+judgements could be biased.
+1.90
+0.19
+Audit reports that are
+comprehensive, clearly
+conveyed, reasonable and
+implementation of the
+recommendations leads to
+control improvements and
+improvements in efficiency.
+1.55
+0.30
+Internal audit reports tracking are
+cost effective and add value to
+the organisation.
+1.60
+0.27
+
+
+Organisational independence of
+the internal audit function is
+crucial in the effectiveness of the
+internal audit function.
+1.70
+0.24
+The internal audit operations are
+positioned strategically in a bid
+to obtain cooperation from both
+management and staff within the
+bank.
+1.45
+0.26
+Audit reports are timely given
+and
+recommendations
+are
+implemented to arrest control
+lapses.
+1.30
+0.25
+The CEO and CFO of the bank
+have a say on the internal audit
+budget, recruitment, termination
+and the remuneration of the
+internal auditors.
+1.40
+0.31
+The study sought to determine the level at which respondents agreed with the statements
+that relating to internal auditing and financial performance of commercial banks in Uganda,
+from the findings the study established that majority of the respondents strongly agreed that
+internal audits in the organisation have features built into them to ensure that
+fraudulent truncations are flagged or made difficult to transact as shown by mean of 1.15
+,that intentional errors are concentrated in relatively few audits and these are fairly
+predictable by the industry as shown by mean of 1.45, others agreed that cash receipts bear
+fairly strong controls as shown by mean of 1.55, firms that disclose an internal control
+problem experience a significant increase in market-adjusted cost of capital as shown by
+mean of 1.60, the greater the degree of competition, the greater would be the need to control
+costs as shown by mean of 1.70 and that intentional errors are concentrated in relatively few
+audits and these are fairly predictable by industry as shown by a mean of 1.90.
+
+
+4.2.3.1Internal audit Standards
+Table 8: Extent to Which Internal Audit Standards Affect Financial
+Performance
+
+Total
+
+The study sought to establish the extent to which internal audit standards affect the financial
+performance of commercial banks in Uganda. From the findings 50% indicated a great
+extent, 35% of the respondents indicated to a very great extent whereas 15% of the
+respondents indicated to a moderate extent. This implies that internal audits standard affect
+the performance of commercial banks in Uganda to a great extent.
+Table 9: Effects of Internal Audit Standards on Financial Performance of a Commercial
+Bank
+Strongl
+y
+agree(5)
+Agre
+e
+(4)
+Neutra
+l
+(3)
+e
+(2)
+disagree(1
+)
+Mea
+n
+SD
+Performing audit work
+according to internal auditing
+standards significantly
+influences the effectiveness of
+auditing
+1.45
+0.22
+Complying with professional
+standards is the most important
+contributor to IA’s added value
+1.25
+1.26
+
+
+Standards for audits and auditrelated services influence the
+performance of Stanbic banks
+1.45
+1.28
+Formal auditing standards
+recognise that internal auditors
+also provide services regarding
+information other than financial
+reports.
+1.30
+1.23
+Auditors to carry out their role
+objectively and in compliance
+with accepted criteria for
+professional practice.
+1.40
+1.31
+Internal audit evaluates and
+contributes to the improvement
+of risk management, control
+and governance using a
+systematic and disciplined
+approach in the banking sector.
+1.49
+0.33
+The study sought to determine the level at which respondents agreed with the statements.
+Regarding internal controls and financial performance of Stanbic bank from the findings, the
+study established that the majority of the respondents strongly agreed that complying with
+professional standards is the most important contributor to auditing. Formal auditing
+standards recognise that internal auditors also provide services regarding information other
+than financial reports formal auditing standards recognise that internal auditors also provide
+services regarding information other than financial reports as shown by mean of 1.30,
+auditors to carry out, their role objectively and in compliance with accepted criteria for
+professional practice as shown by mean of 1.40, Standards for audits and audit-related
+services influence the financial performance of commercial banks, performing auditing work
+according to internal auditing standards contributes significantly and influences the
+effectiveness of auditing as shown by mean of 1.45 in each case, and finally that internal
+audit evaluates and contributes to the improvement of risk management, control and
+
+
+governance using a systematic and disciplined approach in the banking as shown by a mean
+of 1.49.
+4.2.3.2 Relationship between internal audit and financial performance
+Table 10: Extent to which Internal Audit relates to Financial Performance of
+commercial banks.
+
+Total
+The study sought to establish the extent to which internal controls affect financial
+performance of Stanbic bank. From the findings 55% indicated o a great extent, 30% of the
+respondents indicated to a very great extent whereas 15% of the respondents indicated to a
+moderate extent. This implies that there is a relationship between internal audit and financial
+performance of Stanbic bank to a great extent.
+
+
+
+
+
+
+
+
+
+Table 11: The relationship between internal audit and financial performance of
+commercial banks
+Agree(5)
+Agree
+(4)
+(3)
+e(2)
+Disagree(1)
+Mean SD
+
+
+Independence
+is
+the
+essence of auditing.
+1.50
+0.25
+An internal auditor must
+be independent of both
+the personnel and
+operational activities of
+an organisation.
+1.60
+0.21
+The integrity of the
+auditor’s opinions,
+conclusions and
+recommendations would
+be suspect.
+1.60
+0.21
+Independence is necessary
+for the effective
+Achievement of the
+function and objective of
+internal audit.
+1.95
+0.20
+Internal audit in banking
+organisations
+acknowledges that every
+bank
+should
+have
+an
+internal audit department
+on which with regard to
+the volume and nature of
+its activities it can rely.
+1.35
+0.27
+
+
+The internal audit
+department in a banking
+institution must be
+independent from the
+activities which it controls
+and must likewise be
+independent from the dayto-day internal control
+processes.
+1.30
+0.23
+Internal auditors may not
+have a conflict of interests
+with the bank.
+1.90
+0.19
+Every bank should have
+formalised principles of
+internal audit providing
+for
+its
+position
+and
+powers in the framework
+of the bank.
+1.50
+0.25
+The study sought to determine the level at which respondents agreed or disagreed with the
+above statements relating to relationship between Internal Audit and financial performance of
+Stanbic bank, from the findings the study established that majority of the respondents’
+strongly agreed that internal audit greatly correlates with the financial performance of a
+commercial bank. The internal audit department in a banking institution must be independent
+from the activities which it controls and must likewise be independent from the day-to-day
+internal control processes, as shown by a mean of 1.30 in each case, others agreed that Every
+bank should have formalised principles of internal audit providing for its position and powers
+in the framework of the bank, Independence is the essence of auditing as shown by a mean of
+1.50 in each case. The integrity of the auditor’s opinions, conclusions and recommendations
+would be suspect as shown by a mean of 1.60, Internal auditors may not have a conflict of
+interests with the bank as shown by mean of 1.90 and finally that independence is necessary
+
+
+for the effective achievement of the function and objective of internal audit as shown by
+mean of 1.95.
+4.3 The impact of internal audit on the financial performance of the bank
+Internal audit in fact is an activity which uses a disciplined approach to evaluate risk
+management, control and governance processes. In a way internal audit ensures
+accomplishment of corporate goals in an effective and efficient manner and as well
+It looks at helping an organisation accomplish its objectives by bringing a systematic,
+disciplined approach to evaluate and improve overall effectiveness and efficiency of a
+company’s operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FIVE
+SUMMARY, CONCLUSION AND RECOMMENDATIONS
+5.1 Introduction
+This chapter provides a summary, conclusion and recommendations of the main findings
+on the effect of internal audit function and financial performance of commercial banks.
+
+5.2 Summary
+The importance of IA is demonstrated in the growing demand for this service in all
+organisations and in the rapid growth of its profession. However researchers have paid little
+attention to this function and the effect it has on financial performance of organisations.
+Internal auditing is an independent, objective assurance and consulting activity designed to
+add value and improve an organisation's operations. It helps an organisation accomplish its
+objectives by bringing a systematic, disciplined approach to evaluate and improve the
+effectiveness of risk management, control, and governance processes. The internal audit
+department is regarded as the key element in the application of accounting systems which in
+turn, helps in evaluating the work of the department. The internal audit is considered as the
+backbone of the business accounting as it is the section that records all businesses related to
+the sector. The efficiency of internal audit helps develop the work of the company because
+the financial reports reflect the internal audit department’s quality.
+
+The study sought to establish the effect of internal audit function and financial performance
+of commercial banks. The research design employed in this study was descriptive design.
+The population of the study consisted of employees in Stanbic bank Mukono branch being
+the case study chosen. The study was a census survey. The source of data used was both
+primary and secondary data. The main instrument for data collection was a semi-structured
+questionnaire. Data was analysed through the use of descriptive statistics and multiple linear
+regression analysis. The multiple linear regression models were used to estimate the causal
+relationship between financial performance and the independent variables. From the
+regression model, the study found out that there were internal audit function variables
+influencing the financial performance of commercial banks, which are Internal Control
+
+
+Environment, Internal Control Activities, Risk Management and Monitoring Activities. They
+all influenced it positively. The four independent variables that were studied explain a
+substantial 78.4% of financial performance among commercial banks.
+From the analysis the study established that professional competence of internal auditor
+affects performance of Stanbic bank to a great extent. This established that measures that
+enhance the efficiency of auditors are important for effective fraud detection, in commercial
+banks frauds are identified by the internal audit function ,fraud detection, and fraudulent
+activities are inherently unpredictable and difficult to detect and they affect the performance
+of the bank, conscientiousness correlates with task performance just as strongly as cognitive
+ability, the study established the auditors in the organisation are qualified to undertake audit
+function.
+The study established that internal controls affect financial performance of commercial banks
+in Uganda to a great extent. The study also revealed that internal Control audits in the
+organisation have features built into them to ensure that fraudulent truncations are flagged or
+made difficult to transact, and that intentional errors are concentrated in relatively few audits
+and these are fairly predictable by the industry, others agreed that cash receipts bear fairly
+strong controls, firms that disclose an internal control problem experience a significant
+increase in market-adjusted cost of capital, the greater the degree of competition, the greater
+would be the need to control costs as, and that intentional errors are concentrated in relatively
+few audits and these are fairly predictable by industry.
+
+The study sought to establish that Independence of Internal Audit affects the financial
+performance of commercial banks to a great extent. The study further revealed that, an
+internal auditor must be independent of both the personnel and operational activities of an
+organisation, the internal audit department in a banking institution must be independent from
+the activities which it controls and must likewise be independent from the day-to-day internal
+control processes, each bank should have formalised principles of internal audit providing for
+its position and powers in the framework of the bank, Independence is the essence of
+auditing, the integrity of the auditor’s opinions, conclusions and recommendations would be
+suspect, internal auditors may not have a conflict of interests with the bank and finally that
+independence is necessary for the effective achievement of the function and objective of
+internal audit.
+
+
+
+From the findings the study revealed that there was greater variation in financial performance
+of commercial banks due to changes in internal audit standards, independence of internal
+audit, professional competency and internal control, this clearly shows that changes in
+financial performance of commercial banks could be accounted for by changes in internal
+audit standards, independence of internal audit, professional competency and internal control.
+
+The study also established that there was a strong positive relationship between financial
+performance of commercial banks and internal audit standards, independence of internal
+audit, professional competency and internal control. The study revealed that internal audit
+standards, independence of internal audit, professional competency and internal control had a
+positive relationship with financial performance of commercial banks.
+
+The study found that a unit increase in internal audit standards would lead to increase in
+financial performance of commercial banks, a unit increase in independence of internal audit
+would lead to increase in financial performance of commercial banks, a unit increase in
+professional competency would lead to increase in financial performance of commercial
+banks and further unit increase in internal control would lead to increase in performance of
+commercial banks.
+
+Cooper and Craig (1983) found that there were a number of misconceptions about what
+internal auditors were doing and what their chief executive officers (CEO) perceived was
+being done and in fact there were expectations by the CEO’s that internal audit could do
+more than the traditional financial auditing work mainly being done at the time.
+
+Peursem (2004) found that characteristics of a true profession exist but do not dominate.
+Significantly, and as subgroups, Peursem also observed that public practice and experienced
+auditors may enjoy greater influence over management, and accountancy- trained auditors
+may enjoy greater status owing to the mystery of the activities emanating from their
+membership of well-known accountancy professional bodies. The research supports prior
+studies by Coopers and Craig (1983), Cooper et al. (1966) and Gramling (1997) found that
+there are three concepts characteristic of those who best balanced their role: the internal
+auditor’s external professional status; the presence of a formal and an informal
+communication network and the internal auditor’s place in determining their own role.
+Informing these concepts is the auditor’s ability to manage ambiguity.
+
+
+
+A survey, by Ernst & Young, found that 75 per cent of the survey respondents believe strong
+risk management has a positive impact on their long-term earnings performance, an equal
+percentage of the respondents believe that their internal audit function has a positive impact
+on their overall risk management efforts. As the role of the internal auditor evolves and
+stakeholder expectations rise, internal audit functions increasingly require competencies that
+exceed the more traditional technical skills, such as the ability to team with management and
+business units on relevant business issues.
+
+Mawanda (2008) in his study established a significant relationship between internal control
+systems and financial performance. The investigation recommends competence profiling in
+the Internal Audit department which should be based on what the University expects the
+internal audit to do and what appropriate number staff would be required to do this job.
+Mutua (2012) concluded that risk based auditing through internal auditing standards and
+internal auditing staffing should be enhanced to enable firms to detect risks on time and
+concentrate on high risk areas leading to increased transparency and accountability, hence
+enhancing financial performance. This showed that there is indeed a relationship between
+internal audit and financial performance.
+5.3 Conclusion
+This study examined the effect of internal audit function and financial performance of
+Commercial banks. The four independent variables that were studied (Internal Control
+Environment, Internal Control Activities, Risk Management, Monitoring Activities) explain a
+substantial 78.4% of financial performance among commercial banks.
+Reager (2006) says in addition to identifying weak and overlooked controls, internal audits
+often lead to process improvement discoveries or efficiency breakthroughs and that such
+exchanges with internal auditors can provide employees with new perspectives on their
+positions triggering ideas for process improvements or new business possibilities which leads
+to an improved firm performance.
+Firsteberg and Malkiel (1994) claimed that a board with eight to fewer members encourages
+greater concentration, participation and authentic interactions and discussion. From the
+perspective of resource dependence theory, it postulates that larger board size would result in
+superior corporate performance owing to the various skills, knowledge, and expertise
+
+
+contributed into the boardroom debate. In addition, large boards could also offer the diversity
+that would assist companies to obtain critical resources and minimise environmental risks.
+The internal audit support enhances the system of responsibility that the executive directors
+and employees have towards the owners and other stakeholders (Eighme & Cashell, 2002).
+Taken together, the internal audit department provides a reliable, objective, and neutral
+service to the management, board of directors, and audit committee, while stakeholders are
+interested in return on investments, sustainable growth, strong leadership, and reliable
+reporting on the financial performance and business practices of a company (Ljubisavljević
+& Jovanovi, 2011).
+5.4 Recommendations for Policy
+The study recommends that the companies should employ skilled and competent professional
+internal auditors to strengthen the internal controls and minimise fraud. This will yield high
+profits. With efficient internal controls, cases of fraud, embezzlement and cash
+mismanagement will be controlled hence supplementing the level of profits in the company.
+The study further recommends training of employees in the companies as an important tool
+of motivating employees towards better performance. In fact through training, employees
+will get motivated and fully grasp all aspects of the internal control, hence better
+performance.
+The study also recommends that companies should invest in market research so as to
+understand what people think of their services and/or products for improving financial
+performance of the companies.
+Lastly the study recommends that the companies should ensure that they have a large number
+of members in the auditing board as a larger board size results in superior corporate
+performance owing to the various skills, knowledge, and expertise contributed into the
+boardroom debate. In addition, large boards could also offer the diversity that would assist
+companies to obtain critical resources and minimise environmental risks.
+5.5 Limitations of the Study
+There were challenges which were encountered during the study. Some officers who are
+Concerned with safe custody of the companies‟ financial reports were initially reluctant to
+release them. That reluctance delayed the completion of data collection.
+
+
+There was also limited availability of local literature with respect to the relationship between
+effectiveness of internal audit function and financial performance of commercial banks
+which was overcome by consultation of foreign literatures and reference to other relevant
+locally published materials.
+In addition, time and resources allocated to this study could not allow the study to be
+conducted as deeply as possible in terms of other predictor variables for financial
+performance of commercial banks.
+5.6 Suggestions for Further Studies
+The study focused on commercial banks but similar studies could be undertaken to look at
+the banks that are not commercial to find out whether it will yield the same results.
+The Same study can be undertaken in other countries of East Africa to find out the effect of
+the effectiveness of internal audit functions on the financial performance of their commercial
+banks.

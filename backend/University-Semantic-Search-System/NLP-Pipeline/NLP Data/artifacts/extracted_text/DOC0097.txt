@@ -1,0 +1,1339 @@
+ 
+USE OF FERRIC CHLORIDE ZEOLITES IN GROUND WATER TREATMENT AT 
+HOUSEHOLD LEVEL A CASE STUDY OF KYABALOGO VILLAGE, 
+NAKISUNGA SUB-COUNTY  
+ 
+ IVAN JOSEPH LUBULWA  
+M22B32/050 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DISSERTATION SUBMITTED TO THE FACULTY OF ENGINEERING, DESIGN AND 
+TECHNOLOGY IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD 
+OF THE DEGREE OF BACHELOR OF SCIENCE IN CIVIL AND ENVIRONMENTAL 
+ENGINEERING  OF UGANDA CHRISTIAN UNIVERSITY  
+February, 2026 
+ 
+ 
+ 
+ 
+
+i 
+ 
+ABSTRACT 
+The issue of access to clean drinking water continues to be a great struggle in various 
+rural locations where the sources of groundwater are becoming more and more polluted 
+with heavy metals and other inorganic substances. At the same time, heavy metals such 
+as lead (Pb²⁺) and copper (Cu²⁺) are classified as hazards of the highest order due to their 
+toxic nature, persistence, and bioaccumulation (Tchobanoglous et al., 2014). A study on 
+water quality in Kyabalogo Village, Nakisunga Sub-county, Mukono District, Uganda, 
+indicated the existence of Pb and Cu in the spring water exceeding the tolerable limits 
+for drinking water. Therefore, the water cannot be used in households without prior 
+purification. 
+The current work is focused on the application of natural zeolite as an inexpensive and 
+effective adsorbent to purify the spring groundwater by removing Pb²⁺ and Cu²⁺ at the 
+household level. Previous literature shows that divalent heavy metals can be taken away 
+by zeolites by 80–95% via ion-exchange processes, where the ions of the heavy metals 
+Pb²⁺ and Cu²⁺ in the solution replace the cations (e.g., Na⁺, K⁺, Ca²⁺) that are in the 
+zeolite lattice (Misaelides, 2011). The results of this research work are expected to 
+provide a cheap and an eco-friendly approach solution for the rural water treatment 
+community. (Wang & Peng, 2010). 
+ 
+ 
+ 
+    
+
+ii 
+ 
+DECLARATION 
+I, LUBULWA IVAN JOSEPH hereby declare that this final year research project entitled; 
+Use of modified zeolites in ground water treatment at household level a case study of 
+Kyabalogo Village, Nakisunga Sub-County is mine. I personally typed this report on my 
+own and it has never been forwarded to any institution or organization for an award of 
+any qualification. I therefore strongly confirm without any doubt and in my right state of 
+mind, that this is my original work. 
+ 
+Signature: …………………………… 
+Date: 
+……………………………….. 
+LUBULWA IVAN JOSEPH. 
+M22B32/050 
+
+iv 
+ 
+APPROVAL 
+ 
+I certify that this report is for LUBULWA IVAN JOSEPH Registration Number M22B32/050. 
+I fully accept that he has been under my supervision and so submitted to the Faculty of 
+Engineering, Design and Technology in partial fulfillment of a Bachelor of Science 
+Degree in Civil and Environmental Engineering from Uganda Christian University. 
+ 
+ 
+Mr. Baagala Brian Sempijja 
+ 
+Academic Supervisor (Uganda Christian University)  
+ 
+ 
+Signature:.....................................  
+ 
+ 
+Date:........................................... 
+
+v 
+ 
+ACKNOWLEDGEMENT 
+“It is impossible to accomplish anything significant without the tireless input of 
+dedicated people” First of all, I acknowledge the lord my heavenly father for bestowing 
+upon me a unique combination of gifts, talents as well as resourceful people who have 
+enabled me to reach this far. “He lifted me out of miry clay and set my feet upon rocks 
+and established my steps in the most troubling time” (psalms 40:2) 
+I extend my appreciation to my lecturers at the Department of Engineering and 
+Environment for their positive criticism that has constantly helped me refine my project 
+concept and most importantly my supervisor Mr. Brian Sempijja for his extensive 
+contribution in giving me guidance during all the engagements and works done 
+throughout the entire project period. 
+I am profoundly grateful to all respondents, especially the local people that use the 
+Springs for domestic use and I also cannot forget to thank my Project Partner Mr. Mukizi 
+Octave for all his support and guidelines that I needed for the success of this training 
+practice. Great appreciation goes to my parents for their financial support, prayers and 
+continuous career guidance towards my academic journey. 
+Finally I would like to express my utmost and sincere gratitude to the management of 
+Uganda Christian University particularly Faculty of Engineering, Design and Technology 
+for giving us this opportunity to carry out research and gain more expertise in the 
+education field. 
+ 
+MAY GOD BLESS YOU ALL.
+
+vi 
+ 
+TABLE OF CONTENTS 
+ABSTRACT ........................................................................... i 
+DECLARATION ...................................................................... i 
+APPROVAL .......................................................................... iv 
+ACKNOWLEDGEMENT .............................................................. v 
+LIST OF FIGURES .................................................................. ix 
+LIST OF TABLES ................................................................... xi 
+LIST OF ABBREVIATIONS ........................................................ xii 
+CHAPTER ONE: INTRODUCTION .................................................. 1 
+1.1 BACKGROUND .................................................................. 1 
+1.2 PROBLEM STATEMENT ......................................................... 2 
+1.3 OBJECTIVES OF STUDY ........................................................ 3 
+1.3.1 Main objective ............................................................ 3 
+1.3.2 Specific objectives ....................................................... 3 
+1.4 
+Research questions ....................................................... 4 
+1.5 JUSTIFICATION ................................................................. 4 
+1.6 GEOGRAPHICAL SCOPE ....................................................... 5 
+1.6.1 CONTENT SCOPE ......................................................... 6 
+1.6.2 TIME SCOPE ............................................................... 6 
+CHAPTER TWO: LITERATURE REVIEW ........................................... 7 
+2.0 Introduction .................................................................... 7 
+2.1 Heavy metals .................................................................. 7 
+
+vii 
+ 
+2.2 Copper .......................................................................... 7 
+2.3 Lead ............................................................................. 9 
+2.4 Methods of removing heavy metals from water. ........................ 11 
+2.5 Adsorption .................................................................... 14 
+2.6 Use of natural zeolite in treatment. ..................................... 15 
+2.6.1 Adsorption .............................................................. 16 
+2.6.2 Ion Exchange ............................................................ 16 
+2.7 Catalytic Oxidation ......................................................... 17 
+2.7.1 pH Adjustment ......................................................... 17 
+2.8 Modification of natural zeolites for use. ................................. 17 
+CHAPTER THREE: METHODOLOGY ............................................. 19 
+3.0 Introduction .................................................................. 19 
+3.1 Determination of the Physico-Chemical Characteristics of Raw 
+Groundwater from Three Selected Springs in Kyabalogo Village, Sub-
+County ............................................................................. 22 
+3.1.1 Area of study ........................................................... 19 
+3.1.2 Sampling procedure .................................................... 21 
+3.1.3 Measuring In-situ Parameters ........................................ 22 
+3.2 Determining the concentration of (Cu) and (Fe) in the water samples
+ ..................................................................................... 23 
+3.2.1 Material Preparation ................. Error! Bookmark not defined. 
+3.2.2 Preparation and Modification of Zeolite ..... Error! Bookmark not 
+defined. 
+
+viii 
+ 
+3.3 Determination of removal efficiency of Zeolites. ...................... 24 
+3.3.1 Designing an adsorption system ...................................... 26 
+3.3.2 Design of simple household treatment system. ................... 27 
+CHAPTER FOUR: RESULTS AND DISCUSSION .................................. 28 
+4.0 Introduction .................................................................. 28 
+4.0.1 pH ........................................................................ 29 
+4.1 Electrical Conductivity (EC) ............................................... 30 
+4.1.1 Total Dissolved Solids (TDS) .......................................... 31 
+4.1.2 Heavy metal concentrations (Cu and Pb) ........................... 32 
+4.2 DETERMINATION OF PERCENTAGE REMOVAL FOR ZEOLITES. .......... 35 
+4.2.1 Percentage Removals at different depths .......................... 35 
+4.2.3 Total Dissolved Solids ................................................. 39 
+4.3.1 MAXIMUM ALLOWABLE LEAD CONCENTRATION (Pb² .............. 45 
+4.3.2 MAX ALLOWABLE CONCENTRATION OF COPPER (Cu²⁺ ............ 45 
+4.4 Summary of Column Design for Full-Scale Implementation ........... 49 
+SYSTEM DIMENSIONS ............................................................. 50 
+5.1 Conclusion ................................................................... 52 
+5.2 Recommendations .......................................................... 53 
+References ........................................................................ 55 
+Appendix A.PICTORIAL........................................................... 66 
+Appendix B: laboratory results ................................................ 70 
+ 
+ 
+
+ix 
+ 
+ 
+LIST OF FIGURES 
+Figure 1 : Research design flow chart ......................................................... 19 
+Figure 2 ferric Chloride      Figure 3 sieve anaylsis    Figure 4 process of sieve analysis
+ ..................................................................................................... 25 
+Figure 5 : Mean pH values for samples of A,B and C 𝑛 = 3. ................................ 30 
+Figure 6: Average values of EC for the three sampling springs points A, B and C ...... 31 
+Figure 7:  Average values for TDS for the three different springs A, B and C .......... 32 
+Figure 8: Average concentration of Copper in Springs A, B and C ........................ 35 
+Figure 9 : Average concentration of Lead in Springs A, B and C .......................... 35 
+Figure 10 : Mean pH values for samples of A,B and C at different depths 𝑛 = 3. ...... 37 
+Figure 11 : Average values of EC for the three springs at different depths with treated 
+and natural zeolite .............................................................................. 38 
+Figure 12 : Average values of TDS at different removal depths for the three different 
+springs ............................................................................................. 40 
+Figure 13 : Percentage removal for Copper at different depths .......................... 42 
+Figure 14: Percentage removal for Lead at different depths ............................. 43 
+Figure 15: Breakthrough Curve for the Small-Scale Column Test ......................... 49 
+Figure 16 : 2mm zeolite particles ............................................................... 67 
+Figure 17: Automated system for testing jeavy metals indicators in water .................. 67 
+Figure 18 .......................................................................................... 67 
+Figure 19 .......................................................................................... 67 
+Figure 20 .......................................................................................... 67 
+
+x 
+ 
+Figure 19: Different layers of prepared zeolites ............................................ 67 
+Figure20: Anaylsing raw data from the heavy metal analysis ............................. 67 
+Figure 21: column test experiment ........................................................... 67 
+Figure 22: Zeolite rocks obtained from Mbale ............................................... 68 
+Figure 22: Testing the automated system I develop during the project ................. 68 
+Figure 23: Ferric chloride....................................................................... 68 
+Figure 24: Zeolite rocks sorted to obtain the ones with high zeolite concentration .. 68 
+Figure 25: Sieve analysis ........................................................................ 68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ 
+ 
+LIST OF TABLES 
+Table 1: Limitations of the conventional methods of heavy metal removal in water 
+(Source: Senanu, 2023;Gahrouei, 2024;Wang et al,2025 .................................. 12 
+Table 2: Summary of results .................................................................... 28 
+Table 3 : Average Heavy Metal Levels at Sampling Points A, B and C ................... 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xii 
+ 
+ 
+ 
+ 
+ 
+LIST OF ABBREVIATIONS 
+APHA 
+American Public Health Association 
+Pb 
+Lead 
+US/EAS 
+Uganda Standard/East African Standard 
+Cu 
+Copper 
+EC 
+Electrical Conductivity 
+FAAS 
+Flame Atomic Absorption Spectroscopy 
+CEC 
+Cation Exchange Capacity 
+AF 
+Adsorption Frequency 
+FTIR 
+Fourier Transforms Infrared Spectroscopy 
+MWE 
+Ministry of Water and Environment 
+NBL 
+Nile Breweries Limited 
+NWSC 
+National Water and Sewerage Corporation 
+TDS 
+Total Dissolved Solids 
+
+xiii 
+ 
+ICP-MS 
+Inductively Coupled Plasma–Mass Spectrometry 
+UBOS 
+Uganda Bureau of Statistics 
+UNBS 
+Uganda National Bureau of Standards 
+US: EAS 
+Uganda Standards East Africa Standards 
+GIS 
+Geographical Information System 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+CHAPTER ONE: INTRODUCTION 
+This chapter includes the background, problem statement and geographical scope and 
+justification of this research project. 
+1.1 BACKGROUND 
+Pollution from both point and non-point sources still continue to pollute essential water 
+resources on a global scale. Major contributors to the pollution of both surface water 
+and groundwater are industrial discharges, domestic sewage, agricultural runoff, and 
+changes in the environment (WHO, 2024). In many parts of the world that are still 
+developing, groundwater that people rely on for drinking purposes is slowly discovered 
+to contain harmful inorganic pollutants and especially heavy metals such as lead (Pb), 
+copper (Cu), iron (Fe), and cadmium (Cd). These metals are unyielding, non-
+degradable, and their presence even in minuscule amounts causes a very serious health 
+risk (Tchobanoglous et al., 2014). 
+ 
+By the year 2035, the global population increase is estimated to be around 7.9 billion, 
+and consequently, the water crisis is to be more severe than it is now, particularly in 
+rural areas where the supply of water treatment facilities is limited (WHO, 2024). The 
+conventional use of filtration by households such as plain sand filtration, membrane 
+filters, and biochar filters has been found to be inadequate as poor adsorption capacity 
+and large variation in maintaining the level of metals below that of the drinking water 
+standard have been cited as the causes. 
+ 
+
+2 
+ 
+Among the various treatment methods available, the one based on adsorption has 
+gained recognition as the most efficient and at the same time the least expensive 
+solution to heavy metals removal. Natural zeolites in particular are the most popular 
+ones, boasting the property of having the highest cation-exchange capacity, micropore 
+structure, and strong affinity for the divalent metal ion such as Pb²⁺ and Cu²⁺ (Wang & 
+Peng, 2010). In this manner, zeolites can swap their cations (Na⁺, Ca²⁺, K⁺) for those of 
+toxic metals, significantly reducing the concentration of metals in contaminated water 
+within minutes (Misaelides, 2011). 
+This research focuses on the purification of Kyabalogo Village, Nakisunga Sub- by using 
+modified zeolites as an adsorbent for household drinking water. 
+ 
+1.2 PROBLEM STATEMENT 
+The major sources of water in Uganda are underground, and in addition to that, natural 
+springs are also used for domestic purposes, drinking water, and small-scale economic 
+activities. In Kyabalogo village, Nakisunga sub-county, the spring water is the main 
+source of water since it is free, easy to access, and available all year round. However, 
+human activities such as improper waste disposal, agricultural runoff, and unregulated 
+land use around these water sources have deteriorated the quality of the water 
+significantly (WHO, 2024). 
+ 
+Water quality monitoring from community springs in central Uganda indicates the 
+presence of heavy metals and pathogenic microorganisms in large quantities (Nzanzu et 
+al., 2022) The heavy metals Pb, Cu, and Cd are listed among the ones that are very 
+
+3 
+ 
+toxic and detrimental to the health of living organisms at very low concentrations 
+(Tchounwou et al., 2012). Furthermore, with the presence of pathogens in the water, 
+the risk to public health is even greater, with fecal coliforms being detected in the range 
+of 1000 CFU/100 mL (Nzanzu et al., 2022). 
+ 
+A good number of the Kyabalogo Village residents are elderly or low-income and thus 
+cannot afford the piped water from the National Water and Sewerage Corporation 
+(NWSC). They, therefore, rely on spring water that is likely to be contaminated by human 
+activities and groundwater infiltration of heavy metals. Hence, the need for developing 
+inexpensive household-scale treatment systems is very critical. 
+ 
+Popular household filtration systems like sand filters, membrane filters, and cloth 
+filtration have not shown high efficiency in the removal of dissolved heavy metals. On 
+the other hand, natural zeolites are known for their high cation-exchange capacity and 
+great attraction to divalent heavy metals like Pb²⁺ and Cu²⁺, which makes the 
+1.3 OBJECTIVES OF STUDY 
+1.3.1 Main objective 
+To use modified zeolites in water treatment at household level a case study of Kyabalogo 
+village, Nakisunga Sub-County 
+ 
+1.3.2 Specific objectives 
+1. To determine the physicochemical properties of three selected springs in 
+Kyabalogo village, Nakisunga Sub-County 
+
+4 
+ 
+2. To determine the removal efficiency of natural zeolites in water treatment 
+3. To design a simple household water treatment system.  
+ 
+1.4 
+Research questions 
+1. 
+What are the current heavy metal concentrations in the water of the three 
+selected springs in Kyabalogo Village, Nakisunga Sub-County? 
+2. 
+How to determine the removal efficiency of natural zeolites in water treatment? 
+3. 
+What are the specifications of the household treatment system to be designed? 
+ 
+1.5 JUSTIFICATION 
+Zeolites are regarded as the most efficient crystalline aluminosilicates minerals for 
+water-treatment media applications, thanks to their remarkable capability of removing 
+heavy metals such as lead (Pb²⁺) and copper (Cu²⁺) from water. The main reasons for 
+their high efficiency are their high cation-exchange capacity, porous structure, and 
+excellent affinity for divalent metal ions. Clinoptilolite, a natural zeolite, is the most 
+commonly used mineral as it is regarded as a very low-cost, eco-friendly, and selective 
+adsorbent for toxic metals in drinking water (Sprynskyy et al., 2006; Wang & Peng, 2010). 
+ 
+Ion exchange occurs mainly as a mechanism of sorption whereby metal ions in solution 
+displace the weaker cationic exchangeable ones (Na⁺, K⁺, Ca²⁺) of the zeolite. This 
+phenomenon can be illustrated as follows: 
+ 
+2(Z–Na)+Pb2+→(Z)2–Pb+2Na+ 
+
+5 
+ 
+2(Z–Na)+Cu2+→(Z)2–Cu+2Na+ 
+Zeolites additionally eliminate heavy metals through surface adsorption and 
+complexation, thus making them multifunctional. As a result of their high efficiency, 
+simplicity, low operational cost, and compatibility with household water treatment, 
+adsorption has been identified as the preferred method over such treatments as 
+membrane filtration, precipitation, and solvent extraction (Foo & Hameed, 2010). 
+ 
+Among the possible adsorbents, zeolites win due to their very large specific surface area, 
+permanent negative framework charge, natural occurrence, and water resistance. It has 
+been proven on many occasions that zeolites possess an extremely strong selection for 
+Pb²⁺ and Cu²⁺ ions even when the competing ions are Ca²⁺ and Mg²⁺ (Inglezakis & Zorpas, 
+2012). Thus, they could very well be applied in the treatment of natural groundwater in 
+rural areas like Mukono, where heavy metals may be above the stipulated limits. 
+ 
+To sum up, zeolites, with their combination of low cost, selectivity, and high efficacy, 
+become the ideal option for household water treatment. They are distinguished by their 
+dual Roman Catholic and Orthodox mechanisms of ion-exchange and adsorption with 
+natural availability, which are the best choice for Pb²⁺ and Cu²⁺ removal from spring 
+groundwater and as a natural resource that is readily available in the rocks of Mbale 
+proven performance. 
+1.6 GEOGRAPHICAL SCOPE 
+The study focused on three springs located in Kyabalogo village, Nakisunga Sub-County, 
+Central Region (0034/40.0// N, 60000/30.0// E). The presence of many springs (both 
+
+6 
+ 
+protected and unprotected) is a characteristic of the area, but the researchers chose 
+to study only three springs which are most likely to get contaminated because of their 
+location. 
+ 
+1.6.1 CONTENT SCOPE 
+This research study is mainly focused on; 
+1. Determining the physicochemical properties of three selected springs in 
+Kyabalogo village, Nakisunga Sub-County 
+2. Determining the removal efficiency of natural zeolites in water treatment 
+3. Designing a simple household water treatment system.  
+ 
+1.6.2 TIME SCOPE 
+This research project commenced in May 2024 and will be completed in December 2025. 
+
+7 
+ 
+CHAPTER TWO: LITERATURE REVIEW 
+2.0 Introduction 
+This chapter comprises of details of current academic literature, reviews, theories and 
+general information specific to this research project from existing published 
+information in peer reviewed articles, books, conference papers and others. 
+2.1 Heavy metals 
+There are definitions that dictate heavy metals according to their toxicity meaning that 
+they are very harmful even if present in very small concentrations and thus arsenic, 
+lead, and mercury have been said to be more dangerous than iron, copper, and zinc 
+which are considered to be the body’s allies or have very limited effects in the amounts 
+set as non-lethal for the most toxic elements. Nevertheless, the scientific community 
+has come to the conclusion that heavy metals are those elements with a density greater 
+than 5g/cm3 (Ali & Khan, 2018). With respect to this investigation, copper with an 
+estimated density of around 8.9g/cm3 and iron with 7.9g/cm3 can definitely be 
+classified as heavy metals. 
+2.2 Copper 
+Copper (Cu) is an indispensable trace element that functions as a cofactor for various 
+enzymes, participates in the formation of connective tissues, strengthens the immune 
+system, and takes part in the processing of nervous impulses (ICA, n.d). Its occurrence 
+in food as well as the low levels in many water sources makes copper deficiency rare, 
+if not impossible, in the general population, the exception being individuals with 
+defective copper metabolism. 
+
+8 
+ 
+ 
+It is the case that copper is essential in minute quantities, but when it is present in 
+large amounts, it becomes a contaminant of drinking water. To prevent health issues 
+like gastrointestinal irritation, nausea, and complications in patients with Wilson's 
+disease (WHO, 2017), the WHO sets a limit of 2.0 mg/L as the maximum allowable 
+concentration in drinking water. Furthermore, copper at concentrations exceeding 2.5 
+mg/L will alter the taste and color of the water, making it less acceptable. 
+Copper contamination in groundwater systems is a common issue caused by not only 
+geological sources but also leaching of contaminated soils, agricultural chemicals, and 
+improper waste disposal. In contrast to the corroding copper pipes being the main 
+source of contamination in piped distribution systems, rural groundwater pollution may 
+come from weathered rocks, mining residues and human wastes (Zhou et al., 2024). 
+Household water with excessive copper has the potential to cause laundry staining at 
+the concentration of more than 1 mg/L and pipe discoloration (WHO, 2017). Traditional 
+methods of household filtration do not remove dissolved Cu²⁺ ions, as copper is not 
+easily removed through simple sand filtration or chlorination. While more advanced 
+techniques like chemical precipitation, coagulation, membrane and ion exchange have 
+been proven effective, they also tend to be expensive and complicated for low-income 
+rural households. 
+Adsorption, particularly the application of natural zeolites, is a cheap and an efficient 
+alternative. The high cation-exchange capacity of zeolites and their ability to 
+selectively bind Cu²⁺ ions make them ideal for the purification of contaminated 
+
+9 
+ 
+groundwater in the home setting. 
+2.3 Lead  
+Lead is a metal that is very toxic and has no beneficial role in the human body. The case 
+of lead is different from that of trace elements: Even the least exposure might lead to 
+huge health impacts, and this is especially so for vulnerable groups like children and 
+pregnant women (WHO, 2021). According to the WHO, lead is a Group 2A probable human 
+carcinogen, and it is very strictly stated that no amount of lead exposure is considered 
+to be safe (WHO, 2021). Thus, the WHO guideline value for lead in drinking water is fixed 
+at 0.01 mg/L.  
+ 
+A vast pool of scientific studies has all pointed to the same conclusion that the 
+consumption of lead-contaminated water even at levels of less than 0.1 mg/L can have 
+extreme effects on brain development, general health, and even physiology of the 
+organism. Lead diminishes the amount of hemoglobin made, disrupts enzyme activity and 
+builds up in the bones and soft tissues of the body with time (Tchounwou et al., 2012). 
+In children, lead presence in drinking water below the level of 0.05 mg/L is blamed for 
+lowering IQ, hindering cognitive skills, creating behavior series, and causing growth to 
+stop (Lanphear et al., 2018). Adults suffering from the similar case might face the 
+problems of high blood pressure, kidney malfunction, infertility, and heart attack (Flora 
+et al., 2012). 
+Even higher amounts of lead in drinking water, and say, those found in rural groundwater 
+and city outskirts, springs, are huge risks. Rahman et al. (2023) mention fatigue, 
+
+10 
+ 
+abdominal pain, memory loss, muscle weakness, and anemia as symptoms of chronic lead 
+exposure. The long-term lead deposit causes neurodegeneration, seizures, and organ 
+failure. Health risks depend on various factors like age, nutrition, socio-economic status, 
+and exposure time (WHO, 2021). 
+Groundwater percolation varies a lot, nevertheless, the major contributors are the 
+geological weathering, lead plumbing corrosion, wrong batteries and paints disposal, 
+and agricultural or industrial runoff (Kumar et al., 2017; Zhou et al., 2024). For 
+example, a rural Ugandan community like Kyabalogo Village in Nakisunga Sub-County 
+frequently experiences lead pollution through geological layers, soil leaching 
+contamination. These sources usually cause contamination that is more direct and 
+persistent than contamination resulting from isolated human activities. 
+As per the Uganda Standards (US EAS 2014), the maximum allowable limit for lead in 
+potable water is 0.01 mg/L, which is in line with WHO recommendations. Lead levels 
+beyond this point are not only harmful to health but also signify that the groundwater 
+has been contaminated on a larger scale. 
+Considering the great health risks of lead even at low levels in drinking water, it is critical 
+that proper treatments are implemented. Among the adsorption-based methods, one 
+especially using natural zeolites has the potential to remove Pb²⁺ from the water 
+selectively, and that is due to its high cation-exchange capacity and strong affinity for 
+divalent heavy metals (Wang & Peng, 2010; Misaelides, 2011). 
+ 
+ 
+
+11 
+ 
+2.4 Methods of removing heavy metals from water. 
+Heavy metals have been removed or at least reduced to acceptable levels through a 
+variety of methods that have been developed and implemented. These ways of removal 
+include; Coagulation, Ion exchange, Adsorption, Chemical precipitation/neutralization, 
+Membrane filtration, ion floatation which covers reverse osmosis, micro/nano/ultra- 
+filtration, evaporation and electrochemical methods (Lupa et al, 2023; Senanu et al, 
+2023).  
+Such methods are considered to be impractical particularly in developing nations 
+because of the enormity of the costs involved (operation, maintenance, education/ 
+skilling) that would be incurred for the continuous use of the techniques, particularly, 
+to treat the large quantities of water or over-contaminated water in order to provide 
+water just adequate enough for the growing populations in vast regions with very little 
+or no access to clean water for consumption (Joseph et al, 2019). Thus, the search is 
+on for more affordable methods in the removal of heavy metals from water in places 
+like Uganda. 
+Other limitations of the conventional methods according to Gahrouei, (2024) and 
+Senanu (2023) are in Table 1 below. 
+ 
+ 
+ 
+ 
+ 
+
+12 
+ 
+Table 1: Limitations of the conventional methods of heavy metal removal in water 
+(Source: Senanu, 2023; Gahrouei, 2024; Wang et al,2025 
+Method of treatment 
+Limitations 
+Membrane filtration: This involves the 
+passage of water that is pressurized 
+through membranes. The membranes 
+extract the heavy metal ions allowing 
+water to go through. 
+High 
+operation 
+costs from 
+energy usage to pressurize water 
+Expensive membranes/membrane material 
+Heavy metal species with smaller size 
+than the membrane cannot be filtered 
+Chemical precipitation: This involves 
+chemical reagents being added to 
+aqueous solutions with heavy metals and 
+the reagents react to form insoluble 
+solids easily precipitated out of the 
+water and filtered out eventually. 
+Some heavy metals have optimum pH points 
+& may form water soluble compounds in 
+both base and acidic conditions. Thus, pH 
+adjustment is needed. 
+Toxic chemical by products from the 
+reactions. 
+Large amounts of chemicals required for 
+efficient precipitation leading to high 
+operational costs. 
+Large amounts of sludge produced. 
+Floatation: 
+Just 
+like 
+dissolved 
+air 
+floatation, air bubbles are incorporated 
+into water from the bases of their 
+chambers binding heavy metal ions as 
+High energy costs for constantly pumping 
+pressurized 
+
+13 
+ 
+they move upwards. Scum is formed at 
+the top of the water surface containing 
+the heavy 
+metal ions and is skimmed off. 
+Coagulation: Chemicals(coagulants) are 
+added to destabilize charges on heavy 
+metal ions forming dense colloids  that 
+are  sedimented  or 
+filtered from the water. 
+Chemicals cannot be reused 
+ 
+Large amounts of sludge formed daily 
+Ion exchange: Solid like polymers with a 
+similar ion to the heavy metals are used 
+for exchange of ions removing heavy 
+metal ions from the aqueous solution. 
+Polymers required not readily available 
+for all metals. 
+Suspended materials in the water Have to 
+first 
+be removed 
+before 
+ion 
+exchange method can be used. 
+Electrochemical 
+technique: 
+Use 
+of 
+electric potential and ion exchange 
+membrane to remove the heavy metal 
+ions/species. 
+High energy costs 
+Skilled personnel for operation 
+Large amounts of sludge produced  
+ 
+Clean feed required 
+hence other 
+treatment methods should first be used. 
+ 
+ 
+
+14 
+ 
+2.5 Adsorption 
+Adsorption is one of the methods used in which heavy metal ions are fixed on the surface 
+of the adsorbent, hence, the elimination of heavy metals through adsorption (Lupa et 
+al, 2023). The process of separation here involves removing ions from the liquid by 
+either physical or chemical adsorption of the dissolved heavy metal ions. 
+Physical adsorption means that the ions get trapped in the adsorbent’s porous surface. 
+Hence, adsorbents with large pore size and high surface area among others are 
+expected to be good ones (Akhtar et al, 2024). In contrast, chemical adsorption refers 
+to the use of the chemical compounds such as functional groups that serve as binding 
+sites to which the ions exhibit high affinity. 
+The research on the use of waste materials in particular has been focused on the 
+availability of these materials locally, thus, environmental sustainability due to the 
+regeneration of the biochar (Carrasco et al, 2022). Therefore, water treatment with 
+bio-sorbent waste materials. The adsorption process is also regarded as a heavy metal 
+removal technique that is two in one, as it inherently involves the filtration process due 
+to the media used and hence is sometimes called activated carbon filtration when 
+activated carbon is used (Pillai, 2024). 
+ 
+Numerous researches have explored the employment of both natural and altered 
+zeolites for the decontamination of water, especially by the extraction of heavy metals 
+like Pb²⁺ and Cu²⁺ from aquifers. The main mechanisms of zeolites are adsorption and 
+cation-exchange, where the ions of metals in water are trapped and substituted by ions 
+
+15 
+ 
+that are on the zeolite surface. The combination of their porous crystalline structure, 
+high specific surface area, and strong affinity for divalent metal ions makes zeolites 
+highly efficient in household-scale treatment applications. 
+ 
+2.6 Use of natural zeolite in treatment. 
+Natural zeolites have been the subjects of extensive research owing to their ability to 
+purify water by removing heavy metals and other toxic ions, especially in the case of 
+groundwater contaminated with Pb²⁺ and Cu²⁺. The unique feature of zeolites which 
+contributes to their effective performance is their solid structure of aluminosilicate 
+that has connected micropores where metal ions can be readily adsorbed by cation 
+exchange (Fernandes et al., 2022). Through the use of zeolites as a filtration or 
+adsorption medium, water containing heavy metals can be treated to obtain a very low 
+concentration of these metals due to the large surface area of the zeolite and the very 
+strong affinity of the zeolite for divalent cations. 
+ 
+Zeolites are natural minerals formed from the volcanic eruptions, and their primary 
+location is usually in the cracks and pores of the volcanic rocks. The development of 
+zeolites is associated with the destruction of volcanic glazes, feldspars, and clay 
+minerals under the specific conditions of hydrothermal areas (Fernandes et al., 2022). 
+Although there are more than sixty types of natural zeolite identified across the globe, 
+only a few clinoptilolite, mordenite, chabazite, and heulandite are found in sufficient 
+amount and with the right quality to be applied for water treatment. 
+ 
+
+16 
+ 
+Natural zeolites are, in contrast to synthetic zeolites, more versatile in the sense that 
+they have a wider range of chemical compositions, pore structures, and mineralogies. 
+This variability, however, is a double-edged sword and may sometimes limit their 
+performance to a certain degree. But on the other hand, it is a significant advantage 
+that natural zeolites are much cheaper and easier to obtain than synthetic ones; 
+therefore, they can be used for rural water purification systems and household filtration 
+solutions (Fernandes et al., 2022). Their use in these situations has resulted in a growing 
+interest in their ability to remove toxic metals from drinking water in low-income areas, 
+e.g. Kyabalogo Village. 
+ 
+2.6.1 Adsorption 
+Zeolites have a very large specific surface area and a very large cation-exchange 
+capacity, which allow them to effectively adsorb metal ions that are dissolved in water. 
+Their open framework of three-dimensional pores allows for the presence of a large 
+number of active sites where metal ions with positive charges like Cu²⁺ and Pb²⁺ can be 
+captured and held by means of surface adsorption and ion-exchange processes. Thus, 
+zeolites are appropriate for the removal of heavy metals from groundwater in treatment 
+applications. 
+2.6.2 Ion Exchange 
+Zeolites are crystalline aluminosilicates with negatively charged lattice sites that can 
+exchange their native cations (such as Na⁺, K⁺, Ca²⁺) with dissolved metal ions in water. 
+Through this ion-exchange mechanism, zeolites can selectively remove heavy metals 
+
+17 
+ 
+such as Pb²⁺ and Cu²⁺ by replacing their internal exchangeable ions with the 
+contaminant ions present in the groundwater.  
+2.7 Catalytic Oxidation 
+Zeolites of some types may also show catalytic properties based on the active surface 
+sites and the composition of the framework. Such a catalytic character, in heavy-metal 
+removal, can give a boost to the adsorption process by assisting in the reactions that 
+take place at the surface between the zeolite and the dissolved metal ions. Therefore, 
+the binding strength of the metals like Pb²⁺ and Cu²⁺ onto the zeolite surface may be 
+strengthened which would lead to an increase in the removal efficiency. 
+2.7.1 pH Adjustment 
+At the time of treatment, zeolites have the ability to alter as well as stabilize the pH 
+level of the water that has been contaminated. A suitable pH level must be maintained 
+because the adsorption efficiency of heavy metals, like Pb²⁺ and Cu²⁺, is highly pH-
+dependent. During the adsorption process, zeolites can function as a mild buffering 
+medium, which would generally assist in controlling sudden alterations of pH in the 
+treated water and thus, increase the metal uptake efficiency.  
+2.8 Modification of natural zeolites for use. 
+Natural zeolite modification, a necessary process, comes first in the list of the steps to 
+be taken for improving its power as an adsorbent for heavy metals, like Pb²⁺ and Cu²⁺, 
+in groundwater. Impurities, blocked pores, and a limited number of active sites usually 
+accompany raw zeolite, the presence of which could hinder the latter's adsorption 
+efficiency. Therefore, it is necessary to apply physical and chemical modification 
+
+18 
+ 
+methods not only to increase the surface area and porosity of the zeolite but also to 
+improve its cation-exchange capacity. 
+With acid or base chemicals, one can effectively remove mineral impurities, dissolve 
+carbonates and open up blocked pore channels and thus, enjoy improved ion-exchange 
+performance as well as the higher affinity for metal ions (Fernandes et al., 2022). HCl, 
+for example, acid treatment, can effectively lead to the exposure of more active sites 
+and hence, a better binding of Pb²⁺ and Cu²⁺ ions from water. 
+Furthermore, besides mineral acid treatments, the polarity and surface charge of 
+zeolites have also been changed by using organic surfactants for surface modification. 
+Surfactants, such as quaternary ammonium compounds, form a monolayer on the 
+external surface of zeolite and this, in turn, results in better metal adsorption and 
+interaction with the dissolved contaminants (Fernandes et al., 2022). 
+Thermal activation, salt impregnation, and particle-size reduction are some of the 
+other enhancement techniques that may come under the umbrella of household-scale 
+filtration applications, whereby adsorption kinetics would be improved and, 
+consequently, removal efficiency increased. 
+ 
+ 
+ 
+ 
+ 
+
+19 
+ 
+CHAPTER THREE: METHODOLOGY 
+3.0 Introduction 
+This chapter explains the methods and materials used to achieve the objectives of the 
+research. It contains details of sampling procedures, test methods for key parameters 
+on water, material samples, material preparation and attaining specifications for an 
+efficient household system. 
+The assessment of the removal of heavy metals (Cu and Pb) using natural Zeolites 
+followed a quantitative experimental procedure. From the analysis of collected raw 
+water samples to the design of the treatment system. 
+ 
+Figure 1 : Research design flow chart 
+3.1 Sampling and Sample Storage 
+3.1.1 Area of study 
+The research is focusing on the area Kyabalogo Village, which is located in Nakisunga 
+Sub-County of Mukono District in Central Uganda (approximately at the latitude and 
+longitude coordinates of (0°17′24″N, 32°46′48″E). The research is concentrated on three 
+springs that are situated in the village and are the major sources of groundwater for 
+
+20 
+ 
+the local community's domestic use. Among the three springs, one is well protected but 
+still hazardous for direct human use without prior treatment; the other two springs are 
+not protected which makes them more vulnerable to contamination and hence, the safe 
+drinking water supply for the local community is at risk. 
+ 
+The groundwater from these springs is the main source of water for the local people 
+who consume it for drinking, cooking, cleansing and bathing, irrigation of small areas, 
+etc. The reason for this heavy reliance on springs is that most households cannot afford 
+tap water from the National Water and Sewerage Corporation (NWSC). The unprotected 
+springs are surrounded by humans and their activities—such as washing clothes, bathing, 
+vehicles washing, watering animals, and disposing of household refuse—which definitely 
+raise the contamination risk. Along with this, the nearby agricultural fields contribute 
+to the problem through runoff, fertilizers, and leaching from soils giving rise to heavy 
+metals and other pollutants in the groundwater. 
+ 
+The sampling points were strategically chosen to reflect the differences in exposure: 
+• Spring A (Protected) – Approx. 0°25′05″N, 32°45′10″E, situated upstream in 
+a sheltered area. 
+• Spring B (Unprotected) – Approx. 0°24′58″N, 32°45′20″E, midpoint close to 
+domestic activities. 
+• Spring C (Unprotected) – Approx. 0°24′52″N, 32°45′35″E, downstream, near 
+areas for agricultural and waste disposal. 
+ 
+
+21 
+ 
+The groundwater quality in the village is represented by these springs and also the 
+effectiveness of zeolite-based treatment for heavy-metal removal under household 
+conditions is made possible to be assessed through these springs. 
+ 
+3.1.2 Sampling procedure 
+During a month-long period, water samples from three springs in Kyabalogo Village, 
+Nakisunga Sub-County were collected on three different days: 8th, 15th, and 21st 
+September. The laboratory then received the samples where they were going to 
+conduct heavy metals (Pb²⁺ and Cu²⁺) analysis and assess several other physicochemical 
+parameters. Besides this, the pH, electrical conductivity (EC), total dissolved solids 
+(TDS), and temperature were also measured in situ at each spring during the sampling. 
+ 
+The sampling method was designed according to the WHO (2017) and APHA (2017) 
+standard guidelines for heavy-metal water sampling. The borosilicate glass bottles to 
+be used were conditioned by being washed with 1:1 nitric acid 24 hours before sampling 
+this will remove any contaminants that may be left from the previous use and also 
+protect the metal ions. 
+ 
+The spring water was collected by dipping the bottles into the water at a depth of about 
+20 centimeters, with the mouths angled toward the springs to prevent the intake of any 
+surface debris. To maintain the quality of the samples, nitric acid (1:1) was added 
+immediately after collection until the sample pH fell below 2. The sample was then 
+labeled with the sample number, spring location, date, time, temperature, and pH, 
+
+22 
+ 
+and then kept in a cooling box with ice at 4–8°C for transport to the laboratory. 
+ 
+This systematic sampling allowed for the continuous monitoring of groundwater quality 
+changes and at the same time the reliable evaluation of the zeolite's adsorption 
+capability for heavy metals removal. 
+ 
+ 
+3.2 Objective I: Determination of the Physico-Chemical Characteristics of Raw 
+Groundwater from Three Selected Springs in Kyabalogo Village, Sub-County  
+3.2.1 Introduction 
+The water quality indicators that will be examined in this goal are pH, electrical 
+conductivity (EC), Total Dissolved Solids (TDS), Temperature, and the concentrations 
+of heavy metals (Pb and Cu) in the unprocessed water of the three chosen springs in 
+Kyabalogo village, sub-county. 
+In the case of heavy metal evaluation of unprocessed groundwater, the parameters that 
+are most susceptible to pollution and thus their values will be decreased or increased 
+are pH, electrical conductivity (EC), total dissolved solids (TDS), and the concentrations 
+of the dissolved metals like Pb²⁺ and Cu²⁺. These parameters are very important for 
+the determination of water quality and also play a significant role in the evaluation of 
+the treatment methods, such as zeolite adsorption, (Lu, 2021). 
+3.2.2 Measuring In-situ Parameters 
+At the same time, in-situ trials for the other parameters pH, electrical conductivity 
+(EC), Total Dissolved Solids (TDS), Temperature, etc. were done several times at that 
+location where the sample was taken by a multimeter (Model eXact pH+). The probe of 
+
+23 
+ 
+the multimeter was rinsed with distilled water, and then it was plunged into the sample 
+to ensure that the entire sensor was submerged. The values that were on the screen of 
+the multimeter were allowed to stabilize for 1–2 minutes before reading and recording 
+the values of the respective parameters. 
+ 
+3.2.3 Determining the concentration of (Cu) and (Pb) in the water samples 
+The amounts of Pb²⁺ and Cu²⁺ in the spring water samples collected were determined 
+by Flame Atomic Absorption Spectrometry (FAAS), according to the procedures laid out 
+in APHA 3111B (APHA, 2017). The analyses were carried out after the samples (pH < 2) 
+were very carefully adjusted to the original pH values which had been measured during 
+collection. 
+ 
+Each sample was fed to the spectrometer via a thin tube and subjected to a flame at 
+specific wavelengths for lead and copper. The FAAS device quantified the light 
+absorption by the atoms in the sample, and the software derived the absorbance values 
+to determine the amount of Pb²⁺ and Cu²⁺ in mg/L based on the concentration. This 
+technique allowed for accurate measurement of the heavy metals in the groundwater 
+and at the same time made possible the assessment of the zeolite adsorbent’s 
+effectiveness for the removal of these pollutants. 
+Determining the removal efficiency of natural zeolites in water treatment 
+The study used natural zeolite rocks from Mbale in Eastern Uganda. After mining, the 
+zeolites were cleaned first and then crushed and sieved into different particle sizes 
+before use in adsorption experiment. 
+
+24 
+ 
+  
+ 
+3.3 Objective II: Determination of removal efficiency of Zeolites. 
+3.3.1 Material Preparation 
+The natural zeolite rocks sourced from Mbale in Eastern Uganda were initially subjected 
+to a rigorous washing process with distilled water to eliminate any dirt, dust, and other 
+impurities. The zeolite materials were then subjected to a drying process in the oven 
+at 105°C for 24 hours to evaporate any water present. After the drying process, the 
+zeolite rocks were pulverized and screened to acquire a consistent particle size of 0.6–
+2 mm, which allowed for uniformity in flow and perfect interaction during the 
+adsorption testing of heavy-metal removal from spring water. 
+3.3.2 Preparation and Modification of Zeolite 
+The first natural zeolite rocks were hammered to break them into smaller pieces, after 
+which a manual aggregate crushing machine was used to make them even smaller. The 
+crushed zeolite was later screened to get particle sizes ranging from 0.15 to 0.3 mm. 
+Moreover, in order to eliminate impurities, the washed zeolite was packed in oven-
+dried polythene bags at 70°C for 12 hours and then stored in polythene bags to avoid 
+contamination by dust. 
+To gain higher heavy-metal adsorption, chemical alteration of the zeolite took place. 
+An 800 g amount of prepared zeolite was combined with a 1000 cm³ solution of 
+anhydrous ferric chloride (FeCl₃) in water at the concentration of 21.36 g/dm³ under 
+the temperature of 25°C. The mixture was subjected to stirring for 15 minutes and then 
+
+25 
+ 
+allowed to stand for 24 hours to enable ion exchange properly. Then the modified 
+zeolite was filtered and washed with distilled water until no chloride ions were 
+detected (this was confirmed with the silver nitrate test). After that, the iron(III)-
+modified zeolite was dried at 70°C for 12 hours and stored in sealed polythene bags, 
+which were then placed in a plastic container to shield against contamination 
+(Turyasingura & Kantuntu, 2023). 
+This alteration increases the cation-exchange capacity of the zeolite and its affinities 
+for Pb²⁺ and Cu²⁺, thus making the zeolite more effective for treating household 
+groundwater. 
+            
+            
+ 
+Figure 2 ferric Chloride      Figure 3 sieve analysis    Figure 4 process of sieve analysis  
+3.3.3 Percentage determination for the removal efficiency of Zeolites. 
+The removal efficacy of zeolites was established through the determination of lead (Pb²⁺) 
+and copper (Cu²⁺) concentrations in spring water before and after its treatment. Along 
+with these, pH, electrical conductivity (EC), total dissolved solids (TDS), and temperature 
+were measured, in-situ, to gauge water quality. The treatment outcomes were labeled 
+as Cₑ (effluent concentration) and the starting concentrations in the unprocessed water 
+
+26 
+ 
+as Cᵢ. 
+The zeolite adsorption efficiency (%) is determined through the following formula: 
+Adsorption capacity = 𝐶𝑖−𝐶𝑒 × 100 (Reagan, 2019) 
+A preliminary column experiment was done to investigate the best particle size and 
+packing method for the zeolite to be used in a household-scale filtration system. The 
+columns were placed in containers of a 6 cm diameter (D1, D2, D3) and filled randomly 
+with zeolite of the same particle size (0.6–2 mm), and at the bottom was a small layer of 
+cotton to support the adsorbent and prevent washout. 
+Throughout the experiment, certain volumes of water from the three chosen springs were 
+run through the columns, and samples were taken at the outlet for Pb²⁺ and Cu²⁺ analysis 
+by FAAS. The removal rates of each zeolite column were then compared to find the best-
+performing configuration for heavy-metal adsorption from spring groundwater. 
+3.4 Objective III: Designing an adsorption system 
+The design of the zeolite column adsorption system was based on the average day water 
+requirement of a typical domestic unit in Kyabalogo Village, Nakisunga Sub-County, 
+following the guidelines by the Uganda Water Supply Design Manual (MWE, 2013), the 
+World Health Organization (2020), and the Uganda Bureau of Statistics (2024). 
+ 
+The dimensions of the adsorption column were designed based on the flow rate needed 
+to satisfy the daily water requirement in the household to ensure the required 
+interaction time between the water and the zeolite for effective elimination of the 
+Pb²⁺ and Cu²⁺ ions from the spring water. The design was meant to be suitable for 
+
+27 
+ 
+domestic application and thus made from the natural zeolites available in the country. 
+3.4.1 Design of simple household treatment system. 
+The estimated output of the spring water was expected to fit in the limit of the 
+household zeolite adsorption column design. The best height of the zeolite in the test 
+column was determined to be 30cm through initial experimentation to establish the 
+correct time for the removal of Pb²⁺ and Cu²⁺ ions. 
+The method that was applied in determining the speed of the spring water was a basic 
+timing technique. The bottle was dropped to fall through a known distance of 50m and 
+the time taken to fall through the known distance was recorded three times. The 
+average velocity (v) was then determined by the equation: 
+v = = S/t 
+DISTANCE = S 
+The discharge/flow rate is derived from; 
+ 
+Q= V × A 
+ 
+Where; 
+ 
+v = velocity 
+A = area  
+The values measured above were employed to design the domestic zeolite column in 
+order to provide an optimal contact area for the efficiency of the Pb²⁺ and Cu²⁺ ions 
+while also taking into consideration a reasonable flow rate for domestic applications. 
+
+28 
+ 
+CHAPTER FOUR: RESULTS AND DISCUSSION 
+4.0 Introduction 
+The findings from each objective are presented in this chapter and the corresponding in-depth 
+discussion and analysis that are in line with the scope of the study. 
+Physicochemical properties of raw water sourced from the three springs in KYABALOGO 
+VILLAGE, NAKISUNGA SUB-COUNT 
+The figures in this section depict the average value of the pH, EC (µS/cm), TDS (ppm), and 
+concentrations of the Cu and Pb parameters at each of the sample points based on the 
+description in section 3.1.1. 
+ 
+Table 2: Summary of results 
+PARAMETER 
+UNITS 
+THREE DIFFERENT DAYS  
+         (8th,15th and 21st ) 
+EAS  
+STANDARDS 
+A (n=3) 
+B (n=3) 
+C (n=3) 
+pH 
+6.64 ± 0.49 6.95 ± 0.48 6.24 ± 0.79 
+Electrical 
+Conductivity 
+(EC) 
+µS/cm 57.45±4.52 61.30±9.99 55.65±3.12 
+Total Dissolved 
+Solids (TDS) 
+Ppm 
+39.85±2.00 43.60±5.01 40.25±2.76 
+Lead, Pb 
+mg/L 
+0.006±0.002 0.2±0.06 
+0.20±0.02 
+0.01 MAX 
+Copper, Cu 
+mg/L 
+0.72±0.08 
+1.2±0.28 
+1.2±0.05 
+1.00 MAX 
+ 
+
+29 
+ 
+4.0.1 pH 
+The pH levels of the raw water from the three springs in Kyabalogo Village recorded a slightest 
+variation for the three days of collection (8th, 15th, and 21st September). The pH levels 
+ranged from 6.24 to 6.94, and the pH levels are still within the recommended pH levels for 
+natural potable water in the Uganda Standard US EAS 12:2014 guidelines, where the pH ranges 
+from 5.5 to 9.5. 
+The second sampled day, A (protected spring), recorded the lowest average pH value of 6.24, 
+followed later by the gradual increase in Spring B (6.82), followed again by a slight decrease 
+in Spring C (6.67). All these changes occur due to the natural fluctuating processes in the 
+springs, since the springs are fed by groundwater. 
+ 
+The variation in the pH level, according to Zhang et al. (2021), in the short-term periods is 
+because of changes in rainfall infiltration, interaction of the groundwater with the surface, 
+and biogeochemical reactions in the aquifer. 
+The possible increase in pH in Spring B relatively might be a resultant effect of the activities 
+conducted by the people believed to be the primary cause of the pH rise. The sampling activity 
+period in the area involved observing the number of houses in the area surrounding the spring 
+where people wash, bath, and wash the Jerry Can water nearby in the order listed above. The 
+activity conducted involves the use of domestic detergents and soap that increase the pH 
+levels temporarily when the by-products are discharged into the water in spring sources (Goel 
+and Kaur, 2012). The mean values recorded in point A, B, and C were 6.64 ± 0.49, 6.95 ± 0.48, 
+and 6.24 ± 0.79 respectively, showing an increase in the pH levels from point A to C in the 
+springs studied. 
+
+30 
+ 
+ 
+ 
+Figure 5 : Mean pH values for samples of A, B and C 𝑛 = 3. 
+4.1 Electrical Conductivity (EC)  
+The values for Electrical Conductivity (EC) measured in the three days of sampling also stayed well 
+within the maximum limits allowed by the Uganda Standards US EAS 12:2014, at a maximum of 2500 
+μS/cm for EC in drinking water. The average values measured for EC rose marginally from Spring A 
+(54.87 ± 4.52 μS/cm) to Spring B (57.30 ± 9.99 μS/cm), then marginally fell at Spring C (54.53 ± 3.12 
+μS/cm), but the slight increase recorded at Spring B indicates a natural effect and does not form part 
+of the source water quality impairment. 
+The rise in Spring B is mostly due to human activities surrounding the spring. Various human activities 
+such as washing clothes, bathing, jerry-can washing, and motorbike washing, among other domestic 
+activities, occur directly near the spring site and contribute greywater characterized by the presence 
+of dissolved ions such as phosphates and chlorides present in washing soap and detergent to the spring. 
+Various studies carried out earlier have demonstrated that the presence of such chemical compounds 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+SPRING A
+SPRING B
+SPRING C
+PH
+SPRING SAMPLES
+
+31 
+ 
+in domestic wastewater is responsible for the rise in the electrical conductivity levels in the 
+ spring and ground water sources, as more charged particles are added to the water column (QMUL, 
+n.d.). 
+Overall, in spite of the slight change in the EC values in Spring B, the levels in the other two springs 
+are well below the national standards. This implies that the springs are less affected by the 
+contamination due to salinity and that the slight changes are due to the input of grey water in the 
+area. 
+ 
+Figure 6: Average values of EC for the three sampling springs points A, B and C 
+4.1.1 Total Dissolved Solids (TDS) 
+Total Dissolves Solids (TDS) are those total solids in water that pass through a filter with a 
+pore size of 2.0 μm (APHA, 1999). 
+TDS gives an approximate value of the quality of the groundwater because the total dissolve 
+solids affect the turbidity, taste, and conductivity of the water (APHA, 1999). 
+For naturally occurring groundwaters, TDS values are mostly due to the dissolution of ions such 
+as Ca²⁺, Mg²⁺, Na⁺, K⁺, HCO₃⁻, Cl⁻, and trace levels of ions such as Cu²⁺ and Pb²⁺. 
+
+32 
+ 
+The results of the mean TDS concentrations also validate the stability of the springs, with 
+Spring A registering an average of 39.51 ± 2.00 mg/L, Spring B registering an average of  43.62 
+± 5.06 mg/L, and Spring C registering an average of 41.04 ± 2.77 mg/L. Notably, each average 
+is well within the acceptable limit of the US Environmental Assessment Strategy 12:2014 
+guideline of 1500 mg/L in drinkable water. The minor variations in the concentrations across 
+the springs are understandably a result of the variations in the geology and recharge 
+mechanisms but are instead stable and do not pose any issues of salinity to the water sources 
+ 
+ 
+Figure 7:  Average values for TDS for the three different springs A, B and C 
+4.1.2 Heavy metal concentrations (Cu and Pb) 
+The results of the analysis of the levels of Copper (Cu) and Lead (Pb) released from the 
+sampled springs on the 8th, 15th, and 21st of September clearly indicated the presence of 
+spatial variation across the area studied. The maximum permissible limits of Cu and Pb in 
+drinking water according to the Uganda Standard for Drinking Water Quality US EAS 12:2014 
+are given by 1.0 mg/L and 0.01 mg/L, respectively. 
+
+33 
+ 
+Table 3 : Average Heavy Metal Levels at Sampling Points A, B and C 
+ 
+ 
+ 
+ 
+Heavy Metal 
+ 
+Sampling 
+Point 
+Mean 
+Concentration 
+(𝒎𝒈/𝑳) 
+EAS 
+Standards 
+(𝒎𝒈/𝑳) 
+(MWE, 2020) 
+Pb 
+A, 𝑛 = 3 
+0.006± 0.0008  
+ 
+ 
+ 
+0.O1 
+B, 𝑛 = 3 
+0.22 ± 0.022 
+C, 𝑛 = 3 
+0.21 ± 0.042 
+ 
+ 
+Cu 
+A, 𝑛 = 3 
+0.79 ± 0.10 
+ 
+I.0 
+ 
+B, 𝑛 = 3 
+1.22 ± 0.12 
+C, 𝑛 = 3 
+1.32 ± 0.17 
+ 
+ 
+When taking into consideration the total number of sampling periods, the lowest levels of both 
+metals in Spring A (protected spring) are observed. For the Copper level, the values fluctuated 
+from 0.65 to 0.82 mg/L, while the average value reached 0.73 mg/L, while the Lead ranged 
+from 0.006 to 0.009 mg/L, with a mean of 0.006 mg/L. The average concentration of the 
+analyzed metals is wthin the limits of the safe concentration of drinking water specified by 
+the US EAS 12:2014 standard, indicating that spring A is safe from contamination. Even though 
+the concentration of the heavy metals is not alarming, the fact that they are present suggests 
+
+34 
+ 
+that the ‘protected’ spring is not completely insulated from the effects of environmental 
+factors such as surface runoff.  
+The spring with the highest concentrations of metals came from Spring B. The results in the 
+analysis illustrate that the levels of Copper ranged from 1.10 to 1.30 mg/L while the average 
+value is approximately 1.2 mg/L, and Lead was ranging from 0.20 to 0.24 mg/L with an average 
+of 0.20 mg/L. The concentrations of both Cu and Pb in Spring B and C exceeded the 
+recommended levels for safe drinking water. The substantially high concentrations of the two 
+metals in Spring B could be linked to the uncontrolled human activities taking place in and 
+around the source such as bathing, washing clothes, washing cars/bodas, and drainage from 
+the settlements that form the spring surroundings, thus resulting in the scattering of the 
+metal-containing sediments and dust into the springs. 
+ 
+The Spring C recorded a moderate to high level of metal content characterized by the presence 
+of Copper at a level of 0.99 to 1.34 mg/L (approx. 1.2 mg/L) and Lead at a concentration of 
+0.19 to 0.22 mg/L (approx. 0.20 mg/L). However, this was still lower than the recorded 
+concentrations in Spring B but higher than the permissible levels. The slight drop in the values 
+recorded on the final day might be attributed to dilution and incorrect calibration. The water 
+from the two Springs is also harmful for human consumption but only safe after treatment. 
+
+35 
+ 
+ 
+Figure 8: Average concentration of Copper in Springs A, B and C 
+ 
+Figure 9 : Average concentration of Lead in Springs A, B and C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 DETERMINATION OF PERCENTAGE REMOVAL FOR ZEOLITES. 
+4.2.1 Percentage Removals at different depths  
+PH 
+
+36 
+ 
+The resulting effect on the pH of the spring water samples, following treatment with the natural 
+and modified zeolite beds of varying depths, was a marked increase in pH values due to the 
+chemical composition and interaction of zeolite minerals and the spring water. The 
+exchangeable alkaline earth elements in zeolites include calcium, magnesium, sodium, and 
+potassium, which migrate to the water in the process of ion exchange. The replacement of the 
+hydrogen ions in the water with the weakly alkaline ions resulted in an increase in pH values, 
+an effect that was accelerated by the size of the zeolite bed in contact with the water. 
+The first treatment phase was represented by the sample taken on 8th September, with a pH 
+value of 6.58 ± 0.10. Upon treatment with a 10 cm layer of natural zeolite on 10th October, the 
+pH rose to 6.98 ± 0.12. This is typical for natural zeolite media, whose relatively low number of 
+active binding sites and relatively low surface activity make them less effective than modified 
+zeolites. Also, the short contact time of two minutes in this treatment was a factor in the 
+moderate ion exchange and slight neutralization of the slightly acidic raw water sample. 
+Higher pH increase was recorded in the second stage, where the sample collected on the 15th 
+September (raw pH value of 6.62 ± 0.12) received treatment on the 16th October with a bed of 
+modified zeolite measuring 20 cm in height. The pH of the treated water increased to 7.32 ± 
+0.15, showing a higher buffering capacity. Surface modification is known to improve the ion 
+exchange capacity of zeolite by accentuating the surface functional groups, pore volume, and 
+the availability of active adsorption sites. The deeper bed and the larger contact time of five 
+minutes gave a higher chance of hydrogen ion exchange with the alkaline cations, resulting in 
+higher pH levels than in the natural zeolite sample processed in a shallow bed. 
+The last treatment process, applied to the sample of the 21st September (raw pH of 6.65 ± 
+0.11), performed on the 23rd of October, consisted of a modified zeolite with a bed height of 
+
+37 
+ 
+30 cm and an extended contact time of approximately ten minutes. It produced the highest pH 
+value in the treated solution, averaging 7.52 ± 0.18 at a depth where the higher quantity of 
+zeolite present, along with its larger surface area and longer interaction time with the water, 
+enabled the maximum utilization of the ion-exchange capacity of the modified zeolite. The pH 
+of the resultant effluent shows a considerable neutralization process, resulting in an optimally 
+well-buffered pH suitable for drinking quality. 
+ 
+Figure 10 : Mean pH values for samples of A, B and C at different depths 𝑛 = 3. 
+ 
+ 
+ 
+4.2.2 Electro Conductivity 
+The Electrical Conductivity (EC) of the raw groundwater samples taken from the springs on the 
+8th, 15th, and 21st of September ranged from 54 to 57 μS/cm, with Spring B recording higher 
+amounts because of the grey water discharge from bathing, washing, and motorbike washing 
+practices. The EC value of the water reduced systematically following the treatment process 
+
+38 
+ 
+involving natural and modified zeolite beds of various depths, representing the process where 
+the ions in solution are removed through adsorption and ion exchange processes. The modified 
+zeolite has a high cation exchange capacity, making it capable of removing ions such as Na⁺, 
+Ca²⁺, Mg²⁺, and trace amounts of heavy metals responsible for the conductivity in the water. 
+For the 8th September samples, following treatment on the 10th of October with a 10 cm bed 
+of natural zeolite and a contact period of approximately two minutes, EC reduced slightly from 
+the raw levels (54.9-57.3 µS/cm) to an average treatment value of 50-52 µS/cm. For the 15th 
+September samples, treatment on the 16th of October with a 20 cm bed of modified zeolite and 
+an average contact period of five minutes resulted in a considerable decrease in EC from the 
+raw levels to an average treatment value of 44-47 µS/cm in the springs. The maximum decrease 
+in EC was measured in the 21st September samples treated on the 23rd of October with a 30 cm 
+bed of modified zeolite and an average contact period of ten minutes, resulting in EC values 
+ranging from 40-42 µS/cm. This depicts the highest level of efficiency in the removal of dissolved 
+ions. 
+ 
+Figure 11 : Average values of EC for the three springs at different depths with treated 
+and natural zeolite 

@@ -1,0 +1,1915 @@
+Chapter 1
+Functions
+1.1
+Interval Notation
+In the definitions of Open, closed and Half closed intervals we shall assume that a and b
+are real numbers such that a < b.
+1.1.1
+Open Intervals
+An Open Interval, written in interval notation as (a, b), is defined as the set of all numbers
+x such that a < x < b : where a < b that is x lies between a and b. This can be represented
+in set-builder notation as (a, b) = {x : a < x < b}. The points a and b are themselves not
+included.
+Example 1.1.1
+Express the following open intervals in set-builder notation:
+(a) (2, 4)
+(b) (−1, 3)
+These open intervals can be expressed in set-builder notation as:
+(a) (2, 4) = {x : 2 < x < 4}
+(b) (−1, 3) = {x : −1 < x < 3}
+1.1.2
+Closed Intervals
+A Closed Interval, written in interval notation as [a, b] is defined as the set of all numbers
+x such that a ≤x ≤b. Closed intervals can be represented in set-builder notation as:
+[a, b] = (x : a ≤x ≤b) x lies between and includes a and b.
+Example 1.1.2
+Express the following closed intervals in set builder notation.
+(a) [m, n]
+
+(b) [−1, 3]
+These closed intervals can be expressed in set builder notation as:
+(a) [m, n] = {x : m ≤x ≤n}
+(b) [−1, 3] = {x : −1 ≤x ≤3}
+1.1.3
+Half-open Intervals
+There are two types of half open intervals. The left half open interval (a, b] and the right
+half open interval [a, b).
+The left half open interval is defined as the set of numbers x such that a < x ≤b. This
+can be represented in set-builder notation as
+(a, b] = {x : a < x ≤b}
+where a < b.
+The right half open interval is defined as the set of number x such that a ≤x < b, where
+a < b. This can be represented in set-builder notation as
+[a, b) = {x : a ≤x < b}
+Example 1.1.3
+Express the following half open intervals in set-builder notation.
+(a) (−2, 5]
+(b) [−a, a)
+The half open intervals above can be expressed in set builder notation as:
+(a) (−2, 5] = {x : −2 < x ≤5}
+(b) [−a, a) = {x : −a ≤x < a}
+1.2
+Infinite Intervals
+We have four types of infinite intervals.
+1.2.1
+Open Infinite Intervals
+Let a be a real number. The Open Infinite Interval (a, ∞) is the set of numbers x such that
+a < x < ∞. This is represented in set - builder notation by (a, ∞) = {x : a < x < ∞}.
+This can be displayed on the real line graph by the space between a and infinity but not
+
+including the point a.
+Similarly, the open interval (−∞, a), is the set of numbers x such that ∞< x < a. This
+is represented in set builder notation by (−∞, a) = {x : −∞< x < a). On the real
+line graph, this can be displayed by the space between negative infinity and a, but not
+including a.
+1.2.2
+A closed-infinite interval [a, ∞).
+These are the set of numbers x such that a ≤x < ∞. This is expressed in set-builder
+notation by (a, ∞) = {x : a ≤x < ∞}. This can be displayed on the real line graph by
+the space between a and infinity including the point a.
+1.2.3
+Infinite Half Open Interval (−∞, a].
+This is the set of numbers x such that −∞< x ≤a. This is represented in set-builder
+notation by (−∞, a] = (x : −∞< x ≤a). This can be displayed on the real line graph
+by the space between negative infinity and a including the point a.
+1.2.4
+An Infinite-Infinite Interval (−∞, ∞).
+This is the set of numbers x such that −∞< x < ∞. This is represented in set builder
+notation by (−∞, ∞) = {x : −∞< x < ∞}. This can be displayed on the number line
+by all this points between negative infinity and positive infinity. This represents the entire
+number line.
+Example 1.2.1
+Express the following intervals in set - builder notation.
+(a) (2, 4)
+(b) [2, 4)
+(c) (−4, 3]
+The above intervals can be expressed in set-builder notation as
+(a) (2, 4) = {x : 2 < x < 4}
+(b) [2, 4) = {x : 2 ≤x < 4}
+(c) (−4, 3] = {x : −4 < x ≤3}
+Example 1.2.2
+Write the following sets in interval notation:
+(a) A
+=
+{x : −∞< x < 2}
+(b) B
+=
+{x : −1 < x < 4}
+
+(c) C
+=
+{x : −∞< x ≤3}
+(d) D
+=
+{x : 2 ≤x < ∞}
+These sets can be represented in interval notation as follows:-
+(a) The set of points do not include 2, but continues to the left of 2 up to negative
+infinity, that is (−∞, 2).
+(b) The set of points that lies between −1 and −4, that is, (−1, 4).
+(c) The set of points that includes 3 and continues to the left of 3 up to negative infinity,
+that is, (−∞, 3]
+(d) The set of points that includes 2 and continues to the right of 2 up to infinity that
+is, [2, ∞).
+1.3
+Inequalities
+The inequality a < b means b −a is positive. The inequality a ≤b means that either
+a = b or a < b.
+The second inequality is the most misunderstood by beginning students. Many students
+are quite happy with 3 < 5 but fear 3 ≤5 or 4 ≥4 may be incorrect. All the three
+statements are correct.
+Theorem 1.3.1
+Let x, y, z and c be real numbers. Then
+(i) Exactly one of the following holds: x = y, or x < y or x > y
+(ii) If x < y and y < z, then x < z.
+(iii) If x < y, then x + c < y + c.
+(iv) If x < y and c > 0, then cx < cy.
+(v) If x < y and c < 0, then cx > cy.
+These inequalities are used to solve inequalities.
+Note 1.3.1
+Note that multiplying by a negative number reverses the direction of the
+inequality. The above properties can be proved. Properties (ii) and () are proved for you.
+The other proofs are left as an exercise.
+Example 1.3.1
+Prove that if a < b and b < c then a < c.
+We need to recall that a < b means b −a is positive and b < c means c −b is positive.
+The sum of two positive numbers is a positive number. Thus (b −a) + (c −b) = c −a is
+positive and therefore a < c.
+
+1.3.1
+Solving Inequalities
+The process of finding a solution requires that the inequality be written in a form that
+shows the values of the variable that ascertain the truth of the initial inequality. Inequalities may involve sums differences, products and quotients.
+Example 1.3.2
+Solve the inequality 2x −9 > −3.
+Add +9 to both sides of the inequality.
+2x −9 + 9 > −3 + 9; (using property of inequalities: if a < b then a + c < b + c)
+gives 2x > 6.
+Multiply both sides of the inequality by 1
+2 to obtain the coefficient of x as 1 :
+2 · 2x > 6 · 1
+2; (Using property of inequalities: if a > b and c > 0 then ac > bc) from which
+x > 3.
+Example 1.3.3
+Solve the inequality 2(3 + 2x) −4 > 7x.
+Distribute 2 to eliminate the brackets 6 + 4x −4 > 7x.
+Combine the like terms on the left hand side (LHS) of the inequality. 4x + 2 > 7x
+Add −4x + 4x + 2 > 7x −4x; (property of inequalities: if a > b then a + c > b + c) then
+2 > 3x.
+Multiply by 1
+3 to get a coefficient of x = 1. That is, 2 · 1
+3 > 1
+3 · 3x from which 2
+3 > x.
+Example 1.3.4
+Solve the inequality x2 −7x + 12 > 0. This is a quadratic inequality.
+We find the need to factor the inequality as (x −4)(x −3) > 0. We want the values of x
+that make (x −4)(x −3) positive. Lets look at case 1
+- (both numbers are positive). When (x−4) > 0 and (x−3) > 0. If x−4 > 0 then x > 4.
+If x −3 > 0 then x > 3.
+We choose a solution that satisfies both inequalities. We select
+x > 4
+Case 2: (both numbers negative); (x −4) < 0 and (x −3) < 0.
+If x −4 < 0 then x < 4.
+If x −3 < 0 then x < 3.
+The solution of this case is: All x such that x < 4 and x < 3. Both inequalities will
+be satisfied by x < 3
+From case 1 we have x > 4 and from case 2 we have x < 3. The solution is therefore
+x < 3 or x > 4
+Example 1.3.5
+Solve
+x + 1 < 2.
+
+Multiply both sides of the inequality by (x + 1) to eliminate the fraction. (x + 1) could
+be a positive (x + 1) > 0, or negative that is, (x + 1) < 0 number. We therefore consider
+both cases.
+Case 1: (x + 1) > 0 that is, x > −1.
+Multiply both sides of
+x+1 < 2 by a positive number (x −1) > 0, gives
+<
+2(x + 1)
+<
+2x + 2
+<
+2x
+<
+x
+The solution must satisfy both x > −1 and 1 < x.
+The intersection gives the solution as x > 1.
+Case 2: (x + 1) < 0 that is, x < −1.
+Multiplying both sides of
+x+1 < 2 by a negative number (x + 1) < 0 gives
+>
+2(x + 1)
+>
+2x + 2
+>
+2x
+>
+x
+The solution must satisfy both x < −1 and 1 > x.
+The solution is x < −1. From the case 1 we have the solution x > 1 and in case 2 we have
+the solution x < −1. The whole solution is therefore x > 1 or x < −1.
+Example 1.3.6
+Prove that if a < b then a + c < b + c.
+a < b means b −a is positive. But b −a may be rewritten as (b + c) −(a + c). This is a
+positive number. Hence a + c < b + c.
+Example 1.3.7
+Solve 3 + x < 8.
+Add −3 to both sides of the inequality to obtain x < 5. Therefore the solution set is
+{x ∈R : x < 5} which is the same as (−1, 5).
+Example 1.3.8
+Solve x2 + x + 1 > 7.
+Add −7 to both sides to obtain
+x2 + x −6
+>
+i.e. (x + 3)(x −2)
+>
+But when is a product of two real numbers positive?
+
+(i) (x + 3) > 0 and (x −2) > 0. Then x > −3 and x > 2, implying that x > 2, OR
+(ii) (x + 3) < 0 and (x −2) < 0. Then x < −3 and x < 2, implying x < −3.
+Therefore the solution set of the inequality is the set (−∞, −3) ∪(2, ∞).
+Example 1.3.9
+Solve the problem
+x2 −5x + 4
+x + 2
+< 0
+or
+(x −1)(x −4)
+x + 2
+< 0
+In this case there are several ways in which this inequality could be less than or equal to
+zero. (that is, Negative). These are:
+(i) (x −1) is positive; (x −4) is positive while x + 2 is negative.
+(ii) (x −1) is positive; (x −4) is negative while (x + 2) is positive.
+(iii) (x −1) is negative; (x + 2) is positive while (x + 2) is positive.
+(iv) (x −1) is negative; (x −4) is negative while (x + 2) is negative.
+The solution of this type of inequality involves considering each of the cases (i) to (iv)
+above. The final solution is obtained by combining the results from the cases, that have
+solutions.
+Example 1.3.10
+Solve
+(x −1)(x −4)
+x + 2
+< 0
+Consider Case 1: If
+(positive) (positive)
+(negative)
+Then: (x −1) > 0 [that is, x > 1] and (x −4) > 0 [that is, x > 4] and (x + 2) < 0 [that
+is, x < −2] A number can not simultaneously be greater than 4 and less than −2. There
+is therefore no solution in this case.
+Case 2:
+(positive) (negative)
+(positive)
+
+Then
+(x −1) > 0
+that is, x > 1 and
+(x −4) < 0
+that is, x < 4 and
+(x + 4) > 0
+that is, x > −2
+The solution is 1 < x < 4.
+Case 3: If
+(negative) (positive)
+(Positive)
+.
+Then
+(x −1) < 0
+that is, x < 1 and
+(x −4) > 0
+that is, x > 4 and
+(x + 2) > 0
+that is, x > −2
+The solution must satisfy all these inequalities x < 1; x > 4; x > −2. A number cannot
+be less than one and at the same time greater than 4. There is no solution in this case.
+Case 4: If
+(negative) (negative)
+(negative)
+.
+Then
+(x −1) < 0
+that is, x < 1,
+and
+(x −4) < 0
+that is, x < 4,
+and
+(x + 2) < 0
+that is, x < −2
+The solution that satisfies all inequalities is x < −2.
+The solution of the problem is obtained by combining the cases that produced solutions
+in this case, cases 2 and 4. Therefore the solution is x < −2 or 1 < x < 4.
+Example 1.3.11
+Another group of inequalities are of the form (x3 + 2x2 −3x) > 0 or
+x(x + 3)(x −1) > 0. In this case there are several ways of producing a positive product.
+These could be:
+1. x is positive; (x + 3) is positive and (x −1) positive
+2. x is positive; (x + 3) is negative and (x −1) is negative
+
+3. x is negative; (x + 3) is negative and (x −1) is positive.
+4. x is negative (x + 3) is positive and (x −1) is negative.
+Example 1.3.12
+Solve
+x(x + 3)(x −1) > 0
+Consider case 1: If (positive) (positive) (positive)
+Then x > 0 and (x + 3) > 0 and (x −1) > 0. Hence: x > 0 and x > −3 and x > 1. This
+yields the solution x > 1.
+Case 2: If (positive) (negative) (negative)
+Then x > 0 and (x + 3) < 0 and (x −1) < 0 Hence: x > 0 and x < −3 and x < 1.
+These inequalities have no solution.
+Case 3: If (negative) (negative) (positive)
+Then x < 0 and (x + 3) < 0 and (x −1) > 0 Hence: x < 0 and x > −3 and x > 1
+These inequalities have no solution.
+Case 4: If (negative) (positive) negative)
+Then x < 0 and (x + 3) > 0 and (x −1) < 0 Hence: x < 0 and x > −3 and x < 1. The
+solution is 0 < x < 1 Thus combining the solutions in cases 1 and 2. The solution to the
+problem is x > 1 or −3 < x < 0.
+Example 1.3.13
+(x −1)(x + 2)
+< 0
+Example 1.3.14
+(x + 2)(x −3) > 0
+To be positive, both terms have to be positive,
+> 0
+⇒x > −2 and
+> 0
+⇒x > 3
+x > 3 ≡(3, ∞)
+”Or”, both terms are negative
+< 0
+⇒x < −2 and
+< 0
+⇒x < 3
+x < −2 ≡(−∞, −2)
+Thus the general solution from both options is
+(−∞, −2) ∪(3, ∞)
+
+Example 1.3.15
+Solve the inequality: (x −1)(x −2)(x −5) ≤0
+If one is negative and two are positive, or all negative. If have ≤stick to ≤, and if <,
+stick to < signs.
+(−∞, 1] ∪[2, 5]
+Exercise 1.1
+Solve for x.
+1. 2x + 3 < 9
+2. −4 ≤2(x + 2) < 10
+3. (x −3)(x + 1) < 0
+4. (x + 7)(2x −4) > 0
+5. x2 + x < 0
+6. x2 + x + 7 > 19
+7. x4 −9x2 < 0
+1.4
+Absolute values in calculus
+The absolute value of a real number x is denoted by |x| and is given by
+|x| =
+
+x ,
+x ≥0
+−x ,
+x < 0
+The absolute value of a real number x is a measure of how far the real number x is from
+0, the origin of the number line. For this reason it is always a positive quantity and
+sometimes it is referred to as the magnitude of the number. Alternatively, the absolute
+value of x may be defined as |x| =
+√
+x2. (Note that √x stands for the positive square
+root of x). The distance between two real numbers a and b is the number |a−b| = |b−a|.
+Example 1.4.1
+Simplify the norm (abolute value) |x −5|
+|x −5| =
+
+
+
+(x −5) ,
+x ≥5
+−(x −5) ,
+x < 5
+Example 1.4.2
+Solve the inequality |x + 3| = 4. We know that
+|x + 3| =
+
+
+
+(x + 3) ,
+x ≥−3
+−(x + 3) ,
+x + 3 = 4, ⇒x = 1 or −(x + 3) = 4, ⇒x = −7
+Theorem 1.4.1 The inequality |x| ≤a is equivalent to the double inequality −a ≤x ≤a.
+The inequality |y| ≥b holds for y ≤−b or y ≥b.
+
+Theorem 1.4.2
+For any real numbers x and y,
+(a) |x| ≥0,
+(b) |xy| = |x||y|,
+(c) |x + y| ≤|x| + |y|.
+Note 1.4.1
+Think of absolute as in two parts.
+Example 1.4.3
+Method I:
+⇒
+−3 < x + 2 < 3
+x + 2 < 3
+⇒
+x < 1
+x + 2 > −3
+⇒
+x > −5
+x ∈(−5, 1)
+Method II: Splitting the absolute into two, this is the more general one, and more reliable.
+:
+x ≥−2
+<
+−(x + 2)
+:
+x < −2
+(x + 2) < 3
+⇒
+x < 1
+−(x + 2) < 3
+⇒
+x > −5
+x ∈(−5, 1)
+Example 1.4.4
+|2x + 3| ≥8
+Splitting the absolute into two for |x + 2| ≥8
+(2x + 3)
+:
+x ≥−3
+≥
+−(2x + 3)
+:
+
+(2x + 3) ≥8
+⇒
+x ≥5
+−(2x + 3) ≥8
+⇒
+x ≤−11
+
+−∞, −11
+
+∪
+5
+2, ∞
+
+Example 1.4.5
+| −2x −4| ≥9
+
+−∞, −13
+
+∪
+5
+2, ∞
+
+Example 1.4.6
+x + 2 < |x2 −4|
+This can be rewritten as |x2 −4| > x + 2
+Splitting the absolute into two for |x2 −4| > x + 2
+(x2 −4)
+x + 2
+:
+x ∈(−∞, −2] ∪[2, ∞)
+>
+−(x2 −4)
+x + 2
+:
+x ∈(−2, 2)
+(x2 −4) > x + 2
+⇒
+x2 −x −6 > 0
+⇒
+(x + 2)(x −3) > 0
+⇒
+(−∞, −2) ∪(3, ∞)
+−(x2 −4) > x + 2
+⇒
+x2 + x −2 < 0
+⇒
+(x + 1)(x −2) < 0
+⇒
+(−1, 2)
+[(−∞, −2] ∪[2, ∞) ∩(−∞, −3) ∪(3, ∞)]
+or
+[(−2, 2) ∩(−1, 2)]
+⇒
+(−∞, −2) ∪(−1, 2) ∪(3, ∞)
+Example 1.4.7
+4|2x −1| −2 = 10
+4|2x −1| −2
+=
+4|2x −1|
+=
+|2x −1|
+=
+
+Splitting the absolute into two for |2x −1| = 3
+(2x −1)
+:
+x ≥1
+=
+−(2x −1)
+:
+x < 1
+(2x −1) = 3
+⇒
+x = 2
+−(2x −1) = 3
+⇒
+x = −1
+x = −1, x = 2
+Example 1.4.8
+Solve for the inequality
+|3x + 1| < 2|x −6|
+Whenever we have absolutes, we represent it as into two parts,
+(3x + 1)x≥−1
+2(x −6)x≥6
+<
+−(3x + 1)x<−1
+−2(x −6)x<6
+Taking all possible combinations of the terms,
+[(3x + 1)] < [2(x −6)]
+⇒x < −13 : for region x ≥6 ⇒no solution
+[(3x + 1)] < [−2(x −6)]
+⇒x < 11
+: in region x ∈[−1
+3, 6) ⇒x ∈
+
+−1
+3, 11
+
+[−(3x + 1)] < [2(x −6)]
+⇒x > 11
+: in no region
+⇒no solution
+[−(3x + 1)] < [−2(x −6)]
+⇒x > −13 : (for region) x < −1
+⇒x ∈
+
+−13, −1
+
+x ∈
+
+−1
+3, 11
+
+∪
+
+−13, −1
+
+Example 1.4.9
+|x −2| + |x + 5| ≤0
+
+Splitting the absolutes into two for;
+(x −2)x≥2
+(x + 5)x≥−5
++
+≤0
+−(x −2)x<2
+−(x + 5)x<−5
+Taking all possible combinations of the terms,
+[(x −2)] + [(x + 5)]
+≤0
+⇒x ≤−3
+2 : in region x ≥2 ⇒no solution
+[(x −2)] + [−(x + 5)]
+≤0
+⇒no solution : in no region ⇒no solution
+[−(x −2)] + [(x + 5)]
+≤0
+⇒no solution : in region x ∈[−5, 2) ⇒no solution
+[−(x −2)] + [−(x + 5)]
+≤0
+⇒x ≥−3
+2 : in region (for) x < −5 ⇒no solution
+No solution for the problem above.
+Example 1.4.10
+|2x −2| = x + 1
+x = 3, x = 1
+Example 1.4.11
+Solve for|x −5| ≤2
+|x −5| =
+
+
+
+(x −5) ,
+x ≥5
+−(x −5) ,
+x < 5
+(i) (x −5) ≤2 and x ≥5,
+⇒
+x ≤7 and x ≥5, ⇒
+5 ≤x ≤7
+(ii) −(x −5) ≤2 and x < 5,
+⇒
+x ≥3 and x < 5, ⇒
+3 ≤x ≤4
+(iii) Form (i) and also (ii) (the union), we realise 3 ≤x ≤7
+Alternatively, |x−5| ≤2 ⇒
+−2 ≤(x−5) ≤2 ⇒
+3 ≤x ≤7 by adding a 5 everywhere
+Example 1.4.12
+Solve for|x + 3| ≤4
+|x + 3| =
+
+
+
+(x + 3) ,
+x ≥−3
+−(x + 3) ,
+
+(i) (x + 3) ≤4 and x ≥−3,
+⇒
+x ≤1 and x ≥−3, ⇒
+−3 ≤x ≤1
+(ii) −(x + 3) ≤4 and x < −3,
+⇒
+x ≥−7 and x < −3, ⇒
+−7 ≤x < −3
+(iii) Form (i) and also (ii) (the union), we realise −7 ≤x ≤1
+Alternatively, |x + 3| ≤4
+⇒
+−4 ≤(x + 3) ≤4
+−7 ≤x ≤1
+Example 1.4.13
+Solve |3 −2x| ≥1.
+|3 −2x| =
+
+
+
+(3 −2x) ,
+x ≤3
+−(3 −2x) ,
+x > 3
+(i) (3 −2x) ≥1 and x ≤3
+2,
+⇒
+x ≤1 and x ≤3
+2, ⇒
+x ≤1
+(ii) −(3 −2x) ≥1 and x < 3
+2,
+⇒
+x ≥2 and x > 3
+2,
+⇒
+x ≥2
+(iii) Form (i) and also (ii) (the union), we realise x ∈(−∞, 1] ∪[2, ∞)
+Alternatively, Either 3 −2x ≥1 or 3 −2x ≤−1. That is, either x ≤1 or x ≥2.
+x ∈(−∞, 1] ∪[2, ∞)
+Example 1.4.14
+Solve |2x + 3| < 6
+−9
+2 < x < 3
+Example 1.4.15
+Solve |2x −3| > 5.
+x < −1 or x > 4
+Example 1.4.16
+Find the absolute-value inequality statement that corresponds to the
+inequality
+−2 < x < 4
+I first look at the endpoints. Negative two and four are six units apart. Half of six is
+three. So I want to adjust this inequality so that it relates to −3 and 3, instead of to −2
+and 4. To accomplish this, I will adjust the ends by subtracting 1 from all three ”sides”:
+−2 < x < 4
+−2 −1 < x −1 < 4 −1
+−3 < x −1 < 3
+Since the last line above is in the ”less than” format, the absolute-value inequality will
+be of the form ”absolute value of something is less than 3”. I can convert this nicely to
+|x −1| < 3
+
+Example 1.4.17
+Find the absolute-value inequality statement that corresponds to the
+inequalities
+x < 19 or x > 24
+I first look at the endpoints. Nineteen and 24 are five units apart. Half of five is 2.5. So
+I want to adjust the inequality so it relates to −2.5 and 2.5, instead of relating to 19 and
+24. Since 19 −(−2.5) = 21.5 and 24 −2.5 = 21.5, I need to subtract 21.5 all around:
+x < 19 or x > 24
+x −21.5 < 19 −21.5 or x −21.5 > 24 −21.5
+x −21.5 < −2.5 or x −21.5 > 2.5
+Since the last line above is the ”greater than” format, the absolute-value inequality will
+be of the form ”absolute value of something is greater than or equal to 2.5”. I can convert
+this nicely to:
+|x −21.5| > 2.5
+Exercise 1.2
+Solve for x in the following:
+1. 2x + 7 > 4x −5
+2. −4 ≤2(x + 2) < 12
+3. (x + 8)(4x −6) > 0
+4. x2 + x < 0
+5. |x −8| = 2
+6. |x + 4| −|x −1| < 4
+7. |x + 2| + |x −5| ≥10.
+1.4.1
+Sketching absolute functions
+Example 1.4.18
+f(x) = |x + 2|x2
+|x|
+Now its not only one point to think of, but now both x = −2 and x = 0. We need to
+have different functions for
+x < −2
+−2 ≤x ≤0
+x > 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−(x+2)x2
+−(x)
+,
+if x < −2
+(x+2)x2
+−(x) ,
+if
+−2 ≤x ≤0
+(x+2)x2
+(x)
+,
+if x > 0
+
+and sketch those function in the different ranges.
+Example 1.4.19
+Sketch the graph
+f(x) = |x −2||x −4|
+Example 1.4.20
+Graph the function
+f(x) = x (|4x −3| −|x + 6| + |x|)
+3|x|
+Hence or otherwise, solve the inequality
+x (|4x −3| −|x + 6| + |x|)
+3|x|
+> 0
+Example 1.4.21
+Let
+g(x) =
+
+
+
+x + 2 ,
+x ≥0
+x −2 ,
+x < 0
+Sketch the graph of g(x).
+Figure 1.1: A piecewise function sketch
+Does lim
+x→0 g(x) exist? Justify your answer.
+
+1.5
+Functions
+Definition 1.5.1
+A function is a set of ordered pairs of elements such that not two ordered pairs of a set have the same first element.
+Functions can be considered as mappings. A function is a special kind of relation in which
+all ordered pairs have unique first elements. Every element of the first set is assigned to
+an element of the second set. Usually subsets of the set of real numbers R are considered.
+A function involves two sets and a rule of correspondence between them. The rule of
+correspondence specifies how to pair the elements of the one set with those in the other.
+A function is a relation in which for each member of the first set there is a single corresponding member of the second set. A rule exists between two quantities.
+A function has to satisfy The Vertical Line Test.
+1.5.1
+Domain and Range as a set of Ordered Pairs.
+The domain (D) is the set of all values that the first elements, in the ordered pair can
+take. The Range (R) is the set of all values that the second elements, in the ordered pair,
+can take.
+Example 1.5.1
+The following table defines a function.
+x
+−3
+y
+−2
+(a) List the ordered pairs of the function
+(b) State the domain of the function
+(c) State the range of the function
+(a) The ordered pairs of the function are: (−3, −2); (5, 8); (6, 9)and(7, 5).
+(b) The Domain are the set of the first elements of the ordered pairs. D = {−3, 5, 6, 7}
+(c) The Range are the set of the second elements of the ordered pairs. R = {−2, 8, 9, 5}
+Example 1.5.2 State the domain and range of the function f = {(−2, 4)(−1, 4)(0, 4)(2, 4)}
+The Domain D = {−2, −1, 0, 2}, are the first elements in the ordered pairs. The Range
+R = {4}, is the second element in the ordered pairs.
+
+Example 1.5.3
+A mapping defined by
+{(−1, 2),
+(4, 6),
+(5, 0),
+(4, 3)}
+is not a function, since the first element 4 appears twice (more than once).
+Note 1.5.1
+A function can be given in the form of ordered pairs such as
+{(−1, 1),
+(4, 11),
+(5, 13),
+(1, 5)}
+or by a formula i.e f(x) = 2x + 3
+Definition 1.5.2 The domain of a function is the set of ”input” or argument values for
+which the function is defined. That is, the function provides an ”output” or ”value” for
+each member of the domain.
+Definition 1.5.3
+The range is the codomain or the image of the function
+Example 1.5.4
+y = (x2 + x −2)
+(x2 −x −2)
+The domain is all the values that x is allowed to take on. The only problem I have with
+this function is that I need to be careful not to divide by zero. So the only values that x
+can not take on are those which would cause division by zero. So I’ll set the denominator
+equal to zero and solve; my domain will be everything else.
+x2 −x −2
+=
+(x −2)(x + 1)
+=
+x = 2 or x = −1
+Then the domain is ”all x not equal to −1 or 2”.
+Since the graph will eventually cover all possible values of y, then the range is ”all real
+numbers”.
+Example 1.5.5
+y = −
+√
+−2x + 3
+The domain is all values that x can take on. The only problem I have with this function
+is that I cannot have a negative inside the square root. So I’ll set the insides greaterthan-or-equal-to zero, and solve. The result will be my domain:
+−2x + 3
+≥
+−2x
+≥
+−3
+2x
+≤
+x
+≤
+2 = 1.5
+
+Then the domain is ”all x ≤3
+2”.
+The range requires a graph. I need to be careful when graphing radicals:The range is
+”y < 0”.
+Example 1.5.6
+y = −x4 + 4
+This is just a garden-variety polynomial. There are no denominators (so no division-byzero problems) and no radicals (so no square-root-of-a-negative problems). There are no
+problems with a polynomial. There are no values that I can’t plug in for x. When I have
+a polynomial, the answer is always that the domain is ”all x”.
+The range will vary from polynomial to polynomial, and they probably won’t even ask,
+but when they do, I look at the picture: The graph goes only as high as y = 4, but it will
+go as high as I like. Then: The range is ”all y ≥4”.
+Example 1.5.7
+Find the domain of function f defined by
+(x −1)
+The domain x is such that x ̸= 1, that is
+x ∈(−∞, 1) ∪(1, +∞)
+Example 1.5.8
+what is the domain of the function
+√
+x2 −1 ?
+Well, what could go wrong here? No division is indicated at all, so there is no risk of
+dividing by 0. But we are taking a square root, so we must insist that x2 −1 ≥0 to avoid
+having complex numbers come up. That is, a preliminary description of the ‘domain’ of
+this function is that it is the set of real numbers x so that x2 −1 ≥0.
+But we can be clearer than this: we know how to solve such inequalities. Often it’s
+simplest to see what to exclude rather than include: here we want to exclude from the
+domain any numbers x so that x2 −1 < 0 from the domain.
+We recognize that we can factor
+x2 −1 = (x −1)(x + 1) = (x −1) (x −(−1))
+This is negative exactly on the interval (−1, 1), so this is the interval we must prohibit in
+order to have just the domain of the function. That is, the domain is the union of two
+intervals:
+(−∞, −1] ∪[1, +∞)
+
+Exercise 1.3
+x −2
+x2 + x −2
+That is, find the largest subset of the real line on which this formula can be evaluated
+meaningfully.
+Exercise 1.4
+x −2
+√
+x2 + x −2
+Exercise 1.5
+p
+x(x −1)(x + 1)
+Example 1.5.9
+Compute the domain of the fuction
+|x −3.2| + |x −5.2| = 2
+Note 1.5.2
+The domain is where the function lives (are the x values), and the range is
+what the function can be (is the f(x)). To get domain, make sure the denominator is not
+equal to zero, and cannot have a square root of a negative number.
+Example 1.5.10
+Find the domain and range of the following function
+(i)
+x2 −1
+x2 −1 =
+(x −1)(x + 1)
+so function defined every where otherthan at x = 1 and x = −1. Thus the domain,
+Df = R −{−1, 1}, the domain are all possible solutions, which is all numbers, i.e
+Rf = R
+(ii) f(x) = √x −4, We know that we want only positive entries in the square root sign,
+that is, x −4 ≥0, meaning the domain is only values of x, such that x ≥4
+(iii) Find the domain of
+√
+x2 −1
+(−∞, −1) ∪(1, +∞)
+
+(iv)
+r
+2x
+x + 2
+This is just a mix of the two conditions, make sure you dont have zero below, and
+no negative numbers in the square root. That is x ̸= −2, and
+2x
+x−2 ≥0, x ≥−2
+Example 1.5.11
+Find the domain and range of the function
+s
+x(x −2)
+(4 −3x)(6 −2x)
+The domain is
+x ̸= 4
+3, x ̸= 3,
+x(x −2)
+(4 −3x)(6 −2x) ≥0
+The range is R
+Example 1.5.12
+Find the range of values of the given function
+f(x) = x
+|x|
+if x ̸= 0 while f(0) = 0
+Example 1.5.13
+Let
+f(x)
+=
+7x
+x2 −16
+g(x)
+=
+√x
+Find (fog) (x) and give its domain.
+7√x
+x −16 ,
+Domain := R+ −16
+
+1.5.2
+Function Notation
+The notation f(x) represents the second element in the ordered pair that has x as its first
+element. This ordered pair can be represented as (x, f(x)). We read f(x) as ”f of x” or
+”f at x” since f(x) gives the value of f at x. This relation can also be represented as:
+x ⇒f(x)
+Often we replace f(x) by y, also called the dependent variable, and write y = f(x). With
+this notation, x is called the independent variable. For example f(x) = 3x + 2 may be
+written as y = 3x + 2.
+1.5.3
+Evaluation of Functions
+The evaluation of a function is illustrated by examples.
+A rule describing a function
+can be represented by an equation or formula, a table or a graph, which are recorded as
+ordered pairs. The evaluation of a function is to find a number that is paired with a given
+number.
+Example 1.5.14 To evaluate the function f(x) = 3x + 2 at x = 2, we need the number
+f(2). Since f(x) = 3x + 2, replace x by 2 in the expression for the function and simplify.
+Thus f(2) = 3 × 2 + 2 = 6 + 2 = 8. Therefore the ordered pair is (2, 8). We write f(2) = 8
+or 2 →8. This is the y value in the expression by y = 3x + 2 when x = 2.
+Example 1.5.15
+Let f(x) = x2 + 6x + 2 Find the value of
+(a) f(0)
+(b) f(−2)
+(c) f(1)
+(d) f(x + 1)
+(e) f(n −2)
+(a) f(0) = 02 + 6(0) + 2 = 2. Thus 0 →2 or as an ordered pair, (0, 2).
+(b) f(−2) = (−2)2 + 6(−2) + 2 = −6. Thus −2 →−6 or as an ordered pair, (−2, −6).
+(c) f(1) = 12 + 6(1) + 2 = 9. Thus 1 →9 or as an ordered pair, (1, 9).
+(d)
+f(x + 1)
+=
+(x + 1)2 + 6(x + 1) + 2
+=
+(x2 + 2x + 1 + 6x + 6 + 2)
+=
+x2 + 8x + 9.
+Thus (x + 1) →x2 + 8x + 9 or as an ordered pair, ((x + 1), (x2 + 8x + 9)).
+
+(e)
+f(n −2)
+=
+(n −2)2 + 6(n −2) + 2
+=
+n2 −4n + 4 + 6n −12 + 2
+=
+n2 + 2n −6 or as an ordered pair, ((n −2), (n2 + 2n −6)
+Thus (n −2) →n2 + 2n −6
+Example 1.5.16
+Let f(x) = 2x2 −1. Let h > 0. Find the value of f(x+h)−f(x)
+h
+.
+f(x + h)
+=
+2(x + h)2 −1
+=
+2(x2 + 2hx + h2) −1
+=
+2x2 + 2hx + 2h2 −1
+f(x + h) −f(x)
+=
+(2x2 + 4hx + 2h2 −1) −(2x2 −1)
+=
+4hx + 2h2
+Therefore,
+f(x + h) −f(x)
+h
+=
+4hx + 2h2
+h
+=
+4x + 2h
+Example 1.5.17
+Given the function f(x) = 2x + 3 and a = 2. Compute and simplify
+the value of f(x)−f(a)
+x−a
+, with x ̸= a
+Since f(x) = 2x + 3 and a = 2, f(a) = f(2) = 7. In addition (x −a) = (x −2) and
+therefore
+f(x) −f(a)
+x −a
+= 2x + 3 −7
+x −2
+= 2x −4
+x −2 = 2(x −2)
+(x −2) = 2
+
+1.6
+Types of functions
+1.6.1
+Equal Functions
+Let f1(x) and f2(x) be functions that are defined on the same domain, D. If for each
+element x of D, f1(x) = f2(x), then the two functions are equal and we write f1(x) = f2(x).
+Two functions f1(x) and f2(x) are equal if and only if f1(x) and f2(x) have the same
+domains and f1(x) = f2(x) for all x in this common domain.
+Example 1.6.1
+Prove that the functions:
+(a) f1(x) = 2x + 1 and f2(x) = 4x
+2 + 1 are equal, where the domain for both functions
+is the set of real numbers R.
+(b) f1(x) = sin x and f2(x) = cos
+  π
+2 −x
+
+are equal, where the domain of for both
+functions is the set of real numbers.
+(a) Let a be a real number. Then f1(a) = 2a+1 = 4
+2a+1 = 4a
+2 +1 = f2(a). Since a was
+arbitrary, f1(x) = f2(x)for all real numbers. The two functions are therefore equal.
+(b) Let a be a real number. Then f2(a) = cos
+
+π
+2 −a
+
+= cos
+
+π
+
+cos a+sin
+
+π
+
+sin a =
+0 × cos a + 1 × sin a = sin a. Here we have used the fact that cos
+
+π
+
+= 0 and
+sin
+
+π
+
+= 1.
+1.6.2
+Identity Function
+A function f that associates each member of the domain with itself is called the identity
+function. The identity function is defined by the equation f : x →x or f(x) = x. The
+domain and the range of the identity function is the set of real numbers.
+The identity function is a special kind of one-to-one and onto function.
+1.6.3
+Constant Function
+A function f that associates each real number in a set A the same fixed number k in
+the set B is called a constant function. The constant function is defined by the formula
+f : x →k :
+f(x) = k(a single fixed number).
+
+1.6.4
+One-to-One Function
+If f is a function of A into B is said to be one-to-one (1 −1) if no two elements of A
+correspond to the same element in B. Each element of the domain has a different image
+in the Range.
+A function is one-to-one if and only if each element in the domain is mapped into a unique
+element of the co-domain (range).
+A one to one function is a function in which every element in the range of the function
+corresponds with one and only one element in the domain.
+For a 1 −1 function, If x1 ̸= x2 then f(x1) ̸= f(x2)
+Example 1.6.2
+If f(a) = f(b) implies that a = b, then f is 1 −1, show whether or not
+g(x) = 3x −2 is one-on-one?
+see if g(a)
+=
+g(b) implies a = b
+3a −2
+=
+3b −2
+3a
+=
+3b
+a
+=
+b
+Thus g is 1 −1.
+Example 1.6.3
+The function f : R →R defined by f(x) = 2x + 1 is injective.
+Example 1.6.4
+The function g : R →R defined by g(x) = x2 is not injective, because
+(for example) g(1) = 1 = g(−1). However, if g is redefined so that its domain is the
+non-negative real numbers [0, +∞), then g is injective.
+A one-to-one function is one in which each x has only one y and each y has at most one
+x to form ordered pairs.
+Example 1.6.5
+Let the function f : R →R be defined by the equation f(x) = 3x + 2
+where R is the set of real numbers. Each real number will be mapped onto a unique image
+by the function f(x) = 3x + 2. Hence f is a one-to-one function.
+Example 1.6.6
+Let the function f : R →R be defined by the formula f(x) = 3x2 + 2
+Verify whether or not f is a one-to-one function.
+The negative values of R are mapped onto the same elements as the corresponding positive
+elements. For example, when x = −2, f(−2) = 14 and f(2) = 14. The images of two real
+numbers −2 and 2 are the same number equal to 14. It follows that f is NOT a one-to-one
+function.
+Definition 1.6.1
+A one to one function is also called an injective function.
+
+Example 1.6.7
+Which functions below are one to one ?
+Function #1 {(2, 27), (3, 28), (4, 29), (5, 30)}
+Function #2 {(11, 14), (12, 14), (16, 7), (18, 13)}
+Function #3 {(3, 12), (4, 13), (6, 14), (8, 1)}
+Relation #1 and Relation #3 are both one-to-one functions.
+Example 1.6.8
+A diagramatical example of 1 −1
+"One-to-One"
+r
+h o
+q
+A
+B
+NOT "One-to-One"
+Figure 1.2: 1-1 and not 1-1 respectively
+Theorem 1.6.1 The Horizontal Line Test: If a function is one to one, then the function
+not only passes the vertical line test, but it also passes the horizontal line test.
+Definition 1.6.2 The Horizontal Line Test : If a horizontal line only intersects with the
+graph of a function once, then this function is one-to-one. If a horizontal line intersects
+the graph of the function more than once, then this function is not one to one.
+Passes the test (injective)
+Fail the test (not injective)
+Figure 1.3: A 1-1 and not 1-1 by Horizontal test
+Example 1.6.9
+Which functions below are one to one ?
+Function #1 {(2, 1), (4, 5), (6, 7), (8, 9)}, Function #2 {(3, 4), (8, 5), (6, 7), (22, 4)}
+Function #3 {(−3, 4), (21, −5), (0, 0), (8, 9)}, Function #4 {(9, 19), (34, 5), (6, 17), (8, 19)}
+Relation #1 and Relation #3 are both one-to-one functions.
+
+1.6.5
+Many-to-One Function
+If f is a relation of A into B. If more than one element of A is mapped into the same
+element of B then f is a many-to-one function.
+1.6.6
+Onto-Functions
+If f is a function of A into B. Sometimes the range, f(A) does not exhaust all the elements
+of the set B called the co-domain. The range is therefore a subset of the co-domain. If
+each member of the co-domain is an image of at least one member of A then f is a function
+of A ONTO B and is therefore an onto function.
+Definition 1.6.3
+A function f from A to B is called onto if for all b in B there is an a
+in A such that f(a) = b. All elements in B are used. Such functions are referred to as
+surjective.
+r
+h
+q
+A
+B
+NOT "Onto"
+(the 8 and 1 in Set B are not used)
+r
+h o
+q
+A
+B
+"Onto"
+(all elements in B are used)
+Figure 1.4: An ”onto” and ”Not onto” functions
+A function is said to be onto if all in range is an image (is a result of the transformation
+- mapping)
+Example 1.6.10 Is f(x) = 3x −4 onto where f : R →R?
+The function is onto; as you progress along
+the line, every possible y-value is used.
+Figure 1.5: An onto function
+Example 1.6.11 Is g(x) = x2 −2 onto where g : R →R??
+
+Not onto; Values less than -2 on the y-axis are never
+used. Since possible y-values belong to the set of ALL
+Real numbers, not ALL possible y-values are used.
+Figure 1.6: A Not onto function
+1.6.7
+Bijective Function
+A Bijective, is a function that is both 1 −1 and onto.
+Example 1.6.12
+Example (1.6.10) is 1 −1 and Surjective, thus Bijective.
+Example 1.6.13
+Example (1.6.11) is not 1 −1 and not ”onto”
+Definition 1.6.4
+Bijections are functions that are both injective and surjective.
+Example 1.6.14
+Let f : [0, ∞) →[0, ∞) be defined by f(x) = √x. This function is an
+injection and a surjection and so it is also a bijection.
+Example 1.6.15
+Describe the four functions below as injective, onto or bijective.
+Figure 1.7: Mixed functions
+(i) the function is neither injective nor surjective.
+(ii) is a surjection, but not an injection
+
+(iii) is an injection, but not a surjection.
+(iv) is both a surjection and an injection, and therefore a bijection.
+Example 1.6.16 Prove that the function f : N →N be defined by f(n) = n2 is injective.
+Proof: Let a, b ∈N be such that f(a) = f(b). This implies a2 = b2 by the definition of f.
+Thus a = b or a = −b. Since the domain of f is the set of natural numbers (positive
+integers), both a and b must be non-negative. Thus a = b. This shows
+∀a, ∀b, [f(a) = f(b) ⇒a = b]
+which shows f is injective.
+Example 1.6.17 Prove that the function g : N →N, defined by g(n) = n
+3, is surjective.
+Proof: Let n ∈N. Notice that g(3n) = 3n
+3 = n.
+Since 3n ∈N, this shows n is in the range of g. Hence g is surjective.
+Example 1.6.18
+Prove that the function g : N →N, defined by g(n) = 0, is not
+injective.
+Proof: The numbers 1 and 2 are in the domain of g and are not equal, but g(1) = g(2) = 0.
+Thus g is not injective.
+Example 1.6.19
+Prove that the function f : N →N be defined by f(n) = n2, is not
+surjective.
+Proof: The number 3 is an element of the codomain, N. However, 3 is not the square of
+any integer. Therefore, there is no element of the domain that maps to the number 3, so
+f is not surjective.
+1.6.8
+Even Functions
+A function f is called an even function if it maps the negative of x in the domain to the
+same image as x. This can be defined as f(−x) = f(x) for all x in the domain.
+Example 1.6.20
+The function f(x) = x2 + 2 is even since
+f(−x) = (−x)2 + 2 = x2 + 2 = f(x)
+
+1.6.9
+Odd Functions
+A function f is called an Odd function if it maps the negative of x to the negative of f(x)
+for all x in the domain. That is, if f(−x) = −f(x).
+Example 1.6.21
+The function f(x) = x3 + x is odd since
+f(−x) = (−x)3 + (−x) = −x3 −x = −(x3 + x) = −f(x)
+Example 1.6.22 Determine whether the function f(x) = x2 −x is even, odd or neither.
+f(−x)
+=
+(−x)2 −(−x)
+=
+x2 + x
+f(−x) is neither equal to f(x) nor equal to −f(x). Therefore the function f is neither
+even nor odd.
+Example 1.6.23
+The function f(x) = x2 is even, g(x) = x3 is an odd function but
+h(x) = x + 1 is neither odd nor even.
+1.6.10
+Inverse of functions
+An inverse of a relation that satisfies the definition of a function is called an inverse
+function.
+The inverse of a function f is denoted by f −1.
+Note 1.6.1
+An inverse exists if the function is one-to-one and onto.
+Let A and B be any sets and f be a function from A into B, that is, f : A →B. The
+inverse function maps elements in B into those in A, that is f −1 : B →A. The domain
+of the function f is the range of f −1 and the range of f is the domain of f −1.
+Definition 1.6.5
+Suppose f : A →B is a bijection. Then the inverse of f, denoted
+f −1 : B →A
+is the function defined by the rule
+f −1(y) = x if and only if f(x) = y
+Finding the Inverse Function
+If we are given a function that is one-to-one and onto then we can find its inverse. If a
+relation is defined by an equation, the inverse can be obtained by
+1. interchanging x and y in the equation,
+
+2. solving the new equation with y as the subject of the equation, that is, y = ... and
+3. replacing y by f −1(x).
+This gives the inverse function.
+Example 1.6.24
+Find the inverse of the function f(x) = 2x + 4 if it exists.
+This function is surely one-to-one and onto (verify this). It is therefore possible to find
+its inverse. The function f(x) = 2x + 4 can be written as y = 2x + 4. Now, interchanging
+x and y gives x = 2y +4. Making y the subject of the equation gives y = x−4
+2 . The inverse
+function f −1(x) = x−4
+= 1
+2x −2.
+Example 1.6.25
+Suppose f : R −(2) →R −(1) is defined by
+x
+x −2
+Then the function
+f −1(x) =
+2x
+x −1
+is the inverse of f. Show.
+Exercise 1.6
+Find the inverse of the function f : R −(2) →R −(1) defined by
+f(x) = x −1
+x + 2
+Exercise 1.7 Find the inverse of the function f : R →(−∞, 1) defined by f(x) = 1−ex.
+Theorem 1.6.2
+Let A and B are any sets and the function f : A →B be one-to-one
+and onto (the inverse function exists) (f −1of) : A →A is the identity function on A
+similarly the composite function (fof −1) : B →B is the identity function on B.
+Proof: Let a ∈A. Then (f −1of)(a) = f −1(f(a)) = f −1(b) for some b ∈B. Now we
+have f(a) = b which implies that f −1(b) = a. It follows that (f −1of)(a) = f −1(f(a)) =
+f −1(b) = a and therefore that (f −1of) : A →A is the identity function on A.
+Similarly if b ∈B, then (fof −1)(b) = f(f −1(b)) = f(a) for some a satisfying f −1(b) = a
+and f(a) = b. Hence (fof −1)(b) = f(f −1(b)) = f(a) = b. Therefore (fof −1) is the identity
+function on B.
+Theorem 1.6.3
+If a function is a bijection, then its inverse is also a bijection.
+
+Example 1.6.26
+The function f(x) = x2 does not have an inverse, since it is not a
+bijection. Whenever required to compute an inverse, need to first check whether it is
+bijective.
+Exercise 1.8
+Compute the inverse of the bijective function h(x) : R →R defined by
+h(x) =
+ 3x+2
+x−1 ,
+x ̸= 1
+3 ,
+x = 1
+1.6.11
+Operations of functions
+(1) Sums of functions
+Given two functions g(x), f(x), their sum denoted by (f + g)(x) is defined as (f +
+g) (x) = f(x) + g(x)
+or (g + f) (x) = g(x) + f(x)
+Example 1.6.27
+(f + g) (x) = f(x) + g(x) = 3x + x2
+or (g + f) (x) = g(x) + f(x) = x2 + 3x
+Example 1.6.28
+(f + g) (x) = f(x) + g(x) = 2x + 3x = 5x
+or (g + f) (x) = g(x) + f(x) = 3x + 2x = 5x
+Example 1.6.29
+Given f1 = 5x + 2 and f2 = x2 + 4. Find (f1 + f2)(x).
+(f1 + f2)(x)
+=
+f1(x) + f2(x)
+=
+5x + 2 + x2 + 4
+=
+x2 + 5x + 6
+(2) Difference of functions
+Given two functions g(x), f(x), their difference denoted by (f −g)(x) is defined as
+(f −g) (x) = f(x) −g(x)
+or (g −f) (x) = g(x) −f(x)
+Example 1.6.30
+(f −g) (x) = f(x) −g(x) = 3x −x2
+or (g −f) (x) = g(x) −f(x) = x2 −3x
+Example 1.6.31
+(f −g) (x) = f(x) −g(x) = 2x −3x = −x
+or (g −f) (x) = g(x) −f(x) = 3x −2x = x
+
+Example 1.6.32
+Let f(x) = 3x2 + 5 and f2(x) = 1
+x + 2. Evaluate (f1 −f2)(x).
+(f1 −f2)(x)
+=
+f1(x) −f2(x)
+=
+
+3x2 + 5
+
+−
+1
+x + 2
+
+=
+3x2 −1
+x + 3
+(3) Product of functions
+Given two functions g(x), f(x), their product denoted by (f.g)(x) or simplfy (fg)(x)
+is defined as (f.g) (x) = f(x).g(x)
+or (g.f) (x) = g(x).f(x)
+Example 1.6.33
+(f.g) (x) = f(x).g(x) = 3x.x2 = 3x3
+or (g.f) (x) = g(x).f(x) = x2.3x = 3x3
+Example 1.6.34
+(f.g) (x) = f(x).g(x) = 2x.3x = 6x2
+or (g.f) (x) = g(x).f(x) = 3x.2x = 6x2
+Example 1.6.35
+If f1(x) = x2 −4 and f2(x) = x −2 find (f1 · f2)(x).
+(f1 · f2)(x)
+=
+f1(x) · f2(x)
+=
+(x2 −4)(x −2)
+=
+x3 −2x2 −4x + 8
+(4) Quotient of functions
+Given two functions g(x), f(x), their quotient denoted by (f/g)(x) is defined as
+(f/g) (x) = f(x)/g(x)
+or (g/f) (x) = g(x)/f(x)
+Example 1.6.36
+(f/g) (x) = f(x)/g(x) = 3x/x2 = 3/x
+or (g.f) (x) = g(x)/f(x) = x2/3x = x/3
+Example 1.6.37
+(f/g) (x) = f(x)/g(x) = 2x/3x = 2/3
+or (g/f) (x) = g(x)/f(x) = 3x/2x = 3/2 The quotient is sometimes referred to as a
+rational function.
+
+Example 1.6.38
+If f1(x) = x2 −4 and f2(x) = x −2. Evaluate (f1/f2)(x).
+(f1/f2)(x)
+=
+f1(x) ÷ f2(x)
+=
+(x2 −4) ÷ (x −2)
+=
+(x + 2)(x −2)
+(x −2)
+=
+The domain of this function in the set of real numbers excludes x = 2 since for
+x = 2 we have f2(x) = 0.
+(5) Composite functions
+Given two functions g(x), f(x), their composite function denoted by fog(x) is defined as fog (x) = f (g(x))
+or gof (x) = g (f(x))
+Example 1.6.39
+fog (x) = f (x2) = 3x2
+gof (x) = g (3x) = (3x)2 = 9x2
+Example 1.6.40
+Given that h(x) = 2x and g(x) = 5x, then
+hog (x) = h (5x) = 2(5x) = 10x
+goh (x) = g (2x) = 5(2x) = 10x
+Example 1.6.41 Let f1(x) = x2+3x+2 and f2(x) = x+3. Compute and simplify
+(if possible) (f2of1)(x) and (f1of2)(x).
+(f2of1)(x)
+=
+f2(f1(x))
+=
+f2(x2 + 3x + 2)
+=
+(x2 + 3x + 2) + 3
+=
+x2 + 3x + 5
+To compute (f1of2)(x), substitute f2 into f1
+(f1of2)(x) = f1(f2(x))
+=
+f1(x + 3)
+=
+(x + 3)2 + 3(x + 3) + 2
+=
+x2 + 6x + 9 + 3x + 9 + 2
+=
+x2 + 9x + 20
+Note that in this case commutativity does not hold that is,
+(f2of1)(x) ̸= (f1of2)(x).
+
+Example 1.6.42 Let f1(x) = 1
+x and f2(x) = x2. Compute and simplify (if possible)
+(f2of1)(x) and (f1of2)(x).
+(f2of1)(x) = f2(f1(x))
+=
+f2
+1
+x
+
+=
+x2
+whereas
+(f1of2)(x)
+=
+f1(f2(x))
+=
+f1(x2)
+=
+x2.
+Note that in this case the composite functions commute, that is,
+(f2of1)(x) = (f1of2)(x)
+Theorem 1.6.4
+The composition of two injective functions is injective.
+Domain of Composite, Difference, addition and product of functions
+Definition 1.6.6
+If we denote a domain as D, we define the domains
+(i) Df+g = Df−g = Dfg = Df ∩Dg
+(ii) Df/g = (Df ∩Dg) \{x : g(x) = 0}
+(iii) Dfog = {x ∈Dg : g(x) ∈Df}. Since g(x) is a domain of fog, then domain of g is
+domain of the composite, where g(x) is in domain of fog.
+Note 1.6.2
+Finding the domain of a composite function consists of two steps:
+Step 1. Find the domain of the ”inside” (input) function. If there are any restrictions on
+the domain, keep them.
+Step 2. Construct the composite function.
+Find the domain of this new function.
+If
+there are restrictions on this domain, add them to the restrictions from Step 1.
+If there is an overlap, use the more restrictive domain (or the intersection of the
+domains). The composite may also result in a domain unrelated to the domains
+of the original functions.
+
+Example 1.6.43
+Let function f(x) = √x + 1, function g(x) = 1
+x, and function h(x) =
+x + 3. Find an equation defining each function and state the domain.
+(1) f + g
+f + g =
+√
+x + 1 + 1
+x
+Df+g : [−1, 0) ∪(0, +∞)
+(2) f −g
+f −g =
+√
+x + 1 −1
+x
+Df−g : [−1, 0) ∪(0, +∞)
+(3) f · g
+f · g =
+√
+x + 1 ·
+1
+x
+
+=
+√x + 1
+x
+Df·g : [−1, 0) ∪(0, +∞)
+(4) f/h
+f/h =
+√x + 1
+x + 3
+Dh : R,
+h(x) ̸= 0 →x ̸= −3
+Df/h : [−1, +∞)
+Example 1.6.44
+Given
+f(x) = x2 + 2 and g(x) =
+√
+3 −x
+The composite functions
+fog(x) = f (g(x))
+=
+ √
+3 −x
+2 + 2 = 5 −x
+gof(x) = g (f(x))
+=
+p
+3 −(x2 + 2) =
+√
+1 −x2
+The domain for g(x) = √3 −x is x ≤3.
+The domain for f(g(x)) = 5 −x is all real numbers, but you must keep the domain of the
+
+inside function. So the domain for the composite function is also x ≤3.
+The domain for f(x) = x2 + 2 is all real numbers.
+The domain for the composite function g(f(x)) =
+√
+1 −x2 is −1 ≤x ≤1. The input
+function f(x) has no restrictions, so the domain of g(f(x)) is determined only by the
+composite function. So the domain is −1 ≤x ≤1.
+Example 1.6.45
+f(x) = 1 −x
+3x
+and g(x) =
+1 + 3x
+fog: Step 1. What is the domain of the inside function g(x)
+x ̸= −1/3 Keep this!!
+1 −
+ 1
+1+3x
+
+ 1
+1+3x
+
+=
+3x
+1+3x
+1+3x
+= x
+This function puts no additional restrictions on the domain, so the composite domain is
+x ̸= −1/3.
+gof: Step 1. What is the domain of the inside function f(x)?
+x ̸= 0 Keep this!!
+g(f(x)) =
+1 + 31−x
+3x
+= 1
+x
+= x
+This function puts no additional restrictions on the domain, so the composite domain is
+x ̸= 0.
+Example 1.6.46
+3x
+x −1 and g(x) = 2
+x
+fog: Step 1. What is the domain of the inside function g(x)
+x ̸= 0 Keep this!!
+  2
+x
+
+  2
+x
+
+−1 =
+x
+2−x
+x
+=
+2 −x
+x ̸= 2
+Combine this domain with the domain from Step 1: the composite domain is x ̸= 0 and
+x ̸= 2
+
+gof: Step 1. What is the domain of the inside function f(x)?
+x ̸= 1 Keep this!!
+g(f(x)) =
+3x
+x−1
+= 2(x −1)
+3x
+x ̸= 0
+Combine this domain with the domain from Step 1: the composite domain is x ̸= 1 and
+x ̸= 0
+Example 1.6.47
+√
+x −2 and g(x) =
+√
+x2 −1
+fog: Step 1. What is the domain of the inside function g(x) x ≥1 or x ≤−1 Keep this!!
+q√
+x2 −1 −2
+The domain of this function is where
+√
+x2 −1 ≥2 ⇒x2 −1 ≥4 ⇒x2 ≥5 ⇒x ≥
+√
+5 or x ≤−
+√
+This function has a more restrictive domain than g(x), so the composite domain is
+Dfog := x ≥
+√
+5 or x ≤−
+√
+We can also show that
+Dgof := x ≥3
+Exercise 1.9
+Find fog and gof and the domain of each for the following functions.
+1. f(x) = x + 3 g(x) =
+√
+9 −x2
+√
+9 −x2 + 3
+−3 ≤x ≤3
+√
+−x2 −6x
+−6 ≤x ≤0
+2. f(x) = √x + 3 g(x) = 2x −5
+√
+2x −2
+x ≥1
+gof(x) = 2
+√
+x + 3 −5
+x ≥−3
+3. f(x) = −3
+x
+g(x) =
+x
+x−2
+fog(x) = −3(x −2)
+x
+x ̸= 2 and x ̸= 0
+3 + 2x
+x ̸= 0 and x ̸= −3/2
+
+4. f(x) = x2 + 2 g(x) = √x −5
+fog(x) = x −3
+x ≥5
+√
+x2 −3
+x ≥
+√
+3 or x ≤−
+√
+5. f(x) =
+x−3 g(x) =
+x+2
+fog(x) = −2(x + 2)
+3x + 1
+x ̸= −2 and x ̸= −1/3
+gof(x) = 5(x −3)
+2x −4
+x ̸= 3 and x ̸= 2
+Example 1.6.48
+Let f(x) = √x + 3 and g(x) =
+√
+16 −x2, find
+(i) Df = [−3, ∞)
+(ii) Dg = [−4, 4]
+(iii) Df ∩Dg = [−3, ∞) ∩[−4, 4] = [−3, 4]
+(iv) Df+g = Df−g = Dfg = [−3, 4]
+(v) Df/g = (Df ∩Dg) \{x : g(x) = 0} = [−3, 4]\{−4, 4} = [−3, 4)
+Example 1.6.49
+Given the functions f(x) = √x and g(x) = x2 + 5
+(i) (fog)(x) = f (g(x)) = f(x2 + 5) =
+√
+x2 + 5
+(ii) (gof)(x) = g (f(x)) = g(√x) = (√x)2 + 5 = x + 5
+(iii) Dfog = {x ∈Dg : g(x) ∈Df}. Since Dg = R and g(x) ∈Df, so Dfog = R
+(iv) Dgof = {x ∈Df : f(x) ∈Dg}. Since Df = x ≥0 = R+ = [0, ∞) and f(x) ∈Dg, so
+Dfog = [0, ∞)
+Example 1.6.50
+Find (fog)(−2) given
+f(x) = −3x + 2, g(x) = |x −4|
+Ans= -16 [Note that we only take |x −4| = −(x −4) since x = −2 < 4]
+Example 1.6.51
+Find (fog)(x) and the domain of fog, given
+f(x) = (x −1)
+(x + 2),
+g(x) = (x + 1)
+(x −2)
+Ans: (fog)(x) = 3/(3x −3). The domain of fog is: (−∞, 1) ∪(1, 2) ∪(2, +∞)
+
+Example 1.6.52
+Let function f(x) = √x + 1, function g(x) = 1
+x, and function h(x) =
+x + 3. Find gofoh and state the domain.
+gofoh(x) =
+√x + 4 ;
+x > −4
+1.6.12
+Other functions
+Definition 1.6.7
+A function is said to be piecewise defined if its defined by applying
+different formulas to the different parts of its domain.
+Example 1.6.53
+An example of a piecewise function in t,
+g(t) =
+
+
+
+t −1 ,
+t ≤−3
+2t3 ,
+−3 < t ≤9
+4 −6t,
+t > 9
+Example 1.6.54
+An example of a piecewise function in x,
+ x2 + 1 ,
+x ≥0
+−x −9 ,
+x < 0
+Definition 1.6.8
+A function f is said to be a power function if it has the form
+f(x) = xn, for some n ∈N.
+Definition 1.6.9
+A function f is said to be a quadratic function if it can be written
+in the form
+f(x) = Ax2 + Bx + C
+Definition 1.6.10
+A polynomial function f is one that can be written in the form
+f(x) = anxn + an−1xn−1 + · · · + a1x + a0
+where a0, a1, . . . , an are constants and n is a positive integer.
+This integer n is then called the degree of the polynomial, provided an ̸= 0.
+Definition 1.6.11
+A function g is said to be a rational function if it is of the type
+g(x) = f(x)
+h(x)
+where both f and h are polynomial functions.
+
+Definition 1.6.12
+A function f is said to be periodic, with period T, if
+f(x + nT) = f(x)
+for all x in its domain and for n = 1, 2, . . .
+That means the function repeats itself as the rate of T intervals of x. For example the
+function f(x) = sin x is periodic with period 2π since sin(x + 2nπ) = sin x for all n = 1,
+2, . .
+Definition 1.6.13
+A function f is said to be strictly monotonic increasing in the
+interval (a, b) if, for all pairs of numbers x1, x2 in (a, b),
+f(x1) < f(x2) when x1 < x2
+Definition 1.6.14
+The floor function or greatest integer function is the function
+defined as follows: for a real number x, the floor of x, denoted ⌊x⌋, is the greatest integer
+less than or equal to x.
+The floor of x is sometimes referred to as the integer part or integral value of x. (Is the
+integer just below - on the left)
+Example 1.6.55
+(i) ⌊5⌋= 5
+(ii) ⌊1.78⌋= 1
+(iii) ⌊0⌋= 0
+(iv) ⌊−1.6⌋= −2
+(v) ⌊−3.5⌋= −4
+(vi) ⌊−99.9⌋= −100
+Example 1.6.56
+⌊1.7⌋= 1, ⌊π⌋= 3 and ⌊−3.2⌋= −4
+The floor of x satisfies the following inequality.
+⌊x⌋≤x < ⌊x⌋+ 1
+Definition 1.6.15 The ceiling function or smallest integer function is the function
+defined as follows: for a real number x, the ceiling of x, denoted ⌈x⌉, is the smallest integer
+not less than x. (The integer just above - on the right)
+Example 1.6.57
+(i) ⌈5⌉= 5
+(ii) ⌈1.78⌉= 2
+(iii) ⌈0⌉= 0
+(iv) ⌈−1.6⌉= −1
+(v) ⌈−3.5⌉= −3
+(vi) ⌈−99.9⌉= −99
+
+Example 1.6.58
+⌈1.7⌉= 2, ⌈π⌉= 4 and ⌈−3.2⌉= −3
+The ceiling of x satisfies the following inequality.
+x ≤⌈x⌉< x + 1
+Definition 1.6.16
+The sign function is the function, denoted sgn, defined as
+sgn(x) =
+
+
+
+−1,
+x < 0
+0,
+x = 0
+1,
+x > 0
+Note that for any real number x = sgn(x)|x|. So if x ̸= 0,
+sgn(x) = x
+|x|
+The sgn function is usually referred to as the signum function.
+Example 1.6.59
+f(x) = |x −3|
+|x −1| , x ∈R
+Note that, we cannot solve and play around any mathematical expression with norms
+(absolute, modulus), so we remove it by considering the positive and negative options for
+each modulus
+f1(x) = +(x −3)
++(x −1) : x ≥3, x ≥1
+⇒
+f1(x) = (x −3)
+(x −1) : x ∈[3, ∞)
+f2(x) = +(x −3)
+−(x −1) : x ≥3, x < 1
+⇒
+f2(x) = −(x −3)
+(x −1) : x DNE
+f3(x) = −(x −3)
++(x −1) : x < 3, x ≥1
+⇒
+f3(x) = −(x −3)
+(x −1) : x ∈[1, 3)
+f4(x) = −(x −3)
+−(x −1) : x < 3, x < 1
+⇒
+f4(x) = (x −3)
+(x −1) : x ∈(−∞, 1)
+We sketch each function f1, f2, f3, f4 within its region/domain. For example, for
+f1(x) = (x −3)
+(x −1) : x ∈[3, ∞)
+⇒
+x
+f1(x)
+
+Sketching the functions f1, f2, f3, f4 will result into the graph
+f4(x)
+f3(x)
+f1(x)
+Figure 1.8: A graph of f(x) = |x−3|
+|x−1|
+Exercise 1.10
+f(x) = |x + 6|
+|x + 2|
+Exercise 1.11
+f(x) = |x + 3| −4|x −1|
+|x −2|
+Exercise 1.12
+Compute the domain of the function f(x) where
+f(x) = a
+√
+x + b
+x + c
+where a, b, c ∈R
