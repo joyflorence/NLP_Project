@@ -4,6 +4,10 @@
   command   = "npm run build"
   publish   = "dist"
 
+[build.environment]
+  SECRETS_SCAN_OMIT_KEYS = "VITE_ADMIN_EMAILS,VITE_API_BASE_URL,VITE_PASSWORD_RESET_REDIRECT_URL,VITE_SUPABASE_ANON_KEY,VITE_SUPABASE_URL,VITE_USE_MOCK_API"
+
+
 # SPA: serve index.html for all routes so /search, /admin, /document/full-text work
 [[redirects]]
   from    = "/*"
