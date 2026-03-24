@@ -105,10 +105,13 @@ export function SearchPanel({ onDownloadDocument }: Props) {
 
   return (
     <section className="panel scholar-panel search-panel">
-      <h2>Search Literature</h2>
-      <p className="search-intro">
-        Search across academic work.
-      </p>
+      <div className="search-hero">
+        <div>
+          <h2>Search Literature</h2>
+          <p className="search-intro">Explore academic work with a cleaner, focused search experience.</p>
+        </div>
+        <div className="search-hero-note">Semantic search across indexed university documents</div>
+      </div>
 
       <div className="search-toolbar">
         <div className="scholar-search-row">
@@ -131,43 +134,8 @@ export function SearchPanel({ onDownloadDocument }: Props) {
           </button>
         </div>
 
-        <div className="search-options">
-          <div className="search-filter-grid">
-            <label className="search-field">
-              <span>Retrieve</span>
-              <input
-                type="number"
-                min={5}
-                max={200}
-                step={5}
-                value={topK}
-                onChange={(e) => setTopK(Number(e.target.value))}
-                aria-label="Retrieval cap"
-              />
-            </label>
-            <label className="search-field">
-              <span>Sort By</span>
-              <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SearchSortBy)}>
-                <option value="relevance">Relevance</option>
-                <option value="year">Year</option>
-                <option value="title">Title</option>
-              </select>
-            </label>
-            <label className="search-field">
-              <span>Order</span>
-              <select value={sortOrder} onChange={(e) => setSortOrder(e.target.value as SearchSortOrder)}>
-                <option value="desc">Descending</option>
-                <option value="asc">Ascending</option>
-              </select>
-            </label>
-            <label className="search-field">
-              <span>Per Page</span>
-              <select value={String(pageSize)} onChange={(e) => setPageSize(Number(e.target.value))}>
-                <option value="5">5</option>
-                <option value="10">10</option>
-                <option value="20">20</option>
-              </select>
-            </label>
+        <div className="search-controls-card">
+          <div className="search-filter-grid search-filter-grid-primary">
             <label className="search-field">
               <span>Filter by year</span>
               <select value={year} onChange={(e) => setYear(e.target.value)} aria-label="Year">
@@ -179,14 +147,61 @@ export function SearchPanel({ onDownloadDocument }: Props) {
                 ))}
               </select>
             </label>
+            <label className="search-field">
+              <span>Sort by</span>
+              <select value={sortBy} onChange={(e) => setSortBy(e.target.value as SearchSortBy)}>
+                <option value="relevance">Relevance</option>
+                <option value="year">Year</option>
+                <option value="title">Title</option>
+              </select>
+            </label>
+            <label className="search-field">
+              <span>Per page</span>
+              <select value={String(pageSize)} onChange={(e) => setPageSize(Number(e.target.value))}>
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+              </select>
+            </label>
           </div>
 
+          <details className="search-advanced-panel">
+            <summary>Advanced options</summary>
+            <div className="search-filter-grid search-filter-grid-advanced">
+              <label className="search-field">
+                <span>Retrieve</span>
+                <input
+                  type="number"
+                  min={5}
+                  max={200}
+                  step={5}
+                  value={topK}
+                  onChange={(e) => setTopK(Number(e.target.value))}
+                  aria-label="Retrieval cap"
+                />
+              </label>
+              <label className="search-field">
+                <span>Order</span>
+                <select value={sortOrder} onChange={(e) => setSortOrder(e.target.value as SearchSortOrder)}>
+                  <option value="desc">Descending</option>
+                  <option value="asc">Ascending</option>
+                </select>
+              </label>
+            </div>
+          </details>
+
           <div className="search-toolbar-footer">
-            <p className="search-filter-hint">
-              {year ? `Filtering to documents from ${year}.` : `Showing documents from all indexed years through ${currentYear}.`}
-            </p>
+            <div className="search-filter-hint-wrap">
+              <p className="search-filter-hint">
+                {year ? `Filtering to documents from ${year}.` : `Showing documents from all indexed years through ${currentYear}.`}
+              </p>
+              <div className="search-state-chips">
+                <span className="search-chip">{sortBy === "relevance" ? "Best match" : `Sorted by ${sortBy}`}</span>
+                <span className="search-chip">{pageSize} per page</span>
+              </div>
+            </div>
             <button type="button" className="search-secondary-action" onClick={resetControls} disabled={loading}>
-              Reset controls
+              Reset
             </button>
           </div>
         </div>
@@ -197,7 +212,7 @@ export function SearchPanel({ onDownloadDocument }: Props) {
 
       {semanticResult ? (
         <div className="stack">
-          <div className="result-summary">
+          <div className="result-summary result-summary-card">
             <span>{semanticResult.total ?? semanticResult.semanticResults.length} results</span>
             <span>Page {semanticResult.page ?? page}</span>
             <span>Semantic latency: {semanticResult.latencyMs?.semantic ?? "N/A"} ms</span>
@@ -220,7 +235,7 @@ export function SearchPanel({ onDownloadDocument }: Props) {
             ))}
           </div>
 
-          <div className="pager-row">
+          <div className="pager-row pager-row-card">
             <button type="button" onClick={() => void runSearch(Math.max(1, page - 1))} disabled={loading || page <= 1}>
               Previous
             </button>
@@ -243,7 +258,3 @@ export function SearchPanel({ onDownloadDocument }: Props) {
     </section>
   );
 }
-
-
-
-
