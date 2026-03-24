@@ -306,7 +306,7 @@ async def get_status():
         }
 
 
-@app.get("/")
+@app.api_route("/", methods=["GET", "HEAD"])
 async def root():
     return {"message": "Academic Semantic Search API", "docs": "/docs"}
 
