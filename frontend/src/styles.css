@@ -1079,3 +1079,146 @@ button:disabled {
     grid-template-columns: 1fr;
   }
 }
+
+
+.admin-page-stack {
+  display: grid;
+  gap: 0.95rem;
+}
+
+.admin-page-hero {
+  background: linear-gradient(180deg, #f8fbfd 0%, #eef5fb 100%);
+  border-color: #d7e3ef;
+}
+
+.admin-page-hero h2,
+.panel h2 {
+  margin: 0;
+  color: #102a43;
+}
+
+.panel.scholar-panel {
+  border-radius: 16px;
+  border-color: #d7e2ee;
+  background: #ffffff;
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.05);
+  padding: 1rem;
+}
+
+.metadata-fieldset {
+  border: 1px solid #dbe5ef;
+  border-radius: 14px;
+  padding: 0.95rem 1rem 1rem;
+  background: #fbfdff;
+}
+
+.metadata-fieldset legend {
+  font-weight: 700;
+  color: #17324d;
+}
+
+.metadata-grid {
+  gap: 0.8rem 1rem;
+}
+
+.metadata-grid label {
+  gap: 0.35rem;
+  color: #465a6e;
+  font-size: 0.9rem;
+}
+
+.metadata-grid input,
+.metadata-grid select,
+.metadata-grid textarea,
+input[type="file"] {
+  border-color: #d2ddea;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+input[type="file"] {
+  padding: 0.7rem 0.8rem;
+}
+
+.index-status-grid {
+  gap: 0.85rem;
+}
+
+.index-status-item {
+  padding: 0.9rem;
+  border: 1px solid #dbe6f1;
+  border-radius: 14px;
+  background: #f9fbfd;
+}
+
+.index-status-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #6a7f92;
+}
+
+.index-status-value,
+.index-status-ok,
+.index-status-error {
+  font-size: 1.2rem;
+}
+
+.indexed-doc-list {
+  margin-top: 0.2rem;
+  border: 1px solid #dbe5ef;
+  border-radius: 14px;
+  background: #fbfdff;
+  max-height: 320px;
+}
+
+.indexed-doc-item {
+  padding: 0.7rem 0.85rem;
+}
+
+.indexed-doc-filename {
+  color: #1f3a56;
+}
+
+.admin-reset-button,
+.admin-back-link,
+button[type="submit"] {
+  min-height: 42px;
+  border-radius: 12px;
+}
+
+button[type="submit"] {
+  background: #123b63;
+  color: #ffffff;
+  border: none;
+  font-weight: 700;
+  box-shadow: 0 10px 20px rgba(18, 59, 99, 0.16);
+}
+
+.ingestion-feedback {
+  border-radius: 14px;
+  padding: 0.9rem 1rem;
+}
+
+.ingestion-feedback.loading {
+  background: #f3f9ff;
+  border: 1px solid #c9e1fb;
+}
+
+.ingestion-feedback.success {
+  background: #f4fbf7;
+  border: 1px solid #cfead9;
+}
+
+.note {
+  padding: 0.8rem 0.9rem;
+  border-radius: 12px;
+  border: 1px solid #dbe5ef;
+  background: #f9fbfd;
+  color: #40566b;
+}
+
+.error {
+  color: #b42318;
+  font-weight: 500;
+}

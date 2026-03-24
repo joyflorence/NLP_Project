@@ -20,16 +20,22 @@ export function AdminPage({ isAdmin }: Props) {
   }
 
   return (
-    <>
+    <div className="admin-page-stack">
       <nav className="admin-nav">
         <Link to="/search" className="admin-back-link">Back to search</Link>
       </nav>
+      <div className="admin-page-hero panel scholar-panel">
+        <div>
+          <h2>Admin Workspace</h2>
+          <p className="muted">Manage indexed documents, monitor the engine, and upload new material for search.</p>
+        </div>
+      </div>
       <AdminIndexStatus refreshKey={refreshKey} />
       <AdminDocumentList refreshKey={refreshKey} onCacheReset={triggerRefresh} />
       <AdminIngestionPanel
         isAdmin={isAdmin}
         onUploadSuccess={triggerRefresh}
       />
-    </>
+    </div>
   );
 }
