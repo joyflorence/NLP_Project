@@ -1222,3 +1222,41 @@ button[type="submit"] {
   color: #b42318;
   font-weight: 500;
 }
+
+
+.loading-state-card {
+  display: grid;
+  gap: 0.3rem;
+  padding: 0.95rem 1rem;
+  border: 1px solid #dce7f2;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #fbfdff 0%, #f4f8fc 100%);
+  color: #486073;
+}
+
+.loading-state-card strong {
+  color: #17324d;
+}
+
+.loading-state-card p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.compact-loading-state {
+  padding: 0.85rem 0.95rem;
+}
+
+.search-empty-state,
+.admin-empty-state {
+  border-style: solid;
+  border-color: #dbe5ef;
+  border-radius: 14px;
+  background: #fbfdff;
+  padding: 1rem;
+}
+
+.search-empty-state strong,
+.admin-empty-state strong {
+  color: #17324d;
+}

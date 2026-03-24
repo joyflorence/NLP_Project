@@ -100,7 +100,7 @@ export function PreviewModal({ doc, query, open, onClose }: Props) {
             x
           </button>
         </header>
-        {loading ? <p className="preview-status">Loading preview...</p> : null}
+        {loading ? <p className="preview-status">Loading preview text...</p> : null}
         {error ? <p className="preview-status error">{error}</p> : null}
         <p>
           {tokens.map((part, idx) => {

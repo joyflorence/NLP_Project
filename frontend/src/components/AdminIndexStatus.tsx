@@ -39,7 +39,10 @@ export function AdminIndexStatus({ refreshKey = 0 }: Props) {
     return (
       <section className="panel scholar-panel">
         <h2>Index Status</h2>
-        <p className="muted">Loading...</p>
+        <div className="loading-state-card compact-loading-state">
+          <strong>Checking engine status...</strong>
+          <p>Refreshing document and chunk counts.</p>
+        </div>
       </section>
     );
   }

@@ -209,6 +209,12 @@ export function SearchPanel({ onDownloadDocument }: Props) {
 
       {error ? <p className="error">{error}</p> : null}
       {compatibilityNotice ? <p className="muted">{compatibilityNotice}</p> : null}
+      {loading ? (
+        <div className="loading-state-card" aria-live="polite">
+          <strong>Searching the index...</strong>
+          <p>Finding the most relevant academic documents for your query.</p>
+        </div>
+      ) : null}
 
       {semanticResult ? (
         <div className="stack">
@@ -220,19 +226,26 @@ export function SearchPanel({ onDownloadDocument }: Props) {
 
           <h3 className="results-heading">Results</h3>
           <div className="results-list">
-            {semanticResult.semanticResults.map((doc) => (
-              <DocumentCard
-                key={doc.id}
-                doc={doc}
-                onFindSimilar={() =>
-                  navigate(
-                    `/related-works?documentId=${encodeURIComponent(doc.id)}&title=${encodeURIComponent(doc.title)}`
-                  )
-                }
-                onDownload={onDownloadDocument}
-                onPreview={setPreviewDoc}
-              />
-            ))}
+            {semanticResult.semanticResults.length === 0 ? (
+              <div className="empty-state search-empty-state">
+                <strong>No results found.</strong>
+                <p>Try a broader topic, a different keyword, or clear the year filter.</p>
+              </div>
+            ) : (
+              semanticResult.semanticResults.map((doc) => (
+                <DocumentCard
+                  key={doc.id}
+                  doc={doc}
+                  onFindSimilar={() =>
+                    navigate(
+                      `/related-works?documentId=${encodeURIComponent(doc.id)}&title=${encodeURIComponent(doc.title)}`
+                    )
+                  }
+                  onDownload={onDownloadDocument}
+                  onPreview={setPreviewDoc}
+                />
+              ))
+            )}
           </div>
 
           <div className="pager-row pager-row-card">

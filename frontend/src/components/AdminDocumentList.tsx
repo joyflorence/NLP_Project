@@ -60,7 +60,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
     return (
       <section className="panel scholar-panel">
         <h2>Indexed Documents</h2>
-        <p className="muted">Loading...</p>
+        <div className="loading-state-card compact-loading-state"><strong>Loading indexed documents...</strong><p>Preparing the current search index view.</p></div>
       </section>
     );
   }
@@ -87,7 +87,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
       </div>
       {notice ? <p className="muted">{notice}</p> : null}
       {documents.length === 0 ? (
-        <p className="muted">No documents indexed yet. Upload documents below to add them.</p>
+        <div className="empty-state admin-empty-state"><strong>No indexed documents yet.</strong><p>Upload documents below and they will appear here once indexing completes.</p></div>
       ) : (
         <ul className="indexed-doc-list">
           {documents.map((doc, i) => (
