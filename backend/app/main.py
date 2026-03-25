@@ -3,6 +3,7 @@
 import asyncio
 import os
 from contextlib import asynccontextmanager
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -10,7 +11,10 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
-load_dotenv()
+_BACKEND_ENV = Path(__file__).resolve().parents[1] / ".env"
+_ROOT_ENV = Path(__file__).resolve().parents[2] / ".env"
+load_dotenv(_ROOT_ENV)
+load_dotenv(_BACKEND_ENV, override=True)
 
 from .schemas import (
     SearchRequest,
@@ -23,6 +27,13 @@ from .schemas import (
     SignedDownloadRequest,
     SignedDownloadResponse,
     ResetIndexCacheResponse,
+    FullTextResponse,
+    SavedDocumentsResponse,
+    SaveDocumentRequest,
+    AdminDocumentsResponse,
+    AdminDocumentUpdateRequest,
+    AdminActionResponse,
+    AdminIngestJobsResponse,
 )
 from . import services
 from .download_tokens import get_download_path
@@ -182,7 +193,90 @@ async def reset_index_cache():
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/api/documents/full-text")
+
+@app.get("/api/admin/documents", response_model=AdminDocumentsResponse)
+async def list_admin_documents():
+    try:
+        return AdminDocumentsResponse(documents=services.get_admin_documents())
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.patch("/api/admin/documents/{document_id}", response_model=AdminActionResponse)
+async def update_admin_document(document_id: str, payload: AdminDocumentUpdateRequest):
+    try:
+        result = services.update_admin_document(document_id, payload.model_dump(exclude_none=True))
+        return AdminActionResponse(**result)
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.delete("/api/admin/documents/{document_id}", response_model=AdminActionResponse)
+async def delete_admin_document(document_id: str):
+    try:
+        result = services.delete_admin_document(document_id)
+        return AdminActionResponse(**result)
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/admin/documents/{document_id}/reindex", response_model=AdminActionResponse)
+async def reindex_admin_document(document_id: str):
+    try:
+        result = services.reindex_admin_document(document_id)
+        return AdminActionResponse(**result)
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/admin/ingest-jobs", response_model=AdminIngestJobsResponse)
+async def list_recent_ingest_jobs(limit: int = 15):
+    try:
+        return AdminIngestJobsResponse(jobs=services.get_recent_ingest_jobs(limit=limit))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/library", response_model=SavedDocumentsResponse)
+async def list_saved_documents(request: Request):
+    try:
+        return SavedDocumentsResponse(documents=services.get_saved_documents(request.headers.get("Authorization")))
+    except PermissionError as e:
+        raise HTTPException(status_code=401, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/library", response_model=AdminActionResponse)
+async def save_document_to_library(payload: SaveDocumentRequest, request: Request):
+    try:
+        result = services.save_document_for_user(payload.documentId, request.headers.get("Authorization"), payload.note)
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=401, detail=str(e))
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.delete("/api/library/{document_id}", response_model=AdminActionResponse)
+async def remove_document_from_library(document_id: str, request: Request):
+    try:
+        result = services.remove_saved_document_for_user(document_id, request.headers.get("Authorization"))
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=401, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/documents/full-text", response_model=FullTextResponse)
 async def get_document_full_text(documentId: str):
     """Get full extracted text for a document (all chunks). Used by View full text + download."""
     try:
@@ -290,18 +384,13 @@ async def ping():
 async def get_status():
     """Engine status."""
     try:
-        engine = services._get_engine()
-        stats = engine.get_stats()
-        return {
-            "initialized": engine.initialized,
-            "total_chunks": stats.get("total_chunks", 0),
-            "total_documents": stats.get("total_documents", 0),
-        }
+        return services.get_engine_status()
     except Exception as e:
         return {
             "initialized": False,
             "total_chunks": 0,
             "total_documents": 0,
+            "registry_documents": 0,
             "error": str(e),
         }
 

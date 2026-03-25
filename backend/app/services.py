@@ -130,6 +130,66 @@ def _backend_to_document(r: dict, doc_id: Optional[str] = None) -> dict:
     }
 
 
+def _document_name_keys(name: str) -> Set[str]:
+    keys: Set[str] = set()
+    raw = (name or "").strip()
+    if not raw:
+        return keys
+    keys.add(raw)
+    keys.add(Path(raw).name)
+    stem = Path(raw).name
+    if "-" in stem:
+        keys.add(stem.split("-", 1)[-1])
+    normalized = re.sub(r"[^\w.\-]", "_", stem)
+    if normalized:
+        keys.add(normalized)
+    if normalized.endswith(".pdf"):
+        keys.add(normalized[:-4])
+    if stem.endswith(".pdf"):
+        keys.add(stem[:-4])
+    return {key for key in keys if key}
+
+
+def _load_cached_index_documents() -> List[Dict[str, Any]]:
+    """Return real searchable documents based on chunk cache files, not just documents.json registry entries."""
+    try:
+        engine = _get_engine()
+        cache_dir = Path(getattr(engine.config, "cache_dir", "."))
+        if not cache_dir.exists() or not cache_dir.is_dir():
+            return []
+
+        documents: List[Dict[str, Any]] = []
+        seen: Set[str] = set()
+        for path in sorted(cache_dir.glob("*.json")):
+            if path.name == "documents.json":
+                continue
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    chunks = json.load(f)
+            except Exception:
+                continue
+            if not isinstance(chunks, list) or not chunks:
+                continue
+
+            filename = path.stem
+            if filename in seen:
+                continue
+            seen.add(filename)
+
+            pages = sorted({int(chunk.get("page", 0)) for chunk in chunks if chunk.get("page") is not None})
+            documents.append(
+                {
+                    "filename": filename,
+                    "pages": len([p for p in pages if p > 0]) or None,
+                    "chunks": len(chunks),
+                }
+            )
+        return documents
+    except Exception as e:
+        logger.warning(f"Could not inspect searchable cache documents: {e}")
+        return []
+
+
 def _load_document_metadata() -> Dict[str, dict]:
     """Load document registry for extra metadata (title, author, etc.)."""
     try:
@@ -149,11 +209,14 @@ def _load_document_metadata() -> Dict[str, dict]:
 
 
 def get_indexed_documents() -> List[Dict[str, Any]]:
-    """Return list of indexed documents (filename, pages, chunks) from engine registry."""
+    """Return real searchable documents based on chunk cache files."""
+    docs = _load_cached_index_documents()
+    if docs:
+        return docs
     try:
         engine = _get_engine()
-        docs = engine.get_documents()
-        return list(docs) if isinstance(docs, list) else []
+        registry_docs = engine.get_documents()
+        return list(registry_docs) if isinstance(registry_docs, list) else []
     except Exception as e:
         logger.warning(f"Could not load indexed documents: {e}")
         return []
@@ -283,6 +346,54 @@ def _apply_supabase_metadata(docs: List[dict], meta: Dict[str, dict]) -> None:
             d["abstract"] = str(m["abstract"]).strip()
 
 
+def _build_searchable_documents_catalog() -> List[Dict[str, Any]]:
+    catalog: List[Dict[str, Any]] = []
+    supabase_meta = _load_supabase_document_metadata()
+    for indexed_doc in get_indexed_documents():
+        filename = indexed_doc.get("filename") or ""
+        doc = {
+            "id": filename,
+            "title": Path(filename).stem.replace("_", " ").replace("-", " ") if filename else "Untitled document",
+            "author": None,
+            "supervisor": None,
+            "year": None,
+            "level": None,
+            "downloadUrl": None,
+            "abstract": None,
+            "sourceType": "pdf",
+            "department": None,
+            "keywords": None,
+            "score": 0.0,
+            "pages": indexed_doc.get("pages"),
+            "chunks": indexed_doc.get("chunks"),
+        }
+        meta_entry = None
+        for key in _document_name_keys(filename):
+            if key in supabase_meta:
+                meta_entry = supabase_meta[key]
+                break
+        if meta_entry:
+            if meta_entry.get("title"):
+                doc["title"] = str(meta_entry["title"]).strip()
+            if meta_entry.get("author"):
+                doc["author"] = str(meta_entry["author"]).strip()
+            if meta_entry.get("supervisor"):
+                doc["supervisor"] = str(meta_entry["supervisor"]).strip()
+            if meta_entry.get("year") is not None:
+                try:
+                    doc["year"] = int(meta_entry["year"])
+                except (TypeError, ValueError):
+                    pass
+            if meta_entry.get("level") in ("undergraduate", "postgrad"):
+                doc["level"] = meta_entry["level"]
+            if meta_entry.get("department"):
+                doc["department"] = str(meta_entry["department"]).strip()
+            if meta_entry.get("abstract"):
+                doc["abstract"] = str(meta_entry["abstract"]).strip()
+        catalog.append(doc)
+    return catalog
+
+
 def semantic_search(
     query: str,
     top_k: int = 10,
@@ -293,26 +404,44 @@ def semantic_search(
     sort_order: str = "desc",
 ) -> dict:
     """Run semantic search and return frontend-compatible response."""
-    query = (query or "").strip() or "research"
+    query = (query or "").strip()
     start = time.perf_counter()
     engine = _get_engine()
     filter_dict = None
     if filters and filters.get("filename"):
         filter_dict = {"filename": {"$eq": filters["filename"]}}
 
-    result = engine.search(query=query, top_k=top_k * 8, filter_dict=filter_dict)
-    latency_ms = int((time.perf_counter() - start) * 1000)
-
-    if not result.get("success"):
+    if not query:
+        docs = _build_searchable_documents_catalog()
+        docs = _filter_and_sort_documents(docs, filters, sort_by, sort_order)
+        total = len(docs)
+        start_idx = (page - 1) * page_size
+        paged = docs[start_idx : start_idx + page_size]
+        latency_ms = int((time.perf_counter() - start) * 1000)
         return {
             "query": query,
             "topK": top_k,
-            "semanticResults": [],
-            "total": 0,
+            "semanticResults": paged,
+            "total": total,
             "page": page,
             "pageSize": page_size,
             "latencyMs": {"semantic": latency_ms},
         }
+
+    result = engine.search(query=query, top_k=top_k * 8, filter_dict=filter_dict)
+    latency_ms = int((time.perf_counter() - start) * 1000)
+
+    if not getattr(engine, "initialized", True) or not result.get("success"):
+        logger.warning(f"Semantic search failed or uninitialized. Falling back to keyword search for query: '{query}'")
+        kw_res = keyword_search(
+            query=query, top_k=top_k, filters=filters, 
+            page=page, page_size=page_size, 
+            sort_by=sort_by, sort_order=sort_order
+        )
+        # Add the semantic latency to the keyword latency dictionary so frontend doesn't break
+        if "latencyMs" in kw_res:
+            kw_res["latencyMs"]["semantic"] = latency_ms
+        return kw_res
 
     results = result.get("results", [])
     meta = _load_document_metadata()
@@ -480,6 +609,23 @@ def get_similar_documents(document_id: str, top_k: int = 5) -> dict:
     return {"documentId": document_id, "related": related}
 
 
+def get_engine_status() -> Dict[str, Any]:
+    engine = _get_engine()
+    stats = engine.get_stats()
+    searchable_documents = get_indexed_documents()
+    total_chunks = 0
+    if searchable_documents:
+        total_chunks = sum(int(doc.get("chunks") or 0) for doc in searchable_documents)
+    else:
+        total_chunks = int(stats.get("total_chunks", 0) or 0)
+    return {
+        "initialized": bool(engine.initialized),
+        "total_chunks": total_chunks,
+        "total_documents": len(searchable_documents),
+        "registry_documents": int(stats.get("total_documents", 0) or 0),
+    }
+
+
 def get_document_full_text(document_id: str) -> dict:
     """Get full extracted text for a document (all chunks concatenated). Returns dict with fullText and title or raises FileNotFoundError."""
     import re
@@ -537,10 +683,20 @@ def get_document_full_text(document_id: str) -> dict:
     chunks_sorted = sorted(chunks, key=lambda c: (c.get("page", 0), c.get("chunk_index", 0)))
     full_text = "\n\n".join((c.get("text") or "").strip() for c in chunks_sorted if c.get("text"))
     title = Path(document_id).stem.replace("_", " ").replace("-", " ")
+    author = None
+    year = None
     supabase_meta = _load_supabase_document_metadata()
-    if document_id in supabase_meta and supabase_meta[document_id].get("title"):
-        title = str(supabase_meta[document_id]["title"]).strip()
-    return {"fullText": full_text, "title": title, "documentId": document_id}
+    if document_id in supabase_meta:
+        if supabase_meta[document_id].get("title"):
+            title = str(supabase_meta[document_id]["title"]).strip()
+        if supabase_meta[document_id].get("author"):
+            author = str(supabase_meta[document_id]["author"]).strip()
+        if supabase_meta[document_id].get("year") is not None:
+            try:
+                year = int(supabase_meta[document_id]["year"])
+            except (TypeError, ValueError):
+                year = None
+    return {"fullText": full_text, "title": title, "author": author, "year": year, "documentId": document_id}
 
 
 def run_ingest(source_path: Optional[str] = None, files: Optional[List[str]] = None) -> dict:
@@ -670,6 +826,7 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
     title: Optional[str] = None
     author: Optional[str] = None
     year: Optional[int] = None
+    abstract: Optional[str] = None
     filename_year: Optional[int] = None
     metadata_year: Optional[int] = None
 
@@ -678,12 +835,34 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
 
     def _looks_like_person_name(text: str) -> bool:
         cleaned = _clean_candidate(text)
-        if not cleaned or len(cleaned) > 80:
+        if not cleaned or len(cleaned) < 5 or len(cleaned) > 150:
             return False
-        parts = [p for p in cleaned.split() if p]
-        if len(parts) < 2 or len(parts) > 5:
+        
+        # Strip superscript-like digits and affiliation stars/daggers
+        cleaned_no_affil = re.sub(r'[\d\*†‡§]', '', cleaned).strip()
+        parts = [p for p in cleaned_no_affil.split() if p]
+        
+        # Require 2 to 15 parts for multiple author arrays
+        if len(parts) < 2 or len(parts) > 15:
             return False
-        return all(re.fullmatch(r"[A-Z][A-Za-z'\-]+", part) for part in parts)
+            
+        # Reject if string has inappropriate punctuation for names (e.g. ?, !, etc)
+        if re.search(r'[^A-Za-z\s\.,&\'\-]', cleaned_no_affil):
+            return False
+            
+        # Require a high concentration of Capitalized Words (Title Case)
+        # to distinguish from a regular sentence title
+        capital_count = sum(1 for p in parts if p and p[0].isupper())
+        if capital_count / len(parts) < 0.4:
+            return False
+            
+        # Reject if it contains common academic title indicators
+        low = cleaned.lower()
+        title_words = {"analysis", "study", "design", "development", "system", "impact", "effect", "evaluation", "review", "approach", "method", "model", "network", "using", "based", "towards", "theory", "framework", "introduction", "chapter", "thesis", "dissertation", "report"}
+        if any(word in title_words for word in low.split()):
+            return False
+            
+        return True
 
     def _is_noise_line(text: str) -> bool:
         cleaned = _clean_candidate(text)
@@ -734,7 +913,7 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
 
         if raw_title and not _looks_like_person_name(raw_title) and not _is_noise_line(raw_title):
             title = raw_title
-        if raw_author:
+        if raw_author and _looks_like_person_name(raw_author):
             author = raw_author
 
         date_str = (meta.get("creationDate") or "") or (meta.get("modDate") or "")
@@ -749,6 +928,31 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
         try:
             first_page_text = ""
             title_candidates: list[tuple[float, str]] = []
+            
+            # Extract abstract from the first 5 pages
+            pages_text = []
+            for i in range(min(5, doc.page_count)):
+                pages_text.append(doc[i].get_text("text") or "")
+            
+            if pages_text:
+                full_head_text = "\n".join(pages_text)
+                # Match "Abstract" optionally followed by period/colon, then capture text
+                abstract_match = re.search(r"(?i)\bAbstract\b[\s\.:]*(.+?)(?=\b(?:Introduction|Keywords?|1\.|Background|Table of Contents)\b|\Z)", full_head_text, re.DOTALL)
+                if abstract_match:
+                    candidate_abstract = abstract_match.group(1).strip()
+                    candidate_abstract = re.sub(r'\s+', ' ', candidate_abstract)
+                    if len(candidate_abstract) > 50:
+                        abstract = candidate_abstract[:1500]
+                
+                # Extract Keywords safely and append them to abstract
+                kw_match = re.search(r"(?i)\b(?:Keywords?|Index Terms)[\s\.:]+(.+?)(?=\n\n|\b(?:Introduction|1\.|Background|Table of Contents)\b|\Z)", full_head_text, re.DOTALL)
+                if kw_match:
+                    candidate_kw = kw_match.group(1).strip()
+                    candidate_kw = re.sub(r'\s+', ' ', candidate_kw)
+                    if 5 < len(candidate_kw) < 300:
+                        kw_formatted = f"\n\nKeywords: {candidate_kw}"
+                        abstract = (abstract or "") + kw_formatted
+
             if doc.page_count > 0:
                 first_page = doc[0]
                 first_page_text = first_page.get_text("text") or ""
@@ -790,13 +994,21 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
             lines = [ln for ln in lines if ln]
 
             if not title:
-                for ln in lines[:12]:
-                    low = ln.lower()
-                    if low.startswith("by "):
-                        possible_author = _clean_candidate(ln[3:])
-                        if possible_author and not author:
-                            author = possible_author[:128]
-                        continue
+                # First sweep explicitly for explicit Author Prefixes
+                author_prefixes = [
+                    r"(?i)^(?:submitted by|prepared by|written by|author|authors|researcher|investigator)s?[\\s:]+(.+)",
+                    r"(?i)^by[\\s:]+(.+)"
+                ]
+                for ln in lines[:25]:
+                    for pat in author_prefixes:
+                        prefix_match = re.match(pat, ln)
+                        if prefix_match:
+                            possible_auth = _clean_candidate(prefix_match.group(1))
+                            if possible_auth and not author and _looks_like_person_name(possible_auth):
+                                author = possible_auth[:256]
+                            break
+
+                for ln in lines[:15]:
                     if _looks_like_person_name(ln):
                         if not author:
                             author = ln[:128]
@@ -837,7 +1049,7 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
     except Exception as e:
         logger.warning("Metadata extraction failed for %s: %s", path, e)
 
-    return {"title": title, "author": author, "year": year}
+    return {"title": title, "author": author, "year": year, "abstract": abstract or ""}
 
 def _load_indexed_content_hashes() -> Set[str]:
     """Load the set of content hashes we have already indexed (for duplicate detection)."""
@@ -990,14 +1202,19 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
             safe_name = safe_name + ".pdf"
         local_path = raw_pdfs / safe_name
 
-        with httpx.Client(follow_redirects=True, timeout=60.0) as client:
-            resp = client.get(url)
-            resp.raise_for_status()
-            content = resp.content
-            local_path.write_bytes(content)
+        timeout = httpx.Timeout(connect=20.0, read=300.0, write=60.0, pool=60.0)
+        hasher = hashlib.sha256()
+        with httpx.Client(follow_redirects=True, timeout=timeout) as client:
+            with client.stream("GET", url) as resp:
+                resp.raise_for_status()
+                with local_path.open("wb") as file_obj:
+                    for chunk in resp.iter_bytes():
+                        if not chunk:
+                            continue
+                        file_obj.write(chunk)
+                        hasher.update(chunk)
 
-        # Content-based duplicate detection: same bytes = duplicate even if filename differs
-        content_hash = hashlib.sha256(content).hexdigest()
+        content_hash = hasher.hexdigest()
         existing_hashes = _load_indexed_content_hashes()
         # One-time backfill: if we have no stored hashes, build set from existing raw_pdfs
         if not _CONTENT_HASHES_FILE.exists() and raw_pdfs.exists():
@@ -1018,6 +1235,7 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
                 "title": meta.get("title"),
                 "author": meta.get("author"),
                 "year": meta.get("year"),
+                "abstract": meta.get("abstract"),
             }
             return _ingest_jobs[job_id]
 
@@ -1034,6 +1252,7 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
             "title": meta.get("title"),
             "author": meta.get("author"),
             "year": meta.get("year"),
+            "abstract": meta.get("abstract"),
         }
         if result.get("success"):
             existing_hashes.add(content_hash)
@@ -1139,3 +1358,263 @@ def get_signed_download_url(document_id: str, base_url: str = "http://localhost:
 
 
 
+
+
+
+def _extract_bearer_token(auth_header: Optional[str]) -> str:
+    if not auth_header:
+        raise PermissionError("Missing Authorization header.")
+    prefix = "Bearer "
+    if not auth_header.startswith(prefix):
+        raise PermissionError("Authorization header must use Bearer token.")
+    token = auth_header[len(prefix):].strip()
+    if not token:
+        raise PermissionError("Missing bearer token.")
+    return token
+
+
+def _get_authenticated_user(auth_header: Optional[str]) -> Dict[str, Any]:
+    client = _get_supabase_client()
+    token = _extract_bearer_token(auth_header)
+    response = client.auth.get_user(token)
+    user = getattr(response, "user", None)
+    if user is None:
+        data = getattr(response, "data", None)
+        user = getattr(data, "user", None) if data is not None else None
+    if user is None:
+        raise PermissionError("Could not verify authenticated user.")
+    user_id = getattr(user, "id", None)
+    if not user_id:
+        raise PermissionError("Authenticated user is missing id.")
+    return {
+        "id": str(user_id),
+        "email": getattr(user, "email", None),
+    }
+
+
+def _get_supabase_client():
+    from dotenv import load_dotenv
+
+    load_dotenv(_PROJECT_ROOT / ".env")
+    load_dotenv(_PROJECT_ROOT / "backend" / ".env", override=True)
+    url = os.environ.get("SUPABASE_URL") or os.environ.get("VITE_SUPABASE_URL")
+    key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
+    if not url or not key:
+        raise RuntimeError("Supabase backend configuration is missing.")
+    from supabase import create_client
+    return create_client(url, key)
+
+
+def _get_admin_document_row(document_id: str) -> Dict[str, Any]:
+    client = _get_supabase_client()
+    response = client.table("documents").select(
+        "id, title, author, supervisor, year, level, department, abstract, file_path, created_at"
+    ).eq("id", document_id).limit(1).execute()
+    rows = (response.data or []) if hasattr(response, "data") else []
+    if not rows:
+        raise FileNotFoundError(f"Document not found: {document_id}")
+    return rows[0]
+
+
+def get_admin_documents() -> List[Dict[str, Any]]:
+    client = _get_supabase_client()
+    response = client.table("documents").select(
+        "id, title, author, supervisor, year, level, department, abstract, file_path, created_at"
+    ).order("created_at", desc=True).execute()
+    rows = (response.data or []) if hasattr(response, "data") else []
+    indexed_map: Dict[str, Dict[str, Any]] = {}
+    for indexed_doc in get_indexed_documents():
+        for key in _document_name_keys(indexed_doc.get("filename") or ""):
+            indexed_map[key] = indexed_doc
+    documents: List[Dict[str, Any]] = []
+    for row in rows if isinstance(rows, list) else []:
+        file_path = row.get("file_path") or ""
+        filename = str(file_path).split("/")[-1] if file_path else ""
+        indexed = indexed_map.get(filename) or indexed_map.get(Path(filename).name) or indexed_map.get(file_path)
+        documents.append(
+            {
+                "id": str(row.get("id")),
+                "title": row.get("title") or filename or "Untitled document",
+                "author": row.get("author"),
+                "supervisor": row.get("supervisor"),
+                "year": row.get("year"),
+                "level": row.get("level"),
+                "department": row.get("department"),
+                "abstract": row.get("abstract"),
+                "file_path": file_path,
+                "created_at": row.get("created_at"),
+                "indexed": bool(indexed),
+                "pages": indexed.get("pages") if indexed else None,
+                "chunks": indexed.get("chunks") if indexed else None,
+            }
+        )
+    return documents
+
+
+def update_admin_document(document_id: str, payload: Dict[str, Any]) -> Dict[str, Any]:
+    client = _get_supabase_client()
+    allowed = {"title", "author", "supervisor", "year", "level", "department", "abstract"}
+    updates = {k: v for k, v in payload.items() if k in allowed and v is not None}
+    if not updates:
+        return {"success": True, "message": "No metadata changes supplied."}
+    response = client.table("documents").update(updates).eq("id", document_id).execute()
+    rows = (response.data or []) if hasattr(response, "data") else []
+    if not rows:
+        raise FileNotFoundError(f"Document not found: {document_id}")
+    return {"success": True, "message": "Document metadata updated."}
+
+
+def reindex_admin_document(document_id: str) -> Dict[str, Any]:
+    client = _get_supabase_client()
+    row = _get_admin_document_row(document_id)
+    file_path = row.get("file_path")
+    if not file_path:
+        raise RuntimeError("Document file path is missing; cannot rebuild the local index for this document.")
+
+    bucket = os.environ.get("SUPABASE_STORAGE_BUCKET", "academic-docs")
+    signed = client.storage.from_(bucket).create_signed_url(file_path, 3600)
+    signed_url = None
+    if isinstance(signed, dict):
+        signed_url = signed.get("signedUrl") or signed.get("signed_url")
+    else:
+        signed_url = getattr(signed, "signed_url", None) or getattr(signed, "signedUrl", None)
+    if not signed_url:
+        raise RuntimeError("Failed to create a signed download URL for this document.")
+
+    job = run_ingest_from_url(
+        url=signed_url,
+        filename=str(file_path).split("/")[-1],
+        bucket_path=file_path,
+    )
+    status = job.get("status")
+    if status == "failed":
+        raise RuntimeError(job.get("message") or "Document reindex failed.")
+    if status == "duplicate":
+        return {"success": True, "message": "This document is already present in the local index."}
+    return {"success": True, "message": "Document added to the local index."}
+
+
+def delete_admin_document(document_id: str) -> Dict[str, Any]:
+    client = _get_supabase_client()
+    response = client.table("documents").select("id, file_path").eq("id", document_id).limit(1).execute()
+    rows = (response.data or []) if hasattr(response, "data") else []
+    if not rows:
+        raise FileNotFoundError(f"Document not found: {document_id}")
+    row = rows[0]
+    file_path = row.get("file_path")
+    bucket = os.environ.get("SUPABASE_STORAGE_BUCKET", "academic-docs")
+    if file_path:
+        try:
+            client.storage.from_(bucket).remove([file_path])
+        except Exception as exc:
+            logger.warning("Storage delete failed for %s: %s", file_path, exc)
+    client.table("documents").delete().eq("id", document_id).execute()
+    reset_index_cache()
+    try:
+        poll_supabase_academic_docs()
+    except Exception as exc:
+        logger.warning("Rebuild after delete failed: %s", exc)
+    return {"success": True, "message": "Document deleted and local index rebuilt from remaining bucket files."}
+
+
+def get_saved_documents(auth_header: Optional[str]) -> List[Dict[str, Any]]:
+    user = _get_authenticated_user(auth_header)
+    client = _get_supabase_client()
+    try:
+        response = (
+            client.table("saved_documents")
+            .select("created_at, note, documents(id, title, author, supervisor, year, level, abstract, department)")
+            .eq("user_id", user["id"])
+            .order("created_at", desc=True)
+            .execute()
+        )
+    except Exception:
+        response = (
+            client.table("saved_documents")
+            .select("created_at, documents(id, title, author, supervisor, year, level, abstract, department)")
+            .eq("user_id", user["id"])
+            .order("created_at", desc=True)
+            .execute()
+        )
+    
+    rows = (response.data or []) if hasattr(response, "data") else []
+    documents: List[Dict[str, Any]] = []
+    for row in rows if isinstance(rows, list) else []:
+        doc = row.get("documents") or {}
+        if isinstance(doc, list):
+            doc = doc[0] if doc else {}
+        if not isinstance(doc, dict):
+            continue
+        documents.append(
+            {
+                "id": str(doc.get("id") or ""),
+                "documentId": str(doc.get("id") or ""),
+                "title": doc.get("title") or "Untitled document",
+                "author": doc.get("author"),
+                "supervisor": doc.get("supervisor"),
+                "year": doc.get("year"),
+                "level": doc.get("level"),
+                "abstract": doc.get("abstract"),
+                "department": doc.get("department"),
+                "savedAt": row.get("created_at"),
+                "note": row.get("note"),
+            }
+        )
+    return [doc for doc in documents if doc.get("documentId")]
+
+
+def save_document_for_user(document_id: str, auth_header: Optional[str], note: Optional[str] = None) -> Dict[str, Any]:
+    user = _get_authenticated_user(auth_header)
+    client = _get_supabase_client()
+    existing_document = client.table("documents").select("id").eq("id", document_id).limit(1).execute()
+    existing_rows = (existing_document.data or []) if hasattr(existing_document, "data") else []
+    if not existing_rows:
+        raise FileNotFoundError(f"Document not found: {document_id}")
+    
+    payload = {"user_id": user["id"], "document_id": document_id}
+    if note is not None:
+        payload["note"] = note
+        
+    try:
+        client.table("saved_documents").upsert(
+            payload,
+            on_conflict="user_id,document_id"
+        ).execute()
+    except Exception as e:
+        if "column \"note\"" in str(e).lower() or "could not find the 'note' column" in str(e).lower():
+            if "note" in payload:
+                del payload["note"]
+            client.table("saved_documents").upsert(
+                payload,
+                on_conflict="user_id,document_id"
+            ).execute()
+        else:
+            raise e
+            
+    return {"success": True, "message": "Document saved to your library."}
+
+
+def remove_saved_document_for_user(document_id: str, auth_header: Optional[str]) -> Dict[str, Any]:
+    user = _get_authenticated_user(auth_header)
+    client = _get_supabase_client()
+    client.table("saved_documents").delete().eq("user_id", user["id"]).eq("document_id", document_id).execute()
+    return {"success": True, "message": "Document removed from your library."}
+
+
+def get_recent_ingest_jobs(limit: int = 15) -> List[Dict[str, Any]]:
+    jobs = list(_ingest_jobs.values())
+    jobs.reverse()
+    trimmed = jobs[: max(1, limit)]
+    return [
+        {
+            "jobId": j.get("jobId"),
+            "status": j.get("status"),
+            "message": j.get("message"),
+            "title": j.get("title"),
+            "author": j.get("author"),
+            "year": j.get("year"),
+            "processedCount": j.get("processedCount"),
+            "totalCount": j.get("totalCount"),
+        }
+        for j in trimmed
+    ]

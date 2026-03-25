@@ -3,6 +3,7 @@ import { Link, Navigate } from "react-router-dom";
 import { AdminIngestionPanel } from "@/components/AdminIngestionPanel";
 import { AdminIndexStatus } from "@/components/AdminIndexStatus";
 import { AdminDocumentList } from "@/components/AdminDocumentList";
+import { AdminIngestJobs } from "@/components/AdminIngestJobs";
 
 type Props = {
   isAdmin: boolean;
@@ -31,6 +32,7 @@ export function AdminPage({ isAdmin }: Props) {
         </div>
       </div>
       <AdminIndexStatus refreshKey={refreshKey} />
+      <AdminIngestJobs refreshKey={refreshKey} />
       <AdminDocumentList refreshKey={refreshKey} onCacheReset={triggerRefresh} />
       <AdminIngestionPanel
         isAdmin={isAdmin}

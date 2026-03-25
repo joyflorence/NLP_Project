@@ -4,6 +4,7 @@ import {
   SearchFilters,
   SearchRequest,
   SearchResponse,
+  SavedDocument,
   SearchSortBy,
   SearchSortOrder,
   SignedDownloadResponse,
@@ -282,14 +283,14 @@ export const mockApi = {
     };
   },
 
-  async getDocumentFullText(documentId: string): Promise<{ fullText: string; title: string; documentId: string }> {
+  async getDocumentFullText(documentId: string): Promise<{ fullText: string; title: string; author?: string | null; year?: number | null; documentId: string }> {
     await delay(200);
     const doc = mockCorpus.find((d) => d.id === documentId);
     if (!doc) {
       throw new Error("Document not found.");
     }
     const fullText = doc.abstract ?? "No full text available for this document.";
-    return { fullText, title: doc.title, documentId };
+    return { fullText, title: doc.title, author: doc.author ?? null, year: doc.year ?? null, documentId };
   },
 
   async getStatus() {
@@ -320,6 +321,80 @@ export const mockApi = {
         chunks: 4
       }))
     };
+  },
+
+  async getAdminDocuments() {
+    await delay(200);
+    return {
+      documents: mockCorpus.map((doc, idx) => ({
+        id: doc.id,
+        title: doc.title,
+        author: doc.author ?? null,
+        supervisor: doc.supervisor ?? null,
+        year: doc.year ?? null,
+        level: doc.level ?? null,
+        department: doc.department ?? null,
+        abstract: doc.abstract ?? null,
+        file_path: `mock/${doc.id}.pdf`,
+        created_at: new Date(Date.now() - idx * 86400000).toISOString(),
+        indexed: true,
+        pages: 12 + idx,
+        chunks: 24 + idx
+      }))
+    };
+  },
+
+  async updateAdminDocument() {
+    await delay(200);
+    return { success: true, message: "Mock document metadata updated." };
+  },
+
+  async deleteAdminDocument() {
+    await delay(200);
+    return { success: true, message: "Mock document deleted." };
+  },
+
+  async reindexAdminDocument() {
+    await delay(200);
+    return { success: true, message: "Mock document added to the local index." };
+  },
+
+  async getAdminIngestJobs() {
+    await delay(150);
+    return {
+      jobs: [
+        {
+          jobId: "mock-job-1",
+          status: "completed",
+          message: "Mock indexed 1 document.",
+          title: mockCorpus[0]?.title ?? null,
+          author: mockCorpus[0]?.author ?? null,
+          year: mockCorpus[0]?.year ?? null,
+          processedCount: 1,
+          totalCount: 1
+        }
+      ]
+    };
+  },
+
+  async getSavedDocuments() {
+    await delay(120);
+    return {
+      documents: mockCorpus.slice(0, 2).map((doc, idx) => ({
+        ...doc,
+        savedAt: new Date(Date.now() - idx * 3600000).toISOString()
+      })) as SavedDocument[]
+    };
+  },
+
+  async saveDocumentToLibrary() {
+    await delay(120);
+    return { success: true, message: "Document saved to your library." };
+  },
+
+  async removeDocumentFromLibrary() {
+    await delay(120);
+    return { success: true, message: "Document removed from your library." };
   }
 };
 

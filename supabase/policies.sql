@@ -23,6 +23,17 @@ create index if not exists documents_level_idx on public.documents (level);
 create index if not exists documents_department_idx on public.documents (department);
 create index if not exists documents_supervisor_idx on public.documents (supervisor);
 
+
+create table if not exists public.saved_documents (
+  user_id uuid not null references auth.users(id) on delete cascade,
+  document_id uuid not null references public.documents(id) on delete cascade,
+  created_at timestamptz not null default now(),
+  primary key (user_id, document_id)
+);
+
+create index if not exists saved_documents_user_idx on public.saved_documents (user_id, created_at desc);
+create index if not exists saved_documents_document_idx on public.saved_documents (document_id);
+
 -- 0b) Admin role assignment helpers (uses app_metadata.role; never user_metadata)
 -- Bootstrap first admin manually in SQL editor (once):
 -- update auth.users
@@ -126,6 +137,29 @@ using (
   uploaded_by = auth.uid()
   and coalesce(auth.jwt() -> 'app_metadata' ->> 'role', '') = 'admin'
 );
+
+alter table if exists public.saved_documents enable row level security;
+
+drop policy if exists "saved_documents_owner_read" on public.saved_documents;
+create policy "saved_documents_owner_read"
+on public.saved_documents
+for select
+to authenticated
+using (user_id = auth.uid());
+
+drop policy if exists "saved_documents_owner_insert" on public.saved_documents;
+create policy "saved_documents_owner_insert"
+on public.saved_documents
+for insert
+to authenticated
+with check (user_id = auth.uid());
+
+drop policy if exists "saved_documents_owner_delete" on public.saved_documents;
+create policy "saved_documents_owner_delete"
+on public.saved_documents
+for delete
+to authenticated
+using (user_id = auth.uid());
 
 -- 2) Storage bucket for full downloadable documents
 insert into storage.buckets (id, name, public)

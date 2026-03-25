@@ -73,6 +73,7 @@ class IngestJob(BaseModel):
     title: Optional[str] = None
     author: Optional[str] = None
     year: Optional[int] = None
+    abstract: Optional[str] = None
 
 
 class EvaluationMetrics(BaseModel):
@@ -100,3 +101,83 @@ class ResetIndexCacheResponse(BaseModel):
     removed_cache_files: int = 0
     removed_raw_pdfs: int = 0
     message: Optional[str] = None
+
+
+class FullTextResponse(BaseModel):
+    fullText: str
+    title: str
+    author: Optional[str] = None
+    year: Optional[int] = None
+    documentId: str
+
+
+class SavedDocument(BaseModel):
+    documentId: str
+    title: str
+    author: Optional[str] = None
+    supervisor: Optional[str] = None
+    year: Optional[int] = None
+    level: Optional[Literal["undergraduate", "postgrad"]] = None
+    abstract: Optional[str] = None
+    department: Optional[str] = None
+    savedAt: Optional[str] = None
+    note: Optional[str] = None
+
+
+class SavedDocumentsResponse(BaseModel):
+    documents: List[SavedDocument]
+
+
+class SaveDocumentRequest(BaseModel):
+    documentId: str
+    note: Optional[str] = None
+
+
+class AdminDocument(BaseModel):
+    id: str
+    title: str
+    author: Optional[str] = None
+    supervisor: Optional[str] = None
+    year: Optional[int] = None
+    level: Optional[Literal["undergraduate", "postgrad"]] = None
+    department: Optional[str] = None
+    abstract: Optional[str] = None
+    file_path: Optional[str] = None
+    created_at: Optional[str] = None
+    indexed: bool = False
+    pages: Optional[int] = None
+    chunks: Optional[int] = None
+
+
+class AdminDocumentsResponse(BaseModel):
+    documents: List[AdminDocument]
+
+
+class AdminDocumentUpdateRequest(BaseModel):
+    title: Optional[str] = None
+    author: Optional[str] = None
+    supervisor: Optional[str] = None
+    year: Optional[int] = Field(default=None, ge=1900, le=2100)
+    level: Optional[Literal["undergraduate", "postgrad"]] = None
+    department: Optional[str] = None
+    abstract: Optional[str] = None
+
+
+class AdminActionResponse(BaseModel):
+    success: bool
+    message: str
+
+
+class AdminIngestJobSummary(BaseModel):
+    jobId: str
+    status: str
+    message: Optional[str] = None
+    title: Optional[str] = None
+    author: Optional[str] = None
+    year: Optional[int] = None
+    processedCount: Optional[int] = None
+    totalCount: Optional[int] = None
+
+
+class AdminIngestJobsResponse(BaseModel):
+    jobs: List[AdminIngestJobSummary]

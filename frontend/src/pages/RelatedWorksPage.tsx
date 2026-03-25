@@ -5,9 +5,11 @@ import { DocumentRecord } from "@/types/domain";
 
 type Props = {
   onDownloadDocument: (doc: DocumentRecord) => void;
+  onToggleSaveDocument: (doc: DocumentRecord) => void;
+  isDocumentSaved: (documentId: string) => boolean;
 };
 
-export function RelatedWorksPage({ onDownloadDocument }: Props) {
+export function RelatedWorksPage({ onDownloadDocument, onToggleSaveDocument, isDocumentSaved }: Props) {
   const [params] = useSearchParams();
   const navigate = useNavigate();
   const [selected, setSelected] = useState<DocumentRecord | null>(null);
@@ -62,8 +64,9 @@ export function RelatedWorksPage({ onDownloadDocument }: Props) {
         selectedDocument={selected}
         onSelectDocument={setSelected}
         onDownloadDocument={onDownloadDocument}
+        onToggleSaveDocument={onToggleSaveDocument}
+        isDocumentSaved={isDocumentSaved}
       />
     </>
   );
 }
-

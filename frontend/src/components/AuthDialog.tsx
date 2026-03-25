@@ -12,6 +12,7 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
   const [mode, setMode] = useState<"signin" | "signup" | "reset">(initialMode);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
@@ -132,14 +133,32 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
 
           <label>
             Password
-            <input
-              type="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              required={mode !== "reset"}
-              minLength={6}
-              disabled={mode === "reset"}
-            />
+            <div className="auth-password-row">
+              <input
+                className={mode !== "reset" ? "auth-password-input has-toggle" : "auth-password-input"}
+                type={showPassword ? "text" : "password"}
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                required={mode !== "reset"}
+                minLength={6}
+                disabled={mode === "reset"}
+              />
+              {mode !== "reset" ? (
+                <button
+                  type="button"
+                  className="auth-password-toggle"
+                  onClick={() => setShowPassword((value) => !value)}
+                  aria-label={showPassword ? "Hide password" : "Show password"}
+                  title={showPassword ? "Hide password" : "Show password"}
+                >
+                  <svg viewBox="0 0 24 24" className="auth-password-icon" aria-hidden="true">
+                    <path d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6z" />
+                    <circle cx="12" cy="12" r="3" />
+                    {showPassword ? <path d="M4 4l16 16" /> : null}
+                  </svg>
+                </button>
+              ) : null}
+            </div>
           </label>
 
           <button type="submit" disabled={loading || ((mode === "signup" || mode === "reset") && cooldownSeconds > 0)}>

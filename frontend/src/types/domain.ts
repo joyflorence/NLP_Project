@@ -58,6 +58,12 @@ export type SignedDownloadResponse = {
   expiresIn?: number;
 };
 
+export type SavedDocument = DocumentRecord & {
+  documentId: string;
+  savedAt?: string;
+  note?: string;
+};
+
 export type IngestJob = {
   jobId: string;
   status: "queued" | "processing" | "completed" | "failed" | "duplicate";
@@ -67,6 +73,7 @@ export type IngestJob = {
   title?: string | null;
   author?: string | null;
   year?: number | null;
+  abstract?: string | null;
 };
 
 export type EvaluationMetrics = {
@@ -78,4 +85,55 @@ export type EvaluationMetrics = {
 export type EvaluationResponse = {
   metrics: EvaluationMetrics[];
   note?: string;
+};
+
+
+export type FullTextResponse = {
+  fullText: string;
+  title: string;
+  author?: string | null;
+  year?: number | null;
+  documentId: string;
+};
+
+export type AdminDocument = {
+  id: string;
+  title: string;
+  author?: string | null;
+  supervisor?: string | null;
+  year?: number | null;
+  level?: "undergraduate" | "postgrad" | null;
+  department?: string | null;
+  abstract?: string | null;
+  file_path?: string | null;
+  created_at?: string | null;
+  indexed: boolean;
+  pages?: number | null;
+  chunks?: number | null;
+};
+
+export type AdminDocumentUpdateRequest = {
+  title?: string;
+  author?: string;
+  supervisor?: string;
+  year?: number;
+  level?: "undergraduate" | "postgrad";
+  department?: string;
+  abstract?: string;
+};
+
+export type AdminActionResponse = {
+  success: boolean;
+  message: string;
+};
+
+export type AdminIngestJobSummary = {
+  jobId: string;
+  status: string;
+  message?: string;
+  title?: string | null;
+  author?: string | null;
+  year?: number | null;
+  processedCount?: number;
+  totalCount?: number;
 };

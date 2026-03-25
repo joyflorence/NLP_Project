@@ -8,9 +8,17 @@ type Props = {
   selectedDocument: DocumentRecord | null;
   onSelectDocument: (doc: DocumentRecord) => void;
   onDownloadDocument: (doc: DocumentRecord) => void;
+  onToggleSaveDocument: (doc: DocumentRecord) => void;
+  isDocumentSaved: (documentId: string) => boolean;
 };
 
-export function SimilarityPanel({ selectedDocument, onSelectDocument, onDownloadDocument }: Props) {
+export function SimilarityPanel({
+  selectedDocument,
+  onSelectDocument,
+  onDownloadDocument,
+  onToggleSaveDocument,
+  isDocumentSaved
+}: Props) {
   const [related, setRelated] = useState<DocumentRecord[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -43,6 +51,8 @@ export function SimilarityPanel({ selectedDocument, onSelectDocument, onDownload
               doc={doc}
               onDownload={onDownloadDocument}
               onPreview={setPreviewDoc}
+              onToggleSave={onToggleSaveDocument}
+              isSaved={isDocumentSaved(doc.id)}
             />
           ))}
         </div>

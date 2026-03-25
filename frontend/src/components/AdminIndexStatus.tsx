@@ -10,6 +10,7 @@ export function AdminIndexStatus({ refreshKey = 0 }: Props) {
     initialized: boolean;
     total_chunks: number;
     total_documents: number;
+    registry_documents?: number;
     error?: string;
   } | null>(null);
   const [loading, setLoading] = useState(true);
@@ -67,7 +68,7 @@ export function AdminIndexStatus({ refreshKey = 0 }: Props) {
           </span>
         </div>
         <div className="index-status-item">
-          <span className="index-status-label">Documents</span>
+          <span className="index-status-label">Searchable documents</span>
           <span className="index-status-value">{status?.total_documents ?? 0}</span>
         </div>
         <div className="index-status-item">
@@ -75,6 +76,9 @@ export function AdminIndexStatus({ refreshKey = 0 }: Props) {
           <span className="index-status-value">{status?.total_chunks ?? 0}</span>
         </div>
       </div>
+      {typeof status?.registry_documents === "number" && status.registry_documents > (status?.total_documents ?? 0) ? (
+        <p className="muted">Registry records: {status.registry_documents}. If this is higher than searchable documents, the cache registry has stale entries that are not currently searchable.</p>
+      ) : null}
       {status?.error ? <p className="error">{status.error}</p> : null}
     </section>
   );

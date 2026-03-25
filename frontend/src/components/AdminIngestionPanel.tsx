@@ -62,6 +62,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     title?: string | null;
     author?: string | null;
     year?: number | null;
+    abstract?: string | null;
   }> {
     setProgress(`Uploading ${index} of ${total}: ${file.name}...`);
 
@@ -121,7 +122,8 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         duplicateContent: true,
         title: job.title ?? null,
         author: job.author ?? null,
-        year: job.year ?? null
+        year: job.year ?? null,
+        abstract: job.abstract ?? null
       };
     }
 
@@ -132,7 +134,8 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         error: job.message ?? "Indexing failed.",
         title: job.title ?? null,
         author: job.author ?? null,
-        year: job.year ?? null
+        year: job.year ?? null,
+        abstract: job.abstract ?? null
       };
     }
 
@@ -140,13 +143,15 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     const finalTitle = manualTitle || job.title?.trim() || docTitle;
     const finalAuthor = manualAuthor || job.author?.trim() || "Unknown";
     const finalYear = manualYear ?? extractedYear ?? insertYear;
+    const finalAbstract = job.abstract?.trim() || null;
 
     const { error: updateError } = await supabase!
       .from("documents")
       .update({
         title: finalTitle,
         author: finalAuthor,
-        year: finalYear
+        year: finalYear,
+        abstract: finalAbstract
       })
       .eq("file_path", objectPath)
       .eq("uploaded_by", user.id);
@@ -158,6 +163,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       ok: true,
       name: file.name,
       title: finalTitle,
+      abstract: finalAbstract,
       author: finalAuthor,
       year: finalYear
     };

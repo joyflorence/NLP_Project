@@ -1,8 +1,14 @@
 import { mockApi } from "@/api/mock";
 import {
+  AdminActionResponse,
+  AdminDocument,
+  AdminDocumentUpdateRequest,
+  AdminIngestJobSummary,
+  FullTextResponse,
   IngestJob,
   SearchRequest,
   SearchResponse,
+  SavedDocument,
   SignedDownloadResponse,
   SimilarityResponse
 } from "@/types/domain";
@@ -114,9 +120,7 @@ const httpApi = {
   },
 
   async getDocumentFullText(documentId: string) {
-    return request<{ fullText: string; title: string; documentId: string }>(
-      `/documents/full-text?documentId=${encodeURIComponent(documentId)}`
-    );
+    return request<FullTextResponse>(`/documents/full-text?documentId=${encodeURIComponent(documentId)}`);
   },
 
   async getStatus() {
@@ -124,6 +128,7 @@ const httpApi = {
       initialized: boolean;
       total_chunks: number;
       total_documents: number;
+      registry_documents?: number;
       error?: string;
     }>("/status");
   },
@@ -142,6 +147,50 @@ const httpApi = {
       message?: string;
     }>("/admin/reset-index-cache", {
       method: "POST"
+    });
+  },
+
+  async getAdminDocuments() {
+    return request<{ documents: AdminDocument[] }>("/admin/documents");
+  },
+
+  async updateAdminDocument(documentId: string, payload: AdminDocumentUpdateRequest) {
+    return request<AdminActionResponse>(`/admin/documents/${documentId}`, {
+      method: "PATCH",
+      body: JSON.stringify(payload)
+    });
+  },
+
+  async deleteAdminDocument(documentId: string) {
+    return request<AdminActionResponse>(`/admin/documents/${documentId}`, {
+      method: "DELETE"
+    });
+  },
+
+  async reindexAdminDocument(documentId: string) {
+    return request<AdminActionResponse>(`/admin/documents/${documentId}/reindex`, {
+      method: "POST"
+    });
+  },
+
+  async getAdminIngestJobs(limit = 15) {
+    return request<{ jobs: AdminIngestJobSummary[] }>(`/admin/ingest-jobs?limit=${limit}`);
+  },
+
+  async getSavedDocuments() {
+    return request<{ documents: SavedDocument[] }>("/library");
+  },
+
+  async saveDocumentToLibrary(documentId: string, note?: string) {
+    return request<AdminActionResponse>("/library", {
+      method: "POST",
+      body: JSON.stringify({ documentId, ...(note ? { note } : {}) })
+    });
+  },
+
+  async removeDocumentFromLibrary(documentId: string) {
+    return request<AdminActionResponse>(`/library/${documentId}`, {
+      method: "DELETE"
     });
   }
 };
