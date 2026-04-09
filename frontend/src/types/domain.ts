@@ -11,6 +11,7 @@ export type DocumentRecord = {
   department?: string;
   keywords?: string[];
   score?: number;
+  matchSnippet?: string;
 };
 
 export type SearchFilters = {
@@ -136,4 +137,6 @@ export type AdminIngestJobSummary = {
   year?: number | null;
   processedCount?: number;
   totalCount?: number;
+  createdAt?: string | null;
+  source?: string | null;
 };

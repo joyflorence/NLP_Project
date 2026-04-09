@@ -40,6 +40,7 @@ export function App() {
   const [authMode, setAuthMode] = useState<"signin" | "signup" | "reset">("signin");
   const [accountMenuOpen, setAccountMenuOpen] = useState(false);
   const [savedDocuments, setSavedDocuments] = useState<SavedDocument[]>([]);
+  const [libraryNotice, setLibraryNotice] = useState<string | null>(null);
 
   async function refreshSavedDocuments(nextIsAuthenticated: boolean, nextIsAdmin: boolean) {
     if (!nextIsAuthenticated || nextIsAdmin) {
@@ -53,6 +54,13 @@ export function App() {
       setSavedDocuments([]);
     }
   }
+
+
+  useEffect(() => {
+    if (!libraryNotice) return;
+    const timer = window.setTimeout(() => setLibraryNotice(null), 2200);
+    return () => window.clearTimeout(timer);
+  }, [libraryNotice]);
 
   useEffect(() => {
     void api
@@ -135,8 +143,10 @@ export function App() {
     try {
       if (savedDocuments.some((item) => item.id === doc.id)) {
         await api.removeDocumentFromLibrary(doc.id);
+        setLibraryNotice(`Removed "${doc.title}" from your library.`);
       } else {
         await api.saveDocumentToLibrary(doc.id);
+        setLibraryNotice(`Saved "${doc.title}" to your library.`);
       }
       await refreshSavedDocuments(true, isAdmin);
     } catch (err) {
@@ -269,6 +279,8 @@ export function App() {
           </div>
         </div>
       </header>
+
+      {libraryNotice ? <div className="global-library-notice">{libraryNotice}</div> : null}
 
       <Routes>
         <Route

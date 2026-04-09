@@ -185,28 +185,37 @@ async def list_indexed_documents():
 
 
 @app.post("/api/admin/reset-index-cache", response_model=ResetIndexCacheResponse)
-async def reset_index_cache():
+async def reset_index_cache(request: Request):
     """Clear local index/cache state so deleted bucket files stop appearing until re-ingested."""
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         result = services.reset_index_cache()
         return ResetIndexCacheResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.get("/api/admin/documents", response_model=AdminDocumentsResponse)
-async def list_admin_documents():
+async def list_admin_documents(request: Request):
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         return AdminDocumentsResponse(documents=services.get_admin_documents())
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.patch("/api/admin/documents/{document_id}", response_model=AdminActionResponse)
-async def update_admin_document(document_id: str, payload: AdminDocumentUpdateRequest):
+async def update_admin_document(document_id: str, payload: AdminDocumentUpdateRequest, request: Request):
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         result = services.update_admin_document(document_id, payload.model_dump(exclude_none=True))
         return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except FileNotFoundError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
@@ -214,10 +223,13 @@ async def update_admin_document(document_id: str, payload: AdminDocumentUpdateRe
 
 
 @app.delete("/api/admin/documents/{document_id}", response_model=AdminActionResponse)
-async def delete_admin_document(document_id: str):
+async def delete_admin_document(document_id: str, request: Request):
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         result = services.delete_admin_document(document_id)
         return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except FileNotFoundError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
@@ -225,10 +237,13 @@ async def delete_admin_document(document_id: str):
 
 
 @app.post("/api/admin/documents/{document_id}/reindex", response_model=AdminActionResponse)
-async def reindex_admin_document(document_id: str):
+async def reindex_admin_document(document_id: str, request: Request):
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         result = services.reindex_admin_document(document_id)
         return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except FileNotFoundError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
@@ -236,9 +251,23 @@ async def reindex_admin_document(document_id: str):
 
 
 @app.get("/api/admin/ingest-jobs", response_model=AdminIngestJobsResponse)
-async def list_recent_ingest_jobs(limit: int = 15):
+async def list_recent_ingest_jobs(request: Request, limit: int = 15):
     try:
+        services.require_admin_user(request.headers.get("Authorization"))
         return AdminIngestJobsResponse(jobs=services.get_recent_ingest_jobs(limit=limit))
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.delete("/api/admin/ingest-jobs", response_model=AdminActionResponse)
+async def clear_recent_ingest_jobs(request: Request):
+    try:
+        services.require_admin_user(request.headers.get("Authorization"))
+        return AdminActionResponse(**services.clear_recent_ingest_jobs())
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

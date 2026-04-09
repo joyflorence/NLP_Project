@@ -31,8 +31,27 @@ create table if not exists public.saved_documents (
   primary key (user_id, document_id)
 );
 
+alter table if exists public.saved_documents add column if not exists note text;
+
 create index if not exists saved_documents_user_idx on public.saved_documents (user_id, created_at desc);
 create index if not exists saved_documents_document_idx on public.saved_documents (document_id);
+
+create table if not exists public.recent_activity (
+  id uuid primary key default gen_random_uuid(),
+  job_id text,
+  activity_type text not null default 'ingest',
+  status text not null,
+  message text,
+  title text,
+  author text,
+  year int,
+  processed_count int,
+  total_count int,
+  source text,
+  created_at timestamptz not null default now()
+);
+
+create index if not exists recent_activity_type_created_idx on public.recent_activity (activity_type, created_at desc);
 
 -- 0b) Admin role assignment helpers (uses app_metadata.role; never user_metadata)
 -- Bootstrap first admin manually in SQL editor (once):
@@ -140,6 +159,8 @@ using (
 
 alter table if exists public.saved_documents enable row level security;
 
+alter table if exists public.recent_activity enable row level security;
+
 drop policy if exists "saved_documents_owner_read" on public.saved_documents;
 create policy "saved_documents_owner_read"
 on public.saved_documents
@@ -160,6 +181,20 @@ on public.saved_documents
 for delete
 to authenticated
 using (user_id = auth.uid());
+
+drop policy if exists "recent_activity_admin_read" on public.recent_activity;
+create policy "recent_activity_admin_read"
+on public.recent_activity
+for select
+to authenticated
+using (coalesce(auth.jwt() -> 'app_metadata' ->> 'role', '') = 'admin');
+
+drop policy if exists "recent_activity_admin_delete" on public.recent_activity;
+create policy "recent_activity_admin_delete"
+on public.recent_activity
+for delete
+to authenticated
+using (coalesce(auth.jwt() -> 'app_metadata' ->> 'role', '') = 'admin');
 
 -- 2) Storage bucket for full downloadable documents
 insert into storage.buckets (id, name, public)

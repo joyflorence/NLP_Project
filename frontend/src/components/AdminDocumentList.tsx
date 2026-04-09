@@ -324,8 +324,12 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                           >
                             {actionsOpen ? "Close" : "Manage"}
                           </button>
-                          {actionsOpen ? (
-                            <div className="admin-row-menu">
+                        </td>
+                      </tr>
+                      {actionsOpen ? (
+                        <tr className="admin-document-actions-row">
+                          <td colSpan={7}>
+                            <div className="admin-row-menu admin-row-menu-inline">
                               <button
                                 type="button"
                                 className={doc.indexed ? "admin-row-menu-action" : "admin-row-menu-action is-primary"}
@@ -341,9 +345,9 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                                 {deletingId === doc.id ? "Removing..." : "Delete document"}
                               </button>
                             </div>
-                          ) : null}
-                        </td>
-                      </tr>
+                          </td>
+                        </tr>
+                      ) : null}
                       {isEditing ? (
                         <tr className="admin-document-edit-row">
                           <td colSpan={7}>

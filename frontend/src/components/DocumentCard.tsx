@@ -101,6 +101,12 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onTogg
         </div>
       ) : null}
 
+      {doc.matchSnippet ? (
+        <div className="search-match-snippet" style={{ borderLeft: "3px solid var(--accent-color, #1a73e8)", backgroundColor: "var(--surface-color, #f8f9fa)", padding: "12px", margin: "16px 0", borderRadius: "0 8px 8px 0", fontStyle: "italic", color: "var(--text-color, #495057)", fontSize: "0.95em", overflowWrap: "break-word" }}>
+          <strong>Relevant Match:</strong> "{highlightText(doc.matchSnippet, searchQuery)}"
+        </div>
+      ) : null}
+
       <div className="card-actions-shell">
         <div className="card-actions">
           {onFindSimilar ? (

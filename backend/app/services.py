@@ -122,11 +122,12 @@ def _backend_to_document(r: dict, doc_id: Optional[str] = None) -> dict:
         "year": None,
         "level": None,
         "downloadUrl": None,
-        "abstract": r.get("preview") or r.get("text_preview", ""),
+        "abstract": None,
         "sourceType": "pdf",
         "department": None,
         "keywords": None,
         "score": r.get("score"),
+        "matchSnippet": r.get("preview") or r.get("text_preview", ""),
     }
 
 
@@ -764,6 +765,7 @@ def run_ingest(source_path: Optional[str] = None, files: Optional[List[str]] = N
             "message": str(e),
         }
 
+    _record_recent_activity(_ingest_jobs[job_id], source="manual")
     return _ingest_jobs[job_id]
 
 
@@ -1170,7 +1172,14 @@ def get_ingest_job(job_id: str) -> Optional[dict]:
     return _ingest_jobs.get(job_id)
 
 
-def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: Optional[str] = None) -> dict:
+def run_ingest_from_url(
+    url: str,
+    filename: Optional[str] = None,
+    bucket_path: Optional[str] = None,
+    *,
+    allow_duplicate: bool = False,
+    activity_source: str = "storage-url",
+) -> dict:
     """Download a document from URL to raw_pdfs and run ingestion. Used for Supabase Storage uploads.
     If bucket_path is provided and ingest succeeds, it is recorded so the Supabase poller skips it.
     """
@@ -1224,7 +1233,7 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
                 except Exception as e:
                     logger.warning("Could not hash %s: %s", f, e)
             _save_indexed_content_hashes(existing_hashes)
-        if content_hash in existing_hashes:
+        if content_hash in existing_hashes and not allow_duplicate:
             meta = _extract_pdf_metadata(local_path)
             _ingest_jobs[job_id] = {
                 "jobId": job_id,
@@ -1237,6 +1246,7 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
                 "year": meta.get("year"),
                 "abstract": meta.get("abstract"),
             }
+            _record_recent_activity(_ingest_jobs[job_id], source=activity_source)
             return _ingest_jobs[job_id]
 
         result = engine.index_documents([str(local_path)])
@@ -1271,6 +1281,7 @@ def run_ingest_from_url(url: str, filename: Optional[str] = None, bucket_path: O
             "message": str(e),
         }
 
+    _record_recent_activity(_ingest_jobs[job_id], source=activity_source)
     return _ingest_jobs[job_id]
 
 
@@ -1386,9 +1397,16 @@ def _get_authenticated_user(auth_header: Optional[str]) -> Dict[str, Any]:
     user_id = getattr(user, "id", None)
     if not user_id:
         raise PermissionError("Authenticated user is missing id.")
+    app_metadata = getattr(user, "app_metadata", None)
+    if app_metadata is None:
+        raw_app_meta_data = getattr(user, "raw_app_meta_data", None)
+        app_metadata = raw_app_meta_data if isinstance(raw_app_meta_data, dict) else {}
+    if not isinstance(app_metadata, dict):
+        app_metadata = {}
     return {
         "id": str(user_id),
         "email": getattr(user, "email", None),
+        "role": app_metadata.get("role"),
     }
 
 
@@ -1405,6 +1423,37 @@ def _get_supabase_client():
     return create_client(url, key)
 
 
+def require_admin_user(auth_header: Optional[str]) -> Dict[str, Any]:
+    user = _get_authenticated_user(auth_header)
+    if str(user.get("role") or "").strip().lower() != "admin":
+        raise PermissionError("Admin privileges are required for this action.")
+    return user
+
+
+
+def _record_recent_activity(job: Dict[str, Any], source: str = "manual") -> None:
+    try:
+        client = _get_supabase_client()
+        client.table("recent_activity").insert(
+            {
+                "job_id": job.get("jobId"),
+                "activity_type": "ingest",
+                "status": job.get("status"),
+                "message": job.get("message"),
+                "title": job.get("title"),
+                "author": job.get("author"),
+                "year": job.get("year"),
+                "processed_count": job.get("processedCount"),
+                "total_count": job.get("totalCount"),
+                "source": source,
+            }
+        ).execute()
+    except Exception as exc:
+        logger.debug("Could not persist recent activity: %s", exc)
+
+
+
+
 def _get_admin_document_row(document_id: str) -> Dict[str, Any]:
     client = _get_supabase_client()
     response = client.table("documents").select(
@@ -1414,6 +1463,32 @@ def _get_admin_document_row(document_id: str) -> Dict[str, Any]:
     if not rows:
         raise FileNotFoundError(f"Document not found: {document_id}")
     return rows[0]
+
+
+def _resolve_document_uuid(document_id: str) -> str:
+    candidate = str(document_id or "").strip()
+    if not candidate:
+        raise FileNotFoundError("Document id is missing.")
+
+    client = _get_supabase_client()
+    direct = client.table("documents").select("id").eq("id", candidate).limit(1).execute()
+    direct_rows = (direct.data or []) if hasattr(direct, "data") else []
+    if direct_rows:
+        return str(direct_rows[0].get("id"))
+
+    response = client.table("documents").select("id, file_path").execute()
+    rows = (response.data or []) if hasattr(response, "data") else []
+    candidate_keys = _document_name_keys(candidate)
+    for row in rows if isinstance(rows, list) else []:
+        file_path = str(row.get("file_path") or "")
+        file_name = file_path.split("/")[-1] if file_path else ""
+        row_keys = _document_name_keys(file_name) | _document_name_keys(file_path)
+        if candidate_keys & row_keys:
+            resolved = row.get("id")
+            if resolved:
+                return str(resolved)
+
+    raise FileNotFoundError(f"Document not found: {document_id}")
 
 
 def get_admin_documents() -> List[Dict[str, Any]]:
@@ -1485,6 +1560,8 @@ def reindex_admin_document(document_id: str) -> Dict[str, Any]:
         url=signed_url,
         filename=str(file_path).split("/")[-1],
         bucket_path=file_path,
+        allow_duplicate=True,
+        activity_source="admin-reindex",
     )
     status = job.get("status")
     if status == "failed":
@@ -1520,35 +1597,60 @@ def delete_admin_document(document_id: str) -> Dict[str, Any]:
 def get_saved_documents(auth_header: Optional[str]) -> List[Dict[str, Any]]:
     user = _get_authenticated_user(auth_header)
     client = _get_supabase_client()
+
+    saved_rows = []
     try:
         response = (
             client.table("saved_documents")
-            .select("created_at, note, documents(id, title, author, supervisor, year, level, abstract, department)")
+            .select("document_id, created_at, note")
             .eq("user_id", user["id"])
             .order("created_at", desc=True)
             .execute()
         )
+        saved_rows = (response.data or []) if hasattr(response, "data") else []
     except Exception:
         response = (
             client.table("saved_documents")
-            .select("created_at, documents(id, title, author, supervisor, year, level, abstract, department)")
+            .select("document_id, created_at")
             .eq("user_id", user["id"])
             .order("created_at", desc=True)
             .execute()
         )
-    
-    rows = (response.data or []) if hasattr(response, "data") else []
+        saved_rows = (response.data or []) if hasattr(response, "data") else []
+
+    if not isinstance(saved_rows, list) or not saved_rows:
+        return []
+
+    document_ids = [str(row.get("document_id") or "") for row in saved_rows if row.get("document_id")]
+    if not document_ids:
+        return []
+
+    docs_response = (
+        client.table("documents")
+        .select("id, title, author, supervisor, year, level, abstract, department")
+        .in_("id", document_ids)
+        .execute()
+    )
+    docs_rows = (docs_response.data or []) if hasattr(docs_response, "data") else []
+    docs_by_id = {
+        str(row.get("id") or ""): row
+        for row in docs_rows if isinstance(row, dict) and row.get("id")
+    }
+
     documents: List[Dict[str, Any]] = []
-    for row in rows if isinstance(rows, list) else []:
-        doc = row.get("documents") or {}
-        if isinstance(doc, list):
-            doc = doc[0] if doc else {}
-        if not isinstance(doc, dict):
+    for row in saved_rows:
+        if not isinstance(row, dict):
+            continue
+        document_id = str(row.get("document_id") or "")
+        if not document_id:
+            continue
+        doc = docs_by_id.get(document_id)
+        if not doc:
             continue
         documents.append(
             {
-                "id": str(doc.get("id") or ""),
-                "documentId": str(doc.get("id") or ""),
+                "id": document_id,
+                "documentId": document_id,
                 "title": doc.get("title") or "Untitled document",
                 "author": doc.get("author"),
                 "supervisor": doc.get("supervisor"),
@@ -1560,18 +1662,15 @@ def get_saved_documents(auth_header: Optional[str]) -> List[Dict[str, Any]]:
                 "note": row.get("note"),
             }
         )
-    return [doc for doc in documents if doc.get("documentId")]
+    return documents
 
 
 def save_document_for_user(document_id: str, auth_header: Optional[str], note: Optional[str] = None) -> Dict[str, Any]:
     user = _get_authenticated_user(auth_header)
     client = _get_supabase_client()
-    existing_document = client.table("documents").select("id").eq("id", document_id).limit(1).execute()
-    existing_rows = (existing_document.data or []) if hasattr(existing_document, "data") else []
-    if not existing_rows:
-        raise FileNotFoundError(f"Document not found: {document_id}")
-    
-    payload = {"user_id": user["id"], "document_id": document_id}
+    resolved_document_id = _resolve_document_uuid(document_id)
+
+    payload = {"user_id": user["id"], "document_id": resolved_document_id}
     if note is not None:
         payload["note"] = note
         
@@ -1597,14 +1696,46 @@ def save_document_for_user(document_id: str, auth_header: Optional[str], note: O
 def remove_saved_document_for_user(document_id: str, auth_header: Optional[str]) -> Dict[str, Any]:
     user = _get_authenticated_user(auth_header)
     client = _get_supabase_client()
-    client.table("saved_documents").delete().eq("user_id", user["id"]).eq("document_id", document_id).execute()
+    resolved_document_id = _resolve_document_uuid(document_id)
+    client.table("saved_documents").delete().eq("user_id", user["id"]).eq("document_id", resolved_document_id).execute()
     return {"success": True, "message": "Document removed from your library."}
 
 
 def get_recent_ingest_jobs(limit: int = 15) -> List[Dict[str, Any]]:
+    safe_limit = max(1, limit)
+    try:
+        client = _get_supabase_client()
+        response = (
+            client.table("recent_activity")
+            .select("job_id, status, message, title, author, year, processed_count, total_count, created_at, source")
+            .eq("activity_type", "ingest")
+            .order("created_at", desc=True)
+            .limit(safe_limit)
+            .execute()
+        )
+        rows = (response.data or []) if hasattr(response, "data") else []
+        if isinstance(rows, list):
+            return [
+                {
+                    "jobId": row.get("job_id"),
+                    "status": row.get("status"),
+                    "message": row.get("message"),
+                    "title": row.get("title"),
+                    "author": row.get("author"),
+                    "year": row.get("year"),
+                    "processedCount": row.get("processed_count"),
+                    "totalCount": row.get("total_count"),
+                    "createdAt": row.get("created_at"),
+                    "source": row.get("source"),
+                }
+                for row in rows
+            ]
+    except Exception as exc:
+        logger.debug("Could not load persistent recent activity: %s", exc)
+
     jobs = list(_ingest_jobs.values())
     jobs.reverse()
-    trimmed = jobs[: max(1, limit)]
+    trimmed = jobs[:safe_limit]
     return [
         {
             "jobId": j.get("jobId"),
@@ -1615,6 +1746,19 @@ def get_recent_ingest_jobs(limit: int = 15) -> List[Dict[str, Any]]:
             "year": j.get("year"),
             "processedCount": j.get("processedCount"),
             "totalCount": j.get("totalCount"),
+            "createdAt": j.get("createdAt"),
+            "source": j.get("source") or "runtime",
         }
         for j in trimmed
     ]
+
+
+def clear_recent_ingest_jobs() -> Dict[str, Any]:
+    global _ingest_jobs
+    try:
+        client = _get_supabase_client()
+        client.table("recent_activity").delete().eq("activity_type", "ingest").neq("id", "00000000-0000-0000-0000-000000000000").execute()
+    except Exception as exc:
+        logger.debug("Could not clear persistent recent activity: %s", exc)
+    _ingest_jobs = {}
+    return {"success": True, "message": "Recent ingest activity cleared."}

@@ -34,7 +34,7 @@ class DocumentRecord(BaseModel):
     department: Optional[str] = None
     keywords: Optional[List[str]] = None
     score: Optional[float] = None
-
+    matchSnippet: Optional[str] = None
 
 class SearchResponse(BaseModel):
     query: str
@@ -177,6 +177,8 @@ class AdminIngestJobSummary(BaseModel):
     year: Optional[int] = None
     processedCount: Optional[int] = None
     totalCount: Optional[int] = None
+    createdAt: Optional[str] = None
+    source: Optional[str] = None
 
 
 class AdminIngestJobsResponse(BaseModel):

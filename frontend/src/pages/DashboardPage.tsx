@@ -7,7 +7,7 @@ type EngineStatus = {
   initialized: boolean;
   total_chunks: number;
   total_documents: number;
-  registry_documents: number;
+  registry_documents?: number;
   error?: string;
 };
 

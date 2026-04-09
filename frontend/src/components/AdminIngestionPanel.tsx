@@ -143,7 +143,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     const finalTitle = manualTitle || job.title?.trim() || docTitle;
     const finalAuthor = manualAuthor || job.author?.trim() || "Unknown";
     const finalYear = manualYear ?? extractedYear ?? insertYear;
-    const finalAbstract = job.abstract?.trim() || null;
+    const finalAbstract = job.abstract?.trim() || "";
 
     const { error: updateError } = await supabase!
       .from("documents")

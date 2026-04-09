@@ -177,6 +177,12 @@ const httpApi = {
     return request<{ jobs: AdminIngestJobSummary[] }>(`/admin/ingest-jobs?limit=${limit}`);
   },
 
+  async clearAdminIngestJobs() {
+    return request<AdminActionResponse>("/admin/ingest-jobs", {
+      method: "DELETE"
+    });
+  },
+
   async getSavedDocuments() {
     return request<{ documents: SavedDocument[] }>("/library");
   },

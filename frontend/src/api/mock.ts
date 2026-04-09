@@ -371,10 +371,17 @@ export const mockApi = {
           author: mockCorpus[0]?.author ?? null,
           year: mockCorpus[0]?.year ?? null,
           processedCount: 1,
-          totalCount: 1
+          totalCount: 1,
+          createdAt: new Date().toISOString(),
+          source: "manual"
         }
       ]
     };
+  },
+
+  async clearAdminIngestJobs() {
+    await delay(120);
+    return { success: true, message: "Mock recent activity cleared." };
   },
 
   async getSavedDocuments() {
@@ -382,7 +389,8 @@ export const mockApi = {
     return {
       documents: mockCorpus.slice(0, 2).map((doc, idx) => ({
         ...doc,
-        savedAt: new Date(Date.now() - idx * 3600000).toISOString()
+        savedAt: new Date(Date.now() - idx * 3600000).toISOString(),
+        note: idx === 0 ? "Review chapter 2 methodology." : "Useful for literature review comparison."
       })) as SavedDocument[]
     };
   },

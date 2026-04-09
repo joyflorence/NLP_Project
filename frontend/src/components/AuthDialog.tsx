@@ -10,6 +10,7 @@ type Props = {
 
 export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
   const [mode, setMode] = useState<"signin" | "signup" | "reset">(initialMode);
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
@@ -52,6 +53,10 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
     return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
   }
 
+  function normalizeName(value: string) {
+    return value.replace(/\s+/g, " ").trim();
+  }
+
   async function onSubmit(e: FormEvent) {
     e.preventDefault();
     setError(null);
@@ -71,6 +76,10 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
       if ((mode === "signup" || mode === "reset") && cooldownSeconds > 0) {
         throw new Error(`Please wait ${cooldownSeconds}s before requesting another email.`);
       }
+      const cleanName = normalizeName(name);
+      if (mode === "signup" && cleanName.length < 2) {
+        throw new Error("Please enter your full name");
+      }
 
       if (mode === "reset") {
         const redirectTo = import.meta.env.VITE_PASSWORD_RESET_REDIRECT_URL ?? window.location.origin;
@@ -79,7 +88,16 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
         setNotice("Password reset email sent. Check your inbox.");
         setCooldownSeconds(60);
       } else if (mode === "signup") {
-        const { data, error: signUpError } = await supabase.auth.signUp({ email: cleanEmail, password });
+        const { data, error: signUpError } = await supabase.auth.signUp({
+          email: cleanEmail,
+          password,
+          options: {
+            data: {
+              full_name: cleanName,
+              name: cleanName,
+            },
+          },
+        });
         if (signUpError) throw signUpError;
 
         if (data.session?.access_token) {
@@ -126,6 +144,13 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
         </header>
 
         <form onSubmit={onSubmit} className="stack">
+          {mode === "signup" ? (
+            <label>
+              Full Name
+              <input type="text" value={name} onChange={(e) => setName(e.target.value)} required minLength={2} placeholder="Enter your full name" />
+            </label>
+          ) : null}
+
           <label>
             Email
             <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
