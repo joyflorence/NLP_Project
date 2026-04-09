@@ -835,8 +835,15 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
     def _clean_candidate(text: str) -> str:
         return re.sub(r"\s+", " ", (text or "").strip()).strip("-_:|,.;")
 
-    def _looks_like_person_name(text: str) -> bool:
+    def _normalize_author_text(text: str) -> str:
         cleaned = _clean_candidate(text)
+        cleaned = re.sub(r"\s*\([^)]*\)", "", cleaned)
+        cleaned = re.sub(r"\s*\[[^\]]*\]", "", cleaned)
+        cleaned = re.sub(r"\s{2,}", " ", cleaned).strip(" ,;:-")
+        return cleaned
+
+    def _looks_like_person_name(text: str) -> bool:
+        cleaned = _normalize_author_text(text)
         if not cleaned or len(cleaned) < 5 or len(cleaned) > 150:
             return False
         
@@ -865,6 +872,62 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
             return False
             
         return True
+
+    def _extract_author_candidate(text: str) -> Optional[str]:
+        cleaned = _normalize_author_text(text)
+        if not cleaned:
+            return None
+
+        low = cleaned.lower()
+        if any(
+            marker in low
+            for marker in (
+                "university",
+                "faculty",
+                "department",
+                "school of",
+                "college of",
+                "supervisor",
+                "abstract",
+                "chapter",
+                "thesis",
+                "dissertation",
+                "report",
+                "submitted",
+                "fulfillment",
+                "kampala",
+                "uganda",
+            )
+        ):
+            return None
+
+        if _looks_like_person_name(cleaned):
+            return cleaned[:256]
+
+        separators = [",", " and ", " & ", ";"]
+        if not any(sep in cleaned for sep in separators):
+            return None
+
+        parts = re.split(r"\s*(?:,|;|\band\b|&)\s*", cleaned)
+        normalized_parts: list[str] = []
+        for part in parts:
+            candidate = _normalize_author_text(part)
+            if not candidate:
+                continue
+            if _looks_like_person_name(candidate):
+                normalized_parts.append(candidate)
+
+        if len(normalized_parts) >= 2:
+            deduped: list[str] = []
+            seen = set()
+            for part in normalized_parts:
+                key = part.lower()
+                if key in seen:
+                    continue
+                seen.add(key)
+                deduped.append(part)
+            return ", ".join(deduped)[:256]
+        return None
 
     def _is_noise_line(text: str) -> bool:
         cleaned = _clean_candidate(text)
@@ -895,8 +958,42 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
             "makerere university",
             "kyambogo university",
             "ndejje university",
+            "uganda christian university",
+            "kampala international university",
         )
-        return low.startswith(noise_prefixes)
+        if low.startswith(noise_prefixes):
+            return True
+        if ".pdf" in low or "http://" in low or "https://" in low or "@" in cleaned:
+            return True
+        if re.search(r"(?:bba|bscee|bsc|bajc|bhrm|bd|bsit|llb|bdiv|base|bsogm|bplm|bsw|bibm)", low):
+            return True
+        if re.search(r"(?:table of contents|declaration|approval|dedication|acknowledg(?:e)?ment|abstract)", low):
+            return True
+        return False
+
+    def _is_title_like(text: str) -> bool:
+        cleaned = _clean_candidate(text)
+        low = cleaned.lower()
+        if _is_noise_line(cleaned) or _looks_like_person_name(cleaned):
+            return False
+        if len(cleaned) < 14 or len(cleaned) > 220:
+            return False
+        words = [w for w in re.split(r"\s+", cleaned) if w]
+        if len(words) < 3 or len(words) > 24:
+            return False
+        digit_count = sum(ch.isdigit() for ch in cleaned)
+        if digit_count > 4:
+            return False
+        short_code_words = sum(1 for w in words if len(w) <= 5 and w.isupper())
+        if short_code_words >= max(2, len(words) // 3):
+            return False
+        if cleaned.count("_") > 0 or cleaned.count("/") > 1:
+            return False
+        if re.fullmatch(r"[A-Z\s\d\-_:]+", cleaned) and len(words) <= 3:
+            return False
+        if low.endswith(".pdf"):
+            return False
+        return True
 
     filename_matches = re.findall(r"(19|20)\d{2}", path.stem)
     if filename_matches:
@@ -915,8 +1012,10 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
 
         if raw_title and not _looks_like_person_name(raw_title) and not _is_noise_line(raw_title):
             title = raw_title
-        if raw_author and _looks_like_person_name(raw_author):
-            author = raw_author
+        if raw_author:
+            extracted_meta_author = _extract_author_candidate(raw_author)
+            if extracted_meta_author:
+                author = extracted_meta_author
 
         date_str = (meta.get("creationDate") or "") or (meta.get("modDate") or "")
         if date_str:
@@ -962,15 +1061,15 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
                 for block in page_dict.get("blocks", []):
                     if block.get("type") != 0:
                         continue
-                    block_lines = []
-                    max_size = 0.0
-                    top_y = None
+                    block_top_y = None
                     for line in block.get("lines", []):
                         spans = line.get("spans", [])
                         span_text = " ".join((s.get("text") or "").strip() for s in spans if (s.get("text") or "").strip())
                         cleaned_line = _clean_candidate(span_text)
-                        if cleaned_line:
-                            block_lines.append(cleaned_line)
+                        if not cleaned_line:
+                            continue
+                        max_size = 0.0
+                        top_y = None
                         for span in spans:
                             try:
                                 max_size = max(max_size, float(span.get("size") or 0))
@@ -979,18 +1078,20 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
                             bbox = span.get("bbox") or line.get("bbox") or block.get("bbox")
                             if bbox and top_y is None:
                                 top_y = float(bbox[1])
-                    candidate = _clean_candidate(" ".join(block_lines))
-                    if not candidate or _is_noise_line(candidate):
-                        continue
-                    if _looks_like_person_name(candidate):
-                        if not author:
-                            author = candidate[:128]
-                        continue
-                    if len(candidate) < 12 or len(candidate) > 220:
-                        continue
-                    top_penalty = (top_y or 0.0) / 100.0
-                    score = max_size - top_penalty + min(len(candidate), 120) / 120.0
-                    title_candidates.append((score, candidate))
+                            if bbox and block_top_y is None:
+                                block_top_y = float(bbox[1])
+                        extracted_line_author = _extract_author_candidate(cleaned_line)
+                        if extracted_line_author:
+                            if not author:
+                                author = extracted_line_author
+                            continue
+                        if not _is_title_like(cleaned_line):
+                            continue
+                        vertical_penalty = (top_y or block_top_y or 0.0) / 100.0
+                        score = max_size - vertical_penalty + min(len(cleaned_line), 120) / 140.0
+                        if cleaned_line.isupper():
+                            score += 0.2
+                        title_candidates.append((score, cleaned_line))
 
             lines = [_clean_candidate(ln) for ln in (first_page_text.splitlines() if first_page_text else [])]
             lines = [ln for ln in lines if ln]
@@ -1006,20 +1107,23 @@ def _extract_pdf_metadata(path: Path) -> Dict[str, Any]:
                         prefix_match = re.match(pat, ln)
                         if prefix_match:
                             possible_auth = _clean_candidate(prefix_match.group(1))
-                            if possible_auth and not author and _looks_like_person_name(possible_auth):
-                                author = possible_auth[:256]
+                            extracted_prefixed_author = _extract_author_candidate(possible_auth)
+                            if extracted_prefixed_author and not author:
+                                author = extracted_prefixed_author
                             break
 
                 for ln in lines[:15]:
-                    if _looks_like_person_name(ln):
+                    extracted_fallback_author = _extract_author_candidate(ln)
+                    if extracted_fallback_author:
                         if not author:
-                            author = ln[:128]
+                            author = extracted_fallback_author
                         continue
-                    if _is_noise_line(ln):
+                    if not _is_title_like(ln):
                         continue
-                    if 12 <= len(ln) <= 220:
-                        score = 1.5 + min(len(ln), 120) / 120.0
-                        title_candidates.append((score, ln))
+                    score = 1.5 + min(len(ln), 120) / 140.0
+                    if ln.isupper():
+                        score += 0.15
+                    title_candidates.append((score, ln))
 
                 if title_candidates:
                     seen = set()
@@ -1471,10 +1575,11 @@ def _resolve_document_uuid(document_id: str) -> str:
         raise FileNotFoundError("Document id is missing.")
 
     client = _get_supabase_client()
-    direct = client.table("documents").select("id").eq("id", candidate).limit(1).execute()
-    direct_rows = (direct.data or []) if hasattr(direct, "data") else []
-    if direct_rows:
-        return str(direct_rows[0].get("id"))
+    if re.fullmatch(r"[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}", candidate):
+        direct = client.table("documents").select("id").eq("id", candidate).limit(1).execute()
+        direct_rows = (direct.data or []) if hasattr(direct, "data") else []
+        if direct_rows:
+            return str(direct_rows[0].get("id"))
 
     response = client.table("documents").select("id, file_path").execute()
     rows = (response.data or []) if hasattr(response, "data") else []
@@ -1546,6 +1651,15 @@ def reindex_admin_document(document_id: str) -> Dict[str, Any]:
     if not file_path:
         raise RuntimeError("Document file path is missing; cannot rebuild the local index for this document.")
 
+    filename = str(file_path).split("/")[-1]
+    existing_local = any(filename == (doc.get("filename") or "") for doc in get_indexed_documents())
+
+    try:
+        engine = _get_engine()
+        engine.delete_document(filename)
+    except Exception as exc:
+        logger.warning("Could not remove existing local index entry for %s before reindex: %s", filename, exc)
+
     bucket = os.environ.get("SUPABASE_STORAGE_BUCKET", "academic-docs")
     signed = client.storage.from_(bucket).create_signed_url(file_path, 3600)
     signed_url = None
@@ -1558,7 +1672,7 @@ def reindex_admin_document(document_id: str) -> Dict[str, Any]:
 
     job = run_ingest_from_url(
         url=signed_url,
-        filename=str(file_path).split("/")[-1],
+        filename=filename,
         bucket_path=file_path,
         allow_duplicate=True,
         activity_source="admin-reindex",
@@ -1568,7 +1682,10 @@ def reindex_admin_document(document_id: str) -> Dict[str, Any]:
         raise RuntimeError(job.get("message") or "Document reindex failed.")
     if status == "duplicate":
         return {"success": True, "message": "This document is already present in the local index."}
-    return {"success": True, "message": "Document added to the local index."}
+    return {
+        "success": True,
+        "message": "Document reindexed locally." if existing_local else "Document added to the local index.",
+    }
 
 
 def delete_admin_document(document_id: str) -> Dict[str, Any]:

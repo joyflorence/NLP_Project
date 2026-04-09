@@ -15,6 +15,89 @@ const FORMAT_LABELS: Record<CitationFormat, string> = {
   bibtex: "BibTeX"
 };
 
+type FullTextBlock = {
+  kind: "heading" | "paragraph";
+  text: string;
+};
+
+function normalizeTextKey(value: string) {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+function isSectionHeading(line: string) {
+  const trimmed = line.trim();
+  if (!trimmed) return false;
+  const normalized = trimmed.replace(/[.:]+$/, "");
+  const low = normalized.toLowerCase();
+  if (/^(abstract|introduction|background|methodology|methods|results|discussion|conclusion|recommendations?|references|bibliography|acknowledg(?:e)?ments?|keywords?)$/i.test(normalized)) {
+    return true;
+  }
+  if (/^(chapter|section)\s+[a-z0-9ivx]+/i.test(normalized)) {
+    return true;
+  }
+  if (/^\d+(?:\.\d+)*\s+[A-Z][A-Za-z].*/.test(normalized)) {
+    return true;
+  }
+  if (trimmed.length <= 90 && /^[A-Z0-9\s,&\-]+$/.test(trimmed) && trimmed.split(/\s+/).length <= 8) {
+    return true;
+  }
+  if (low.startsWith("abstract ") || low.startsWith("keywords ")) {
+    return true;
+  }
+  return false;
+}
+
+function parseFullTextBlocks(text: string, title: string, author: string) {
+  const lines = text.replace(/\r/g, "").split("\n");
+  const blocks: FullTextBlock[] = [];
+  const titleKey = normalizeTextKey(title);
+  const authorKey = normalizeTextKey(author);
+  const paragraph: string[] = [];
+
+  const flushParagraph = () => {
+    if (!paragraph.length) return;
+    const compact = paragraph.join(" ").replace(/\s+/g, " ").trim();
+    if (compact) blocks.push({ kind: "paragraph", text: compact });
+    paragraph.length = 0;
+  };
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line) {
+      flushParagraph();
+      continue;
+    }
+
+    const key = normalizeTextKey(line);
+    if (key && (key === titleKey || key === authorKey)) {
+      continue;
+    }
+
+    const abstractMatch = line.match(/^(Abstract|Keywords?)\s*[:.-]?\s*(.+)$/i);
+    if (abstractMatch) {
+      flushParagraph();
+      blocks.push({ kind: "heading", text: abstractMatch[1].replace(/[.:]+$/, "") });
+      if (abstractMatch[2]?.trim()) {
+        blocks.push({ kind: "paragraph", text: abstractMatch[2].trim() });
+      }
+      continue;
+    }
+
+    if (isSectionHeading(line)) {
+      flushParagraph();
+      blocks.push({ kind: "heading", text: line.replace(/[.:]+$/, "") });
+      continue;
+    }
+
+    paragraph.push(line);
+    if (/[.!?]$/.test(line) && paragraph.join(" ").length > 320) {
+      flushParagraph();
+    }
+  }
+
+  flushParagraph();
+  return blocks;
+}
 export function DocumentFullTextPage({ onDownloadDocument }: Props) {
   const [searchParams] = useSearchParams();
   const documentId = searchParams.get("id") ?? "";
@@ -49,6 +132,7 @@ export function DocumentFullTextPage({ onDownloadDocument }: Props) {
 
   const citationSource = { id: documentId, title, author, year };
   const activeCitation = buildCitationByFormat(citationFormat, citationSource);
+  const contentBlocks = parseFullTextBlocks(fullText, title, author);
 
   async function copyText(value: string, successMessage: string) {
     try {
@@ -131,7 +215,15 @@ export function DocumentFullTextPage({ onDownloadDocument }: Props) {
             ) : null}
           </div>
           {copyNotice ? <p className="muted">{copyNotice}</p> : null}
-          <pre className="full-text-body">{fullText}</pre>
+          <div className="full-text-body">
+            {(contentBlocks.length ? contentBlocks : [{ kind: "paragraph" as const, text: fullText }]).map((block, index) =>
+              block.kind === "heading" ? (
+                <h4 key={index} className="full-text-section-heading">{block.text}</h4>
+              ) : (
+                <p key={index} className="full-text-paragraph">{block.text}</p>
+              )
+            )}
+          </div>
         </>
       ) : null}
     </div>

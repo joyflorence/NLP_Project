@@ -50,6 +50,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
   const [editForm, setEditForm] = useState<AdminDocumentUpdateRequest>(EMPTY_EDIT);
   const [savingId, setSavingId] = useState<string | null>(null);
   const [deletingId, setDeletingId] = useState<string | null>(null);
+  const [deletedIds, setDeletedIds] = useState<string[]>([]);
   const [reindexingId, setReindexingId] = useState<string | null>(null);
   const [sortKey, setSortKey] = useState<SortKey>("created_at");
   const [sortDirection, setSortDirection] = useState<SortDirection>("desc");
@@ -61,7 +62,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
     }
     setError(null);
     const res = await api.getAdminDocuments();
-    setDocuments(res.documents ?? []);
+    setDocuments((res.documents ?? []).filter((doc) => !deletedIds.includes(doc.id)));
     if (!silent) {
       setLoading(false);
     }
@@ -85,7 +86,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
     return () => {
       cancelled = true;
     };
-  }, [refreshKey]);
+  }, [refreshKey, deletedIds]);
 
   const indexedCount = useMemo(() => documents.filter((doc) => doc.indexed).length, [documents]);
 
@@ -185,7 +186,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
         abstract: editForm.abstract?.trim() || undefined
       };
       const result = await api.updateAdminDocument(documentId, payload);
-      setDocuments((docs) => docs.map((doc) => (doc.id === documentId ? { ...doc, ...payload } : doc)));
+      await loadDocuments({ silent: true });
       setEditingId(null);
       setNotice(result.message);
       onCacheReset?.();
@@ -222,6 +223,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
     setNotice(null);
     try {
       const result = await api.deleteAdminDocument(documentId);
+      setDeletedIds((ids) => (ids.includes(documentId) ? ids : [...ids, documentId]));
       setDocuments((docs) => docs.filter((doc) => doc.id !== documentId));
       setNotice(result.message);
       onCacheReset?.();
@@ -336,7 +338,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                                 onClick={() => reindexDocument(doc.id, doc.title)}
                                 disabled={isReindexing}
                               >
-                                {isReindexing ? "Indexing..." : doc.indexed ? "Reindex" : "Index locally"}
+                                {isReindexing ? (doc.indexed ? "Reindexing locally..." : "Indexing locally...") : doc.indexed ? "Reindex locally" : "Index locally"}
                               </button>
                               <button type="button" className="admin-row-menu-action" onClick={() => (isEditing ? setEditingId(null) : startEdit(doc))}>
                                 {isEditing ? "Close editor" : "Edit metadata"}

@@ -9,19 +9,24 @@ type Props = {
 };
 
 type DocumentMetadata = {
-  title: string;
-  author: string;
   supervisor: string;
-  year: string;
   level: string;
   department: string;
 };
 
+type UploadedReviewItem = {
+  documentId: string;
+  fileName: string;
+  title: string;
+  author: string;
+  year: string;
+  saving?: boolean;
+  saved?: boolean;
+  error?: string | null;
+};
+
 const DEFAULT_METADATA: DocumentMetadata = {
-  title: "",
-  author: "",
   supervisor: "",
-  year: "",
   level: "undergraduate",
   department: ""
 };
@@ -33,7 +38,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
   const [progress, setProgress] = useState<string | null>(null);
-  const [detectedMeta, setDetectedMeta] = useState<{ title?: string | null; author?: string | null; year?: number | null } | null>(null);
+  const [reviewItems, setReviewItems] = useState<UploadedReviewItem[]>([]);
 
   function normFilename(name: string): string {
     return name.replace(/\s+/g, "_").toLowerCase();
@@ -63,6 +68,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     author?: string | null;
     year?: number | null;
     abstract?: string | null;
+    documentId?: string;
   }> {
     setProgress(`Uploading ${index} of ${total}: ${file.name}...`);
 
@@ -75,31 +81,28 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       .upload(objectPath, file, { upsert: false });
     if (uploadError) return { ok: false, name: file.name, error: uploadError.message };
 
-    const parsedYear = meta.year.trim() ? parseInt(meta.year.trim(), 10) : null;
-    const manualYear = parsedYear !== null && !Number.isNaN(parsedYear) && parsedYear >= 1900 && parsedYear <= 2100
-      ? parsedYear
-      : null;
-    const insertYear = manualYear ?? new Date().getFullYear();
-
-    const manualTitle = meta.title.trim();
-    const manualAuthor = meta.author.trim();
     const manualSupervisor = meta.supervisor.trim();
     const manualDepartment = meta.department.trim();
-    const docTitle = manualTitle || file.name.replace(/\.[^.]+$/, "") || file.name;
+    const insertYear = new Date().getFullYear();
+    const docTitle = file.name.replace(/\.[^.]+$/, "") || file.name;
 
-    const { error: insertError } = await supabase!.from("documents").insert({
-      title: docTitle,
-      abstract: "",
-      author: manualAuthor || "Unknown",
-      supervisor: manualSupervisor || "N/A",
-      department: manualDepartment || "N/A",
-      level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
-      year: insertYear,
-      file_path: objectPath,
-      uploaded_by: user.id
-    });
-    if (insertError) {
-      throw new Error(`Failed to save document metadata row: ${insertError.message}`);
+    const { data: insertedDocument, error: insertError } = await supabase!
+      .from("documents")
+      .insert({
+        title: docTitle,
+        abstract: "",
+        author: "Unknown",
+        supervisor: manualSupervisor || "N/A",
+        department: manualDepartment || "N/A",
+        level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
+        year: insertYear,
+        file_path: objectPath,
+        uploaded_by: user.id
+      })
+      .select("id")
+      .single();
+    if (insertError || !insertedDocument?.id) {
+      throw new Error(`Failed to save document metadata row: ${insertError?.message ?? "Missing document id."}`);
     }
 
     setProgress(`Indexing ${index} of ${total}: ${file.name}...`);
@@ -140,9 +143,9 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     }
 
     const extractedYear = typeof job.year === "number" ? job.year : null;
-    const finalTitle = manualTitle || job.title?.trim() || docTitle;
-    const finalAuthor = manualAuthor || job.author?.trim() || "Unknown";
-    const finalYear = manualYear ?? extractedYear ?? insertYear;
+    const finalTitle = job.title?.trim() || docTitle;
+    const finalAuthor = job.author?.trim() || "Unknown";
+    const finalYear = extractedYear ?? insertYear;
     const finalAbstract = job.abstract?.trim() || "";
 
     const { error: updateError } = await supabase!
@@ -153,8 +156,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         year: finalYear,
         abstract: finalAbstract
       })
-      .eq("file_path", objectPath)
-      .eq("uploaded_by", user.id);
+      .eq("id", insertedDocument.id);
     if (updateError) {
       throw new Error(`Indexed document, but failed to sync extracted metadata: ${updateError.message}`);
     }
@@ -162,6 +164,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     return {
       ok: true,
       name: file.name,
+      documentId: insertedDocument.id,
       title: finalTitle,
       abstract: finalAbstract,
       author: finalAuthor,
@@ -173,7 +176,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     e.preventDefault();
     setError(null);
     setNotice(null);
-    setDetectedMeta(null);
+    setReviewItems([]);
 
     if (!isSupabaseConfigured || !supabase) {
       setError("Supabase is not configured. Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY.");
@@ -225,18 +228,22 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       let okCount = 0;
       const errors: string[] = [];
       const contentDuplicates: string[] = [];
-      let lastMeta: { title?: string | null; author?: string | null; year?: number | null } | null = null;
+      const uploadedReviewItems: UploadedReviewItem[] = [];
 
       for (let i = 0; i < toUploadNew.length; i++) {
         const result = await uploadOneFull(toUploadNew[i], user, i + 1, toUploadNew.length, metadata);
         if (result.ok) {
           okCount++;
-          if (result.title || result.author || result.year) {
-            lastMeta = {
-              title: result.title ?? null,
-              author: result.author ?? null,
-              year: result.year ?? null
-            };
+          if (result.documentId) {
+            uploadedReviewItems.push({
+              documentId: result.documentId,
+              fileName: result.name,
+              title: result.title ?? "",
+              author: result.author ?? "",
+              year: result.year ? String(result.year) : "",
+              saved: false,
+              error: null
+            });
           }
         } else if (result.duplicateContent) {
           contentDuplicates.push(result.name);
@@ -248,7 +255,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       setMetadata({ ...DEFAULT_METADATA });
       setProgress(null);
       setFiles([]);
-      setDetectedMeta(lastMeta);
+      setReviewItems(uploadedReviewItems);
 
       const skipParts: string[] = [];
       if (duplicates.length > 0) {
@@ -276,7 +283,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         onUploadSuccess?.();
       } else {
         setError(errors.join("; ") || "Upload failed.");
-        setDetectedMeta(null);
+        setReviewItems([]);
       }
     } catch (err) {
       setProgress(null);
@@ -284,6 +291,54 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     } finally {
       setLoading(false);
     }
+  }
+
+  async function saveReviewItem(documentId: string) {
+    const target = reviewItems.find((item) => item.documentId === documentId);
+    if (!target || !supabase) return;
+
+    const parsedYear = target.year.trim() ? parseInt(target.year.trim(), 10) : null;
+    const finalYear = parsedYear !== null && !Number.isNaN(parsedYear) && parsedYear >= 1900 && parsedYear <= 2100
+      ? parsedYear
+      : null;
+
+    setReviewItems((items) =>
+      items.map((item) =>
+        item.documentId === documentId
+          ? { ...item, saving: true, saved: false, error: null }
+          : item
+      )
+    );
+
+    const { error: updateError } = await supabase
+      .from("documents")
+      .update({
+        title: target.title.trim() || target.fileName.replace(/\.[^.]+$/, ""),
+        author: target.author.trim() || "Unknown",
+        year: finalYear ?? new Date().getFullYear()
+      })
+      .eq("id", documentId);
+
+    setReviewItems((items) =>
+      items.map((item) => {
+        if (item.documentId !== documentId) return item;
+        if (updateError) {
+          return {
+            ...item,
+            saving: false,
+            saved: false,
+            error: updateError.message
+          };
+        }
+        return {
+          ...item,
+          saving: false,
+          saved: true,
+          error: null,
+          year: finalYear ? String(finalYear) : item.year
+        };
+      })
+    );
   }
 
   return (
@@ -310,37 +365,94 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
           </p>
         ) : null}
 
-        {detectedMeta && (detectedMeta.title || detectedMeta.author || detectedMeta.year) ? (
-          <div className="note">
-            <strong>Detected from document:</strong>{" "}
-            {detectedMeta.title ? `"${detectedMeta.title}"` : "Title unavailable"}
-            {detectedMeta.author ? ` by ${detectedMeta.author}` : ""}
-            {detectedMeta.year ? ` (${detectedMeta.year})` : ""}
+        {reviewItems.length > 0 ? (
+          <div className="ingestion-review-panel">
+            <div className="ingestion-review-header">
+              <div>
+                <strong>Review extracted metadata</strong>
+                <p className="muted">Check the extracted title, author, and year before using them in search and citation.</p>
+              </div>
+            </div>
+            <div className="ingestion-review-list">
+              {reviewItems.map((item) => (
+                <article key={item.documentId} className="ingestion-review-card">
+                  <div className="ingestion-review-card-top">
+                    <strong>{item.fileName}</strong>
+                    {item.saved ? <span className="ingestion-review-badge">Saved</span> : null}
+                  </div>
+                  <div className="ingestion-review-grid">
+                    <label className="metadata-full">
+                      Title
+                      <input
+                        type="text"
+                        value={item.title}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, title: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      />
+                    </label>
+                    <label>
+                      Author
+                      <input
+                        type="text"
+                        value={item.author}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, author: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      />
+                    </label>
+                    <label>
+                      Year
+                      <input
+                        type="number"
+                        min={1900}
+                        max={2100}
+                        value={item.year}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, year: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      />
+                    </label>
+                  </div>
+                  <div className="ingestion-review-actions">
+                    <button
+                      type="button"
+                      className="secondary-button"
+                      onClick={() => saveReviewItem(item.documentId)}
+                      disabled={item.saving}
+                    >
+                      {item.saving ? "Saving..." : item.saved ? "Saved" : "Save metadata"}
+                    </button>
+                    {item.error ? <span className="error">{item.error}</span> : null}
+                  </div>
+                </article>
+              ))}
+            </div>
           </div>
         ) : null}
 
         <fieldset className="metadata-fieldset">
-          <legend>Document metadata (optional)</legend>
-          <p className="muted">Applied to all files in this upload. Leave blank to use extracted metadata where available.</p>
+          <legend>Academic details (optional)</legend>
+          <p className="muted">Use this for metadata the PDF usually cannot extract well. Title, author, and year can be reviewed after upload.</p>
           <div className="metadata-grid">
-            <label className="metadata-full">
-              Title
-              <input
-                type="text"
-                value={metadata.title}
-                onChange={(e) => setMetadata((m) => ({ ...m, title: e.target.value }))}
-                placeholder="e.g. Fundamentals of Web Design"
-              />
-            </label>
-            <label>
-              Author
-              <input
-                type="text"
-                value={metadata.author}
-                onChange={(e) => setMetadata((m) => ({ ...m, author: e.target.value }))}
-                placeholder="e.g. J. Smith"
-              />
-            </label>
             <label>
               Supervisor
               <input
@@ -348,17 +460,6 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
                 value={metadata.supervisor}
                 onChange={(e) => setMetadata((m) => ({ ...m, supervisor: e.target.value }))}
                 placeholder="e.g. Dr. A. Jones"
-              />
-            </label>
-            <label>
-              Year
-              <input
-                type="number"
-                min={1900}
-                max={2100}
-                value={metadata.year}
-                onChange={(e) => setMetadata((m) => ({ ...m, year: e.target.value }))}
-                placeholder={String(new Date().getFullYear())}
               />
             </label>
             <label>
