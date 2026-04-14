@@ -41,7 +41,9 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
   const [reviewItems, setReviewItems] = useState<UploadedReviewItem[]>([]);
 
   function normFilename(name: string): string {
-    return name.replace(/\s+/g, "_").toLowerCase();
+    let normalized = name.replace(/[^\w.\-]/g, "_").replace(/\s+/g, "_");
+    if (!normalized.toLowerCase().endsWith(".pdf")) normalized = `${normalized}.pdf`;
+    return normalized.toLowerCase();
   }
 
   if (!isAdmin) {
@@ -86,30 +88,14 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     const insertYear = new Date().getFullYear();
     const docTitle = file.name.replace(/\.[^.]+$/, "") || file.name;
 
-    const { data: insertedDocument, error: insertError } = await supabase!
-      .from("documents")
-      .insert({
-        title: docTitle,
-        abstract: "",
-        author: "Unknown",
-        supervisor: manualSupervisor || "N/A",
-        department: manualDepartment || "N/A",
-        level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
-        year: insertYear,
-        file_path: objectPath,
-        uploaded_by: user.id
-      })
-      .select("id")
-      .single();
-    if (insertError || !insertedDocument?.id) {
-      throw new Error(`Failed to save document metadata row: ${insertError?.message ?? "Missing document id."}`);
-    }
-
     setProgress(`Indexing ${index} of ${total}: ${file.name}...`);
     const { data: signed } = await supabase!.storage
       .from("academic-docs")
       .createSignedUrl(objectPath, 3600);
-    if (!signed?.signedUrl) return { ok: false, name: file.name, error: "No signed URL" };
+    if (!signed?.signedUrl) {
+      await supabase!.storage.from("academic-docs").remove([objectPath]);
+      return { ok: false, name: file.name, error: "No signed URL" };
+    }
 
     const job = await api.ingestFromUrl({
       url: signed.signedUrl,
@@ -118,6 +104,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     });
 
     if (job.status === "duplicate") {
+      await supabase!.storage.from("academic-docs").remove([objectPath]);
       return {
         ok: false,
         name: file.name,
@@ -131,6 +118,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     }
 
     if (job.status !== "completed") {
+      await supabase!.storage.from("academic-docs").remove([objectPath]);
       return {
         ok: false,
         name: file.name,
@@ -148,17 +136,24 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     const finalYear = extractedYear ?? insertYear;
     const finalAbstract = job.abstract?.trim() || "";
 
-    const { error: updateError } = await supabase!
+    const { data: insertedDocument, error: insertError } = await supabase!
       .from("documents")
-      .update({
+      .insert({
         title: finalTitle,
+        abstract: finalAbstract,
         author: finalAuthor,
+        supervisor: manualSupervisor || "N/A",
+        department: manualDepartment || "N/A",
+        level: meta.level === "postgrad" ? "postgrad" : "undergraduate",
         year: finalYear,
-        abstract: finalAbstract
+        file_path: objectPath,
+        uploaded_by: user.id
       })
-      .eq("id", insertedDocument.id);
-    if (updateError) {
-      throw new Error(`Indexed document, but failed to sync extracted metadata: ${updateError.message}`);
+      .select("id")
+      .single();
+    if (insertError || !insertedDocument?.id) {
+      await supabase!.storage.from("academic-docs").remove([objectPath]);
+      throw new Error(`Failed to save document metadata row: ${insertError?.message ?? "Missing document id."}`);
     }
 
     return {

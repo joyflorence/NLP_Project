@@ -109,6 +109,15 @@ def _get_engine():
     return _engine
 
 
+def _sanitize_document_filename(filename: str) -> str:
+    """Normalize an incoming document filename to the local engine filename format."""
+    candidate = (str(filename or "").strip() or "document.pdf")
+    safe_name = re.sub(r"[^\w.\-]", "_", candidate)
+    if not safe_name.lower().endswith(".pdf"):
+        safe_name = safe_name + ".pdf"
+    return safe_name
+
+
 def _backend_to_document(r: dict, doc_id: Optional[str] = None) -> dict:
     """Convert backend result to frontend DocumentRecord."""
     filename = r.get("filename", "")
@@ -1308,11 +1317,7 @@ def run_ingest_from_url(
             # Derive from URL path (last segment)
             path_part = (url or "").split("?")[0].rstrip("/")
             filename = path_part.split("/")[-1] if "/" in path_part else "document.pdf"
-        filename = str(filename or "document.pdf")
-        # Sanitize: only allow alphanumeric, dash, underscore, dot
-        safe_name = re.sub(r"[^\w.\-]", "_", filename)
-        if not safe_name.lower().endswith(".pdf"):
-            safe_name = safe_name + ".pdf"
+        safe_name = _sanitize_document_filename(filename)
         local_path = raw_pdfs / safe_name
 
         timeout = httpx.Timeout(connect=20.0, read=300.0, write=60.0, pool=60.0)
@@ -1652,11 +1657,12 @@ def reindex_admin_document(document_id: str) -> Dict[str, Any]:
         raise RuntimeError("Document file path is missing; cannot rebuild the local index for this document.")
 
     filename = str(file_path).split("/")[-1]
-    existing_local = any(filename == (doc.get("filename") or "") for doc in get_indexed_documents())
+    safe_name = _sanitize_document_filename(filename)
+    existing_local = any(safe_name == (doc.get("filename") or "") for doc in get_indexed_documents())
 
     try:
         engine = _get_engine()
-        engine.delete_document(filename)
+        engine.delete_document(safe_name)
     except Exception as exc:
         logger.warning("Could not remove existing local index entry for %s before reindex: %s", filename, exc)
 
