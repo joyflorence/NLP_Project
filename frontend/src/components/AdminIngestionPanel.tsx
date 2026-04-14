@@ -20,6 +20,9 @@ type UploadedReviewItem = {
   title: string;
   author: string;
   year: string;
+  supervisor: string;
+  department: string;
+  level: string;
   saving?: boolean;
   saved?: boolean;
   error?: string | null;
@@ -71,6 +74,9 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     year?: number | null;
     abstract?: string | null;
     documentId?: string;
+    supervisor?: string;
+    department?: string;
+    level?: string;
   }> {
     setProgress(`Uploading ${index} of ${total}: ${file.name}...`);
 
@@ -163,7 +169,10 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       title: finalTitle,
       abstract: finalAbstract,
       author: finalAuthor,
-      year: finalYear
+      year: finalYear,
+      supervisor: manualSupervisor || "N/A",
+      department: manualDepartment || "N/A",
+      level: meta.level
     };
   }
 
@@ -236,6 +245,9 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
               title: result.title ?? "",
               author: result.author ?? "",
               year: result.year ? String(result.year) : "",
+              supervisor: result.supervisor ?? "",
+              department: result.department ?? "",
+              level: result.level ?? "undergraduate",
               saved: false,
               error: null
             });
@@ -310,7 +322,10 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
       .update({
         title: target.title.trim() || target.fileName.replace(/\.[^.]+$/, ""),
         author: target.author.trim() || "Unknown",
-        year: finalYear ?? new Date().getFullYear()
+        year: finalYear ?? new Date().getFullYear(),
+        supervisor: target.supervisor.trim() || "N/A",
+        department: target.department.trim() || "N/A",
+        level: target.level === "postgrad" ? "postgrad" : "undergraduate"
       })
       .eq("id", documentId);
 
@@ -420,6 +435,56 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
                             items.map((current) =>
                               current.documentId === item.documentId
                                 ? { ...current, year: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      />
+                    </label>
+                    <label>
+                      Supervisor
+                      <input
+                        type="text"
+                        value={item.supervisor}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, supervisor: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      />
+                    </label>
+                    <label>
+                      Level
+                      <select
+                        value={item.level}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, level: e.target.value, saved: false, error: null }
+                                : current
+                            )
+                          )
+                        }
+                      >
+                        <option value="undergraduate">Undergraduate</option>
+                        <option value="postgrad">Postgraduate</option>
+                      </select>
+                    </label>
+                    <label>
+                      Department
+                      <input
+                        type="text"
+                        value={item.department}
+                        onChange={(e) =>
+                          setReviewItems((items) =>
+                            items.map((current) =>
+                              current.documentId === item.documentId
+                                ? { ...current, department: e.target.value, saved: false, error: null }
                                 : current
                             )
                           )
