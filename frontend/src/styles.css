@@ -1970,6 +1970,16 @@ button[type="submit"] {
 
 .search-query-shell {
   position: relative;
+  width: 100%;
+  min-width: 0;
+  display: block;
+}
+
+.search-query-with-icon {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  padding-right: 3.8rem;
 }
 
 .search-suggestions-panel {
@@ -2054,29 +2064,24 @@ button[type="submit"] {
 }
 
 .search-query-with-icon {
-  padding-right: 3.65rem;
+  padding-right: 3.6rem;
 }
 
 .search-inline-action {
   position: absolute;
-  top: 50%;
-  right: 0.45rem;
-  transform: translateY(-50%);
-  width: 40px;
-  height: 40px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  top: 0.5rem;
+  right: 1rem;
+  width: 32px;
+  height: 32px;
   border: none;
   border-radius: 999px;
-  background: #123b63;
-  color: #ffffff;
-  box-shadow: 0 10px 20px rgba(18, 59, 99, 0.18);
+  background: transparent;
+  color: #123b63;
   z-index: 5;
 }
 
 .search-inline-action:hover {
-  background: #184b79;
+  background: rgba(18, 59, 99, 0.1);
 }
 
 .search-inline-action:disabled {
@@ -2084,8 +2089,8 @@ button[type="submit"] {
 }
 
 .search-inline-icon {
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   fill: none;
   stroke: currentColor;
   stroke-width: 1.8;

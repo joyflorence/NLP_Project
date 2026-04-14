@@ -112,8 +112,8 @@ def _get_engine():
 def _sanitize_document_filename(filename: str) -> str:
     """Normalize an incoming document filename to the local engine filename format."""
     candidate = (str(filename or "").strip() or "document.pdf")
-    safe_name = re.sub(r"[^\w.\-]", "_", candidate)
-    if not safe_name.lower().endswith(".pdf"):
+    safe_name = re.sub(r"[^\w.\-]", "_", candidate).lower()
+    if not safe_name.endswith(".pdf"):
         safe_name = safe_name + ".pdf"
     return safe_name
 
@@ -312,13 +312,17 @@ def _load_supabase_document_metadata() -> Dict[str, dict]:
                 "department": row.get("department"),
                 "abstract": row.get("abstract"),
             }
+            filename_key = filename.lower()
             out[filename] = meta_entry
+            out[filename_key] = meta_entry
             # Stem: name without "timestamp-" prefix so engine filename matches
             stem = filename.split("-", 1)[-1] if "-" in filename else filename
             if stem:
+                stem_key = stem.lower()
                 out[stem] = meta_entry
+                out[stem_key] = meta_entry
             # Backend ingest sanitizes with re.sub(r"[^\w.\-]", "_", ...); key by that so engine id matches
-            normalized = re.sub(r"[^\w.\-]", "_", stem) if stem else ""
+            normalized = re.sub(r"[^\w.\-]", "_", stem).lower() if stem else ""
             if normalized:
                 out[normalized] = meta_entry
         return out
@@ -334,7 +338,8 @@ def _apply_supabase_metadata(docs: List[dict], meta: Dict[str, dict]) -> None:
         doc_id = (d.get("id") or "").strip()
         if not doc_id:
             continue
-        m = meta.get(doc_id) or meta.get(Path(doc_id).name) or meta.get(re.sub(r"[^\w.\-]", "_", doc_id))
+        normalized_id = doc_id.lower()
+        m = meta.get(normalized_id) or meta.get(Path(normalized_id).name) or meta.get(re.sub(r"[^\w.\-]", "_", normalized_id))
         if not m:
             continue
         if m.get("author") is not None and str(m["author"]).strip():

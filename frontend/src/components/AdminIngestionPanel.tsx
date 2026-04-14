@@ -82,6 +82,7 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
 
     let safeName = file.name.replace(/[^\w.\-]/g, "_").replace(/\s+/g, "_");
     if (!safeName.toLowerCase().endsWith(".pdf")) safeName = `${safeName}.pdf`;
+    safeName = safeName.toLowerCase();
     const objectPath = `${user.id}/${Date.now()}-${safeName}`;
 
     const { error: uploadError } = await supabase!
@@ -349,6 +350,10 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
         };
       })
     );
+
+    if (!updateError) {
+      onUploadSuccess?.();
+    }
   }
 
   return (
