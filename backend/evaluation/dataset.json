@@ -1,0 +1,36 @@
+{
+  "description": "Query–relevance judgments for the indexed university PDF corpus. Ground truth is at document level (PDF filename); the engine returns chunks, which are mapped to filenames for evaluation.",
+  "document_id_field": "filename",
+  "queries": [
+    {
+      "id": "q1",
+      "query": "local revenue collection and service delivery in local government Tororo municipal council",
+      "relevant_filenames": ["Chemutai_G_BBA_2025.pdf"]
+    },
+    {
+      "id": "q2",
+      "query": "ICT services and financial performance of commercial banks Centenary Bank Mukono",
+      "relevant_filenames": ["Okwir_D_BBA_2024.pdf"]
+    },
+    {
+      "id": "q3",
+      "query": "church intervention separated parents children Paidha Parish Nebbi Diocese Uganda",
+      "relevant_filenames": ["Cwinyaai_W_BDIV_2025.pdf"]
+    },
+    {
+      "id": "q4",
+      "query": "revenue mobilization correlation service delivery municipal local government",
+      "relevant_filenames": ["Chemutai_G_BBA_2025.pdf"]
+    },
+    {
+      "id": "q5",
+      "query": "theology divinity dissertation Church of Uganda bishop school",
+      "relevant_filenames": ["Cwinyaai_W_BDIV_2025.pdf"]
+    },
+    {
+      "id": "q6",
+      "query": "digital banking technology and bank performance case study",
+      "relevant_filenames": ["Okwir_D_BBA_2024.pdf"]
+    }
+  ]
+}
