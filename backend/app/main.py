@@ -347,12 +347,21 @@ async def get_similar(document_id: str, topK: int = 5):
 
 
 @app.post("/api/ingest", response_model=IngestJob)
-async def ingest_documents(payload: IngestPayload):
+async def ingest_documents(payload: IngestPayload, request: Request):
     """Trigger document ingestion."""
     try:
+        # Extract the user to record who uploaded it, but allow it to proceed if they aren't admin (for local dev)
+        uploaded_by = "unknown"
+        try:
+            admin_user = services.require_admin_user(request.headers.get("Authorization"))
+            uploaded_by = admin_user.get("email") or "unknown"
+        except Exception:
+            pass
+            
         job = services.run_ingest(
             source_path=payload.sourcePath,
             files=payload.files,
+            uploaded_by=uploaded_by
         )
         return IngestJob(**job)
     except Exception as e:
@@ -361,13 +370,21 @@ async def ingest_documents(payload: IngestPayload):
 
 # Separate path so it is never matched by GET /api/ingest/{job_id}
 @app.post("/api/ingest-from-url", response_model=IngestJob)
-async def ingest_from_url(payload: IngestFromUrlPayload):
+async def ingest_from_url(payload: IngestFromUrlPayload, request: Request):
     """Download a document from URL (e.g. Supabase Storage signed URL) and index it for search."""
     try:
+        uploaded_by = "unknown"
+        try:
+            admin_user = services.require_admin_user(request.headers.get("Authorization"))
+            uploaded_by = admin_user.get("email") or "unknown"
+        except Exception:
+            pass
+
         job = services.run_ingest_from_url(
             url=payload.url,
             filename=payload.filename,
             bucket_path=payload.bucketPath,
+            uploaded_by=uploaded_by
         )
         return IngestJob(**job)
     except Exception as e:

@@ -714,7 +714,7 @@ def get_document_full_text(document_id: str) -> dict:
     return {"fullText": full_text, "title": title, "author": author, "year": year, "documentId": document_id}
 
 
-def run_ingest(source_path: Optional[str] = None, files: Optional[List[str]] = None) -> dict:
+def run_ingest(source_path: Optional[str] = None, files: Optional[List[str]] = None, uploaded_by: str = "unknown") -> dict:
     """Run document ingestion. Returns job dict."""
     job_id = str(uuid.uuid4())
     _ingest_jobs[job_id] = {
@@ -769,6 +769,17 @@ def run_ingest(source_path: Optional[str] = None, files: Optional[List[str]] = N
             "totalCount": len(filepaths),
             "message": result.get("message") or f"Processed {processed} documents, {total_chunks} chunks.",
         }
+        
+        # After successful ingestion, attach uploaded_by to these newly created DB records
+        if result.get("success") and uploaded_by != "unknown":
+            try:
+                client = _get_supabase_client()
+                for path_str in filepaths:
+                    file_name = Path(path_str).name
+                    client.table("documents").update({"uploaded_by": uploaded_by}).like("file_path", f"%{file_name}%").execute()
+            except Exception as e:
+                logger.warning("Could not persist uploaded_by for ingest job %s: %s", job_id, e)
+
     except Exception as e:
         logger.exception("Ingest failed")
         _ingest_jobs[job_id] = {
@@ -1297,6 +1308,7 @@ def run_ingest_from_url(
     *,
     allow_duplicate: bool = False,
     activity_source: str = "storage-url",
+    uploaded_by: str = "unknown"
 ) -> dict:
     """Download a document from URL to raw_pdfs and run ingestion. Used for Supabase Storage uploads.
     If bucket_path is provided and ingest succeeds, it is recorded so the Supabase poller skips it.
@@ -1385,6 +1397,15 @@ def run_ingest_from_url(
                 idx = _load_supabase_indexed_paths()
                 idx.add(bucket_path.strip())
                 _save_supabase_indexed_paths(idx)
+                
+            # Attach uploaded_by to the newly created document row
+            if uploaded_by != "unknown":
+                try:
+                    client = _get_supabase_client()
+                    client.table("documents").update({"uploaded_by": uploaded_by}).like("file_path", f"%{safe_name}%").execute()
+                except Exception as e:
+                    logger.warning("Could not persist uploaded_by for %s: %s", job_id, e)
+
     except Exception as e:
         logger.exception("Ingest from URL failed")
         _ingest_jobs[job_id] = {
@@ -1643,7 +1664,7 @@ def _resolve_document_uuid(document_id: str) -> str:
 def get_admin_documents() -> List[Dict[str, Any]]:
     client = _get_supabase_client()
     response = client.table("documents").select(
-        "id, title, author, supervisor, year, level, department, abstract, file_path, created_at"
+        "id, title, author, supervisor, year, level, department, abstract, file_path, created_at, uploaded_by"
     ).order("created_at", desc=True).execute()
     rows = (response.data or []) if hasattr(response, "data") else []
     indexed_map: Dict[str, Dict[str, Any]] = {}
@@ -1667,6 +1688,7 @@ def get_admin_documents() -> List[Dict[str, Any]]:
                 "abstract": row.get("abstract"),
                 "file_path": file_path,
                 "created_at": row.get("created_at"),
+                "uploaded_by": row.get("uploaded_by"),
                 "indexed": bool(indexed),
                 "pages": indexed.get("pages") if indexed else None,
                 "chunks": indexed.get("chunks") if indexed else None,
@@ -1742,18 +1764,36 @@ def delete_admin_document(document_id: str) -> Dict[str, Any]:
     row = rows[0]
     file_path = row.get("file_path")
     bucket = os.environ.get("SUPABASE_STORAGE_BUCKET", "academic-docs")
+    
     if file_path:
+        # 1. Remove from Local Semantic Index Engine
+        filename = str(file_path).split("/")[-1]
+        safe_name = _sanitize_document_filename(filename)
+        try:
+            engine = _get_engine()
+            engine.delete_document(safe_name)
+        except Exception as exc:
+            logger.warning("Could not remove existing local index entry for %s before delete: %s", filename, exc)
+            
+        # 2. Remove from Supabase Storage
         try:
             client.storage.from_(bucket).remove([file_path])
         except Exception as exc:
             logger.warning("Storage delete failed for %s: %s", file_path, exc)
+            
+        # 3. Remove from Supabase Poller Cache
+        try:
+            idx = _load_supabase_indexed_paths()
+            if str(file_path) in idx:
+                idx.remove(str(file_path))
+                _save_supabase_indexed_paths(idx)
+        except Exception as exc:
+            logger.warning("Poller cache clear failed for %s: %s", file_path, exc)
+
+    # 4. Remove from Database Table
     client.table("documents").delete().eq("id", document_id).execute()
-    reset_index_cache()
-    try:
-        poll_supabase_academic_docs()
-    except Exception as exc:
-        logger.warning("Rebuild after delete failed: %s", exc)
-    return {"success": True, "message": "Document deleted and local index rebuilt from remaining bucket files."}
+    
+    return {"success": True, "message": "Document successfully deleted."}
 
 
 def get_saved_documents(auth_header: Optional[str]) -> List[Dict[str, Any]]:

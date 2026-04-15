@@ -53,6 +53,7 @@ export function SimilarityPanel({
               onPreview={setPreviewDoc}
               onToggleSave={onToggleSaveDocument}
               isSaved={isDocumentSaved(doc.id)}
+              showRelevance={true}
             />
           ))}
         </div>

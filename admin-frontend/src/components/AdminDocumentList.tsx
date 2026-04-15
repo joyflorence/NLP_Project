@@ -7,7 +7,7 @@ type Props = {
   onCacheReset?: () => void;
 };
 
-type SortKey = "title" | "author" | "year" | "department" | "indexed" | "created_at";
+type SortKey = "title" | "author" | "year" | "department" | "indexed" | "created_at" | "uploaded_by";
 type SortDirection = "asc" | "desc";
 
 const EMPTY_EDIT: AdminDocumentUpdateRequest = {
@@ -102,7 +102,8 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
         (doc.author?.toLowerCase().includes(query) || false) ||
         (doc.department?.toLowerCase().includes(query) || false) ||
         (doc.supervisor?.toLowerCase().includes(query) || false) ||
-        (doc.file_path?.toLowerCase().includes(query) || false)
+        (doc.file_path?.toLowerCase().includes(query) || false) ||
+        (doc.uploaded_by?.toLowerCase().includes(query) || false)
       );
     });
   }, [documents, searchQuery]);
@@ -133,6 +134,9 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
           break;
         case "created_at":
           result = compareNullableString(left.created_at, right.created_at);
+          break;
+        case "uploaded_by":
+          result = compareNullableString(left.uploaded_by, right.uploaded_by);
           break;
         default:
           result = 0;
@@ -335,6 +339,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                   <th>{renderSortButton("Author", "author")}</th>
                   <th>{renderSortButton("Year", "year")}</th>
                   <th>{renderSortButton("Department", "department")}</th>
+                  <th>{renderSortButton("Uploaded By", "uploaded_by")}</th>
                   <th>{renderSortButton("Status", "indexed")}</th>
                   <th>{renderSortButton("Added", "created_at")}</th>
                   <th className="admin-document-actions-head">Actions</th>
@@ -356,6 +361,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                         <td>{doc.author || "Unknown author"}</td>
                         <td>{doc.year || "-"}</td>
                         <td>{doc.department || "-"}</td>
+                        <td style={{ fontSize: "0.85em", color: "#6c757d", wordBreak: "break-all" }}>{doc.uploaded_by || "-"}</td>
                         <td>
                           <span className={doc.indexed ? "job-status job-status-success" : "job-status"}>{doc.indexed ? "Indexed" : "Pending"}</span>
                         </td>
@@ -395,7 +401,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                       ) : null}
                       {isEditing ? (
                         <tr className="admin-document-edit-row">
-                          <td colSpan={7}>
+                          <td colSpan={8}>
                             <div className="admin-document-edit-card">
                               <div className="admin-document-actions-label">Editing metadata</div>
                               <div className="admin-edit-grid">

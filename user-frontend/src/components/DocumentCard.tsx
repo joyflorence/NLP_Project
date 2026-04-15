@@ -12,6 +12,7 @@ type Props = {
   isSaved?: boolean;
   saveLabel?: string;
   searchQuery?: string;
+  showRelevance?: boolean;
 };
 
 function highlightText(text: string, query?: string) {
@@ -33,7 +34,7 @@ const FORMAT_LABELS: Record<CitationFormat, string> = {
   bibtex: "BibTeX"
 };
 
-export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onToggleSave, isSaved = false, saveLabel, searchQuery }: Props) {
+export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onToggleSave, isSaved = false, saveLabel, searchQuery, showRelevance = false }: Props) {
   const [citationStatus, setCitationStatus] = useState<string | null>(null);
   const [showCitation, setShowCitation] = useState(false);
   const [citationFormat, setCitationFormat] = useState<CitationFormat>("plain");
@@ -86,6 +87,11 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onTogg
                 {item}
               </span>
             ))}
+            {doc.score !== undefined && (searchQuery || onFindSimilar || showRelevance) ? (
+              <span className="doc-meta-pill" style={{ color: "#166534", backgroundColor: "#dcfce7", fontWeight: 600, border: "1px solid #bbf7d0" }}>
+                Relevance: {Math.round(doc.score * 100)}%
+              </span>
+            ) : null}
           </div>
         ) : null}
       </div>

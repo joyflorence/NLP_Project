@@ -174,7 +174,9 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
   }, []);
 
   useEffect(() => {
-    void runSearch(1);
+    if (semanticResult !== null) {
+      void runSearch(1);
+    }
   }, [topK, sortBy, sortOrder, pageSize, year, level]);
 
   return (
@@ -359,6 +361,21 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
         </div>
       ) : null}
 
+      {!semanticResult && !loading ? (
+        <div className="search-explore-card" style={{ textAlign: "center", padding: "40px 20px", marginTop: "24px", background: "var(--surface-color, #f8f9fa)", borderRadius: "12px", border: "1px solid var(--border-color, #e9ecef)" }}>
+          <h3 style={{ margin: "0 0 8px 0", color: "var(--text-color, #343a40)" }}>Not sure where to start?</h3>
+          <p style={{ color: "var(--muted-color, #6c757d)", marginBottom: "20px" }}>Browse all available university documents and literature directly.</p>
+          <button
+            type="button"
+            onClick={() => { setQuery(""); void runSearch(1, ""); }}
+            className="search-inline-action"
+            style={{ padding: "10px 24px", fontSize: "15px", margin: "0 auto", display: "flex", width: "auto", background: "var(--accent-color, #1a73e8)", color: "white", borderRadius: "8px", fontWeight: 500 }}
+          >
+            Browse All Documents
+          </button>
+        </div>
+      ) : null}
+
       {semanticResult ? (
         <div className="stack">
           <div className="result-summary result-summary-card">
@@ -379,6 +396,7 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
                 <DocumentCard
                   key={doc.id}
                   doc={doc}
+                  searchQuery={effectiveQuery}
                   onFindSimilar={() =>
                     navigate(
                       `/related-works?documentId=${encodeURIComponent(doc.id)}&title=${encodeURIComponent(doc.title)}`

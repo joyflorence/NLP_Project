@@ -111,6 +111,7 @@ export type AdminDocument = {
   indexed: boolean;
   pages?: number | null;
   chunks?: number | null;
+  uploaded_by?: string | null;
 };
 
 export type AdminDocumentUpdateRequest = {
@@ -139,4 +140,5 @@ export type AdminIngestJobSummary = {
   totalCount?: number;
   createdAt?: string | null;
   source?: string | null;
+  uploaded_by?: string | null;
 };
