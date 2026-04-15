@@ -168,6 +168,10 @@ class AdminActionResponse(BaseModel):
     message: str
 
 
+class AdminPromoteRequest(BaseModel):
+    email: str
+
+
 class AdminIngestJobSummary(BaseModel):
     jobId: str
     status: str

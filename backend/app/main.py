@@ -33,6 +33,7 @@ from .schemas import (
     AdminDocumentsResponse,
     AdminDocumentUpdateRequest,
     AdminActionResponse,
+    AdminPromoteRequest,
     AdminIngestJobsResponse,
 )
 from . import services
@@ -85,6 +86,10 @@ else:
     origins = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
+        "http://localhost:5174",
+        "http://127.0.0.1:5174",
+        "http://localhost:5175",
+        "http://127.0.0.1:5175",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
     ]
@@ -245,6 +250,20 @@ async def reindex_admin_document(document_id: str, request: Request):
     except PermissionError as e:
         raise HTTPException(status_code=403, detail=str(e))
     except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/admin/members/promote", response_model=AdminActionResponse)
+async def promote_member_to_admin(payload: AdminPromoteRequest, request: Request):
+    try:
+        services.require_admin_user(request.headers.get("Authorization"))
+        result = services.promote_user_to_admin(payload.email)
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -433,7 +452,7 @@ async def root():
 # Mount the static frontend AFTER all API routes so they take precedence.
 # If FRONTEND_DIR points to a directory, FastAPI will serve the built SPA
 # and return index.html for unmatched routes (html=True).
-frontend_dir = os.environ.get("FRONTEND_DIR", os.path.join(os.path.dirname(__file__), "..", "..", "frontend", "dist"))
+frontend_dir = os.environ.get("FRONTEND_DIR", os.path.join(os.path.dirname(__file__), "..", "..", "user-frontend", "dist"))
 if os.path.isdir(frontend_dir):
     from fastapi.staticfiles import StaticFiles
 

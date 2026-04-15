@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useMemo, useState } from "react";
-import { api } from "@/api/client";
-import { AdminDocument, AdminDocumentUpdateRequest } from "@/types/domain";
+import { api } from "../api/client";
+import { AdminDocument, AdminDocumentUpdateRequest } from "../types/domain";
 
 type Props = {
   refreshKey?: number;
@@ -54,6 +54,9 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
   const [reindexingId, setReindexingId] = useState<string | null>(null);
   const [sortKey, setSortKey] = useState<SortKey>("created_at");
   const [sortDirection, setSortDirection] = useState<SortDirection>("desc");
+  const [searchQuery, setSearchQuery] = useState<string>("");
+  const [currentPage, setCurrentPage] = useState<number>(1);
+  const itemsPerPage = 10;
 
   async function loadDocuments(options?: { silent?: boolean }) {
     const silent = options?.silent ?? false;
@@ -90,8 +93,26 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
 
   const indexedCount = useMemo(() => documents.filter((doc) => doc.indexed).length, [documents]);
 
+  const filteredDocuments = useMemo(() => {
+    if (!searchQuery.trim()) return documents;
+    const query = searchQuery.toLowerCase().trim();
+    return documents.filter((doc) => {
+      return (
+        (doc.title?.toLowerCase().includes(query) || false) ||
+        (doc.author?.toLowerCase().includes(query) || false) ||
+        (doc.department?.toLowerCase().includes(query) || false) ||
+        (doc.supervisor?.toLowerCase().includes(query) || false) ||
+        (doc.file_path?.toLowerCase().includes(query) || false)
+      );
+    });
+  }, [documents, searchQuery]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchQuery, sortKey, sortDirection]);
+
   const sortedDocuments = useMemo(() => {
-    const sorted = [...documents];
+    const sorted = [...filteredDocuments];
     sorted.sort((left, right) => {
       let result = 0;
       switch (sortKey) {
@@ -124,7 +145,13 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
       return sortDirection === "asc" ? result : -result;
     });
     return sorted;
-  }, [documents, sortDirection, sortKey]);
+  }, [filteredDocuments, sortDirection, sortKey]);
+
+  const totalPages = Math.ceil(sortedDocuments.length / itemsPerPage);
+  const paginatedDocuments = useMemo(() => {
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    return sortedDocuments.slice(startIndex, startIndex + itemsPerPage);
+  }, [sortedDocuments, currentPage, itemsPerPage]);
 
   function toggleSort(nextKey: SortKey) {
     if (sortKey === nextKey) {
@@ -278,6 +305,22 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
           {resetting ? "Rebuilding..." : "Rebuild local index"}
         </button>
       </div>
+      <div style={{ marginBottom: "1rem" }}>
+        <input
+          type="text"
+          placeholder="Search by title, author, department, supervisor, or filename..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          style={{
+            width: "100%",
+            padding: "0.6rem 0.75rem",
+            border: "1px solid #d4deea",
+            borderRadius: "12px",
+            fontSize: "0.95rem",
+            backgroundColor: "#fbfdff"
+          }}
+        />
+      </div>
       {error ? <p className="error">{error}</p> : null}
       {notice ? <p className="muted">{notice}</p> : null}
       {documents.length === 0 ? (
@@ -298,7 +341,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                 </tr>
               </thead>
               <tbody>
-                {sortedDocuments.map((doc) => {
+                {paginatedDocuments.map((doc) => {
                   const isEditing = editingId === doc.id;
                   const isReindexing = reindexingId === doc.id;
                   const actionsOpen = openActionsId === doc.id;
@@ -406,6 +449,34 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
               </tbody>
             </table>
           </div>
+          {totalPages > 1 && (
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: "1rem" }}>
+              <span className="muted">
+                Showing {(currentPage - 1) * itemsPerPage + 1} to {Math.min(currentPage * itemsPerPage, sortedDocuments.length)} of {sortedDocuments.length} entries
+              </span>
+              <div style={{ display: "flex", gap: "0.5rem" }}>
+                <button
+                  type="button"
+                  className="admin-action-button admin-action-secondary"
+                  disabled={currentPage === 1}
+                  onClick={() => setCurrentPage((p) => p - 1)}
+                >
+                  Previous
+                </button>
+                <div style={{ padding: "0.4rem 0.8rem", display: "flex", alignItems: "center", backgroundColor: "#f1f5f9", borderRadius: "6px", fontSize: "0.9rem" }}>
+                  Page {currentPage} of {totalPages}
+                </div>
+                <button
+                  type="button"
+                  className="admin-action-button admin-action-secondary"
+                  disabled={currentPage === totalPages}
+                  onClick={() => setCurrentPage((p) => p + 1)}
+                >
+                  Next
+                </button>
+              </div>
+            </div>
+          )}
         </div>
       )}
     </section>

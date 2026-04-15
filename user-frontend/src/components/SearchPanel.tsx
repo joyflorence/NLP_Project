@@ -144,12 +144,12 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
       );
       setPage(nextPage);
       setShowSuggestions(false);
-      
+
       if (submittedQuery) {
         setRecentSearches(prev => {
           const next = [submittedQuery, ...prev.filter(q => q.toLowerCase() !== submittedQuery.toLowerCase())].slice(0, 5);
           window.setTimeout(() => {
-            try { localStorage.setItem("recentAcademicSearches", JSON.stringify(next)); } catch {}
+            try { localStorage.setItem("recentAcademicSearches", JSON.stringify(next)); } catch { }
           }, 0);
           return next;
         });
@@ -170,7 +170,7 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
     try {
       const stored = localStorage.getItem("recentAcademicSearches");
       if (stored) setRecentSearches(JSON.parse(stored));
-    } catch {}
+    } catch { }
   }, []);
 
   useEffect(() => {
@@ -238,15 +238,15 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
                 </div>
               </div>
             ) : null}
-            
+
             {recentSearches.length > 0 ? (
               <div className="recent-searches-row" style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap', alignItems: 'center' }}>
                 <span style={{ fontSize: '11px', fontWeight: 600, color: 'var(--muted-color, #868e96)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>Recent:</span>
                 {recentSearches.map(term => (
-                  <button 
-                    key={term} 
+                  <button
+                    key={term}
                     type="button"
-                    onClick={() => applySuggestion(term)} 
+                    onClick={() => applySuggestion(term)}
                     style={{ background: 'transparent', border: '1px solid var(--border-color, #dee2e6)', borderRadius: '16px', padding: '2px 10px', fontSize: '12px', color: 'var(--primary-color, #1a73e8)', cursor: 'pointer', transition: 'all 0.15s ease' }}
                     onMouseEnter={(e) => e.currentTarget.style.background = 'var(--surface-color, #f8f9fa)'}
                     onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
@@ -256,7 +256,7 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
                 ))}
               </div>
             ) : null}
-            
+
           </div>
         </div>
 
@@ -292,7 +292,7 @@ export function SearchPanel({ onDownloadDocument, onToggleSaveDocument, isDocume
           </div>
 
           <details className="search-advanced-panel">
-            <summary>Advanced options</summary>
+            <summary>Advanced Search</summary>
             <div className="search-filter-grid search-filter-grid-advanced">
               <label className="search-field">
                 <span>Retrieve</span>

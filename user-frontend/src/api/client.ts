@@ -1,11 +1,6 @@
 import { mockApi } from "@/api/mock";
 import {
-  AdminActionResponse,
-  AdminDocument,
-  AdminDocumentUpdateRequest,
-  AdminIngestJobSummary,
   FullTextResponse,
-  IngestJob,
   SearchRequest,
   SearchResponse,
   SavedDocument,
@@ -76,23 +71,7 @@ const httpApi = {
     return request<{ ping: string }>("/ping");
   },
 
-  async ingestDocuments(payload: { sourcePath?: string; files?: string[] }) {
-    return request<IngestJob>("/ingest", {
-      method: "POST",
-      body: JSON.stringify(payload)
-    });
-  },
 
-  async ingestFromUrl(payload: { url: string; filename?: string; bucketPath?: string }) {
-    return request<IngestJob>("/ingest-from-url", {
-      method: "POST",
-      body: JSON.stringify(payload)
-    });
-  },
-
-  async getIngestJob(jobId: string) {
-    return request<IngestJob>(`/ingest/${jobId}`);
-  },
 
   async semanticSearch(payload: SearchRequest) {
     return request<SearchResponse>("/search/semantic", {
@@ -123,79 +102,21 @@ const httpApi = {
     return request<FullTextResponse>(`/documents/full-text?documentId=${encodeURIComponent(documentId)}`);
   },
 
-  async getStatus() {
-    return request<{
-      initialized: boolean;
-      total_chunks: number;
-      total_documents: number;
-      registry_documents?: number;
-      error?: string;
-    }>("/status");
-  },
 
-  async getIndexedDocuments() {
-    return request<{ documents: Array<{ filename: string; pages?: number; chunks?: number }> }>(
-      "/indexed-documents"
-    );
-  },
-
-  async resetIndexCache() {
-    return request<{
-      cleared: boolean;
-      removed_cache_files: number;
-      removed_raw_pdfs: number;
-      message?: string;
-    }>("/admin/reset-index-cache", {
-      method: "POST"
-    });
-  },
-
-  async getAdminDocuments() {
-    return request<{ documents: AdminDocument[] }>("/admin/documents");
-  },
-
-  async updateAdminDocument(documentId: string, payload: AdminDocumentUpdateRequest) {
-    return request<AdminActionResponse>(`/admin/documents/${documentId}`, {
-      method: "PATCH",
-      body: JSON.stringify(payload)
-    });
-  },
-
-  async deleteAdminDocument(documentId: string) {
-    return request<AdminActionResponse>(`/admin/documents/${documentId}`, {
-      method: "DELETE"
-    });
-  },
-
-  async reindexAdminDocument(documentId: string) {
-    return request<AdminActionResponse>(`/admin/documents/${documentId}/reindex`, {
-      method: "POST"
-    });
-  },
-
-  async getAdminIngestJobs(limit = 15) {
-    return request<{ jobs: AdminIngestJobSummary[] }>(`/admin/ingest-jobs?limit=${limit}`);
-  },
-
-  async clearAdminIngestJobs() {
-    return request<AdminActionResponse>("/admin/ingest-jobs", {
-      method: "DELETE"
-    });
-  },
 
   async getSavedDocuments() {
     return request<{ documents: SavedDocument[] }>("/library");
   },
 
   async saveDocumentToLibrary(documentId: string, note?: string) {
-    return request<AdminActionResponse>("/library", {
+    return request<{success: boolean; message: string}>("/library", {
       method: "POST",
       body: JSON.stringify({ documentId, ...(note ? { note } : {}) })
     });
   },
 
   async removeDocumentFromLibrary(documentId: string) {
-    return request<AdminActionResponse>(`/library/${documentId}`, {
+    return request<{success: boolean; message: string}>(`/library/${documentId}`, {
       method: "DELETE"
     });
   }
