@@ -1,7 +1,7 @@
 import { FormEvent, useState } from "react";
 import { Link } from "react-router-dom";
-import { isSupabaseConfigured, supabase } from "@/lib/supabase";
-import { api } from "@/api/client";
+import { isSupabaseConfigured, supabase } from "../lib/supabase";
+import { api } from "../api/client";
 
 type Props = {
   isAdmin: boolean;
@@ -571,9 +571,3 @@ export function AdminIngestionPanel({ isAdmin, onUploadSuccess }: Props) {
     </section>
   );
 }
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import { api } from "@/api/client";
-import { AdminIngestJobSummary } from "@/types/domain";
+import { api } from "../api/client";
+import { AdminIngestJobSummary } from "../types/domain";
 
 type Props = {
   refreshKey?: number;
@@ -24,19 +24,6 @@ export function AdminIngestJobs({ refreshKey = 0 }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
   const [clearing, setClearing] = useState(false);
-
-  async function loadJobs() {
-    setLoading(true);
-    setError(null);
-    try {
-      const res = await api.getAdminIngestJobs();
-      setJobs(res.jobs ?? []);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to load ingest jobs.");
-    } finally {
-      setLoading(false);
-    }
-  }
 
   useEffect(() => {
     let cancelled = false;

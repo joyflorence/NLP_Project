@@ -1,6 +1,5 @@
 import {
   DocumentRecord,
-  IngestJob,
   SearchFilters,
   SearchRequest,
   SearchResponse,
@@ -173,38 +172,7 @@ export const mockApi = {
     return { ping: "pong" };
   },
 
-  async ingestDocuments(payload: { sourcePath?: string; files?: string[] }): Promise<IngestJob> {
-    await delay();
-    return {
-      jobId: "mock-job-001",
-      status: "completed",
-      processedCount: 120,
-      totalCount: 120,
-      message: `Mock ingest completed for ${payload.sourcePath ?? "uploaded files"}`
-    };
-  },
 
-  async getIngestJob(jobId: string): Promise<IngestJob> {
-    await delay(200);
-    return {
-      jobId,
-      status: "completed",
-      processedCount: 120,
-      totalCount: 120,
-      message: "Mock job finished"
-    };
-  },
-
-  async ingestFromUrl(payload: { url: string; filename?: string }): Promise<IngestJob> {
-    await delay(800);
-    return {
-      jobId: "mock-job-from-url",
-      status: "completed",
-      processedCount: 1,
-      totalCount: 1,
-      message: `Mock indexed from URL (${payload.filename ?? "document"})`
-    };
-  },
 
   async semanticSearch(payload: SearchRequest): Promise<SearchResponse> {
     await delay();
@@ -293,96 +261,7 @@ export const mockApi = {
     return { fullText, title: doc.title, author: doc.author ?? null, year: doc.year ?? null, documentId };
   },
 
-  async getStatus() {
-    await delay(100);
-    return {
-      initialized: true,
-      total_chunks: 45,
-      total_documents: mockCorpus.length
-    };
-  },
 
-  async resetIndexCache() {
-    await delay(150);
-    return {
-      cleared: true,
-      removed_cache_files: mockCorpus.length + 2,
-      removed_raw_pdfs: mockCorpus.length,
-      message: "Mock cache cleared."
-    };
-  },
-
-  async getIndexedDocuments() {
-    await delay(150);
-    return {
-      documents: mockCorpus.map((d) => ({
-        filename: d.id.endsWith(".pdf") ? d.id : `${d.id}.pdf`,
-        pages: 12,
-        chunks: 4
-      }))
-    };
-  },
-
-  async getAdminDocuments() {
-    await delay(200);
-    return {
-      documents: mockCorpus.map((doc, idx) => ({
-        id: doc.id,
-        title: doc.title,
-        author: doc.author ?? null,
-        supervisor: doc.supervisor ?? null,
-        year: doc.year ?? null,
-        level: doc.level ?? null,
-        department: doc.department ?? null,
-        abstract: doc.abstract ?? null,
-        file_path: `mock/${doc.id}.pdf`,
-        created_at: new Date(Date.now() - idx * 86400000).toISOString(),
-        indexed: true,
-        pages: 12 + idx,
-        chunks: 24 + idx
-      }))
-    };
-  },
-
-  async updateAdminDocument() {
-    await delay(200);
-    return { success: true, message: "Mock document metadata updated." };
-  },
-
-  async deleteAdminDocument() {
-    await delay(200);
-    return { success: true, message: "Mock document deleted." };
-  },
-
-  async reindexAdminDocument() {
-    await delay(200);
-    return { success: true, message: "Mock document added to the local index." };
-  },
-
-  async getAdminIngestJobs() {
-    await delay(150);
-    return {
-      jobs: [
-        {
-          jobId: "mock-job-1",
-          status: "completed",
-          message: "Mock indexed 1 document.",
-          title: mockCorpus[0]?.title ?? null,
-          author: mockCorpus[0]?.author ?? null,
-          year: mockCorpus[0]?.year ?? null,
-          processedCount: 1,
-          totalCount: 1,
-          createdAt: new Date().toISOString(),
-          source: "manual"
-        }
-      ]
-    };
-  },
-
-  async clearAdminIngestJobs() {
-    await delay(120);
-    return { success: true, message: "Mock recent activity cleared." };
-  },
 
   async getSavedDocuments() {
     await delay(120);

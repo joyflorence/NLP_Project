@@ -1544,6 +1544,40 @@ def require_admin_user(auth_header: Optional[str]) -> Dict[str, Any]:
     return user
 
 
+def promote_user_to_admin(email: str) -> dict:
+    client = _get_supabase_client()
+    try:
+        users_resp = client.auth.admin.list_users()
+    except Exception as e:
+        raise RuntimeError(f"Could not list users: {e}")
+        
+    users = getattr(users_resp, "users", []) if hasattr(users_resp, "users") else (users_resp if isinstance(users_resp, list) else [])
+    # Sometimes it returns a list directly in python SDK older versions
+    
+    target_user = None
+    for u in users:
+        u_email = getattr(u, "email", "") if hasattr(u, "email") else (u.get("email", "") if isinstance(u, dict) else "")
+        if str(u_email).lower().strip() == email.lower().strip():
+            target_user = u
+            break
+            
+    if not target_user:
+        raise ValueError(f"User with email {email} not found. They must sign up first.")
+        
+    uid = getattr(target_user, "id", None) if hasattr(target_user, "id") else (target_user.get("id") if isinstance(target_user, dict) else None)
+    if not uid:
+        raise ValueError("User found but missing ID.")
+        
+    current_meta = getattr(target_user, "app_metadata", {}) if hasattr(target_user, "app_metadata") else (target_user.get("app_metadata", {}) if isinstance(target_user, dict) else {})
+    if not isinstance(current_meta, dict):
+        current_meta = {}
+        
+    current_meta["role"] = "admin"
+    
+    client.auth.admin.update_user_by_id(uid, {"app_metadata": current_meta})
+    return {"success": True, "message": f"Successfully promoted {email} to admin."}
+
+
 
 def _record_recent_activity(job: Dict[str, Any], source: str = "manual") -> None:
     try:
