@@ -112,6 +112,9 @@ export type AdminDocument = {
   pages?: number | null;
   chunks?: number | null;
   uploaded_by?: string | null;
+  uploaded_by_name?: string | null;
+  uploaded_by_email?: string | null;
+  uploaded_by_display?: string | null;
 };
 
 export type AdminDocumentUpdateRequest = {
@@ -127,6 +130,33 @@ export type AdminDocumentUpdateRequest = {
 export type AdminActionResponse = {
   success: boolean;
   message: string;
+};
+
+export type AdminAuditLogEntry = {
+  activityId: string;
+  action: string;
+  status: string;
+  message: string;
+  actor?: string | null;
+  createdAt?: string | null;
+};
+
+export type AdminAuditLogResponse = {
+  entries: AdminAuditLogEntry[];
+};
+
+export type AdminInviteEntry = {
+  userId: string;
+  email: string;
+  displayName: string;
+  status: string;
+  invitedAt?: string | null;
+  createdAt?: string | null;
+  lastSignInAt?: string | null;
+};
+
+export type AdminInviteListResponse = {
+  invites: AdminInviteEntry[];
 };
 
 export type AdminIngestJobSummary = {

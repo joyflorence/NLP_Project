@@ -1,8 +1,10 @@
 import {
   AdminActionResponse,
+  AdminAuditLogResponse,
   AdminDocument,
   AdminDocumentUpdateRequest,
   AdminIngestJobSummary,
+  AdminInviteListResponse,
   FullTextResponse,
   IngestJob,
   SearchRequest,
@@ -202,6 +204,42 @@ const httpApi = {
   async promoteToAdmin(email: string) {
     return request<AdminActionResponse>("/admin/members/promote", {
       method: "POST",
+      body: JSON.stringify({ email })
+    });
+  },
+
+  async inviteAdminMember(email: string) {
+    return request<AdminActionResponse>("/admin/members/invite", {
+      method: "POST",
+      body: JSON.stringify({ email })
+    });
+  },
+
+  async revokeAdminMember(email: string) {
+    return request<AdminActionResponse>("/admin/members/revoke", {
+      method: "POST",
+      body: JSON.stringify({ email })
+    });
+  },
+
+  async getAdminAuditLog(limit = 20) {
+    return request<AdminAuditLogResponse>(`/admin/audit-log?limit=${limit}`);
+  },
+
+  async getAdminInvites(limit = 25) {
+    return request<AdminInviteListResponse>(`/admin/members/invites?limit=${limit}`);
+  },
+
+  async resendAdminInvite(email: string) {
+    return request<AdminActionResponse>("/admin/members/invites/resend", {
+      method: "POST",
+      body: JSON.stringify({ email })
+    });
+  },
+
+  async cancelAdminInvite(email: string) {
+    return request<AdminActionResponse>("/admin/members/invites", {
+      method: "DELETE",
       body: JSON.stringify({ email })
     });
   }

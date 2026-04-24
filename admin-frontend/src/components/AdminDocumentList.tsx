@@ -39,6 +39,19 @@ function compareNullableNumber(a?: number | null, b?: number | null) {
   return (a ?? Number.NEGATIVE_INFINITY) - (b ?? Number.NEGATIVE_INFINITY);
 }
 
+function getUploaderLabel(doc: AdminDocument) {
+  return doc.uploaded_by_display || doc.uploaded_by_name || doc.uploaded_by_email || doc.uploaded_by || "-";
+}
+
+function getUploaderSecondary(doc: AdminDocument) {
+  const primary = getUploaderLabel(doc);
+  const parts = [doc.uploaded_by_email, doc.uploaded_by, doc.uploaded_by_name]
+    .filter((value): value is string => Boolean(value && value.trim()))
+    .map((value) => value.trim());
+  const secondary = parts.find((value) => value !== primary);
+  return secondary || null;
+}
+
 export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
   const [documents, setDocuments] = useState<AdminDocument[]>([]);
   const [loading, setLoading] = useState(true);
@@ -103,7 +116,8 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
         (doc.department?.toLowerCase().includes(query) || false) ||
         (doc.supervisor?.toLowerCase().includes(query) || false) ||
         (doc.file_path?.toLowerCase().includes(query) || false) ||
-        (doc.uploaded_by?.toLowerCase().includes(query) || false)
+        (getUploaderLabel(doc).toLowerCase().includes(query) || false) ||
+        (getUploaderSecondary(doc)?.toLowerCase().includes(query) || false)
       );
     });
   }, [documents, searchQuery]);
@@ -136,7 +150,7 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
           result = compareNullableString(left.created_at, right.created_at);
           break;
         case "uploaded_by":
-          result = compareNullableString(left.uploaded_by, right.uploaded_by);
+          result = compareNullableString(getUploaderLabel(left), getUploaderLabel(right));
           break;
         default:
           result = 0;
@@ -361,7 +375,14 @@ export function AdminDocumentList({ refreshKey = 0, onCacheReset }: Props) {
                         <td>{doc.author || "Unknown author"}</td>
                         <td>{doc.year || "-"}</td>
                         <td>{doc.department || "-"}</td>
-                        <td style={{ fontSize: "0.85em", color: "#6c757d", wordBreak: "break-all" }}>{doc.uploaded_by || "-"}</td>
+                        <td>
+                          <div className="admin-document-cell-main admin-document-uploaded-by">
+                            <strong>{getUploaderLabel(doc)}</strong>
+                            {getUploaderSecondary(doc) ? (
+                              <span className="admin-document-fileline">{getUploaderSecondary(doc)}</span>
+                            ) : null}
+                          </div>
+                        </td>
                         <td>
                           <span className={doc.indexed ? "job-status job-status-success" : "job-status"}>{doc.indexed ? "Indexed" : "Pending"}</span>
                         </td>

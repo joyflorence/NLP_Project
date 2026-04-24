@@ -7,6 +7,7 @@ import json
 import re
 import time
 import uuid
+from urllib.parse import quote
 import importlib.util
 import logging
 import threading
@@ -1522,7 +1523,13 @@ def _extract_bearer_token(auth_header: Optional[str]) -> str:
 def _get_authenticated_user(auth_header: Optional[str]) -> Dict[str, Any]:
     client = _get_supabase_client()
     token = _extract_bearer_token(auth_header)
-    response = client.auth.get_user(token)
+    try:
+        response = client.auth.get_user(token)
+    except Exception as e:  # noqa: BLE001
+        # Supabase returns 403 for missing, expired, or otherwise invalid JWTs.
+        # Convert that into a permission failure so API routes respond cleanly.
+        logger.info("Supabase auth verification failed: %s", e)
+        raise PermissionError("Invalid or expired authentication token.") from e
     user = getattr(response, "user", None)
     if user is None:
         data = getattr(response, "data", None)
@@ -1544,7 +1551,6 @@ def _get_authenticated_user(auth_header: Optional[str]) -> Dict[str, Any]:
         "role": app_metadata.get("role"),
     }
 
-
 def _get_supabase_client():
     from dotenv import load_dotenv
 
@@ -1558,6 +1564,96 @@ def _get_supabase_client():
     return create_client(url, key)
 
 
+def _user_display_name(user: Any) -> str:
+    if user is None:
+        return ""
+    if isinstance(user, dict):
+        user_id = str(user.get("id") or "").strip()
+        email = str(user.get("email") or "").strip()
+        app_meta = user.get("app_metadata") if isinstance(user.get("app_metadata"), dict) else {}
+        user_meta = user.get("user_metadata") if isinstance(user.get("user_metadata"), dict) else {}
+    else:
+        user_id = str(getattr(user, "id", "") or "").strip()
+        email = str(getattr(user, "email", "") or "").strip()
+        app_meta = getattr(user, "app_metadata", None)
+        if not isinstance(app_meta, dict):
+            raw_app_meta = getattr(user, "raw_app_meta_data", None)
+            app_meta = raw_app_meta if isinstance(raw_app_meta, dict) else {}
+        user_meta = getattr(user, "user_metadata", None)
+        if not isinstance(user_meta, dict):
+            raw_user_meta = getattr(user, "raw_user_meta_data", None)
+            user_meta = raw_user_meta if isinstance(raw_user_meta, dict) else {}
+
+    for source in (user_meta, app_meta):
+        if not isinstance(source, dict):
+            continue
+        for key in ("full_name", "name", "display_name", "username"):
+            value = source.get(key)
+            if isinstance(value, str) and value.strip():
+                return value.strip()
+
+    if email:
+        return email
+    return user_id
+
+
+def _load_supabase_user_directory() -> Dict[str, Dict[str, Any]]:
+    client = _get_supabase_client()
+    directory: Dict[str, Dict[str, Any]] = {}
+    page = 1
+    per_page = 100
+
+    while True:
+        try:
+            users = client.auth.admin.list_users(page=page, per_page=per_page)
+        except Exception as e:
+            logger.debug("Could not load Supabase users: %s", e)
+            break
+        if not users:
+            break
+
+        for user in users:
+            if isinstance(user, dict):
+                user_id = str(user.get("id") or "").strip()
+                email = str(user.get("email") or "").strip()
+                app_meta = user.get("app_metadata") if isinstance(user.get("app_metadata"), dict) else {}
+                user_meta = user.get("user_metadata") if isinstance(user.get("user_metadata"), dict) else {}
+            else:
+                user_id = str(getattr(user, "id", "") or "").strip()
+                email = str(getattr(user, "email", "") or "").strip()
+                app_meta = getattr(user, "app_metadata", None)
+                if not isinstance(app_meta, dict):
+                    raw_app_meta = getattr(user, "raw_app_meta_data", None)
+                    app_meta = raw_app_meta if isinstance(raw_app_meta, dict) else {}
+                user_meta = getattr(user, "user_metadata", None)
+                if not isinstance(user_meta, dict):
+                    raw_user_meta = getattr(user, "raw_user_meta_data", None)
+                    user_meta = raw_user_meta if isinstance(raw_user_meta, dict) else {}
+
+            if not user_id:
+                continue
+
+            display_name = _user_display_name(user)
+            directory[user_id] = {
+                "email": email or None,
+                "display": f"{display_name} <{email}>" if display_name and email and display_name != email else display_name,
+                "name": display_name,
+                "app_metadata": app_meta,
+                "user_metadata": user_meta,
+                "created_at": getattr(user, "created_at", None) if not isinstance(user, dict) else user.get("created_at"),
+                "invited_at": getattr(user, "invited_at", None) if not isinstance(user, dict) else user.get("invited_at"),
+                "last_sign_in_at": getattr(user, "last_sign_in_at", None) if not isinstance(user, dict) else user.get("last_sign_in_at"),
+                "email_confirmed_at": getattr(user, "email_confirmed_at", None) if not isinstance(user, dict) else user.get("email_confirmed_at"),
+                "confirmed_at": getattr(user, "confirmed_at", None) if not isinstance(user, dict) else user.get("confirmed_at"),
+            }
+
+        if len(users) < per_page:
+            break
+        page += 1
+
+    return directory
+
+
 def require_admin_user(auth_header: Optional[str]) -> Dict[str, Any]:
     user = _get_authenticated_user(auth_header)
     if str(user.get("role") or "").strip().lower() != "admin":
@@ -1565,39 +1661,258 @@ def require_admin_user(auth_header: Optional[str]) -> Dict[str, Any]:
     return user
 
 
-def promote_user_to_admin(email: str) -> dict:
-    client = _get_supabase_client()
-    try:
-        users_resp = client.auth.admin.list_users()
-    except Exception as e:
-        raise RuntimeError(f"Could not list users: {e}")
-        
-    users = getattr(users_resp, "users", []) if hasattr(users_resp, "users") else (users_resp if isinstance(users_resp, list) else [])
-    # Sometimes it returns a list directly in python SDK older versions
-    
-    target_user = None
-    for u in users:
-        u_email = getattr(u, "email", "") if hasattr(u, "email") else (u.get("email", "") if isinstance(u, dict) else "")
-        if str(u_email).lower().strip() == email.lower().strip():
-            target_user = u
-            break
-            
-    if not target_user:
-        raise ValueError(f"User with email {email} not found. They must sign up first.")
-        
-    uid = getattr(target_user, "id", None) if hasattr(target_user, "id") else (target_user.get("id") if isinstance(target_user, dict) else None)
-    if not uid:
-        raise ValueError("User found but missing ID.")
-        
-    current_meta = getattr(target_user, "app_metadata", {}) if hasattr(target_user, "app_metadata") else (target_user.get("app_metadata", {}) if isinstance(target_user, dict) else {})
-    if not isinstance(current_meta, dict):
-        current_meta = {}
-        
-    current_meta["role"] = "admin"
-    
-    client.auth.admin.update_user_by_id(uid, {"app_metadata": current_meta})
-    return {"success": True, "message": f"Successfully promoted {email} to admin."}
+def _find_user_by_email(clean_email: str) -> tuple[Optional[str], Optional[Dict[str, Any]]]:
+    users = _load_supabase_user_directory()
+    for user_id, entry in users.items():
+        if str(entry.get("email") or "").strip().lower() == clean_email:
+            return user_id, entry
+    return None, None
 
+
+def _record_admin_activity(action: str, status: str, message: str, actor_email: Optional[str] = None) -> None:
+    try:
+        client = _get_supabase_client()
+        client.table("recent_activity").insert(
+            {
+                "job_id": str(uuid.uuid4()),
+                "activity_type": "admin_action",
+                "status": status,
+                "message": message,
+                "title": action,
+                "source": actor_email or "admin",
+            }
+        ).execute()
+    except Exception as exc:
+        logger.debug("Could not persist admin audit activity: %s", exc)
+
+
+def _get_admin_invite_redirect_url(email: Optional[str] = None) -> str:
+    base_url = (
+        os.environ.get("ADMIN_INVITE_REDIRECT_URL")
+        or os.environ.get("ADMIN_FRONTEND_URL")
+        or os.environ.get("FRONTEND_URL")
+        or os.environ.get("VITE_ADMIN_FRONTEND_URL")
+        or os.environ.get("VITE_FRONTEND_URL")
+        or "http://localhost:5173"
+    )
+    redirect_url = f"{base_url.rstrip('/')}/complete-invite?mode=signup"
+    if email:
+        redirect_url = f"{redirect_url}&email={quote(str(email).strip().lower())}"
+    return redirect_url
+
+
+def _delete_supabase_user(client: Any, user_id: str) -> None:
+    delete_user = getattr(client.auth.admin, "delete_user", None)
+    if callable(delete_user):
+        delete_user(user_id)
+        return
+    delete_user_by_id = getattr(client.auth.admin, "delete_user_by_id", None)
+    if callable(delete_user_by_id):
+        delete_user_by_id(user_id)
+        return
+    raise RuntimeError("Supabase admin delete_user method is not available.")
+
+
+def _is_pending_admin_invite(entry: Dict[str, Any]) -> bool:
+    app_meta = entry.get("app_metadata") if isinstance(entry.get("app_metadata"), dict) else {}
+    email = str(entry.get("email") or "").strip()
+    if not email:
+        return False
+    if str(app_meta.get("role") or "").strip().lower() != "admin":
+        return False
+
+    email_confirmed_at = entry.get("email_confirmed_at")
+    confirmed_at = entry.get("confirmed_at")
+    last_sign_in_at = entry.get("last_sign_in_at")
+    invited_at = entry.get("invited_at")
+
+    if last_sign_in_at:
+        return False
+    if email_confirmed_at or confirmed_at:
+        return False
+    return bool(invited_at) or True
+
+
+def promote_user_to_admin(email: str, actor_email: Optional[str] = None) -> dict:
+    client = _get_supabase_client()
+    clean_email = str(email or "").strip().lower()
+    if not clean_email:
+        raise ValueError("Email address is required.")
+
+    target_id, target_entry = _find_user_by_email(clean_email)
+    if target_id:
+        app_meta = dict(target_entry.get("app_metadata") or {}) if target_entry else {}
+        if str(app_meta.get("role") or "").strip().lower() == "admin":
+            message = f"{clean_email} is already an admin."
+            _record_admin_activity("promote-admin", "noop", message, actor_email)
+            return {"success": True, "message": message}
+        app_meta["role"] = "admin"
+        client.auth.admin.update_user_by_id(target_id, {"app_metadata": app_meta})
+        message = f"Successfully promoted {clean_email} to admin."
+        _record_admin_activity("promote-admin", "success", message, actor_email)
+        return {"success": True, "message": message}
+
+    created = client.auth.admin.create_user(
+        {
+            "email": clean_email,
+            "email_confirm": True,
+            "app_metadata": {"role": "admin"},
+        }
+    )
+    created_user = getattr(created, "user", None)
+    created_id = getattr(created_user, "id", None) if created_user is not None else None
+    if not created_id and isinstance(created, dict):
+        created_user = created.get("user")
+        created_id = getattr(created_user, "id", None) if created_user is not None else None
+    if created_id:
+        logger.info("Created new admin user %s (%s)", clean_email, created_id)
+    message = f"Created a new admin account for {clean_email}. The user can sign in after setting a password."
+    _record_admin_activity("promote-admin", "created", message, actor_email)
+    return {
+        "success": True,
+        "message": message,
+    }
+
+
+def invite_user_to_admin(email: str, actor_email: Optional[str] = None) -> dict:
+    client = _get_supabase_client()
+    clean_email = str(email or "").strip().lower()
+    if not clean_email:
+        raise ValueError("Email address is required.")
+
+    target_id, target_entry = _find_user_by_email(clean_email)
+    if target_id:
+        app_meta = dict(target_entry.get("app_metadata") or {}) if target_entry else {}
+        if str(app_meta.get("role") or "").strip().lower() == "admin":
+            message = f"{clean_email} is already an admin."
+            _record_admin_activity("invite-admin", "noop", message, actor_email)
+            return {"success": True, "message": message}
+        app_meta["role"] = "admin"
+        client.auth.admin.update_user_by_id(target_id, {"app_metadata": app_meta})
+        message = f"Existing account {clean_email} was promoted to admin."
+        _record_admin_activity("invite-admin", "promoted", message, actor_email)
+        return {"success": True, "message": message}
+
+    try:
+        invited = client.auth.admin.invite_user_by_email(
+            clean_email,
+            {"data": {"role": "admin"}, "redirect_to": _get_admin_invite_redirect_url(clean_email)},
+        )
+    except Exception as e:
+        raise RuntimeError(f"Could not send admin invite: {e}")
+
+    invited_user = getattr(invited, "user", None)
+    invited_id = getattr(invited_user, "id", None) if invited_user is not None else None
+    if not invited_id and isinstance(invited, dict):
+        invited_user = invited.get("user")
+        invited_id = getattr(invited_user, "id", None) if invited_user is not None else None
+    if invited_id:
+        try:
+            client.auth.admin.update_user_by_id(invited_id, {"app_metadata": {"role": "admin"}})
+        except Exception as exc:
+            logger.debug("Could not apply admin role to invited user %s: %s", clean_email, exc)
+
+    message = f"Invitation sent to {clean_email}. They will join as an admin after accepting the invite."
+    _record_admin_activity("invite-admin", "invited", message, actor_email)
+    return {"success": True, "message": message}
+
+
+def revoke_user_admin(email: str, actor_email: Optional[str] = None) -> dict:
+    client = _get_supabase_client()
+    clean_email = str(email or "").strip().lower()
+    if not clean_email:
+        raise ValueError("Email address is required.")
+
+    target_id, target_entry = _find_user_by_email(clean_email)
+    if not target_id:
+        raise ValueError(f"User with email {clean_email} not found.")
+
+    app_meta = dict(target_entry.get("app_metadata") or {}) if target_entry else {}
+    if str(app_meta.get("role") or "").strip().lower() != "admin":
+        message = f"{clean_email} is not currently an admin."
+        _record_admin_activity("revoke-admin", "noop", message, actor_email)
+        return {"success": True, "message": message}
+
+    app_meta.pop("role", None)
+    client.auth.admin.update_user_by_id(target_id, {"app_metadata": app_meta})
+    message = f"Revoked admin privileges from {clean_email}."
+    _record_admin_activity("revoke-admin", "revoked", message, actor_email)
+    return {"success": True, "message": message}
+
+
+def list_pending_admin_invites(limit: int = 25) -> List[Dict[str, Any]]:
+    directory = _load_supabase_user_directory()
+    pending: List[Dict[str, Any]] = []
+    for user_id, entry in directory.items():
+        if not _is_pending_admin_invite(entry):
+            continue
+        email = str(entry.get("email") or "").strip()
+        if not email:
+            continue
+        pending.append(
+            {
+                "userId": user_id,
+                "email": email,
+                "displayName": str(entry.get("name") or email),
+                "status": "pending",
+                "invitedAt": entry.get("invited_at"),
+                "createdAt": entry.get("created_at"),
+                "lastSignInAt": entry.get("last_sign_in_at"),
+            }
+        )
+
+    pending.sort(key=lambda row: str(row.get("invitedAt") or row.get("createdAt") or ""), reverse=True)
+    return pending[: max(1, min(limit, 100))]
+
+
+def resend_admin_invite(email: str, actor_email: Optional[str] = None) -> dict:
+    client = _get_supabase_client()
+    clean_email = str(email or "").strip().lower()
+    if not clean_email:
+        raise ValueError("Email address is required.")
+
+    target_id, target_entry = _find_user_by_email(clean_email)
+    if not target_id:
+        raise ValueError(f"User with email {clean_email} not found.")
+    if not _is_pending_admin_invite(target_entry or {}):
+        raise ValueError(f"{clean_email} does not have a pending admin invite.")
+
+    invited = client.auth.admin.invite_user_by_email(
+        clean_email,
+        {"data": {"role": "admin", "resend": True}, "redirect_to": _get_admin_invite_redirect_url(clean_email)},
+    )
+    invited_user = getattr(invited, "user", None)
+    invited_id = getattr(invited_user, "id", None) if invited_user is not None else None
+    if not invited_id and isinstance(invited, dict):
+        invited_user = invited.get("user")
+        invited_id = getattr(invited_user, "id", None) if invited_user is not None else None
+    if invited_id:
+        try:
+            client.auth.admin.update_user_by_id(invited_id, {"app_metadata": {"role": "admin"}})
+        except Exception as exc:
+            logger.debug("Could not preserve admin role on resent invite %s: %s", clean_email, exc)
+
+    message = f"Resent the admin invitation to {clean_email}."
+    _record_admin_activity("resend-invite", "resent", message, actor_email)
+    return {"success": True, "message": message}
+
+
+def cancel_admin_invite(email: str, actor_email: Optional[str] = None) -> dict:
+    client = _get_supabase_client()
+    clean_email = str(email or "").strip().lower()
+    if not clean_email:
+        raise ValueError("Email address is required.")
+
+    target_id, target_entry = _find_user_by_email(clean_email)
+    if not target_id:
+        raise ValueError(f"User with email {clean_email} not found.")
+    if not _is_pending_admin_invite(target_entry or {}):
+        raise ValueError(f"{clean_email} does not have a pending admin invite.")
+
+    _delete_supabase_user(client, target_id)
+    message = f"Cancelled the pending admin invite for {clean_email}."
+    _record_admin_activity("cancel-invite", "cancelled", message, actor_email)
+    return {"success": True, "message": message}
 
 
 def _record_recent_activity(job: Dict[str, Any], source: str = "manual") -> None:
@@ -1671,11 +1986,18 @@ def get_admin_documents() -> List[Dict[str, Any]]:
     for indexed_doc in get_indexed_documents():
         for key in _document_name_keys(indexed_doc.get("filename") or ""):
             indexed_map[key] = indexed_doc
+
+    user_directory = _load_supabase_user_directory()
     documents: List[Dict[str, Any]] = []
     for row in rows if isinstance(rows, list) else []:
         file_path = row.get("file_path") or ""
         filename = str(file_path).split("/")[-1] if file_path else ""
         indexed = indexed_map.get(filename) or indexed_map.get(Path(filename).name) or indexed_map.get(file_path)
+        uploader_id = str(row.get("uploaded_by") or "").strip()
+        uploader = user_directory.get(uploader_id, {}) if uploader_id else {}
+        uploader_name = str(uploader.get("name") or "").strip() or None
+        uploader_email = str(uploader.get("email") or "").strip() or None
+        uploader_display = str(uploader.get("display") or "").strip() or uploader_name or uploader_email or uploader_id or None
         documents.append(
             {
                 "id": str(row.get("id")),
@@ -1688,7 +2010,10 @@ def get_admin_documents() -> List[Dict[str, Any]]:
                 "abstract": row.get("abstract"),
                 "file_path": file_path,
                 "created_at": row.get("created_at"),
-                "uploaded_by": row.get("uploaded_by"),
+                "uploaded_by": uploader_id or None,
+                "uploaded_by_name": uploader_name,
+                "uploaded_by_email": uploader_email,
+                "uploaded_by_display": uploader_display,
                 "indexed": bool(indexed),
                 "pages": indexed.get("pages") if indexed else None,
                 "chunks": indexed.get("chunks") if indexed else None,
@@ -1955,6 +2280,36 @@ def get_recent_ingest_jobs(limit: int = 15) -> List[Dict[str, Any]]:
     ]
 
 
+def get_recent_admin_activity(limit: int = 20) -> List[Dict[str, Any]]:
+    safe_limit = max(1, limit)
+    try:
+        client = _get_supabase_client()
+        response = (
+            client.table("recent_activity")
+            .select("job_id, status, message, title, created_at, source")
+            .eq("activity_type", "admin_action")
+            .order("created_at", desc=True)
+            .limit(safe_limit)
+            .execute()
+        )
+        rows = (response.data or []) if hasattr(response, "data") else []
+        if isinstance(rows, list):
+            return [
+                {
+                    "activityId": row.get("job_id"),
+                    "action": row.get("title") or "admin-action",
+                    "status": row.get("status") or "info",
+                    "message": row.get("message") or "",
+                    "actor": row.get("source"),
+                    "createdAt": row.get("created_at"),
+                }
+                for row in rows
+            ]
+    except Exception as exc:
+        logger.debug("Could not load admin activity log: %s", exc)
+    return []
+
+
 def clear_recent_ingest_jobs() -> Dict[str, Any]:
     global _ingest_jobs
     try:
@@ -1964,3 +2319,4 @@ def clear_recent_ingest_jobs() -> Dict[str, Any]:
         logger.debug("Could not clear persistent recent activity: %s", exc)
     _ingest_jobs = {}
     return {"success": True, "message": "Recent ingest activity cleared."}
+

@@ -35,6 +35,8 @@ from .schemas import (
     AdminActionResponse,
     AdminPromoteRequest,
     AdminIngestJobsResponse,
+    AdminAuditLogResponse,
+    AdminInviteListResponse,
 )
 from . import services
 from .download_tokens import get_download_path
@@ -258,8 +260,86 @@ async def reindex_admin_document(document_id: str, request: Request):
 @app.post("/api/admin/members/promote", response_model=AdminActionResponse)
 async def promote_member_to_admin(payload: AdminPromoteRequest, request: Request):
     try:
+        admin_user = services.require_admin_user(request.headers.get("Authorization"))
+        result = services.promote_user_to_admin(payload.email, admin_user.get("email"))
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/admin/members/invite", response_model=AdminActionResponse)
+async def invite_member_to_admin(payload: AdminPromoteRequest, request: Request):
+    try:
+        admin_user = services.require_admin_user(request.headers.get("Authorization"))
+        result = services.invite_user_to_admin(payload.email, admin_user.get("email"))
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/admin/members/revoke", response_model=AdminActionResponse)
+async def revoke_member_from_admin(payload: AdminPromoteRequest, request: Request):
+    try:
+        admin_user = services.require_admin_user(request.headers.get("Authorization"))
+        result = services.revoke_user_admin(payload.email, admin_user.get("email"))
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/admin/audit-log", response_model=AdminAuditLogResponse)
+async def list_admin_audit_log(request: Request, limit: int = 20):
+    try:
         services.require_admin_user(request.headers.get("Authorization"))
-        result = services.promote_user_to_admin(payload.email)
+        return AdminAuditLogResponse(entries=services.get_recent_admin_activity(limit=limit))
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/admin/members/invites", response_model=AdminInviteListResponse)
+async def list_admin_invites(request: Request, limit: int = 25):
+    try:
+        services.require_admin_user(request.headers.get("Authorization"))
+        return AdminInviteListResponse(invites=services.list_pending_admin_invites(limit=limit))
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/admin/members/invites/resend", response_model=AdminActionResponse)
+async def resend_admin_invite(payload: AdminPromoteRequest, request: Request):
+    try:
+        admin_user = services.require_admin_user(request.headers.get("Authorization"))
+        result = services.resend_admin_invite(payload.email, admin_user.get("email"))
+        return AdminActionResponse(**result)
+    except PermissionError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.delete("/api/admin/members/invites", response_model=AdminActionResponse)
+async def cancel_admin_invite(payload: AdminPromoteRequest, request: Request):
+    try:
+        admin_user = services.require_admin_user(request.headers.get("Authorization"))
+        result = services.cancel_admin_invite(payload.email, admin_user.get("email"))
         return AdminActionResponse(**result)
     except PermissionError as e:
         raise HTTPException(status_code=403, detail=str(e))

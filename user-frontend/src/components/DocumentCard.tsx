@@ -40,6 +40,9 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onTogg
   const [citationFormat, setCitationFormat] = useState<CitationFormat>("plain");
   const metadata = [
     doc.author ? `Author: ${doc.author}` : null,
+    doc.department ? `Department: ${doc.department}` : null,
+    doc.supervisor ? `Supervisor: ${doc.supervisor}` : null,
+    doc.level ? `${doc.level === "postgrad" ? "Postgraduate" : "Undergraduate"}` : null,
     doc.year ? `Year: ${doc.year}` : null
   ].filter(Boolean);
   const activeCitation = buildCitationByFormat(citationFormat, doc);
@@ -51,6 +54,12 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onTogg
     displayAbstract = parts[0];
     extractedKeywords = parts[1].split(/[,;\n]/).map((k) => k.trim()).filter(Boolean);
   }
+
+  const themeKeywords = [...(doc.keywords ?? []), ...extractedKeywords]
+    .map((item) => item.trim())
+    .filter(Boolean)
+    .filter((item, index, arr) => arr.findIndex((value) => value.toLowerCase() === item.toLowerCase()) === index)
+    .slice(0, 6);
 
   useEffect(() => {
     if (!citationStatus) return;
@@ -97,13 +106,16 @@ export function DocumentCard({ doc, onFindSimilar, onDownload, onPreview, onTogg
       </div>
 
       <p>{highlightText(displayAbstract, searchQuery)}</p>
-      {extractedKeywords.length > 0 ? (
-        <div className="doc-keywords-grid" style={{ marginTop: '0', marginBottom: '16px', display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
-          {extractedKeywords.map(kw => (
-            <span key={kw} style={{ background: 'var(--surface-color, #f1f3f5)', border: '1px solid var(--border-color, #e9ecef)', borderRadius: '12px', padding: '2px 8px', fontSize: '11px', fontWeight: 500, color: 'var(--text-color, #495057)' }}>
-              {kw}
-            </span>
-          ))}
+      {themeKeywords.length > 0 ? (
+        <div className="doc-theme-section">
+          <div className="doc-theme-label">Research themes</div>
+          <div className="doc-keywords-grid doc-theme-grid">
+            {themeKeywords.map((kw) => (
+              <span key={kw} className="doc-theme-pill">
+                {kw}
+              </span>
+            ))}
+          </div>
         </div>
       ) : null}
 

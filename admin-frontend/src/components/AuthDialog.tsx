@@ -5,13 +5,15 @@ import { isSupabaseConfigured, supabase } from "../lib/supabase";
 type Props = {
   open: boolean;
   initialMode?: "signin" | "signup" | "reset";
+  initialEmail?: string;
   onClose: () => void;
+  onAuthenticated?: () => void;
 };
 
-export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
+export function AuthDialog({ open, initialMode = "signin", initialEmail = "", onClose, onAuthenticated }: Props) {
   const [mode, setMode] = useState<"signin" | "signup" | "reset">(initialMode);
   const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState(initialEmail);
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -24,8 +26,9 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
       setMode(initialMode);
       setError(null);
       setNotice(null);
+      setEmail(initialEmail);
     }
-  }, [open, initialMode]);
+  }, [open, initialMode, initialEmail]);
 
   useEffect(() => {
     if (cooldownSeconds <= 0) return;
@@ -55,6 +58,15 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
 
   function normalizeName(value: string) {
     return value.replace(/\s+/g, " ").trim();
+  }
+
+  function getInviteRedirectUrl() {
+    const url = new URL("/login", window.location.origin);
+    url.searchParams.set("mode", "signup");
+    if (initialEmail) {
+      url.searchParams.set("email", initialEmail);
+    }
+    return url.toString();
   }
 
   async function onSubmit(e: FormEvent) {
@@ -92,6 +104,7 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
           email: cleanEmail,
           password,
           options: {
+            emailRedirectTo: getInviteRedirectUrl(),
             data: {
               full_name: cleanName,
               name: cleanName,
@@ -102,17 +115,19 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
 
         if (data.session?.access_token) {
           setAuthToken(data.session.access_token);
+          onAuthenticated?.();
           onClose();
           return;
         }
 
-        setNotice("Check your email to confirm your account, then sign in.");
+        setNotice("Check your email to confirm your account, then finish setup and sign in.");
         setCooldownSeconds(60);
       } else {
         const { data, error: signInError } = await supabase.auth.signInWithPassword({ email: cleanEmail, password });
         if (signInError) throw signInError;
         if (data.session?.access_token) {
           setAuthToken(data.session.access_token);
+          onAuthenticated?.();
         }
         onClose();
       }
@@ -199,20 +214,20 @@ export function AuthDialog({ open, initialMode = "signin", onClose }: Props) {
 
         <div className="auth-switch">
           {mode === "signin" ? (
-            <>
-              <button type="button" className="link-button" onClick={() => setMode("reset")}>
+            <div className="auth-switch-row">
+              <button type="button" className="link-button auth-switch-button" onClick={() => setMode("reset")}>
                 Forgot password?
               </button>
-              <button type="button" className="link-button" onClick={() => setMode("signup")}>
+              <button type="button" className="link-button auth-switch-button" onClick={() => setMode("signup")}>
                 New user? Sign up
               </button>
-            </>
+            </div>
           ) : mode === "signup" ? (
-            <button type="button" className="link-button" onClick={() => setMode("signin")}>
+            <button type="button" className="link-button auth-switch-button auth-switch-single" onClick={() => setMode("signin")}>
               Already have an account? Sign in
             </button>
           ) : (
-            <button type="button" className="link-button" onClick={() => setMode("signin")}>
+            <button type="button" className="link-button auth-switch-button auth-switch-single" onClick={() => setMode("signin")}>
               Back to sign in
             </button>
           )}

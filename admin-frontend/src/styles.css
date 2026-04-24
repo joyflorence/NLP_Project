@@ -2074,3 +2074,812 @@ button[type="submit"] {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+
+/* Admin header account menu */
+.account-chip-shell {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.account-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 44px;
+  padding: 0.35rem 0.5rem 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.26);
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.account-chip:hover {
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.account-chip-avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.16);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.82rem;
+}
+
+.account-chip-caret {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: transform 0.18s ease;
+}
+
+.account-chip-caret.is-open {
+  transform: rotate(180deg);
+}
+
+.account-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  right: 0;
+  min-width: 220px;
+  display: grid;
+  gap: 0.55rem;
+  padding: 0.75rem;
+  border-radius: 16px;
+  border: 1px solid #d8e2f2;
+  background: #ffffff;
+  color: #1f2937;
+  box-shadow: 0 16px 30px rgba(15, 23, 42, 0.16);
+  z-index: 30;
+}
+
+.account-role-pill {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  min-height: 26px;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: #eef4fb;
+  color: #3a5874;
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.account-menu-email {
+  color: #425466;
+  font-size: 0.86rem;
+  word-break: break-word;
+}
+
+.account-dropdown-action {
+  min-height: 40px;
+  border-radius: 12px;
+  border: 1px solid #d6e1ec;
+  background: #f8fbff;
+  color: #17324d;
+  font-weight: 700;
+}
+
+.account-dropdown-action:hover {
+  background: #eef5ff;
+}
+
+/* Auth dialog polish */
+.auth-dialog {
+  width: min(440px, 100%);
+  background: #fff;
+  border-radius: 16px;
+  border: 1px solid #d8e2f2;
+  padding: 1.1rem 1.1rem 1rem;
+  box-shadow: 0 20px 36px rgba(15, 23, 42, 0.18);
+}
+
+.auth-dialog header {
+  margin-bottom: 0.75rem;
+}
+
+.auth-dialog form {
+  gap: 0.9rem;
+}
+
+.auth-dialog label {
+  display: grid;
+  gap: 0.4rem;
+  color: #30425b;
+  font-weight: 600;
+}
+
+.auth-dialog input {
+  border-radius: 14px;
+  border: 1px solid #d5dfeb;
+  background: #fbfdff;
+}
+
+.auth-password-row {
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.5rem;
+}
+
+.auth-password-input {
+  min-height: 44px;
+}
+
+.auth-password-toggle {
+  min-height: 44px;
+  min-width: 48px;
+  border-radius: 12px;
+  border: 1px solid #d0dbea;
+  background: #f8fbff;
+  color: #16446a;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-password-toggle:hover {
+  background: #eef5ff;
+}
+
+.auth-password-icon {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.auth-switch {
+  margin-top: 0.6rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.auth-switch-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.auth-switch-button {
+  min-height: 42px;
+  border-radius: 12px;
+  border: 1px solid #d7e2ef;
+  background: #f8fbff;
+  color: #17324d;
+  font-weight: 700;
+}
+
+.auth-switch-button:hover {
+  background: #eef5ff;
+}
+
+.auth-switch-single {
+  width: 100%;
+}
+
+.link-button {
+  text-align: center;
+}
+
+@media (max-width: 520px) {
+  .auth-switch-row {
+    grid-template-columns: 1fr;
+  }
+
+  .account-dropdown-menu {
+    min-width: 180px;
+    right: 0;
+  }
+}
+
+/* Upload review cards */
+.ingestion-review-panel {
+  display: grid;
+  gap: 0.95rem;
+  margin-top: 0.4rem;
+  padding: 1rem;
+  border: 1px solid #dbe6f1;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #fbfdff 0%, #f4f8fc 100%);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.05);
+}
+
+.ingestion-review-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.ingestion-review-header strong {
+  display: block;
+  color: #102a43;
+  font-size: 1.02rem;
+}
+
+.ingestion-review-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.ingestion-review-card {
+  display: grid;
+  gap: 0.85rem;
+  padding: 1rem;
+  border: 1px solid #dce7f2;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.04);
+}
+
+.ingestion-review-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.ingestion-review-card-top strong {
+  color: #17324d;
+  word-break: break-word;
+}
+
+.ingestion-review-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: #e8f7ee;
+  color: #11653a;
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.ingestion-review-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem 1rem;
+}
+
+.ingestion-review-grid label {
+  display: grid;
+  gap: 0.35rem;
+  color: #465a6e;
+  font-size: 0.9rem;
+}
+
+.ingestion-review-grid input,
+.ingestion-review-grid select {
+  border-radius: 12px;
+  border: 1px solid #d4deea;
+  background: #fbfdff;
+  min-height: 42px;
+}
+
+.ingestion-review-grid .metadata-full {
+  grid-column: 1 / -1;
+}
+
+.ingestion-review-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.ingestion-review-actions .secondary-button {
+  min-height: 42px;
+  border-radius: 12px;
+  border: 1px solid #d0dbea;
+  background: #f8fbff;
+  color: #17324d;
+  font-weight: 700;
+}
+
+.ingestion-review-actions .secondary-button:hover {
+  background: #eef5ff;
+}
+
+@media (max-width: 700px) {
+  .ingestion-review-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Admin member form */
+.admin-member-panel {
+  padding-bottom: 1rem;
+}
+
+.admin-member-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.9rem;
+  align-items: end;
+}
+
+.admin-member-field {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.admin-member-field label {
+  font-weight: 700;
+  color: #17324d;
+}
+
+.admin-member-input {
+  width: 100%;
+  min-height: 44px;
+  border-radius: 12px;
+  border: 1px solid #d4deea;
+  background: #fbfdff;
+}
+
+.admin-member-help {
+  margin: 0;
+  font-size: 0.86rem;
+}
+
+.admin-member-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.admin-member-submit {
+  min-height: 44px;
+  padding: 0 1rem;
+  border-radius: 12px;
+}
+
+.admin-member-message {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 14px;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.admin-member-message.success {
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+}
+
+.admin-member-message.error {
+  background: #fef2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+
+@media (max-width: 700px) {
+  .admin-member-form {
+    grid-template-columns: 1fr;
+  }
+
+  .admin-member-actions {
+    justify-content: stretch;
+  }
+
+  .admin-member-submit {
+    width: 100%;
+  }
+}
+
+/* Admin shell and audit log polish */
+.account-chip {
+  gap: 0.7rem;
+}
+
+.account-chip-avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  flex: 0 0 auto;
+}
+
+.account-chip-avatar .icon-user {
+  width: 1rem;
+  height: 1rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.admin-member-form {
+  grid-template-columns: minmax(0, 1fr) 240px;
+  align-items: end;
+}
+
+.admin-member-actions {
+  display: grid;
+  gap: 0.5rem;
+  align-content: end;
+  padding: 0.9rem;
+  border-radius: 18px;
+  border: 1px solid #dbe5f0;
+  background: linear-gradient(180deg, rgba(248, 251, 255, 0.96), rgba(240, 246, 253, 0.95));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+.admin-member-actions label {
+  font-weight: 700;
+  color: #17324d;
+}
+
+.admin-member-action-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 0.75rem;
+  align-items: stretch;
+}
+
+.admin-member-select {
+  width: 100%;
+  min-height: 44px;
+  border-radius: 12px;
+  border: 1px solid #d4deea;
+  background: #fbfdff;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.85);
+}
+
+.admin-member-submit {
+  width: 100%;
+  min-height: 44px;
+  border-radius: 12px;
+  padding-inline: 1rem;
+  align-self: stretch;
+  justify-content: center;
+  box-shadow: 0 10px 22px rgba(42, 77, 117, 0.18);
+}
+
+.admin-audit-panel {
+  overflow: hidden;
+}
+
+.admin-audit-header {
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.admin-audit-header p {
+  max-width: 56rem;
+}
+
+.admin-audit-refresh {
+  min-width: 120px;
+  align-self: center;
+}
+
+.admin-audit-content {
+  padding: 0 1.5rem 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.admin-audit-empty {
+  display: grid;
+  gap: 0.25rem;
+  padding: 1rem 1.1rem;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #f7fbff, #f2f7fd);
+  border: 1px solid #d6e1ef;
+  color: #36526f;
+}
+
+.admin-audit-list {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.admin-audit-item {
+  display: grid;
+  gap: 0.65rem;
+  padding: 1rem 1.05rem;
+  border-radius: 16px;
+  background: #ffffff;
+  border: 1px solid #d7e1ed;
+  box-shadow: 0 12px 30px rgba(18, 45, 74, 0.06);
+}
+
+.admin-audit-item-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.admin-audit-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.admin-audit-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.admin-audit-status.is-success {
+  background: #eefbf2;
+  color: #177245;
+}
+
+.admin-audit-status.is-danger {
+  background: #fff0f0;
+  color: #ad1f1f;
+}
+
+.admin-audit-status.is-neutral {
+  background: #eef4fb;
+  color: #395f86;
+}
+
+.admin-audit-time {
+  color: #6a7f95;
+  font-size: 0.88rem;
+}
+
+.admin-audit-message {
+  margin: 0;
+  color: #17324d;
+  line-height: 1.5;
+}
+
+.admin-audit-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  color: #6a7f95;
+  font-size: 0.86rem;
+}
+
+.admin-audit-id {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.admin-invite-panel {
+  overflow: hidden;
+}
+
+.admin-invite-body {
+  padding: 0 1.5rem 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.admin-invite-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.admin-invite-card {
+  display: grid;
+  gap: 0.9rem;
+  padding: 1rem 1.05rem;
+  border-radius: 16px;
+  border: 1px solid #d7e1ed;
+  background: linear-gradient(180deg, #ffffff, #f8fbff);
+  box-shadow: 0 12px 30px rgba(18, 45, 74, 0.06);
+}
+
+.admin-invite-card-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.admin-invite-card-top p {
+  margin: 0.25rem 0 0;
+  color: #5d7187;
+}
+
+.admin-invite-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: #eef5ff;
+  color: #2f5f96;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.admin-invite-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  color: #6a7f95;
+  font-size: 0.86rem;
+}
+
+.admin-invite-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.admin-invite-actions .secondary-button {
+  min-height: 42px;
+  border-radius: 12px;
+  border: 1px solid #d0dbea;
+  background: #f8fbff;
+  color: #17324d;
+  font-weight: 700;
+}
+
+.admin-invite-actions .secondary-button.danger {
+  border-color: #f2c5c5;
+  background: #fff7f7;
+  color: #a11e1e;
+}
+
+.admin-invite-actions .secondary-button:hover {
+  background: #eef5ff;
+}
+
+.admin-invite-actions .secondary-button.danger:hover {
+  background: #ffecec;
+}
+
+.invite-complete-shell {
+  display: flex;
+  justify-content: center;
+  padding: 2.25rem 1.5rem 3rem;
+}
+
+.invite-complete-card {
+  width: min(760px, 100%);
+  padding: 1.5rem;
+  border-radius: 24px;
+  background: linear-gradient(180deg, #ffffff, #f7fbff);
+  border: 1px solid #d7e1ed;
+  box-shadow: 0 22px 50px rgba(18, 45, 74, 0.1);
+  display: grid;
+  gap: 1.25rem;
+}
+
+.invite-complete-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.invite-complete-header h1 {
+  margin: 0.2rem 0 0.5rem;
+}
+
+.invite-complete-header p {
+  margin: 0;
+  max-width: 56rem;
+  color: #4f6378;
+  line-height: 1.55;
+}
+
+.invite-complete-kicker {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: #3f6b95;
+}
+
+.invite-complete-home {
+  min-width: 150px;
+  align-self: center;
+}
+
+.invite-complete-form {
+  display: grid;
+  gap: 1rem;
+}
+
+.invite-complete-form label {
+  display: grid;
+  gap: 0.45rem;
+  color: #17324d;
+  font-weight: 700;
+}
+
+.invite-complete-form input {
+  min-height: 46px;
+  border-radius: 12px;
+  border: 1px solid #d4deea;
+  background: #fbfdff;
+}
+
+.invite-password-row {
+  margin-top: 0.1rem;
+}
+
+.invite-complete-submit {
+  min-height: 48px;
+  border-radius: 14px;
+  justify-content: center;
+}
+
+.invite-complete-note,
+.invite-complete-error {
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .admin-member-form {
+    grid-template-columns: 1fr;
+  }
+
+  .admin-member-actions {
+    justify-content: stretch;
+  }
+
+  .admin-member-action-row {
+    grid-template-columns: 1fr;
+  }
+
+  .admin-member-submit,
+  .admin-member-select {
+    width: 100%;
+  }
+
+  .admin-audit-header {
+    align-items: stretch;
+  }
+
+  .admin-audit-refresh {
+    width: 100%;
+  }
+
+  .admin-invite-actions {
+    flex-direction: column;
+  }
+
+  .admin-invite-actions .secondary-button {
+    width: 100%;
+  }
+
+  .invite-complete-card {
+    padding: 1.15rem;
+  }
+
+  .invite-complete-home {
+    width: 100%;
+  }
+}
+

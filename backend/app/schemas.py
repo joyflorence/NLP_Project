@@ -147,6 +147,10 @@ class AdminDocument(BaseModel):
     indexed: bool = False
     pages: Optional[int] = None
     chunks: Optional[int] = None
+    uploaded_by: Optional[str] = None
+    uploaded_by_name: Optional[str] = None
+    uploaded_by_email: Optional[str] = None
+    uploaded_by_display: Optional[str] = None
 
 
 class AdminDocumentsResponse(BaseModel):
@@ -172,6 +176,33 @@ class AdminPromoteRequest(BaseModel):
     email: str
 
 
+class AdminAuditLogEntry(BaseModel):
+    activityId: str
+    action: str
+    status: str
+    message: str
+    actor: Optional[str] = None
+    createdAt: Optional[str] = None
+
+
+class AdminAuditLogResponse(BaseModel):
+    entries: List[AdminAuditLogEntry]
+
+
+class AdminInviteEntry(BaseModel):
+    userId: str
+    email: str
+    displayName: str
+    status: str
+    invitedAt: Optional[str] = None
+    createdAt: Optional[str] = None
+    lastSignInAt: Optional[str] = None
+
+
+class AdminInviteListResponse(BaseModel):
+    invites: List[AdminInviteEntry]
+
+
 class AdminIngestJobSummary(BaseModel):
     jobId: str
     status: str
@@ -187,3 +218,4 @@ class AdminIngestJobSummary(BaseModel):
 
 class AdminIngestJobsResponse(BaseModel):
     jobs: List[AdminIngestJobSummary]
+
